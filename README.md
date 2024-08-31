@@ -52,3 +52,31 @@ media/
 │       ├── screenshot_[n]_lower.jpg                 # Lower screen
 │       └── screenshot_[n]_upper.jpg                 # Upper screen
 ```
+
+
+Json Structure :
+```
+"id": ""
+"nid": ""
+"name": ""
+"product_code": ""
+"region": ""
+"platform": {"device": "", "name": ""}
+"publisher": ""
+"genre": ""
+"rating": {"system": "", "rating": "", "age": ""}
+"keywords": [""]
+"descriptors": [""]
+"releases_dates": {"eshop": "", "retail": ""}
+"formal_name": ""
+"description": ""
+"movies_id": [""]
+"disclaimer": ""
+"genres": [""]
+"features": [""]
+"languages": [{"iso_code": "", "name": ""}]
+"number_of_players": ""
+"copyright": ""
+"catch_copy": ""
+"websites": [{"name": "", "url": "", "official" false}]
+```
