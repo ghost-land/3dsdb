@@ -1,0 +1,51 @@
+{
+    "id": "000480044B323245",
+    "name": "California Super Sports",
+    "product_code": "TWL-N-K22E",
+    "region": "US",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo DSiWare"
+    },
+    "publisher": "Cypronia",
+    "genre": "Sports / Racing",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": 6
+    },
+    "keywords": ["Sports", "Racing", "DSiWare"],
+    "release_dates": {
+      "eshop": "2013-05-16",
+      "retail": "TBD"
+    },
+    "formal_name": "California Super Sports",
+    "description": "California Super Sports is a collection of six unique games that are popular in the U.S., Croquet, Dodgeball, Lawndarts, Rollerblade, Shuffleboard Arcade and Target Football. It’s located in sunny California, offering lots of fun and various experiences with a mixture of action, racing, and tactical games. <br><br> 6 unique sports games popular in America<br> 3D graphics<br> 8 cool chibi characters<br> Different difficulty levels of AI<br> Smooth gameplay<br> Entertainment for many hours<br> Play against 1 to 3 CPU opponents",
+    "genres": [
+      "Sports",
+      "Action",
+      "Racing",
+      "Other"
+    ],
+    "languages": [
+      {
+        "iso_code": "en",
+        "name": "English"
+      }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2013 Cypronia",
+    "websites": [
+      {
+        "name": "California Super Sports Website",
+        "url": "http://www.cypronia.com/california/",
+        "official": false
+      },
+      {
+        "name": "Cypronia Support Website",
+        "url": "http://www.cypronia.com/support/",
+        "official": false
+      }
+    ]
+  }
+  
