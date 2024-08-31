@@ -57,6 +57,8 @@ media/
   "product_code": "",  # The product code assigned by Nintendo, usually starts with "CTR" for 3DS.
                        # Example: "CTR-P-AYWZ"
 
+  "region": "", #Example: "AU" AU for australia
+
   "platform": {
     "device": "",  # The device identifier, typically "CTR" for Nintendo 3DS.
                    # Example: "CTR"
