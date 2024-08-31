@@ -10,7 +10,8 @@
     "publisher": "Nintendo",
     "genre": "Adventure/RPG",
     "rating": {
-        "name": "PG",
+        "system": "PG",
+        "rating": "8",
         "age": 8
     },
     "descriptors": ["Mild violence", "Online interactivity"],

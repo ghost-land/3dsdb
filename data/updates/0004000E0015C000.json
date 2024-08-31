@@ -1,0 +1,48 @@
+{
+    "id": "0004000E0015C000",
+    "name": "ACE COMBAT ASSAULT HORIZON LEGACY+ Update",
+    "product_code": "CTR-U-BCRE",
+    "region": "AU",
+    "platform": {
+        "device": "CTR",
+        "name": "Software Update"
+    },
+    "publisher": "BANDAI NAMCO Entertainment",
+    "genre": "Update",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": 13
+    },
+    "descriptors": ["Mild Language", "Violence"],
+    "keywords": ["BANDAI NAMCO Games America"],
+    "release_dates": {
+      "eshop": "2015-09-24",
+      "retail": "TBD"
+    },
+    "formal_name": "ACE COMBAT ASSAULT HORIZON LEGACY+ Update Ver. 2.1.0",
+    "description": "Added amiibo support. <br><br> Using the appropriate amiibo will unlock that amiibo’s aircraft and additional equipment (a cockpit item).",
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately. ",
+    "genres": [
+      "Updates"
+    ],
+    "features": [
+      "Displays 3D Visuals"
+    ],
+    "languages": [
+      {
+        "iso_code": "en",
+        "name": "English"
+      },
+      {
+        "iso_code": "es",
+        "name": "Spanish"
+      },
+      {
+        "iso_code": "fr",
+        "name": "French"
+      }
+    ],
+    "copyright": "ACE COMBAT® ASSAULT HORIZON LEGACY + & ©2015 BANDAI NAMCO Games Inc. ©JAPAN SPACE IMAGING CORPORATION ©DigitalGlobe, Inc., All Rights Reserved. ©Nintendo <br><br> All trademarks and copyrights associated with the manufacturers, aircraft, models, trade names, brands and visual images depicted in this game are the property of their respective owners, and used with such permissions."
+  }
+  
