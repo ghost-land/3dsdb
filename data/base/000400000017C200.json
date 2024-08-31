@@ -1,0 +1,42 @@
+{
+    "id": "000400000017C200",
+    "name": "YO-KAI WATCH™",
+    "product_code": "CTR-P-AYWZ",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Card/Download)"
+    },
+    "publisher": "Nintendo",
+    "genre": "Adventure/RPG",
+    "rating": {
+        "name": "PG",
+        "age": 8
+    },
+    "descriptors": ["Mild violence", "Online interactivity"],
+    "release_dates": {
+      "eshop": "2015-12-05",
+      "retail": "TBD"
+    },
+    "formal_name": "YO-KAI WATCH™",
+    "description": "Experience the international sensation of YO-KAI WATCH! YO-KAI WATCH is about hundreds of sometimes cute, sometimes spooky, and usually mischievous Yo-kai that inhabit our world. But what is a Yo-kai anyway? Is it a spirit? A monster? A ghost? Nope - a Yo-kai is... well, it's just a YO-KAI! They cannot be seen by the human eye, but they are responsible for your daily troubles! As you explore the world, use your Yo-kai Watch to find them, befriend them, and turn them into a team to battle other Yo-kai. Every Yo-kai has a unique personality and abilities, so it will take strategy to form the right team and gain the upper hand against troublesome Yo-kai. Learn more at nintendo.com.au/yo-kai-watch",
+    "genres": [
+      "Adventure",
+      "RPG"
+    ],
+    "features": [
+      "Displays 3D Visuals",
+      "Supports Local Play",
+      "Supports StreetPass",
+      "Supports SpotPass",
+      "Nintendo Network"
+    ],
+    "languages": [
+      {
+        "iso_code": "en",
+        "name": "English"
+      }
+    ],
+    "number_of_players": "1 – 2 players (Supports 2 Players via Local Play)",
+    "copyright": "© LEVEL-5 Inc."
+  }
+  
