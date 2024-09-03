@@ -1,9 +1,51 @@
-[
-    {
-        "tid": "0004000000030300",
-        "name": "",
-        "product_code": "CTR-P-ASDJ",
-        "region": "jp",
-        "version": "v0.0.0"
-    }
-]
+{
+    "tid": "0004000000030300",
+    "name": "スティールダイバー",
+    "product_code": "CTR-P-ASDJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000000221",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSカードソフト"
+    },
+    "publisher": "任天堂",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "潜水艦",
+        "本体を動かす・傾ける"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "",
+        "retail": "2011-05-12"
+    },
+    "formal_name": "スティールダイバー",
+    "description": "潜水艦がテーマの異なる3つのモードが入っています。\n<br>●潜水艦モード\n<br>3種類の潜水艦を操作して、与えられたミッションを遂行する3Dの横スクロールアクション。\n<br>●潜望鏡モード\n<br>本体を潜望鏡に見立てて敵艦を探索する、魚雷シューティング。\n<br>●海戦モード\n<br>人との対戦も可能なターン制の戦略シミュレーション。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "シューティング",
+        "シミュレーション"
+    ],
+    "features": [
+        "3D映像対応",
+        "ダウンロードプレイ対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人\nダウンロードプレイは2人まで",
+    "copyright": "©2011 Nintendo",
+    "catch_copy": "潜水艦を操って、3D海戦に挑む。",
+    "websites": []
+}
