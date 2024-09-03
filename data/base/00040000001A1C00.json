@@ -1,0 +1,50 @@
+{
+    "tid": "00040000001A1C00",
+    "name": "SmileBASIC",
+    "product_code": "CTR-N-JPKP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000042241",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "SmileBoom",
+    "genre": "Education",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-08-17",
+        "retail": ""
+    },
+    "formal_name": "SmileBASIC",
+    "description": "Offers in-game purchases\n<br>\n<br>SmileBASIC is a portable version of a programming language known as BASIC. BASIC is a programming language designed to help beginners learn to program. As soon as you start SmileBASIC, you can begin programming! When you're finished, you can play the game you made! Enjoy intuitive, trouble-free programming. A Range of Versatile Instructions: Pictures and words that “pop out” from the screen! Information obtained from various different sensors. Voice input and playback via the microphone. Versus play using local wireless communication. Draw instructions for lines and circles, filling, and more. Music composition using MML. Useful Tools: SMILE Tool (for checking SE and character numbers). Paint Tool (for drawing characters and background images). Animation Tool (for creating flipbook animations). Mapping Tool (for arranging tiles to create maps). Waveform Tool (for sampling and creating waveforms).\n<br>Rich Sample Library: Characters and background images that can be used in a variety of contexts.\n<br>Over 100 sound effects and 40 BGM tunes. Simple programs for helping to learn BASIC. Technical samples that allow the user to check the execution results for each instruction. Game samples created using advanced techniques.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>In-game content available for purchase using stored account funds.",
+    "genres": [
+        "Education"
+    ],
+    "features": [
+        "Supports Internet Play",
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Supports SpotPass",
+        "Nintendo Network",
+        "Circle Pad Pro"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 – 4 players",
+    "copyright": "© 2014 - 2015 SmileBoom Co.Ltd.\n<br>Misaki Gothic © 2002 - 2015 Num Kadoma",
+    "catch_copy": "",
+    "websites": []
+}

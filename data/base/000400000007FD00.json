@@ -1,0 +1,52 @@
+{
+    "tid": "000400000007FD00",
+    "name": "VVVVVV",
+    "product_code": "CTR-N-JVVE",
+    "region": "na",
+    "version": "v2.2.0",
+    "nid": "50010000008584",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nicalis",
+    "genre": "Action / Arcade",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [
+        "Captain Viridian",
+        "3D games",
+        "Nicalis",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2011-12-29",
+        "retail": ""
+    },
+    "formal_name": "VVVVVV",
+    "description": "There's something terribly wrong in an alternate dimension! Help Captain Viridian flip to find five crew members, 20 hard-to-reach Trinkets and save a dimension on the brink of destruction. It's a space opera in the most unique scale with a style that only VVVVVV can bring to you. Instead of jumping, control the direction of gravity by inverting your gravity and allowing Captain Viridian to flip between the floors and ceilings of the environments.\n<br><br>\nFor adventurers who save the dimension, there's still hours and hours of new gameplay with all-new Player Levels. Test your mettle and see if you have what it takes to beat a collection of levels created by other famous game developers. Inspired by classic 8-bit games of days gone-by and now with experience-heightening 3D, VVVVVV will challenge even the most battle-hardened old-school gamers.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action",
+        "Arcade",
+        "Platformer"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2011, 2012 Terry Cavanagh<br>\nLicensed to and Published by Nicalis",
+    "catch_copy": "",
+    "websites": []
+}

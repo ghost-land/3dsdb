@@ -1,0 +1,52 @@
+{
+    "tid": "000400000014C900",
+    "name": "Battleminer",
+    "product_code": "CTR-N-KBME",
+    "region": "na",
+    "version": "v2.2.0",
+    "nid": "50010000028075",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Wobbly Tooth",
+    "genre": "First Person / Action / Adventure",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [
+        "Wobbly Tooth",
+        "3D games",
+        "Shooter",
+        "Demo"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-11-20",
+        "retail": ""
+    },
+    "formal_name": "Battleminer",
+    "description": "Updated: Now with multiplayer! Local Play and Internet with Friends.\n<br><br>\nBattleminer is an open-world block game set in a world where giant, mutant Ants have taken over. Your mission is to rescue Survivors that are hostage to the Ants.\n<br><br>\nA rescued Survivor will reward you with items or teach you the ability to craft new items yourself.\n<br><br>\nWhile exploring the world you can mine for resources such as wood, copper, zinc and other materials to craft items to help you survive.\n<br><br>\nAs you progress you will encounter many different types of Ants, each with their own challenges for the player.\n<br><br>\nThere is also a Creative Mode where you can build your own structures and share screenshots of them via Miiverse™.\n<br><br>\nThe game features the first procedural voxel world with an infinite map size on the Nintendo 3DS™.\n<br><br>\nBattleminer supports Stereoscopic 3D and has a dynamic night and day cycle.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "First-Person Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© Wobbly Tooth Ltd 2014. All Rights Reserved.",
+    "catch_copy": "",
+    "websites": []
+}

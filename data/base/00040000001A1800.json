@@ -1,0 +1,49 @@
+{
+    "tid": "00040000001A1800",
+    "name": "Collide-a-Ball",
+    "product_code": "CTR-N-KDEE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000041582",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "STARSIGN",
+    "genre": "Puzzle / Action",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Starsign",
+        "3D"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-09-15",
+        "retail": ""
+    },
+    "formal_name": "Collide-a-Ball",
+    "description": "Set up a course to make two balls meet at the same place and time in this unique puzzle game. \n<br>A red and blue ball start from different places in the stage. Position and rotate objects such as slopes and acceleration panels to prepare the path for the balls to travel so they meet at the goal flag at the same time. Once you've set the scene hit Start to trigger the two balls rolling. Can you make the two balls collide at the goal flag at the same time?\n<br>Collide-a-Ball includes three games modes: Free Play, Wait and Go! and Single Ball\n<br>\n<br>Free Play\n<br>Position objects to make the two balls meet at the goal flag at the same time.\n<br>\n<br>Wait and Go !\n<br>Judge the time delay needed between two balls to make them meet at the goal flag at the same time.\n<br>\n<br>Single Ball\n<br>Position objects around the stage to make one ball stop exactly on the goal flag.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle",
+        "Action"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2016 Starsign Inc.",
+    "catch_copy": "",
+    "websites": []
+}

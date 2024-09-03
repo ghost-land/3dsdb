@@ -1,0 +1,40 @@
+{
+    "tid": "0004000000169000",
+    "name": "PAZURU(日文版)",
+    "product_code": "CTR-N-KPZY",
+    "region": "tw",
+    "version": "v0.0.0",
+    "nid": "50010000031935",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS 下載"
+    },
+    "publisher": "COSEN",
+    "genre": "益智",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-04-01",
+        "retail": ""
+    },
+    "formal_name": "PAZURU(日文版)",
+    "description": "運用大腦和忍者決勝負\n從忍者接收拼圖挑戰狀。運用頭腦和秘密裝置，挑戰於忍者間流傳的秘密謎團。\n只要通過貂的所有拼圖，就能看見簡單的猜謎遊戲，靈活使用秘密裝置，將忍者軌道實體化，朝通關目標進發。",
+    "movies_id": [],
+    "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+    "genres": [
+        "益智"
+    ],
+    "features": [
+        "對應3D影像"
+    ],
+    "languages": [],
+    "number_of_players": "1人",
+    "copyright": "©2011-2014 Jay van Hutten ©2014 Moragami Published in Taiwan and HongKong by COSEN Co., Ltd",
+    "catch_copy": "",
+    "websites": []
+}

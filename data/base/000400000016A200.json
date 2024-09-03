@@ -1,0 +1,50 @@
+{
+    "tid": "000400000016A200",
+    "name": "ループラインレーシング",
+    "product_code": "CTR-N-KPRJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000033835",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "レイニーフロッグ",
+    "genre": "レース",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "じっくり",
+        "ランキング対応"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-06-10",
+        "retail": ""
+    },
+    "formal_name": "ループラインレーシング",
+    "description": "パイプの上を走るボールを障害物を避けながら、ゴールに向かって操作します!\n<br>スタイリッシュなデザイン空間に浮かぶパイプの周りを、ハイスピードで、360度回転しながら疾走するボールでレース!\n<br>いままで体験したことのない爽快感を味わえます!\n<br>\n<br>･海外で多くのアワードを獲得したゲームがついにニンテンドー3DSで日本に登場!\n<br>･ゲームモードは「レース」「ポイントモード」「エンドレスレース」の3種類。\n<br>･ボリュームいっぱい。100以上のスタイリッシュなステージを収録!\n<br>･ゲームスピードは「高速」「音速」「超音速」「光速」「のんびり」の5タイプ。\n<br>･自分のスコアはオンラインランキングにアップロード可能。他のプレイヤーとスコア対戦!\n<br>･ジャズとロックが融合したクールなBGMがレースを盛り上げる!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "インターネット対応",
+        "3D映像対応",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2015 Engine Software & Joost van Dongen.\n<br>Licensed to and published by Rainy Frog LLC.",
+    "catch_copy": "このスピード感がたまらない！ハイスピードレースゲーム！\n<br>アドレナリン全開！360度回転しながら、ゴールまで駆け抜けろ！",
+    "websites": []
+}

@@ -1,0 +1,46 @@
+{
+    "tid": "000400000018B700",
+    "name": "Alphadia",
+    "product_code": "CTR-N-KAFP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000039417",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "KEMCO",
+    "genre": "RPG / Adventure / Arcade / Strategy",
+    "rating": {
+        "system": "COB",
+        "rating": "PG",
+        "age": "8"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-02-12",
+        "retail": ""
+    },
+    "formal_name": "Alphadia",
+    "description": "Unleash the energi skills and engage\n<br>in turn-based battles in an epic JRPG\n<br>that harks back to the best in classic\n<br>gaming!\n<br>\n<br>It has been almost a century since\n<br>the end of the Energi War. Yet despite\n<br>the armistice agreement signed\n<br>between opposing sides, the\n<br>Schwarzschild Empire has once again\n<br>begun plotting world domination as it\n<br>starts to conquer and occupy one\n<br>nation after another. It is during this\n<br>time that Ash and Karim, two\n<br>residents of a small town on the\n<br>frontier, rescue a young woman and\n<br>her escort as they are being pursued\n<br>by foreign soldiers. But who is this\n<br>mysterious girl and what fate is in\n<br>store for Ash and those with him as\n<br>they attempt to help her fulfill her\n<br>mission...?\n<br>\n<br>Employing an orthodox turn-based\n<br>battle system, Alphadia evokes a\n<br>feeling of nostalgia with its classic\n<br>RPG style. In addition, its refined\n<br>game balance and simple to use\n<br>interface make this game accessible to\n<br>players of any skill level while at the\n<br>same time offering 30+ hours of\n<br>gameplay. Come experience Alphadia\n<br>and witness its dramatic story unfold!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "RPG",
+        "Adventure",
+        "Arcade",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2007-2015 KEMCO/EXE-CREATE",
+    "catch_copy": "",
+    "websites": []
+}

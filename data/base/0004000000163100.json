@@ -1,0 +1,63 @@
+{
+    "tid": "0004000000163100",
+    "name": "Stretchmo™",
+    "product_code": "CTR-N-KAAE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000032515",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nintendo",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Nintendo",
+        "3D",
+        "StreetPass",
+        "SpotPass",
+        "Camera"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-05-14",
+        "retail": ""
+    },
+    "formal_name": "Stretchmo™",
+    "description": "As of late March 2023, it will no longer be possible to make purchases in Nintendo eShop for Nintendo 3DS, including add-on content for this game. For more information please visit Support.\n<br><br>\nStretch and pull blocks to guide Mallo to the goal in seven free starter puzzles. Then expand this entry in the acclaimed Pushmo™ series by purchasing up to four puzzle-filled download packs on Nintendo eShop. You can even create and share your own puzzles!\n<br><br>\nPurchase and download any of the four main attractions to unlock the Stretchmo Studio level creator, which also lets you share puzzles via QR Code® patterns. Mallo’s Playtime Plaza has 100 great puzzles for players of all skill levels! Looking for a challenge? Then come on over to Polly’s Sculpture Square, where 50 animal and object puzzles await. Keep the fun going in Corin’s Fortress of Fun, which packs in 50 action-packed puzzles filled with special objects, like manholes and even enemies—a series first! Or head on down to Papa Blox’s NES Expo to play 50 puzzles based on characters from Nintendo classics. \n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
+    "genres": [
+        "Puzzle",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass",
+        "Supports SpotPass",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2015 Nintendo / INTELLIGENT SYSTEMS. Stretchmo and Nintendo 3DS are trademarks of Nintendo. © 2015 Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

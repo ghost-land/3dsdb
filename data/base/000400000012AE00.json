@@ -1,0 +1,62 @@
+{
+    "tid": "000400000012AE00",
+    "name": "Excave",
+    "product_code": "CTR-N-JEFP",
+    "region": "eu",
+    "version": "v0.1.0",
+    "nid": "50010000031996",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Teyon",
+    "genre": "RPG / Action / Adventure / Puzzle",
+    "rating": {
+        "system": "PEGI",
+        "rating": "12",
+        "age": "12"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-03-26",
+        "retail": ""
+    },
+    "formal_name": "Excave",
+    "description": "Imperial City is at war! The King\n<br>needs you to explore the perilous and\n<br>ancient Labyrinth beneath the city –\n<br>find out why this mysterious magical\n<br>laboratory now spews out an army of\n<br>powerful monsters bent on\n<br>destruction, and descend to its lowest\n<br>depths to rescue the missing Magician.\n<br>\n<br>Triumph in a test of your weapons &\n<br>magic, or perish trapped deep within\n<br>the twisting halls of the Labyrinth.\n<br>Explore, fight and win fame & fortune,\n<br>then return to the city above to heal,\n<br>identify fabulous treasures and repair\n<br>& upgrade your equipment. Are you\n<br>brave enough to explore the\n<br>treacherous depths?\n<br>\n<br>- Classic dungeon exploration RPG\n<br>from Japan\n<br>\n<br>- Choose and fully customize your\n<br>character with hundreds of treasures\n<br>and equipment items to collect,\n<br>modify, upgrade, repair and sell\n<br>\n<br>- Test your courage & skills against\n<br>hundreds of unique enemies\n<br>\n<br>- 50 terrifying dungeon levels to\n<br>explore, with 5 massive boss fights\n<br>\n<br>- Progress through an epic storyline\n<br>to develop your character's abilities in\n<br>true RPG fashion",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "©2015 Mechanic Arms.\n<br>Licensed to and published by Teyon.",
+    "catch_copy": "",
+    "websites": []
+}

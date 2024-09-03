@@ -1,0 +1,48 @@
+{
+    "tid": "00040000001A6700",
+    "name": "PixelMaker",
+    "product_code": "CTR-N-KZPE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000041864",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nostatic Software",
+    "genre": "Education / Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-10-27",
+        "retail": ""
+    },
+    "formal_name": "PixelMaker",
+    "description": "PixelMaker is a drawing program designed specifically for making pixel art!\n<br>\n<br>Using easy to use tools on your Nintendo 3DS™, you can design images as simple or as complex as you like. Experiment, and create characters and scenes based on your favorite classic video games, or draw something straight out of your own imagination!\n<br>\n<br>Zoom in on the touch screen while seeing your whole scene on the upper screen.\n<br>\n<br>Support for multi-layer drawing, and 3D layered images.\n<br>\n<br>Cut/Copy/Paste selections with flip and rotate options.\n<br>\n<br>Fill by selection, flood-fill or replace all of a color.\n<br>\n<br>Draw and erase with multiple brush sizes.\n<br>\n<br>Pixel-perfect line and stroke drawing modes.\n<br>\n<br>Export PNG images to SD Card.\n<br>\n<br>Undo/Redo and image auto-save and restore.\n<br>\n<br>Palette-based color management with a number of classic samples.\n<br>\n<br>Choose colors visually, by exact RGB, or pick from the image.\n<br>\n<br>Optional grid overlay.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+    "genres": [
+        "Education",
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Download Play",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2016 Nostatic Software, LLC",
+    "catch_copy": "",
+    "websites": []
+}

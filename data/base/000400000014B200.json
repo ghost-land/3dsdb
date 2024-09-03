@@ -1,0 +1,50 @@
+{
+    "tid": "000400000014B200",
+    "name": "ワールドパーキングプロ",
+    "product_code": "CTR-N-JWJJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000025821",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-09-24",
+        "retail": ""
+    },
+    "formal_name": "ワールドパーキングプロ",
+    "description": "『ワールドパーキングプロ』は、「ここに駐車」と表示された駐車スペース内に、車を壊さずにすばやく駐車することが目的のゲームです。\n<br>かっこよく駐車をキメれば星が手に入ります。\n<br>手に入れた星を使って、車を強化して、さらにかっこよく駐車しましょう。\n<br>強化できる車の能力は3種類あります。\n<br>\n<br>タイムを中心に強化して慎重に進むのか、そうさを中心に強化してキビキビと進むのかHPを中心に強化して己の道を突き進むのかはあなた次第です。\n<br>\n<br>あなたにとって最高にかっこいい駐車をキメましょう!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "パズル",
+        "レース"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2014 CIRCLE Entertainment Ltd.\n<br>Published and distributed by\n<br>Starsign, Inc. in Japan under license\n<br>from CIRCLE Entertainment Ltd.",
+    "catch_copy": "駐車が上手い人ってカッコイイ！\n<br>かっこよく駐車をキメるゲームが登場！！",
+    "websites": []
+}

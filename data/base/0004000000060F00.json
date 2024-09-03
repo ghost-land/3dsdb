@@ -1,0 +1,68 @@
+{
+    "tid": "0004000000060F00",
+    "name": "Pyramids",
+    "product_code": "CTR-N-JA9P",
+    "region": "eu",
+    "version": "v0.1.0",
+    "nid": "50010000007668",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "VERSTRAETEN",
+    "genre": "Platformer / Action / Puzzle / Arcade",
+    "rating": {
+        "system": "PEGI",
+        "rating": "7",
+        "age": "7"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2011-10-20",
+        "retail": ""
+    },
+    "formal_name": "Pyramids",
+    "description": "Pyramids is a puzzle/platform game\n<br>where an explorer tries to get out of\n<br>the pyramids with his loot. The task\n<br>will not be easy. There are many\n<br>dangerous traps and monsters that\n<br>will put your dexterity and ingenuity\n<br>to the test. The explorer will have the\n<br>use of TNT and a gun but his best\n<br>friend will be his shovel which allows\n<br>him to create and destroy blocks.\n<br>These blocks can be used as stairs,\n<br>bridges, protections... The explorer\n<br>will venture through 54 challenging\n<br>3D levels, divided into 6 worlds.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        },
+        {
+            "iso_code": "nl",
+            "name": "Dutch"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Published by Enjoy Gaming Limited\n<br>2011 all rights reserved. Enjoy\n<br>Gaming is a registered trademark of\n<br>Enjoy Gaming Limited. All rights\n<br>reserved. All other trademarks and\n<br>logos are the property of their\n<br>respective owners.\n<br>All rights reserved.",
+    "catch_copy": "",
+    "websites": []
+}

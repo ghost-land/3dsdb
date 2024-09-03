@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000181D00",
+    "name": "VVVVVV",
+    "product_code": "CTR-N-JVVJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000041590",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "Pikii",
+    "genre": "2Dアクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "気軽に",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-10-12",
+        "retail": ""
+    },
+    "formal_name": "VVVVVV",
+    "description": "宇宙船の事故で異次元に飛ばされたヴィリジアン船長と5人のクルーたち。プレイヤーはヴィリジアン船長となり、今にも崩壊しそうな次元の原因を探りながらはぐれてしまったクルーたちを探します。\n<br>ゲームではジャンプの代わりに重力の上下を切り替えながら進んでいきます。大量のトゲとトラップに行く手を阻まれるなか、重力をコントロールしクルーたちを無事に避難させることができるのか……。\n<br>\n<br>・異次元世界を巡り、次元崩壊の謎と脱出の道を探る探索型サバイバルゲーム\n<br>・無数のトゲとさまざまなトラップを試行錯誤で乗り越える激辛アクション\n<br>・多数のチェックポイントと素早いリスタートでミスしても快適なプレイアビリティ \n<br>・ニンテンドー3DSオンリーの常時マップ表示\n<br>・会話から部屋名に至るまで完全日本語化",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "Copyright ©2016 Pikii / Nicalis, Inc.",
+    "catch_copy": "VVVVVVery goodな大冒険へ！\n<br>メガヒット海外インディーついに日本語化！",
+    "websites": []
+}

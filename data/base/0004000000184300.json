@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000184300",
+    "name": "ミニゴルフリゾート",
+    "product_code": "CTR-N-KGLJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000042540",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "テヨンジャパン",
+    "genre": "スポーツ",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-05-10",
+        "retail": ""
+    },
+    "formal_name": "ミニゴルフリゾート",
+    "description": "『ミニゴルフリゾート』は、タッチペンだけの簡単操作で手軽にゴルフを楽しめるスポーツゲームです。岩や段差、スライドやループなどさまざまな障害物を避けたり、利用したりしてボールをホールに入れましょう。\n<br>\n<br>テーマに分かれた4つのワールドには、ユニークなゴルフコースが沢山あり、快適で楽しいミニゴルフを体験することができるでしょう。すべてのコースを制覇して、マスターゴルファーを目指そう！\n<br>\n<br>オリジナルのゴルファーを作成できる機能やゴルフクラブ、アクセサリーなどを購入できるショップ、さらに獲得を目指すトロフィーなどのお楽しみ要素も収録されています。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "スポーツ"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2017 Selectsoft Publishing. All right reserved.\n<br>Licensed to and published in Japan by Teyon Japan GK.",
+    "catch_copy": "1000以上のゴルフコースを収録！\n<br>ニンテンドー3DSでミニゴルフを楽しもう！",
+    "websites": []
+}

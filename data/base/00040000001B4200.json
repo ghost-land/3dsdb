@@ -1,0 +1,53 @@
+{
+    "tid": "00040000001B4200",
+    "name": "Battleminerz",
+    "product_code": "CTR-N-KBXE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000043975",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Wobbly Tooth",
+    "genre": "Action / Adventure / First-Person Shooter / Multiplayer",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-12-21",
+        "retail": ""
+    },
+    "formal_name": "Battleminerz",
+    "description": "Battleminerz is an open-world block game with infinite map size and support for all Nintendo 3DS™ systems. \n<br>\n<br>It features:\n<br>Single player Adventure, Creative and Horde Mode.\n<br>Multiplayer Adventure, Creative and Battle mode.\n<br>Internet with anybody, friends only or Local Play.\n<br>Internet Game Chat and messages.\n<br>Character customisation and texture packs.\n<br>New tools, items and weapons to craft.\n<br>Grow crops, ride animals, explore, build and survive!\n<br>\n<br>Become a Miner, Farmer or Adventurer. It's up to you!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nGame is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "Multiplayer"
+    ],
+    "features": [
+        "Supports Online Play",
+        "Online Play Only",
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Nintendo Network",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 - 8 players\nAdventure, Creative 1-4 Players\n<br>Battle Mode 2-8 Players",
+    "copyright": "© 2017 Wobbly Tooth Ltd",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,43 @@
+{
+    "tid": "00040000001BF800",
+    "name": "사막의 서생결단!",
+    "product_code": "CTR-N-KSZK",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000042655",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "Game Museum",
+    "genre": "사막 서바이벌 시뮬레이션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-04-19",
+        "retail": ""
+    },
+    "formal_name": "사막의 서생결단!",
+    "description": "귀여운 생쥐들의 서바이벌 사막횡단 도전기!\n이동요새인 사막의 배를 타고 살고있는 서생결족에게 명령을 내려, 다양한 방과 아이템 그리고 무기를 크래프트 해 봅시다.\n사막의 크리쳐들과 목숨을 건 사투를 통해 가야 할 최종 목적지는 서생결족 전설에 나오는 황금의 도시.\n전설속의 황금의 도시가 여러분을 기다리고 있습니다!",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:사막의 서생결단!\n상호:게임 뮤지엄\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-170317-011\n등급분류 일자:2017.3.17\n제작・배급업신고번호:제 2015-000002 호\n대응 언어:한국어\n※ for sale in Korea only",
+    "genres": [
+        "시뮬레이션"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ko",
+            "name": "한국어"
+        }
+    ],
+    "number_of_players": "1명",
+    "copyright": "©ARC SYSTEM WORKS",
+    "catch_copy": "",
+    "websites": []
+}

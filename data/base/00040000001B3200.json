@@ -1,0 +1,41 @@
+{
+    "tid": "00040000001B3200",
+    "name": "Terraria",
+    "product_code": "CTR-N-BTEZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000042440",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "505 Games",
+    "genre": "액션 어드벤처",
+    "rating": {
+        "system": "GRB",
+        "rating": "12",
+        "age": "12"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-02-22",
+        "retail": ""
+    },
+    "formal_name": "Terraria",
+    "description": "Terraria에서의 모험은 당신을 어디로 이끌 것인가?\n\n플레이어는 직감적 터치 스크린을 컨트롤하여 Terraria에 랜덤으로 생성된 월드를 탐구하고 조작할 수 있습니다.\n발굴한 원자재로 만들어진 무기를 사용하여 150종류 이상의 몬스터와 싸워보세요.\n\nTerraria를 통해 최대 4명의 탐험가들이 로컬 플레이로 함께 모험을 즐길 수 있습니다.\n",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Terraria\n상호:505 Games Inc.\n이용등급:12세이용가(폭력성)\n등급분류번호:GC-CC-NV-161230-017\n등급분류 일자:2016.12.30\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n자막:영어\n※ for sale in Korea only",
+    "genres": [
+        "액션",
+        "어드벤처"
+    ],
+    "features": [
+        "로컬 플레이 대응"
+    ],
+    "languages": [],
+    "number_of_players": "1명\n로컬 플레이 시 4인",
+    "copyright": "©2016 Re-Logic. All Right Reserved. Published by 505 Games. 505 Games and the 505Games logo are registered trademarks of 505 Games S.r.l. Developed by Codeglue.",
+    "catch_copy": "",
+    "websites": []
+}

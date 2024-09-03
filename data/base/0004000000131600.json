@@ -1,0 +1,63 @@
+{
+    "tid": "0004000000131600",
+    "name": "Wizdom",
+    "product_code": "CTR-N-JWWP",
+    "region": "eu",
+    "version": "v1.1.0",
+    "nid": "50010000037655",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Moving Player",
+    "genre": "Puzzle/Adventure",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-10-22",
+        "retail": ""
+    },
+    "formal_name": "Wizdom",
+    "description": "The inhabitants of the land of Wizdom\nlove transformation potions to change\ntheir look.<br/>\nThe famous master potion makers\nhave also been perfecting the art of\nconcocting potions since the dawn of\ntime, and have completed their\nmastery of combining blobs.<br/>\nAll you apprentice potion makers,\ntoday you must prove yourselves and\nsatisfy your sometimes demanding\nclients who inhabit the lands of the\nRealm!<br/>\nWizdom is a title with unique\ngameplay where you must be able to\nsatisfy hordes of starving clients!<br/>\nTravel the Four Realms and pit your\ntalents against the inhabitants and\nguardians!<br/>\nSeek out new ingredients, legendary\noutfits and learn how to use their\nextraordinary powers.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Adventure",
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2015 - Moving Player",
+    "catch_copy": "",
+    "websites": []
+}

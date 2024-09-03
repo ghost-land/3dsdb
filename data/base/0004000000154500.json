@@ -1,0 +1,61 @@
+{
+    "tid": "0004000000154500",
+    "name": "BOXBOY!™",
+    "product_code": "CTR-N-JCPE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000031655",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nintendo",
+    "genre": "Puzzle Platformer",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Hal Laboratory",
+        "Download Play",
+        "Block",
+        "Score"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-04-02",
+        "retail": ""
+    },
+    "formal_name": "BOXBOY!™",
+    "description": "Think outside the box to save a world in peril! Traverse tricky landscapes by creating boxes to help Qbby navigate more than 20 puzzling worlds. Just watch out—tons of obstacles stand in your way, so fortify yourself with a Shielding Afro or other boxy defenses. Then beat some more stages to earn sweet square costumes, like a superhero outfit!<br>\n<br>\nAfter snaking your way through a plethora of levels, try taking on some challenges. Time attack will have you puzzle-solving your way through an assortment of levels as quickly as possible, giving you the chance to test your skills at creating box-shaped defenses. If that’s not enough, Score Attack has you collecting as many tokens as possible within the time limit while using boxes to lift yourself up and maneuver around a huge stage. All the world’s a puzzle and you’re the only box boy boxy enough to save it!\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "genres": [
+        "Puzzle",
+        "Platformer",
+        "Other"
+    ],
+    "features": [
+        "Supports Download Play",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2015 HAL Laboratory, Inc. / Nintendo. BOXBOY and Nintendo 3DS are trademarks of Nintendo. © 2015 Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

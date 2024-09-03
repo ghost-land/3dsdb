@@ -1,0 +1,54 @@
+{
+    "tid": "0004000000186C00",
+    "name": "Sadame",
+    "product_code": "CTR-N-JFTE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000039586",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Oizumi Amuzio",
+    "genre": "Action / RPG / Adventure / Fighting",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": "13"
+    },
+    "keywords": [
+        "Rising Star Japan",
+        "StreetPass",
+        "Samurai",
+        "Ninja",
+        "rogue"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-02-25",
+        "retail": ""
+    },
+    "formal_name": "Sadame",
+    "description": "Choose the role of a Samurai, Ninja, Monk or Rogue and confront  an invasion of Japanese traditional Yokai taking over the nation. Hack and slash your way through an army of monsters using Swordsmanship, Ninjitsu, pole sword, bow, and supernatural powers. Enhance your skills by defeating waves of enemies and slaying evil bosses lying in wait.\n<br>\n<br>Level up and customize your hero to take on tougher foes and learn\n<br>new combo skills for devasting attacks. Unselected heroes will support you as an Assist - or you can send them to Assist other players via StreetPassâ„¢! Hack your way through 23 stages based on Japanese historic battles across four chapters, all beautifully hand-drawn using classic 2D Japanese art style.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
+    "genres": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Fighting"
+    ],
+    "features": [
+        "Supports StreetPass"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Copyright 2014-2015 Intergrow Inc.\n<br>Published by Rising Star Japan Inc.",
+    "catch_copy": "",
+    "websites": []
+}

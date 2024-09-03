@@ -1,0 +1,66 @@
+{
+    "tid": "00040000001A2D00",
+    "name": "Swapdoodle™",
+    "product_code": "CTR-N-KRJE",
+    "region": "na",
+    "version": "v4.4.0",
+    "nid": "50010000042058",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nintendo",
+    "genre": "Communication / Other",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Doodle",
+        "Draw",
+        "Nintendo",
+        "Application"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-11-17",
+        "retail": ""
+    },
+    "formal_name": "Swapdoodle™",
+    "description": "As of late March 2023, it will no longer be possible to make purchases in Nintendo eShop for Nintendo 3DS, including add-on content for this game. For more information please visit Support.\n<br><br>\nThe Swapdoodle™ game is an easy way to write messages, draw 3D pictures, and share them with your Nintendo 3DS™ friends. Swapping doodles is a snap thanks to stamps based on the icons of played titles and your Mii™ character. You can also purchase in-game add-on packs that have doodle lessons of Nintendo characters!\n<br>\n<br>Doodle lessons allow you to trace beloved Nintendo characters from the Super Mario™ series, The Legend of Zelda™, Splatoon™, and more! With the right add-on, you can also draw more doodles per note, boost your note storage to over 6000, get more than 45 ink colors, and download stationeries featuring Nintendo characters. Put a piece of yourself in your art by stamping on a Mii face with various emotions to choose from. It’s also possible to share in-game screenshots with friends who also have the game and even create secret pages that are hidden until your friend replies. It’s always fun to see what doodles your friends are swapping!",
+    "movies_id": [],
+    "disclaimer": "In-game content available for purchase using stored account funds.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Communication",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports SpotPass",
+        "Mii",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "pt",
+            "name": "Portuguese"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2016 Nintendo. Swapdoodle and Nintendo 3DS are trademarks of Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

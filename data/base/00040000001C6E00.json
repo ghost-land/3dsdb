@@ -1,0 +1,51 @@
+{
+    "tid": "00040000001C6E00",
+    "name": "VoxelMaker",
+    "product_code": "CTR-N-BVME",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000043016",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nostatic Software",
+    "genre": "Education / Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Nostatic Software",
+        "Art",
+        "3D Games"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-08-03",
+        "retail": ""
+    },
+    "formal_name": "VoxelMaker",
+    "description": "Create 3D models of your own design! Voxel models are made from 3D cubes and create a stylised \"blocky\" look – like 3D pixel art. \n<br>\n<br>VoxelMaker’s fully-featured model editor makes use of both buttons and touch controls, allowing you to cut, copy and paste part of your model to move, rotate or duplicate sections with ease. You can also insert text, create, edit and save your own color schemes, and more. Finally, use your Nintendo 3DS™ to display 3D images of your scenes in the upper screen and then save them to your Screenshot Album, or share them on Miiverse.\n<br>\n<br>With VoxelMaker, you have both a 3D canvas and camera in your hands: be inspired and create!\n<br>\n<br>Create 3D models using a full-featured model editor\n<br>Use buttons and the touch screen to edit your model and set up your scene\n<br>View your art in 3D in the upper screen while editing in the lower screen\n<br>Export your model to SD card in .vmk (VoxelMaker) or .vox (MagicaVoxel) format\n<br>Save scenes to your Screenshot Album, or share them on Miiverse",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+    "genres": [
+        "Education",
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2015 - 2017 Nostatic Software, LLC",
+    "catch_copy": "",
+    "websites": []
+}

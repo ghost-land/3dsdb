@@ -1,0 +1,52 @@
+{
+    "tid": "000400000008B800",
+    "name": "VectorRacing",
+    "product_code": "CTR-N-JBVE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000011511",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "ARC SYSTEM WORKS",
+    "genre": "Nostalgic high-speed racing",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "ARC SYSTEM WORKS",
+        "3D Games",
+        "Local Play",
+        "Multiplayer"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-08-23",
+        "retail": ""
+    },
+    "formal_name": "VectorRacing",
+    "description": "A brand new, high-speed racing game that brings to mind the retro video games of yore!<br>\nUse one of the 6 different machines to race across 12 courses, some easy and some insane, in 4 different modes: GRAND PRIX, SINGLE RACE, TIME TRIAL, and VS BATTLE!\n<br><br>\nYou can play against a friend using the multiplayer VS BATTLE mode or see where you stand in the world by viewing the online ranking in the RECORDS mode.\n<br><br>\nUse your wireless connection for multiplayer races and online rankings. Get ready for some brutal competition!\n<br><br>\nAnd Compete in the online ranking for best time in every mode and every race.\n<br><br>\nEnjoy high-speed racing with vector-style graphics reminiscent of the early days of gaming.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Racing",
+        "Multiplayer"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 - 2 players",
+    "copyright": "(C) ARC SYSTEM WORKS",
+    "catch_copy": "",
+    "websites": []
+}

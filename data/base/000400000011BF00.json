@@ -1,0 +1,38 @@
+{
+    "tid": "000400000011BF00",
+    "name": "WAKEDAS",
+    "product_code": "CTR-N-JWKZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000021273",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "Flyhigh Works",
+    "genre": "퍼즐",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-04-02",
+        "retail": ""
+    },
+    "formal_name": "WAKEDAS",
+    "description": "「WAKEDAS」는 스테이지 위에 있는 여러 가지 색의 블록을 색깔별로 ‘분리’하는 순수사고형 퍼즐 게임입니다. \n블록은 ’행’ 또는 ’열’ 별로 슬라이드할 수 있고, 스테이지 밖으로 나간 블록은 다시 반대 방향에서 나타납니다. \n파랑은 파랑끼리, 빨강은 빨강끼리, 같은 색끼리 모일 수 있도록 잘 움직이면 스테이지를 클리어할 수 있습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : WAKEDAS\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131127-001\n등급분류 일자 : 2013.11.27.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
+    "genres": [
+        "퍼즐"
+    ],
+    "features": [],
+    "languages": [],
+    "number_of_players": "1명",
+    "copyright": "©Flyhigh Works\n\nTrademarks are property of their respective owners.\nNintendo 3DS is a trademark of Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,48 @@
+{
+    "tid": "000400000011FF00",
+    "name": "上海3D",
+    "product_code": "CTR-N-AG2J",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000019956",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "アークシステムワークス",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "麻雀",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-02-12",
+        "retail": ""
+    },
+    "formal_name": "上海3D",
+    "description": "『上海3D』は名作パズルゲーム「上海」を様々なデザインの牌や牌山(レイアウト)で楽しむことができるパズルゲームです。\n<br>ゲームモードは、デザイン、レイアウトを好きに組み合わせられる「フリープレイ」、200ものステージをクリアしていく「アドベンチャー」を収録!\n<br>気軽にでも、じっくりでも、その日の気分に合わせて上海を楽しむことができます!\n<br>\n<br>また、本作では通常の上海ルールの他に、独自のルール\"リバーズルール\"を追加!\n<br>デザインもルールも変えて、いつもとは少し違う上海を楽しめます!\n<br>\n<br>好きなときに、好きなデザインで、好きなだけ上海を楽しみましょう!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "パズル"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©Joindots GmbH.\n<br>©SUNSOFT\n<br>Published in Japan by ARC SYSTEM WORKS",
+    "catch_copy": "有名パズル「上海」が3DSダウンロードソフトに登場！\n<br>手軽に？じっくり？２つのモードで気分に合わせてプレイ！",
+    "websites": []
+}

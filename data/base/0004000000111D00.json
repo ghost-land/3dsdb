@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000111D00",
+    "name": "スチームワールド ディグ",
+    "product_code": "CTR-N-JSTJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000017636",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "オーイズミ・アミュージオ",
+    "genre": "2Dスクロール採掘アクションゲーム",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "横スクロールアクション"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-11-20",
+        "retail": ""
+    },
+    "formal_name": "スチームワールド ディグ",
+    "description": "ある日突然、叔父の鉱山を相続したラスティ。鉱山の町を発展させつつ、鉱山に隠された秘密を解いていく2Dスクロール採掘アクションゲーム。\n<br>\n<br>スチームロボのラスティを操り、地中の奥深く、地の果てまで掘り進んでいく。「ドリル」「テレポーター」などの採掘道具を駆使し、洞窟に隠された「スピードブーツ」や「スチームジャンプ」といった様々な能力で強化していこう。\n<br>繊細なドット絵で描かれたスチームワールドの世界を楽しみながら、一度掘り始めたらなかなかやめられなくなる、まさに「底なし」の面白さです。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2013 Image & Form International AB\n<br>Licensed and published in Japan by Intergrow Inc.",
+    "catch_copy": "掘れば掘るほど、そこは新世界の入口。\n<br>底なしの地中へ挑む！採掘アクションゲーム！！",
+    "websites": []
+}

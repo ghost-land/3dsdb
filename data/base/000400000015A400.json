@@ -1,0 +1,60 @@
+{
+    "tid": "000400000015A400",
+    "name": "OlliOlli",
+    "product_code": "CTR-N-KLLE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000031495",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Curve Digital",
+    "genre": "Sports",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Curve Digital",
+        "Carbon",
+        "Roll7",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-03-05",
+        "retail": ""
+    },
+    "formal_name": "OlliOlli",
+    "description": "Purchase this game at full price through Nintendo eShop and get a free digital version of OlliOlli for Wii U. The same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.\n<br><br>\nOffer applies to US, Canada, and Mexico only\n<br><br>\nOlliOlli mixes addictive one-life gameplay with over 120 tricks and grinds across 50 deviously crafted levels, 250 Challenges, Spots Mode and Daily Grind. Not enough for you? Complete all challenges to unlock the super skilful RAD Mode!\n<BR><BR>\nRack up the biggest and coolest combos along the way then time your landing to perfection to rule the leader-boards. \n<BR><BR>\nCompete across the world in all modes to get the highest scores on every Level and Spot.\n<BR><BR>\nDaily Grind gives you 24 hours to challenge the world at a randomly selected Spot. You can practice as many times as you like, but you only get one chance to set your score. Just don’t slam on your face... (you will slam on your face!)",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<BR>\nVisit support.nintendo.com for information about storage options. Sold separately.\n<BR><BR>\nThe same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer ",
+    "genres": [
+        "Action",
+        "Arcade",
+        "Sports"
+    ],
+    "features": [
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "OlliOlli ™ and © Roll7. Licensed by Curve Digital.",
+    "catch_copy": "",
+    "websites": []
+}

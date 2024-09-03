@@ -1,0 +1,47 @@
+{
+    "tid": "0004000000096100",
+    "name": "VVVVVV",
+    "product_code": "CTR-N-JVVP",
+    "region": "eu",
+    "version": "v2.1.0",
+    "nid": "50010000010296",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Nicalis",
+    "genre": "Action / Arcade / Platformer",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-10-04",
+        "retail": ""
+    },
+    "formal_name": "VVVVVV",
+    "description": "There's something terribly wrong in\n<br>an alternate dimension! Help Captain\n<br>Viridian flip to find five crew members,\n<br>20 hard-to-reach Trinkets and save a\n<br>dimension on the brink of destruction.\n<br>It's a space opera in the most unique\n<br>scale with a style that only VVVVVV\n<br>can bring to you. Instead of jumping,\n<br>control the direction of gravity by\n<br>inverting your gravity and allowing\n<br>Captain Viridian to flip between the\n<br>floors and ceilings of the\n<br>environments.\n<br>\n<br>For adventurers who save the\n<br>dimension, there's still hours and\n<br>hours of new gameplay with all-new\n<br>Player Levels. Test your mettle and\n<br>see if you have what it takes to beat a\n<br>collection of levels created by other\n<br>famous game developers. Inspired by\n<br>classic 8-bit days gone-by and now\n<br>with experience-heightening 3D,\n<br>VVVVVV will challenge even the most\n<br>battle-hardened old-school gamers.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "Arcade",
+        "Platformer"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2011, 2012 Terry Cavanagh.\n<br>Licensed to and published by\n<br>Nicalis",
+    "catch_copy": "",
+    "websites": []
+}

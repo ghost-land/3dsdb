@@ -1,0 +1,41 @@
+{
+    "tid": "00040000001A5300",
+    "name": "BOXBOY! ",
+    "product_code": "CTR-N-JCPZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000041483",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "Nintendo",
+    "genre": "퍼즐 액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-08-24",
+        "retail": ""
+    },
+    "formal_name": "BOXBOY! ",
+    "description": "박스를 꺼낼 수 있는 주인공을 조작해서, 높은 곳을 오르거나, 구멍이나 장치 등의 다양한 장애물들을 극복하여 스테이지를 클리어해 나가는 퍼즐 액션 게임입니다. \n박스를 어떤 형태로 꺼내서 어떻게 사용할지가 관건인 BOXBOY!는 150개 이상의 스테이지가 수록되어 있습니다.\n",
+    "movies_id": [],
+    "disclaimer": "※국내에서 제공하지 않는 서비스로 인해 일부 사양에서 에러 메시지가 표시되는 경우가 있습니다.\n\n※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:BOXBOY! \n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160708-005\n등급분류 일자:2016.7.8\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n   자막: 영어\n※ for sale in Korea only",
+    "genres": [
+        "퍼즐",
+        "액션"
+    ],
+    "features": [
+        "다운로드 플레이 대응"
+    ],
+    "languages": [],
+    "number_of_players": "1명",
+    "copyright": "© 2015 HAL Laboratory, Inc. / Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

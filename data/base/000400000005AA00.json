@@ -1,0 +1,63 @@
+{
+    "tid": "000400000005AA00",
+    "name": "Shinobi™",
+    "product_code": "CTR-P-ASVP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000007438",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Card"
+    },
+    "publisher": "SEGA",
+    "genre": "Action",
+    "rating": {
+        "system": "COB",
+        "rating": "M",
+        "age": "13"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "",
+        "retail": "2011-11-11"
+    },
+    "formal_name": "Shinobi™",
+    "description": "Betrayed by your friend you must\nbattle an ancient and evil clan in this\nepic reboot of the acclaimed Shinobi\nseries...<br>\n<br>\nShinobi captures the classic\nside-scrolling action from the original\nShinobi games. This coupled with\nintense combat in exotic locations and\nover the top boss encounters is what\nplayers have loved since the early\ndays of the series.<br>\n<br>\nExclusively developed for the\nNintendo 3DS, Shinobi is presented in\nstunning 3D visuals while introducing\nseveral exciting new features and\nchallenges that Shinobi veterans and\nnewcomers will equally enjoy.<br>\n<br>\nGame features:<br>\n<br>\nA classic reborn<br>\n<br>\nRe-experience the classic gameplay\nof the original Shinobi titles, with a\nmodern twist. Pattern-based enemies,\ntwitch gameplay and side-scrolling\naction all come together with an\nupdated and unique visual 3D style,\ndeeper combat, and all-new\nchallenges.<br>\n<br>\nFast and furious ninja combat<br>\n<br>\nDefeat enemies with skill and style as\nyou switch between ranged, melee\nand acrobatic attacks on the fly. And\nrely on your Ninja magic to get you\nout of tight spots and give you an\nadvantage during intense fights.<br>\n<br>\nStreetPass compatible<br>\n<br>\nBecome a master ninja<br>\n<br>\nWith a brand new combo system to\nmaster, a host of achievements to\nunlock and challenge maps to\ncomplete, you will want to return\nagain and again to better your score\nand ranking. Watch recorded replays\nto help find your weaknesses and\nperfect your Ninja skills.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "Fighting"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© SEGA. SEGA, the SEGA logo and\nShinobi are either registered\ntrademarks or trademarks of\nSEGA Corporation.\nAll rights reserved.\nNintendo 3DS is a trademark of\nNintendo. © 2011 Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

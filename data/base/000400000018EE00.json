@@ -1,0 +1,62 @@
+{
+    "tid": "000400000018EE00",
+    "name": "BOXBOXBOY!™",
+    "product_code": "CTR-N-KCAE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000040655",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nintendo",
+    "genre": "Puzzle / Platformer",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Nintendo",
+        "Hal Laboratory",
+        "Costume",
+        "Solve",
+        "Block",
+        "Obstacles",
+        "Challenge",
+        "Trick",
+        "Trap"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-06-30",
+        "retail": ""
+    },
+    "formal_name": "BOXBOXBOY!™",
+    "description": "Available for pre-purchase and pre-load. With the new pre-load feature, you will be ready to play after a small update when the game launches on 6/30 9 a.m. (PDT). \n<br><br>\nBy clicking ‘Purchase,’ you agree that you will be charged in advance for the full purchase price of the title (plus applicable taxes), and that you cannot play the title before the launch date. This purchase price is non-refundable except to the extent required by law. \n<br><br>\nAn internet connection is required to receive the small update.\n<br><br>\nIt’s time to think outside the box once again. Our boxy hero, Qbby, has a brand-new power that lets him duplicate his blocky bod into TWO sets of boxes. He’ll put every box to use to survive perilous traps across 11+ worlds of puzzling levels. Learn new tricks and box formations to get past obstacles, like switches, spikes, and even lazers!\n<br><br>\nOnce you learn the ropes—erm, boxes—take on the bonus challenge world to beat levels using the Bunny or Ninja outfit with a lower box count. Medals overflowing your pockets? Take them to the shop to purchase new costumes, like the Robo-Suit, read humourous comics, or listen to the tunes of BOXBOXBOY! If you’ve played the first title, BOXBOY!, you can unlock many of those costumes too because almost every one can be used in BOXBOXBOY!",
+    "movies_id": [],
+    "disclaimer": "Title not playable before launch date. After pre-loading, it is non-refundable except to the extent required by law.  An Internet connection is required to receive the small update.\n<br><br>\nInternet access required for online features. For more info, go to support.nintendo.com\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle",
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "©2016 HAL Laboratory, Inc. / Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,63 @@
+{
+    "tid": "0004000000141E00",
+    "name": "Mindfeud",
+    "product_code": "CTR-N-KMDP",
+    "region": "eu",
+    "version": "v0.1.0",
+    "nid": "50010000028455",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Engine Software",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-12-04",
+        "retail": ""
+    },
+    "formal_name": "Mindfeud",
+    "description": "Take your mind on a ride with\nMindFeud!\n<br/><br/>\nMindFeud is a fun and addicting\nboard game. Learning the game is\neasy: you have to create smart\nformations of tiles in different colors\nand symbols to gain more points than\nyour opponent does. You will find out\nthat winning is harder than you think!\nStart practising against our MindFeud\nrobot “ADAMA” or try to solve one of\nthe many puzzles. Then invite your\nfriends to beat them online!\n<br/><br/>\nFeatures:<br/>\n- Fun boardgame with many different\ngame modes<br/>\n- Practice against ADAMA, the smart\ncomputer player<br/>\n- Improve your best scores in the\nSingleplayer mode<br/>\n- Solve all 25 puzzles<br/>\n- Invite friends or complete strangers\nand battle online",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "features": [
+        "Supports Internet Play",
+        "Supports SpotPass"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "nl",
+            "name": "Dutch"
+        }
+    ],
+    "number_of_players": "1 – 2 players",
+    "copyright": "© 2014 Monkeybin AS.\nNintendo 3DS™ version developed\nand published by Engine Software",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,45 @@
+{
+    "tid": "000400000014C400",
+    "name": "スマブラコントローラー",
+    "product_code": "CTR-N-KXCJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000024195",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "任天堂",
+    "genre": "コントローラーツール",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [
+        "ツール"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-06-15",
+        "retail": ""
+    },
+    "formal_name": "スマブラコントローラー",
+    "description": "ニンテンドー3DSシリーズ本体を、『大乱闘スマッシュブラザーズ for Wii U』のコントローラーとして使えるようになるソフトです",
+    "movies_id": [],
+    "disclaimer": "『大乱闘スマッシュブラザーズ for Wii U』だけをお持ちの方向けのソフトです。\n<br>・『大乱闘スマッシュブラザーズ for Wii U』をお持ちでない方\n<br>・すでに『大乱闘スマッシュブラザーズ for ニンテンドー3DS』をお持ちの方\n<br>上記の方は、本ソフトを購入いただく必要はありません。\n<br>\n<br>※本ソフトはゲームではありません。\n<br>※ニンテンドー3DSシリーズ本体をコントローラーとして使えるのは「大乱闘」モードのみです。",
+    "genres": [
+        "その他"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2014-2015 Nintendo\n<br>Original Game: © Nintendo / HAL Laboratory, Inc.\n<br>Characters: © Nintendo / HAL Laboratory, Inc. / Pokémon. / Creatures Inc. / GAME FREAK inc. / SHIGESATO ITOI / APE inc. / INTELLIGENT SYSTEMS / SEGA / CAPCOM CO., LTD. / BANDAI NAMCO Games Inc. / MONOLITHSOFT",
+    "catch_copy": "3DSを『スマブラWii U』のコントローラーに",
+    "websites": []
+}

@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000170100",
+    "name": "ヴァンパイアスナイパー",
+    "product_code": "CTR-N-JVHJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000033895",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "スナイパーシューティング",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "シューティング",
+        "ホラー"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-06-10",
+        "retail": ""
+    },
+    "formal_name": "ヴァンパイアスナイパー",
+    "description": "『ヴァンパイアスナイパー』は近未来のロンドンにいるヴァンパイアスナイパーを操作して、町の住民を救出し、ヴァンパイアを倒す一人称シューティングゲームです。\n<br>また、ニンテンドー3DSのジャイロ操作で、リアルな狙撃体験が味わえます。\n<br>狙撃銃のスコープで、町にいる住民とヴァンパイアを探し出します。\n<br>また、特殊能力と必殺技を発動して、効率よく、住民の救出とヴァンパイア退治をやり遂げます。\n<br>6つのステージがあり、救出戦、撃退戦、ボス戦、さまざまな戦いが君を待っています。\n<br>また、生き延びるためのサバイバルモードがあります。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "シューティング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2015 EnjoyUp Games\n<br>Published and distributed by Starsign, Inc.\n<br>in Japan under license from EnjoyUp\n<br>Games in Spain.",
+    "catch_copy": "ヴァンパイアを狙い撃って！\n<br>この町の平和は君の手にある！",
+    "websites": []
+}

@@ -1,0 +1,54 @@
+{
+    "tid": "0004000000086D00",
+    "name": "Carps & Dragons",
+    "product_code": "CTR-N-JFAE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000016633",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Abylight",
+    "genre": "Action / Arcade / Other",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D games",
+        "Local Play",
+        "Download Play",
+        "Abylight"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-09-26",
+        "retail": ""
+    },
+    "formal_name": "Carps & Dragons",
+    "description": "In this colorful pond getting lunch is not that hard for Jack and Walter, or is it?\nLook at those Carps just jumping out of the water! Aren't they a beautiful joy? But, what about the big bad Dragon watching over them?\n<br><br>\nPlay solo or with friends to “Carps & Dragons” frenetic action and solve all the challenging puzzles.\n<br><br>\nSend your friends a Demo via the Nintendo 3DS Download Play.\n<br><br>\nKey features:<br>\nAuthentic arcade action<br>\n9 different levels<br>\n32 challenges<br>\nMultiplayer game\n<br><br>\n3 game modes:<br><br>\nArcade<br>\nGet the required points before the time runs out to pass to the next level. But be careful!\nSome crazy animals will not make it easy.\n<br><br>\nChallenge:<br>\nWill you be able to complete all 32 ability challenges?\n<br><br>\nFishtris:<br>\nCatch and match 3 or more fishes of the same color to earn points and reach the next level. Watch out! If you accumulate too many different fishes you will lose the game.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Supports Download Play"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 - 2 players",
+    "copyright": "2013 Abylight",
+    "catch_copy": "",
+    "websites": []
+}

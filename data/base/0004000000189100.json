@@ -1,0 +1,52 @@
+{
+    "tid": "0004000000189100",
+    "name": "BATTLEMINER",
+    "product_code": "CTR-N-KBMJ",
+    "region": "jp",
+    "version": "v0.3.0",
+    "nid": "50010000039364",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "オープンワールドADVゲーム",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "アクションADV",
+        "対戦"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-02-10",
+        "retail": ""
+    },
+    "formal_name": "BATTLEMINER",
+    "description": "マップ制限のないオープンワールドのゲームです。\n<br>世界に散りばめられた資源（ブロック）を採掘し、冒険に必要な道具を作りましょう。\n<br>突如として出現する巨大蟻には、用意した武器で対抗しましょう。\n<br>採掘した資源を配置することで、自分だけの世界を作ることも可能です。\n<br>ネットワーク対戦を含めた、全3モードで遊べます。\n<br>\n<br>「サバイバルモード」\n<br>突然変異した巨大蟻に占領された世界を舞台に、プレイヤーは生存者を救うための冒険に出ます。\n<br>巨大蟻に襲われている生存者を救いだし、更なる「道具を作る技術」を入手し、過酷な世界を生き抜きましょう。\n<br>\n<br>「クリエイティブモード」\n<br>豊富な資源を使い、自分だけの世界を作ります。\n<br>プレイヤーの自由な発想で、ゲームの楽しみ方が無限に広がります。\n<br>\n<br>「マルチプレイ」\n<br>2種類（ローカル通信／インターネット通信）の接続方法で、多人数と遊ぶことができます。\n<br>サバイバル／クリエイティブだけでなく、マルチプレイ限定の対戦プレイも楽しめます。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "features": [
+        "インターネット対応",
+        "3D映像対応",
+        "ローカルプレイ対応",
+        "New 3DS対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2014 Wobbly Tooth Ltd. All rights reserved.\n<br>Published and distributed by\n<br>Starsign, Inc. in Japan under license\n<br>from Wobbly Tooth Ltd.",
+    "catch_copy": "勇敢な冒険者よ！\n<br>突然変異の巨大蟻に占領されたこの世界で生き延びろ！",
+    "websites": []
+}

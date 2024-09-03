@@ -1,0 +1,51 @@
+{
+    "tid": "0004000000188100",
+    "name": "Alphadia",
+    "product_code": "CTR-N-KAFE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000039397",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "KEMCO",
+    "genre": "Role-Playing",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": "13"
+    },
+    "keywords": [
+        "Fantasy",
+        "Retro",
+        "Exe Create",
+        "KEMCO"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-02-04",
+        "retail": ""
+    },
+    "formal_name": "Alphadia",
+    "description": "It has been almost a century since the end of the Energi War. Yet despite the armistice agreement signed between opposing sides, the Schwarzschild Empire has once again begun plotting world domination as it starts to conquer and occupy one nation after another. It is during this time that Ash and Karim, two residents of a small town on the frontier, rescue a young woman and her escort as they are being pursued by foreign soldiers. But who is this mysterious girl and what fate is in store for Ash and those with him as they attempt to help her fulfill her mission...? Find out as this dramatic story begins to unfold!\n<br><br>\nEmploying an orthodox turn-based battle system, Alphadia evokes a feeling of nostalgia with its classic RPG style. In addition, its refined game balance and simple to use interface make this game accessible to players of any skill level while at the same time offering 30+ hours of gameplay.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "genres": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2007-2015 KEMCO/EXE-CREATE",
+    "catch_copy": "",
+    "websites": []
+}

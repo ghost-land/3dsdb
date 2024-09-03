@@ -1,0 +1,53 @@
+{
+    "tid": "000400000008FB00",
+    "name": "MYST",
+    "product_code": "CTR-P-AM7P",
+    "region": "eu",
+    "version": "v0.1.0",
+    "nid": "50010000011895",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Card/Download)"
+    },
+    "publisher": "Funbox Media",
+    "genre": "Adventure Puzzle Strategy",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-09-05",
+        "retail": "2012-10-05"
+    },
+    "formal_name": "MYST",
+    "description": "The amazing adventure title which is\nideally suited for the platform,\nfeatures 6 worlds, many puzzles and\nclues, MYST offers over 80 hours of\nimmersive gameplay. This version also\ngives gamers extra content to explore\nwith new landscapes and with the\nRIME Age added to enhance the\nstoryline. As in the original MYST,\nplayers will solve puzzles, explore\nsurroundings and interact with items\nthat deliver clues which players must\npiece together answers in order to\nsolve the mysteries that lie within.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Adventure",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "MYST is a registered trademark of\nCYAN WORLDS, INC. © 1994-2012\nCYAN WORLDS, INC. MYST logo is a\nregistered trademark of CYAN\nWORLDS, INC. MYST and all\ncharacter names and likenesses are\ntrademarks of CYAN WORLDS, INC. ©\n2006-2012 SUNSOFT All other rights\nproperty of HOPLITE RESEARCH, LLC\n© 2006-2012. All other trademarks\nand trade names are properties of\ntheir respective owners. All Rights\nReserved. Licensed to FUNBOX\nMEDIA LTD by HOPLITE RESEARCH,\nLLC.",
+    "catch_copy": "",
+    "websites": []
+}

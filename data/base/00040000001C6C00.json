@@ -1,0 +1,46 @@
+{
+    "tid": "00040000001C6C00",
+    "name": "Crystareino",
+    "product_code": "CTR-N-KNDE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000043085",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "KEMCO",
+    "genre": "RPG / Adventure / Strategy / Simulation",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-09-07",
+        "retail": ""
+    },
+    "formal_name": "Crystareino",
+    "description": "As always, the protagonist is training hard with his teacher Eppol, in order to become a respectable hero. After a training session, a mysterious light appears in front of them, engulfing the two. Summoned to another world, the two are bewildered by the situation and begin a journey to find a way to get back to their home world.\n<br>\n<br>Create the ultimate character by mastering up to 20 classes! Fill up the gauge in turn-based battles to unleash the ability only a Hero has; the Brave Burst.\n<br>\n<br>As you travel, you will come across more than 20 characters scattered around the world. You can even befriend characters who are not relevant to the story! If you want to be a true hero in a fantasy RPG, don't forget to help the townspeople by accepting the various subquests!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2013-2017 KEMCO/Hit-Point",
+    "catch_copy": "",
+    "websites": []
+}

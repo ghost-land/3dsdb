@@ -1,0 +1,46 @@
+{
+    "tid": "0004000000182900",
+    "name": "SADAME",
+    "product_code": "CTR-N-JFTP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000039504",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Thunderful Games",
+    "genre": "Action/RPG",
+    "rating": {
+        "system": "COB",
+        "rating": "M",
+        "age": "13"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-02-26",
+        "retail": ""
+    },
+    "formal_name": "SADAME",
+    "description": "Get ready to plunge into an exciting\nworld of brave heroes, huge demons\nand frantic combat in SADAME, only\non Nintendo 3DS™ family\nsystems!<br/><br/>\n<br/><br/>\nSet in an alternate fantasy version of\nthe historical Warring States period of\nJapan, SADAME mixes action-packed\nfighting with deep RPG elements. 100\nyears have passed since the Onin War\nand the world is in turmoil. Once\npeaceful lands now see demons\nappearing everywhere, destroying\neverything in their wake. As people\ncower in fear, four heroes rise to\ndestroy the invaders and bring peace\nback to the land.<br/><br/>\n<br/><br/>\nChoose your hero and fight your way\nthrough countless monsters, battling\nhuge bosses to erase the demon\nscourge. Collect new weapons, learn\nnew skills, upgrade your abilities and\nuse magic to save the world from\nultimate destruction at the hands of\nthe evil Nobunaga!<br/><br/>\n<br/><br/>\n• Stylish Action-RPG gameplay with\ndeep combat system and four unique\nheroes to choose from!<br><br>\n<br/><br/>\n• Extensive RPG elements allow you\nto level up with experience, upgrade\nequipment with elemental gems and\nunlock a massive skill tree to evolve\nyour hero.<br/><br/>\n<br/><br/>\n• Huge replay value – collected loot\ncarries over between save files, levels\nsplit into different paths and multiple\ndifficulty levels offer unique\nchallenge.<br><br>\n<br/><br/>\n• Team up via StreetPass! Trade\nheroes with other players and then\nhave their characters assist you in\nbattle.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "RPG"
+    ],
+    "features": [
+        "Supports StreetPass"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2014 Intergrow Inc. All rights\nreserved. Developed by Mebius.<br>\n<br/><br/>\nLicensed to and published by Rising\nStar Games Ltd.",
+    "catch_copy": "",
+    "websites": []
+}

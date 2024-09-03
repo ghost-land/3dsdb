@@ -1,0 +1,57 @@
+{
+    "tid": "000400000F706900",
+    "name": "Lifespeed",
+    "product_code": "KTR-N-CALE",
+    "region": "na",
+    "version": "v0.2.0",
+    "nid": "50010000042119",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS Download Only"
+    },
+    "publisher": "Nami Tentou",
+    "genre": "Arcade / Racing / Shooter",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-02-02",
+        "retail": ""
+    },
+    "formal_name": "Lifespeed",
+    "description": "Lifespeed is the ultimate race for survival. Battle your galactic opponents while flying at high speed through exciting tunnels.  Your planet needs you!\n<br>One thousand years ago a Great War threatened to engulf the galaxy. The United Government was formed to stop the impending Armageddon. Now there is a new genocide called Lifespeed. Instead of war, disputes about resources and survival are settled on the track. Each rider is forced to compete for their planet’s survival and for the chance to become Archon. You are Cypher Reid.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade",
+        "Racing",
+        "Shooter"
+    ],
+    "features": [
+        "Supports Online Play",
+        "Displays 3D Visuals",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© NAMI TENTOU MUSHI, LLC",
+    "catch_copy": "",
+    "websites": []
+}

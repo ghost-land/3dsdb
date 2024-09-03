@@ -1,0 +1,39 @@
+{
+    "tid": "00040000001A5200",
+    "name": "BOXBOXBOY! ",
+    "product_code": "CTR-N-KCAZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000041775",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "Nintendo",
+    "genre": "퍼즐 액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-10-19",
+        "retail": ""
+    },
+    "formal_name": "BOXBOXBOY! ",
+    "description": "박스를 꺼낼 수 있는 주인공을 조작해서, 다양한 장애물들을 극복하여 스테이지를 클리어해 나가는「BOXBOY!」시리즈 제2탄.\n\nBOXBOXBOY!에서는 주인공이 파워 업해서 무려 박스를 2개나 꺼낼 수 있게 되었습니다. 스테이지에는 새로운 장치가 도입되었으며, 장치를 움직이거나 박스에 박스를 걸쳐서 높은 곳을 넘는 것도 가능합니다. \n2개의 박스를 어떻게 사용할지가 관건인 BOXBOXBOY! 는 퍼즐 액션 게임입니다.",
+    "movies_id": [],
+    "disclaimer": "※국내에서 제공하지 않는 서비스로 인해 일부 사양에서 에러 메시지가 표시되는 경우가 있습니다.\n\n※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:BOXBOXBOY! \n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160708-006\n등급분류 일자:2016.07.08\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n   자막: 영어\n※ for sale in Korea only",
+    "genres": [
+        "퍼즐",
+        "액션"
+    ],
+    "features": [],
+    "languages": [],
+    "number_of_players": "",
+    "copyright": "©2016 HAL Laboratory, Inc. / Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

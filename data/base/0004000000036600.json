@@ -1,0 +1,59 @@
+{
+    "tid": "0004000000036600",
+    "name": "DualPenSports™",
+    "product_code": "CTR-P-APPE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000000441",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Retail Only"
+    },
+    "publisher": "BANDAI NAMCO Entertainment",
+    "genre": "Sports",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [
+        "NAMCO BANDAI Games America",
+        "Minigames",
+        "Local Play",
+        "3D Games"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "",
+        "retail": "2011-06-21"
+    },
+    "formal_name": "DualPenSports™",
+    "description": "Compete using dual styluses for a fun and exciting real sports experience!\n<br><br>\nThe first ever dual touch action sports game, DualPenSports™ lets players feel more like they’re playing real sports with the use of up to two styluses.  Exciting and accessible to everyone, DualPenSports’ two hand coordination challenges players to have fun in new ways!\n<br><br>\nWith 7 unique sports mini-games and a host of other challenges, DualPenSports delivers addicting moments of glory every athlete wants to play again and again!  Players create and customize their own Athletes and then face off against the computer or friends in exciting sports mini-games!",
+    "movies_id": [],
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "genres": [
+        "Sports",
+        "Action",
+        "Multiplayer",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 - 2 players",
+    "copyright": "DualPenSports™ & © 2011 NAMCO <br>\nBANDAI Games Inc.",
+    "catch_copy": "",
+    "websites": []
+}

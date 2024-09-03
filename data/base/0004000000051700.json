@@ -1,0 +1,63 @@
+{
+    "tid": "0004000000051700",
+    "name": "Swapnote™",
+    "product_code": "CTR-N-JFRE",
+    "region": "na",
+    "version": "v3.3.0",
+    "nid": "50010000008561",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nintendo",
+    "genre": "Communication",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [
+        "Swapnote",
+        "Nintendo"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-08-06",
+        "retail": ""
+    },
+    "formal_name": "Swapnote™",
+    "description": "Swapnote lets you create handwritten notes and then share those notes with other Swapnote users on your friend list via the StreetPass™ feature. As your note collection grows and you spend Play Coins, you’ll unlock new features and be able to personalize messages even further by changing stationery patterns, attaching photos and sound recordings, writing and drawing in 3D, and more. You’ll even be able to surprise your friends with secret notes that they can only open on a certain date! \n<br><br>\nAn update for the Swapnote™ application is available.<br>\n<br>\nAfter you perform the update you can: <br>\nAttach a photo and/or audio recording when you reply to a note <br>\nUndo or redo your last pen stroke<br>\nUse a different pen color on each page of a note<br>\nFilter your notes to only see those created by a specific user or those marked as favorites <br>\nDelete multiple notes at once<br>\nTake photos and record audio from within the application<br>\nEnjoy faster load times<br>\n<br><br>\nPlease note: This update won’t affect your saved data. If you downloaded Swapnote on April 11, 2013 or later, you don’t need to download this update.\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nPlease note that the SpotPass feature of Swapnote (the ability to send notes to friends over the Internet) has been stopped as of 10/31/2013. We greatly appreciate your understanding.",
+    "genres": [
+        "Communication",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass",
+        "Mii"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "pt",
+            "name": "Portuguese"
+        }
+    ],
+    "number_of_players": "",
+    "copyright": "© 2011 Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

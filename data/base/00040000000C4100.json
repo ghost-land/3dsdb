@@ -1,0 +1,42 @@
+{
+    "tid": "00040000000C4100",
+    "name": "KOKUGA",
+    "product_code": "CTR-P-AK8Z",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000012631",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "G.rev",
+    "genre": "멀티플레이 슈팅",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-11-28",
+        "retail": ""
+    },
+    "formal_name": "KOKUGA",
+    "description": " 적을 노리고, 쏘고, 파괴하는 슈팅 게임의 원초적인 재미를 느낄 수 있는 KOKUGA.\n\n 기본 조작은 심플하면서도, 플레이어의 아이템인 카드를 사용하여 전략성을 높이고, 궁극의 자유도를 가지는 스테이지 선택 등이 심오한 게임성을 만들어내고 있습니다.\n\n 게다가, 하나의 소프트웨어로 최대 4명까지 즐길 수 있는「다운로드 플레이」에 대응! 언제 어디서나 친구들과 협력 플레이가 가능합니다.\n\n 누구나 손쉽게 즐길 수 있는 “본격 멀티플레이 슈팅 게임”입니다. \n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.\n※ 본 소프트웨어 내에는 전자설명서가\n제공되지 않습니다. ",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : KOKUGA\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-121107-010\n등급분류 일자 : 2012.11.7.\n제작・배급업신고번호 : 2006000019  \n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
+    "genres": [
+        "슈팅"
+    ],
+    "features": [
+        "3D 영상 대응",
+        "로컬 플레이 대응",
+        "다운로드 플레이 대응"
+    ],
+    "languages": [],
+    "number_of_players": "1명\n로컬 플레이는 2~4명까지 가능\n다운로드 플레이는 2~4명까지 가능",
+    "copyright": "©2012 G.rev Ltd. ALL RIGHTS RESERVED.\nMusic and Sound FX (C)2012 M2 Co.,Ltd.\n\nTrademarks are property of their respective owners.\nNintendo 3DS is a trademark of Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

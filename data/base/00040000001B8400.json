@@ -1,0 +1,46 @@
+{
+    "tid": "00040000001B8400",
+    "name": "イモムシウォーズ",
+    "product_code": "CTR-N-KWWJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000042520",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2018-09-12",
+        "retail": ""
+    },
+    "formal_name": "イモムシウォーズ",
+    "description": "イモムシウォーズは、フィールドに散乱するエサを食べ、イモムシを太くそして長く成長させていくアクションゲームです。\n<br>障害物や他のイモムシの体に、頭が触れると消滅してしまいます。\n<br>ライバルとなるイモムシとの生存競争ならぬ成長競争で勝利を目指しましょう。\n<br>このゲームには３つのゲームモードがあります。\n<br>\n<br>・対戦ウォーズ\n<br>コンピューターと対戦するモードです。\n<br>お好みの設定で対戦しましょう。\n<br>\n<br>・成長ミッション\n<br>次々に課せられるミッションをクリアしていくモードです。\n<br>連続クリア数は、ランキングとして保存されます。\n<br>\n<br>・イモムシダッシュ\n<br>コース内のゴールにいち早くたどり着くのが目的のモードです。\n<br>コースごとに、タイムに応じたトロフィーがもらえます。\n<br>金のトロフィーを目指しましょう。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "アクション"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2017 SIMS CO., LTD.\n<br>Published and distributed by Starsign, inc. Japan.",
+    "catch_copy": "イモムシたちの過酷な成長競争を生き残れ！",
+    "websites": []
+}

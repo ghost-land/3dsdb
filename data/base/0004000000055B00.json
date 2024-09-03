@@ -1,0 +1,61 @@
+{
+    "tid": "0004000000055B00",
+    "name": "Shinobi™",
+    "product_code": "CTR-P-ASVE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000007433",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Retail Only"
+    },
+    "publisher": "SEGA",
+    "genre": "Action Combat",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": "13"
+    },
+    "keywords": [
+        "3D Games",
+        "Combat",
+        "StreetPass",
+        "SEGA"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "",
+        "retail": "2011-11-15"
+    },
+    "formal_name": "Shinobi™",
+    "description": "Re-experience the classic gameplay of the original Shinobi games, with a modern twist. Defeat enemies with skill and style as you switch between ranged, melee and acrobatic attacks on the fly. Rely on your Ninja magic to get out of tight spots and give you advantage during intense fights. With a brand new combo system to master, a host of achievements to unlock and challenge maps to complete you will want to return again and again to better your score and ranking. Use the groundbreaking Streetpass functionality to unlock extra content with others.",
+    "movies_id": [],
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "genres": [
+        "Action",
+        "Platformer",
+        "Fighting"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "©SEGA. All rights reserved. SEGA is registered in the U.S. Patent and Trademark Office. SEGA, the SEGA logo and Shinobi are either registered trademarks or trademarks of SEGA Corporation. All rights reserved.\nCertain Technology ©2001 Griptonite, Inc. Griptonite Games and the Griptonite logo are registered trademarks of Griptonite, Inc. in the United States and/or other countries.",
+    "catch_copy": "",
+    "websites": []
+}

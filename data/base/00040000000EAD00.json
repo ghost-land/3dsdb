@@ -1,0 +1,52 @@
+{
+    "tid": "00040000000EAD00",
+    "name": "Kokuga",
+    "product_code": "CTR-N-AK8E",
+    "region": "na",
+    "version": "v0.2.0",
+    "nid": "50010000014944",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "G.rev",
+    "genre": "Shooter / Action / Multiplayer",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D games",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-06-27",
+        "retail": ""
+    },
+    "formal_name": "Kokuga",
+    "description": "After months of bitter conflict with its neighbor, country A is preparing to unleash its latest machine of war, code-named Kokuga. With access to 9 destructive weapons and an array of power-ups, the compact mobile tank is an elite military machine.\n<br><br>\nHighly-reputed boutique game studio G.rev is pleased to offer this old-school strategic shooter for the Nintendo 3DS.\n<br><br>\nPlayers are tasked with piloting Kokuga, and must destroy tanks, drones, gun towers and other mecha in 12 different training missions. Each stage culminates with a boss fight, pitting the player against massive heavily-armed bosses. Upon receiving orders for active duty, the player is thrust into action against enemy forces.\n<br><br>\nStructured so gamers have maximum freedom in their game experience, Kokuga is great for both casual game sessions or long challenges.\n<br><br>\nLocal and Download Play is supported, so assemble your squad of up to four players! Develop new strategies and help out your teammates by coordinating card use.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software.  Visit support.nintendo.com for information about storage options.  Sold separately.",
+    "genres": [
+        "Shooter",
+        "Action",
+        "Multiplayer"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Supports Download Play"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 - 4 players",
+    "copyright": "Â© 2012 G.rev Ltd. ALL RIGHTS RESERVED",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,69 @@
+{
+    "tid": "00040000001B4F00",
+    "name": "Miitopia™",
+    "product_code": "CTR-P-ADQP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000042844",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Card/Download)"
+    },
+    "publisher": "Nintendo",
+    "genre": "RPG",
+    "rating": {
+        "system": "COB",
+        "rating": "PG",
+        "age": "8"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-07-29",
+        "retail": "2017-07-29"
+    },
+    "formal_name": "Miitopia™",
+    "description": "Have you ever wondered what it’d be like to go on an adventure with your best friend, your crush and…your teacher?! Miitopia makes it happen! The big question is – who will you take with you?\n<br>\n<br>Everyone in Miitopia is a Mii! Whether it’s the fearless hero, the beautiful Princess or even the evil Dark Lord, you decide who stars in this story. You could have your best mates join you in battle, dress Grandad up like a King, or turn Mum into the big baddy. The choice is yours!<br>\n<br>Visit amiibo.nintendo.com.au for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "RPG"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports SpotPass",
+        "Mii",
+        "Nintendo Network",
+        "amiibo"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        },
+        {
+            "iso_code": "nl",
+            "name": "Dutch"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2016-2017 Nintendo Co., Ltd.",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,46 @@
+{
+    "tid": "000400000018DA00",
+    "name": "スバラシティ",
+    "product_code": "CTR-N-KWCJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000041796",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-02-15",
+        "retail": ""
+    },
+    "formal_name": "スバラシティ",
+    "description": "『スバラシティ』は、タッチでブロックをまとめて、ハイレベルな建物を作っていく「シティ創造パズル」です。\n<br>\n<br>操作はカンタン、しかし奥が深い。「ためてためてからのドーン」が爽快なパズルゲームです。\n<br>複数つながっているブロックをタッチで、建物を「まとめる」。建物をたくさん「まとめる」と、ハイレベルな建物になります。\n<br>さらに、ハイレベルな建物をたくさんフィールド上にためてから一度にまとめると、さまざまな「ハイレベルな建物」が建ちます。\n<br>\n<br>たくさんの「ハイレベルな建物」を建てて、最高ランクの都市「スバラシティ」を目指しましょう。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "パズル"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©RYUJI KUWAKI\n<br>©Flyhigh Works",
+    "catch_copy": "ブロックをまとめてハイレベルな建物を作ろう！\n<br>目標は最高の都市『スバラシティ』！",
+    "websites": []
+}

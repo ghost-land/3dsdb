@@ -1,0 +1,45 @@
+{
+    "tid": "00040000001C3700",
+    "name": "ドラゴンクエスト",
+    "product_code": "CTR-N-KQFJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000043036",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スクウェア・エニックス",
+    "genre": "RPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ドラゴンクエスト シリーズ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-08-10",
+        "retail": ""
+    },
+    "formal_name": "ドラゴンクエスト",
+    "description": "1986年に発売された、ドラゴンクエストシリーズの第一作目。\n<br>当時日本としては馴染みの薄かった「RPG」というジャンルを、日本国内に浸透させるきっかけとなりました。\n<br>\n<br>-ストーリー-\n<br>平和だったアレフガルドの世界に闇の覇者・竜王が現れ、世に平和をもたらしていた「光の玉」を奪い去ってしまった！\n<br>ふたたび闇に閉ざされた世界を救うため、伝説の勇者・ロトの血を引く主人公、つまりあなたは、竜王討伐の旅に出る――。",
+    "movies_id": [],
+    "disclaimer": "『ドラゴンクエストXI 過ぎ去りし時を求めて』をクリアして\"ある手順\"を踏むと、『ドラゴンクエスト』を無料でダウンロードできる期間限定のキャンペーンを実施中です。\n<br>（開催期間：2018年1月28日まで）\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "ロールプレイング"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 1986, 2017 ARMOR PROJECT/BIRD STUDIO/SPIKE CHUNSOFT/SQUARE ENIX All Rights Reserved.\n<br>© SUGIYAMA KOBO",
+    "catch_copy": "ドラゴンクエストシリーズ第一作目の『ドラゴンクエスト』です。 \n<br>シリーズの原点『ドラゴンクエスト』がついにニンテンドー3DSで登場！",
+    "websites": []
+}

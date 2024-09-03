@@ -1,0 +1,46 @@
+{
+    "tid": "00040000001C0200",
+    "name": "Timberman",
+    "product_code": "CTR-N-KTYE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000047776",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Insane Code",
+    "genre": "Arcade / Simulation",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2019-05-30",
+        "retail": ""
+    },
+    "formal_name": "Timberman",
+    "description": "Bigger. Better. MORE CHOPS!\n<br>The game loved by millions of players all around the world - Timberman, now has a brand new, polished axe! Are you world-class wood chopper?\n<br>Enter the digital forest and find out! Discover the Nintendo 3DS version of this classic, casual game - slice and dice trees in an arcade-style, challenge your friends and be the fastest timberman alive!\n<br>Timberman now features a single player challenge, to test your skills, unlock all characters, and have fun with your friends!\n<br>Grab your trustworthy axe, become a true Timberman, and chop trees in 4, unique game modes:\n<br>•\tClassic Timberman: train your axe skills, gain exp, and beat your personal high score - in a classic, single-player, infinite tree mode. Chop as fast as you can and avoid branches! Prove you're the REAL THING!\n<br>•\tHero mode: be the hero and rescue birds from their nest in burning woods - gain eternal glory and sweet loot! Can you reach the top of a tree?\n<br>•\tRace: join the race and be the fastest Timberman in a fun, tree-chopping competition! Play with 3 CPU controlled players and test your chopping skills in a crazy, fast-paced match! First on the finishing line WINS IT ALL!\n<br>•\tVS Mode: compete with another player on the same Nintendo 3DS system! Remember - the better one wins!!\n<br>Join millions of players playing Timberman, now on Nintendo 3DS - featuring brand new, exciting game modes, plenty of crazy new characters to unlock, and more fun than ever!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade",
+        "Simulation"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 - 2 players",
+    "copyright": "Tile rights: Digital Melody, code rights: Insane Code.\n<br>Copyright© 2019, Insane Code Poland. All right reserved to Nintendo 3DS™.",
+    "catch_copy": "",
+    "websites": []
+}

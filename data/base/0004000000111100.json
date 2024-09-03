@@ -1,0 +1,52 @@
+{
+    "tid": "0004000000111100",
+    "name": "Grinsia",
+    "product_code": "CTR-N-JGAE",
+    "region": "na",
+    "version": "v2.2.0",
+    "nid": "50010000022135",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nicalis",
+    "genre": "RPG",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [
+        "Nicalis",
+        "3D games",
+        "JRPG",
+        "Role Playing Game",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-05-08",
+        "retail": ""
+    },
+    "formal_name": "Grinsia",
+    "description": "The world of Grinsia was created by twin Goddesses. The elder sister created the winds and the skies and the younger sister brought forth the land and the sea, as well as the beings who were to inhabit the world. \n<br><br>\nThe Goddesses, having completed their creation, imbued six relics with remarkable powers to give life and energy to the world they had created. By doing this they made a promise to those who inhabited the world that their peace and well-being would last forever. \n<br><br>\nMany eons have since passed since and humankind has flourished under watchful eye of the two Goddesses. An \"Empire\" soon arose out of the ashes of constant warring and created an advanced civilization using machines. \n<br><br>\nIn a far-flung section of the Empire, ancient ruins, long since forgotten, have been unearthed. \n<br><br>\nA family of three treasure hunters soon find out about the treasure and go out in search of it for fortune and glory. ",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "RPG",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "(C)2013|2014 Nicalis, Inc.\n(C)2010-2014 KEMCO/MAGITEC",
+    "catch_copy": "",
+    "websites": []
+}

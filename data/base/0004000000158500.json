@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000158500",
+    "name": "Excave",
+    "product_code": "CTR-N-JEFE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000030976",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Teyon",
+    "genre": "RPG / Adventure / Action",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [
+        "Teyon"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-02-19",
+        "retail": ""
+    },
+    "formal_name": "Excave",
+    "description": "Imperial City is at war! The King needs you to explore the perilous and ancient Labyrinth beneath the city – find out why this mysterious magical laboratory now spews out an army of powerful monsters bent on destruction, and descend to its lowest depths to rescue the missing Magician.\n<br><br>\nTriumph in a test of your weapons & magic, or perish trapped deep within the twisting halls of the Labyrinth. Explore, fight and win fame & fortune, then return to the city above to heal, identify fabulous treasures and repair & upgrade your equipment. Are you brave enough to explore the treacherous depths?\n<br><br>\nClassic dungeon exploration RPG from Japan\nChoose and customize your character with hundreds of treasures and equipment items to collect, modify, upgrade, repair and sell\nTest your courage & skills against hundreds of unique enemies\n50 terrifying dungeon levels to explore, with 5 massive boss fights\nProgress through an epic storyline to develop your character's abilities in true RPG fashion",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "genres": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "©MECHANIC ARMS. Licensed to and published by Teyon.",
+    "catch_copy": "",
+    "websites": []
+}

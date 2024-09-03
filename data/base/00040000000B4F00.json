@@ -1,0 +1,63 @@
+{
+    "tid": "00040000000B4F00",
+    "name": "Fallblox™",
+    "product_code": "CTR-N-JAUP",
+    "region": "eu",
+    "version": "v1.0.0",
+    "nid": "50010000012471",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Nintendo",
+    "genre": "Puzzle/Platformer",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-11-15",
+        "retail": ""
+    },
+    "formal_name": "Fallblox™",
+    "description": "Welcome to the world of Fallblox!\nGet ready to push your brain to the\nlimit with 140 new levels, 90 training\nexercises and a unique addition to the\npuzzling gameplay: gravity!\n<br/><br/>\nFallblox might look familiar if you’ve\nalready played its predecessor,\nPullblox, but don’t be fooled! New\ngameplay elements help make Fallblox\na totally new experience and one\nthat’ll have you scratching your head\nfor a long time to come!\n<br/><br/>\nAs in Pullblox, the objective of each\nlevel is to reach the top of the\nstructure – where he previously\nrescued children, Mallo now has to\nsave the colourful birds that are\ntrapped at the top of each stage. But\nwhile the coloured blocks of Pullblox\ncould only be pulled outwards or\npushed inwards, Fallblox adds a third\ndimension and a whole new layer of\nchallenge to the puzzle experience!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Platformer"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports SpotPass"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2012 Nintendo / INTELLIGENT\nSYSTEMS",
+    "catch_copy": "",
+    "websites": []
+}

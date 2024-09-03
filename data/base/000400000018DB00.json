@@ -1,0 +1,48 @@
+{
+    "tid": "000400000018DB00",
+    "name": "エイリアンパニック！",
+    "product_code": "CTR-N-KAQJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000039055",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "アクションパズル"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-01-13",
+        "retail": ""
+    },
+    "formal_name": "エイリアンパニック！",
+    "description": "このゲームは上画面から迫ってくる宇宙人の隙間を埋め、宇宙人を消すことが目的のパズルゲームです。\n<br>上画面の配置に合わせて、下画面でブロックを配置し上画面に発射します。\n<br>\n<br>多くのパズルゲームでは、ブロックの形が決まっていることがほとんどでした。\n<br>本作では、下画面に表示されるグリッドをなぞるだけで、自由な形を作ることができます。\n<br>\n<br>本体タイトルでは、全3モードで遊ぶことができます。\n<br>\n<br>「惑星モード」\n<br>宇宙人に占領された8惑星を解放するモードです。\n<br>「スコア達成」や「エイリアンを倒す」など、いろいろなクリア条件を達成しましょう。\n<br>全32ステージです。\n<br>\n<br>「衛星モード」\n<br>宇宙人に占領された4衛星を解放するモードです。\n<br>「3連鎖達成」や「全消し達成」など、さらにテクニカルなクリア条件を達成しましょう。\n<br>全16ステージです。\n<br>\n<br>「無限モード」\n<br>時間制限無しで挑むやりこみモードです。\n<br>無数に出現するエイリアンをひたすら倒しましょう。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "パズル"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "(c)2016 SIMS CO., LTD.\n<br>Published and distributed by Starsign, Inc. in Japan",
+    "catch_copy": "宇宙人が攻めてきた！！\n<br>太陽系を守るため、宇宙人バスター、いざ、発進！！",
+    "websites": []
+}

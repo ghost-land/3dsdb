@@ -1,0 +1,40 @@
+{
+    "tid": "0004000000166800",
+    "name": "Goonyan",
+    "product_code": "CTR-N-KGNZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000035896",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "COSEN",
+    "genre": "액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-07-29",
+        "retail": ""
+    },
+    "formal_name": "Goonyan",
+    "description": " 스프링 형태의 우주 생물『Goonyan』을 조작하여, 적과 장해물들을 피하면서 계단 모양의 스테이지를 계속 내려가는 액션 게임입니다. \n 코인을 모아서 변신하면 무적 상태가 되어 한번에 계단을 내려갈 수 있습니다. \n 또한, 1대의 3DS 본체로 2명까지 대전플레이가 가능하여, 어느 쪽이 빨리 계단을 내려가 골에 도착하는지 경쟁할 수 있습니다.\n",
+    "movies_id": [],
+    "disclaimer": "<주의사항>\n※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n*주의사항*\n제명: Goonyan\n상호: COSEN\n이용등급: 전체이용가\n등급분류번호: GC-CC-NV-150529-006\n등급분류 일자: 2015.5.29.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n",
+    "genres": [
+        "액션"
+    ],
+    "features": [
+        "3D 영상 대응"
+    ],
+    "languages": [],
+    "number_of_players": "",
+    "copyright": "©Moragami Published in Korea by COSEN Co., Ltd",
+    "catch_copy": "",
+    "websites": []
+}

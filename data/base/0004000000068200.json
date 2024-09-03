@@ -1,0 +1,58 @@
+{
+    "tid": "0004000000068200",
+    "name": "Pyramids",
+    "product_code": "CTR-N-JA9E",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000007906",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "VERSTRAETEN",
+    "genre": "Action / Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D games",
+        "Demo",
+        "Enjoy Gaming"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2011-10-27",
+        "retail": ""
+    },
+    "formal_name": "Pyramids",
+    "description": "Pyramids is a platform/puzzle game where an explorer tries to get out the pyramids with his loot. The task will not be easy. Many traps, monsters and dangers will put your dexterity and ingenuity to the test. The player will have to use TNT and a gun but his best friend remains his shovel which allows him to create and destroy bricks. These bricks will be used as stairs, bridges, protections... The explorer will venture through 54 challenging 3D levels divided in 6 worlds. At the end of each level, the player will obtain a star rating which will be used to unlock levels:\n<br>\n<br>1 star for finishing the level\n<br>2 stars for finishing the level and stealing all the loot\n<br>3 stars for finishing the level and stealing all the loot in a given time\n<br>\n<br>\n<br>The game will let the player use QR Code to unlock free news levels put on the Pyramids web page.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action",
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Published by Enjoy Gaming Limited 2011\n<br>All rights reserved. Enjoy Gaming is a registered trademark of Enjoy Gaming Limited. All rights reserved. All other trademarks and logos are the property of their respective owners. All rights reserved.",
+    "catch_copy": "",
+    "websites": []
+}

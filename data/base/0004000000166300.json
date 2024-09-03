@@ -1,0 +1,61 @@
+{
+    "tid": "0004000000166300",
+    "name": "Severed",
+    "product_code": "CTR-N-KSVE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000041788",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "DrinkBox Studios",
+    "genre": "Action / RPG / Adventure",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": "13"
+    },
+    "keywords": [
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-10-13",
+        "retail": ""
+    },
+    "formal_name": "Severed",
+    "description": "Take control of a one-armed warrior named Sasha, wielding a living sword on her journey through a nightmare world in search of her family.\n<br>\n<br>Swipe-based touch controls will let you solve puzzles, find secrets, and do battle with a host of disturbing monsters. As the journey goes on, you’ll unlock new abilities, ascend an RPG-style upgrade tree, and tease apart the mysteries of the dark fantasy universe Sasha finds herself in.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "pt",
+            "name": "Portuguese"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Severed © 2016 Drinkbox Studios Inc. All Rights Reserved. Developed and Published by Drinkbox Studios Inc. Drinkbox, Drinkbox Studios, the Drinkbox Studios design, \"Severed\" and any and all associated design(s) are trademarks and/or registered trademarks of Drinkbox Studios Inc.",
+    "catch_copy": "",
+    "websites": []
+}

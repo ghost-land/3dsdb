@@ -1,0 +1,55 @@
+{
+    "tid": "00040000000B6E00",
+    "name": "Crashmo™",
+    "product_code": "CTR-N-JAUE",
+    "region": "na",
+    "version": "v1.0.0",
+    "nid": "50010000012249",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nintendo",
+    "genre": "Action / Puzzle ",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Nintendo",
+        "3D Games",
+        "SpotPass",
+        "Nintendo Network",
+        "Nintendo 3DS eShop Exclusive"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-11-22",
+        "retail": ""
+    },
+    "formal_name": "Crashmo™",
+    "description": "Welcome to Crashmo! Embrace the laws of gravity, and challenge yourself with a whole new kind of action-puzzle play in this exciting sequel to the critically acclaimed Pushmo™ game. New gravity mechanics and gadgets like floating blocks, doors, and move switches await. Push, pull, and slide each puzzle's colorful blocks in order to climb to the top—just be careful where those blocks go. Unsupported blocks will come crashing down! The Crashmo game contains plenty of puzzles to test your skills, and enhanced puzzle-creation and puzzle-sharing features mean that even when all the puzzles are cleared, the fun never has to stop!",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports SpotPass",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2012 Nintendo / INTELLIGENT SYSTEMS.  Crashmo is a trademark of Nintendo. © 2012 Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

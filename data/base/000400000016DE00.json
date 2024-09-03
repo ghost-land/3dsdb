@@ -1,0 +1,54 @@
+{
+    "tid": "000400000016DE00",
+    "name": "SmileBASIC",
+    "product_code": "CTR-N-JPKE",
+    "region": "na",
+    "version": "v3.4.0",
+    "nid": "50010000037536",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "SmileBoom",
+    "genre": "Education",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "SmileBoom",
+        "3D games",
+        "SpotPass",
+        "DLC"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-10-15",
+        "retail": ""
+    },
+    "formal_name": "SmileBASIC",
+    "description": "Offers in-game purchases\n<br>\n<br>SmileBASIC is a portable version of a programming language known as BASIC.\n<br><BR><BR>\n<br>BASIC is a programming language designed to help beginners learn to program.\n<br><BR><BR>\n<br>As soon as you start SmileBASIC, you can begin programming!  When you're finished, you can play the game you made! Enjoy intuitive, trouble-free programming.\n<br><BR><BR>\n<br>A Range of Versatile Instructions:\n<br><BR><BR>\n<br>Pictures and words that “pop out” from the screen!<BR>\n<br>Information obtained from various different sensors<BR>\n<br>Voice input and playback via the microphone<BR>\n<br>Versus play using local wireless communication<BR>\n<br>Draw instructions for lines and circles, filling, and more<BR>\n<br>Music composition using MML<BR>\n<br><BR><BR>\n<br>Useful Tools:\n<br><BR><BR>\n<br>SMILE Tool (for checking SE and character numbers)<BR>\n<br>Paint Tool (for drawing characters and background images)<BR>\n<br>Animation Tool (for creating flipbook animations)<BR>\n<br>Mapping Tool (for arranging tiles to create maps)<BR>\n<br>Waveform Tool (for sampling and creating waveforms)<BR>\n<br><BR><BR>\n<br>Rich Sample Library:\n<br><BR><BR>\n<br>Characters and background images that can be used in a variety of contexts<BR>\n<br>Over 100 sound effects and 40 BGM tunes<BR>\n<br>Simple programs for helping to learn BASIC<BR>\n<br>Technical samples that allow the user to check the execution results for each instruction<BR>\n<br>Game samples created using advanced techniques",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>\n<br>In-game content available for purchase using stored account funds.",
+    "genres": [
+        "Education"
+    ],
+    "features": [
+        "Supports Online Play",
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Supports SpotPass",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 - 4 players",
+    "copyright": "© 2014 - 2015 SmileBoom Co.Ltd.\n<br>Misaki Gothic © 2002 - 2015 Num Kadoma",
+    "catch_copy": "",
+    "websites": []
+}

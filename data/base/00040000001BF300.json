@@ -1,0 +1,52 @@
+{
+    "tid": "00040000001BF300",
+    "name": "ドットアーティスト",
+    "product_code": "CTR-N-KZPJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000042543",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "レイニーフロッグ",
+    "genre": "ペイントツール",
+    "rating": {
+        "system": "CERO",
+        "rating": "教育・データベース",
+        "age": "0"
+    },
+    "keywords": [
+        "ツール",
+        "お絵かき・ぬりえ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-04-19",
+        "retail": ""
+    },
+    "formal_name": "ドットアーティスト",
+    "description": "基本機能（塗りつぶし、コピー、カットなど）に加えて、多くの機能を搭載。あなたの創造力を刺激するペイントソフトです。\n<br>\n<br>・4つのレイヤーに対応しています。（New ニンテンドー3DSでは、6つのレイヤーに対応。）\n<br>・3Dで絵を作れます！ 各レイヤーは3Dで別レイヤーになります。\n<br>・選択範囲をトリミング、反転、回転ができます。\n<br>・テキストに入力対応しています。（リサイズ、反転、回転。）\n<br>・キャンバスサイズは、60x60～400x240。制作途中でも自由にサイズ変更が可能です。\n<br>・カラーパレットはカスタマイズが可能です。（保存・読み込みにも対応。）\n<br>・完成アートは、PNGファイルで、SDカードにファイル保存ができます。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "学習",
+        "トレーニング",
+        "コミュニケーション",
+        "実用"
+    ],
+    "features": [
+        "3D映像対応",
+        "New 3DS対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2106-2017 Nostatic Software, LLC.\n<br>Licensed to and published by Rainy Frog LLC.",
+    "catch_copy": "1980年代、90年代に登場したクラシックゲームのアートスタイルで絵を作ろう！\n<br>レイヤー、トリミングなど多彩な機能を簡単操作。素敵なドットアートを完成させよう！",
+    "websites": []
+}

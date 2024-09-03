@@ -1,0 +1,61 @@
+{
+    "tid": "00040000001A8700",
+    "name": "Plantera",
+    "product_code": "CTR-N-KL8P",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000042135",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Ratalaika Games",
+    "genre": "Simulation / Strategy / Other",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-02-10",
+        "retail": ""
+    },
+    "formal_name": "Plantera",
+    "description": "Download Plantera on Nintendo 3DS™ for free if you have already downloaded Plantera on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>\n<br>Welcome to Plantera!\n<br>\n<br>In the world of Plantera you grow your own garden and breed plants and animals to earn coins with their produce.\n<br>Use the coins to buy new plants and animals, and also special items and garden expansions.\n<br>Watch everything grow, help planting and harvesting, buy new things, and defend your garden from sneaky magpies, rabbits, foxes, and wolves.\n<br>Raise your level and the productivity of your plants and animals!\n<br>Earn more and more, and create your own dream garden!\n<br>\n<br>\n<br>Features:\n<br>\n<br>* Relaxing gameplay.\n<br>   Create your own garden and breed different kinds of plants and animals.\n<br>\n<br>* Watch adorable creatures animated in a vivid, colorful and cartoony art style.\n<br>\n<br>* Interact with full touch screen controls.\n<br>   (designed for left-handers and right-handers)\n<br>\n<br>* Experience a real-time innovation!\n<br>    Your garden grows even when your system is powered off.\n<br>\n<br>* BUY 1 AND TAKE 2!\n<br>   Download Plantera on Nintendo 3DS™ for free if you have already downloaded Plantera on Wii U™.\n<br>   (Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>* Invite your family or friends to have their own garden as well!\n<br>   (3 save files per game)\n<br>\n<br>* Listen to the beautiful soundtrack by Jesse Valentine.\n<br>\n<br>* For Beginners:\n<br>   A Tutorial and detailed In-Game Manual.\n<br>\n<br>* For Experts:\n<br>   21 unlockable Achievements.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Simulation",
+        "Strategy",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "ru",
+            "name": "Russian"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2016-2017 Ratalaika Games S.L.\n<br>© 2016-2017 VaragtP Studios",
+    "catch_copy": "",
+    "websites": []
+}

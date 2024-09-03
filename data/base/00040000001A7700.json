@@ -1,0 +1,50 @@
+{
+    "tid": "00040000001A7700",
+    "name": "クエストオブダンジョンズ",
+    "product_code": "CTR-N-KQDJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000041792",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "ローグライク",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-11-16",
+        "retail": ""
+    },
+    "formal_name": "クエストオブダンジョンズ",
+    "description": "『クエストオブダンジョンズ』はダンジョン自動生成システムを搭載した「何度でも遊べるローグライクゲーム」です。\n<br>\n<br>プレイヤー側とテキ側が1ターンごとに1つのアクションを行うオーソドックスなローグライクゲーム。\n<br>敵にぶつかって攻撃、さらに魔法やスキルを使って敵を攻撃というシンプルなゲームルールでありながら、\n<br>ちょっとした不注意で強敵に囲まれてしまったら絶望という、\n<br>簡単操作でありながら、一瞬の油断が命取りの、ローグライクのスリルをおてがるに楽しめる作品です。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "インターネット対応",
+        "すれちがい通信対応",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© UPFALL STUDIO / FLYHIGH WORKS",
+    "catch_copy": "遊ぶたびに違う形のダンジョンに挑め！\n<br>何度でも遊べるローグライクゲーム！",
+    "websites": []
+}

@@ -1,0 +1,39 @@
+{
+    "tid": "0004000000191500",
+    "name": "Metroid",
+    "product_code": "CTR-N-TADZ",
+    "region": "kr",
+    "version": "v1.0.0",
+    "nid": "50010000039357",
+    "platform": {
+        "device": "CTR",
+        "name": "패밀리컴퓨터"
+    },
+    "publisher": "Nintendo",
+    "genre": "액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-02-03",
+        "retail": ""
+    },
+    "formal_name": "Metroid",
+    "description": "1986년 패밀리컴퓨터용으로 발매된 게임입니다.\n\n메트로이드 시리즈의 제 1탄으로, 여러 가지 액션과 던전 탐색을 즐길 수 있습니다. 다른 생물에 달라붙어 에너지를 빨아들이는 무서운 생명체인 ‘메트로이드’.  우주 해적에게 빼앗긴 메트로이드를 쫓아, 우주 전사인 사무스 아란은 해적의 본거지로 향합니다. 해적의 본거지 곳곳에 숨겨진 파워업 아이템을 손에 넣어, 무기나 파워 슈트의 능력을 강화하고, 본거지를 파괴하는 것을 목표로 합니다. \n",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n※ 닌텐도 3DS의 HOME 메뉴에서 본 \n소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n\n제명:Metroid\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160108-004\n등급분류 일자:2016.1.8.\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
+    "genres": [
+        "액션",
+        "어드벤처"
+    ],
+    "features": [],
+    "languages": [],
+    "number_of_players": "1명",
+    "copyright": "© 1986 Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

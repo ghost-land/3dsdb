@@ -1,0 +1,66 @@
+{
+    "tid": "0004000000165F00",
+    "name": "Severed",
+    "product_code": "CTR-N-KSVP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000041503",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "DrinkBox Studios",
+    "genre": "Action / RPG",
+    "rating": {
+        "system": "COB",
+        "rating": "M",
+        "age": "13"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-09-22",
+        "retail": ""
+    },
+    "formal_name": "Severed",
+    "description": "Download Severed on Nintendo 3DS™ for free if you have already downloaded Severed on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>Take control of a one-armed warrior named Sasha, wielding a living sword on her journey through a nightmare world in search of her family. Swipe-based touch controls will let you solve puzzles, find secrets, and do battle with a host of disturbing monsters. As the journey goes on, you’ll unlock new abilities, ascend an RPG-style upgrade tree, and tease apart the mysteries of the dark fantasy universe Sasha finds herself in.\n<br>\n<br>KEY FEATURES\n<br>- Dungeon Combat: Master offensive and defensive touch combat techniques to survive intense battles against a menagerie of enemies.\n<br>- Severing: Best enemies in combat for a chance at severing their body parts -- then wear them to gain new powers or consume them to upgrade your equipment and abilities.\n<br>- Exploration: Follow branching routes through the unknown, using your wits to avoid hazards and solve puzzles.\n<br>- Music: Original soundtrack from Juno- and Polaris-nominated band YAMANTAKA // SONIC TITAN featuring Pantayo.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "RPG"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        },
+        {
+            "iso_code": "ru",
+            "name": "Russian"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Severed © 2016 Drinkbox Studios Inc. All Rights Reserved. Developed and Published by Drinkbox Studios Inc. Drinkbox, Drinkbox Studios, the Drinkbox Studios design, \"Severed\" and any and all associated design(s) are trademarks and/or registered trademarks of Drinkbox Studios Inc.",
+    "catch_copy": "",
+    "websites": []
+}

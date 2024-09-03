@@ -1,0 +1,53 @@
+{
+    "tid": "0004000000086C00",
+    "name": "escapeVektor™",
+    "product_code": "CTR-N-JEVE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000012813",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nnooo",
+    "genre": "Retro / Puzzle / Arcade / Adventure",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D Games",
+        "Nintendo Network",
+        "Nnooo",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-12-20",
+        "retail": ""
+    },
+    "formal_name": "escapeVektor™",
+    "description": "Vektor has been trapped inside the CPU for what feels like an eternity and you are his only hope of escape. As he travels through the CPU, help him recover his memories and destroy the different enemy types sent to hunt him. But be careful, the further Vektor gets, the more devious the CPU becomes!\n<br><br>\nThere is a whole world to uncover within your CPU! Hiding away are 150 levels (nodes), 27 worlds (zones) and 4 unique abilities to unlock and upgrade. Vektor will allow you to Detonate to destroy enemies, Boost and Super Boost to out run them and Boostenate to smash your way through, you are sure to be able to help him escape!\n<br><br>\nOnline leaderboards allow you to compete against your friends, those in your location and those closest to you in score. Use wildcards to double your score in each level and boost your standing in the leaderboards!",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Adventure",
+        "Arcade",
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2011, 2012 Nnooo. All rights reserved.",
+    "catch_copy": "",
+    "websites": []
+}

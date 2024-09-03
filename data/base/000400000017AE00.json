@@ -1,0 +1,49 @@
+{
+    "tid": "000400000017AE00",
+    "name": "出会い玉",
+    "product_code": "CTR-N-KDEJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000036575",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ロジックパズル",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-09-02",
+        "retail": ""
+    },
+    "formal_name": "出会い玉",
+    "description": "別々のスタート位置にある2つの玉を同時に転がし、ゴール地点でちょうど出会ってぶつかるように、ブロックとパネルを並べて、玉の通り道とスピードを調整するカジュアルタイプのパズルゲームです。\n<br>全部で3つのモードで遊べます。\n<br>\n<br>全30ステージを自由気ままに楽しむことができる「フリーモード」!\n<br>ゴールでの時間差を感じ取る「時間差でGO!」!\n<br>1つの玉が、ちょうどゴール地点で止まる「シングルモード」!\n<br>\n<br>各モード共に、ギミックの特性とオブジェクトの配置を活用して、2つの玉をゴールで出会わせましょう。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "パズル",
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2015 SIMS CO., LTD.\n<br>Published and distributed by Starsign, Inc. in Japan",
+    "catch_copy": "ちょっと変わった雰囲気の誘導パズルゲームが登場！\n<br>２つの玉がゴールで出会うようにしよう！",
+    "websites": []
+}
