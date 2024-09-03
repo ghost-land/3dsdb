@@ -56,7 +56,7 @@ media/
 
 Json Structure :
 ```
-"id": ""
+"tid": ""
 "nid": ""
 "name": ""
 "product_code": ""
