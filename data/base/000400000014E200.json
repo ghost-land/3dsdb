@@ -1,0 +1,48 @@
+{
+    "tid": "000400000014E200",
+    "name": "Hazumi",
+    "product_code": "CTR-N-KHZP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000029475",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Gamelion",
+    "genre": "Arcade/Puzzle/Action",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-01-22",
+        "retail": ""
+    },
+    "formal_name": "Hazumi",
+    "description": "Hazumi is a game of action and\npuzzle-solving where you control a\ncolored ball. Your goal in each level\nis to destroy all crystal blocks. You\ncan only remove a block if it matches\nthe color of the ball. Deadly traps and\nlabyrinths will stand in your way, so\nuse cunning to your advantage!\n<br/>\nFeaturing over 100 puzzles, a level\neditor, pixel art graphics and\nimmensely addictive gameplay,\nHazumi will keep you entertained for\ndays!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Platformer"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "2014 Gamelion Studios Â©",
+    "catch_copy": "",
+    "websites": []
+}

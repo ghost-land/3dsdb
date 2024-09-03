@@ -1,0 +1,49 @@
+{
+    "tid": "000400000F715300",
+    "name": "D.U.N.K.L.E.R",
+    "product_code": "KTR-N-CD9P",
+    "region": "de",
+    "version": "v0.0.0",
+    "nid": "50010000049475",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS (Download)"
+    },
+    "publisher": "Guy Saldanha",
+    "genre": "Platformer / Action / Adventure / Arcade",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2022-06-09",
+        "retail": ""
+    },
+    "formal_name": "D.U.N.K.L.E.R",
+    "description": "D.U.N.K.L.E.R is a 3D first-person platformer in which you have to reach the end of the level before it is too dark. \n<br>\n<br>You can jump and run. You get faster as long as you keep moving.\n<br>\n<br>There are nine main levels, four extra levels you can unlock as well as an endless mode and a speed run mode.\n<br>\n<br>You can choose between easy, normal and hard difficulty settings.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player\nSingle-Player",
+    "copyright": "Â© Eric Lutz 2021",
+    "catch_copy": "",
+    "websites": []
+}

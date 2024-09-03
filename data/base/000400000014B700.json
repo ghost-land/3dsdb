@@ -1,0 +1,49 @@
+{
+    "tid": "000400000014B700",
+    "name": "DOOORS",
+    "product_code": "CTR-N-KDRJ",
+    "region": "jp",
+    "version": "v0.3.0",
+    "nid": "50010000028155",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "PUMO",
+    "genre": "パズル･脱出ゲーム",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "脱出",
+        "謎解き"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-12-03",
+        "retail": ""
+    },
+    "formal_name": "DOOORS",
+    "description": "2017年4月6日(木)18時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>このゲームの目的は閉じ込められた部屋から脱出すること。\n<br>脱出するには、画面をタッチしたり、ボタンを押したり、時にはニンテンドー3DS本体を傾けたり、直感的な閃きが必要な場合もあるでしょう。\n<br>知恵と閃きで部屋から脱出しましょう!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "パズル",
+        "アドベンチャー"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©58 WORKS\n<br>©PUMO co.,Ltd.",
+    "catch_copy": "部屋に隠された謎を解き明かし\n<br>次々とドアを開けて部屋から脱出しよう！",
+    "websites": []
+}

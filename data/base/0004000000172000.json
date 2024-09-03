@@ -1,0 +1,47 @@
+{
+    "tid": "0004000000172000",
+    "name": "Xeodrifter",
+    "product_code": "CTR-N-KXEP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000034215",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Atooi",
+    "genre": "Platformer/Action/Adventure",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-06-18",
+        "retail": ""
+    },
+    "formal_name": "Xeodrifter",
+    "description": "Xeodrifter is the story of an\ninterstellar drifter traveling the stars\non a simple mission of exploration. We\njoin our nomad as he embarks on the\ninvestigation of a small cluster of four\nplanets in the omega sector, after a\ncollision with a rogue asteroid\ndamaged his warp core.\n<br/><br/>\nBlast your way through alien\nlandscapes, seek out valuable secrets,\nand defeat ancient guardians to\nunlock powers from a legendary\nsupreme culture in this exciting\njourney of mystery and adventure.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Copyright Â© Renegade Kid\n2014-2015. All rights reserved.\nRenegade Kid and Xeodrifter are\nregistered trademarks or trademarks\nof Renegade Kid LLC.",
+    "catch_copy": "",
+    "websites": []
+}

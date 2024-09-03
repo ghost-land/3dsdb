@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000152F00",
+    "name": "ピンポントリックショット",
+    "product_code": "CTR-N-KP9J",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000026896",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "ピンポン玉アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-11-05",
+        "retail": ""
+    },
+    "formal_name": "ピンポントリックショット",
+    "description": "トリックショットとはかっこよくボールをカップに入れること。\n<br>何度も、壁をはねながら入れるなんて難しい、成功すれば気持ちいい、それを手軽に感じられるようにしたものがこの『ピンポントリックショット』です。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2014 SIMS CO., LTD\n<br>Published and distributed by Starsign, Inc. in Japan",
+    "catch_copy": "狙って、狙って……気持ちいい！！\n<br>トリックショットを手軽にできる発射パズルゲームが登場！",
+    "websites": []
+}

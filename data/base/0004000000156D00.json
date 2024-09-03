@@ -1,0 +1,52 @@
+{
+    "tid": "0004000000156D00",
+    "name": "トイスタントバイク",
+    "product_code": "CTR-N-JTVJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000028966",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "賈船",
+    "genre": "レーシング",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "じっくり",
+        "ランキング対応"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-12-24",
+        "retail": ""
+    },
+    "formal_name": "トイスタントバイク",
+    "description": "おもちゃのミニチュアバイクを操縦し、家の中でバイクスタントを楽しみましょう。巨大なソファーやトイレを越えて、ウィリーなどのアクロバットな技を流れるように繰り出し、ハイスコアを狙いましょう。また、世界中のプレイヤーとタイムを競えるランキングにも参加できます。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "レース",
+        "スポーツ",
+        "アクション"
+    ],
+    "features": [
+        "インターネット対応",
+        "3D映像対応",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©WobblyTooth Ltd. Published by COSEN Co., Ltd.",
+    "catch_copy": "過激なスタントを華麗に決めよう！\n<br>エクストリームバイクゲーム",
+    "websites": []
+}

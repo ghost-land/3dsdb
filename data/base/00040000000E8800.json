@@ -1,0 +1,49 @@
+{
+    "tid": "00040000000E8800",
+    "name": "ガンマンストーリー",
+    "product_code": "CTR-N-JGCJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000014317",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "ガンマンアクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-05-22",
+        "retail": ""
+    },
+    "formal_name": "ガンマンストーリー",
+    "description": "『ガンマンストーリー』は、ガンマンの「クライブ」を操作し、ガンを片手に、さらわれてしまった「いとしのアイツ」を助けに行く「ガンマンアクションゲーム」です。道中には、さまざまなテキとギミックが主人公のクライブを待ち受けます。\n<br>\n<br>西部劇にありそうなシチュエーションと、現実世界にはありえないギミック! 反射神経を最大限に駆使し、クリアを目指せ!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "シューティング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2013 Hörberg Productions\n<br>©Flyhigh Works\n<br>©CIRCLE Ent.",
+    "catch_copy": "いとしのアイツを救うため\n<br>ガンを片手に、つきすすめ！",
+    "websites": []
+}

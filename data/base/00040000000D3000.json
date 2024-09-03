@@ -1,0 +1,48 @@
+{
+    "tid": "00040000000D3000",
+    "name": "YouTube",
+    "product_code": "CTR-N-JYTJ",
+    "region": "jp",
+    "version": "v2.3.0",
+    "nid": "50010000017853",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "Google",
+    "genre": "動画共有サービス",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [
+        "ツール"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-12-10",
+        "retail": ""
+    },
+    "formal_name": "YouTube",
+    "description": "2019年9月3日(火)1時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>2005年2月に創設された『YouTube』では、何十億人もの人々がオリジナルの動画を発見、閲覧、共有しています。『YouTube』は、世界中の人々が繋がり、情報を交換し、お互いに影響を与え合うフォーラムを提供します。\n<br>オリジナルコンテンツ制作者や広告主にとっての配信プラットフォームです。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "その他"
+    ],
+    "features": [
+        "インターネット対応",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "YouTubeおよびYouTubeロゴは、Google Inc.の商標または登録商標です。",
+    "catch_copy": "ニンテンドー3DSで『YouTube』を楽しむ。",
+    "websites": []
+}

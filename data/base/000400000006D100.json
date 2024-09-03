@@ -1,0 +1,56 @@
+{
+    "tid": "000400000006D100",
+    "name": "Luxor",
+    "product_code": "CTR-P-ALXP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000014553",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Card/Download)"
+    },
+    "publisher": "MSL",
+    "genre": "Arcade",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-06-20",
+        "retail": "TBD"
+    },
+    "formal_name": "Luxor",
+    "description": "The mysterious goddess, Isis, has\nenlisted you to battle Set and his evil\nminions. The challenge will not be an\neasy one. Use your mystical winged\nscarab to shoot magical spheres and\ndestroy the approaching colored\nspheres by making matches of three or\nmore. Stop them all before they can\nreach the pyramids at the ends of the\npaths... or all of Egypt is doomed!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Action"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "nl",
+            "name": "Dutch"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2013 Media Sales & Licensing all rights reserved",
+    "catch_copy": "",
+    "websites": []
+}

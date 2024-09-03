@@ -1,0 +1,50 @@
+{
+    "tid": "000400000019B400",
+    "name": "Gunslugs",
+    "product_code": "CTR-N-KGWE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000040675",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Engine Software",
+    "genre": "Action / Shooter / Adventure",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": "13"
+    },
+    "keywords": [
+        "3D",
+        "Engine Software"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-06-16",
+        "retail": ""
+    },
+    "formal_name": "Gunslugs",
+    "description": "Gunslugs is a fast paced run and jump game with procedurally generated levels and a rogue-like permadeath element. You get one life, and the only way you can extend that is by running into the Voodoo priest selling continue statues.\n<br>\n<br>Unlock the roster of Gunslugs heroes as you go, and use them to advance your way to the gates of Hell to defeat the final boss.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software. <br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2016 Engine Software & Orangepixel",
+    "catch_copy": "",
+    "websites": []
+}

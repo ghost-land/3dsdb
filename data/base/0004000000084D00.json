@@ -1,0 +1,47 @@
+{
+    "tid": "0004000000084D00",
+    "name": "AeternoBlade",
+    "product_code": "CTR-P-ACUP",
+    "region": "eu",
+    "version": "v0.2.0",
+    "nid": "50010000018493",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Card/Download)"
+    },
+    "publisher": "CORECELL",
+    "genre": "Action/Adventure/Platformer",
+    "rating": {
+        "system": "PEGI",
+        "rating": "12",
+        "age": "12"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-02-27",
+        "retail": "TBD"
+    },
+    "formal_name": "AeternoBlade",
+    "description": "In the region of Awelsia, vengeful\nFreya travels with an unknown weapon\ncalled \"AeternoBlade\" to take\nrevenge from Beladim, the Lord of the\nMist who destroyed her village,\nRidgerode, and killed her tribe. Her\nvengence is helped by Vernia , who\nhas as much merit as Beladim. Vernia\ntaught Freya about the ablility of\nAeternoBlade.\n<br/><br/>\nFreya has to venture in many world\ndimensions to find how to annihilate\nBeladim.\n<br/><br/>\nWhat is AeternoBlade? and How can\nFreya take revenge from Beladim?\nSolve tons ton of mysteries in her\nadventure!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2013 Corecell Technology Co,ltd.",
+    "catch_copy": "",
+    "websites": []
+}

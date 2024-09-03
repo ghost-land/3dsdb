@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000129A00",
+    "name": "SKYPEACE",
+    "product_code": "CTR-N-JKJJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000021453",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ソニックパワード",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "横スクロールアクション",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-04-09",
+        "retail": ""
+    },
+    "formal_name": "SKYPEACE",
+    "description": "『SKYPEACE』は次々と現れる敵を上手く避けつつ、ステージクリアを目指すハイスピードアクションゲームです。\n<br>\n<br>かんたん操作で大量のコインをゲットする爽快感!\n<br>連続コインゲットで発生するコンボをつないで、ハイスコアを目指しましょう。\n<br>\n<br>さらに、いろいろな条件で獲得できる「称号コレクション」でやりこみ要素も充実!\n<br>空を舞台に繰り広げられる爽快ハイスピードアクションをお楽しみください!!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2014 Sonic Powered Co.,Ltd.",
+    "catch_copy": "爽快！　お手軽アクション！！\n<br>ハイスピードで空を翔け抜けろ！",
+    "websites": []
+}

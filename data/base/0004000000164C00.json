@@ -1,0 +1,46 @@
+{
+    "tid": "0004000000164C00",
+    "name": "KAMI",
+    "product_code": "CTR-N-KMZJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000030575",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-02-18",
+        "retail": ""
+    },
+    "formal_name": "KAMI",
+    "description": "『KAMI』は、いろんな模様に描かれたステージを、紙をめくり1つの色に整えていく、純粋思考型パズルゲームです。\n<br>\n<br>下画面のマス目をタッチすると、それに隣接したマスが続々と同じ色にめくれていきます。\n<br>\n<br>指定されたステップ数以内に、ステージを1つの色に整えることができれば、ステージクリアです。\n<br>\n<br>和風の紙をテーマにした世界観とサウンドで、めくるめく、紙(KAMI)のパズルをお楽しみください。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "パズル"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©State of Play\n<br>©Flyhigh Works",
+    "catch_copy": "めくるめく、紙(KAMI)の世界。",
+    "websites": []
+}

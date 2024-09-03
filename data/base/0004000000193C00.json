@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000193C00",
+    "name": "ファンタジーパイレーツ",
+    "product_code": "CTR-N-KFPJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000040115",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "賈船",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-04-20",
+        "retail": ""
+    },
+    "formal_name": "ファンタジーパイレーツ",
+    "description": "宝箱の周りをグルグル回りながら砲撃を加えて攻撃していくタワーオフェンス型アクションストラテジーゲームです。\n<br>障害物や敵を避けながらドンドン砲弾を撃ち込みましょう。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "シューティング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2015 EnjoyUp Games Publishing in Japan by COSEN Co., Ltd.",
+    "catch_copy": "海賊になって宝島を襲って宝箱を奪い取ろう！",
+    "websites": []
+}

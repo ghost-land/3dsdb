@@ -1,0 +1,44 @@
+{
+    "tid": "000400000015F400",
+    "name": "KAMI",
+    "product_code": "CTR-N-KMZP",
+    "region": "eu",
+    "version": "v1.1.0",
+    "nid": "50010000032355",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "Puzzle / Lifestyle",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-05-19",
+        "retail": ""
+    },
+    "formal_name": "KAMI",
+    "description": "KAMI is deceptively simple: fold out\n<br>colored paper to fill the screen in with\n<br>few moves as possible.\n<br>\n<br>Relaxing and easy to pick up, you'll\n<br>soon find yourself deep in\n<br>contemplation to perfect each puzzle.\n<br>\n<br>Created by State of Play, famous for\n<br>their handcrafted aesthetics, KAMI has\n<br>been created with real paper in an\n<br>elegant Japanese theme.\n<br>\n<br>KAMI is tactile, engaging and\n<br>stunning to look at.\n<br>\n<br>63 unique puzzles!\n<br>\n<br>Premium Puzzles and Hints are\n<br>included.\n<br>\n<br>Also includes a Calming and elegant\n<br>soundtrack.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Lifestyle"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© Flyhigh Works\n<br>\n<br>© State of Play\n<br>\n<br>© CIRCLE Entertainment Ltd.",
+    "catch_copy": "",
+    "websites": []
+}

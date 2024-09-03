@@ -1,0 +1,46 @@
+{
+    "tid": "000400000013FD00",
+    "name": "Shizuku",
+    "product_code": "CTR-N-JRYJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000023384",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-06-25",
+        "retail": ""
+    },
+    "formal_name": "Shizuku",
+    "description": "『Shizuku』は、雨降る世界のなか、\n<br>水滴（Shizuku）を操作し、パズルを解いていく\n<br>「純粋思考型パズル」です。\n<br>\n<br>心を落ち着かせる雨音と、\n<br>上画面の窓からしたたる水滴。\n<br>そしてアクション要素無し、タイムリミット無しの、\n<br>完全純粋思考型パズル。\n<br>\n<br>たまには、こんなゆっくりしっとりなパズルで、\n<br>まったりしましょう。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "パズル"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© Fallen Tree Games Ltd\n<br>© Flyhigh Works",
+    "catch_copy": "静かな雨音のなか\n<br>こんなパズルはいかが？",
+    "websites": []
+}

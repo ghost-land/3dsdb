@@ -1,0 +1,49 @@
+{
+    "tid": "000400000006E000",
+    "name": "タケヤリマン",
+    "product_code": "CTR-N-JTKJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000007902",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ポイソフト",
+    "genre": "竹ヤリアクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "すれちがい通信"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2011-11-02",
+        "retail": ""
+    },
+    "formal_name": "タケヤリマン",
+    "description": "『タケヤリマン』は、\"迫りくるハリボテの敵兵を、とにかく竹ヤリで突きまくるアトラクション\"をプレイするゲームです。シンプルなゲーム性ながら、即断即決や戦略を求められます。プレイ成績が記録された「タケヤリストカード」は、すれちがい通信でほかのプレイヤーと交換することができます。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応",
+        "すれちがい通信対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©POISOFT",
+    "catch_copy": "突く、倒す、突く、倒す、突く、倒す。\n<br>避ける、突く、倒す、避ける、突く、倒す！",
+    "websites": []
+}

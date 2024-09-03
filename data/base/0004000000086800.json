@@ -1,0 +1,46 @@
+{
+    "tid": "0004000000086800",
+    "name": "推拉方塊(繁體中文版)",
+    "product_code": "CTR-N-JCAW",
+    "region": "tw",
+    "version": "v0.0.0",
+    "nid": "50010000020295",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS 下載"
+    },
+    "publisher": "Nintendo",
+    "genre": "拼圖動作",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-02-21",
+        "retail": ""
+    },
+    "formal_name": "推拉方塊(繁體中文版)",
+    "description": "『推拉方塊』是一邊推出、拉入方塊建立踏足處，一邊跳躍攀登向終點前進的拼圖動作遊戲。看似無法攀登的地方，只要動動腦筋，便可看到前往終點的路。用Nintendo 3DS主機的A鍵「跳躍」、B鍵「接觸方塊」。接著一邊推拉方塊，一邊朝終點前進。\n",
+    "movies_id": [],
+    "disclaimer": "※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
+    "genres": [
+        "益智",
+        "動作"
+    ],
+    "features": [
+        "對應3D影像"
+    ],
+    "languages": [
+        {
+            "iso_code": "zh",
+            "name": "中文"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2011-2012 Nintendo/ INTELLIGENT SYSTEMS",
+    "catch_copy": "",
+    "websites": []
+}

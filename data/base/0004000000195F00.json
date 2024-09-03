@@ -1,0 +1,38 @@
+{
+    "tid": "0004000000195F00",
+    "name": "Alleyway",
+    "product_code": "CTR-N-RACZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000040542",
+    "platform": {
+        "device": "CTR",
+        "name": "게임보이"
+    },
+    "publisher": "Nintendo",
+    "genre": "액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-06-01",
+        "retail": ""
+    },
+    "formal_name": "Alleyway",
+    "description": "1989년 게임보이용으로 발매된 게임입니다.\n\n스크린 이곳 저곳을 돌아다니는 볼을 바를 이동시켜 튕겨내어 주어진 블록을 모두 부셔야 하는 게임입니다.",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n<br>제명:Alleyway\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160513-003\n<br>등급분류 일자:2016.5.13\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+    "genres": [
+        "액션"
+    ],
+    "features": [],
+    "languages": [],
+    "number_of_players": "",
+    "copyright": "©1989 Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

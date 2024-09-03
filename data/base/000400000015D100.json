@@ -1,0 +1,44 @@
+{
+    "tid": "000400000015D100",
+    "name": "Fairune(繁體中文版)",
+    "product_code": "CTR-N-KFRW",
+    "region": "tw",
+    "version": "v0.0.0",
+    "nid": "50010000028576",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS 下載"
+    },
+    "publisher": "Flyhigh Works",
+    "genre": "動作角色扮演\n",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-12-24",
+        "retail": ""
+    },
+    "formal_name": "Fairune(繁體中文版)",
+    "description": "操作簡單的正統遊戲！動作解謎RPG！\n「Fairune」是一部在懷舊風格的世界裡，藉由打倒魔物以及解開世界各地謎題的懷舊風動作解謎RPG。\n\n8位元風格的畫面及音樂，搭配著簡單操作的系統無論是誰都能輕鬆上手。\n\n被選上的勇者啊，找出3座精靈之像再次將魔王的魂魄封印吧！",
+    "movies_id": [],
+    "disclaimer": "※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+    "genres": [
+        "動作",
+        "角色扮演"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "zh",
+            "name": "中文"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©SKIPMORE © URARA-WORKS © Flyhigh Works",
+    "catch_copy": "",
+    "websites": []
+}

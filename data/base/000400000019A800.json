@@ -1,0 +1,47 @@
+{
+    "tid": "000400000019A800",
+    "name": "Gunslugs",
+    "product_code": "CTR-N-KGWP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000040598",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Engine Software",
+    "genre": "Action/Shooter",
+    "rating": {
+        "system": "COB",
+        "rating": "M",
+        "age": "13"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-06-16",
+        "retail": ""
+    },
+    "formal_name": "Gunslugs",
+    "description": "Gunslugs is a fast paced run and\njump game with procedurally\ngenerated levels and a rogue-like\npermadeath element. You get one live,\nand the only way you can extend that\nis by running into the Voodoo priest\nselling continue statues.\n<br>\nUnlock the roster of Gunslugs heroes\nas you go, and use them to advance\nyour way to the gates of Hell to\ndefeat the final boss.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "Shooter"
+    ],
+    "features": [
+        "Supports Internet Play",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2016 Engine Software & Orangepixel",
+    "catch_copy": "",
+    "websites": []
+}

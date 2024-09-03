@@ -1,0 +1,52 @@
+{
+    "tid": "00040000001ACF00",
+    "name": "SSSNAKES",
+    "product_code": "CTR-N-KS4J",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000041858",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "賈船",
+    "genre": "アーケード",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "ランキング対応"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-11-16",
+        "retail": ""
+    },
+    "formal_name": "SSSNAKES",
+    "description": "炎を吐くヘビになって、遺跡を探検します。\n<br>得意の炎でジャマなライバルを足が無くても蹴散らして、遺跡の奥を目指しましょう。\n<br>ステージのミッション（卵を全部食べたり、ゴールを目指したり）をクリアしつつ、ハイスコアを目指します。\n<br>タッチスクリーンは懐かしの携帯ゲーム機風画面になっております。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アドベンチャー",
+        "アクション",
+        "パズル"
+    ],
+    "features": [
+        "インターネット対応",
+        "3D映像対応",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2016 EnjoyUp Games Publishing in Japan by COSEN Co., Ltd.",
+    "catch_copy": "ヘビになって遺跡を大冒険。卵を食べてハイスコアを目指しましょう。",
+    "websites": []
+}

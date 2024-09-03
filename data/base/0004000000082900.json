@@ -1,0 +1,50 @@
+{
+    "tid": "0004000000082900",
+    "name": "GUILD01",
+    "product_code": "CTR-P-AG9J",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000010367",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSカードソフト"
+    },
+    "publisher": "レベルファイブ",
+    "genre": "ゲームオムニバス",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "気軽に",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "",
+        "retail": "2012-05-31"
+    },
+    "formal_name": "GUILD01",
+    "description": "まだ見ぬアイデアをパッケージ化し、多くのユーザーの皆さまに未知の体験を楽しんでいただくことを目的としたプロジェクト、それが『GUILD01』です。\n<br>作品全体をレベルファイブがプロデュースし、4つの作品を須田剛一、平井善之(アメリカザリガニ)、斎藤由多加、松野泰己が、それぞれディレクションします。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "その他"
+    ],
+    "features": [
+        "3D映像対応",
+        "すれちがい通信対応",
+        "Mii"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©LEVEL-5 Inc.\n<br>©GRASSHOPPER MANUFACTURE INC.\n<br>©VIVARIUM Inc.",
+    "catch_copy": "4つがひとつに。",
+    "websites": []
+}

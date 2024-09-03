@@ -1,0 +1,46 @@
+{
+    "tid": "00040000001A8C00",
+    "name": "ニャニャントモリ",
+    "product_code": "CTR-N-KNBJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000041161",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ポイソフト",
+    "genre": "スッキリ系パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "気軽に",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-08-31",
+        "retail": ""
+    },
+    "formal_name": "ニャニャントモリ",
+    "description": "ニャニャントモリは、同じネコを繋げてあげるパズルゲーム。\n<br>ネコは列でうごくから、うまく動かしてコンボを狙おう。\n<br>\n<br>画面にいるすべてのネコを消してあげるとクリアになるよ。\n<br>\n<br>プレイ結果によって、ネコの「めいげん」をゲットできるぞ。\n<br>ぜんぶの「めいげん」を集められるかな？",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "パズル"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©POISOFT",
+    "catch_copy": "ネコ・哲学・めいげん\n<br>タッチ・スライド・スッキリ！",
+    "websites": []
+}

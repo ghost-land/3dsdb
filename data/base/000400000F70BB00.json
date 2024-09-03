@@ -1,0 +1,47 @@
+{
+    "tid": "000400000F70BB00",
+    "name": "DodgeBox",
+    "product_code": "KTR-N-CDAE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000042597",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS Download Only"
+    },
+    "publisher": "StickBit",
+    "genre": "Arcade / Other",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Bidement Entertainment",
+        "Action"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-05-18",
+        "retail": ""
+    },
+    "formal_name": "DodgeBox",
+    "description": "A fun game where you use the Touch Screen to avoid falling boxes! It gets harder as it continues!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player\nSingle-player only",
+    "copyright": "DodgeBox is ©2017 by Bidement Entertainment®",
+    "catch_copy": "",
+    "websites": []
+}

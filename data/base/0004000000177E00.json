@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000177E00",
+    "name": "モノカゲクエスト",
+    "product_code": "CTR-N-KMQJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000036435",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ポイソフト",
+    "genre": "目立つと死ぬRPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "じっくり",
+        "ダンジョンRPG"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-08-26",
+        "retail": ""
+    },
+    "formal_name": "モノカゲクエスト",
+    "description": "『モノカゲクエスト』には普通のゲームにない大きな特徴があります。それは「主人公が目立つと死んでしまう」ということ!\n<br>\n<br>道具を使うとき、あなたのことを見ている人はいませんか?\n<br>魔法を使うとき、あなたのことを見ている人はいませんか?\n<br>\n<br>勇者としては当たり前でも、村の人からするとそれはとんでもなくすごいこと!\n<br>\n<br>行動するときはくれぐれも慎重に、人の目のないモノカゲで!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "ロールプレイング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©POISOFT",
+    "catch_copy": "死んでも目立つな、目立つと死ぬぞ。",
+    "websites": []
+}

@@ -1,0 +1,45 @@
+{
+    "tid": "000400000F70B000",
+    "name": "FIFTEEN",
+    "product_code": "KTR-N-CFNP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000042506",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS (Download)"
+    },
+    "publisher": "RCMADIAX",
+    "genre": "Arcade / Puzzle / Strategy",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-03-31",
+        "retail": ""
+    },
+    "formal_name": "FIFTEEN",
+    "description": "In FIFTEEN you must rearrange the blocks to display in order of 1 to 15. Using the touch screen you can manipulate the position of each block to accomplish the objective. Beginning order of the blocks is random and adds to the endless challenge!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2017 RCMADIAX LLC, All Rights Reserved.",
+    "catch_copy": "",
+    "websites": []
+}

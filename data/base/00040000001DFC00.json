@@ -1,0 +1,45 @@
+{
+    "tid": "00040000001DFC00",
+    "name": "snake3d",
+    "product_code": "CTR-N-A7HE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000048857",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "RandomSpin Games",
+    "genre": "Arcade",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2020-10-01",
+        "retail": ""
+    },
+    "formal_name": "snake3d",
+    "description": "Excellent snake in 3d.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "VG && IG",
+    "catch_copy": "",
+    "websites": []
+}

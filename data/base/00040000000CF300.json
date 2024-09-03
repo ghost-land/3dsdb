@@ -1,0 +1,45 @@
+{
+    "tid": "00040000000CF300",
+    "name": "カスタムモンスターズ",
+    "product_code": "CTR-N-JCMJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000025356",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "Collavier",
+    "genre": "タワーディフェンス",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "タワーディフェンス"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-09-03",
+        "retail": ""
+    },
+    "formal_name": "カスタムモンスターズ",
+    "description": "『カスタムモンスターズ』は予言を実現しようとする者たちから学校を守り抜くタワーディフェンスゲームです。\n<br>一癖も二癖もあるモンスター「カスモン」を召喚し、迫りくる凶悪モンスターたちをやっつけましょう。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "シミュレーション"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2014 COLLAVIER Corporation.",
+    "catch_copy": "カードを使ってモンスターを召喚！\n<br>迫り来る敵から平和な学校を守り抜け！",
+    "websites": []
+}

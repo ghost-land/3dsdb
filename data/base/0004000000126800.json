@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000126800",
+    "name": "ハコボーイ!",
+    "product_code": "CTR-N-JCPJ",
+    "region": "jp",
+    "version": "v1.1.0",
+    "nid": "50010000025215",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "任天堂",
+    "genre": "パズルアクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-01-15",
+        "retail": ""
+    },
+    "formal_name": "ハコボーイ!",
+    "description": "ハコを出すことができる主人公「キュービィ」を操作し、ハコを使って段差や穴、仕掛けなどのさまざまな障害を乗り越えて進んでいく、パズルアクションゲームです。まっすぐ積み上げたり、階段状に出したり、フックのように引っかけたり。ハコをどんな形で出して、どう使うかという、ひらめきが試される150以上のステージを収録しています。",
+    "movies_id": [],
+    "disclaimer": "2017年11月8日のMiiverseサービス終了以降、Miiverseを使用した機能はご利用いただけません。",
+    "genres": [
+        "アクション",
+        "パズル"
+    ],
+    "features": [
+        "ダウンロードプレイ対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2015 HAL Laboratory, Inc. / Nintendo",
+    "catch_copy": "ハコを使った、ひらめきパズルアクション！",
+    "websites": []
+}

@@ -1,0 +1,38 @@
+{
+    "tid": "0004000000191700",
+    "name": "Baseball",
+    "product_code": "CTR-N-RABZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000039897",
+    "platform": {
+        "device": "CTR",
+        "name": "게임보이"
+    },
+    "publisher": "Nintendo",
+    "genre": "스포츠",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-04-06",
+        "retail": ""
+    },
+    "formal_name": "Baseball",
+    "description": "1989년 게임보이용으로 발매된 게임입니다.\n\n공을 던지고, 치고 달리는 등의 동작을 실전과 비슷하게 즐길 수 있습니다.\n",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Baseball\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160318-011\n등급분류 일자:2016.3.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only\n",
+    "genres": [
+        "스포츠"
+    ],
+    "features": [],
+    "languages": [],
+    "number_of_players": "1명",
+    "copyright": "©1989 Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

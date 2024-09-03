@@ -1,0 +1,46 @@
+{
+    "tid": "00040000001E0000",
+    "name": "Atlantis-6",
+    "product_code": "CTR-N-AWUE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000048817",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "RandomSpin Games",
+    "genre": "Shooter / First-Person Shooter / Arcade / Action",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2020-10-01",
+        "retail": ""
+    },
+    "formal_name": "Atlantis-6",
+    "description": "Invasion of giant monsters. Your task is to fight back.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Shooter",
+        "First-Person Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "VG && IG",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,48 @@
+{
+    "tid": "000400000013CC00",
+    "name": "SKYPEACE",
+    "product_code": "CTR-N-JKJE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000023777",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Sonic Powered",
+    "genre": "Action",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Sonic Powered",
+        "3D games"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-06-26",
+        "retail": ""
+    },
+    "formal_name": "SKYPEACE",
+    "description": "SKYPEACE is a high-speed action game where you clear stages by \ncarefully avoiding the enemies that appear.\n<br><br>\nFeel refreshed using simple maneuvers to get tons of coins!\n<br><br>\nCollect consecutive coins to trigger a combo, and string together combos to get a hi-score.\n<br><br>\nAlso enjoy a different challenge by earning achievements through a variety of conditions!\n<br><br>\nEnjoy exhilarating high-speed action unfolding in the air!",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2014 Sonic Powered Co.,Ltd.",
+    "catch_copy": "",
+    "websites": []
+}

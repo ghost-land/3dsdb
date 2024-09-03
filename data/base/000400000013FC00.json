@@ -1,0 +1,47 @@
+{
+    "tid": "000400000013FC00",
+    "name": "フェアルーン",
+    "product_code": "CTR-N-KFRJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000026355",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "アクションRPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-10-08",
+        "retail": ""
+    },
+    "formal_name": "フェアルーン",
+    "description": "『フェアルーン』は、レトロな世界観の中で、モンスターを倒しながら、世界に隠されたさまざまなナゾを解いていく、「レトロ風謎解きアクションRPG」です。\n<br>\n<br>8Bitテイストのイラストとサウンド、およびシンプルな操作方法で、誰でも簡単にプレイできます。(片手だけでのプレイにも対応。)\n<br>\n<br>選ばれし勇者よ、3体の精霊像を見つけ出し再び魔王の魂を封印するのだ!",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "アクション",
+        "ロールプレイング"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©SKIPMORE\n<br>©URARA-WORKS\n<br>©Flyhigh Works",
+    "catch_copy": "カンタン操作で本格派！\n<br>謎解きアクションＲＰＧ！",
+    "websites": []
+}

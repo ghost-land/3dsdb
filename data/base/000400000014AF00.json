@@ -1,0 +1,49 @@
+{
+    "tid": "000400000014AF00",
+    "name": "2048",
+    "product_code": "CTR-N-JFEJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000025535",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "レイニーフロッグ",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "脳トレ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-09-10",
+        "retail": ""
+    },
+    "formal_name": "2048",
+    "description": "ハマる人続出! 話題のパズルゲーム!\n<br>ついにニンテンドー3DSに登場します!\n<br>壁やほかのタイルにぶつかるまでスライドし、合体させて1枚のタイルをつくり、2048のタイルをめざす、はまるパズルゲーム!\n<br>「1024」「2048」「4096」のタイルをめざそう!\n<br>ニンテンドー3DSの3D映像で、いままでない『2048』を経験しよう!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "パズル",
+        "トレーニング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "Copyright 2014 Cosmigo.\n<br>Licensed to and published by Rainy Frog LLC.",
+    "catch_copy": "タイルをぶつかるまでスライドし、同じ数字を足す。\n<br>合体して1枚のタイルになり、2048のタイルをめざすはまるパズルゲーム！",
+    "websites": []
+}

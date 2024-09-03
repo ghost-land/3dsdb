@@ -1,0 +1,46 @@
+{
+    "tid": "0004000000188700",
+    "name": "Sssnakes",
+    "product_code": "CTR-N-KS4P",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000040124",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Software Scribes",
+    "genre": "Arcade / Action",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-04-28",
+        "retail": ""
+    },
+    "formal_name": "Sssnakes",
+    "description": "Sssnakes is a new twist on the\n<br>classic snake video game. It is an\n<br>upgrade for modern times without\n<br>giving up its essence.\n<br>\n<br>Go through the jungle to the inside\n<br>of the temple, avoid the traps, move\n<br>through intricate mazes and face other\n<br>snakes.\n<br>\n<br>But above all, you will need to keep\n<br>away from your biggest enemy...\n<br>gluttony!\n<br>\n<br>Features:\n<br>\n<br>Easy to play, hard to master.\n<br>\n<br>Many levels with different objectives\n<br>and enemies.\n<br>\n<br>8-bit mode.\n<br>\n<br>The ability to shoot provides new\n<br>opportunities and strategies to get out\n<br>of tough situations.\n<br>\n<br>Online scoreboard to compete for the\n<br>top score.\n<br>\n<br>Tricks and hidden secrets to get the\n<br>top score or to make the game easier.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Action"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "",
+    "catch_copy": "",
+    "websites": []
+}

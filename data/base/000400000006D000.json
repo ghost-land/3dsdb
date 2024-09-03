@@ -1,0 +1,58 @@
+{
+    "tid": "000400000006D000",
+    "name": "Azada",
+    "product_code": "CTR-P-AZDP",
+    "region": "eu",
+    "version": "v0.2.0",
+    "nid": "50010000010606",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Card/Download)"
+    },
+    "publisher": "MSL",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-05-01",
+        "retail": "2012-07-11"
+    },
+    "formal_name": "Azada",
+    "description": "Trapped in a haunted room by his\ngreat-uncle, the adventurous Titus has\nasked you to help release him from\nthe magical spell. To do this, you\nmust solve the most mysterious\npuzzles of AZADA. Crack the series of\npuzzles and fill in the missing pages of\nthe enchanted book to free Titus from\nhis prison.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "nl",
+            "name": "Dutch"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2014 Media Sales & Licensing<br/>\nall rights reserved",
+    "catch_copy": "",
+    "websites": []
+}

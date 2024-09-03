@@ -1,0 +1,45 @@
+{
+    "tid": "000400000F70C300",
+    "name": "SWIPE",
+    "product_code": "KTR-N-CACP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000042896",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS (Download)"
+    },
+    "publisher": "RCMADIAX",
+    "genre": "Arcade / Puzzle / Strategy",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-07-27",
+        "retail": ""
+    },
+    "formal_name": "SWIPE",
+    "description": "It's time to SWIPE! Move up, down, left and right to avoid the oncoming black dots. Collect as many crystals as you can to get the high score! Share your score with family and friends to see who can get the highest score - endless fun for everyone!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2017 RCMADIAX LLC, All Rights Reserved.",
+    "catch_copy": "",
+    "websites": []
+}

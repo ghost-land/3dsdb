@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000160300",
+    "name": "KAMI",
+    "product_code": "CTR-N-KMZE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000030395",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "CIRCLE",
+        "3D games"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-02-05",
+        "retail": ""
+    },
+    "formal_name": "KAMI",
+    "description": "KAMI is deceptively simple: fold out colored paper to fill the screen in with few moves as possible.\n<br><br>\nRelaxing and easy to pick up, you'll soon find yourself deep in contemplation to perfect each puzzle.\n<br><br>\nCreated by State of Play, famous for their handcrafted aesthetics, KAMI has been created with real paper in an elegant Japanese theme. \n<br><br>\nKAMI is tactile, engaging and stunning to look at.\n<br><br>\n63 unique puzzles!\nPremium Puzzles and Hints are included.\nAlso includes a Calming and elegant soundtrack.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© CIRCLE Entertainment Ltd.\n© Flyhigh Works\n© State of Play.",
+    "catch_copy": "",
+    "websites": []
+}

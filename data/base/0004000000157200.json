@@ -1,0 +1,44 @@
+{
+    "tid": "0004000000157200",
+    "name": "Sumico",
+    "product_code": "CTR-N-KSMP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000028775",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Engine Software",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-12-18",
+        "retail": ""
+    },
+    "formal_name": "Sumico",
+    "description": "In Sumico you match numbers and\noperators to make sums that equal the\ntarget numbers. Sumico offers an\n82-level Campaign and an Endless\nMode. So, a lot of brain wrenching\nnumbers and operators are waiting for\nyou. Have fun!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2014 Ludomotion. Nintendo 3DS™\nversion developed and published by\nEngine Software.",
+    "catch_copy": "",
+    "websites": []
+}

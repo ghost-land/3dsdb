@@ -1,0 +1,45 @@
+{
+    "tid": "000400000F70B900",
+    "name": "FIFTEEN",
+    "product_code": "KTR-N-CFNE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000042513",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS Download Only"
+    },
+    "publisher": "RCMADIAX",
+    "genre": "Arcade / Puzzle / Strategy",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-04-13",
+        "retail": ""
+    },
+    "formal_name": "FIFTEEN",
+    "description": "In FIFTEEN you must rearrange the blocks to display in order of 1 to 15. Using the touchscreen you can manipulate the position of each block to accomplish the objective. Beginning order of the blocks is random and adds to the endless challenge!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2017 RCMADIAX LLC, All Rights Reserved.",
+    "catch_copy": "",
+    "websites": []
+}

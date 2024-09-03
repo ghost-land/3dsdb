@@ -1,0 +1,48 @@
+{
+    "tid": "00040000000F5200",
+    "name": "ゲキヤバランナー",
+    "product_code": "CTR-N-JT4J",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000014892",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "ランアクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-06-26",
+        "retail": ""
+    },
+    "formal_name": "ゲキヤバランナー",
+    "description": "『ゲキヤバランナー』は、走り出したらとまらない｢森のヨーセー｣さんを操作し、ゴールを目指すハイスピードランアクションゲームです。\n<br>\n<br>道中にはさまざまな障害物があり、｢ジャンプ｣や｢バッファロー｣や｢パンツグライダー｣や｢タイムクロック(まき戻し)｣を駆使し越えていかなければなりません。\n<br>\n<br>メルヘンチックな世界観とは裏腹に、一部ゲキムズなギミックとステージが、腕に自信があるアナタを待ち受けます。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2013 QubicGames\n<br>©Flyhigh Works",
+    "catch_copy": "このゲーム、ゲキヤバ。",
+    "websites": []
+}

@@ -1,0 +1,45 @@
+{
+    "tid": "000400000F70F300",
+    "name": "Alter World",
+    "product_code": "KTR-N-CAYE",
+    "region": "na",
+    "version": "v0.3.0",
+    "nid": "50010000043697",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS Download Only"
+    },
+    "publisher": "Lemondo Games",
+    "genre": "Platformer / Adventure / Action",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2018-04-05",
+        "retail": ""
+    },
+    "formal_name": "Alter World",
+    "description": "Inspired by Stephen King’s book - “The Dark Tower”, Alter World is a 2D platformer with interesting gameplay mechanics. Player can pass on an alternative universe anytime and use an alternative realms to move to another level.\n<br><br>\n100 unique and challenging levels.\n<br>10 different immersive worlds will conquer your heart! \n<br>Listen to your ego, and finish the game with several different endings!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "2017 © Giorgi Abelashvili",
+    "catch_copy": "",
+    "websites": []
+}

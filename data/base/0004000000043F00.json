@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000043F00",
+    "name": "フィッシング3D",
+    "product_code": "CTR-P-AFDJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000008721",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSカードソフト"
+    },
+    "publisher": "ディースリー・パブリッシャー",
+    "genre": "スポーツ（フィッシング）",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "釣り",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "",
+        "retail": "2012-02-02"
+    },
+    "formal_name": "フィッシング3D",
+    "description": "スポーツとして世界中で大人気のバスフィッシング。その醍醐味はポイントの探索やルアーセッティング、さらにはバスとの駆け引き、激しいバトルにある。\n<br>流木を覗き込みつつ、ルアーキャストで水面を波立たせる。奥に見える70(ナナマル)オーバーの巨影…。\n<br>今までにない3D立体表現による“本格バスフィッシングゲーム”がニンテンドー3DSで登場します!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "スポーツ",
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2011 TAMSOFT ©2011 D3 PUBLISHER",
+    "catch_copy": "ニンテンドー3DSで、本格バスフィッシング！",
+    "websites": []
+}

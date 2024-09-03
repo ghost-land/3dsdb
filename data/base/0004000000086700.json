@@ -1,0 +1,46 @@
+{
+    "tid": "0004000000086700",
+    "name": "밀고 당기고",
+    "product_code": "CTR-N-JCAK",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000010290",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "Nintendo",
+    "genre": "퍼즐 액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-04-28",
+        "retail": ""
+    },
+    "formal_name": "밀고 당기고",
+    "description": " 블록을 밀고 당기고, 발판을 만들며 오르락내리락 골을 향해 나아가는 퍼즐 액션 게임입니다.\n \n 추억의 패밀리컴퓨터 게임 코스 등, \n250가지 이상의 코스를 즐기실 수 있습니다.\n\n 물론, 자신만의 오리지널 코스를 만들어\n플레이할 수도 있습니다.\n\n※ 본 소프트웨어의 대응 언어를\n확인하신 후 구입하시기 바랍니다.\n",
+    "movies_id": [],
+    "disclaimer": "제명 : 밀고 당기고\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-120316-002\n등급분류 일자 : 2012.03.16.\n제작・배급업신고번호 : 2006000019  ",
+    "genres": [
+        "액션",
+        "퍼즐"
+    ],
+    "features": [
+        "3D 영상 대응"
+    ],
+    "languages": [
+        {
+            "iso_code": "ko",
+            "name": "한국어"
+        }
+    ],
+    "number_of_players": "1명",
+    "copyright": "© 2011-2012 Nintendo / INTELLIGENT SYSTEMS",
+    "catch_copy": "",
+    "websites": []
+}

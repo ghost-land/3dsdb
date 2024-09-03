@@ -1,0 +1,49 @@
+{
+    "tid": "000400000013C100",
+    "name": "Hazumi",
+    "product_code": "CTR-N-KHZE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000028675",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Gamelion",
+    "genre": "Puzzle / Strategy",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D games",
+        "Gamelion"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-12-11",
+        "retail": ""
+    },
+    "formal_name": "Hazumi",
+    "description": "Hazumi is a game of action and puzzle-solving where you control a colored ball. Your goal in each level is to destroy all crystal blocks. You can only remove a block if it matches the color of the ball. Deadly traps and labyrinths will stand in your way, so use cunning and nimbleness to your advantage!\n<br><br>\nWith over 100 exciting puzzles, a level editor, intuitive controls, beautiful pixel art graphics and immensely addictive gameplay, Hazumi will keep you entertained for days as you collect stars to unlock more challenges!",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle",
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "2014 Gamelion Studios",
+    "catch_copy": "",
+    "websites": []
+}

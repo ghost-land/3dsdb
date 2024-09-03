@@ -1,0 +1,50 @@
+{
+    "tid": "000400000015C200",
+    "name": "Sumico",
+    "product_code": "CTR-N-KSME",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000030015",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Engine Software",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Engine",
+        "Ludomotion",
+        "Board Game"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-01-29",
+        "retail": ""
+    },
+    "formal_name": "Sumico",
+    "description": "Ready for a new type of puzzle game? In Sumico you match numbers and operators to make sums that equal the target numbers. Sumico offers an 82-level Campaign and an Endless Mode. So, a lot of brain wrenching numbers and operators are waiting for you. Have fun!",
+    "movies_id": [],
+    "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options.",
+    "genres": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Education"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2014 Ludomotion. Nintendo 3DS version developed and published by Engine Software.",
+    "catch_copy": "",
+    "websites": []
+}

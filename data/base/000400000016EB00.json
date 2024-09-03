@@ -1,0 +1,43 @@
+{
+    "tid": "000400000016EB00",
+    "name": "Ash",
+    "product_code": "CTR-N-KASP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000041698",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "RPG",
+    "rating": {
+        "system": "COB",
+        "rating": "M",
+        "age": "13"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-10-14",
+        "retail": ""
+    },
+    "formal_name": "Ash",
+    "description": "Ash is a classic turn-based RPG, featuring a massive, fully-realized world with lush visuals, and a wonderfully compelling story. \n<br>\n<br>These are strange days for Aghaus. By order of the Magistrate, the Royal Guard is to assemble for deployment in two days’ time. It has been years since I last left the capital, and further still that I can remember such a command being issued! But what need is there for a Royal Guard, when no King sits upon the throne? Though my oath binds me to his service, the Magistrate is not my liege. He rules in the absence of a rightful heir. \n<br>\n<br>My men await their orders; they too are uneasy. It is for their sake that I stay my tongue, and place my faith in the Almighty that my fears are unfounded. \n<br>\n<br>Tomorrow, we make for the East.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "RPG"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© SRRN Games\n<br>\n<br>© CIRCLE Entertainment Ltd.\n<br>\n<br>© Overtune",
+    "catch_copy": "",
+    "websites": []
+}

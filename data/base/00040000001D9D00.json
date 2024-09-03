@@ -1,0 +1,44 @@
+{
+    "tid": "00040000001D9D00",
+    "name": "Squarcat",
+    "product_code": "CTR-N-LSTE",
+    "region": "na",
+    "version": "v0.7.0",
+    "nid": "50010000047856",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "RandomSpin Games",
+    "genre": "Puzzle / Adventure",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2019-08-15",
+        "retail": ""
+    },
+    "formal_name": "Squarcat",
+    "description": "High in the sky, mysterious lands hover. There lives a Squarecat and adventure begin here!\n<br>Your task is to reach the finish line by solving different puzzles.\n<br>\n<br>-The game is expanded on two screens.\n<br>-Cute, simple graphics.\n<br>-The game has a soothing atmosphere.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "VG && IG",
+    "catch_copy": "",
+    "websites": []
+}

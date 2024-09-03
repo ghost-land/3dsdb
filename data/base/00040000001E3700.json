@@ -1,0 +1,47 @@
+{
+    "tid": "00040000001E3700",
+    "name": "CRYGHT",
+    "product_code": "CTR-N-A4ZE",
+    "region": "na",
+    "version": "v0.2.0",
+    "nid": "50010000049375",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "TOYURO",
+    "genre": "Action / Puzzle / Platformer",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2022-01-20",
+        "retail": ""
+    },
+    "formal_name": "CRYGHT",
+    "description": "Get crystals!\n<br>Over 130 stages!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "features": [
+        "Circle Pad Pro"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player\n1",
+    "copyright": "Â©TOYURO",
+    "catch_copy": "",
+    "websites": []
+}

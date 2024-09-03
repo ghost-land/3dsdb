@@ -1,0 +1,52 @@
+{
+    "tid": "00040000001C9D00",
+    "name": "Battleminerz",
+    "product_code": "CTR-N-KBXP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000043755",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Wobbly Tooth",
+    "genre": "Action / Adventure / First-Person Shooter",
+    "rating": {
+        "system": "COB",
+        "rating": "PG",
+        "age": "8"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-12-22",
+        "retail": ""
+    },
+    "formal_name": "Battleminerz",
+    "description": "Battleminerz is an open-world block game with infinite map size and support for all Nintendo 3DS™ systems. \n<br>\n<br>It features:\n<br>Single player Adventure, Creative and Horde Mode.\n<br>Multiplayer Adventure, Creative and Battle mode.\n<br>Internet with anybody, friends only or Local Play.\n<br>Internet Game Chat and messages.\n<br>Character customisation and texture packs.\n<br>New tools, items and weapons to craft.\n<br>Grow crops, ride animals, explore, build and survive!\n<br>\n<br>Become a Miner, Farmer or Adventurer. It's up to you!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "features": [
+        "Supports Internet Play",
+        "Internet Required",
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Nintendo Network",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 – 8 players",
+    "copyright": "© 2017 Wobbly Tooth Ltd",
+    "catch_copy": "",
+    "websites": []
+}

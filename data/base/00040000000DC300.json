@@ -1,0 +1,48 @@
+{
+    "tid": "00040000000DC300",
+    "name": "Pick-A-Gem",
+    "product_code": "CTR-N-JAGP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000024115",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Gamelion",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-07-17",
+        "retail": ""
+    },
+    "formal_name": "Pick-A-Gem",
+    "description": "Try out now the new puzzle sensation\nand compete with the world for the\nhighest score in leaderboards!\nPick-A-Gem is a match 3 type game.\nYou have limited time to collect as\nmany gems as possible. Gems are\ncollected by tapping on the bottom\nscreen and need to create a chain of\nthe same color. With each game\nplayed increase your Experience\nLevel. Thanks to this you get access\nto new features such as bombs,\ndynamites, higher multipliers, coins,\nchests or even Frenzy Mode! With a\nhigher level of experience you can\nalso get more points.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Arcade"
+    ],
+    "features": [
+        "WIFI",
+        "Displays 3D Visuals",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player\nSupports online scores",
+    "copyright": "Copyright Â© 2014 Gamelion Studios",
+    "catch_copy": "",
+    "websites": []
+}

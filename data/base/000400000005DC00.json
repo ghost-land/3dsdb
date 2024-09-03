@@ -1,0 +1,49 @@
+{
+    "tid": "000400000005DC00",
+    "name": "ドーパミックス",
+    "product_code": "CTR-N-JDXJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000009685",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ジー・モード",
+    "genre": "快感系! サウンドアクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-03-14",
+        "retail": ""
+    },
+    "formal_name": "ドーパミックス",
+    "description": "『ドーパミックス』とは、刺激的で心地よいビジュアルとサウンドにより、快感などに関わる脳内物質「ドーパミン」の発生を促す、新感覚のサウンドシンクロ型アクションゲームです。\n<br>\n<br>ニンテンドー3DSならではのビジュアル･サウンド表現、高速なレスポンスによって非常に高いシンクロ感･トリップ感を実現!\n<br>シンプルでクセになるゲーム性、適度に連続する緊張感がプレイヤーを快楽の世界へと誘います!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "音楽"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©G-mode/©SuperSweep",
+    "catch_copy": "ドーパミン全開！！ 快感系ミクスチャーゲーム",
+    "websites": []
+}

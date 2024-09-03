@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000096200",
+    "name": "NightSky",
+    "product_code": "CTR-N-JNSP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000012537",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Nicalis",
+    "genre": "Physics, Puzzle, Adventure",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-02-21",
+        "retail": ""
+    },
+    "formal_name": "NightSky",
+    "description": "NightSky is an action-puzzle game\nthat offers an ambient gameplay\nexperience unlike any other on\nNintendo 3DS™ with cerebral\nchallenges that fill uniquely designed\npicturesque worlds. Each of these\nworlds is broken into different areas in\nwhich the player must manoeuver a\nsphere by using realistic physics to\nadvance. There are no enemies, no\nbosses, and no violence in NightSky.\n<br/><br/>\nAn intuitive experience is friendly for\ncasual and mainstream gamers.\nNightSky also offers a formidable\nchallenge for hardcore players, with\nan unlockable Alternative mode. The\noriginal soundtrack by experimental\njazz musician Chris Schlarb will further\nheighten the surreal 3D experience.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Platformer",
+        "Lifestyle",
+        "Adventure",
+        "Puzzle"
+    ],
+    "features": [
+        "Supports StreetPass"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2012 Nicalis, Inc",
+    "catch_copy": "",
+    "websites": []
+}

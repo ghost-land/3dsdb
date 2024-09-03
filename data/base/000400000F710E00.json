@@ -1,0 +1,48 @@
+{
+    "tid": "000400000F710E00",
+    "name": "I.F.O",
+    "product_code": "KTR-N-CFFP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000045815",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS (Download)"
+    },
+    "publisher": "Turtle Cream",
+    "genre": "Shooter / Action / Arcade / Adventure",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2018-06-28",
+        "retail": ""
+    },
+    "formal_name": "I.F.O",
+    "description": "I.F.O is an old school LCD-style shoot'em up game. Shoot down UFOs using a classic style aircraft and save the abducted animals from the aliens. Save the Earth from the Aliens! You're the world's last hope.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© Total Battery 2018\n<br>licensed to & published by Turtle Cream",
+    "catch_copy": "",
+    "websites": []
+}

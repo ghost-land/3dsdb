@@ -1,0 +1,44 @@
+{
+    "tid": "000400000F707100",
+    "name": "BlockForm",
+    "product_code": "KTR-N-CBFP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000041276",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS (Download)"
+    },
+    "publisher": "CW-Games",
+    "genre": "Puzzle / Platformer",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-08-25",
+        "retail": ""
+    },
+    "formal_name": "BlockForm",
+    "description": "A unique puzzle/platform game where colour affect the character's behaviour.\n<br>How quickly can you finish this game?",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player\nSingle player only",
+    "copyright": "Â© CW-Games 2001 - 2016",
+    "catch_copy": "",
+    "websites": []
+}

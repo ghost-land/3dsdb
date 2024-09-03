@@ -1,0 +1,57 @@
+{
+    "tid": "0004000000154B00",
+    "name": "Pazuru",
+    "product_code": "CTR-N-BPZZ",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000031875",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Joindots",
+    "genre": "Puzzle / Strategy / Board Game",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-03-26",
+        "retail": ""
+    },
+    "formal_name": "Pazuru",
+    "description": "Use your ninja reflexes to solve\n<br>puzzles in this easy to learn, hard to\n<br>master puzzle game. Twist, bounce,\n<br>warp and toggle your way through the\n<br>levels. Collect all the stars and be a\n<br>true ninja master!\n<br>\n<br>Game features:\n<br>- Over 70 brain-twisting levels\n<br>- Create custom levels with the\n<br>built-in level editor\n<br>- Share levels online and offline via\n<br>QR Code",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Strategy",
+        "Board Game"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2011-2015 Jay van Hutten\n<br>© 2015 Moragami\n<br>Published by Joindots GmbH",
+    "catch_copy": "",
+    "websites": []
+}

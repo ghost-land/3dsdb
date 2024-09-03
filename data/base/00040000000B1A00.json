@@ -1,0 +1,46 @@
+{
+    "tid": "00040000000B1A00",
+    "name": "PIX3D",
+    "product_code": "CTR-N-JPXP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000012526",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Gamelion",
+    "genre": "Puzzle Game",
+    "rating": {
+        "system": "PEGI",
+        "rating": "3",
+        "age": "3"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-11-22",
+        "retail": ""
+    },
+    "formal_name": "PIX3D",
+    "description": "Let's go back a few years. Okay,\nlet's say 25. To the old days, when\neverything looked simple, and the rest\nwas just fantasy.\n<br /><br/>\nThe main aim of PIX3D is to bring\npixels dispersed in space into line to\ncomplete beautiful pixel art pictures.\n<br /><br/>\nBut never seen before pixel particle\neffects and wonderful 8-bit music will\nalso bring back fond memories of\nyouth for some, and for those too\nyoung to remember, it will be a great\nshowcase of old times!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Copyright Â© 2012 Gamelion\nStudios",
+    "catch_copy": "",
+    "websites": []
+}

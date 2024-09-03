@@ -1,0 +1,38 @@
+{
+    "tid": "0004000000181700",
+    "name": "Tennis",
+    "product_code": "CTR-N-RADZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000039576",
+    "platform": {
+        "device": "CTR",
+        "name": "게임보이"
+    },
+    "publisher": "Nintendo",
+    "genre": "액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-03-02",
+        "retail": ""
+    },
+    "formal_name": "Tennis",
+    "description": "1989년 게임보이용으로 발매된 게임입니다.\n\n날아오는 볼의 코스와 상대의 위치를 파악하여, 상대의 라켓이 닿지 않는 곳으로 볼을 칩니다. 대전 상대의 난이도는 4단계로 강해질수록 볼 이나 상대의 스피드가 빨라집니다. \n",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Tennis\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-150821-009\n<br>등급분류 일자:2015.8.21\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+    "genres": [
+        "스포츠"
+    ],
+    "features": [],
+    "languages": [],
+    "number_of_players": "1명",
+    "copyright": "© 1989 Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

@@ -1,0 +1,43 @@
+{
+    "tid": "00040000001A7200",
+    "name": "SubaraCity",
+    "product_code": "CTR-N-KWCP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000042505",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-03-24",
+        "retail": ""
+    },
+    "formal_name": "SubaraCity",
+    "description": "SubaraCity is a city making puzzle game. That is played by tapping blocks that are the same color.\n<br>The buildings on the blocks can combine into bigger ones when connected. The rule is very simple but truly deeper on the inside. Your little decision will lead the city's future in just a moment. Develop your city bigger and bigger to make a \"SubaraCity\"!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "©RYUJI KUWAKI \n<br>©CIRCLE Ent.",
+    "catch_copy": "",
+    "websites": []
+}

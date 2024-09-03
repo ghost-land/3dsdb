@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000167B00",
+    "name": "パズルボトル",
+    "product_code": "CTR-N-KPBJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000031818",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "レイニーフロッグ",
+    "genre": "パズル",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "タッチペン"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-03-25",
+        "retail": ""
+    },
+    "formal_name": "パズルボトル",
+    "description": "ニンテンドー3DSを上下逆さまに持って、カラータイルをタッチし、グラスボトルにタイルを落とし、ボトルの中の絵を完成させましょう!\n<br>正しい絵を完成させるために、タイミングよく下画面のタイルの色に合わせて、上画面のタイルをタッチしましょう。\n<br>海、森、電車、花、雪、などいろいろなジャンルの絵を収録しています!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "パズル",
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2015 Bplus. \n<br>Licensed to and published by Rainy Frog LLC.",
+    "catch_copy": "ニンテンドー3DSを上下逆さまに持ち、\n<br>タイルを落としてボトルの中の絵を完成しましょう！",
+    "websites": []
+}

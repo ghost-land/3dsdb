@@ -1,0 +1,51 @@
+{
+    "tid": "00040000000C4300",
+    "name": "Ikachan",
+    "product_code": "CTR-N-JKCE",
+    "region": "na",
+    "version": "v0.1.0",
+    "nid": "50010000013090",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nicalis",
+    "genre": "Adventure / Arcade / RPG",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D Games",
+        "Nicalis",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-01-31",
+        "retail": ""
+    },
+    "formal_name": "Ikachan",
+    "description": "You wake up in an underwater cave.\n<p>\nNear the bottom of an enormous abyss, there's only one way out. Swim in a dark world under attack by frequent earthquakes and famine. This vast undersea kingdom is filled with both dangerous and harmless denizens. Its fearful inhabitants are led by a reluctant fish who has no answer to the impending disasters. \n<p>\nTheir fate rests with you, Ikachan. You must help them find a way out before it's too late. Use whatever tools you can and try to escape.\n<p>\nSwim, Ikachan, swim!",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Adventure",
+        "Arcade",
+        "RPG"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2013 Nicalis, Inc",
+    "catch_copy": "",
+    "websites": []
+}

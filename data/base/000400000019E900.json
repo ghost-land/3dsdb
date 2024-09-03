@@ -1,0 +1,48 @@
+{
+    "tid": "000400000019E900",
+    "name": "デンジャーロード",
+    "product_code": "CTR-N-KRLJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000040495",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "スターサイン",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "初心者向け"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-06-01",
+        "retail": ""
+    },
+    "formal_name": "デンジャーロード",
+    "description": "『デンジャーロード』は道路を横断して、車や電車を避けたり、川を渡るため丸太や石板を足場にして渡るなど、障害物に気をつけながら、ステージ内のすべてのチェックポイントを通過して、ゴールにたどり着くアクションゲームです。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2016 SIMS CO., LTD.\n<br>Published and distributed by Starsign, inc. in Japa.",
+    "catch_copy": "道路横断系アクションゲーム！\n<br>『デンジャーロード』登場!!",
+    "websites": []
+}

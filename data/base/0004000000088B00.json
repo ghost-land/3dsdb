@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000088B00",
+    "name": "ブラッディヴァンパイア",
+    "product_code": "CTR-N-JBLJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000010027",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "シルバースタージャパン",
+    "genre": "アクションRPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-04-25",
+        "retail": ""
+    },
+    "formal_name": "ブラッディヴァンパイア",
+    "description": "人間とヴァンパイアのふたつの血を持つ女性、ラティスの冒険が今始まる。古城、地下牢、湖などの多彩なマップを舞台に、誰もが手軽に爽快なアクションを楽しめます。魔法、変身などの技も駆使し、ラティスを成長させながら襲い掛かる魔物たちをなぎ倒します。4つの十字架を求め、人間世界に侵入したヴァンパイアを撃破しよう。",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "ロールプレイング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©SilverStarJapan",
+    "catch_copy": "ヴァンパイアと人のふたつの血を持つ女性の冒険ストーリー\n<br>魔法と変身を駆使して襲い掛かる敵をなぎ倒せ！",
+    "websites": []
+}
