@@ -1,0 +1,46 @@
+{
+    "tid": "0004000000098E00",
+    "name": "サラダの国のトマト姫",
+    "product_code": "CTR-N-TAZJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000011634",
+    "platform": {
+        "device": "CTR",
+        "name": "ファミリーコンピュータ"
+    },
+    "publisher": "KONAMI",
+    "genre": "アドベンチャー",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-09-19",
+        "retail": ""
+    },
+    "formal_name": "サラダの国のトマト姫",
+    "description": "このソフトは、1988年に発売されたファミリーコンピュータ用のアドベンチャーゲームです。\n捕われの身となったトマト姫を救うために立ち上がった、オニオン王国一の勇者キュウリ戦士。「いどう」「みる」「しらべる」など、さまざまなコマンドを使って野菜や果物たちが住む王国を冒険していきます。「たたかう」を選択すると、敵と「あっち向いてホイ」で戦うことになります。",
+    "movies_id": [],
+    "disclaimer": "このソフトは、原作のゲーム内容を、通信機能・拡張機能を除いてニンテンドー3DS上で再現したものです。原作とは、動作や表現等が異なる場合があります。あらかじめご了承ください。",
+    "genres": [
+        "アドベンチャー"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©Konami Digital Entertainment",
+    "catch_copy": "オニオン王国一の勇者、キュウリ戦士の冒険物語。",
+    "websites": []
+}

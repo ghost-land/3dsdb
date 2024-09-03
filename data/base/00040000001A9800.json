@@ -1,0 +1,47 @@
+{
+    "tid": "00040000001A9800",
+    "name": "PixelMaker",
+    "product_code": "CTR-N-KZPP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000041617",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Nostatic Software",
+    "genre": "Education / Lifestyle / Utility",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-10-07",
+        "retail": ""
+    },
+    "formal_name": "PixelMaker",
+    "description": "PixelMaker is a drawing program designed specifically for making pixel art!\n<br>Using easy to use tools on your Nintendo 3DS™, you can design images as simple or as complex as you like. Experiment, and create characters and scenes based on your favorite classic video games, or draw something straight out of your own imagination!\n<br>\n<br>- Zoom in on the touch screen while seeing your whole scene on the upper screen\n<br>- Support for multi-layer drawing, and 3D layered images\n<br>- Cut/Copy/Paste selections with flip and rotate option\n<br>- Fill by selection, flood-fill or replace all of a color\n<br>- Draw and erase with multiple brush sizes\n<br>- Pixel-perfect line and stroke drawing modes\n<br>- Export PNG images to SD Card\n<br>- Undo/Redo and image auto-save and restore\n<br>- Palette-based color management with a number of classic samples\n<br>- Choose colors visually, by exact RGB, or pick from the image\n<br>- Optional grid overlay",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Education",
+        "Lifestyle",
+        "Utility"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2016 Nostatic Software, LLC",
+    "catch_copy": "",
+    "websites": []
+}

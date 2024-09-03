@@ -1,0 +1,49 @@
+{
+    "tid": "00040000000BFB00",
+    "name": "ゾンゲリボウリング",
+    "product_code": "CTR-N-JZGJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000014946",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ジースタイル",
+    "genre": "パニック ゾンビ ボウリングゲーム",
+    "rating": {
+        "system": "CERO",
+        "rating": "D",
+        "age": "17"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "ホラー"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-07-10",
+        "retail": ""
+    },
+    "formal_name": "ゾンゲリボウリング",
+    "description": "2020年3月31日(火)10時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>『ゾンゲリボウリング』は、迫り来るゾンビをボールで蹴散らす、超爽快ゾンビボウリングゲームです。3D立体視をONにすれば、さらに大迫力のプレイが楽しめます。\n<br>\n<br>4つのステージと3種類のルール、特殊ボールやギミック、派手な演出など、新感覚のボウリングゲームをお楽しみ下さい。\n<br>\n<br>あなたは生き残ることができるか･･･!?",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "スポーツ"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2013 G-STYLE. All Rights Reserved.",
+    "catch_copy": "ボウリング × ゾンビ\n<br>悪夢のボウリング場から、生き残ることができるか…！？",
+    "websites": []
+}

@@ -1,0 +1,45 @@
+{
+    "tid": "00040000001E2200",
+    "name": "Moonbound",
+    "product_code": "CTR-N-LMBP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000049415",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Jouni Mutanen",
+    "genre": "Arcade / Action / Other",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2022-01-28",
+        "retail": ""
+    },
+    "formal_name": "Moonbound",
+    "description": "[ Can YOU survive back to Earth? ]\n<br>\n<br>Moonbound is a challenging 2D arcade action game that forces the player to make quick decisions under pressure. The player controls an astronaut who is returning to Earth after completing a geological survey mission in the Beta Iridian solar system. The astronaut's ship is suddenly damaged by an explosion! The energy crystals that are used as the ship's main power source are ejected out of the ship and land on six different moons. The player must return all of the remaining crystals to the ship to be able to return to Earth.\n<br>\n<br>Game features :\n<br>* Survive through over 30 levels of challenging 2D arcade action!\n<br>* Encounter different enemies and environmental hazards on six moons\n<br>* Two game modes - Story Mode and Arcade Mode\n<br>* Four difficulty levels - Easy, Normal, Hard and Hardcore\n<br>* Level selection - Start a new game at any level\n<br>* Music player - Listen to all of the game's music tracks",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player\n1 player",
+    "copyright": "Â© 2021 Jouni Mutanen",
+    "catch_copy": "",
+    "websites": []
+}

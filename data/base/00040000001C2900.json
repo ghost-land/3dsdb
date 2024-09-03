@@ -1,0 +1,46 @@
+{
+    "tid": "00040000001C2900",
+    "name": "アスディバインクロス",
+    "product_code": "CTR-N-KVXJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000042823",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ケムコ",
+    "genre": "RPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-06-14",
+        "retail": ""
+    },
+    "formal_name": "アスディバインクロス",
+    "description": "盗賊団ブルーアイズの団員であるハイドは、ライティ城の牢の中で一人の少女と出会います。アルメリアと名乗った彼女は、この国の王女でした。\n<br>彼女の言葉を疑いつつも、放っておく事もできず、ハイドは彼女が城へ戻るために協力します。その先に数奇な運命が待ち受けているとも知らずに――\n<br>\n<br>武器のカスタマイズとキャラクターたちの軽妙な掛け合いが楽しいRPGです。\n<br>豊富なサブクエストや闘技場など、やり込み要素も豊富でどなたでもお楽しみ頂けます。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "ロールプレイング",
+        "アドベンチャー"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2015-2017 KEMCO/EXE-CREATE",
+    "catch_copy": "光の運命を担いし者たちよ。\n<br>命を紡げ――",
+    "websites": []
+}

@@ -1,0 +1,48 @@
+{
+    "tid": "00040000000C2600",
+    "name": "CRIMSON SHROUD\nクリムゾン シュラウド",
+    "product_code": "CTR-N-JCZJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000012538",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "レベルファイブ",
+    "genre": "アドベンチャーRPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-11-28",
+        "retail": ""
+    },
+    "formal_name": "CRIMSON SHROUD\nクリムゾン シュラウド",
+    "description": "そこはかつて魔法がなかった世界――\n<br>\n<br>重厚なテキストで構築されたストーリー。\n<br>\n<br>膨大な武器･防具に宿る魔法･スキルの組み合わせによる、戦略的カスタマイズ。\n<br>そして、単純な力押しは一切通用しないモンスターとの死線ギリギリの戦闘。\n<br>\n<br>「探索」「戦闘」「物語」の3要素をシンプルに紡いだ正統派ファンタジーRPG!\n<br>\n<br>クリエイター：松野泰己",
+    "movies_id": [],
+    "disclaimer": "データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。\n<br>ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+    "genres": [
+        "ロールプレイング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2012 LEVEL-5 Inc. All Rights Reserved.",
+    "catch_copy": "",
+    "websites": []
+}

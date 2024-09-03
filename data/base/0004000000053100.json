@@ -1,0 +1,52 @@
+{
+    "tid": "0004000000053100",
+    "name": "VectorRacing",
+    "product_code": "CTR-N-JBVJ",
+    "region": "jp",
+    "version": "v0.2.0",
+    "nid": "50010000007143",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "アークシステムワークス",
+    "genre": "ノスタルジックハイスピードレーシング",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "対戦",
+        "ランキング対応"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2011-08-10",
+        "retail": ""
+    },
+    "formal_name": "VectorRacing",
+    "description": "レトロコンピューターゲームを連想とさせるビジュアルのハイスピードレーシングゲームが登場!\n<br>6種類の個性的なマシン、緩急入り交ざった12コースを「GRAND PRIX」「SINGLE RACE」「TIME TRIAL」「VS BATTLE」の4つのモードで楽しめます。\n<br>また、「VS BATTLE」モードは通信対戦、「RECORD」モードはネットワークランキングに対応しています。\n",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "レース",
+        "その他"
+    ],
+    "features": [
+        "インターネット対応",
+        "3D映像対応",
+        "ローカルプレイ対応",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人\nローカルプレイは2人まで",
+    "copyright": "© スイートソフト",
+    "catch_copy": "レトロコンピューターゲームを連想させる雰囲気の\n<br>ノスタルジックハイスピードレーシングゲーム！",
+    "websites": []
+}

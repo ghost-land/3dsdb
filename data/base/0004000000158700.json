@@ -1,0 +1,51 @@
+{
+    "tid": "0004000000158700",
+    "name": "Fairune",
+    "product_code": "CTR-N-KFRE",
+    "region": "na",
+    "version": "v0.2.0",
+    "nid": "50010000028796",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "RPG / Adventure / Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Adventure",
+        "RPG",
+        "Puzzle",
+        "Circle",
+        "Demo"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-12-18",
+        "retail": ""
+    },
+    "formal_name": "Fairune",
+    "description": "Fairune is an retro-style puzzle ARPG.\n<br>\n<br>A girl has been chosen to become a heroine. An adventure filled with mystery awaits her.\n<br>\n<br>During her adventure, she'll need to find weapons to defeat monsters, and to level up.  She also needs to collect items, find secret passages, and solve puzzles.  Once she has unlocked three ancient statues, she has to seal a mysterious menace away forever.\n<br>\n<br>Other features:\n<br>8-bit graphics and sound to dazzle the eyes and ears.\n<br>Simple controls.\n<br>Addicting puzzle designs.\n<br>Exclusive maps and puzzles only for Nintendo 3DS™.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "RPG",
+        "Adventure",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© CIRCLE Entertainment Ltd.\n<br>© SKIPMORE\n<br>© Flyhigh Works\n<br>© URARA-WORKS",
+    "catch_copy": "",
+    "websites": []
+}

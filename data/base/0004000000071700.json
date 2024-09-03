@@ -1,0 +1,54 @@
+{
+    "tid": "0004000000071700",
+    "name": "BATTLESHIP®",
+    "product_code": "CTR-P-ABSE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000009768",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Retail Only"
+    },
+    "publisher": "Activision",
+    "genre": "Real Time Strategy",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E10+",
+        "age": "10"
+    },
+    "keywords": [
+        "3D games",
+        "Activision"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "",
+        "retail": "2012-05-15"
+    },
+    "formal_name": "BATTLESHIP®",
+    "description": "Your Fleet. Your Fight. OUR Fate.\n<br><br>\nTake command of a US Naval fleet to wage war against an unknown alien force. Secure the seas before it’s too late.\n<br><br>\nDefend and protect your Battleships.<br>\nPlay in DUEL! Mode to fire on your enemies!<br>\nCall on your fleet!<br>\nFire At Will!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Strategy",
+        "Action",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "BATTLESHIP is a trademark of Hasbro and is used with permission.<br>\n© 2012 Hasbro. All Rights Reserved. BATTLESHIP motion picture. © 2012 Universal Studios. All Rights Reserved. © 2012 Activision Publishing, Inc. Activision is a registered trademark of Activision Publishing, Inc. All rights reserved.The ratings icon is a trademark of the Entertainment Software Association. All other trademarks and trade names are the properties of their respective owners.  ",
+    "catch_copy": "",
+    "websites": []
+}

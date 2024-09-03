@@ -1,0 +1,49 @@
+{
+    "tid": "0004000000119800",
+    "name": "Tappingo",
+    "product_code": "CTR-N-JTPE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000020653",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D games",
+        "Circle Entertainment",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-02-27",
+        "retail": ""
+    },
+    "formal_name": "Tappingo",
+    "description": "Tappingo is an awesome new puzzle game, in which you create small pictures by solving puzzles. Your goal is to solve each puzzle picture by making all the numbered blocks extend into lines of the correct length. The number on each block indicates exactly how long the line needs to be.\n<br>\n<br>The game keeps track of the time taken to solve each puzzle. You can challenge your friends or yourself to set a better time! How fast can you solve it?\n<br>\n<br>The game features:\n<br>Over 100 puzzles based on different themes (Hobbies, sports, computers, animals, etc.)\n<br>Time Attack mode (Finish each puzzle as quick as possible)\n<br>Two gameplay modes\n<br>Cool art style",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© Goodbye Galaxy Games\n<br>© CIRCLE Entertainment Ltd.",
+    "catch_copy": "",
+    "websites": []
+}

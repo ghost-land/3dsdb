@@ -1,0 +1,47 @@
+{
+    "tid": "0004000000136400",
+    "name": "イルベロデリンジャ",
+    "product_code": "CTR-N-KEBJ",
+    "region": "jp",
+    "version": "v2.2.0",
+    "nid": "50010000024081",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "RS34",
+    "genre": "シューティング",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "シューティング"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2018-10-03",
+        "retail": ""
+    },
+    "formal_name": "イルベロデリンジャ",
+    "description": "「100ステージ+やりこみ」\n<br>\n<br>シューティングゲームとしては、\n<br>非常に多い「100」ステージを遊ぶことができます。\n<br>\n<br>さらにステージには3種類の「鍵」が出現し、\n<br>すべての鍵を集めるにはある程度のやりこみが必要なので、100ステージ+やりこみ要素込みで1,000円という価格の、“低価格大ボリューム”のゲームです。\n<br>※当ソフトは2014年7月にダウンロード配信されたソフトの再販となります。\n<br>　ゲーム内容の変更や新規要素はございません。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "シューティング",
+        "アクション"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2018 RS34, INC.",
+    "catch_copy": "-ひとなつの狂気、ご賞味あれ。",
+    "websites": []
+}

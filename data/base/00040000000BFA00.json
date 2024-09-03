@@ -1,0 +1,50 @@
+{
+    "tid": "00040000000BFA00",
+    "name": "マンションパーカッション",
+    "product_code": "CTR-N-JPCJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000013330",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ポイソフト",
+    "genre": "音のゲーム",
+    "rating": {
+        "system": "CERO",
+        "rating": "B",
+        "age": "12"
+    },
+    "keywords": [
+        "気軽に",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-03-06",
+        "retail": ""
+    },
+    "formal_name": "マンションパーカッション",
+    "description": "あなたが引っ越してきたマンション「パーカッション」。\n<br>そこはとても不思議なマンション。\n<br>\n<br>そこには不思議とうるさい住人が住んでいて、不思議な騒音が聞こえてきます。\n<br>\n<br>どんな世界のどんな時代でも、マンション「パーカッション」はとても賑やか。\n<br>\n<br>だからあなたは叩くのです。壁を。\n<br>\n<br>ドン･ドン･ドン･ドン･ドン･ドン\n<br>\n<br>なんだか楽しくなってきませんか……?",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "音楽",
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応",
+        "すれちがい通信対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©POISOFT",
+    "catch_copy": "マンションパーカッション！\n<br>　　マンションパーカッション！",
+    "websites": []
+}

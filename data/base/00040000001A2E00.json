@@ -1,0 +1,73 @@
+{
+    "tid": "00040000001A2E00",
+    "name": "Swapdoodle™",
+    "product_code": "CTR-N-KRJP",
+    "region": "eu",
+    "version": "v4.4.0",
+    "nid": "50010000042050",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Nintendo",
+    "genre": "Communication / Utility",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-11-18",
+        "retail": ""
+    },
+    "formal_name": "Swapdoodle™",
+    "description": "Enjoy a fun way to communicate with your friends with this free download! Draw messages with the Touch Screen and send quirky doodles to faraway familiar faces over the internet!\n<br>\n<br>Artists-in-training can also purchase optional doodle Lessons based on select Nintendo characters and series like Mario, Zelda and Splatoon.\n<br>\n<br>\n<br>This game may contain product placement and advertising.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Communication",
+        "Utility"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports SpotPass",
+        "Mii",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        },
+        {
+            "iso_code": "nl",
+            "name": "Dutch"
+        },
+        {
+            "iso_code": "pt",
+            "name": "Portuguese"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2016 Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

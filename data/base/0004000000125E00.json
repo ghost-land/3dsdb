@@ -1,0 +1,46 @@
+{
+    "tid": "0004000000125E00",
+    "name": "サムライディフェンダー",
+    "product_code": "CTR-N-JWXJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000031819",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "戦国タワーディフェンス",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-03-25",
+        "retail": ""
+    },
+    "formal_name": "サムライディフェンダー",
+    "description": "『サムライディフェンダー』は、戦国時代の世界観で、次々と攻めてくる敵兵に対抗するため、自軍の指揮官となって兵を操作し、城を守りきる「戦国ディフェンスゲーム」です。\n<br>\n<br>タッチで弓兵の射撃照準点を指定し、タッチ&ドラッグで援軍を召喚!\n<br>迫りくる戦国武将を跳ねのけ、お城を守り切れ!\n<br>\n<br>カンタン操作でありつつ、後半のステージになるにつれ、「敵の大群vs.自軍の大群」のバトルになり、「ワラワラわちゃわちゃ感」が楽しめる作品です。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "アクション"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©Link Kit, Inc.\n<br>©Flyhigh Works",
+    "catch_copy": "ワラワラわちゃわちゃ！\n<br>戦国ディフェンスゲーム！",
+    "websites": []
+}

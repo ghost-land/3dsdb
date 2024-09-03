@@ -1,0 +1,50 @@
+{
+    "tid": "0004000000122000",
+    "name": "ウオキャッチ!",
+    "product_code": "CTR-N-JFAJ",
+    "region": "jp",
+    "version": "v0.2.0",
+    "nid": "50010000023016",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "フライハイワークス",
+    "genre": "おさかなキャッチアクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "みんなで遊ぶ",
+        "対戦"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-06-19",
+        "retail": ""
+    },
+    "formal_name": "ウオキャッチ!",
+    "description": "「ウオキャッチ!」は、池から飛び出てくる「魚」を網でひたすらキャッチしていくゲームです。\n<br>\n<br>魚は色によって違うスコアが設定されており、指定されたノルマスコアに達すればステージクリア!\n<br>\n<br>単純ながら、黙々と遊んでしまう魅力のあるゲームです。\n<br>\n<br>ローカルプレイで対戦可能、さらにダウンロードプレイで体験版を友達に配信!\n<br>ひとつのソフトがあれば、友達と対戦できちゃいます!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション"
+    ],
+    "features": [
+        "3D映像対応",
+        "ローカルプレイ対応",
+        "ダウンロードプレイ対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人\nローカルプレイは2人まで\n<br>ダウンロードプレイは2人まで",
+    "copyright": "© 2014 Abylight S.L.\n<br>© Flyhigh Works",
+    "catch_copy": "お魚キャッチアクション！\n<br>とって、とって、とりまくれ！",
+    "websites": []
+}

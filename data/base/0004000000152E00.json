@@ -1,0 +1,47 @@
+{
+    "tid": "0004000000152E00",
+    "name": "カンフーラビット",
+    "product_code": "CTR-N-JKVJ",
+    "region": "jp",
+    "version": "v0.1.0",
+    "nid": "50010000026276",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "賈船",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "アクションADV"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-10-08",
+        "retail": ""
+    },
+    "formal_name": "カンフーラビット",
+    "description": "『カンフーラビット』は誰でも楽しめるアクションゲームです。屋根を飛び移り、壁を滑走し、敵に気づかれないうちにすべてを倒す。簡単な操作で、多様なアクションを楽しむことができます。\n<br>ウサギ寺院のカンフーの達人「カンフーラビット」は弟子である「ベイビーラビット」たちと楽しく暮らしていました。しかし、ある日宇宙より飛来した邪悪な敵により、弟子たち全員がさらわれてしまいました。かろうじて難を逃れたカンフーラビットは、弟子たちを救うために立ち上がりました。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© NEKO Entertainment. Publishing by COSEN",
+    "catch_copy": "カワイイうさぎのカンフーアクション\n<br>連れ去られた弟子たちを救出しましょう",
+    "websites": []
+}

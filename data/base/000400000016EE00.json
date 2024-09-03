@@ -1,0 +1,45 @@
+{
+    "tid": "000400000016EE00",
+    "name": "ASH",
+    "product_code": "CTR-N-KASE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000040222",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "RPG",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": "13"
+    },
+    "keywords": [
+        "Circle"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-04-28",
+        "retail": ""
+    },
+    "formal_name": "ASH",
+    "description": "Ash is a classic turn-based RPG, featuring a massive, fully-realized world with lush visuals, and a wonderfully compelling story. \n<br><br>\nThese are strange days for Aghaus. By order of the Magistrate, the Royal Guard is to assemble for deployment in two days’ time. It has been years since I last left the capital, and further still that I can remember such a command being issued! But what need is there for a Royal Guard, when no King sits upon the throne? Though my oath binds me to his service, the Magistrate is not my liege. He rules in the absence of a rightful heir. \n<br><br>\nMy men await their orders; they too are uneasy. It is for their sake that I stay my tongue, and place my faith in the Almighty that my fears are unfounded. \n<br><br>\nTomorrow, we make for the East. ",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "genres": [
+        "RPG"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© CIRCLE Entertainment Ltd.\n© Overtune\n© SRRN Games",
+    "catch_copy": "",
+    "websites": []
+}

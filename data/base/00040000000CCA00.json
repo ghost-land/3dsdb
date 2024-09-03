@@ -1,0 +1,48 @@
+{
+    "tid": "00040000000CCA00",
+    "name": "悄悄互動日記",
+    "product_code": "CTR-N-JFRW",
+    "region": "tw",
+    "version": "v1.2.0",
+    "nid": "50010000014653",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS 下載"
+    },
+    "publisher": "Nintendo",
+    "genre": "互動",
+    "rating": {
+        "system": "",
+        "rating": "",
+        "age": ""
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-06-07",
+        "retail": ""
+    },
+    "formal_name": "悄悄互動日記",
+    "description": "『悄悄互動日記』是可在Nintendo 3DS主機上手寫日記的下載軟體，將從6月7日起於Nintendo eShop開放免費下載。\n 透過本軟體不僅可以寫私人日記，也可與同樣下載了本軟體的玩家，透過瞬間交錯通訊來交換日記，是與家人朋友交流的好工具。\n※可與在Nintendo 3DS上進行過朋友登錄的玩家交換日記。\n\n在『悄悄互動日記』中除了用普通的筆寫日記以外，還有用「3D筆」寫的立體日記，或是貼上自拍照片或錄製的聲音等各式各樣的日記。還可以對收到的日記進行回信。",
+    "movies_id": [],
+    "disclaimer": "由2013年11月1日起，透過悄悄通訊收發日記的服務已停止。                                                                                   不便之處，敬請原諒。                                                                                                                                               \n\n咨詢處：general@nintendo.com.hk",
+    "genres": [
+        "交流",
+        "實用"
+    ],
+    "features": [
+        "對應3D影像",
+        "對應瞬間交錯通訊",
+        "Mii"
+    ],
+    "languages": [
+        {
+            "iso_code": "zh",
+            "name": "中文"
+        }
+    ],
+    "number_of_players": "1人用",
+    "copyright": "©2011 Nintendo",
+    "catch_copy": "",
+    "websites": []
+}

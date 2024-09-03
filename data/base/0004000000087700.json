@@ -1,0 +1,54 @@
+{
+    "tid": "0004000000087700",
+    "name": "NightSky",
+    "product_code": "CTR-N-JNSE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000011650",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Nicalis",
+    "genre": "Arcade / Physics / Puzzle / Platformer",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Physics",
+        "Arcade",
+        "Puzzle",
+        "Platformer",
+        "3D games",
+        "Nicalis",
+        "Indie"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-10-25",
+        "retail": ""
+    },
+    "formal_name": "NightSky",
+    "description": "NightSky is an action-puzzle game that offers an ambient gameplay experience unlike any other on Nintendo 3DS with cerebral challenges that fill uniquely designed picturesque worlds. Each of these worlds is broken into different areas in which the player must maneuver a sphere by using realistic physics to advance. There are no enemies, no bosses, and no violence in NightSky.\n<br><br>\nAn intuitive experience is friendly for casual and mainstream gamers. NightSky also offers a formidable challenge for hardcore players, with an unlockable Alternative mode. The original soundtrack by experimental jazz musician Chris Schlarb will further heighten the surreal 3D experience.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Action",
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "",
+    "copyright": "Â© 2012 Nicalis, Inc",
+    "catch_copy": "",
+    "websites": []
+}

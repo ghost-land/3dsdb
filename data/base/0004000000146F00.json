@@ -1,0 +1,47 @@
+{
+    "tid": "0004000000146F00",
+    "name": "マイティガンヴォルト",
+    "product_code": "CTR-N-KMGJ",
+    "region": "jp",
+    "version": "v1.1.0",
+    "nid": "50010000024796",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "インティ・クリエイツ",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "横スクロールアクション",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-11-26",
+        "retail": ""
+    },
+    "formal_name": "マイティガンヴォルト",
+    "description": "ニンテンドー3DSのeショップ配信ソフト『蒼き雷霆ガンヴォルト』がレトロなグラフィックとサウンドにアレンジされて登場!\n<br>見た目だけでなくゲーム内容も80年代の王道スタイルを踏襲し、シンプルな内容でありながら繰り返し遊びたくなる要素が盛りだくさんです。\n<br>\n<br>ガンヴォルト以外に『ぎゃる☆がん』の「見習い天使のえころ」、『Mighty No.9』のベックもプレイヤーキャラとして使用可能です。各キャラクターには専用のアクションがあり、ステージの攻略方法も三種三様に楽しめます。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "アクション",
+        "シューティング"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© INTI CREATES CO., LTD. 2014 ALL RIGHTS RESERVED.",
+    "catch_copy": "ファミコン世代に贈る\n<br>ファミコン世代のための２Ｄアクション！",
+    "websites": []
+}

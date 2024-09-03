@@ -1,0 +1,50 @@
+{
+    "tid": "00040000001B1900",
+    "name": "Chou2トーク",
+    "product_code": "CTR-N-KCTJ",
+    "region": "jp",
+    "version": "v0.4.0",
+    "nid": "50010000042358",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "WaiS",
+    "genre": "コミュニケーションソフト",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "みんなで遊ぶ",
+        "気軽に"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2017-08-09",
+        "retail": ""
+    },
+    "formal_name": "Chou2トーク",
+    "description": "『Chou2トーク(シュシュトーク)』は、登録したフレンドとチャットや電話ができるニンテンドー3DS専用のコミュニケーションアプリです。\n<br>お友達とお話しながら、みんなでお絵描きのような手書きチャットができちゃうよ！\n<br>今日の出来事や学校の話、遊びの約束、いろんな話題でお友達とチャットしましょう♪",
+    "movies_id": [],
+    "disclaimer": "シュシュトークでチャットや電話をして遊ぶには、インターネット環境が必要です\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "コミュニケーション"
+    ],
+    "features": [
+        "インターネット対応",
+        "インターネット専用",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人\n最大4人でチャットや電話ができます",
+    "copyright": "(C)WaiS CO.,LTD.",
+    "catch_copy": "ニンテンドー3DSでフレンドとチャットや電話をしてみよう！\n<br>スタンプで今の気持ちを送ってね！",
+    "websites": []
+}

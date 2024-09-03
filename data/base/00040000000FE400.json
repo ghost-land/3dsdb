@@ -1,0 +1,62 @@
+{
+    "tid": "00040000000FE400",
+    "name": "Boxzle",
+    "product_code": "CTR-N-JQ9E",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000021656",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "PouncingKitten Games",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D games",
+        "PouncingKitten"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-04-10",
+        "retail": ""
+    },
+    "formal_name": "Boxzle",
+    "description": "Welcome to Boxzle, a challenging three dimensional puzzle game. Boxzle contains 120 different puzzles, four different puzzle sizes and three challenging modes for you to choose from. Try a new take on the classic sliding tile puzzle or a new twist on an old classic. If those are too easy for you, try them both at the same time!\n<br><br>\nDon't let the beautiful images fool you. Boxzle is easy to pick up, but hard to put down.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "pt",
+            "name": "Portuguese"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2014 PouncingKitten Games, LLC. All Rights Reserved.",
+    "catch_copy": "",
+    "websites": []
+}

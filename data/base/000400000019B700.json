@@ -1,0 +1,40 @@
+{
+    "tid": "000400000019B700",
+    "name": "Fantasy Pirates",
+    "product_code": "CTR-N-KFPY",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000040779",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "COSEN",
+    "genre": "액션",
+    "rating": {
+        "system": "GRB",
+        "rating": "ALL",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-06-29",
+        "retail": ""
+    },
+    "formal_name": "Fantasy Pirates",
+    "description": "섬을 지키는 벽을 부수고 보물을 획득하자!\nFANTASY PIRATES는 문구 용품이나 장난감으로 이루어진 세계에서 해적이 되어 배를 조종하며 보물을 획득하는 게임입니다. 대포로 장애물을 부수며 7개의 바다를 제패합시다.",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Fantasy Pirates\n<br>상호:COSEN\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160429-001\n<br>등급분류 일자:2016.4.29\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 일본어\n<br>※ for sale in Korea only",
+    "genres": [
+        "액션"
+    ],
+    "features": [
+        "3D 영상 대응"
+    ],
+    "languages": [],
+    "number_of_players": "1명",
+    "copyright": "©2015 EnjoyUP Games Published in Korea by COSEN Co., Ltd",
+    "catch_copy": "",
+    "websites": []
+}

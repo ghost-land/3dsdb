@@ -1,0 +1,46 @@
+{
+    "tid": "00040000000E6900",
+    "name": "WAKEDAS",
+    "product_code": "CTR-N-JWKE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000015833",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "CIRCLE Ent.",
+    "genre": "Shape Shifting Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Circle Entertainment",
+        "Demo"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-08-22",
+        "retail": ""
+    },
+    "formal_name": "WAKEDAS",
+    "description": "WAKEDAS is a contemplative and thoughtful shape shifting puzzle game with the perfect combination of eye-candy visuals and serene sounds. Radiant multicolored tiles rests on an infinite loop; aim of the game is to group same colored blocks together by simply dragging your finger across the screen.\n<br><br>\nFeatures:<br>\nLearn the rules in less than 3 seconds<br>\n300 unique puzzles that will challenge your brain<br>\nSeparate and combine similar colors with minimal steps!<br>\nHint system in place to give you a boost\n<br><br>\nTry and solve all of the enjoyable WAKEDAS puzzles that will light up your imagination.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2013 FK Digital\n© 2013 Flyhigh Works\n© 2013 CIRCLE Entertainment LTD.",
+    "catch_copy": "",
+    "websites": []
+}

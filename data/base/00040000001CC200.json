@@ -1,0 +1,46 @@
+{
+    "tid": "00040000001CC200",
+    "name": "マシンナイト",
+    "product_code": "CTR-N-J99J",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000044235",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ケムコ",
+    "genre": "RPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "じっくり"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2018-01-10",
+        "retail": ""
+    },
+    "formal_name": "マシンナイト",
+    "description": "世界の深刻なエネルギー不足を解決するべく、使者として異世界の大都市ダンドンに訪れたフレイン。\n<br>しかし、突如ダンドン近隣の村が、フレインの世界の機械兵に襲われ、フレインは容疑者となってしまう。\n<br>ダンドンの兵から追われ、祖国に裏切られ、独りとなってしまった彼に手を差し伸べたのは、二人の少女だった――\n<br>\n<br>『マシンナイト』は、自由にキャラクターを育てる事のできるマキナ盤システムや、\n<br>豊富なクエスト、勲章集めといった、やりこみ要素満載のファンタジーRPGです。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "ロールプレイング"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2011-2018 KEMCO/Hit-Point",
+    "catch_copy": "裏切られた『機械』の祖国か、\n<br>迎え入れた『魔法』の異国か――",
+    "websites": []
+}

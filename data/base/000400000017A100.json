@@ -1,0 +1,49 @@
+{
+    "tid": "000400000017A100",
+    "name": "Radiohammer",
+    "product_code": "CTR-N-KRHE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000038757",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Aksys Games",
+    "genre": "Rhythm",
+    "rating": {
+        "system": "ESRB",
+        "rating": "T",
+        "age": "13"
+    },
+    "keywords": [
+        "Aksys",
+        "Rhythm",
+        "ARC SYSTEM WORKS"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-12-10",
+        "retail": ""
+    },
+    "formal_name": "Radiohammer",
+    "description": "Rock the beat with Radiohammer in this rhythm action romp developed by Arc System Works and Vinyl Lab! Play as the world’s most famous super DJs and protect the peace with the power of love and music! Drop the beat on the bad guys as you shuck and jive your way through hordes of the morally maligned! Time your strikes to make the world a safer, funkier place with your superior sonic skills and impeccable rhythm. Take down massive villains and fend off furious flashers with groovy tunes and masterful mixes.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade",
+        "Action",
+        "Music"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© ARC SYSTEM WORKS. Licensed to and published by Aksys Games with permission from ARC SYSTEM WORKS.",
+    "catch_copy": "",
+    "websites": []
+}

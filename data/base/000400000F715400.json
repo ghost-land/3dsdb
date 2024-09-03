@@ -1,0 +1,45 @@
+{
+    "tid": "000400000F715400",
+    "name": "NekoBop",
+    "product_code": "KTR-N-CD6E",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000049435",
+    "platform": {
+        "device": "CTR",
+        "name": "New 3DS Download Only"
+    },
+    "publisher": "Zachary Kirtz",
+    "genre": "Arcade",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2022-04-07",
+        "retail": ""
+    },
+    "formal_name": "NekoBop",
+    "description": "There are Pesky Cat-girls invading your Café, looking for the tastiest Ice Cream in town. They are relentless, and will stop at nothing to eat up all your freshly baked goods, and Ice-cream supply! To counter this, Behold… the Neko Hammer. You can lightly bop the Cat-girls on the head with it to repel them away from your tasty treats! But can you get rid of them all before they take over your café? Find out now by Playing “NekoBop”!",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+    "genres": [
+        "Arcade"
+    ],
+    "features": [
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "©Zachary Kirtz\n<br>©Michael Boucher",
+    "catch_copy": "",
+    "websites": []
+}

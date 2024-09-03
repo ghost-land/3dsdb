@@ -1,0 +1,51 @@
+{
+    "tid": "0004000000139000",
+    "name": "2048",
+    "product_code": "CTR-N-JFEE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000023498",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "cosmigo",
+    "genre": "Puzzle / Strategy / Board Game",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "3D games",
+        "cosmigo"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-06-19",
+        "retail": ""
+    },
+    "formal_name": "2048",
+    "description": "Enjoy 2048, the most addictive number sliding puzzle. Move all tiles in one direction, double up tiles of the same number. Reach the 2048 tile before the board fills up. Try different games modes with 1024, 2048 and 4096 goals for extra challenges. There are 20 achievements to unlock for hours and hours of puzzle fun. Can you reach a new highscore? With intuitive controls you will enjoy 2048 more than ever. Try 2048 today and see why this is one of the greatest puzzle games of all time. The original 2048 was created by by Gabriele Cirulli.",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Education"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â©2014 cosmigo",
+    "catch_copy": "",
+    "websites": []
+}

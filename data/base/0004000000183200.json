@@ -1,0 +1,38 @@
+{
+    "tid": "0004000000183200",
+    "name": "라디오해머",
+    "product_code": "CTR-N-KRHZ",
+    "region": "kr",
+    "version": "v0.0.0",
+    "nid": "50010000039368",
+    "platform": {
+        "device": "CTR",
+        "name": "닌텐도 3DS 다운로드"
+    },
+    "publisher": "Game Museum",
+    "genre": "음악",
+    "rating": {
+        "system": "GRB",
+        "rating": "12",
+        "age": "12"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-02-03",
+        "retail": ""
+    },
+    "formal_name": "라디오해머",
+    "description": "해적 방송국 라디오해머! 볼륨을 높여라!\n\n라디오해머는 음악에 맞춰 리드미컬하게 버튼을 누르는 리듬 액션 게임입니다. 살아있는 비트에 몸을 싣고 악당들을 해머로 날려버립시다! 라디오해머 3인의 인기 DJ의 선택에 따라 스테이지와 음악 그리고 보스까지 전부 바뀌게 됩니다.\n과연 여러분은 모든 악당들을 물리치고 마을에 평화를 되찾을 수 있을까요?!",
+    "movies_id": [],
+    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:라디오해머\n상호:게임 뮤지엄\n이용등급:12세 이용가\n등급분류번호:GC-CC-NV-151218-008\n등급분류 일자:2015.12.18\n제작・배급업신고번호:제 2015-000002 호\n※ 대응 언어: 영어\n※ for sale in Korea only",
+    "genres": [
+        "음악"
+    ],
+    "features": [],
+    "languages": [],
+    "number_of_players": "1명",
+    "copyright": "©ARC SYSTEM WORKS/©VINYL LAB",
+    "catch_copy": "",
+    "websites": []
+}

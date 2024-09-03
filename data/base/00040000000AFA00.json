@@ -1,0 +1,48 @@
+{
+    "tid": "00040000000AFA00",
+    "name": "PIX3D",
+    "product_code": "CTR-N-JPXE",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000012747",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Gamelion",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Gamelion",
+        "3D Games"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-12-20",
+        "retail": ""
+    },
+    "formal_name": "PIX3D",
+    "description": "One thousand levels, 3 different game modes. Battle against time and get the highest score in the greatly-addictive pix puzzle game – PIX3D.\n<br><br>\nImagine a picture. A simple picture. A pix art picture.<br><br>\nNow break it down to every single pixel. That's a colorful mess, huh?<br><br>\nSo PIX3D is about fixing that mess to reproduce a beautiful pixel art picture. It's challenging, addictive and it piques your curiosity.<br><br>\nWith finely-tuned controls, using the stylus or Circle Pad, simple but amazing graphics and retro 8-bit music, the game introduces us to its unique world.<br><br>\nEnjoy three different modes, fight against time and show the world how PIX3D you are!",
+    "movies_id": [],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Copyright © 2012 Gamelion Studios",
+    "catch_copy": "",
+    "websites": []
+}

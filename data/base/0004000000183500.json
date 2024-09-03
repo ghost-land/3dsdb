@@ -1,0 +1,48 @@
+{
+    "tid": "0004000000183500",
+    "name": "Sssnakes",
+    "product_code": "CTR-N-KS4E",
+    "region": "na",
+    "version": "v0.0.0",
+    "nid": "50010000040560",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Software Scribes",
+    "genre": "Arcade / Action",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2016-06-02",
+        "retail": ""
+    },
+    "formal_name": "Sssnakes",
+    "description": "Sssnakes is a new twist on the classic snake video game. It is an upgrade for modern times without giving up its essence.\n<br>\n<br>Go through the jungle to the inside of the temple, avoid the traps, move through intricate mazes and face other snakes.\n<br>\n<br>But above all, you will need to keep away from your biggest enemy... gluttony!\n<br>\n<br>Features:\n<br>Easy to play, hard to master.\n<br>Many levels with different objectives and enemies.\n<br>8-bit mode.\n<br>The ability to shoot provides new opportunities and strategies to get out of tough situations.\n<br>Online scoreboard to compete for the top score.\n<br>Tricks and hidden secrets to get the top score or to make the game easier.",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "genres": [
+        "Arcade",
+        "Action"
+    ],
+    "features": [
+        "Supports Online Play",
+        "Displays 3D Visuals",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "2016 EnjoyUp Games",
+    "catch_copy": "",
+    "websites": []
+}

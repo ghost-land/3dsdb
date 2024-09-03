@@ -1,0 +1,57 @@
+{
+    "tid": "0004000000154C00",
+    "name": "Pazuru",
+    "product_code": "CTR-N-BPZE",
+    "region": "na",
+    "version": "v0.2.0",
+    "nid": "50010000032796",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS Download Only"
+    },
+    "publisher": "Joindots",
+    "genre": "Puzzle",
+    "rating": {
+        "system": "ESRB",
+        "rating": "E",
+        "age": "6"
+    },
+    "keywords": [
+        "Joindots",
+        "Camera",
+        "Moragami"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-04-16",
+        "retail": ""
+    },
+    "formal_name": "Pazuru",
+    "description": "Use your ninja reflexes to solve puzzles in this easy to learn, hard to master puzzle game. Twist, bounce, warp and toggle your way through the levels. Collect all the stars and be a true ninja master!\n<br><br>\nGame features:\nOver 70 brain-twisting levels\nCreate custom levels with the built-in level editor\nShare levels online and offline via QR Code",
+    "movies_id": [],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "genres": [
+        "Puzzle",
+        "Strategy",
+        "Board Game"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2011-2015 Jay van Hutten\n© 2015 Moragami\nPublished by Joindots GmbH",
+    "catch_copy": "",
+    "websites": []
+}

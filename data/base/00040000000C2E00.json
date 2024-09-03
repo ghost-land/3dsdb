@@ -1,0 +1,63 @@
+{
+    "tid": "00040000000C2E00",
+    "name": "HarmoKnight™",
+    "product_code": "CTR-P-AQ7P",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000013416",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Nintendo",
+    "genre": "Platformer/Music",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2013-03-28",
+        "retail": ""
+    },
+    "formal_name": "HarmoKnight™",
+    "description": "HarmoKnight combines side-scrolling\nplatforming with rhythm-action\ngameplay to create an exciting and\ncolourful experience. Each stage has a\nmusical track that must be used as a\nguide to perform specific moves such\nas hitting enemies, jumping gaps and\nstriking musical plants in the\nbackground. Thanks to the game’s\nintuitive two-button control system,\npicking up the basics is really simple…\nbut that doesn’t mean that saving\nPrincess Ariana from the Noizoids is\ngoing to be easy!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Action",
+        "Platformer",
+        "Music"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        },
+        {
+            "iso_code": "es",
+            "name": "Spanish"
+        },
+        {
+            "iso_code": "fr",
+            "name": "French"
+        },
+        {
+            "iso_code": "de",
+            "name": "German"
+        },
+        {
+            "iso_code": "it",
+            "name": "Italian"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "© 2012-2013 GAME FREAK\ninc. / Nintendo.",
+    "catch_copy": "",
+    "websites": []
+}

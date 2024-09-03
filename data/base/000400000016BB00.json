@@ -1,0 +1,48 @@
+{
+    "tid": "000400000016BB00",
+    "name": "クロノスアーク",
+    "product_code": "CTR-N-JCNJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000036235",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "ケムコ",
+    "genre": "RPG",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "謎解き",
+        "ひとりで遊ぶ"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2015-08-19",
+        "retail": ""
+    },
+    "formal_name": "クロノスアーク",
+    "description": "10年に一度の「時返り」のためにクロノスの欠片を師匠テスと祠(ほこら)へと取りに行く最中、ゲッペルと名乗る謎の男が現れて欠片を奪おうと迫ります。何とか単身で逃げ切れた主人公のロカですが、テスとゲッペルは行方不明になってしまいます。ロカはテスや欠片を狙うゲッペルの情報を追ってサーナとともに旅に出ることを決意します。\n<br>\n<br>お馴染みのクエストはもちろん、ギミック満載の謎解きダンジョンやジョブチェンジシステム、成長要素のあるキャラクターたちが待っています。",
+    "movies_id": [],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "genres": [
+        "ロールプレイング",
+        "パズル",
+        "アクション"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "©2012-2015 KEMCO/Hit-Point",
+    "catch_copy": "『クロノスの欠片』をめぐるファンタジーRPG\n<br>ギミック満載の謎解きダンジョンに挑戦しよう！",
+    "websites": []
+}

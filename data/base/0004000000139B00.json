@@ -1,0 +1,50 @@
+{
+    "tid": "0004000000139B00",
+    "name": "EDGE",
+    "product_code": "CTR-N-JEGJ",
+    "region": "jp",
+    "version": "v0.0.0",
+    "nid": "50010000022517",
+    "platform": {
+        "device": "CTR",
+        "name": "ニンテンドー3DSダウンロードソフト"
+    },
+    "publisher": "レイニーフロッグ",
+    "genre": "アクション",
+    "rating": {
+        "system": "CERO",
+        "rating": "A",
+        "age": "0"
+    },
+    "keywords": [
+        "ひとりで遊ぶ",
+        "アクションパズル"
+    ],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2014-06-04",
+        "retail": ""
+    },
+    "formal_name": "EDGE",
+    "description": "シンプル操作で、キューブをゴールまで転がそう。100以上のステージには「移動」、「落下」するブロックなど、数多くの仕掛けとトラップが待ち受ける。プリズムを集め、短時間でステージをクリアするのがポイント。キューブの端でバランスをとることでボーナスタイムを獲得する!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "アクション",
+        "パズル",
+        "トレーニング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        {
+            "iso_code": "ja",
+            "name": "日本語"
+        }
+    ],
+    "number_of_players": "1人",
+    "copyright": "© 2014 Two Tribes Publishing B.V. / Mobigame S.A.R.L.\n<br>Licensed to and published by Rainy Frog LLC.",
+    "catch_copy": "キューブを転がしゴールを目指す、ユニークな新感覚アクションゲーム！\n<br>仕掛けを利用し、トラップを避けながら、プリズムを集め、上位ランクを目指そう！",
+    "websites": []
+}

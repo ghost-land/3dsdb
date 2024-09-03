@@ -1,0 +1,49 @@
+{
+    "tid": "000400000008C200",
+    "name": "escapeVektor",
+    "product_code": "CTR-N-JEVP",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000012790",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "Nnooo",
+    "genre": "Retro/Puzzle/Arcade/Adventure",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2012-12-20",
+        "retail": ""
+    },
+    "formal_name": "escapeVektor",
+    "description": "Vektor has been trapped inside the\nCPU for what feels like an eternity\nand you are his only hope of escape.\nAs he travels through the CPU, help\nhim recover his memories and destroy\nthe different enemy types sent to hunt\nhim. But be careful, the further Vektor\ngets, the more devious the CPU\nbecomes!\n<br/><br/>\nThere is a whole world to uncover\nwithin your CPU!Hiding away are 150\nlevels (nodes), 27 worlds (zones) and\nfour unique abilities to unlock and\nupgrade. With Vektor providing you\nwith: Detonate to destroy enemies,\nBoost and Super Boost to out run\nthem and Boostenate to smash your\nway through, you are sure to be able\nto help him escape!\n<br/><br/>\nOnline leaderboards allow you to\ncompete against your friends, those in\nyour location and those closest to\nyou in score. Use wildcards to double\nyour score in each level and boost\nyour standing in the leaderboards!",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Nintendo Network"
+    ],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "Â© 2011, 2012 Nnooo. All rights\nreserved.",
+    "catch_copy": "",
+    "websites": []
+}
