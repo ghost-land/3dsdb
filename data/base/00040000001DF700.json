@@ -1,0 +1,44 @@
+{
+    "tid": "00040000001DF700",
+    "name": "snake3d",
+    "product_code": "CTR-N-KH2P",
+    "region": "eu",
+    "version": "v0.0.0",
+    "nid": "50010000048917",
+    "platform": {
+        "device": "CTR",
+        "name": "Nintendo 3DS (Download)"
+    },
+    "publisher": "RandomSpin Games",
+    "genre": "Arcade / Puzzle",
+    "rating": {
+        "system": "COB",
+        "rating": "G",
+        "age": "0"
+    },
+    "keywords": [],
+    "descriptors": [],
+    "releases_dates": {
+        "eshop": "2020-10-16",
+        "retail": ""
+    },
+    "formal_name": "snake3d",
+    "description": "Excellent snake in 3d.",
+    "movies_id": [],
+    "disclaimer": "",
+    "genres": [
+        "Arcade",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        {
+            "iso_code": "en",
+            "name": "English"
+        }
+    ],
+    "number_of_players": "1 player",
+    "copyright": "VG && IG",
+    "catch_copy": "",
+    "websites": []
+}
