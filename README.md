@@ -118,7 +118,7 @@ AE': Arabic (ar)
 'SI': Slovenian (sl)
 'SK': Slovak (sk)
 'SR': Serbian (sr)
-'TR': Turkish (tr)```
+'TR': Turkish (tr)
 
 ```
 ```
