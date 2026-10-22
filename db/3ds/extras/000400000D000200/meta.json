@@ -1,21 +1,39 @@
 {
-    "tid": "000400000D000200",
-    "uid": "",
-    "name": "DevMenu",
-    "formal_name": "DevMenu",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Devapps Misc",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000D000200",
+  "uid": "",
+  "name": "DevMenu",
+  "formal_name": "DevMenu",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "DevMenu 2x",
+  "platform_name": "",
+  "region": "Devapps Misc",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E000FCE00",
-    "uid": "50010000018414",
-    "name": "Hakuoki\nUpdate",
-    "formal_name": "Hakuoki: Memories of the\nShinsengumi Update",
-    "description": "Fixes an issue with Hakuoki Memories\nâ€“ game will no longer crash if the\nplayer has not created a save file prior\nto starting the additional content.",
-    "release_date_on_eshop": "2013-11-28",
-    "product_code": "CTR-U-AH9P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000FCE00",
+  "uid": "50010000018414",
+  "name": "Hakuoki\nUpdate",
+  "formal_name": "Hakuoki: Memories of the\nShinsengumi Update",
+  "description": "Fixes an issue with Hakuoki Memories\nâ€“ game will no longer crash if the\nplayer has not created a save file prior\nto starting the additional content.",
+  "release_date_on_eshop": "2013-11-28",
+  "product_code": "CTR-U-AH9P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Rising Star Games Ltd",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C001C1900",
-    "uid": "",
-    "name": "レイトン ミステリージャーニー - カトリーエイルと大富豪の陰謀",
-    "formal_name": "レイトン ミステリージャーニー - カトリーエイルと大富豪の陰謀",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BLFJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001C1900",
+  "uid": "",
+  "name": "レイトン ミステリージャーニー - カトリーエイルと大富豪の陰謀",
+  "formal_name": "レイトン ミステリージャーニー - カトリーエイルと大富豪の陰謀",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BLFJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "LEVEL-5 Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

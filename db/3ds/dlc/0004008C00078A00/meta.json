@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00078A00",
-    "uid": "",
-    "name": "スーパーロボット大戦ＵＸ",
-    "formal_name": "スーパーロボット大戦ＵＸ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-AS6J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00078A00",
+  "uid": "",
+  "name": "スーパーロボット大戦ＵＸ",
+  "formal_name": "スーパーロボット大戦ＵＸ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-AS6J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "株式会社バンダイナムコゲームス",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

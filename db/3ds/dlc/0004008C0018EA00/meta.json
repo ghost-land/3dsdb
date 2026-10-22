@@ -24,7 +24,14 @@
     "name": "CERO",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "バンダイナムコエンターテインメント",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

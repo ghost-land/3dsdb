@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C000E9C00",
-    "uid": "",
-    "name": "FANTASY LIFE LINK!",
-    "formal_name": "FANTASY LIFE LINK!",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BLKJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C000E9C00",
+  "uid": "",
+  "name": "FANTASY LIFE LINK!",
+  "formal_name": "FANTASY LIFE LINK!",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BLKJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "LEVEL-5 Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

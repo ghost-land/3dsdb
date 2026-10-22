@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00157B00",
-    "uid": "",
-    "name": "引ク出ス　ヒッパランド",
-    "formal_name": "引ク出ス　ヒッパランド",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KAAJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00157B00",
+  "uid": "",
+  "name": "引ク出ス　ヒッパランド",
+  "formal_name": "引ク出ス　ヒッパランド",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KAAJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

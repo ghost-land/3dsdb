@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C00151100",
-    "uid": "",
-    "name": "Cube Creator 3D AOC Cube Creator 3D Upgrades",
-    "formal_name": "Cube Creator 3D AOC Cube Creator 3D Upgrades",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KCCE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00151100",
+  "uid": "",
+  "name": "Cube Creator 3D AOC Cube Creator 3D Upgrades",
+  "formal_name": "Cube Creator 3D AOC Cube Creator 3D Upgrades",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KCCE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Big John Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

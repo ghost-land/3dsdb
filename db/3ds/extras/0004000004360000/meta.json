@@ -1,21 +1,39 @@
 {
-    "tid": "0004000004360000",
-    "uid": "",
-    "name": "3DEins",
-    "formal_name": "3DEins",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-H-3DES",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000004360000",
+  "uid": "",
+  "name": "3DEins",
+  "formal_name": "3DEins",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-H-3DES",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Universal-Team",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

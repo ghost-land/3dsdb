@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C0017D500",
-    "uid": "",
-    "name": "ゼルダ無双 ハイラルオールスターズ",
-    "formal_name": "ゼルダ無双 ハイラルオールスターズ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BZHJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0017D500",
+  "uid": "",
+  "name": "ゼルダ無双 ハイラルオールスターズ",
+  "formal_name": "ゼルダ無双 ハイラルオールスターズ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BZHJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.6.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "KOEI TECMO GAMES",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

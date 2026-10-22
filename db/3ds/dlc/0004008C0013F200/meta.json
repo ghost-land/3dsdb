@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C0013F200",
-    "uid": "",
-    "name": "ブキガミ",
-    "formal_name": "ブキガミ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KBGJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0013F200",
+  "uid": "",
+  "name": "ブキガミ",
+  "formal_name": "ブキガミ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KBGJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "TAKARATOMY A.R.T.S",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -23,10 +23,17 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
   "descriptors": [
     "Suggestive Themes",
     "Alcohol Reference"
-  ]
+  ],
+  "publisher": "Natsume Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

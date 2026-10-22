@@ -1,21 +1,30 @@
 {
-    "tid": "00040000001C0E00",
-    "uid": "",
-    "name": "探偵神宮寺三郎 横浜港連続殺人事件",
-    "formal_name": "探偵神宮寺三郎 横浜港連続殺人事件",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KYTJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C0E00",
+  "uid": "",
+  "name": "探偵神宮寺三郎 横浜港連続殺人事件",
+  "formal_name": "探偵神宮寺三郎 横浜港連続殺人事件",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KYTJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "アークシステムワークス株式会社",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

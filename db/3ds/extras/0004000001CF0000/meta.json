@@ -1,21 +1,34 @@
 {
-    "tid": "0004000001CF0000",
-    "uid": "",
-    "name": "Pickr",
-    "formal_name": "Pickr",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000001CF0000",
+  "uid": "",
+  "name": "Pickr",
+  "formal_name": "Pickr",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-HB-PICK",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v1.1.1",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Bernardo Giordano"
 }

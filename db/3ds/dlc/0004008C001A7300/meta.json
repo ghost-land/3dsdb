@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C001A7300",
-    "uid": "",
-    "name": "ヘボット！ - ヘボヘボ! ヘボットーナメント!",
-    "formal_name": "ヘボット！ - ヘボヘボ! ヘボットーナメント!",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KHCJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001A7300",
+  "uid": "",
+  "name": "ヘボット！ - ヘボヘボ! ヘボットーナメント!",
+  "formal_name": "ヘボット！ - ヘボヘボ! ヘボットーナメント!",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KHCJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "バンダイナムコエンターテインメント",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

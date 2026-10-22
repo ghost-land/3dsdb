@@ -30,7 +30,14 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

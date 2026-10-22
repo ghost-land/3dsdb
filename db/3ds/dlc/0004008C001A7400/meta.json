@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C001A7400",
-    "uid": "",
-    "name": "実況パワフルプロ野球 ヒーローズ",
-    "formal_name": "実況パワフルプロ野球 ヒーローズ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BPYJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001A7400",
+  "uid": "",
+  "name": "実況パワフルプロ野球 ヒーローズ",
+  "formal_name": "実況パワフルプロ野球 ヒーローズ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BPYJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Konami Digital Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

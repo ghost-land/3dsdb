@@ -16,10 +16,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "15"
   },
   "version": "v1.3.0",
   "disclaimer": "ニンテンドー3DSソフト『異史戦国伝宿業』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "InterGrow",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

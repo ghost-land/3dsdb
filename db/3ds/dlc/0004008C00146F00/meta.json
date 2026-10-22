@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00146F00",
-    "uid": "",
-    "name": "マイティガンヴォルト",
-    "formal_name": "マイティガンヴォルト",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KMGJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00146F00",
+  "uid": "",
+  "name": "マイティガンヴォルト",
+  "formal_name": "マイティガンヴォルト",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KMGJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "インティ・クリエイツ",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

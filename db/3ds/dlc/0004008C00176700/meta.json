@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00176700",
-    "uid": "",
-    "name": "PROJECT CROSS ZONE 2",
-    "formal_name": "PROJECT CROSS ZONE 2",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BX2K",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00176700",
+  "uid": "",
+  "name": "PROJECT CROSS ZONE 2",
+  "formal_name": "PROJECT CROSS ZONE 2",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BX2K",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,37 @@
 {
-    "tid": "0004008C00137800",
-    "uid": "",
-    "name": "Puzzle & Dragons Add-On Content",
-    "formal_name": "Puzzle & Dragons Add-On Content",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-AZGP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00137800",
+  "uid": "",
+  "name": "Puzzle & Dragons Add-On Content",
+  "formal_name": "Puzzle & Dragons Add-On Content",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-AZGP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C00180A00",
-    "uid": "",
-    "name": "超チャリ走 あつめて! 超獣ハンター - 追加ステージ",
-    "formal_name": "超チャリ走 あつめて! 超獣ハンター - 追加ステージ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KCSJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00180A00",
+  "uid": "",
+  "name": "超チャリ走 あつめて! 超獣ハンター - 追加ステージ",
+  "formal_name": "超チャリ走 あつめて! 超獣ハンター - 追加ステージ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KCSJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Spicysoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

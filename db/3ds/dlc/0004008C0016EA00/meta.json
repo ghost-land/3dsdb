@@ -1,21 +1,38 @@
 {
-    "tid": "0004008C0016EA00",
-    "uid": "",
-    "name": "Etrian Mystery Dungeon",
-    "formal_name": "Etrian Mystery Dungeon",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BFDP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0016EA00",
+  "uid": "",
+  "name": "Etrian Mystery Dungeon",
+  "formal_name": "Etrian Mystery Dungeon",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BFDP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "NIS America, Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

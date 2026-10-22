@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00170900",
-    "uid": "",
-    "name": "信長の野望２",
-    "formal_name": "信長の野望２",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BNYJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00170900",
+  "uid": "",
+  "name": "信長の野望２",
+  "formal_name": "信長の野望２",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BNYJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "KOEI TECMO GAMES",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

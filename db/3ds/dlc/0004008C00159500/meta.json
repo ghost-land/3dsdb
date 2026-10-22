@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C00159500",
-    "uid": "",
-    "name": "Devil Survivor 2 Record Breaker",
-    "formal_name": "Devil Survivor 2 Record Breaker",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-ADXE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00159500",
+  "uid": "",
+  "name": "Devil Survivor 2 Record Breaker",
+  "formal_name": "Devil Survivor 2 Record Breaker",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-ADXE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ATLUS",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

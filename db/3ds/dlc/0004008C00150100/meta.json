@@ -24,7 +24,14 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.4.0",
   "disclaimer": "無料と有料の追加コンテンツがあります。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Spicysoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

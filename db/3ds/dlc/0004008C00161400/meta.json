@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C00161400",
-    "uid": "",
-    "name": "BIKE RIDER DX2: GALAXY Append Stage",
-    "formal_name": "BIKE RIDER DX2: GALAXY Append Stage",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-JGYZ",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00161400",
+  "uid": "",
+  "name": "BIKE RIDER DX2: GALAXY Append Stage",
+  "formal_name": "BIKE RIDER DX2: GALAXY Append Stage",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-JGYZ",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Spicysoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

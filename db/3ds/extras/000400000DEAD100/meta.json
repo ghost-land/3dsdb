@@ -1,21 +1,39 @@
 {
-    "tid": "000400000DEAD100",
-    "uid": "",
-    "name": "MCU Bricker (Changes LED color)",
-    "formal_name": "MCU Bricker (Changes LED color)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AZAA",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000DEAD100",
+  "uid": "",
+  "name": "MCU Bricker (Changes LED color)",
+  "formal_name": "MCU Bricker (Changes LED color)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AZAA",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v2.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "MarcusD",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

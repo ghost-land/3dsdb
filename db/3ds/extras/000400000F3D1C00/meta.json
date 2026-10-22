@@ -1,21 +1,39 @@
 {
-    "tid": "000400000F3D1C00",
-    "uid": "",
-    "name": "DLC Activator for Minecraft: New Nintendo 3DS Edition",
-    "formal_name": "DLC Activator for Minecraft: New Nintendo 3DS Edition",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F3D1C00",
+  "uid": "",
+  "name": "DLC Activator for Minecraft: New Nintendo 3DS Edition",
+  "formal_name": "DLC Activator for Minecraft: New Nintendo 3DS Edition",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "MC-N3DS-FRII-DLC",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "MyPasswordIsWeak & TimmSkiller",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

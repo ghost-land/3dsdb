@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00191000",
-    "uid": "",
-    "name": "妖怪ウォッチ３ - コンテンツデータ",
-    "formal_name": "妖怪ウォッチ３ - コンテンツデータ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BY3J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00191000",
+  "uid": "",
+  "name": "妖怪ウォッチ３ - コンテンツデータ",
+  "formal_name": "妖怪ウォッチ３ - コンテンツデータ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BY3J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "LEVEL-5 Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

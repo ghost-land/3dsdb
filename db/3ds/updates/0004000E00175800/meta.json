@@ -1,23 +1,39 @@
 {
-    "tid": "0004000E00175800",
-    "uid": "50010000039658",
-    "name": "Word Puzzles by POWGI:\nUpdate",
-    "formal_name": "Word Puzzles by POWGI:\nUpdate",
-    "description": "This update fixes an issue that could\nresult in an unsolvable puzzle if you\nscan an amiibo whose nickname\ncontains certain letters with accents.",
-    "release_date_on_eshop": "2016-03-03",
-    "product_code": "CTR-U-KWPP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00175800",
+  "uid": "50010000039658",
+  "name": "Word Puzzles by POWGI:\nUpdate",
+  "formal_name": "Word Puzzles by POWGI:\nUpdate",
+  "description": "This update fixes an issue that could\nresult in an unsolvable puzzle if you\nscan an amiibo whose nickname\ncontains certain letters with accents.",
+  "release_date_on_eshop": "2016-03-03",
+  "product_code": "CTR-U-KWPP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Lightwood Games",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

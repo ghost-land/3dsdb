@@ -1,21 +1,39 @@
 {
-    "tid": "0004000004330000",
-    "uid": "",
-    "name": "PKCount",
-    "formal_name": "PKCount",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-H-PKCT",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000004330000",
+  "uid": "",
+  "name": "PKCount",
+  "formal_name": "PKCount",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-H-PKCT",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.2",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Stack-Team",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

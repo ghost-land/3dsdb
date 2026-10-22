@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C000FB200",
-    "uid": "",
-    "name": "信長の野望",
-    "formal_name": "信長の野望",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BNBJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C000FB200",
+  "uid": "",
+  "name": "信長の野望",
+  "formal_name": "信長の野望",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BNBJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "TECMO KOEI GAMES",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

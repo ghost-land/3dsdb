@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00059C00",
-    "uid": "",
-    "name": "超速変形ジャイロゼッター - アルバロスの翼",
-    "formal_name": "超速変形ジャイロゼッター - アルバロスの翼",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-ABCJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00059C00",
+  "uid": "",
+  "name": "超速変形ジャイロゼッター - アルバロスの翼",
+  "formal_name": "超速変形ジャイロゼッター - アルバロスの翼",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-ABCJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

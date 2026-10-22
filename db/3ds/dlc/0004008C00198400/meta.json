@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00198400",
-    "uid": "",
-    "name": "ベイブレードバースト - ベイロガープラス＆パズル",
-    "formal_name": "ベイブレードバースト - ベイロガープラス＆パズル",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KB8J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00198400",
+  "uid": "",
+  "name": "ベイブレードバースト - ベイロガープラス＆パズル",
+  "formal_name": "ベイブレードバースト - ベイロガープラス＆パズル",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KB8J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "FURYU Corporation",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

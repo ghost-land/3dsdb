@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00182E00",
-    "uid": "",
-    "name": "パズドラクロス 追加コンテンツ",
-    "formal_name": "パズドラクロス 追加コンテンツ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BPVJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00182E00",
+  "uid": "",
+  "name": "パズドラクロス 追加コンテンツ",
+  "formal_name": "パズドラクロス 追加コンテンツ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BPVJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "GungHo Online Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

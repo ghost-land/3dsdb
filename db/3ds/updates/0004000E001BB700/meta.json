@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E001BB700",
-    "uid": "50010000042676",
-    "name": "Go! Go! Kokopolo 3D:\nUpdate Ver. 1.1",
-    "formal_name": "Go! Go! Kokopolo 3D:\n<br>Update Ver. 1.1",
-    "description": "This is an update for Go! Go! Kokopolo. This download does not contain the full version of the title. In order to use this update, you must have the full version of Go! Go! Kokopolo 3D.\n<br>Fix the recipe card save issue, the Boss C spawn issue and a few other small fixes.",
-    "release_date_on_eshop": "2017-05-03",
-    "product_code": "CTR-U-JKPP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001BB700",
+  "uid": "50010000042676",
+  "name": "Go! Go! Kokopolo 3D:\nUpdate Ver. 1.1",
+  "formal_name": "Go! Go! Kokopolo 3D:\n<br>Update Ver. 1.1",
+  "description": "This is an update for Go! Go! Kokopolo. This download does not contain the full version of the title. In order to use this update, you must have the full version of Go! Go! Kokopolo 3D.\n<br>Fix the recipe card save issue, the Boss C spawn issue and a few other small fixes.",
+  "release_date_on_eshop": "2017-05-03",
+  "product_code": "CTR-U-JKPP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "CIRCLE Ent.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

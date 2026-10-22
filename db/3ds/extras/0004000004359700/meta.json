@@ -1,21 +1,39 @@
 {
-    "tid": "0004000004359700",
-    "uid": "",
-    "name": "3DVier",
-    "formal_name": "3DVier",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-H-3DVR",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000004359700",
+  "uid": "",
+  "name": "3DVier",
+  "formal_name": "3DVier",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-H-3DVR",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SuperSaiyajinStackZ",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

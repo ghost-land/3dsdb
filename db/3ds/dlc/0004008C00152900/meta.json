@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00152900",
-    "uid": "",
-    "name": "暗殺教室 殺せんせー大包囲網!!",
-    "formal_name": "暗殺教室 殺せんせー大包囲網!!",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BKLJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00152900",
+  "uid": "",
+  "name": "暗殺教室 殺せんせー大包囲網!!",
+  "formal_name": "暗殺教室 殺せんせー大包囲網!!",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BKLJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.8.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "バンダイナムコエンターテインメント",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

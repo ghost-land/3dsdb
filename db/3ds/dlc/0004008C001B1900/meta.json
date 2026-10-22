@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C001B1900",
-    "uid": "",
-    "name": "シュシュトーク - アドオンコンテンツ",
-    "formal_name": "シュシュトーク - アドオンコンテンツ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KCTJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001B1900",
+  "uid": "",
+  "name": "シュシュトーク - アドオンコンテンツ",
+  "formal_name": "シュシュトーク - アドオンコンテンツ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KCTJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WaiS CO.,LTD.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
