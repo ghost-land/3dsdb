@@ -1,30 +1,47 @@
 {
-    "tid": "0004000000151F00",
-    "uid": "50010000026835",
-    "name": "Pokémon Art Academy(英文版)",
-    "formal_name": "Pokémon Art Academy(英文版)",
-    "description": "繪畫Pokémon取得點數！繪畫Pokémon的學校「Pokémon Art Academy」是學習繪畫Pokémon的軟體。\n邊繪畫喜愛的Pokémon，邊收集點數。",
-    "release_date_on_eshop": "2014-10-24",
-    "product_code": "CTR-N-BPCZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "訓練",
-        "學習",
-        "實用"
-    ],
-    "features": [
-        "對應網路",
-        "對應鄰近主機連線遊戲",
-        "對應悄悄通訊",
-        "Nintendo Network"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體的遊戲內容均與［北美］版相同，以［英文］顯示，並未經中文翻譯等處理。※若消費者因注意事項及遊戲內容等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "0004000000151F00",
+  "uid": "50010000026835",
+  "name": "Pokémon Art Academy(英文版)",
+  "formal_name": "Pokémon Art Academy(英文版)",
+  "description": "繪畫Pokémon取得點數！繪畫Pokémon的學校「Pokémon Art Academy」是學習繪畫Pokémon的軟體。\n邊繪畫喜愛的Pokémon，邊收集點數。",
+  "release_date_on_eshop": "2014-10-24",
+  "product_code": "CTR-N-BPCZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "訓練",
+    "學習",
+    "實用"
+  ],
+  "features": [
+    "對應網路",
+    "對應鄰近主機連線遊戲",
+    "對應悄悄通訊",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體的遊戲內容均與［北美］版相同，以［英文］顯示，並未經中文翻譯等處理。※若消費者因注意事項及遊戲內容等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000B0B00",
-    "uid": "",
-    "name": "Disney Epic Mickey - Power of Illusion",
-    "formal_name": "Disney Epic Mickey - Power of Illusion",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AECX",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B0B00",
+  "uid": "",
+  "name": "Disney Epic Mickey - Power of Illusion",
+  "formal_name": "Disney Epic Mickey - Power of Illusion",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AECX",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Disney Interactive Studios",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

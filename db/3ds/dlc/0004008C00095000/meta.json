@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00095000",
-    "uid": "",
-    "name": "ポケモン不思議のダンジョン - ～マグナゲートと∞迷宮～",
-    "formal_name": "ポケモン不思議のダンジョン - ～マグナゲートと∞迷宮～",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-APDJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00095000",
+  "uid": "",
+  "name": "ポケモン不思議のダンジョン - ～マグナゲートと∞迷宮～",
+  "formal_name": "ポケモン不思議のダンジョン - ～マグナゲートと∞迷宮～",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-APDJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

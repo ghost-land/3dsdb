@@ -1,21 +1,31 @@
 {
-    "tid": "0004000000120E00",
-    "uid": "",
-    "name": "頭文字D パーフェクトシフト - ONLINE テスト版",
-    "formal_name": "頭文字D パーフェクトシフト - ONLINE テスト版",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-NDCJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000120E00",
+  "uid": "",
+  "name": "頭文字D パーフェクトシフト - ONLINE テスト版",
+  "formal_name": "頭文字D パーフェクトシフト - ONLINE テスト版",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-NDCJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

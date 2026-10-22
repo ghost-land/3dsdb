@@ -1,21 +1,37 @@
 {
-    "tid": "000400000012CF00",
-    "uid": "",
-    "name": "Power Rangers - Super Megaforce",
-    "formal_name": "Power Rangers - Super Megaforce",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BSSE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012CF00",
+  "uid": "",
+  "name": "Power Rangers - Super Megaforce",
+  "formal_name": "Power Rangers - Super Megaforce",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BSSE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Games Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

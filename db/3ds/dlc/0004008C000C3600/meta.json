@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C000C3600",
-    "uid": "",
-    "name": "ペルソナＱ - シャドウ オブ ザ ラビリンス",
-    "formal_name": "ペルソナＱ - シャドウ オブ ザ ラビリンス",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-AQQJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C000C3600",
+  "uid": "",
+  "name": "ペルソナＱ - シャドウ オブ ザ ラビリンス",
+  "formal_name": "ペルソナＱ - シャドウ オブ ザ ラビリンス",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-AQQJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ATLUS",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

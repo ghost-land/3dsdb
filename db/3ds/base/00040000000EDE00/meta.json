@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000EDE00",
-    "uid": "",
-    "name": "Power Rangers - Megaforce",
-    "formal_name": "Power Rangers - Megaforce",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AZBP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EDE00",
+  "uid": "",
+  "name": "Power Rangers - Megaforce",
+  "formal_name": "Power Rangers - Megaforce",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AZBP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Europe",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

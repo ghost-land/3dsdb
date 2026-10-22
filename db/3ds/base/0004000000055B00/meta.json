@@ -31,5 +31,12 @@
   "descriptors": [
     "Blood",
     "Violence"
-  ]
+  ],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -30,5 +30,13 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Wee Man Studios",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "New3DS",
+      "SaveData"
+    ]
+  }
 }

@@ -25,5 +25,12 @@
   },
   "version": "v0.2.0",
   "disclaimer": "眼への効果には個人差があります。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "REMEDIA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

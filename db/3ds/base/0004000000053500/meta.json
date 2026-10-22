@@ -27,5 +27,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : 마리오와 소닉 런던 올림픽™\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-120321-004\n등급분류 일자 : 2012.03.21.\n제작・배급업신고번호 : 2006000019",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

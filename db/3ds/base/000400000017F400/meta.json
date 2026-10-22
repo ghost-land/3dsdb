@@ -23,5 +23,12 @@
   },
   "version": "v1.0.1",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Aksys Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

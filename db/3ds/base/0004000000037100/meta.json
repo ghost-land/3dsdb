@@ -30,5 +30,12 @@
   "descriptors": [
     "Mild Cartoon Violence",
     "Animated Blood"
-  ]
+  ],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

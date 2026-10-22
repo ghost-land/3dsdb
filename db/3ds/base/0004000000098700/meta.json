@@ -22,9 +22,16 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v1.0.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Cartoon Violence"
-  ]
+  ],
+  "publisher": "Activision",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

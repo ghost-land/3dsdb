@@ -1,21 +1,30 @@
 {
-    "tid": "00040000001CA200",
-    "uid": "",
-    "name": "爆釣バーハンター",
-    "formal_name": "爆釣バーハンター",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-BBSJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CA200",
+  "uid": "",
+  "name": "爆釣バーハンター",
+  "formal_name": "爆釣バーハンター",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-BBSJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "バンダイナムコエンターテインメント",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

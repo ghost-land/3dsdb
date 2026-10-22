@@ -24,5 +24,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "このゲームを遊ぶには、次の周辺機器が必要です。\n<br>■ポータル（フィギュアを載せる台座）\n<br>■フィギュア",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

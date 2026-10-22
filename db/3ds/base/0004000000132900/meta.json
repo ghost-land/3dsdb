@@ -1,25 +1,35 @@
 {
-    "tid": "0004000000132900",
-    "uid": "50010000027535",
-    "name": "逆轉裁判123 / Phoenix Wright:\nAce Attorney Trilogy(日英版)",
-    "formal_name": "逆轉裁判123 / Phoenix Wright:\nAce Attorney Trilogy(日英版)",
-    "description": "『逆轉裁判』系列的起源 -- 此作品收錄了以律師新人「成步堂 龍一」為主角的3部初期作品 !\n化身成步堂, 從捏造的指控中拯救你的客人, 揭發事件的真相展開法庭對戰遊戲。\n\n本作收錄『逆轉』系列的3部初期作品『逆轉復甦』『逆轉裁判2』『逆轉裁判3』!\n畫面HD化展現更高解像度, 同時支援3D立體感。\n\n遊戲可自由選擇英語或日語, 品味你喜歡的措辭與場景的細膩! 無論新舊玩家也能享受本作法庭對戰的樂趣!",
-    "release_date_on_eshop": "2014-12-09",
-    "product_code": "CTR-N-BHDZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "冒險"
-    ],
-    "features": [
-        "對應3D影像"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "15"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［日本／北美］版相同。遊戲內容及電子說明書均與該版本相同，以[日文／英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：info-asia@capcom.com",
-    "descriptors": []
+  "tid": "0004000000132900",
+  "uid": "50010000027535",
+  "name": "逆轉裁判123 / Phoenix Wright:\nAce Attorney Trilogy(日英版)",
+  "formal_name": "逆轉裁判123 / Phoenix Wright:\nAce Attorney Trilogy(日英版)",
+  "description": "『逆轉裁判』系列的起源 -- 此作品收錄了以律師新人「成步堂 龍一」為主角的3部初期作品 !\n化身成步堂, 從捏造的指控中拯救你的客人, 揭發事件的真相展開法庭對戰遊戲。\n\n本作收錄『逆轉』系列的3部初期作品『逆轉復甦』『逆轉裁判2』『逆轉裁判3』!\n畫面HD化展現更高解像度, 同時支援3D立體感。\n\n遊戲可自由選擇英語或日語, 品味你喜歡的措辭與場景的細膩! 無論新舊玩家也能享受本作法庭對戰的樂趣!",
+  "release_date_on_eshop": "2014-12-09",
+  "product_code": "CTR-N-BHDZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "冒險"
+  ],
+  "features": [
+    "對應3D影像"
+  ],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "15"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［日本／北美］版相同。遊戲內容及電子說明書均與該版本相同，以[日文／英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：info-asia@capcom.com",
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

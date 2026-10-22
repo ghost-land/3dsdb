@@ -1,21 +1,38 @@
 {
-    "tid": "000400000017B400",
-    "uid": "",
-    "name": "Dragon Ball Z: Extreme Butoden - Preview version",
-    "formal_name": "Dragon Ball Z: Extreme Butoden - Preview version",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JFHP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017B400",
+  "uid": "",
+  "name": "Dragon Ball Z: Extreme Butoden - Preview version",
+  "formal_name": "Dragon Ball Z: Extreme Butoden - Preview version",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JFHP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BNEE",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,30 @@
 {
-    "tid": "000400000018DC00",
-    "uid": "",
-    "name": "どこぽんちょいす - いちご100％ カラー版 Vol.2",
-    "formal_name": "どこぽんちょいす - いちご100％ カラー版 Vol.2",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KS5J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018DC00",
+  "uid": "",
+  "name": "どこぽんちょいす - いちご100％ カラー版 Vol.2",
+  "formal_name": "どこぽんちょいす - いちご100％ カラー版 Vol.2",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KS5J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Librica",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

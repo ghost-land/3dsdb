@@ -28,5 +28,12 @@
   "disclaimer": null,
   "descriptors": [
     "Sexual Innuendo"
-  ]
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

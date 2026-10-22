@@ -24,5 +24,11 @@
   },
   "version": "v0.1.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。\n",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

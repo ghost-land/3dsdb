@@ -30,10 +30,17 @@
     "ru"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -18,10 +18,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "E"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "2020年10月8日（木）10:00をもって本ソフトの配信は終了いたしました。\n<br>※配信終了後、本ソフトに収録されている映像は、Youtube等で無償公開されています。\n<br>\n<br>本ソフトは映像を視聴できるソフトです。\n<br>ゲームをお楽しみいただけるソフトではありません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

@@ -24,5 +24,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。\n<br>\n<br>※ダウンロード版には初回生産のパッケージ版に封入されている「蟲奉行所&蟲狩印入り虫よけシール」は付属しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Bandai Namco Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

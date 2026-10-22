@@ -29,7 +29,7 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": "In-game content available for purchase using stored account funds.",
   "descriptors": [
     "Fantasy Violence",
@@ -37,5 +37,12 @@
     "Mild Language",
     "Suggestive Themes",
     "Use of Tobacco"
-  ]
+  ],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

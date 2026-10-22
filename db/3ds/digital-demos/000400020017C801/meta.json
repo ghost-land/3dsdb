@@ -1,21 +1,38 @@
 {
-    "tid": "000400020017C801",
-    "uid": "",
-    "name": "The Legend of Legacy Demo",
-    "formal_name": "The Legend of Legacy Demo",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-BLLP",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400020017C801",
+  "uid": "",
+  "name": "The Legend of Legacy Demo",
+  "formal_name": "The Legend of Legacy Demo",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-BLLP",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ATLUS",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,35 @@
 {
-    "tid": "000400000004B100",
-    "uid": "",
-    "name": "DreamWorks Super Star Kartz",
-    "formal_name": "DreamWorks Super Star Kartz",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AKZP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004B100",
+  "uid": "",
+  "name": "DreamWorks Super Star Kartz",
+  "formal_name": "DreamWorks Super Star Kartz",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AKZP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Activision",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

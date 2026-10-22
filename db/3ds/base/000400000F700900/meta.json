@@ -22,5 +22,12 @@
   },
   "version": "v2.4.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nicalis",
+  "smdh": {
+    "flags": [
+      "SaveData",
+      "New3DS"
+    ]
+  }
 }

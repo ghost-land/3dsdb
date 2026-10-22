@@ -1,21 +1,34 @@
 {
-    "tid": "000400000FF00000",
-    "uid": "",
-    "name": "Neko Tomo (Japan) (Prototype)",
-    "formal_name": "Neko Tomo (Japan) (Prototype)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-CTAP",
-    "platform_name": "",
-    "region": "Devapps Misc",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000FF00000",
+  "uid": "",
+  "name": "Neko Tomo (Japan) (Prototype)",
+  "formal_name": "Neko Tomo (Japan) (Prototype)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-CTAP",
+  "platform_name": "",
+  "region": "Devapps Misc",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Publisher"
 }

@@ -28,5 +28,12 @@
   },
   "version": "v0.2.0",
   "disclaimer": "このゲームは基本、無料で遊べますが、ゲームの進行を助けるアイテム「ジュエル」をゲーム内で購入いただくことができます。\n<br>「ジュエル」はゲーム内で無料で入手できる場合もあります。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Genius Sonority Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

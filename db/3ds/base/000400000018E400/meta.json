@@ -1,25 +1,35 @@
 {
-    "tid": "000400000018E400",
-    "uid": "50010000039499",
-    "name": "Moco Moco Friends",
-    "formal_name": "Moco Moco Friends",
-    "description": "Moco Moco Friends는 어드벤쳐 RPG 장르에 흥미진진한 반전을 더한 게임입니다. 스킬을 익히고 귀여운 몬스터들을 모아서 궁극의 플러쉬킨 마스터가 되어 보세요! 라이벌을 상대로 전투를 벌이고, 아이템을 모으고, 거대한 던전을 누비고, 플러쉬킨 몬스터들을 진화시키고, 친구들과 함께 드림토피아의 마법 세계를 여행하세요!",
-    "release_date_on_eshop": "2016-02-25",
-    "product_code": "CTR-N-BM5Y",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Moco Moco Friends\n상호:Aksys Games \n이용등급:전체이용가\n등급분류번호: GC-CC-NV-151218-006\n등급분류 일자:2015.12.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "000400000018E400",
+  "uid": "50010000039499",
+  "name": "Moco Moco Friends",
+  "formal_name": "Moco Moco Friends",
+  "description": "Moco Moco Friends는 어드벤쳐 RPG 장르에 흥미진진한 반전을 더한 게임입니다. 스킬을 익히고 귀여운 몬스터들을 모아서 궁극의 플러쉬킨 마스터가 되어 보세요! 라이벌을 상대로 전투를 벌이고, 아이템을 모으고, 거대한 던전을 누비고, 플러쉬킨 몬스터들을 진화시키고, 친구들과 함께 드림토피아의 마법 세계를 여행하세요!",
+  "release_date_on_eshop": "2016-02-25",
+  "product_code": "CTR-N-BM5Y",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Moco Moco Friends\n상호:Aksys Games \n이용등급:전체이용가\n등급분류번호: GC-CC-NV-151218-006\n등급분류 일자:2015.12.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Aksys Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

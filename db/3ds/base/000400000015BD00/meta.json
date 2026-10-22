@@ -24,5 +24,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "제명 : Azure Striker GUNVOLT\n상호 : INTICREATES\n이용등급 : 12세이용가\n등급분류번호 : GC-CC-NV-141024-001\n등급분류 일자 : 2014.10.24.\n제작・배급업신고번호 : 게배 제2012-10호",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "INTI CREATES",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -30,5 +30,12 @@
   "descriptors": [
     "Crude Humor",
     "Mild Cartoon Violence"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

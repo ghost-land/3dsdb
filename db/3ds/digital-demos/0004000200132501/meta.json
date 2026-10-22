@@ -28,12 +28,19 @@
     "name": "ESRB",
     "age": "13"
   },
-  "version": "",
+  "version": "v1.2.0",
   "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/\ncompatibility/ for specific details on how each amiibo works. amiibo sold separately.",
   "descriptors": [
     "Blood",
     "Fantasy Violence",
     "Mild Suggestive Themes",
     "Online Interactions Not Rated by the ESRB"
-  ]
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

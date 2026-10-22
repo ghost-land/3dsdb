@@ -24,5 +24,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "本作は期間限定無料配信コンテンツです。配信終了日は公式WEBサイト等でご案内いたします。\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "LEVEL-5 Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

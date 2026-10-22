@@ -22,7 +22,13 @@
     "name": "CERO",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>ソフトの内容はパッケージ版と同じです。データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SEGA Games",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

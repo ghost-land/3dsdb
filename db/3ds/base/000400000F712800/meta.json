@@ -24,5 +24,13 @@
   },
   "version": "v7.9.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Sungrand",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData",
+      "New3DS"
+    ]
+  }
 }

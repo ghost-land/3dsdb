@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000D5B00",
-    "uid": "",
-    "name": "Nickelodeon Teenage Mutant Ninja Turtles",
-    "formal_name": "Nickelodeon Teenage Mutant Ninja Turtles",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ANYE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D5B00",
+  "uid": "",
+  "name": "Nickelodeon Teenage Mutant Ninja Turtles",
+  "formal_name": "Nickelodeon Teenage Mutant Ninja Turtles",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ANYE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Activision®",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

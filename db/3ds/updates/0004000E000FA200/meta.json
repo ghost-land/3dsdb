@@ -1,21 +1,31 @@
 {
-    "tid": "0004000E000FA200",
-    "uid": "",
-    "name": "頭文字D パーフェクトシフト - ONLINE Ver 1.05",
-    "formal_name": "頭文字D パーフェクトシフト - ONLINE Ver 1.05",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-U-JYDJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000FA200",
+  "uid": "",
+  "name": "頭文字D パーフェクトシフト - ONLINE Ver 1.05",
+  "formal_name": "頭文字D パーフェクトシフト - ONLINE Ver 1.05",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-U-JYDJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v5.5.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

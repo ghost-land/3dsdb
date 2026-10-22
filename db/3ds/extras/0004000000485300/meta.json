@@ -1,21 +1,40 @@
 {
-    "tid": "0004000000485300",
-    "uid": "",
-    "name": "SUPER MARIO BROS. Next: Halloween Special",
-    "formal_name": "SUPER MARIO BROS. Next: Halloween Special",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-SMBH",
-    "platform_name": "",
-    "region": "Rom Hacks",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000485300",
+  "uid": "",
+  "name": "SUPER MARIO BROS. Next: Halloween Special",
+  "formal_name": "SUPER MARIO BROS. Next: Halloween Special",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-SMBH",
+  "platform_name": "",
+  "region": "Rom Hacks",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Next Team",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

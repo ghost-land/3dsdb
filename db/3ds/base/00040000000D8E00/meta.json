@@ -25,5 +25,12 @@
   },
   "version": "v1.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NIPPON COLUMBIA CO., LTD.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

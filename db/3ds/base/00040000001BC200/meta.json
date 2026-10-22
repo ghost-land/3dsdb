@@ -1,25 +1,36 @@
 {
-    "tid": "00040000001BC200",
-    "uid": "50010000044375",
-    "name": "逆轉裁判®4 (日英版)",
-    "formal_name": "逆轉裁判®4 / Apollo Justice® \nAce Attorney® (日英版)",
-    "description": "王泥喜的原點就在此。\n\n『逆轉裁判４』是扮演幫助受到無辜指控委托人的律師、展開法院戰鬥中的推理冒險遊戲。\n請期待由新主角“王泥喜 法介”取代“成步堂 龍一”所發生的法庭戰鬥。\n角色、背景等；圖像全部會配合Nintendo 3DS精心製作。\n當然，遊戲會對應立體裸視。\n配合Nintendo 3DS的特徵，調整至能夠透過各式各樣的要點令遊戲更容易進行。\n再加上本作是完全收錄日本語版。能夠進行英語和日語兩個版本。",
-    "release_date_on_eshop": "2017-11-22",
-    "product_code": "CTR-N-AXRY",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "冒險"
-    ],
-    "features": [
-        "對應3D影像"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "15"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "注意事項：本軟體內容與［日本／北美］版相同。遊戲內容及電子說明書均與該版本相同，以[日文／英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：info-asia@capcom.com\n",
-    "descriptors": []
+  "tid": "00040000001BC200",
+  "uid": "50010000044375",
+  "name": "逆轉裁判®4 (日英版)",
+  "formal_name": "逆轉裁判®4 / Apollo Justice® \nAce Attorney® (日英版)",
+  "description": "王泥喜的原點就在此。\n\n『逆轉裁判４』是扮演幫助受到無辜指控委托人的律師、展開法院戰鬥中的推理冒險遊戲。\n請期待由新主角“王泥喜 法介”取代“成步堂 龍一”所發生的法庭戰鬥。\n角色、背景等；圖像全部會配合Nintendo 3DS精心製作。\n當然，遊戲會對應立體裸視。\n配合Nintendo 3DS的特徵，調整至能夠透過各式各樣的要點令遊戲更容易進行。\n再加上本作是完全收錄日本語版。能夠進行英語和日語兩個版本。",
+  "release_date_on_eshop": "2017-11-22",
+  "product_code": "CTR-N-AXRY",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "冒險"
+  ],
+  "features": [
+    "對應3D影像"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "15"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "注意事項：本軟體內容與［日本／北美］版相同。遊戲內容及電子說明書均與該版本相同，以[日文／英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：info-asia@capcom.com\n",
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

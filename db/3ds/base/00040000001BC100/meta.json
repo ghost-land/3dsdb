@@ -1,25 +1,36 @@
 {
-    "tid": "00040000001BC100",
-    "uid": "50010000044155",
-    "name": "역전재판®4 / Apollo Justice™\nAce Attorney®",
-    "formal_name": "역전재판®4 / Apollo Justice™\nAce Attorney®",
-    "description": "오도로키의 원점이 여기에.\n『역전재판 4』는 무고한 의뢰인을 돕는 변호사로서, 법정배틀을 벌이는 추리 어드벤처입니다.\n“나루호도 류이치”에서 변경되어 등장하는 새로운 주인공 “오도로키 호우스케”로 , 새로운 법정배틀을 즐기세요.\n\n캐릭터나 배경 등, 그래픽의 모든 것을 3DS에 맞추어 리파인!\n물론 입체시에도 대응하고 있습니다.\n닌텐도 3DS의 특징에 맞추어 여러가지 부분을 즐기기 쉽도록 조정 되었습니다.\n또한 본 작은 일어판을 완전 수록하여 영어와 일어의 두버전을 즐길 수 있습니다.",
-    "release_date_on_eshop": "2017-11-22",
-    "product_code": "CTR-N-AXRZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "어드벤처"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:역전재판®4/Apollo Justice™Ace Attorney®\n상호:Capcom Asia Co., Ltd.\n이용등급:12세이용가(폭력성)\n등급분류번호:GC-CC-NV-170630-009\n등급분류 일자:2017.6.30\n제작・배급업신고번호:제 2012-000049\n※ 대응 언어: 영어, 일본어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "00040000001BC100",
+  "uid": "50010000044155",
+  "name": "역전재판®4 / Apollo Justice™\nAce Attorney®",
+  "formal_name": "역전재판®4 / Apollo Justice™\nAce Attorney®",
+  "description": "오도로키의 원점이 여기에.\n『역전재판 4』는 무고한 의뢰인을 돕는 변호사로서, 법정배틀을 벌이는 추리 어드벤처입니다.\n“나루호도 류이치”에서 변경되어 등장하는 새로운 주인공 “오도로키 호우스케”로 , 새로운 법정배틀을 즐기세요.\n\n캐릭터나 배경 등, 그래픽의 모든 것을 3DS에 맞추어 리파인!\n물론 입체시에도 대응하고 있습니다.\n닌텐도 3DS의 특징에 맞추어 여러가지 부분을 즐기기 쉽도록 조정 되었습니다.\n또한 본 작은 일어판을 완전 수록하여 영어와 일어의 두버전을 즐길 수 있습니다.",
+  "release_date_on_eshop": "2017-11-22",
+  "product_code": "CTR-N-AXRZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "어드벤처"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:역전재판®4/Apollo Justice™Ace Attorney®\n상호:Capcom Asia Co., Ltd.\n이용등급:12세이용가(폭력성)\n등급분류번호:GC-CC-NV-170630-009\n등급분류 일자:2017.6.30\n제작・배급업신고번호:제 2012-000049\n※ 대응 언어: 영어, 일본어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -23,5 +23,11 @@
   },
   "version": "v1.1.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "unico inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

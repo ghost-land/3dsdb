@@ -25,9 +25,16 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v1.0.0",
   "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
   "descriptors": [
     "Comic Mischief"
-  ]
+  ],
+  "publisher": "THQ",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

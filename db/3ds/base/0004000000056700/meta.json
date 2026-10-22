@@ -25,5 +25,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは、体験版配信ができます。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
