@@ -1,24 +1,41 @@
 {
-    "tid": "0004000E00084D00",
-    "uid": "50010000022935",
-    "name": "AeternoBlade\nUpdate",
-    "formal_name": "AeternoBlade\nUpdate",
-    "description": "AeternoBlade v1.1 Update<br/>\nThis update will fix the following\nimportant issues:<br/>\n1. Fix a struck bug where you can\nenter Eternal Void twice via Great\nPyramid stage and will got lock-up in\nthat stage.<br/>\n2. Fix an issue with \"Freeze Gear\"\nitem, which you will lose it forever if\nyou miss the puzzle once. Results in\nnever be able to complete a 100%\nsave game.<br/>\n3. Fix application freezes and crashes\nwhile loading.<br/>\n4. Fix attack timing in\nJump-Down-Attack move.<br/>\n5. Fix \"Return to last checkpoint\"\ncommand when fighting with Chrono\nLord.",
-    "release_date_on_eshop": "2014-05-27",
-    "product_code": "CTR-U-ACUP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other",
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00084D00",
+  "uid": "50010000022935",
+  "name": "AeternoBlade\nUpdate",
+  "formal_name": "AeternoBlade\nUpdate",
+  "description": "AeternoBlade v1.1 Update<br/>\nThis update will fix the following\nimportant issues:<br/>\n1. Fix a struck bug where you can\nenter Eternal Void twice via Great\nPyramid stage and will got lock-up in\nthat stage.<br/>\n2. Fix an issue with \"Freeze Gear\"\nitem, which you will lose it forever if\nyou miss the puzzle once. Results in\nnever be able to complete a 100%\nsave game.<br/>\n3. Fix application freezes and crashes\nwhile loading.<br/>\n4. Fix attack timing in\nJump-Down-Attack move.<br/>\n5. Fix \"Return to last checkpoint\"\ncommand when fighting with Chrono\nLord.",
+  "release_date_on_eshop": "2014-05-27",
+  "product_code": "CTR-U-ACUP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other",
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.3.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Corecell Technology",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

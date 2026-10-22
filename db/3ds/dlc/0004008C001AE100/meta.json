@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C001AE100",
-    "uid": "",
-    "name": "進撃の巨人 - 死地からの脱出",
-    "formal_name": "進撃の巨人 - 死地からの脱出",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-AEVJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001AE100",
+  "uid": "",
+  "name": "進撃の巨人 - 死地からの脱出",
+  "formal_name": "進撃の巨人 - 死地からの脱出",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-AEVJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "KOEI TECMO GAMES",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
