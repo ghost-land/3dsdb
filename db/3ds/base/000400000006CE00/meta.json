@@ -2,15 +2,27 @@
     "tid": "000400000006CE00",
     "uid": "50010000013011",
     "name": "Jewel Quest 4 Heritage",
-    "formal_name": null,
-    "description": null,
+    "formal_name": "Jewel Quest 4 Heritage",
+    "description": "Hit the trail with Rupert on a journey\nthrough the shrines and castles of\nHernan Cortes' lore. Swap jewels and\ncollect puzzle pieces to unravel a\nperplexing web of family history. With\nover 170 new Jewel Boards, including\n3 jewel-swapping modes, new\nsurprises await in every level.",
     "release_date_on_eshop": "2013-08-15",
     "product_code": "CTR-P-AJ4P",
     "platform_name": "Nintendo 3DS (Card/Download)",
     "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
+    "genres": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch"
+    ],
     "rating_system": {
         "name": "PEGI",
         "age": "3"

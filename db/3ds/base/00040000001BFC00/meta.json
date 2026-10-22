@@ -17,7 +17,9 @@
         "amiibo",
         "New 3DS대응"
     ],
-    "languages": [],
+    "languages": [
+        "日本語"
+    ],
     "rating_system": {
         "name": "GRB",
         "age": "12"

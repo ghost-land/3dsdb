@@ -2,15 +2,25 @@
     "tid": "000480044B524D56",
     "uid": "50010000006146",
     "name": "RAYMAN®",
-    "formal_name": null,
-    "description": null,
+    "formal_name": "RAYMAN®",
+    "description": "The Legendary first RAYMAN\nadventure is now on DSi Ware.<br>\n<br>\nPlay as RAYMAN and try to save his\namazing world from the evil Mr Dark!<br>\n<br>\nDiscover a charming universe with\ncolourful landscapes and meet funny\ncharacters who will help RAYMAN\nthrough his quest! Experiment with his\nabilities as you punch, hang or fly\nthrough the air.<br>\n<br>\nTake advantage of the new DSi\nfeatures of the DSi photos and touch\nmap selection!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
     "release_date_on_eshop": "2013-04-10",
     "product_code": "TWL-N-KRMV",
     "platform_name": "Nintendo DSiWare",
     "region": "Europe",
-    "genres": [],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
     "features": [],
-    "languages": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Dutch"
+    ],
     "rating_system": {
         "name": "PEGI",
         "age": "7"

@@ -2,15 +2,19 @@
     "tid": "000400000004FC00",
     "uid": "50010000007146",
     "name": "PAC-MAN™",
-    "formal_name": null,
-    "description": null,
+    "formal_name": "PAC-MAN™",
+    "description": "Someone's got the munchies again!<br>\n<br>\nGobble, gobble, gulp! Who's\nmunching Power Pellets? Who's\nzipping around the maze at top speed,\nchomping up ghosts and scoring big\npoints? It's Pac-Man, the world's\nhungriest character! Devour a fruit\ntreat and get a big bonus score. But if\nyou're caught by the little haunters,\nyou're ghostflakes! Use the warp\ntunnel for a quick escape.<br>\n<br>\nHours of ghost-chomping action!<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
     "release_date_on_eshop": "2013-04-10",
     "product_code": "CTR-N-RAZP",
     "platform_name": "Game Boy",
     "region": "Europe",
-    "genres": [],
+    "genres": [
+        "Arcade"
+    ],
     "features": [],
-    "languages": [],
+    "languages": [
+        "English"
+    ],
     "rating_system": {
         "name": "PEGI",
         "age": "3"
