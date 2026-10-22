@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B444245",
-    "uid": "50010000006914",
-    "name": "Delbo",
-    "formal_name": "Delbo",
-    "description": "Delbo is a shooting-puzzle game: the aim for the player is to shoot the orb from the bottom of the screen to hit the orbs falling from the top of the screen. When the color of orbs falling from the top of the screen are the same as the orb being thrown, they will\nconnect and extinguish each other. It's\neasy to play, but it's so hard to master.",
-    "release_date_on_eshop": "2011-06-23",
-    "product_code": "TWL-N-KDBE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B444245",
+  "uid": "50010000006914",
+  "name": "Delbo",
+  "formal_name": "Delbo",
+  "description": "Delbo is a shooting-puzzle game: the aim for the player is to shoot the orb from the bottom of the screen to hit the orbs falling from the top of the screen. When the color of orbs falling from the top of the screen are the same as the orb being thrown, they will\nconnect and extinguish each other. It's\neasy to play, but it's so hard to master.",
+  "release_date_on_eshop": "2011-06-23",
+  "product_code": "TWL-N-KDBE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

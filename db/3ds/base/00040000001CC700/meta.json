@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001CC700",
-    "uid": "50010000043577",
-    "name": "Bonds of the Skies",
-    "formal_name": "Bonds of the Skies",
-    "description": "Times are changing, and the existence of the Grimoas has become less relevant in everyday life. The young Eil is in the middle of his Coming-of-Age ceremony when suddenly his town is attacked by a demon and engulfed in flames. In the midst of this confusion, Eil enters into a pact with the Air Grimoa, Nogard, in order to save everyone. \n<br>\nEil and Nogard set off to look for the demon who cast the town into a sea of flames, and to find other Grimoas in order to put a stop to its violence!\n<br>\n<br>The game features classic turn-based battles, with a Synchro Gauge system which lets you unleash powerful skills when synchronized with the Grimoas. A wide range of achievements, including quests to complete and items to collect, await you during this epic adventure!",
-    "release_date_on_eshop": "2017-11-09",
-    "product_code": "CTR-N-J4CE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001CC700",
+  "uid": "50010000043577",
+  "name": "Bonds of the Skies",
+  "formal_name": "Bonds of the Skies",
+  "description": "Times are changing, and the existence of the Grimoas has become less relevant in everyday life. The young Eil is in the middle of his Coming-of-Age ceremony when suddenly his town is attacked by a demon and engulfed in flames. In the midst of this confusion, Eil enters into a pact with the Air Grimoa, Nogard, in order to save everyone. \n<br>\nEil and Nogard set off to look for the demon who cast the town into a sea of flames, and to find other Grimoas in order to put a stop to its violence!\n<br>\n<br>The game features classic turn-based battles, with a Synchro Gauge system which lets you unleash powerful skills when synchronized with the Grimoas. A wide range of achievements, including quests to complete and items to collect, await you during this epic adventure!",
+  "release_date_on_eshop": "2017-11-09",
+  "product_code": "CTR-N-J4CE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

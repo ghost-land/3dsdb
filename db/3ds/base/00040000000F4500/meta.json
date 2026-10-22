@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000F4500",
-    "uid": "50010000019953",
-    "name": "SENRAN KAGURA\nBurst",
-    "formal_name": "SENRAN KAGURA\nBurst",
-    "description": "Enter a world filled with beautiful\nninja destined to break down the\nbarriers between good and evil!\n<br/><br/>\nPlay two different storylines, each\nwith its own perspective. The girls of\nHanzo believe they fight on the side of\nrighteousness, but are their methods\nalways right? The girls of Hebijo are\nmercenaries to the highest bidders,\nbut what if their motives aren't as\nclear as they seem?\n<br/><br/>\nCrush your enemies with your favorite\nbuxom ninja girl using fast punches,\nmid-air flight sequences, combos,\nsuper attacks, revealing cut-scenes\nand sexy Ninja Arts!",
-    "release_date_on_eshop": "2014-02-27",
-    "product_code": "CTR-P-AVHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F4500",
+  "uid": "50010000019953",
+  "name": "SENRAN KAGURA\nBurst",
+  "formal_name": "SENRAN KAGURA\nBurst",
+  "description": "Enter a world filled with beautiful\nninja destined to break down the\nbarriers between good and evil!\n<br/><br/>\nPlay two different storylines, each\nwith its own perspective. The girls of\nHanzo believe they fight on the side of\nrighteousness, but are their methods\nalways right? The girls of Hebijo are\nmercenaries to the highest bidders,\nbut what if their motives aren't as\nclear as they seem?\n<br/><br/>\nCrush your enemies with your favorite\nbuxom ninja girl using fast punches,\nmid-air flight sequences, combos,\nsuper attacks, revealing cut-scenes\nand sexy Ninja Arts!",
+  "release_date_on_eshop": "2014-02-27",
+  "product_code": "CTR-P-AVHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

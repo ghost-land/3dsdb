@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001CCB00",
-    "uid": "50010000043595",
-    "name": "Phil's Epic Fill-a-Pix Adventure",
-    "formal_name": "Phil's Epic Fill-a-Pix Adventure",
-    "description": "Create beautiful pixel art as you reveal 100 amazing photographs from Phil's epic trip around the world!\n<br>\n<br>Fill-a-Pix is a new picture logic puzzle from the makers of Pic-a-Pix Colour, but with huge, scrollable puzzles up to 100 squares wide, you'll reveal pictures much larger and more detailed than ever before!\n<br>\n<br>The unique Smart Cursor makes playing fluid and satisfying.  Options to show where to go next and check your progress so far mean you'll never get stuck.\n<br>\n<br>Often described as a mix of minesweeper and picross, each clue number shows how many squares in a block of nine - the clue itself, plus the eight squares around it - should be filled in black.\n<br>\n<br>You only need to learn this one rule to start playing Fill-a-Pix but to make sure you understand all the techniques, a full interactive tutorial is included!\n<br>\n<br>Puzzles are designed by Conceptis Ltd.",
-    "release_date_on_eshop": "2017-11-02",
-    "product_code": "CTR-N-LPFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CCB00",
+  "uid": "50010000043595",
+  "name": "Phil's Epic Fill-a-Pix Adventure",
+  "formal_name": "Phil's Epic Fill-a-Pix Adventure",
+  "description": "Create beautiful pixel art as you reveal 100 amazing photographs from Phil's epic trip around the world!\n<br>\n<br>Fill-a-Pix is a new picture logic puzzle from the makers of Pic-a-Pix Colour, but with huge, scrollable puzzles up to 100 squares wide, you'll reveal pictures much larger and more detailed than ever before!\n<br>\n<br>The unique Smart Cursor makes playing fluid and satisfying.  Options to show where to go next and check your progress so far mean you'll never get stuck.\n<br>\n<br>Often described as a mix of minesweeper and picross, each clue number shows how many squares in a block of nine - the clue itself, plus the eight squares around it - should be filled in black.\n<br>\n<br>You only need to learn this one rule to start playing Fill-a-Pix but to make sure you understand all the techniques, a full interactive tutorial is included!\n<br>\n<br>Puzzles are designed by Conceptis Ltd.",
+  "release_date_on_eshop": "2017-11-02",
+  "product_code": "CTR-N-LPFP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

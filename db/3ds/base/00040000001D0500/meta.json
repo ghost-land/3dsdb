@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001D0500",
-    "uid": "50010000046235",
-    "name": "Smash Bowling 3D",
-    "formal_name": "Smash Bowling 3D",
-    "description": "Get ready to smash the boundaries of any previous handheld bowling experience with Smash Bowling 3D on the Nintendo 3DS from Big John Games. \n<br>\n<br>Smash Bowling 3D provides an incredibly accurate interface to apply aim, ball spin, power, and positioning. Two control styles are available: Buttons mode to quickly dial in your shot parameters, and Touch mode which uses the stylus to completely customize your bowling release.\n<br>\n<br>Up to four players can participate in multiplayer mode, while practice mode allows would-be bowlers to set their own pin layouts - anything from a single pin needed for a spare to the infamous 7-10 split. Save and edit player profiles and enjoy varied-angle replays of your best shots. \n<br>\n<br>Earn all 18 trophies as you strive for bowling perfection. Unlock great bowling ball designs as well as lane environments. Your career statistics are tracked, including best game, recent average, total points, and number of strikes among others.",
-    "release_date_on_eshop": "2018-07-26",
-    "product_code": "CTR-N-JB5P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D0500",
+  "uid": "50010000046235",
+  "name": "Smash Bowling 3D",
+  "formal_name": "Smash Bowling 3D",
+  "description": "Get ready to smash the boundaries of any previous handheld bowling experience with Smash Bowling 3D on the Nintendo 3DS from Big John Games. \n<br>\n<br>Smash Bowling 3D provides an incredibly accurate interface to apply aim, ball spin, power, and positioning. Two control styles are available: Buttons mode to quickly dial in your shot parameters, and Touch mode which uses the stylus to completely customize your bowling release.\n<br>\n<br>Up to four players can participate in multiplayer mode, while practice mode allows would-be bowlers to set their own pin layouts - anything from a single pin needed for a spare to the infamous 7-10 split. Save and edit player profiles and enjoy varied-angle replays of your best shots. \n<br>\n<br>Earn all 18 trophies as you strive for bowling perfection. Unlock great bowling ball designs as well as lane environments. Your career statistics are tracked, including best game, recent average, total points, and number of strikes among others.",
+  "release_date_on_eshop": "2018-07-26",
+  "product_code": "CTR-N-JB5P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B414645",
-    "uid": "50010000001241",
-    "name": "Airport Mania®: Non-Stop\nFlights",
-    "formal_name": "Airport Mania®: Non-Stop\nFlights",
-    "description": "Hundreds of airplanes are on their way to your airport! In Airport Mania: Non-Stop Flights, you'll face the challenge of coordinating an endless number of incoming flights for as long as you can. You'll need to care for each plane by bringing them safely to the airport. Send them to a gate to drop off and pick up passengers and schedule them for a runway to ensure that they make an on-time departure. Doing all this will maximize both customer satisfaction and your score! Upgrade your airport at anytime to make sure you are ready for every color and type of plane. It's frantic time-management action with an airport twist that you won't want to miss!",
-    "release_date_on_eshop": "2011-01-24",
-    "product_code": "TWL-N-KAFE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414645",
+  "uid": "50010000001241",
+  "name": "Airport Mania®: Non-Stop\nFlights",
+  "formal_name": "Airport Mania®: Non-Stop\nFlights",
+  "description": "Hundreds of airplanes are on their way to your airport! In Airport Mania: Non-Stop Flights, you'll face the challenge of coordinating an endless number of incoming flights for as long as you can. You'll need to care for each plane by bringing them safely to the airport. Send them to a gate to drop off and pick up passengers and schedule them for a runway to ensure that they make an on-time departure. Doing all this will maximize both customer satisfaction and your score! Upgrade your airport at anytime to make sure you are ready for every color and type of plane. It's frantic time-management action with an airport twist that you won't want to miss!",
+  "release_date_on_eshop": "2011-01-24",
+  "product_code": "TWL-N-KAFE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

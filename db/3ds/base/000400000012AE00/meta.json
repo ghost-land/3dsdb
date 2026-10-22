@@ -1,32 +1,32 @@
 {
-    "tid": "000400000012AE00",
-    "uid": "50010000031996",
-    "name": "Excave",
-    "formal_name": "Excave",
-    "description": "Imperial City is at war! The King\n<br>needs you to explore the perilous and\n<br>ancient Labyrinth beneath the city –\n<br>find out why this mysterious magical\n<br>laboratory now spews out an army of\n<br>powerful monsters bent on\n<br>destruction, and descend to its lowest\n<br>depths to rescue the missing Magician.\n<br>\n<br>Triumph in a test of your weapons &\n<br>magic, or perish trapped deep within\n<br>the twisting halls of the Labyrinth.\n<br>Explore, fight and win fame & fortune,\n<br>then return to the city above to heal,\n<br>identify fabulous treasures and repair\n<br>& upgrade your equipment. Are you\n<br>brave enough to explore the\n<br>treacherous depths?\n<br>\n<br>- Classic dungeon exploration RPG\n<br>from Japan\n<br>\n<br>- Choose and fully customize your\n<br>character with hundreds of treasures\n<br>and equipment items to collect,\n<br>modify, upgrade, repair and sell\n<br>\n<br>- Test your courage & skills against\n<br>hundreds of unique enemies\n<br>\n<br>- 50 terrifying dungeon levels to\n<br>explore, with 5 massive boss fights\n<br>\n<br>- Progress through an epic storyline\n<br>to develop your character's abilities in\n<br>true RPG fashion",
-    "release_date_on_eshop": "2015-03-26",
-    "product_code": "CTR-N-JEFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Action",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012AE00",
+  "uid": "50010000031996",
+  "name": "Excave",
+  "formal_name": "Excave",
+  "description": "Imperial City is at war! The King\n<br>needs you to explore the perilous and\n<br>ancient Labyrinth beneath the city –\n<br>find out why this mysterious magical\n<br>laboratory now spews out an army of\n<br>powerful monsters bent on\n<br>destruction, and descend to its lowest\n<br>depths to rescue the missing Magician.\n<br>\n<br>Triumph in a test of your weapons &\n<br>magic, or perish trapped deep within\n<br>the twisting halls of the Labyrinth.\n<br>Explore, fight and win fame & fortune,\n<br>then return to the city above to heal,\n<br>identify fabulous treasures and repair\n<br>& upgrade your equipment. Are you\n<br>brave enough to explore the\n<br>treacherous depths?\n<br>\n<br>- Classic dungeon exploration RPG\n<br>from Japan\n<br>\n<br>- Choose and fully customize your\n<br>character with hundreds of treasures\n<br>and equipment items to collect,\n<br>modify, upgrade, repair and sell\n<br>\n<br>- Test your courage & skills against\n<br>hundreds of unique enemies\n<br>\n<br>- 50 terrifying dungeon levels to\n<br>explore, with 5 massive boss fights\n<br>\n<br>- Progress through an epic storyline\n<br>to develop your character's abilities in\n<br>true RPG fashion",
+  "release_date_on_eshop": "2015-03-26",
+  "product_code": "CTR-N-JEFP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Action",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

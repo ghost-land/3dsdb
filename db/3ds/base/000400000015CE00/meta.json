@@ -1,29 +1,29 @@
 {
-    "tid": "000400000015CE00",
-    "uid": "50010000030095",
-    "name": "Gunman Clive 2",
-    "formal_name": "Gunman Clive 2",
-    "description": "Gunman Clive returns in an all new\n<br>adventure. Now in Colour!\n<br>\n<br>After rescuing Ms Johnson, Gunman\n<br>Clive returns to again find the town\n<br>under attack by bandits. To stop them\n<br>once and for all he must chase after\n<br>their leader; an adventure that takes\n<br>him all the way around the world,\n<br>facing bigger and deadlier enemies\n<br>than ever before.\n<br>\n<br>Gunman Clive 2 retains the same\n<br>classic gameplay formula, but dials\n<br>the action up a notch further, with\n<br>improved and more colourful graphics,\n<br>more dynamic levels and richer, more\n<br>diverse environments, bigger bosses\n<br>and tons of new enemies.",
-    "release_date_on_eshop": "2015-01-29",
-    "product_code": "CTR-N-JWGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015CE00",
+  "uid": "50010000030095",
+  "name": "Gunman Clive 2",
+  "formal_name": "Gunman Clive 2",
+  "description": "Gunman Clive returns in an all new\n<br>adventure. Now in Colour!\n<br>\n<br>After rescuing Ms Johnson, Gunman\n<br>Clive returns to again find the town\n<br>under attack by bandits. To stop them\n<br>once and for all he must chase after\n<br>their leader; an adventure that takes\n<br>him all the way around the world,\n<br>facing bigger and deadlier enemies\n<br>than ever before.\n<br>\n<br>Gunman Clive 2 retains the same\n<br>classic gameplay formula, but dials\n<br>the action up a notch further, with\n<br>improved and more colourful graphics,\n<br>more dynamic levels and richer, more\n<br>diverse environments, bigger bosses\n<br>and tons of new enemies.",
+  "release_date_on_eshop": "2015-01-29",
+  "product_code": "CTR-N-JWGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

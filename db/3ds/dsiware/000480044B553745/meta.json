@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B553745",
-    "uid": "50010000023535",
-    "name": "Fashion Tycoon",
-    "formal_name": "Fashion Tycoon",
-    "description": "Lilly was a young dreamy girl working in a fashion boutique. She always dreamed of becoming a successful fashion designer in the fashion capital of the world: Paris.\n<br><br>\nOne night something strange happened. A beautiful fairy in a fancy dress appeared. She promised to help Lilly to make her dream come true. All Lilly had to do was traveling to Paris within 45 days and collect people’s inspirations.\n<br><br>\nYou can help Lilly to get the inspiration a fashion designer needs. Play this game in 45 levels of pure fashion!",
-    "release_date_on_eshop": "2014-06-19",
-    "product_code": "TWL-N-KU7E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Adventure",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B553745",
+  "uid": "50010000023535",
+  "name": "Fashion Tycoon",
+  "formal_name": "Fashion Tycoon",
+  "description": "Lilly was a young dreamy girl working in a fashion boutique. She always dreamed of becoming a successful fashion designer in the fashion capital of the world: Paris.\n<br><br>\nOne night something strange happened. A beautiful fairy in a fancy dress appeared. She promised to help Lilly to make her dream come true. All Lilly had to do was traveling to Paris within 45 days and collect people’s inspirations.\n<br><br>\nYou can help Lilly to get the inspiration a fashion designer needs. Play this game in 45 levels of pure fashion!",
+  "release_date_on_eshop": "2014-06-19",
+  "product_code": "TWL-N-KU7E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Adventure",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

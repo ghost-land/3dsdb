@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000BD000",
-    "uid": "50010000019333",
-    "name": "Mario Bros™",
-    "formal_name": "Mario Bros™",
-    "description": "Mario™ and Luigi™ are doing some underground plumbing when all sorts of strange creatures come flying out of the pipes. Help the two brothers clear stages by collecting coins and avoiding getting hit by enemies. Crabs, turtles, and fighter flies must be cleared out by jumping underneath the platform they step on and then kicking them away. But beware! Just when you think you got rid of them, they come back for more! Play alone or with a friend. Either way, this is one underground classic you will want to play time and time again.",
-    "release_date_on_eshop": "2014-01-30",
-    "product_code": "CTR-N-TB7E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BD000",
+  "uid": "50010000019333",
+  "name": "Mario Bros™",
+  "formal_name": "Mario Bros™",
+  "description": "Mario™ and Luigi™ are doing some underground plumbing when all sorts of strange creatures come flying out of the pipes. Help the two brothers clear stages by collecting coins and avoiding getting hit by enemies. Crabs, turtles, and fighter flies must be cleared out by jumping underneath the platform they step on and then kicking them away. But beware! Just when you think you got rid of them, they come back for more! Play alone or with a friend. Either way, this is one underground classic you will want to play time and time again.",
+  "release_date_on_eshop": "2014-01-30",
+  "product_code": "CTR-N-TB7E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

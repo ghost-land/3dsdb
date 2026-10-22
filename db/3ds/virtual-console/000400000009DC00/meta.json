@@ -1,26 +1,26 @@
 {
-    "tid": "000400000009DC00",
-    "uid": "50010000012973",
-    "name": "Castlevania™",
-    "formal_name": "Castlevania™",
-    "description": "Castlevania marked the beginning of\nKonami’s acclaimed series which is\nstill going strong today.\n<br/><br/>\nAs vampire hunter Simon Belmont,\nyou must fight your way through\nDracula's castle teeming with ghosts,\ngoblins, demons and yet more\nsupernatural creatures; through six\nchallenging levels to finally confront\nthe count.\n<br/><br/>\nYou'll need your wits and weapons to\nsurvive; because when you finally\nmeet Dracula, you know he’ll be\ngoing for the jugular. So keep your\ncourage up and your stake sharp!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TA8P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009DC00",
+  "uid": "50010000012973",
+  "name": "Castlevania™",
+  "formal_name": "Castlevania™",
+  "description": "Castlevania marked the beginning of\nKonami’s acclaimed series which is\nstill going strong today.\n<br/><br/>\nAs vampire hunter Simon Belmont,\nyou must fight your way through\nDracula's castle teeming with ghosts,\ngoblins, demons and yet more\nsupernatural creatures; through six\nchallenging levels to finally confront\nthe count.\n<br/><br/>\nYou'll need your wits and weapons to\nsurvive; because when you finally\nmeet Dracula, you know he’ll be\ngoing for the jugular. So keep your\ncourage up and your stake sharp!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TA8P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

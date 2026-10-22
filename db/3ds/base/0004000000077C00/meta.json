@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000077C00",
-    "uid": "50010000026735",
-    "name": "Petz® Beach",
-    "formal_name": "Petz® Beach",
-    "description": "In Petz® Beach, players and their Petz can complete quests, meet new villagers, explore, and expand their community. Petz Beach is a beautiful ocean vista with white sands, towering palm trees, and exotic ocean-themed Petz, including dolphins, polar bears, and penguins. Along the way, you’ll interact with 28 breeds of dogs, 6 breeds of cats, and over 200 in-game collectibles!\n<br><br>\nExchange sandy beaches for lush acres of green fields and exclusive Petz, such as a panda, a lion, and a bear in Petz® Countryside – also available.",
-    "release_date_on_eshop": "2014-10-14",
-    "product_code": "CTR-N-APIE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000077C00",
+  "uid": "50010000026735",
+  "name": "Petz® Beach",
+  "formal_name": "Petz® Beach",
+  "description": "In Petz® Beach, players and their Petz can complete quests, meet new villagers, explore, and expand their community. Petz Beach is a beautiful ocean vista with white sands, towering palm trees, and exotic ocean-themed Petz, including dolphins, polar bears, and penguins. Along the way, you’ll interact with 28 breeds of dogs, 6 breeds of cats, and over 200 in-game collectibles!\n<br><br>\nExchange sandy beaches for lush acres of green fields and exclusive Petz, such as a panda, a lion, and a bear in Petz® Countryside – also available.",
+  "release_date_on_eshop": "2014-10-14",
+  "product_code": "CTR-N-APIE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

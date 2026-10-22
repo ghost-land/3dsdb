@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000111C00",
-    "uid": "50010000020434",
-    "name": "Yoshi's New Island™",
-    "formal_name": "Yoshi's New Island™",
-    "description": "Yoshi’s New Island is the first\n<br>instalment in this series since Yoshi’s\n<br>Island DS was released in 2006.\n<br><br/><br/>\n<br>Yoshi’s good old Flutter Jump,\n<br>Ground Pound and egg-throwing\n<br>return, along with new abilities and\n<br>challenges that take advantage of the\n<br>features of the Nintendo 3DS. You\n<br>can use massive eggs called\n<br>Mega-Eggs to destroy blocks and\n<br>pipes, revealing secrets such as coins\n<br>and hidden keys. The more things you\n<br>destroy, the higher the Mega-Egg\n<br>gauge goes, netting you extra lives in\n<br>the process!\n<br><br/><br/>\n<br>The beautiful art is based on many\n<br>classic styles, such as oil painting,\n<br>watercolours and crayon drawings.",
-    "release_date_on_eshop": "2014-03-14",
-    "product_code": "CTR-P-ATAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000111C00",
+  "uid": "50010000020434",
+  "name": "Yoshi's New Island™",
+  "formal_name": "Yoshi's New Island™",
+  "description": "Yoshi’s New Island is the first\n<br>instalment in this series since Yoshi’s\n<br>Island DS was released in 2006.\n<br><br/><br/>\n<br>Yoshi’s good old Flutter Jump,\n<br>Ground Pound and egg-throwing\n<br>return, along with new abilities and\n<br>challenges that take advantage of the\n<br>features of the Nintendo 3DS. You\n<br>can use massive eggs called\n<br>Mega-Eggs to destroy blocks and\n<br>pipes, revealing secrets such as coins\n<br>and hidden keys. The more things you\n<br>destroy, the higher the Mega-Egg\n<br>gauge goes, netting you extra lives in\n<br>the process!\n<br><br/><br/>\n<br>The beautiful art is based on many\n<br>classic styles, such as oil painting,\n<br>watercolours and crayon drawings.",
+  "release_date_on_eshop": "2014-03-14",
+  "product_code": "CTR-P-ATAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

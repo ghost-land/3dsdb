@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B584A45",
-    "uid": "50010000021434",
-    "name": "I am in the movie",
-    "formal_name": "I am in the movie",
-    "description": "By using real time visual effects it literally puts you inside famous Hollywood movies. Now you can be the actor or director and recreate famous scenes or create your own ones.\n<br><br>\nYou might have seen video tutorials on YouTube that show you how to recreate visual effects from movies. But to create similar videos, you must own expensive editing software and invest considerable amount of time to learn how to use the software. With this DSiWare however, you can create Hollywood-like special effect videos in seconds.\n<br><br>\nFeatures:<br>\nUse special effects like thermal vision, cloaking, morphing, explosion and more<br>\nRecord your own sound effects and use them in your videos<br>\nCustomize any effect to your liking<br>\n(change speed, edit text, add sound and more)<br>\nSnap photos and save them to the platform: Photo Album or to the SD card (as .bmp)",
-    "release_date_on_eshop": "2014-03-27",
-    "product_code": "TWL-N-KXJE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Utility",
-        "Video",
-        "Photography"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.4.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B584A45",
+  "uid": "50010000021434",
+  "name": "I am in the movie",
+  "formal_name": "I am in the movie",
+  "description": "By using real time visual effects it literally puts you inside famous Hollywood movies. Now you can be the actor or director and recreate famous scenes or create your own ones.\n<br><br>\nYou might have seen video tutorials on YouTube that show you how to recreate visual effects from movies. But to create similar videos, you must own expensive editing software and invest considerable amount of time to learn how to use the software. With this DSiWare however, you can create Hollywood-like special effect videos in seconds.\n<br><br>\nFeatures:<br>\nUse special effects like thermal vision, cloaking, morphing, explosion and more<br>\nRecord your own sound effects and use them in your videos<br>\nCustomize any effect to your liking<br>\n(change speed, edit text, add sound and more)<br>\nSnap photos and save them to the platform: Photo Album or to the SD card (as .bmp)",
+  "release_date_on_eshop": "2014-03-27",
+  "product_code": "TWL-N-KXJE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Utility",
+    "Video",
+    "Photography"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.4.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

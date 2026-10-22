@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B574B45",
-    "uid": "50010000003580",
-    "name": "Mega Words",
-    "formal_name": "Mega Words",
-    "description": "It’s time to put your thinking cap on and see how many of the hundreds of puzzles you can solve in Mega Words. With Mega Words, you can play three classic puzzlers, Word Scrambler, Anagram Hunt and Hangman, all included in this puzzle pack. No need for erasers here! These portable editions feature extensive dictionaries to challenge both the novice and expert player. See how fast you can unscramble words, sharpen your vocabulary, and stretch your mind today with Mega Words!",
-    "release_date_on_eshop": "2010-06-21",
-    "product_code": "TWL-N-KWKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B574B45",
+  "uid": "50010000003580",
+  "name": "Mega Words",
+  "formal_name": "Mega Words",
+  "description": "It’s time to put your thinking cap on and see how many of the hundreds of puzzles you can solve in Mega Words. With Mega Words, you can play three classic puzzlers, Word Scrambler, Anagram Hunt and Hangman, all included in this puzzle pack. No need for erasers here! These portable editions feature extensive dictionaries to challenge both the novice and expert player. See how fast you can unscramble words, sharpen your vocabulary, and stretch your mind today with Mega Words!",
+  "release_date_on_eshop": "2010-06-21",
+  "product_code": "TWL-N-KWKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

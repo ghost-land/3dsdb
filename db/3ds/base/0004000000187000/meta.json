@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000187000",
-    "uid": "50010000040615",
-    "name": "Monster Hunter Generations™",
-    "formal_name": "Monster Hunter Generations™",
-    "description": "\nExperience the most dynamic Monster Hunter experience yet! Take on the role of a fledgling monster hunter and face down larger than life beasts as you journey to become the ultimate hunter. Along your journey you'll defend each of the game’s four villages from new major threats—the Fated Four - powerful new monsters that have emerged.\n<br>\n<br>Monster Hunter Generations introduces all new gameplay mechanics including Hunting Styles and Hunter Arts that allow you to fully customize your playstyle. Take to the skies and attack monsters from mid-air using the Aerial style or perform deadly counter attacks using the Adept style. Master a variety of Hunter Arts to unleash devastating attacks against your enemies or generate powerful buffs for you and your teammates.\n<br>\n<br>With hundreds of quests in store, there are tons of challenges to tackle in a solo adventure. But remember, don't hunt alone! Form a party with up to three other friends locally or online to take on the toughest challenges together!",
-    "release_date_on_eshop": "2016-07-15",
-    "product_code": "CTR-N-BXXE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Multiplayer",
-        "RPG"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000187000",
+  "uid": "50010000040615",
+  "name": "Monster Hunter Generations™",
+  "formal_name": "Monster Hunter Generations™",
+  "description": "\nExperience the most dynamic Monster Hunter experience yet! Take on the role of a fledgling monster hunter and face down larger than life beasts as you journey to become the ultimate hunter. Along your journey you'll defend each of the game’s four villages from new major threats—the Fated Four - powerful new monsters that have emerged.\n<br>\n<br>Monster Hunter Generations introduces all new gameplay mechanics including Hunting Styles and Hunter Arts that allow you to fully customize your playstyle. Take to the skies and attack monsters from mid-air using the Aerial style or perform deadly counter attacks using the Adept style. Master a variety of Hunter Arts to unleash devastating attacks against your enemies or generate powerful buffs for you and your teammates.\n<br>\n<br>With hundreds of quests in store, there are tons of challenges to tackle in a solo adventure. But remember, don't hunt alone! Form a party with up to three other friends locally or online to take on the toughest challenges together!",
+  "release_date_on_eshop": "2016-07-15",
+  "product_code": "CTR-N-BXXE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Multiplayer",
+    "RPG"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

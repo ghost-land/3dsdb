@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000136A00",
-    "uid": "50010000021820",
-    "name": "鐵道日本！長良川鐵道 出發篇\n(繁體中文版)",
-    "formal_name": "鐵道日本！長良川鐵道 出發篇\n(繁體中文版)",
-    "description": "利用了3D實體影像 有趣的鐵道駕駛遊戲！\n\n位於日本列島中央─岐阜縣當地的鐵道之旅正式開始！\n\n由綠意盎然的景色和清澈的河流交織而成的『長良川鐵道』舞台，透過臨場感十足的3D實體影像和鐵道駕駛體驗，欣賞在車窗前展現的日本田舍之日常風景！\n\n此外，若在站與站之間的駕駛技術獲得好評，便能收集『長良川鐵道』沿線的名勝及景點等知識。",
-    "release_date_on_eshop": "2014-05-07",
-    "product_code": "CTR-N-ARJW",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "模擬"
-    ],
-    "features": [
-        "對應3D影像"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "0004000000136A00",
+  "uid": "50010000021820",
+  "name": "鐵道日本！長良川鐵道 出發篇\n(繁體中文版)",
+  "formal_name": "鐵道日本！長良川鐵道 出發篇\n(繁體中文版)",
+  "description": "利用了3D實體影像 有趣的鐵道駕駛遊戲！\n\n位於日本列島中央─岐阜縣當地的鐵道之旅正式開始！\n\n由綠意盎然的景色和清澈的河流交織而成的『長良川鐵道』舞台，透過臨場感十足的3D實體影像和鐵道駕駛體驗，欣賞在車窗前展現的日本田舍之日常風景！\n\n此外，若在站與站之間的駕駛技術獲得好評，便能收集『長良川鐵道』沿線的名勝及景點等知識。",
+  "release_date_on_eshop": "2014-05-07",
+  "product_code": "CTR-N-ARJW",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "模擬"
+  ],
+  "features": [
+    "對應3D影像"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
+  "descriptors": []
 }

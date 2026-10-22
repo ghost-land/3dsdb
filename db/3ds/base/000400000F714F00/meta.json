@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F714F00",
-    "uid": "50010000049355",
-    "name": "Gal Galaxy Pain",
-    "formal_name": "Gal Galaxy Pain",
-    "description": "Hospital recovery ends. She has had enough! Humanity is done!",
-    "release_date_on_eshop": "2021-12-27",
-    "product_code": "KTR-N-CC6E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F714F00",
+  "uid": "50010000049355",
+  "name": "Gal Galaxy Pain",
+  "formal_name": "Gal Galaxy Pain",
+  "description": "Hospital recovery ends. She has had enough! Humanity is done!",
+  "release_date_on_eshop": "2021-12-27",
+  "product_code": "KTR-N-CC6E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400000014A300",
-    "uid": "50010000026335",
-    "name": "Pokémon Omega Ruby and\nAlpha Sapphire Special Demo",
-    "formal_name": "Pokémon Omega Ruby and\nAlpha Sapphire Special Demo",
-    "description": "Start your next Hoenn region\nadventure early with a special demo\nversion of Pokémon Omega Ruby and\nPokémon Alpha Sapphire. This demo\nfeatures gameplay that you won’t\nexperience anywhere else. During the\ncourse of this adventure, you’ll be\nsurprised to encounter familiar\nPokémon that can now Mega Evolve!\nWhat’s more, you can bring this\nPokémon into your full Pokémon\nOmega Ruby and Pokémon Alpha\nSapphire game. You can even bring\nover the reward items that you\nobtained during your Special Demo\nVersion adventure.\n<br/><br/>\nYou can play the Pokémon Omega\nRuby and Pokémon Alpha Sapphire\nSpecial Demo Version as many times\nas you like. Look for special scenarios\nthat occur if you play every day.",
-    "release_date_on_eshop": "2015-01-15",
-    "product_code": "CTR-N-NAHA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014A300",
+  "uid": "50010000026335",
+  "name": "Pokémon Omega Ruby and\nAlpha Sapphire Special Demo",
+  "formal_name": "Pokémon Omega Ruby and\nAlpha Sapphire Special Demo",
+  "description": "Start your next Hoenn region\nadventure early with a special demo\nversion of Pokémon Omega Ruby and\nPokémon Alpha Sapphire. This demo\nfeatures gameplay that you won’t\nexperience anywhere else. During the\ncourse of this adventure, you’ll be\nsurprised to encounter familiar\nPokémon that can now Mega Evolve!\nWhat’s more, you can bring this\nPokémon into your full Pokémon\nOmega Ruby and Pokémon Alpha\nSapphire game. You can even bring\nover the reward items that you\nobtained during your Special Demo\nVersion adventure.\n<br/><br/>\nYou can play the Pokémon Omega\nRuby and Pokémon Alpha Sapphire\nSpecial Demo Version as many times\nas you like. Look for special scenarios\nthat occur if you play every day.",
+  "release_date_on_eshop": "2015-01-15",
+  "product_code": "CTR-N-NAHA",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

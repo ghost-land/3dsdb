@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000D3D00",
-    "uid": "50010000019313",
-    "name": "Mario Tennis™",
-    "formal_name": "Mario Tennis™",
-    "description": "Take your game to the next level in Mario Tennis with 3 fun-packed modes! Practice control on your swings and shots in Exhibition Mode. In Mario Tour, create your own tennis player on three different save slots. Begin your tennis career as a rookie at the Royal Tennis Academy, where coaches share their sage advice and the students are all about winning. Gain experience by training and playing matches, then divide those points across stats for spin, power, control and speed.\n<br><br>\nAs your performance improves, you will be able to face tougher adversaries—and maybe even get to encounter some familiar faces!  Need a break? Then try your luck on some Mario Mini-games. It’s time to pick up your racquet, and start playing! ",
-    "release_date_on_eshop": "2013-12-26",
-    "product_code": "CTR-N-QAWE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D3D00",
+  "uid": "50010000019313",
+  "name": "Mario Tennis™",
+  "formal_name": "Mario Tennis™",
+  "description": "Take your game to the next level in Mario Tennis with 3 fun-packed modes! Practice control on your swings and shots in Exhibition Mode. In Mario Tour, create your own tennis player on three different save slots. Begin your tennis career as a rookie at the Royal Tennis Academy, where coaches share their sage advice and the students are all about winning. Gain experience by training and playing matches, then divide those points across stats for spin, power, control and speed.\n<br><br>\nAs your performance improves, you will be able to face tougher adversaries—and maybe even get to encounter some familiar faces!  Need a break? Then try your luck on some Mario Mini-games. It’s time to pick up your racquet, and start playing! ",
+  "release_date_on_eshop": "2013-12-26",
+  "product_code": "CTR-N-QAWE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

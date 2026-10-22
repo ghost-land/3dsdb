@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001A4600",
-    "uid": "50010000041870",
-    "name": "Urban Trial Freestyle 2",
-    "formal_name": "Urban Trial Freestyle 2",
-    "description": "Prepare yourself for numerous new\n<br>levels in five stunning locations. Pull\n<br>off insane stunts on top of\n<br>skyscrapers, speed down busy\n<br>highways and take an intense ride\n<br>through the suburbs while competing\n<br>with others to get to the top of the\n<br>leaderboards!\n<br>\n<br>Raise the bar by making the highest\n<br>jumps or the most head-spinning flips\n<br>in Stunt Mode! Try Time Attack and\n<br>beat the best time at neck-breaking\n<br>speeds! Take on the Challenge levels\n<br>to test your skills!\n<br>\n<br>Create your own unique levels in the\n<br>Track Editor and share them with\n<br>friends!\n<br>\n<br>Still not enough thrills? Then try\n<br>downloading more player-made tracks\n<br>for endless replayability!",
-    "release_date_on_eshop": "2017-03-30",
-    "product_code": "CTR-N-KTHP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Racing",
-        "Sports",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A4600",
+  "uid": "50010000041870",
+  "name": "Urban Trial Freestyle 2",
+  "formal_name": "Urban Trial Freestyle 2",
+  "description": "Prepare yourself for numerous new\n<br>levels in five stunning locations. Pull\n<br>off insane stunts on top of\n<br>skyscrapers, speed down busy\n<br>highways and take an intense ride\n<br>through the suburbs while competing\n<br>with others to get to the top of the\n<br>leaderboards!\n<br>\n<br>Raise the bar by making the highest\n<br>jumps or the most head-spinning flips\n<br>in Stunt Mode! Try Time Attack and\n<br>beat the best time at neck-breaking\n<br>speeds! Take on the Challenge levels\n<br>to test your skills!\n<br>\n<br>Create your own unique levels in the\n<br>Track Editor and share them with\n<br>friends!\n<br>\n<br>Still not enough thrills? Then try\n<br>downloading more player-made tracks\n<br>for endless replayability!",
+  "release_date_on_eshop": "2017-03-30",
+  "product_code": "CTR-N-KTHP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Racing",
+    "Sports",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

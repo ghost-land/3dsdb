@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000172F00",
-    "uid": "50010000043435",
-    "name": "Pokémon™ Edición Oro",
-    "formal_name": "Pokémon™ Edición Oro",
-    "description": "Bonus until the 21/09/2018\n<br>Download code for the Mythical Pokémon Celebi.\n<br>The download code is valid until 31/10/2018.\n<br>\n<br>Welcome to the exciting adventures of Pokémon Gold and Silver! These two games sport a colourful look and supply a slew of new Pokémon in addition to the 150 from Pokémon Red, Blue and Yellow. Starting out as a rookie Trainer, you'll explore the sprawling island of Johto, and embark on a quest to capture as many Pokémon as you possibly can. Some familiar faces pop up in the tall grass and dozens of new Pokémon make their debuts. Try your hand at new attacks and witness surprising evolutions, while filling your Pokédex with the latest discoveries.",
-    "release_date_on_eshop": "2017-09-22",
-    "product_code": "CTR-N-QBYA",
-    "platform_name": "Game Boy Color",
-    "region": "Region Free",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000172F00",
+  "uid": "50010000043435",
+  "name": "Pokémon™ Edición Oro",
+  "formal_name": "Pokémon™ Edición Oro",
+  "description": "Bonus until the 21/09/2018\n<br>Download code for the Mythical Pokémon Celebi.\n<br>The download code is valid until 31/10/2018.\n<br>\n<br>Welcome to the exciting adventures of Pokémon Gold and Silver! These two games sport a colourful look and supply a slew of new Pokémon in addition to the 150 from Pokémon Red, Blue and Yellow. Starting out as a rookie Trainer, you'll explore the sprawling island of Johto, and embark on a quest to capture as many Pokémon as you possibly can. Some familiar faces pop up in the tall grass and dozens of new Pokémon make their debuts. Try your hand at new attacks and witness surprising evolutions, while filling your Pokédex with the latest discoveries.",
+  "release_date_on_eshop": "2017-09-22",
+  "product_code": "CTR-N-QBYA",
+  "platform_name": "Game Boy Color",
+  "region": "Region Free",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

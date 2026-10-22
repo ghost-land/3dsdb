@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B394645",
-    "uid": "50010000007251",
-    "name": "Bridge",
-    "formal_name": "Bridge",
-    "description": "Bridge, the king of trick-taking card-games, is now available on Nintendo DSiWare!\n\nYou can modify the rules of each game and set the difficulty of the AI opponents from beginner to pro. Challenge up to four friends to a local multiplayer game. Celebrate your victories and use the integrated speech and text chat functions. Funny beach graphics, varied textures and using your own photo in the game makes this collection a fabulous package. Have lots of fun playing Bridge!",
-    "release_date_on_eshop": "2011-09-15",
-    "product_code": "TWL-N-K9FE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.8.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B394645",
+  "uid": "50010000007251",
+  "name": "Bridge",
+  "formal_name": "Bridge",
+  "description": "Bridge, the king of trick-taking card-games, is now available on Nintendo DSiWare!\n\nYou can modify the rules of each game and set the difficulty of the AI opponents from beginner to pro. Challenge up to four friends to a local multiplayer game. Celebrate your victories and use the integrated speech and text chat functions. Funny beach graphics, varied textures and using your own photo in the game makes this collection a fabulous package. Have lots of fun playing Bridge!",
+  "release_date_on_eshop": "2011-09-15",
+  "product_code": "TWL-N-K9FE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.8.0",
+  "disclaimer": null,
+  "descriptors": []
 }

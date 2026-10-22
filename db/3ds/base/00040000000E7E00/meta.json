@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000E7E00",
-    "uid": "50010000015057",
-    "name": "My Western Horse 3D",
-    "formal_name": "My Western Horse 3D",
-    "description": "Become the star of the ranch!\n<br>Put on your cowboy hat, don your\n<br>chaps and grab your lasso, it's time\n<br>to impress with your barrel racing and\n<br>reining skills. Caring for your horse\n<br>and training hard will get you far. And\n<br>if Aunt Polly recognizes your talent,\n<br>new doors will open for you! Can you\n<br>hear the neighing from the stall? Your\n<br>Western Horse is waiting for you!\n<br>",
-    "release_date_on_eshop": "2013-08-29",
-    "product_code": "CTR-P-AZHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E7E00",
+  "uid": "50010000015057",
+  "name": "My Western Horse 3D",
+  "formal_name": "My Western Horse 3D",
+  "description": "Become the star of the ranch!\n<br>Put on your cowboy hat, don your\n<br>chaps and grab your lasso, it's time\n<br>to impress with your barrel racing and\n<br>reining skills. Caring for your horse\n<br>and training hard will get you far. And\n<br>if Aunt Polly recognizes your talent,\n<br>new doors will open for you! Can you\n<br>hear the neighing from the stall? Your\n<br>Western Horse is waiting for you!\n<br>",
+  "release_date_on_eshop": "2013-08-29",
+  "product_code": "CTR-P-AZHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

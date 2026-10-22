@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000186F00",
-    "uid": "50010000038575",
-    "name": "PET HOSPITAL",
-    "formal_name": "PET HOSPITAL",
-    "description": "The best veterinary clinic game on the Nintendo 3DS™! Hamsters, birds, cats, dogs, horses... become a real veterinarian and take care of your favourite animals! \n<br><br>\nDr Robert's clinic is going through difficult times and needs your skills to develop and expand. Examinations, diagnostics and treatments: heal your patients and unlock new veterinary health centres so you can receive all patients furred and feathered. \n<br><br>\nFeatures:\nImpressive vet simulation in 3D\nFur shaded animals\n23 treatments and operations",
-    "release_date_on_eshop": "2015-11-26",
-    "product_code": "CTR-N-AZFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000186F00",
+  "uid": "50010000038575",
+  "name": "PET HOSPITAL",
+  "formal_name": "PET HOSPITAL",
+  "description": "The best veterinary clinic game on the Nintendo 3DS™! Hamsters, birds, cats, dogs, horses... become a real veterinarian and take care of your favourite animals! \n<br><br>\nDr Robert's clinic is going through difficult times and needs your skills to develop and expand. Examinations, diagnostics and treatments: heal your patients and unlock new veterinary health centres so you can receive all patients furred and feathered. \n<br><br>\nFeatures:\nImpressive vet simulation in 3D\nFur shaded animals\n23 treatments and operations",
+  "release_date_on_eshop": "2015-11-26",
+  "product_code": "CTR-N-AZFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

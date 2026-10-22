@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B433445",
-    "uid": "50010000001681",
-    "name": "Shapo",
-    "formal_name": "Shapo",
-    "description": "Shapo™ is a challenge that will keep you on the edge!  Balance the scales as you place shapes made of different materials.  Play more than 150 levels in Classic or Puzzle mode to unlock the greatest wonders of the world.  Stunning art brings 15 wonders of the world to life!  Enjoy exciting power ups such as the material bomb and line bomb.  Each ball and shape has a different weight so be careful when placing your pieces!\n\n*Classic Mode:\nCreate lines to remove balls.  Match sequential lines and watch the combo multiplier grow!\n\n*Puzzle Mode:\nComplete increasingly complicated levels by filling the grid with the given balls.",
-    "release_date_on_eshop": "2011-03-21",
-    "product_code": "TWL-N-KC4E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B433445",
+  "uid": "50010000001681",
+  "name": "Shapo",
+  "formal_name": "Shapo",
+  "description": "Shapo™ is a challenge that will keep you on the edge!  Balance the scales as you place shapes made of different materials.  Play more than 150 levels in Classic or Puzzle mode to unlock the greatest wonders of the world.  Stunning art brings 15 wonders of the world to life!  Enjoy exciting power ups such as the material bomb and line bomb.  Each ball and shape has a different weight so be careful when placing your pieces!\n\n*Classic Mode:\nCreate lines to remove balls.  Match sequential lines and watch the combo multiplier grow!\n\n*Puzzle Mode:\nComplete increasingly complicated levels by filling the grid with the given balls.",
+  "release_date_on_eshop": "2011-03-21",
+  "product_code": "TWL-N-KC4E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

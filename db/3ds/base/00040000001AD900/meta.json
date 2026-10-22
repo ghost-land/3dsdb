@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001AD900",
-    "uid": "50010000042367",
-    "name": "Elliot Quest",
-    "formal_name": "Elliot Quest",
-    "description": "Elliot can't die - but he's still running out of time.\n<br>\n<br>In Elliot Quest, the victim of a rare curse must find a cure before he's transformed into a demon.\n<br>\n<br>After Elliot's wife disappears, he falls sick and attempts to take his own life – only to discovers that he can't die. Plagued by nightmares and growing weaker by the day, Elliot seeks out a local Sage, who tells him that he's the victim of a rare curse. A demon called a Satar is slowly consuming Elliot's vitality. If Elliot can't find a cure to the curse before it's too late, he will become a Satar. His only hope is to ask for the help of one of the island's Guardians, who have kept the Satar from taking over Urele.\n<br>\n<br>Explore a vibrant open-world filled with hidden secrets and mysterious Guardians that can help cure Elliot's curse of immortality. Throughout this adventure you'll collect countless abilities and spells, quest through 5 dungeons and defeat 16 unique bosses along your way to unlocking multiple endings. \n<br>\n<br>Miiverse™ Integration and Stamps\n<br>Collect Stamps throughout your adventure, and use them to create and share notes to Miiverse™ about the secrets you discover in Elliot Quest!",
-    "release_date_on_eshop": "2017-05-11",
-    "product_code": "CTR-N-KEQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AD900",
+  "uid": "50010000042367",
+  "name": "Elliot Quest",
+  "formal_name": "Elliot Quest",
+  "description": "Elliot can't die - but he's still running out of time.\n<br>\n<br>In Elliot Quest, the victim of a rare curse must find a cure before he's transformed into a demon.\n<br>\n<br>After Elliot's wife disappears, he falls sick and attempts to take his own life – only to discovers that he can't die. Plagued by nightmares and growing weaker by the day, Elliot seeks out a local Sage, who tells him that he's the victim of a rare curse. A demon called a Satar is slowly consuming Elliot's vitality. If Elliot can't find a cure to the curse before it's too late, he will become a Satar. His only hope is to ask for the help of one of the island's Guardians, who have kept the Satar from taking over Urele.\n<br>\n<br>Explore a vibrant open-world filled with hidden secrets and mysterious Guardians that can help cure Elliot's curse of immortality. Throughout this adventure you'll collect countless abilities and spells, quest through 5 dungeons and defeat 16 unique bosses along your way to unlocking multiple endings. \n<br>\n<br>Miiverse™ Integration and Stamps\n<br>Collect Stamps throughout your adventure, and use them to create and share notes to Miiverse™ about the secrets you discover in Elliot Quest!",
+  "release_date_on_eshop": "2017-05-11",
+  "product_code": "CTR-N-KEQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

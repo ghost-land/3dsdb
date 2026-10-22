@@ -1,29 +1,29 @@
 {
-    "tid": "000400000004F000",
-    "uid": "50010000007605",
-    "name": "ドライバー：レネゲイド 3D",
-    "formal_name": "ドライバー：レネゲイド 3D",
-    "description": "数年前までニューヨーク市警に所属し、潜入捜査を行っていた主人公ジョン･タナー。\n<br>彼はあるとき、何者かに襲われていた上院議員を助けたことをきっかけに、街に潜む犯罪組織を潰す裏仕事を請け負うことに。\n<br>麻薬王、臓器密売人、武器商人．．．．．．\n<br>組織のボスを次々と倒した先に待ち受ける真実とは――!?",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ADRJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "15"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004F000",
+  "uid": "50010000007605",
+  "name": "ドライバー：レネゲイド 3D",
+  "formal_name": "ドライバー：レネゲイド 3D",
+  "description": "数年前までニューヨーク市警に所属し、潜入捜査を行っていた主人公ジョン･タナー。\n<br>彼はあるとき、何者かに襲われていた上院議員を助けたことをきっかけに、街に潜む犯罪組織を潰す裏仕事を請け負うことに。\n<br>麻薬王、臓器密売人、武器商人．．．．．．\n<br>組織のボスを次々と倒した先に待ち受ける真実とは――!?",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ADRJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "15"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

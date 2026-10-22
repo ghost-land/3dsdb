@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000042200",
-    "uid": "50010000007041",
-    "name": "Mario's Picross™",
-    "formal_name": "Mario's Picross™",
-    "description": "In the 1995 puzzle classic Mario’s\nPicross, over 200 challenging picture\npuzzles await to be mastered.<br>\n<br>\nReveal the hidden pictures in each\npuzzle by filling in the correct squares\nin the grid. Hint numbers at the edges\nwill tell you how many squares in\neach row or column should be filled.<br>\n<br>\nAfter completing the regular picross\nmodes, a Time Trial mode will put\nyour picross skills to a true test.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAJP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000042200",
+  "uid": "50010000007041",
+  "name": "Mario's Picross™",
+  "formal_name": "Mario's Picross™",
+  "description": "In the 1995 puzzle classic Mario’s\nPicross, over 200 challenging picture\npuzzles await to be mastered.<br>\n<br>\nReveal the hidden pictures in each\npuzzle by filling in the correct squares\nin the grid. Hint numbers at the edges\nwill tell you how many squares in\neach row or column should be filled.<br>\n<br>\nAfter completing the regular picross\nmodes, a Time Trial mode will put\nyour picross skills to a true test.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAJP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000086C00",
-    "uid": "50010000012813",
-    "name": "escapeVektor™",
-    "formal_name": "escapeVektor™",
-    "description": "Vektor has been trapped inside the CPU for what feels like an eternity and you are his only hope of escape. As he travels through the CPU, help him recover his memories and destroy the different enemy types sent to hunt him. But be careful, the further Vektor gets, the more devious the CPU becomes!\n<br><br>\nThere is a whole world to uncover within your CPU! Hiding away are 150 levels (nodes), 27 worlds (zones) and 4 unique abilities to unlock and upgrade. Vektor will allow you to Detonate to destroy enemies, Boost and Super Boost to out run them and Boostenate to smash your way through, you are sure to be able to help him escape!\n<br><br>\nOnline leaderboards allow you to compete against your friends, those in your location and those closest to you in score. Use wildcards to double your score in each level and boost your standing in the leaderboards!",
-    "release_date_on_eshop": "2012-12-20",
-    "product_code": "CTR-N-JEVE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000086C00",
+  "uid": "50010000012813",
+  "name": "escapeVektor™",
+  "formal_name": "escapeVektor™",
+  "description": "Vektor has been trapped inside the CPU for what feels like an eternity and you are his only hope of escape. As he travels through the CPU, help him recover his memories and destroy the different enemy types sent to hunt him. But be careful, the further Vektor gets, the more devious the CPU becomes!\n<br><br>\nThere is a whole world to uncover within your CPU! Hiding away are 150 levels (nodes), 27 worlds (zones) and 4 unique abilities to unlock and upgrade. Vektor will allow you to Detonate to destroy enemies, Boost and Super Boost to out run them and Boostenate to smash your way through, you are sure to be able to help him escape!\n<br><br>\nOnline leaderboards allow you to compete against your friends, those in your location and those closest to you in score. Use wildcards to double your score in each level and boost your standing in the leaderboards!",
+  "release_date_on_eshop": "2012-12-20",
+  "product_code": "CTR-N-JEVE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

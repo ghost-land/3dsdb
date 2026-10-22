@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000D0600",
-    "uid": "50010000014436",
-    "name": "Swords & Soldiers 3D",
-    "formal_name": "Swords & Soldiers 3D",
-    "description": "Prepare for an encounter with a freakishly large pepper: Swords & Soldiers 3D is coming your way!\n<br><br>\nRewrite history as you take control of the brutal Vikings, the devious Aztecs or the crafty Chinese in their global quest to win the favor of the Gods!\n<br><br>\nSwords & Soldiers 3D is a side-scrolling strategy game that lets you control an entire army and lets you wield devastating magical abilities. Demolish your enemy’s castle at the end of these two-dimensional battlefields and lead your troops to victory!\n<br><br>\nFeatures:<br>\nStrategic fun like you’ve never seen before!<br>\nCommand Aztecs, Vikings and Chinese in 30 missions!<br>\nEndlessly challenging single player skirmish battles!<br>\nEarn tricky achievements!",
-    "release_date_on_eshop": "2013-05-16",
-    "product_code": "CTR-N-JS2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.3.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D0600",
+  "uid": "50010000014436",
+  "name": "Swords & Soldiers 3D",
+  "formal_name": "Swords & Soldiers 3D",
+  "description": "Prepare for an encounter with a freakishly large pepper: Swords & Soldiers 3D is coming your way!\n<br><br>\nRewrite history as you take control of the brutal Vikings, the devious Aztecs or the crafty Chinese in their global quest to win the favor of the Gods!\n<br><br>\nSwords & Soldiers 3D is a side-scrolling strategy game that lets you control an entire army and lets you wield devastating magical abilities. Demolish your enemy’s castle at the end of these two-dimensional battlefields and lead your troops to victory!\n<br><br>\nFeatures:<br>\nStrategic fun like you’ve never seen before!<br>\nCommand Aztecs, Vikings and Chinese in 30 missions!<br>\nEndlessly challenging single player skirmish battles!<br>\nEarn tricky achievements!",
+  "release_date_on_eshop": "2013-05-16",
+  "product_code": "CTR-N-JS2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.3.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

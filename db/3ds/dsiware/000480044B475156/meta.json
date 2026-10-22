@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B475156",
-    "uid": "50010000004022",
-    "name": "Go! Go!\nIsland Rescue!",
-    "formal_name": "Go! Go!\nIsland Rescue!",
-    "description": "This is THE Holiday from Hell! The\nhotels are collapsing, the robot\nwaiters are berserking, and the\npicturesque volcanoes are exploding!\nYou’ll be lucky to make it out alive,\nnever mind the suntan!<br>\n<br>\nTime to scramble the Rescue Squad!<br>\n<br>\nYou take control of a squad of brave\nfirefighters who have to save the\nhapless Darwins from all manner of\ndisasters including fire, floods and\nrampaging robots. To do this you\nliterally ‘throw’ the Darwins around\nthe levels until they reach a fire exit.\nLuckily the Darwin babies bounce so\ndon’t worry too much if you drop\nsome of those! And you can always\nrewind time in case of any fatal\naccidents!<br>\n<br>\nWith over 50 levels of unique, laugh\nout loud, gameplay, spread across\nfour colourful zones, Panic rooms and\nBonus levels, Go! Go! Island Rescue!\nwill have you hooked for hours.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KGQV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B475156",
+  "uid": "50010000004022",
+  "name": "Go! Go!\nIsland Rescue!",
+  "formal_name": "Go! Go!\nIsland Rescue!",
+  "description": "This is THE Holiday from Hell! The\nhotels are collapsing, the robot\nwaiters are berserking, and the\npicturesque volcanoes are exploding!\nYou’ll be lucky to make it out alive,\nnever mind the suntan!<br>\n<br>\nTime to scramble the Rescue Squad!<br>\n<br>\nYou take control of a squad of brave\nfirefighters who have to save the\nhapless Darwins from all manner of\ndisasters including fire, floods and\nrampaging robots. To do this you\nliterally ‘throw’ the Darwins around\nthe levels until they reach a fire exit.\nLuckily the Darwin babies bounce so\ndon’t worry too much if you drop\nsome of those! And you can always\nrewind time in case of any fatal\naccidents!<br>\n<br>\nWith over 50 levels of unique, laugh\nout loud, gameplay, spread across\nfour colourful zones, Panic rooms and\nBonus levels, Go! Go! Island Rescue!\nwill have you hooked for hours.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KGQV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

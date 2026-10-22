@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000049100",
-    "uid": "50010000007085",
-    "name": "Star Fox 64™ 3D",
-    "formal_name": "Star Fox 64™ 3D",
-    "description": "Join the Star Fox team and pilot three\n<br>different vehicles in a battle to save\n<br>the galaxy!",
-    "release_date_on_eshop": "2012-10-04",
-    "product_code": "CTR-N-ANRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000049100",
+  "uid": "50010000007085",
+  "name": "Star Fox 64™ 3D",
+  "formal_name": "Star Fox 64™ 3D",
+  "description": "Join the Star Fox team and pilot three\n<br>different vehicles in a battle to save\n<br>the galaxy!",
+  "release_date_on_eshop": "2012-10-04",
+  "product_code": "CTR-N-ANRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

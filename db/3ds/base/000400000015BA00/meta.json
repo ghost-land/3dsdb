@@ -1,30 +1,30 @@
 {
-    "tid": "000400000015BA00",
-    "uid": "50010000037338",
-    "name": "3D Sonic The Hedgehog 2",
-    "formal_name": "3D Sonic The Hedgehog 2",
-    "description": "Sonic is here to save the day, and\n<br>this time he’s got help from his friend\n<br>Tails! Dr. Eggman (AKA Dr. Robotnik)\n<br>is back and is planning on building his\n<br>ultimate weapon, the Death Egg. To\n<br>do so, he’s going to turn the animal\n<br>inhabitants of Mobius into his own\n<br>personal army of Badniks. Can Sonic\n<br>obtain the 7 Chaos Emeralds and stop\n<br>him once and for all?\n<br/><br/>\n<br>3D Sonic The Hedgehog 2 is\n<br>remastered in 3D and full of new\n<br>features! Is the Chemical Plant Zone\n<br>your favorite stage? Use “Stage\n<br>Select” and start running wherever\n<br>you want! Run fast without worrying\n<br>about your rings. Cut your losses by\n<br>choosing Ring Keeper Mode—only half\n<br>your rings will be lost after taking\n<br>damage!\n<br/><br/>\n<br>Keeping your rings and stopping Dr.\n<br>Eggman’s evil scheme is important,\n<br>but don’t forget to take some time off\n<br>from saving the world to play against\n<br>your friends in the 2 Player VS and\n<br>CO-OP Mode using Local Play!",
-    "release_date_on_eshop": "2015-10-08",
-    "product_code": "CTR-N-KSNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015BA00",
+  "uid": "50010000037338",
+  "name": "3D Sonic The Hedgehog 2",
+  "formal_name": "3D Sonic The Hedgehog 2",
+  "description": "Sonic is here to save the day, and\n<br>this time he’s got help from his friend\n<br>Tails! Dr. Eggman (AKA Dr. Robotnik)\n<br>is back and is planning on building his\n<br>ultimate weapon, the Death Egg. To\n<br>do so, he’s going to turn the animal\n<br>inhabitants of Mobius into his own\n<br>personal army of Badniks. Can Sonic\n<br>obtain the 7 Chaos Emeralds and stop\n<br>him once and for all?\n<br/><br/>\n<br>3D Sonic The Hedgehog 2 is\n<br>remastered in 3D and full of new\n<br>features! Is the Chemical Plant Zone\n<br>your favorite stage? Use “Stage\n<br>Select” and start running wherever\n<br>you want! Run fast without worrying\n<br>about your rings. Cut your losses by\n<br>choosing Ring Keeper Mode—only half\n<br>your rings will be lost after taking\n<br>damage!\n<br/><br/>\n<br>Keeping your rings and stopping Dr.\n<br>Eggman’s evil scheme is important,\n<br>but don’t forget to take some time off\n<br>from saving the world to play against\n<br>your friends in the 2 Player VS and\n<br>CO-OP Mode using Local Play!",
+  "release_date_on_eshop": "2015-10-08",
+  "product_code": "CTR-N-KSNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

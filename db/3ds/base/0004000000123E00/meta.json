@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000123E00",
-    "uid": "50010000024215",
-    "name": "Strike Force Foxx",
-    "formal_name": "Strike Force Foxx",
-    "description": "Strike Force Foxx is a side-scrolling, 3D retro chopper attack-and-rescue game with a modern feel. You are Captain Raymond Foxx, guiding your Razor-One helicopter through intense missions, battling the enemy and saving your citizens from terror.\n<br>\n<br>The mission is in: you’ve been ordered to destroy the terrorist organization, Grid, who is taking over your country. You also need to rescue all of your civilians that have been taken hostage by Grid, while you pursue the elusive Dr. Synchros, the mastermind behind the hostile takeover. \n<br>\n<br>Players will take to the air in their helicopter in more than 35 missions to eliminate the numerous hazardous obstacles, including gunmen, tanks, helicopters, planes, machine-gunning jeeps, heat-seeking missiles, gunboats, battleships, submarines, and more. Along the way, players can upgrade their chopper with new, more powerful weapons to eradicate the enemy more efficiently. ",
-    "release_date_on_eshop": "2014-07-17",
-    "product_code": "CTR-N-JXNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000123E00",
+  "uid": "50010000024215",
+  "name": "Strike Force Foxx",
+  "formal_name": "Strike Force Foxx",
+  "description": "Strike Force Foxx is a side-scrolling, 3D retro chopper attack-and-rescue game with a modern feel. You are Captain Raymond Foxx, guiding your Razor-One helicopter through intense missions, battling the enemy and saving your citizens from terror.\n<br>\n<br>The mission is in: you’ve been ordered to destroy the terrorist organization, Grid, who is taking over your country. You also need to rescue all of your civilians that have been taken hostage by Grid, while you pursue the elusive Dr. Synchros, the mastermind behind the hostile takeover. \n<br>\n<br>Players will take to the air in their helicopter in more than 35 missions to eliminate the numerous hazardous obstacles, including gunmen, tanks, helicopters, planes, machine-gunning jeeps, heat-seeking missiles, gunboats, battleships, submarines, and more. Along the way, players can upgrade their chopper with new, more powerful weapons to eradicate the enemy more efficiently. ",
+  "release_date_on_eshop": "2014-07-17",
+  "product_code": "CTR-N-JXNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

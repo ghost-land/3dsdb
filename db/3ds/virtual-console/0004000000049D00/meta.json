@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000049D00",
-    "uid": "50010000006909",
-    "name": "Double Dragon",
-    "formal_name": "Double Dragon",
-    "description": "Re-experience the first handheld\nappearance of the acclaimed Double\nDragon series!<br>\n<br>\nIn this side-scrolling beat 'em up you\nfight your way through rival gangs'\nturfs using jumps, punches, kicks and\nmore to save the kidnapped girl\nMarian.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAUP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Platformer",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000049D00",
+  "uid": "50010000006909",
+  "name": "Double Dragon",
+  "formal_name": "Double Dragon",
+  "description": "Re-experience the first handheld\nappearance of the acclaimed Double\nDragon series!<br>\n<br>\nIn this side-scrolling beat 'em up you\nfight your way through rival gangs'\nturfs using jumps, punches, kicks and\nmore to save the kidnapped girl\nMarian.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAUP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Platformer",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

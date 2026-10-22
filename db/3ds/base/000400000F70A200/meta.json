@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F70A200",
-    "uid": "50010000042377",
-    "name": "6180 the moon",
-    "formal_name": "6180 the moon",
-    "description": "Simple space, dynamic jump.\n<br>\n<br>6180 the moon is a platformer game with a unique mechanic. It offers a fresh, unseen game play style by connecting both of upper and bottom screens. This allows in a mechanic with delightfully long jumps and no fear of slipping to death.\n<br>\n<br>In addition to the unique gameplay, 6180 the moon delivers a unique storyline. The Sun has gone. The Moon sets off on a journey to find the Sun. Along the journey will be hazardous courses and deep realizations.",
-    "release_date_on_eshop": "2017-03-16",
-    "product_code": "KTR-N-CB6P",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70A200",
+  "uid": "50010000042377",
+  "name": "6180 the moon",
+  "formal_name": "6180 the moon",
+  "description": "Simple space, dynamic jump.\n<br>\n<br>6180 the moon is a platformer game with a unique mechanic. It offers a fresh, unseen game play style by connecting both of upper and bottom screens. This allows in a mechanic with delightfully long jumps and no fear of slipping to death.\n<br>\n<br>In addition to the unique gameplay, 6180 the moon delivers a unique storyline. The Sun has gone. The Moon sets off on a journey to find the Sun. Along the journey will be hazardous courses and deep realizations.",
+  "release_date_on_eshop": "2017-03-16",
+  "product_code": "KTR-N-CB6P",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

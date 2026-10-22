@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000146200",
-    "uid": "50010000033955",
-    "name": "SWORDS & DARKNESS",
-    "formal_name": "SWORDS & DARKNESS",
-    "description": "SWORDS & DARKNESS is a game set in a dark mystical fantasy world, cast in a single yet action-packed 2D adventure RPG game.\n<br><br>\nNew stylish skills and magic complement the character's attacks, and by equipping items and other weapons, the player stands to enjoy a seamless series of thrilling combat.",
-    "release_date_on_eshop": "2015-06-11",
-    "product_code": "CTR-N-JSZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000146200",
+  "uid": "50010000033955",
+  "name": "SWORDS & DARKNESS",
+  "formal_name": "SWORDS & DARKNESS",
+  "description": "SWORDS & DARKNESS is a game set in a dark mystical fantasy world, cast in a single yet action-packed 2D adventure RPG game.\n<br><br>\nNew stylish skills and magic complement the character's attacks, and by equipping items and other weapons, the player stands to enjoy a seamless series of thrilling combat.",
+  "release_date_on_eshop": "2015-06-11",
+  "product_code": "CTR-N-JSZE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

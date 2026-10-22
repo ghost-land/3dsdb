@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001D7E00",
-    "uid": "50010000046995",
-    "name": "Games to Play on Halloween!",
-    "formal_name": "Games to Play on Halloween!",
-    "description": "Want to get a little spooked or really spooked? Take a look at these 5 3DS games that have spooky levels to play on Halloween Night!",
-    "release_date_on_eshop": "2018-10-25",
-    "product_code": "CTR-N-SQLE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Video"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D7E00",
+  "uid": "50010000046995",
+  "name": "Games to Play on Halloween!",
+  "formal_name": "Games to Play on Halloween!",
+  "description": "Want to get a little spooked or really spooked? Take a look at these 5 3DS games that have spooky levels to play on Halloween Night!",
+  "release_date_on_eshop": "2018-10-25",
+  "product_code": "CTR-N-SQLE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Video"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

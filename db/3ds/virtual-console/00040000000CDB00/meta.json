@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000CDB00",
-    "uid": "50010000021433",
-    "name": "Clu Clu Land™",
-    "formal_name": "Clu Clu Land™",
-    "description": "The greedy Sea Urchins have stolen all of Clu Clu Land’s gold bars and buried them in a series of mazes. As Bubbles, a brave bubble fish, you’ll set out to uncover all of the gold bars in each maze.\n<br><br>\nBut you’ll have to be careful: Sea Urchins will relentlessly pursue Bubbles, and there are also dangerous black holes that must be avoided. Bubbles isn’t defenseless, though, as she has the ability to stun Sea Urchins with sound waves and quickly change direction using posts scattered throughout the stages.\n<br><br>\nNot only that, but the locations of the gold bars in each maze form the outline of another object—so once you know the object, you’re well on your way to finding the gold! With 20 stages to complete and increasingly complex conditions (like having to pass over the gold bars twice to uncover them), you might just want to bring along a friend for help.",
-    "release_date_on_eshop": "2014-03-27",
-    "product_code": "CTR-N-TCRE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000CDB00",
+  "uid": "50010000021433",
+  "name": "Clu Clu Land™",
+  "formal_name": "Clu Clu Land™",
+  "description": "The greedy Sea Urchins have stolen all of Clu Clu Land’s gold bars and buried them in a series of mazes. As Bubbles, a brave bubble fish, you’ll set out to uncover all of the gold bars in each maze.\n<br><br>\nBut you’ll have to be careful: Sea Urchins will relentlessly pursue Bubbles, and there are also dangerous black holes that must be avoided. Bubbles isn’t defenseless, though, as she has the ability to stun Sea Urchins with sound waves and quickly change direction using posts scattered throughout the stages.\n<br><br>\nNot only that, but the locations of the gold bars in each maze form the outline of another object—so once you know the object, you’re well on your way to finding the gold! With 20 stages to complete and increasingly complex conditions (like having to pass over the gold bars twice to uncover them), you might just want to bring along a friend for help.",
+  "release_date_on_eshop": "2014-03-27",
+  "product_code": "CTR-N-TCRE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

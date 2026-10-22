@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000046D00",
-    "uid": "50010000007039",
-    "name": "Fortified Zone",
-    "formal_name": "Fortified Zone",
-    "description": "Two special operatives on a\nseemingly impossible mission: To\ndestroy a gigantic enemy fortress from\nwithin and stop the development of a\nsecret weapon.<br>\n<br>\nMasato Kanzaki and Mizuki Makimura\nare forming a team that complements\neach other perfectly: Masato is a true\none-man army who once destroyed a\nwhole tank battalion single-handed!\nAdd the certified genius Mizuki whose\nagile moves have earned her the\nnickname \"The Leopard\" and there's\nfinally hope to take down the fortress.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAQP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v2.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000046D00",
+  "uid": "50010000007039",
+  "name": "Fortified Zone",
+  "formal_name": "Fortified Zone",
+  "description": "Two special operatives on a\nseemingly impossible mission: To\ndestroy a gigantic enemy fortress from\nwithin and stop the development of a\nsecret weapon.<br>\n<br>\nMasato Kanzaki and Mizuki Makimura\nare forming a team that complements\neach other perfectly: Masato is a true\none-man army who once destroyed a\nwhole tank battalion single-handed!\nAdd the certified genius Mizuki whose\nagile moves have earned her the\nnickname \"The Leopard\" and there's\nfinally hope to take down the fortress.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAQP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B415750",
-    "uid": "50010000010433",
-    "name": "Art of Ink",
-    "formal_name": "Art of Ink",
-    "description": "Submerge yourself in the colourful\nworld of tattoo art! Working in one of\nthe most prestigious studios in town,\nyou can turn your Stylus into a tattoo\nmachine and work with precision on\nyour clients' skins to give them a\npiece of your art.<br>\n<br>\nBut be careful! It’s not just the art\nyou have to deal with, since satisfying\nyour customer takes more than just\nskill with your inks. You must get to\nknow the crazy cast of characters that\ncome to your shop so you can give\neach of your clients the perfect\ndesign.<br>\n<br>\nKeep your clients happy and make a\nname for yourself to eventually open\nyour own shop and customise it to\nyour liking. Other tattoo artists will\ntake note of your success and will\nchallenge you to prove your skills.\nDefeating them will give you an insight\ninto their techniques and maybe, just\nmaybe, help you become the next\ntattoo master.<br>\n<br>\nGet ready to celebrate tattoo culture\nwith Art of Ink!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KAWP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Lifestyle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415750",
+  "uid": "50010000010433",
+  "name": "Art of Ink",
+  "formal_name": "Art of Ink",
+  "description": "Submerge yourself in the colourful\nworld of tattoo art! Working in one of\nthe most prestigious studios in town,\nyou can turn your Stylus into a tattoo\nmachine and work with precision on\nyour clients' skins to give them a\npiece of your art.<br>\n<br>\nBut be careful! It’s not just the art\nyou have to deal with, since satisfying\nyour customer takes more than just\nskill with your inks. You must get to\nknow the crazy cast of characters that\ncome to your shop so you can give\neach of your clients the perfect\ndesign.<br>\n<br>\nKeep your clients happy and make a\nname for yourself to eventually open\nyour own shop and customise it to\nyour liking. Other tattoo artists will\ntake note of your success and will\nchallenge you to prove your skills.\nDefeating them will give you an insight\ninto their techniques and maybe, just\nmaybe, help you become the next\ntattoo master.<br>\n<br>\nGet ready to celebrate tattoo culture\nwith Art of Ink!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KAWP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Lifestyle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

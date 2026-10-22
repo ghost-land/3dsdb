@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000094500",
-    "uid": "50010000012200",
-    "name": "MEGA MAN™",
-    "formal_name": "MEGA MAN™",
-    "description": "Mega Man's original adventure blasts\nonto Nintendo eShop! The series\nbecame famous for its challenging mix\nof platforming and shoot 'em up\naction; and here you can see how it\nall began.<br>\n<br>\nAs a super-robot created by the\ngenius Dr. Light, it's up to Mega Man\nto traverse ten unique stages and beat\nthe devious Robot Masters designed\nby evil Dr. Wily.<br>\n<br>\nBeating each boss allows Mega Man\nto use its trademark weapon, giving\nyou an advantage in other stages - a\ntechnique still used in the series\ntoday.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TAWP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000094500",
+  "uid": "50010000012200",
+  "name": "MEGA MAN™",
+  "formal_name": "MEGA MAN™",
+  "description": "Mega Man's original adventure blasts\nonto Nintendo eShop! The series\nbecame famous for its challenging mix\nof platforming and shoot 'em up\naction; and here you can see how it\nall began.<br>\n<br>\nAs a super-robot created by the\ngenius Dr. Light, it's up to Mega Man\nto traverse ten unique stages and beat\nthe devious Robot Masters designed\nby evil Dr. Wily.<br>\n<br>\nBeating each boss allows Mega Man\nto use its trademark weapon, giving\nyou an advantage in other stages - a\ntechnique still used in the series\ntoday.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TAWP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

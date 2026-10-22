@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F70FE00",
-    "uid": "50010000044495",
-    "name": "Christmas Night Archery",
-    "formal_name": "Christmas Night Archery",
-    "description": "Test your skills and play this Christmas themed archery game. You can choose from 2 game modes with 3 variants. In Classic mode your task is to reach the high score with 10 arrows from 5, 10 or 15 meters. In the arcade mode you have 30, 45 or 60 seconds to beat your highest score. Do you have what it takes to be the best archer?",
-    "release_date_on_eshop": "2017-12-07",
-    "product_code": "KTR-N-CCAE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Shooter",
-        "Sports",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70FE00",
+  "uid": "50010000044495",
+  "name": "Christmas Night Archery",
+  "formal_name": "Christmas Night Archery",
+  "description": "Test your skills and play this Christmas themed archery game. You can choose from 2 game modes with 3 variants. In Classic mode your task is to reach the high score with 10 arrows from 5, 10 or 15 meters. In the arcade mode you have 30, 45 or 60 seconds to beat your highest score. Do you have what it takes to be the best archer?",
+  "release_date_on_eshop": "2017-12-07",
+  "product_code": "KTR-N-CCAE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Shooter",
+    "Sports",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

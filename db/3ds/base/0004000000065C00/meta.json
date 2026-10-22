@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000065C00",
-    "uid": "50010000008122",
-    "name": "ラビリンスの彼方",
-    "formal_name": "ラビリンスの彼方",
-    "description": "ニンテンドー3DS用ソフト『ラビリンスの彼方』。本作は、KONAMIとトライエースがタッグを組んで贈る完全新作RPGです。幻想的で美しい迷宮を、偶然出会った謎の少女と共に、遥か彼方の出口を目指し冒険します。ニンテンドー3DSの迫力ある立体視で楽しめる、美麗3DダンジョンRPGです。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ALVJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000065C00",
+  "uid": "50010000008122",
+  "name": "ラビリンスの彼方",
+  "formal_name": "ラビリンスの彼方",
+  "description": "ニンテンドー3DS用ソフト『ラビリンスの彼方』。本作は、KONAMIとトライエースがタッグを組んで贈る完全新作RPGです。幻想的で美しい迷宮を、偶然出会った謎の少女と共に、遥か彼方の出口を目指し冒険します。ニンテンドー3DSの迫力ある立体視で楽しめる、美麗3DダンジョンRPGです。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ALVJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B4D4745",
-    "uid": "50010000002843",
-    "name": "Mighty Flip Champs!™",
-    "formal_name": "Mighty Flip Champs!™",
-    "description": "Are you ready to become a Mighty Flip Champ? Take control of Alta, and Page Flip through a series of action packed mazes! The Touch Screen reflects a preview of the next chamber, and shows Alta's projected destination within it. When it's time to flip, use Alta's Magical Warp Wand to replace her world with the next one. Will she land safely on solid ground, or be crushed under it? By cycling endlessly through room after brain busting room, you'll match wits with some of the most devious traps in puzzle/platforming history!",
-    "release_date_on_eshop": "2009-06-01",
-    "product_code": "TWL-N-KMGE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4745",
+  "uid": "50010000002843",
+  "name": "Mighty Flip Champs!™",
+  "formal_name": "Mighty Flip Champs!™",
+  "description": "Are you ready to become a Mighty Flip Champ? Take control of Alta, and Page Flip through a series of action packed mazes! The Touch Screen reflects a preview of the next chamber, and shows Alta's projected destination within it. When it's time to flip, use Alta's Magical Warp Wand to replace her world with the next one. Will she land safely on solid ground, or be crushed under it? By cycling endlessly through room after brain busting room, you'll match wits with some of the most devious traps in puzzle/platforming history!",
+  "release_date_on_eshop": "2009-06-01",
+  "product_code": "TWL-N-KMGE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

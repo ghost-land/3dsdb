@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B414156",
-    "uid": "50010000002002",
-    "name": "Art Style: AQUITE™",
-    "formal_name": "Art Style: AQUITE™",
-    "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nIn Art Style: AQUITE, feel the\npressure in a race against time to\nclear panels from an undersea pipe –\nthe more you clear, the deeper your\ndiver goes. Fail to clear panels and\nthe Pressure Line will descend,\nclouding your vision and increasing\nthe difficulty!<br>\n<br>\nAs well as the main Interval Dive\nmode, try Endless Dive to test your\nendurance, and even visit the\nAquarium to meet the many creatures\nthat share your ocean!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KAAV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414156",
+  "uid": "50010000002002",
+  "name": "Art Style: AQUITE™",
+  "formal_name": "Art Style: AQUITE™",
+  "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nIn Art Style: AQUITE, feel the\npressure in a race against time to\nclear panels from an undersea pipe –\nthe more you clear, the deeper your\ndiver goes. Fail to clear panels and\nthe Pressure Line will descend,\nclouding your vision and increasing\nthe difficulty!<br>\n<br>\nAs well as the main Interval Dive\nmode, try Endless Dive to test your\nendurance, and even visit the\nAquarium to meet the many creatures\nthat share your ocean!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KAAV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

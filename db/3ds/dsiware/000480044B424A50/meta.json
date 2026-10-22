@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B424A50",
-    "uid": "50010000007449",
-    "name": "21: Blackjack",
-    "formal_name": "21: Blackjack",
-    "description": "Now you can take the thrill of the\ncasino on-the-go with 21: Blackjack.\nWhether you’re a seasoned player or\na rookie at the table, 21: Blackjack\nhas a variety of gameplay options to\ntake your skills to the next level. You\ncan change the payouts, number of\ndecks in play, splitting options and\neven if the dealer hits on a soft 17,\nand these are just a few of the many\nadvanced gameplay options. If you\nwant to know how well you’ve been\nplaying or how many Blackjack’s\nhave taken you to a winning hand, \nthen check out a full range of player \nstats available for viewing at any time.\nNow’s your chance to Hit, Stand or\nDouble Down with 21: Blackjack.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KBJP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B424A50",
+  "uid": "50010000007449",
+  "name": "21: Blackjack",
+  "formal_name": "21: Blackjack",
+  "description": "Now you can take the thrill of the\ncasino on-the-go with 21: Blackjack.\nWhether you’re a seasoned player or\na rookie at the table, 21: Blackjack\nhas a variety of gameplay options to\ntake your skills to the next level. You\ncan change the payouts, number of\ndecks in play, splitting options and\neven if the dealer hits on a soft 17,\nand these are just a few of the many\nadvanced gameplay options. If you\nwant to know how well you’ve been\nplaying or how many Blackjack’s\nhave taken you to a winning hand, \nthen check out a full range of player \nstats available for viewing at any time.\nNow’s your chance to Hit, Stand or\nDouble Down with 21: Blackjack.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KBJP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

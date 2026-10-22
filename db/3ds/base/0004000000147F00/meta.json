@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000147F00",
-    "uid": "50010000030195",
-    "name": "Kirby Fighters™ Deluxe",
-    "formal_name": "Kirby Fighters™ Deluxe",
-    "description": "Fight it out with your favorite pink\npuffball in a fierce four-player battle\naction game! Team up or go solo as\nyou battle in new and classic Kirby™\narenas. Choose from powerful copy\nabilities like Sword, Ninja, Hammer\nand more as you take your fighting\nskills to the limit!\n<br/><br/>\nBased on the wild battle mode\nintroduced in Kirby: Triple Deluxe, this\nstandalone game contains expanded\ngameplay features, the ability to play\nas a team, new arenas and more. Join\nup with a friend and fire the powerful\nnew Team Cannon to blast opponents\nwith mega-damage! Earn rare copy\nability hats for defeating Kracko and\nthe King Dedede army in the\nsingle-player gauntlet.\n<br/><br/>\nOwners of Kirby: Triple Deluxe can\nalso access two bonus copy abilities\nplus an exclusive arena – Waddle Dee\nTrain Tracks!\n<br/><br/>\nThis software supports up to 4\nplayers for both Local Play and\nDownload Play.",
-    "release_date_on_eshop": "2015-02-13",
-    "product_code": "CTR-N-JVXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000147F00",
+  "uid": "50010000030195",
+  "name": "Kirby Fighters™ Deluxe",
+  "formal_name": "Kirby Fighters™ Deluxe",
+  "description": "Fight it out with your favorite pink\npuffball in a fierce four-player battle\naction game! Team up or go solo as\nyou battle in new and classic Kirby™\narenas. Choose from powerful copy\nabilities like Sword, Ninja, Hammer\nand more as you take your fighting\nskills to the limit!\n<br/><br/>\nBased on the wild battle mode\nintroduced in Kirby: Triple Deluxe, this\nstandalone game contains expanded\ngameplay features, the ability to play\nas a team, new arenas and more. Join\nup with a friend and fire the powerful\nnew Team Cannon to blast opponents\nwith mega-damage! Earn rare copy\nability hats for defeating Kracko and\nthe King Dedede army in the\nsingle-player gauntlet.\n<br/><br/>\nOwners of Kirby: Triple Deluxe can\nalso access two bonus copy abilities\nplus an exclusive arena – Waddle Dee\nTrain Tracks!\n<br/><br/>\nThis software supports up to 4\nplayers for both Local Play and\nDownload Play.",
+  "release_date_on_eshop": "2015-02-13",
+  "product_code": "CTR-N-JVXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

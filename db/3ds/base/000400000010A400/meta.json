@@ -1,28 +1,28 @@
 {
-    "tid": "000400000010A400",
-    "uid": "50010000018154",
-    "name": "Angry Bunnies",
-    "formal_name": "Angry Bunnies",
-    "description": "Angry Bunnies is a challenging\nphysics-based demolition, with\naddictive gameplay set in 3D\nStereoscopic scenery. There are 150\nfun levels to enjoy, perfectly suited\nfor short bursts of gaming. Each level\nrequires logic and force to solve.\n<br/><br/>\nGame Features:\n<br/><br/>\n3D stereoscopic experience\n<br/><br/>\n150 streamlined levels\n<br/><br/>\nChallenging physics-based demolition\n<br/><br/>\nComical characters with special\nabilities\n<br/><br/>\nHours of gameplay and replay value",
-    "release_date_on_eshop": "2013-11-28",
-    "product_code": "CTR-N-JANP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010A400",
+  "uid": "50010000018154",
+  "name": "Angry Bunnies",
+  "formal_name": "Angry Bunnies",
+  "description": "Angry Bunnies is a challenging\nphysics-based demolition, with\naddictive gameplay set in 3D\nStereoscopic scenery. There are 150\nfun levels to enjoy, perfectly suited\nfor short bursts of gaming. Each level\nrequires logic and force to solve.\n<br/><br/>\nGame Features:\n<br/><br/>\n3D stereoscopic experience\n<br/><br/>\n150 streamlined levels\n<br/><br/>\nChallenging physics-based demolition\n<br/><br/>\nComical characters with special\nabilities\n<br/><br/>\nHours of gameplay and replay value",
+  "release_date_on_eshop": "2013-11-28",
+  "product_code": "CTR-N-JANP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

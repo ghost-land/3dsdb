@@ -1,34 +1,34 @@
 {
-    "tid": "000400000015FB00",
-    "uid": "50010000029295",
-    "name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
-    "formal_name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
-    "description": "Welcome to the world of Monster\nHunter! Take your first steps to\ndiscovering Monster Hunter 4 Ultimate\nand its diverse universe. Get ready to\ngear up, track down and hunt the\nferocious monsters that reign over the\nworld!\n<br/><br/>\n- Venture alone or gather your\nfriends to hunt in local or online\nmultiplayer!\n<br/><br/>\n- Try all 14 different weapon\nclasses, and find your weapon of\nchoice\n<br/><br/>\n- Optional tutorials available for all\nto become a skilled hunter\n<br/><br/>\nPlease note that from the 30/06/2016 onwards, the online functions for this title will no longer be accessible.",
-    "release_date_on_eshop": "2015-02-05",
-    "product_code": "CTR-N-KFGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015FB00",
+  "uid": "50010000029295",
+  "name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
+  "formal_name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
+  "description": "Welcome to the world of Monster\nHunter! Take your first steps to\ndiscovering Monster Hunter 4 Ultimate\nand its diverse universe. Get ready to\ngear up, track down and hunt the\nferocious monsters that reign over the\nworld!\n<br/><br/>\n- Venture alone or gather your\nfriends to hunt in local or online\nmultiplayer!\n<br/><br/>\n- Try all 14 different weapon\nclasses, and find your weapon of\nchoice\n<br/><br/>\n- Optional tutorials available for all\nto become a skilled hunter\n<br/><br/>\nPlease note that from the 30/06/2016 onwards, the online functions for this title will no longer be accessible.",
+  "release_date_on_eshop": "2015-02-05",
+  "product_code": "CTR-N-KFGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

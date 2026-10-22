@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000C7100",
-    "uid": "50010000012972",
-    "name": "Monster Hunter™ 3 Ultimate\nData Transfer Program",
-    "formal_name": "Monster Hunter™ 3 Ultimate\nData Transfer Program",
-    "description": "This program allows you to link up\nboth the Nintendo 3DS and Wii U\nversions of 'Monster Hunter™ 3\nUltimate' and transfer your save data\nbetween the two.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JMUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "System Tool",
-        "Utility",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C7100",
+  "uid": "50010000012972",
+  "name": "Monster Hunter™ 3 Ultimate\nData Transfer Program",
+  "formal_name": "Monster Hunter™ 3 Ultimate\nData Transfer Program",
+  "description": "This program allows you to link up\nboth the Nintendo 3DS and Wii U\nversions of 'Monster Hunter™ 3\nUltimate' and transfer your save data\nbetween the two.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JMUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "System Tool",
+    "Utility",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

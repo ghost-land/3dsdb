@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000129700",
-    "uid": "50010000028196",
-    "name": "My First Songs 2",
-    "formal_name": "My First Songs 2",
-    "description": "My First Songs 2 is the best\ninteractive music game for kids, with a\nplaylist of 14 popular children’s\nsongs, charming 3D animations, and\nlots of cute characters and animals!\n<br/><br/>\nSing along and pop bubble notes: try\nto catch them all!\n<br/><br/>\nPlaylist: \n<br/><br/>\n- Head Shoulders Knees and Toes\n<br/><br/>\n- Deck the Hall\n<br/><br/>\n- Ten Little Indians\n<br/><br/>\n- Hey Diddle Diddle\n<br/><br/>\n- Humpty Dumpty\n<br/><br/>\n- If You’re Happy and You Know It\n<br/><br/>\n- Little Miss Muffet\n<br/><br/>\n- Pop Goes the Weasel\n<br/><br/>\n- Row, Row, Row Your Boat\n<br/><br/>\n- The Muffin Man\n<br/><br/>\n- The Wheel on the Bus\n<br/><br/>\n- We Wish You A Merry Christmas\n<br/><br/>\n- Little Bo Peep\n<br/><br/>\n- Oh Where Has My Little Dog Gone",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-JFXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Action",
-        "Music",
-        "System Tool"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000129700",
+  "uid": "50010000028196",
+  "name": "My First Songs 2",
+  "formal_name": "My First Songs 2",
+  "description": "My First Songs 2 is the best\ninteractive music game for kids, with a\nplaylist of 14 popular children’s\nsongs, charming 3D animations, and\nlots of cute characters and animals!\n<br/><br/>\nSing along and pop bubble notes: try\nto catch them all!\n<br/><br/>\nPlaylist: \n<br/><br/>\n- Head Shoulders Knees and Toes\n<br/><br/>\n- Deck the Hall\n<br/><br/>\n- Ten Little Indians\n<br/><br/>\n- Hey Diddle Diddle\n<br/><br/>\n- Humpty Dumpty\n<br/><br/>\n- If You’re Happy and You Know It\n<br/><br/>\n- Little Miss Muffet\n<br/><br/>\n- Pop Goes the Weasel\n<br/><br/>\n- Row, Row, Row Your Boat\n<br/><br/>\n- The Muffin Man\n<br/><br/>\n- The Wheel on the Bus\n<br/><br/>\n- We Wish You A Merry Christmas\n<br/><br/>\n- Little Bo Peep\n<br/><br/>\n- Oh Where Has My Little Dog Gone",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-JFXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Action",
+    "Music",
+    "System Tool"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

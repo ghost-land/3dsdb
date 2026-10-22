@@ -1,34 +1,34 @@
 {
-    "tid": "000400000013CA00",
-    "uid": "50010000025915",
-    "name": "FIFA 15",
-    "formal_name": "FIFA 15",
-    "description": "FIFA 15 Legacy Edition on\nNintendo 3DS™ delivers unmatched\nauthenticity that reflects the current\nfootball season with updated kits and\nrosters and over 30 officially licensed\nleagues, 50 real-world tournaments,\n500 authentic clubs and 12,500\nplayers but no updates to gameplay or\ngame modes.\n<br/><br/>\nPlay traditional 11 versus 11\nmatches or free your game in epic\n5-v-5 street matches with full 3D\neffects. Play as a real-world superstar\nor re-create yourself and compete in\n3D Street Football Mode. Optional\ntouch screen controls deliver pin-point\nshooting and passing at your\nfinger-tips.",
-    "release_date_on_eshop": "2014-09-26",
-    "product_code": "CTR-P-BFTP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Simulation",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "<br/>Due to the size of this game, it\nmay take longer to download the\ndigital version of this title when\ncompared to other Nintendo eShop\ngames. At the time of purchase you\ncan choose either \"Download Now\" to\nbegin to download the game\nimmediately or \"Download Later\" to\ndownload the game when the system\nenters \"sleep mode.\" You may need\nan additional compatible SD card or\nSDHC card with available space to\ndownload this software. Visit\nsupport.nintendo.com for information\nabout storage options. Sold\nseparately.",
-    "descriptors": []
+  "tid": "000400000013CA00",
+  "uid": "50010000025915",
+  "name": "FIFA 15",
+  "formal_name": "FIFA 15",
+  "description": "FIFA 15 Legacy Edition on\nNintendo 3DS™ delivers unmatched\nauthenticity that reflects the current\nfootball season with updated kits and\nrosters and over 30 officially licensed\nleagues, 50 real-world tournaments,\n500 authentic clubs and 12,500\nplayers but no updates to gameplay or\ngame modes.\n<br/><br/>\nPlay traditional 11 versus 11\nmatches or free your game in epic\n5-v-5 street matches with full 3D\neffects. Play as a real-world superstar\nor re-create yourself and compete in\n3D Street Football Mode. Optional\ntouch screen controls deliver pin-point\nshooting and passing at your\nfinger-tips.",
+  "release_date_on_eshop": "2014-09-26",
+  "product_code": "CTR-P-BFTP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Simulation",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "<br/>Due to the size of this game, it\nmay take longer to download the\ndigital version of this title when\ncompared to other Nintendo eShop\ngames. At the time of purchase you\ncan choose either \"Download Now\" to\nbegin to download the game\nimmediately or \"Download Later\" to\ndownload the game when the system\nenters \"sleep mode.\" You may need\nan additional compatible SD card or\nSDHC card with available space to\ndownload this software. Visit\nsupport.nintendo.com for information\nabout storage options. Sold\nseparately.",
+  "descriptors": []
 }

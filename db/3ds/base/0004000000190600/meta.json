@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000190600",
-    "uid": "50010000039457",
-    "name": "ビンゴde脳とれ ビンとれ",
-    "formal_name": "ビンゴde脳とれ ビンとれ",
-    "description": "『ビンゴde脳とれ ビンとれ』はビンゴカードで遊ぶパズルゲームです。\n<br>\n<br>本作には、楽しみながら脳力トレーニングができる、3種類のパズルゲームが収録されています。\n<br>思考力を鍛える「スライドビンゴ」、集中力を鍛える「タッチビンゴ」、反射神経を鍛える「キャッチビンゴ」！\n<br>\n<br>3種類のパズルゲームそれぞれに、多彩なステージが用意してあります。",
-    "release_date_on_eshop": "2016-03-09",
-    "product_code": "CTR-N-KBHJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000190600",
+  "uid": "50010000039457",
+  "name": "ビンゴde脳とれ ビンとれ",
+  "formal_name": "ビンゴde脳とれ ビンとれ",
+  "description": "『ビンゴde脳とれ ビンとれ』はビンゴカードで遊ぶパズルゲームです。\n<br>\n<br>本作には、楽しみながら脳力トレーニングができる、3種類のパズルゲームが収録されています。\n<br>思考力を鍛える「スライドビンゴ」、集中力を鍛える「タッチビンゴ」、反射神経を鍛える「キャッチビンゴ」！\n<br>\n<br>3種類のパズルゲームそれぞれに、多彩なステージが用意してあります。",
+  "release_date_on_eshop": "2016-03-09",
+  "product_code": "CTR-N-KBHJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

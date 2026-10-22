@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000178F00",
-    "uid": "50010000038439",
-    "name": "Family Fishing",
-    "formal_name": "Family Fishing",
-    "description": "Family Fishing is a frenetic, competitive fishing game developed by Arc System Works. Go fishing with your virtual family and battle against them in fast paced arcade-style mayhem! Players compete against each other to score the most points before the end of each round. Build up your Special Attack gauge bar to turn the tide of battle and make easier catches! Aim for the big fish with high bounty points or catch them all to win!\n<br><br>\nEach fish has assigned points. Will you slowly collect points by catching smaller and more common fish? Or will you risk it all on that rare catch of a lifetime? Throw smoke bombs to disrupt your opponents and seize the advantage! It’s a fishing game where your strategy is put to the test! Collect points and upgrade your fishing rods and lures to catch bigger and rarer fish!",
-    "release_date_on_eshop": "2015-11-19",
-    "product_code": "CTR-N-JFGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000178F00",
+  "uid": "50010000038439",
+  "name": "Family Fishing",
+  "formal_name": "Family Fishing",
+  "description": "Family Fishing is a frenetic, competitive fishing game developed by Arc System Works. Go fishing with your virtual family and battle against them in fast paced arcade-style mayhem! Players compete against each other to score the most points before the end of each round. Build up your Special Attack gauge bar to turn the tide of battle and make easier catches! Aim for the big fish with high bounty points or catch them all to win!\n<br><br>\nEach fish has assigned points. Will you slowly collect points by catching smaller and more common fish? Or will you risk it all on that rare catch of a lifetime? Throw smoke bombs to disrupt your opponents and seize the advantage! It’s a fishing game where your strategy is put to the test! Collect points and upgrade your fishing rods and lures to catch bigger and rarer fish!",
+  "release_date_on_eshop": "2015-11-19",
+  "product_code": "CTR-N-JFGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4B4545",
-    "uid": "50010000007053",
-    "name": "Puzzle Fever",
-    "formal_name": "Puzzle Fever",
-    "description": "Puzzle Fever is a true test of skill for puzzle game fans, challenging players to race to prove their mental agility. Each puzzle consists of pieces that must be fitted together on a board. There is only one possible way for players to fill in the board’s gaps with the pieces they select. The premise is simple...the fun is nearly endless!\n\nRelax Mode\nSolve puzzles without any pressure. This mode does not feature time limits.\n\nTime Attack Mode\nAll of the puzzles must be completed in a race against time. Players must keep their eyes on the clock, as timing is essential. Puzzles must be solved within the recommended time periods.\n\nMultiplayer\nThis mode offers multiplayer gameplay through DS Wireless Play. Players can adjust puzzle difficulty as well as the number of puzzles they want each round to contain.",
-    "release_date_on_eshop": "2011-07-14",
-    "product_code": "TWL-N-KKEE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B4545",
+  "uid": "50010000007053",
+  "name": "Puzzle Fever",
+  "formal_name": "Puzzle Fever",
+  "description": "Puzzle Fever is a true test of skill for puzzle game fans, challenging players to race to prove their mental agility. Each puzzle consists of pieces that must be fitted together on a board. There is only one possible way for players to fill in the board’s gaps with the pieces they select. The premise is simple...the fun is nearly endless!\n\nRelax Mode\nSolve puzzles without any pressure. This mode does not feature time limits.\n\nTime Attack Mode\nAll of the puzzles must be completed in a race against time. Players must keep their eyes on the clock, as timing is essential. Puzzles must be solved within the recommended time periods.\n\nMultiplayer\nThis mode offers multiplayer gameplay through DS Wireless Play. Players can adjust puzzle difficulty as well as the number of puzzles they want each round to contain.",
+  "release_date_on_eshop": "2011-07-14",
+  "product_code": "TWL-N-KKEE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

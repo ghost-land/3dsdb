@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B464B45",
-    "uid": "50010000007034",
-    "name": "Farm Frenzy",
-    "formal_name": "Farm Frenzy",
-    "description": "If you thought life in the big city was crazy, wait until you get a load of the country life in Farm Frenzy, a super-fun arcade game that lets you show Old MacDonald how it's done! Daily chores have never been more entertaining as you cultivate your fields, feed your animals, and gather the items they produce. Better keep the bears away from your ducks, though, or you won't have any eggs to sell at the market! You can spend the money you earn on upgrading your farm to churn out more products faster than you could before.",
-    "release_date_on_eshop": "2011-07-07",
-    "product_code": "TWL-N-KFKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B464B45",
+  "uid": "50010000007034",
+  "name": "Farm Frenzy",
+  "formal_name": "Farm Frenzy",
+  "description": "If you thought life in the big city was crazy, wait until you get a load of the country life in Farm Frenzy, a super-fun arcade game that lets you show Old MacDonald how it's done! Daily chores have never been more entertaining as you cultivate your fields, feed your animals, and gather the items they produce. Better keep the bears away from your ducks, though, or you won't have any eggs to sell at the market! You can spend the money you earn on upgrading your farm to churn out more products faster than you could before.",
+  "release_date_on_eshop": "2011-07-07",
+  "product_code": "TWL-N-KFKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

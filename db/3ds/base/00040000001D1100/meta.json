@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001D1100",
-    "uid": "50010000045195",
-    "name": "Witch & Hero 3",
-    "formal_name": "Witch & Hero 3",
-    "description": "Witch and Hero 3 is an action game where you control the Witch, Hero and Little Hero at the same time.\n<br>\n<br>The two Heroes are physically strong and will keep fighting no matter how many times they're beaten.\n<br>The Witch, however, is vulnerable and even weaker in stone form; if she goes down the game is over.\n<br>\n<br>When the Heroes protect the Witch and fight they can collect monster's blood from defeated enemies. When the Witch's magic power is full she can temporarily be cured of the stone form and use magic to fight back against the dangerous enemies.\n<br>\n<br>Clear the stages by defeating the Boss enemies and seek revenge over the final Demon.",
-    "release_date_on_eshop": "2018-03-22",
-    "product_code": "CTR-N-J3ME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "RPG",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D1100",
+  "uid": "50010000045195",
+  "name": "Witch & Hero 3",
+  "formal_name": "Witch & Hero 3",
+  "description": "Witch and Hero 3 is an action game where you control the Witch, Hero and Little Hero at the same time.\n<br>\n<br>The two Heroes are physically strong and will keep fighting no matter how many times they're beaten.\n<br>The Witch, however, is vulnerable and even weaker in stone form; if she goes down the game is over.\n<br>\n<br>When the Heroes protect the Witch and fight they can collect monster's blood from defeated enemies. When the Witch's magic power is full she can temporarily be cured of the stone form and use magic to fight back against the dangerous enemies.\n<br>\n<br>Clear the stages by defeating the Boss enemies and seek revenge over the final Demon.",
+  "release_date_on_eshop": "2018-03-22",
+  "product_code": "CTR-N-J3ME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "RPG",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001CD600",
-    "uid": "50010000044415",
-    "name": "The Legend of Dark Witch 3\nWisdom and Lunacy",
-    "formal_name": "The Legend of Dark Witch 3\n<br>Wisdom and Lunacy",
-    "description": "The Legend of Dark Witch 3 - Wisdom and Lunacy is a 2D side-scrolling action shooting game.\n<br>\n<br>The player (Zizou) advances through a variety of stages while using their Shot and Lord Attack to defeat enemies. Defeating the bosses at the end of stages clears the stage. Beating all stages clears the game.\n<br>When you start the game you'll play through the Opening Stage. Upon clearing that, you'll move on to the Stage Select Screen where you have 8 stages to choose from. The Syega Fragments and Tres collected during stages can be used to Power Up the player character. After defeating a certain number of enemies in a stage, or reaching certain places you'll receive Syega Fragments which can be used to activate slots temporarily.",
-    "release_date_on_eshop": "2017-12-21",
-    "product_code": "CTR-N-KEPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "00040000001CD600",
+  "uid": "50010000044415",
+  "name": "The Legend of Dark Witch 3\nWisdom and Lunacy",
+  "formal_name": "The Legend of Dark Witch 3\n<br>Wisdom and Lunacy",
+  "description": "The Legend of Dark Witch 3 - Wisdom and Lunacy is a 2D side-scrolling action shooting game.\n<br>\n<br>The player (Zizou) advances through a variety of stages while using their Shot and Lord Attack to defeat enemies. Defeating the bosses at the end of stages clears the stage. Beating all stages clears the game.\n<br>When you start the game you'll play through the Opening Stage. Upon clearing that, you'll move on to the Stage Select Screen where you have 8 stages to choose from. The Syega Fragments and Tres collected during stages can be used to Power Up the player character. After defeating a certain number of enemies in a stage, or reaching certain places you'll receive Syega Fragments which can be used to activate slots temporarily.",
+  "release_date_on_eshop": "2017-12-21",
+  "product_code": "CTR-N-KEPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

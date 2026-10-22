@@ -1,28 +1,28 @@
 {
-    "tid": "000400000011AD00",
-    "uid": "50010000030275",
-    "name": "Shadow of the Ninja™",
-    "formal_name": "Shadow of the Ninja™",
-    "description": "It is the year AD 2029, and America is ruled under the dictatorship of Emperor Garuda. In the midst of disorder and oppression, two shadow warriors rise to the people’s cry for help. Choose to play as one of two ninja masters from the Iga clan—Hayate and Kaede—as they infiltrate enemy front lines in 16 action-packed stages. Master tactics of stealth as you acquire new weapons and power-ups, defeating numerous foes until you reach the emperor himself. Overthrow the emperor and destroy his wicked empire from within, solo or with a friend!",
-    "release_date_on_eshop": "2015-01-29",
-    "product_code": "CTR-N-TD5E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000011AD00",
+  "uid": "50010000030275",
+  "name": "Shadow of the Ninja™",
+  "formal_name": "Shadow of the Ninja™",
+  "description": "It is the year AD 2029, and America is ruled under the dictatorship of Emperor Garuda. In the midst of disorder and oppression, two shadow warriors rise to the people’s cry for help. Choose to play as one of two ninja masters from the Iga clan—Hayate and Kaede—as they infiltrate enemy front lines in 16 action-packed stages. Master tactics of stealth as you acquire new weapons and power-ups, defeating numerous foes until you reach the emperor himself. Overthrow the emperor and destroy his wicked empire from within, solo or with a friend!",
+  "release_date_on_eshop": "2015-01-29",
+  "product_code": "CTR-N-TD5E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

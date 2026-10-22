@@ -1,27 +1,27 @@
 {
-    "tid": "000400000017AB00",
-    "uid": "50010000037116",
-    "name": "エルミナージュゴシック3D REMIX\n～ウルム･ザキールと闇の儀式～",
-    "formal_name": "エルミナージュ ゴシック 3D REMIX\n～ウルム･ザキールと闇の儀式～",
-    "description": "職業や性別、特技の異なるキャラクターをメイキングし、自分だけのパーティーを育てていこう。\n<br>深く暗いダンジョンで戦闘してパーティーを強化し、物語を進めよう。\n<br>\n<br>数多く用意されたアイテムの収集、行く手を阻む敵たち……そこには新しいドラマがある。\n",
-    "release_date_on_eshop": "2015-10-14",
-    "product_code": "CTR-N-KEUJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017AB00",
+  "uid": "50010000037116",
+  "name": "エルミナージュゴシック3D REMIX\n～ウルム･ザキールと闇の儀式～",
+  "formal_name": "エルミナージュ ゴシック 3D REMIX\n～ウルム･ザキールと闇の儀式～",
+  "description": "職業や性別、特技の異なるキャラクターをメイキングし、自分だけのパーティーを育てていこう。\n<br>深く暗いダンジョンで戦闘してパーティーを強化し、物語を進めよう。\n<br>\n<br>数多く用意されたアイテムの収集、行く手を阻む敵たち……そこには新しいドラマがある。\n",
+  "release_date_on_eshop": "2015-10-14",
+  "product_code": "CTR-N-KEUJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

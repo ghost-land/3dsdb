@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000BCA00",
-    "uid": "50010000017273",
-    "name": "Crazy Chicken:\nDirector's Cut 3D",
-    "formal_name": "Crazy Chicken:\nDirector's Cut 3D",
-    "description": "Chickens have invaded a movie studio\nstarting a hilariously messy rampage\naround the film sets and properties!\nIt’s time to take position in the\ndirector’s seat, reload the shotgun\nand aim with precision at these winged\nintruders! Shoot down the right\namount of chickens and stage props in\norder to progress to the next take and\nsolve tons of brain teasing riddles for\nbonus points. Movie fans and action\nlovers will have a blast playing this\ngame. The lights are on, the cameras\nare rolling and now it’s time for some\nfeathery shooting action!\n<br/><br/>\nFeatures:\n<br/><br/>\n• 2 unique movie sets to unlock with\nover 10 filming takes to reach\n<br/><br/>\n• Limited amount of ammo, requiring\naccuracy with ever shot\n<br/><br/>\n• Shoot chickens, stage props and\nunlock hidden secrets\n<br/><br/>\n• An award winning performance by\nthe chickens from the popular Crazy\nChicken franchise\n<br/><br/>\n• The most exciting and craziest\nshooting action around",
-    "release_date_on_eshop": "2013-10-24",
-    "product_code": "CTR-N-JMBP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BCA00",
+  "uid": "50010000017273",
+  "name": "Crazy Chicken:\nDirector's Cut 3D",
+  "formal_name": "Crazy Chicken:\nDirector's Cut 3D",
+  "description": "Chickens have invaded a movie studio\nstarting a hilariously messy rampage\naround the film sets and properties!\nIt’s time to take position in the\ndirector’s seat, reload the shotgun\nand aim with precision at these winged\nintruders! Shoot down the right\namount of chickens and stage props in\norder to progress to the next take and\nsolve tons of brain teasing riddles for\nbonus points. Movie fans and action\nlovers will have a blast playing this\ngame. The lights are on, the cameras\nare rolling and now it’s time for some\nfeathery shooting action!\n<br/><br/>\nFeatures:\n<br/><br/>\n• 2 unique movie sets to unlock with\nover 10 filming takes to reach\n<br/><br/>\n• Limited amount of ammo, requiring\naccuracy with ever shot\n<br/><br/>\n• Shoot chickens, stage props and\nunlock hidden secrets\n<br/><br/>\n• An award winning performance by\nthe chickens from the popular Crazy\nChicken franchise\n<br/><br/>\n• The most exciting and craziest\nshooting action around",
+  "release_date_on_eshop": "2013-10-24",
+  "product_code": "CTR-N-JMBP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

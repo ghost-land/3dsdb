@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001B4400",
-    "uid": "50010000042240",
-    "name": "Butterfly\nInchworm Animation II",
-    "formal_name": "Butterfly\n<br>Inchworm Animation II",
-    "description": "A full-featured animation studio in\n<br>your hand. Butterfly: Inchworm\n<br>Animation II: Let your imagination take\n<br>flight!\n<br>\n<br>After five years, Inchworm Animation\n<br>has emerged from its cocoon! Flat\n<br>Black Films is proud to present\n<br>BUTTERFLY: INCHWORM ANIMATION\n<br>II. A full-featured handheld animation\n<br>studio designed exclusively for\n<br>Nintendo 3DSâ„¢. Featuring:\n<br>\n<br>- Revolutionary looping motion\n<br>graphics engine with stable 30\n<br>frames-per-second playback. Draw as\n<br>it plays!\n<br>\n<br>- Eight endlessly-configurable\n<br>dynamic brush tools with custom\n<br>presets\n<br>\n<br>- Timeline with up to 5 layers and 2\n<br>soundtracks, for scripting events and\n<br>sound effects\n<br>\n<br>- Use stereoscopic 3D to arrange\n<br>your layers in the third dimension.\n<br>Give your movies true depth!\n<br>\n<br>- Record and edit Audio, use the\n<br>built-in sound -effect library or the\n<br>groovy sound-effects generator!\n<br>\n<br>- Shoot video, time-lapse, and\n<br>stop-motion photography\n<br>\n<br>- Onionskin (including video\n<br>onionskin for stop-motion)\n<br>\n<br>- Slick antialiased brushes with full\n<br>24-bit color and transparency\n<br>\n<br>- Import from Nintendo Camera /\n<br>Export to SD\n<br>\n<br>- introducing the Butterfly Online\n<br>Gallery! Share your movies with the\n<br>world  - upload/download animation,\n<br>rate and comment on work. Host your\n<br>own virtual art studio at\n<br>www.butterflyanimation.com!",
-    "release_date_on_eshop": "2017-01-26",
-    "product_code": "CTR-N-JFYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Other",
-        "Utility",
-        "System Tool",
-        "Training"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network",
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B4400",
+  "uid": "50010000042240",
+  "name": "Butterfly\nInchworm Animation II",
+  "formal_name": "Butterfly\n<br>Inchworm Animation II",
+  "description": "A full-featured animation studio in\n<br>your hand. Butterfly: Inchworm\n<br>Animation II: Let your imagination take\n<br>flight!\n<br>\n<br>After five years, Inchworm Animation\n<br>has emerged from its cocoon! Flat\n<br>Black Films is proud to present\n<br>BUTTERFLY: INCHWORM ANIMATION\n<br>II. A full-featured handheld animation\n<br>studio designed exclusively for\n<br>Nintendo 3DSâ„¢. Featuring:\n<br>\n<br>- Revolutionary looping motion\n<br>graphics engine with stable 30\n<br>frames-per-second playback. Draw as\n<br>it plays!\n<br>\n<br>- Eight endlessly-configurable\n<br>dynamic brush tools with custom\n<br>presets\n<br>\n<br>- Timeline with up to 5 layers and 2\n<br>soundtracks, for scripting events and\n<br>sound effects\n<br>\n<br>- Use stereoscopic 3D to arrange\n<br>your layers in the third dimension.\n<br>Give your movies true depth!\n<br>\n<br>- Record and edit Audio, use the\n<br>built-in sound -effect library or the\n<br>groovy sound-effects generator!\n<br>\n<br>- Shoot video, time-lapse, and\n<br>stop-motion photography\n<br>\n<br>- Onionskin (including video\n<br>onionskin for stop-motion)\n<br>\n<br>- Slick antialiased brushes with full\n<br>24-bit color and transparency\n<br>\n<br>- Import from Nintendo Camera /\n<br>Export to SD\n<br>\n<br>- introducing the Butterfly Online\n<br>Gallery! Share your movies with the\n<br>world  - upload/download animation,\n<br>rate and comment on work. Host your\n<br>own virtual art studio at\n<br>www.butterflyanimation.com!",
+  "release_date_on_eshop": "2017-01-26",
+  "product_code": "CTR-N-JFYP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Other",
+    "Utility",
+    "System Tool",
+    "Training"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network",
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

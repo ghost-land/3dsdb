@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001D3400",
-    "uid": "50010000045396",
-    "name": "Sanrio characters Picross",
-    "formal_name": "Sanrio characters Picross",
-    "description": "This is a puzzle game using Sanrio characters. \n<br>\n<br>Solve Picross puzzles to unveil pictures and get cute stickers to decorate your screen with! \n<br>\n<br>Or use them on game backgrounds! \n<br>\n<br>Enjoy Picross with your own background!",
-    "release_date_on_eshop": "2018-07-19",
-    "product_code": "CTR-N-LSCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D3400",
+  "uid": "50010000045396",
+  "name": "Sanrio characters Picross",
+  "formal_name": "Sanrio characters Picross",
+  "description": "This is a puzzle game using Sanrio characters. \n<br>\n<br>Solve Picross puzzles to unveil pictures and get cute stickers to decorate your screen with! \n<br>\n<br>Or use them on game backgrounds! \n<br>\n<br>Enjoy Picross with your own background!",
+  "release_date_on_eshop": "2018-07-19",
+  "product_code": "CTR-N-LSCE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

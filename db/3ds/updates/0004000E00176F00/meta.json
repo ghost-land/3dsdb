@@ -1,34 +1,34 @@
 {
-    "tid": "0004000E00176F00",
-    "uid": "50010000038695",
-    "name": "The Legend of Zelda™:\nTri Force Heroes Update",
-    "formal_name": "The Legend of Zelda™:\nTri Force Heroes Update Ver. 2.1.0",
-    "description": "This is an update for the The Legend of Zelda™: Tri Force Heroes game. This download does not contain the full version of the title. In order to use this update, you must have the full version of The Legend of Zelda™: Tri Force Heroes.\n<br><br>\nUpdate details:\nA new “Hero Points” feature has been added to enhance the game. Collect enough hero points and you can trade them for materials you need or even power up a certain outfit.\n",
-    "release_date_on_eshop": "2015-12-21",
-    "product_code": "CTR-U-EA3E",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v3.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E00176F00",
+  "uid": "50010000038695",
+  "name": "The Legend of Zelda™:\nTri Force Heroes Update",
+  "formal_name": "The Legend of Zelda™:\nTri Force Heroes Update Ver. 2.1.0",
+  "description": "This is an update for the The Legend of Zelda™: Tri Force Heroes game. This download does not contain the full version of the title. In order to use this update, you must have the full version of The Legend of Zelda™: Tri Force Heroes.\n<br><br>\nUpdate details:\nA new “Hero Points” feature has been added to enhance the game. Collect enough hero points and you can trade them for materials you need or even power up a certain outfit.\n",
+  "release_date_on_eshop": "2015-12-21",
+  "product_code": "CTR-U-EA3E",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v3.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

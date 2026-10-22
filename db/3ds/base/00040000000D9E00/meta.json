@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000D9E00",
-    "uid": "50010000018533",
-    "name": "3D Ecco the Dolphin™ ",
-    "formal_name": "3D Ecco the Dolphin™ ",
-    "description": "After a mysterious storm sweeps your family from the sea, it’s up to you to find them and uncover the mystery behind the forces that took them.\n<br><br>\nThe search to find them will take you through vast underwater realms of treachery, beauty and adventure. Use your sonar to discover hidden caverns and unlock the secrets of crystal glyphs, but beware of packs of bloodthirsty sharks that search the ocean for unwitting prey!\n<br><br>\nIn your quest, you’ll discover that more than your family’s safety is at stake. The fate of the whole world rests on your wits and fins.\n<br><br>\nIn addition to its all-new 3D presentation, 3D Ecco the Dolphin also features Super Dolphin Mode where your health and breath never deplete!",
-    "release_date_on_eshop": "2013-12-12",
-    "product_code": "CTR-N-JDLE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D9E00",
+  "uid": "50010000018533",
+  "name": "3D Ecco the Dolphin™ ",
+  "formal_name": "3D Ecco the Dolphin™ ",
+  "description": "After a mysterious storm sweeps your family from the sea, it’s up to you to find them and uncover the mystery behind the forces that took them.\n<br><br>\nThe search to find them will take you through vast underwater realms of treachery, beauty and adventure. Use your sonar to discover hidden caverns and unlock the secrets of crystal glyphs, but beware of packs of bloodthirsty sharks that search the ocean for unwitting prey!\n<br><br>\nIn your quest, you’ll discover that more than your family’s safety is at stake. The fate of the whole world rests on your wits and fins.\n<br><br>\nIn addition to its all-new 3D presentation, 3D Ecco the Dolphin also features Super Dolphin Mode where your health and breath never deplete!",
+  "release_date_on_eshop": "2013-12-12",
+  "product_code": "CTR-N-JDLE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

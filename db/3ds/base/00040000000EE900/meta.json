@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000EE900",
-    "uid": "50010000015103",
-    "name": "3D ベア･ナックル 怒りの鉄拳",
-    "formal_name": "3D ベア･ナックル 怒りの鉄拳",
-    "description": "メガドライブの人気ベルトアクションゲームが3D立体視に対応して復活。平和な街を取り戻すため、3人の男女が悪のシンジケートに怒りの鉄拳を食らわせる!\n新たにテンポ抜群の「一撃必殺」モードも追加しました。ローカルプレイによる2人同時プレイも可能です（それぞれの本体にソフトが必要）。",
-    "release_date_on_eshop": "2013-08-21",
-    "product_code": "CTR-N-JRAJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "格闘",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EE900",
+  "uid": "50010000015103",
+  "name": "3D ベア･ナックル 怒りの鉄拳",
+  "formal_name": "3D ベア･ナックル 怒りの鉄拳",
+  "description": "メガドライブの人気ベルトアクションゲームが3D立体視に対応して復活。平和な街を取り戻すため、3人の男女が悪のシンジケートに怒りの鉄拳を食らわせる!\n新たにテンポ抜群の「一撃必殺」モードも追加しました。ローカルプレイによる2人同時プレイも可能です（それぞれの本体にソフトが必要）。",
+  "release_date_on_eshop": "2013-08-21",
+  "product_code": "CTR-N-JRAJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "格闘",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

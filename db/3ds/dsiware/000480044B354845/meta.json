@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B354845",
-    "uid": "50010000013193",
-    "name": "Ah! Heaven",
-    "formal_name": "Ah! Heaven",
-    "description": "Ah! Heaven, is a platform game developed with an Eastern ink painting style.\n<br><br>\nYou play as a soul willing to ascend to heaven. Though heaven's gate is open, God will not take you there, you have to go by yourself. You will meet all kinds of danger in your journey; Can you get through it to make your ascension?\n<br><br>\nFeatures:<br>\nUnique Eastern ink painting style, depicting various regions from across the world.<br>\nAn exhilarating experience with simple controls.<br>\n24 challenging stages; can you beat them all in the fastest time possible?",
-    "release_date_on_eshop": "2013-02-07",
-    "product_code": "TWL-N-K5HE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B354845",
+  "uid": "50010000013193",
+  "name": "Ah! Heaven",
+  "formal_name": "Ah! Heaven",
+  "description": "Ah! Heaven, is a platform game developed with an Eastern ink painting style.\n<br><br>\nYou play as a soul willing to ascend to heaven. Though heaven's gate is open, God will not take you there, you have to go by yourself. You will meet all kinds of danger in your journey; Can you get through it to make your ascension?\n<br><br>\nFeatures:<br>\nUnique Eastern ink painting style, depicting various regions from across the world.<br>\nAn exhilarating experience with simple controls.<br>\n24 challenging stages; can you beat them all in the fastest time possible?",
+  "release_date_on_eshop": "2013-02-07",
+  "product_code": "TWL-N-K5HE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

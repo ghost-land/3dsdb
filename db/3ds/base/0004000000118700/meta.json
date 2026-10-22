@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000118700",
-    "uid": "50010000020914",
-    "name": "Hollywood Fame:\nHidden Object Adventure ",
-    "formal_name": "Hollywood Fame:\nHidden Object Adventure ",
-    "description": "Your dream finally comes true:\nbecoming a major Hollywood star!\nUnfortunately, not everything goes\naccording to plan...\n<br/><br/>\nPlay as Jess Mallory, a young woman\nseemingly blessed by luck, and who\nneeds you and your powers of\nobservation to make a place for\nherself under the Hollywood sun.\n<br/><br/>\nDive into the world of stars and\novercome the challenges you face:\nlots of hidden object games,\nmini-games and achievements to win.\n<br/><br/>\n- Over 250 objects and characters\nto find.\n<br/><br/>\n- An enthralling story!",
-    "release_date_on_eshop": "2015-03-05",
-    "product_code": "CTR-P-AFXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000118700",
+  "uid": "50010000020914",
+  "name": "Hollywood Fame:\nHidden Object Adventure ",
+  "formal_name": "Hollywood Fame:\nHidden Object Adventure ",
+  "description": "Your dream finally comes true:\nbecoming a major Hollywood star!\nUnfortunately, not everything goes\naccording to plan...\n<br/><br/>\nPlay as Jess Mallory, a young woman\nseemingly blessed by luck, and who\nneeds you and your powers of\nobservation to make a place for\nherself under the Hollywood sun.\n<br/><br/>\nDive into the world of stars and\novercome the challenges you face:\nlots of hidden object games,\nmini-games and achievements to win.\n<br/><br/>\n- Over 250 objects and characters\nto find.\n<br/><br/>\n- An enthralling story!",
+  "release_date_on_eshop": "2015-03-05",
+  "product_code": "CTR-P-AFXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

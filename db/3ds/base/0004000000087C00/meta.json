@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000087C00",
-    "uid": "50010000010369",
-    "name": "Bella Sara\nL'aventure du cheval magique",
-    "formal_name": "Bella Sara\nL'aventure du cheval magique",
-    "description": "Pour la première fois sur\nNintendo 3DS™, découvrez le monde\nfascinant de Bella Sara. Imaginez et\ncréez votre propre cheval magique,\nvolez au secours de vos amis,\nterminez de nombreuses quêtes et\nrelevez tous les défis pour gagner de\nnouveaux accessoires et faire de votre\nfabuleuse monture un cheval unique et\nlégendaire.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AB2P",
-    "platform_name": "Nintendo 3DS (carte)",
-    "region": "France",
-    "genres": [
-        "Aventure",
-        "Jeu de rôles"
-    ],
-    "features": [
-        "Affichage 3D"
-    ],
-    "languages": [
-        "Anglais",
-        "Espagnol",
-        "Français",
-        "Allemand",
-        "Italien",
-        "Néerlandais",
-        "Portugais"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000087C00",
+  "uid": "50010000010369",
+  "name": "Bella Sara\nL'aventure du cheval magique",
+  "formal_name": "Bella Sara\nL'aventure du cheval magique",
+  "description": "Pour la première fois sur\nNintendo 3DS™, découvrez le monde\nfascinant de Bella Sara. Imaginez et\ncréez votre propre cheval magique,\nvolez au secours de vos amis,\nterminez de nombreuses quêtes et\nrelevez tous les défis pour gagner de\nnouveaux accessoires et faire de votre\nfabuleuse monture un cheval unique et\nlégendaire.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AB2P",
+  "platform_name": "Nintendo 3DS (carte)",
+  "region": "France",
+  "genres": [
+    "Aventure",
+    "Jeu de rôles"
+  ],
+  "features": [
+    "Affichage 3D"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

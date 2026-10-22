@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000E7500",
-    "uid": "50010000014979",
-    "name": "ATTACK OF THE FRIDAY\nMONSTERS! A TOKYO TALE™",
-    "formal_name": "ATTACK OF THE FRIDAY\nMONSTERS! A TOKYO TALE™",
-    "description": "Step into the life of Sohta, the\nyoung son of a family that has just set\nup a dry cleaners shop in the idyllic\ntown of Fuji no Hana. In his\ninteractions with the town's unique\nresidents, episodic mysteries are\nrevealed that portend to the strange\nevents surrounding the appearance of\na giant monster every Friday. And\nfinally, when Friday evening falls, the\ngiant monster will appear right before\nyour eyes!\n<br/><br/>\nCollect the \"Monster Glims\"\nscattered around town to form\nMonster Cards, and once you've\ncollected five cards, Sohta can battle\nhis friends for dominance. Winning at\nMonster Cards gives you the chance\nto collect useful information, more\nMonster Glims, and even to cast a\nsecret spell on your friends that will\nmake them fall down at your whim.\nWhy? Because that's the rules!\n<br/><br/>\nA touching drama about family,\nfriendship, and the innocence of being\na child unfolds against hand-drawn\nbackgrounds, charming music, and\nmemorable characters.",
-    "release_date_on_eshop": "2013-07-18",
-    "product_code": "CTR-N-JKEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E7500",
+  "uid": "50010000014979",
+  "name": "ATTACK OF THE FRIDAY\nMONSTERS! A TOKYO TALE™",
+  "formal_name": "ATTACK OF THE FRIDAY\nMONSTERS! A TOKYO TALE™",
+  "description": "Step into the life of Sohta, the\nyoung son of a family that has just set\nup a dry cleaners shop in the idyllic\ntown of Fuji no Hana. In his\ninteractions with the town's unique\nresidents, episodic mysteries are\nrevealed that portend to the strange\nevents surrounding the appearance of\na giant monster every Friday. And\nfinally, when Friday evening falls, the\ngiant monster will appear right before\nyour eyes!\n<br/><br/>\nCollect the \"Monster Glims\"\nscattered around town to form\nMonster Cards, and once you've\ncollected five cards, Sohta can battle\nhis friends for dominance. Winning at\nMonster Cards gives you the chance\nto collect useful information, more\nMonster Glims, and even to cast a\nsecret spell on your friends that will\nmake them fall down at your whim.\nWhy? Because that's the rules!\n<br/><br/>\nA touching drama about family,\nfriendship, and the innocence of being\na child unfolds against hand-drawn\nbackgrounds, charming music, and\nmemorable characters.",
+  "release_date_on_eshop": "2013-07-18",
+  "product_code": "CTR-N-JKEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

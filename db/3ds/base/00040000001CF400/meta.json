@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001CF400",
-    "uid": "50010000045615",
-    "name": "Dillon's Dead-Heat Breakers™",
-    "formal_name": "Dillon's Dead-Heat Breakers™",
-    "description": "Race down enemy grocks and rock them in battle to defend frontier villages. Action meets tower defence in Dillon’s Dead-Heat Breakers!\n<br>\n<br>This time, The Red Flash himself, Dillon, will team up with your own animalised Mii character. Be strategic and use your whole team! You’ll need their help to face each wave of transforming monsters.",
-    "release_date_on_eshop": "2018-05-25",
-    "product_code": "CTR-P-A9EP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CF400",
+  "uid": "50010000045615",
+  "name": "Dillon's Dead-Heat Breakers™",
+  "formal_name": "Dillon's Dead-Heat Breakers™",
+  "description": "Race down enemy grocks and rock them in battle to defend frontier villages. Action meets tower defence in Dillon’s Dead-Heat Breakers!\n<br>\n<br>This time, The Red Flash himself, Dillon, will team up with your own animalised Mii character. Be strategic and use your whole team! You’ll need their help to face each wave of transforming monsters.",
+  "release_date_on_eshop": "2018-05-25",
+  "product_code": "CTR-P-A9EP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

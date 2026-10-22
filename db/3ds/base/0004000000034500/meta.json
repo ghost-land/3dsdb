@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000034500",
-    "uid": "50010000000089",
-    "name": "ラビッツ タイム・トラベル",
-    "formal_name": "ラビッツ タイム・トラベル",
-    "description": "洗濯機型のタイムマシーンで大昔へ向かったラビッツたち。先史時代、古代エジプト、古代ローマ帝国、中世ヨーロッパの4つの時代で、ラビッツたちが大･暴･れします!\n<br>\n<br>謎に満ちたカラフルで飛び出すステージの、ワナやトリックをジャンプでかわし、仕掛けを駆使して、ステージクリアを目指します。コインやひよこやおまるなど、落ちているアイテムをできるだけたくさん拾って進みます。 ",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ARBJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000034500",
+  "uid": "50010000000089",
+  "name": "ラビッツ タイム・トラベル",
+  "formal_name": "ラビッツ タイム・トラベル",
+  "description": "洗濯機型のタイムマシーンで大昔へ向かったラビッツたち。先史時代、古代エジプト、古代ローマ帝国、中世ヨーロッパの4つの時代で、ラビッツたちが大･暴･れします!\n<br>\n<br>謎に満ちたカラフルで飛び出すステージの、ワナやトリックをジャンプでかわし、仕掛けを駆使して、ステージクリアを目指します。コインやひよこやおまるなど、落ちているアイテムをできるだけたくさん拾って進みます。 ",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ARBJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

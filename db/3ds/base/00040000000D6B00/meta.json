@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000D6B00",
-    "uid": "50010000017314",
-    "name": "Batman: Arkham Origins\nBlackgate",
-    "formal_name": "Batman: Arkham Origins Blackgate",
-    "description": "Become the Batman<br>\nUncover the sinister plots inside Blackgate Prison. Use stealth, Bat gadgets or brute force to take down your rivals.\n<br><br>\nInvestigate the Scene<br>\nEmploy Batman's unprecedented detective skills to scrub a crime scene clean with an all-new environment analysis system.\n<br><br>\nContinue the Story<br>\nSee what happens after the events of the Arkham Origins console game, told in an innovative 2D presentation and comic-style cut scenes.",
-    "release_date_on_eshop": "2013-10-25",
-    "product_code": "CTR-N-AZEE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D6B00",
+  "uid": "50010000017314",
+  "name": "Batman: Arkham Origins\nBlackgate",
+  "formal_name": "Batman: Arkham Origins Blackgate",
+  "description": "Become the Batman<br>\nUncover the sinister plots inside Blackgate Prison. Use stealth, Bat gadgets or brute force to take down your rivals.\n<br><br>\nInvestigate the Scene<br>\nEmploy Batman's unprecedented detective skills to scrub a crime scene clean with an all-new environment analysis system.\n<br><br>\nContinue the Story<br>\nSee what happens after the events of the Arkham Origins console game, told in an innovative 2D presentation and comic-style cut scenes.",
+  "release_date_on_eshop": "2013-10-25",
+  "product_code": "CTR-N-AZEE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

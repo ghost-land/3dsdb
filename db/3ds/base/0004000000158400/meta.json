@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000158400",
-    "uid": "50010000036515",
-    "name": "3D Gunstar Heroes",
-    "formal_name": "3D Gunstar Heroes",
-    "description": "Treasure’s visually stunning side scrolling shooter, Gunstar Heroes is now re-mastered in 3D! Take advantage of Gunslinger Mode by choosing between FREE and FIXED shot modes on the fly and cycling through all your weapons. However, firepower can only take you so far! Go the distance and make it to the long-awaited boss battles with double life with the new Mega Life Mode. Take on the enemies alone or with a friend using two-player co-op via Local Play and prevent the world from destruction. ",
-    "release_date_on_eshop": "2015-08-20",
-    "product_code": "CTR-N-KGHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Multiplayer",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000158400",
+  "uid": "50010000036515",
+  "name": "3D Gunstar Heroes",
+  "formal_name": "3D Gunstar Heroes",
+  "description": "Treasure’s visually stunning side scrolling shooter, Gunstar Heroes is now re-mastered in 3D! Take advantage of Gunslinger Mode by choosing between FREE and FIXED shot modes on the fly and cycling through all your weapons. However, firepower can only take you so far! Go the distance and make it to the long-awaited boss battles with double life with the new Mega Life Mode. Take on the enemies alone or with a friend using two-player co-op via Local Play and prevent the world from destruction. ",
+  "release_date_on_eshop": "2015-08-20",
+  "product_code": "CTR-N-KGHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Multiplayer",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000017C700",
-    "uid": "50010000039360",
-    "name": "Stella Glow",
-    "formal_name": "Stella Glow",
-    "description": "Bonus:\nDownload code for the theme\nStella Glow: “The Witches and Bubu”\nfor Nintendo 3DS.\n\nFor an entire millennium, the world\nhas been devoid of “song”. Only 5\nWitches left in the land are able to\nuse “song magic.” However, Hilda the\nWitch of Destruction plans to eliminate\nthe other Witches and the world with\nher curse. Alto and the Regnant\nKnights must now do all they can to\nstop Hilda, starting with recruiting the\nother Witches.",
-    "release_date_on_eshop": "2016-03-11",
-    "product_code": "CTR-P-BS3P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017C700",
+  "uid": "50010000039360",
+  "name": "Stella Glow",
+  "formal_name": "Stella Glow",
+  "description": "Bonus:\nDownload code for the theme\nStella Glow: “The Witches and Bubu”\nfor Nintendo 3DS.\n\nFor an entire millennium, the world\nhas been devoid of “song”. Only 5\nWitches left in the land are able to\nuse “song magic.” However, Hilda the\nWitch of Destruction plans to eliminate\nthe other Witches and the world with\nher curse. Alto and the Regnant\nKnights must now do all they can to\nstop Hilda, starting with recruiting the\nother Witches.",
+  "release_date_on_eshop": "2016-03-11",
+  "product_code": "CTR-P-BS3P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

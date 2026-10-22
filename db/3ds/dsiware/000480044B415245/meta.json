@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B415245",
-    "uid": "50010000001026",
-    "name": "AiRace",
-    "formal_name": "AiRace",
-    "description": "AiRace is a high-octane, adrenaline-fueled air, speed and stunt game for the Nintendo DS system. AiRace is not your typical handheld racing – it’s high-sky racing at its best. There are no limits to your flight with 360° movement and unique steering with the Nintendo DSi stylus. AiRace offers you a chance to control one of nine planes and compete against AI or human opponents in six exotic locations. With great physics, plane upgrades, on-the-track power-ups and unique maps AiRace offers a little bit more than your average racing. Now it’s time to leave your cars and switch to airplanes.",
-    "release_date_on_eshop": "2010-04-12",
-    "product_code": "TWL-N-KARE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415245",
+  "uid": "50010000001026",
+  "name": "AiRace",
+  "formal_name": "AiRace",
+  "description": "AiRace is a high-octane, adrenaline-fueled air, speed and stunt game for the Nintendo DS system. AiRace is not your typical handheld racing – it’s high-sky racing at its best. There are no limits to your flight with 360° movement and unique steering with the Nintendo DSi stylus. AiRace offers you a chance to control one of nine planes and compete against AI or human opponents in six exotic locations. With great physics, plane upgrades, on-the-track power-ups and unique maps AiRace offers a little bit more than your average racing. Now it’s time to leave your cars and switch to airplanes.",
+  "release_date_on_eshop": "2010-04-12",
+  "product_code": "TWL-N-KARE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

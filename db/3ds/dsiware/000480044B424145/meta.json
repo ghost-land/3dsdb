@@ -1,33 +1,33 @@
 {
-    "tid": "000480044B424145",
-    "uid": "50010000001161",
-    "name": "Battle of Giants™:\nDragons - Bronze Edition",
-    "formal_name": "Battle of Giants™:\nDragons - Bronze Edition",
-    "description": "As last of the noble and rare Bronze Dragons, you must defeat the evil SALMU dragons and reclaim the 25 exclusive bronze gems they stole. Explore 10 maps, travel through the great jungles of Earth, the scorched grounds of Fire, the frozen wastelands of Ice and the floating islands of Wind. Customize your dragon's appearance by changing its body, wings, tail shape, colors and even add stripes. Test your dragon's fighting skills against your friends in head-to-head combat or 4 player tournaments.",
-    "release_date_on_eshop": "2009-11-02",
-    "product_code": "TWL-N-KBAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Fighting",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B424145",
+  "uid": "50010000001161",
+  "name": "Battle of Giants™:\nDragons - Bronze Edition",
+  "formal_name": "Battle of Giants™:\nDragons - Bronze Edition",
+  "description": "As last of the noble and rare Bronze Dragons, you must defeat the evil SALMU dragons and reclaim the 25 exclusive bronze gems they stole. Explore 10 maps, travel through the great jungles of Earth, the scorched grounds of Fire, the frozen wastelands of Ice and the floating islands of Wind. Customize your dragon's appearance by changing its body, wings, tail shape, colors and even add stripes. Test your dragon's fighting skills against your friends in head-to-head combat or 4 player tournaments.",
+  "release_date_on_eshop": "2009-11-02",
+  "product_code": "TWL-N-KBAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fighting",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

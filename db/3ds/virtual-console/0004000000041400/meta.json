@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000041400",
-    "uid": "50010000007031",
-    "name": "Qix™",
-    "formal_name": "Qix™",
-    "description": "Your objective: to claim as much of the screen as possible. However, Qix will try to disrupt you at every turn--it will rotate, stretch, shorten, and change directions. It's sneaky, it's snaky, it's an unpredictable energy field!\n<br><br>\nQix will try to catch your diamond cursor before you can complete a box. Once the box is complete, you've taken over that part of the screen. But watch out for the moving Sparx and the Fuse! If they catch you, it'll be over in an instant!\n<br><br>\nTo complete a level, claim 75% or more of the screen. Each level will be more difficult than the last, with more enemies to dodge and challenge you!",
-    "release_date_on_eshop": "1990-05",
-    "product_code": "CTR-N-RAEE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000041400",
+  "uid": "50010000007031",
+  "name": "Qix™",
+  "formal_name": "Qix™",
+  "description": "Your objective: to claim as much of the screen as possible. However, Qix will try to disrupt you at every turn--it will rotate, stretch, shorten, and change directions. It's sneaky, it's snaky, it's an unpredictable energy field!\n<br><br>\nQix will try to catch your diamond cursor before you can complete a box. Once the box is complete, you've taken over that part of the screen. But watch out for the moving Sparx and the Fuse! If they catch you, it'll be over in an instant!\n<br><br>\nTo complete a level, claim 75% or more of the screen. Each level will be more difficult than the last, with more enemies to dodge and challenge you!",
+  "release_date_on_eshop": "1990-05",
+  "product_code": "CTR-N-RAEE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001BE100",
-    "uid": "50010000042826",
-    "name": "PICTLOGICA FINAL FANTASY ≒",
-    "formal_name": "PICTLOGICA FINAL FANTASY ≒",
-    "description": "タテとヨコの数字をヒントにマスをぬり、隠されたFFのイラストを完成させよう！ 問題数は全300問以上。\n<br>\n<br>さらに、イラストパズル問題を解いて敵とたたかう新感覚ターン性バトル「クエスト」も収録。パズルを解いて、魔法や召喚獣、さらにキャラクターごとに異なるスキルで敵を攻撃していこう！\n<br>\n<br>FFシリーズ歴代キャラクター160人の収集や育成、巨大パズルへの挑戦など、やり込み要素も盛りだくさんです！",
-    "release_date_on_eshop": "2017-07-12",
-    "product_code": "CTR-N-J3FJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "ロールプレイング"
-    ],
-    "features": [
-        "インターネット対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001BE100",
+  "uid": "50010000042826",
+  "name": "PICTLOGICA FINAL FANTASY ≒",
+  "formal_name": "PICTLOGICA FINAL FANTASY ≒",
+  "description": "タテとヨコの数字をヒントにマスをぬり、隠されたFFのイラストを完成させよう！ 問題数は全300問以上。\n<br>\n<br>さらに、イラストパズル問題を解いて敵とたたかう新感覚ターン性バトル「クエスト」も収録。パズルを解いて、魔法や召喚獣、さらにキャラクターごとに異なるスキルで敵を攻撃していこう！\n<br>\n<br>FFシリーズ歴代キャラクター160人の収集や育成、巨大パズルへの挑戦など、やり込み要素も盛りだくさんです！",
+  "release_date_on_eshop": "2017-07-12",
+  "product_code": "CTR-N-J3FJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "ロールプレイング"
+  ],
+  "features": [
+    "インターネット対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

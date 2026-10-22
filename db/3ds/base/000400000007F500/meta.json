@@ -1,35 +1,35 @@
 {
-    "tid": "000400000007F500",
-    "uid": "50010000014877",
-    "name": "URBAN TRIAL FREESTYLE™",
-    "formal_name": "URBAN TRIAL FREESTYLE™",
-    "description": "Deceptively deep and addictive\nZTGD.com\n<br/><br/>\nGenuinely engrossing experience\nDigitalChumps.com\n<br/><br/>\nTake to the streets on your freestyle\ntrials bike, using the urban landscape\nto pull spectacular tricks - backflips,\n360s, wallrides, ollies, and more.\n<br/><br/>\nCustomise your bike to boost your\nperformance. Choose between speed\nand style, developing your own unique\nriding style.\n<br/><br/>\nWith the level editor, you can create\nyour own trial tracks for endless hours\nof fun!",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-AT8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Action",
-        "Arcade",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007F500",
+  "uid": "50010000014877",
+  "name": "URBAN TRIAL FREESTYLE™",
+  "formal_name": "URBAN TRIAL FREESTYLE™",
+  "description": "Deceptively deep and addictive\nZTGD.com\n<br/><br/>\nGenuinely engrossing experience\nDigitalChumps.com\n<br/><br/>\nTake to the streets on your freestyle\ntrials bike, using the urban landscape\nto pull spectacular tricks - backflips,\n360s, wallrides, ollies, and more.\n<br/><br/>\nCustomise your bike to boost your\nperformance. Choose between speed\nand style, developing your own unique\nriding style.\n<br/><br/>\nWith the level editor, you can create\nyour own trial tracks for endless hours\nof fun!",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-AT8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Action",
+    "Arcade",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

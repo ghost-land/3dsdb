@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000A4300",
-    "uid": "50010000017956",
-    "name": "River City Ransom™",
-    "formal_name": "River City Ransom™",
-    "description": "River City Ransom takes place in River City where our heroes, Alex and Ryan, find a letter on Ryan’s locker from a guy named Slick. The letter says that Ryan’s girlfriend, Cyndi, has been kidnapped, and Slick has taken River City hostage with the help of countless gangs and evil bosses.\n<br><br>\nIt’s up to our heroes to save poor Cyndi and free River City from the clutches of Slick and his underlings. You can play as Alex and take on the challenge alone or battle as Alex and Ryan simultaneously in a two player Download Play game.\n<br><br>\nKick and punch to fight your way through gang members, evil bosses, and other goons. Or use a variety of weapons ranging from a chain whip, brass knuckles, and a tire, to name a few. Raise your stats by eating right, and gain new techniques by reading books. With your fighting prowess and never-ending spirit, the bad guys won’t know what hit them!",
-    "release_date_on_eshop": "2013-11-14",
-    "product_code": "CTR-N-TBHE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A4300",
+  "uid": "50010000017956",
+  "name": "River City Ransom™",
+  "formal_name": "River City Ransom™",
+  "description": "River City Ransom takes place in River City where our heroes, Alex and Ryan, find a letter on Ryan’s locker from a guy named Slick. The letter says that Ryan’s girlfriend, Cyndi, has been kidnapped, and Slick has taken River City hostage with the help of countless gangs and evil bosses.\n<br><br>\nIt’s up to our heroes to save poor Cyndi and free River City from the clutches of Slick and his underlings. You can play as Alex and take on the challenge alone or battle as Alex and Ryan simultaneously in a two player Download Play game.\n<br><br>\nKick and punch to fight your way through gang members, evil bosses, and other goons. Or use a variety of weapons ranging from a chain whip, brass knuckles, and a tire, to name a few. Raise your stats by eating right, and gain new techniques by reading books. With your fighting prowess and never-ending spirit, the bad guys won’t know what hit them!",
+  "release_date_on_eshop": "2013-11-14",
+  "product_code": "CTR-N-TBHE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

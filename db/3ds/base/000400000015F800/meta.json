@@ -1,27 +1,27 @@
 {
-    "tid": "000400000015F800",
-    "uid": "50010000037041",
-    "name": "ぼくらの学校戦争\n～痛快アドベンチャー～",
-    "formal_name": "ぼくらの学校戦争 ～痛快アドベンチャー～",
-    "description": "『ぼくらの七日間戦争』の続編『ぼくらの学校戦争』をゲーム化!\n<br>廃校を幽霊学校にする計画を立てた栄治たち中学生と、有季たち小学生グループ。\n<br>ところが、本物の死体を発見……!?　\n<br>凶悪犯があらわれて、ぼくらと悪い大人との大戦争がはじまります。",
-    "release_date_on_eshop": "2015-09-30",
-    "product_code": "CTR-N-KGKJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015F800",
+  "uid": "50010000037041",
+  "name": "ぼくらの学校戦争\n～痛快アドベンチャー～",
+  "formal_name": "ぼくらの学校戦争 ～痛快アドベンチャー～",
+  "description": "『ぼくらの七日間戦争』の続編『ぼくらの学校戦争』をゲーム化!\n<br>廃校を幽霊学校にする計画を立てた栄治たち中学生と、有季たち小学生グループ。\n<br>ところが、本物の死体を発見……!?　\n<br>凶悪犯があらわれて、ぼくらと悪い大人との大戦争がはじまります。",
+  "release_date_on_eshop": "2015-09-30",
+  "product_code": "CTR-N-KGKJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

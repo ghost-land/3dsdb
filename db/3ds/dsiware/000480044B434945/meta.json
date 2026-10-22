@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B434945",
-    "uid": "50010000001722",
-    "name": "Crazy Pinball",
-    "formal_name": "Crazy Pinball",
-    "description": "Fun and action just like at the arcade! Five fantastic tables and plenty of themes for awesome variety! Go hunting for points with the Safari Flipper, or zoom from one goal to the next with the incredible Deep Sea Flipper! Set records that will blow your friends away! Crazy Pinball: the ultimate in portable pinball!",
-    "release_date_on_eshop": "2010-09-13",
-    "product_code": "TWL-N-KCIE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B434945",
+  "uid": "50010000001722",
+  "name": "Crazy Pinball",
+  "formal_name": "Crazy Pinball",
+  "description": "Fun and action just like at the arcade! Five fantastic tables and plenty of themes for awesome variety! Go hunting for points with the Safari Flipper, or zoom from one goal to the next with the incredible Deep Sea Flipper! Set records that will blow your friends away! Crazy Pinball: the ultimate in portable pinball!",
+  "release_date_on_eshop": "2010-09-13",
+  "product_code": "TWL-N-KCIE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

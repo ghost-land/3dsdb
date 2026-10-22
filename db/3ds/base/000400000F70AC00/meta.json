@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70AC00",
-    "uid": "50010000042477",
-    "name": "DON'T CRASH GO",
-    "formal_name": "DON'T CRASH GO",
-    "description": "DON'T CRASH! This is the only rule of the game. Move left and right to change lanes, collect coins, and avoid a crash at all costs. Addictive and fun for everyone!",
-    "release_date_on_eshop": "2017-03-16",
-    "product_code": "KTR-N-CDGP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Racing",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70AC00",
+  "uid": "50010000042477",
+  "name": "DON'T CRASH GO",
+  "formal_name": "DON'T CRASH GO",
+  "description": "DON'T CRASH! This is the only rule of the game. Move left and right to change lanes, collect coins, and avoid a crash at all costs. Addictive and fun for everyone!",
+  "release_date_on_eshop": "2017-03-16",
+  "product_code": "KTR-N-CDGP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Racing",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B324756",
-    "uid": "50010000001403",
-    "name": "DodoGo!",
-    "formal_name": "DodoGo!",
-    "description": "Adventure in the time of the\ndinosaurs. Save as many Dodo eggs\nas possible by leading them to safety.<br>\n<br>\nGet creative with easy tools: build\ndynamic structures and modify the\nterrain with a simple touch of the\nstylus. Shape, brush, saw, dig and\neven use explosives!<br>\n<br>\nNearly 100 captivating missions, with\nbonus levels for a change of pace,\nand lots of surprises to discover!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K2GV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324756",
+  "uid": "50010000001403",
+  "name": "DodoGo!",
+  "formal_name": "DodoGo!",
+  "description": "Adventure in the time of the\ndinosaurs. Save as many Dodo eggs\nas possible by leading them to safety.<br>\n<br>\nGet creative with easy tools: build\ndynamic structures and modify the\nterrain with a simple touch of the\nstylus. Shape, brush, saw, dig and\neven use explosives!<br>\n<br>\nNearly 100 captivating missions, with\nbonus levels for a change of pace,\nand lots of surprises to discover!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K2GV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

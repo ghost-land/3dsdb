@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000187300",
-    "uid": "50010000043215",
-    "name": "Worcle Worlds",
-    "formal_name": "Worcle Worlds",
-    "description": "Worcle - short for \"Words in a Circle\" - is a new puzzle game from Lightwood Games.\n<br>Shoot balls into the circle to make words. Create words of three or more letters to clear the balls but watch out for the swirling vortex! Don't let the circle fill up or you'll get sucked in and it's game over.\n<br>Clear the circle completely for bonus points or create cascades of words for high scoring multipliers.\n<br>Journey through 10 unique game worlds, each with their own rules and letter mixes.\n<br>Take on a friend in the brand new Battle Mode, using Local Play or Online Play.\n<br>Compete in online leaderboards that not only track your best score, but also your best words!",
-    "release_date_on_eshop": "2017-10-26",
-    "product_code": "CTR-N-KWLP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000187300",
+  "uid": "50010000043215",
+  "name": "Worcle Worlds",
+  "formal_name": "Worcle Worlds",
+  "description": "Worcle - short for \"Words in a Circle\" - is a new puzzle game from Lightwood Games.\n<br>Shoot balls into the circle to make words. Create words of three or more letters to clear the balls but watch out for the swirling vortex! Don't let the circle fill up or you'll get sucked in and it's game over.\n<br>Clear the circle completely for bonus points or create cascades of words for high scoring multipliers.\n<br>Journey through 10 unique game worlds, each with their own rules and letter mixes.\n<br>Take on a friend in the brand new Battle Mode, using Local Play or Online Play.\n<br>Compete in online leaderboards that not only track your best score, but also your best words!",
+  "release_date_on_eshop": "2017-10-26",
+  "product_code": "CTR-N-KWLP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

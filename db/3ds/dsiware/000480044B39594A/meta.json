@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B39594A",
-    "uid": "50010000008034",
-    "name": "peakvox ルートキャンドル i",
-    "formal_name": "peakvox ルートキャンドル i",
-    "description": "炎のチャカくんをゆうどうして、キャンドルに火をつけていく簡単パズルゲームです。クレヨンで描かれた温かみのあるステージと、少しだけ頭をひねらせる仕掛けが盛りだくさん。ヒント機能もあるので、パズルが得意でない方も気軽に楽しむことができます。",
-    "release_date_on_eshop": "2011-12-14",
-    "product_code": "TWL-N-K9YJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "シミュレーション",
-        "テーブル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B39594A",
+  "uid": "50010000008034",
+  "name": "peakvox ルートキャンドル i",
+  "formal_name": "peakvox ルートキャンドル i",
+  "description": "炎のチャカくんをゆうどうして、キャンドルに火をつけていく簡単パズルゲームです。クレヨンで描かれた温かみのあるステージと、少しだけ頭をひねらせる仕掛けが盛りだくさん。ヒント機能もあるので、パズルが得意でない方も気軽に楽しむことができます。",
+  "release_date_on_eshop": "2011-12-14",
+  "product_code": "TWL-N-K9YJ",
+  "platform_name": "ニンテンドーDSiウェア",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "シミュレーション",
+    "テーブル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

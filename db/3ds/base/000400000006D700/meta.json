@@ -1,34 +1,34 @@
 {
-    "tid": "000400000006D700",
-    "uid": "50010000007745",
-    "name": "Pets Resort 3D",
-    "formal_name": "Pets Resort 3D",
-    "description": "A whole host of cute cats and dogs are waiting to sample your comprehensive wellness and care programme! Thanks to the impressive\n<br>3D effect and the lovingly crafted animations, the animals get up really close and appear as life-like as never before.\n<br>\n<br>- 4 different breeds of each animal await you: Golden Retriever, Husky, Dalmatian and German Shepherd, Siamese, British Short Hair, Tabby and Maine Coon. \n<br>\n<br>- Enjoy 14 mini-games: Spoil your animal guests with beneficial massages, romp and play with them playing fetch + Grooming, Exercising, Bathing, Pedicure, Swimming, Flea Treatments and more!\n<br>\n<br>- Extend your island: Lots of expandable buildings, such as the salon, animal clinic and fitness centre\n<br>\n<br>- StreetPass™: Swap numerous accessories and statistics with other players close by!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-AP3P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006D700",
+  "uid": "50010000007745",
+  "name": "Pets Resort 3D",
+  "formal_name": "Pets Resort 3D",
+  "description": "A whole host of cute cats and dogs are waiting to sample your comprehensive wellness and care programme! Thanks to the impressive\n<br>3D effect and the lovingly crafted animations, the animals get up really close and appear as life-like as never before.\n<br>\n<br>- 4 different breeds of each animal await you: Golden Retriever, Husky, Dalmatian and German Shepherd, Siamese, British Short Hair, Tabby and Maine Coon. \n<br>\n<br>- Enjoy 14 mini-games: Spoil your animal guests with beneficial massages, romp and play with them playing fetch + Grooming, Exercising, Bathing, Pedicure, Swimming, Flea Treatments and more!\n<br>\n<br>- Extend your island: Lots of expandable buildings, such as the salon, animal clinic and fitness centre\n<br>\n<br>- StreetPass™: Swap numerous accessories and statistics with other players close by!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-AP3P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

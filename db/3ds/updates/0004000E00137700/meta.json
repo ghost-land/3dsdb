@@ -1,33 +1,33 @@
 {
-    "tid": "0004000E00137700",
-    "uid": "50010000038955",
-    "name": "Puzzle & Dragons Z +\nSuper Mario Bros. Edition 2.0",
-    "formal_name": "Puzzle & Dragons Z +\nSuper Mario Bros. Edition Update Ver. 2.0",
-    "description": "This is an update for the Puzzle & Dragons Z + Super Mario Bros. Edition game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Puzzle & Dragons Z + Super Mario Bros. Edition.\n<br><br>\nNew Leaders: Unlock new Mario and Luigi Leaders by earning certain rankings in Score Attack for both Fixed and Free Challenges! These new Leaders include Metal Mario, Boomerang Luigi, Double Mario, Rock Luigi, and Gold Mario.\n<br><br>\nFree & Fixed Challenges: In Score Attack, experience 5 new Free Challenges where players can hand pick their team from their own Allies. And 5 updated Fixed Challenges give players a preset team to use.\n<br><br>\nWorld Rankings: In Score Attack, choose to upload your high score to compete against others from all over the world. Online leaderboards let you compare your scores in All-Time and Monthly rankings.\n",
-    "release_date_on_eshop": "2015-12-24",
-    "product_code": "CTR-U-AZGE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E00137700",
+  "uid": "50010000038955",
+  "name": "Puzzle & Dragons Z +\nSuper Mario Bros. Edition 2.0",
+  "formal_name": "Puzzle & Dragons Z +\nSuper Mario Bros. Edition Update Ver. 2.0",
+  "description": "This is an update for the Puzzle & Dragons Z + Super Mario Bros. Edition game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Puzzle & Dragons Z + Super Mario Bros. Edition.\n<br><br>\nNew Leaders: Unlock new Mario and Luigi Leaders by earning certain rankings in Score Attack for both Fixed and Free Challenges! These new Leaders include Metal Mario, Boomerang Luigi, Double Mario, Rock Luigi, and Gold Mario.\n<br><br>\nFree & Fixed Challenges: In Score Attack, experience 5 new Free Challenges where players can hand pick their team from their own Allies. And 5 updated Fixed Challenges give players a preset team to use.\n<br><br>\nWorld Rankings: In Score Attack, choose to upload your high score to compete against others from all over the world. Online leaderboards let you compare your scores in All-Time and Monthly rankings.\n",
+  "release_date_on_eshop": "2015-12-24",
+  "product_code": "CTR-U-AZGE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

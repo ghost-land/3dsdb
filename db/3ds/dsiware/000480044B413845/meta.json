@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B413845",
-    "uid": "50010000000983",
-    "name": "Absolute Reversi",
-    "formal_name": "Absolute Reversi",
-    "description": "This reversi game is for all players at any level! Absolute Reversi takes the classic strategy game and updates it for the 21st century with three modes of play. Free Play mode lets you select one of eight characters with different abilities to play against. In Challenge mode, you are given missions to complete to advance in the game. With the third mode, you can play against a friend in DS Download Play. Additional features include a strategy guide, different ability levels, and the “Assistance” function, which highlights all possible moves per turn.",
-    "release_date_on_eshop": "2010-08-23",
-    "product_code": "TWL-N-KA8E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B413845",
+  "uid": "50010000000983",
+  "name": "Absolute Reversi",
+  "formal_name": "Absolute Reversi",
+  "description": "This reversi game is for all players at any level! Absolute Reversi takes the classic strategy game and updates it for the 21st century with three modes of play. Free Play mode lets you select one of eight characters with different abilities to play against. In Challenge mode, you are given missions to complete to advance in the game. With the third mode, you can play against a friend in DS Download Play. Additional features include a strategy guide, different ability levels, and the “Assistance” function, which highlights all possible moves per turn.",
+  "release_date_on_eshop": "2010-08-23",
+  "product_code": "TWL-N-KA8E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

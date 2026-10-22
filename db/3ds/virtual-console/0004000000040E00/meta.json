@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000040E00",
-    "uid": "50010000006803",
-    "name": "Alleyway™",
-    "formal_name": "Alleyway™",
-    "description": "Your spaceship is at the gate of the Alleyway™.\n<br><br>\nAs Mario™, you will need to use your vessel to deflect the energy ball towards oncoming space grids. Hitting the grids will either weaken or destroy them, and you'll need to keep returning shots until the entire field is cleared! \n<br><br>\nAs you progress through each level, you will confront new challenges of alternating stages, bonus rounds, and more. Speed and agile reflexes will quickly become your strongest allies as you reach to beat the top score!\n<br><br>\nYou're in command in the Alleyway!",
-    "release_date_on_eshop": "1989-08",
-    "product_code": "CTR-N-RACE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000040E00",
+  "uid": "50010000006803",
+  "name": "Alleyway™",
+  "formal_name": "Alleyway™",
+  "description": "Your spaceship is at the gate of the Alleyway™.\n<br><br>\nAs Mario™, you will need to use your vessel to deflect the energy ball towards oncoming space grids. Hitting the grids will either weaken or destroy them, and you'll need to keep returning shots until the entire field is cleared! \n<br><br>\nAs you progress through each level, you will confront new challenges of alternating stages, bonus rounds, and more. Speed and agile reflexes will quickly become your strongest allies as you reach to beat the top score!\n<br><br>\nYou're in command in the Alleyway!",
+  "release_date_on_eshop": "1989-08",
+  "product_code": "CTR-N-RACE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

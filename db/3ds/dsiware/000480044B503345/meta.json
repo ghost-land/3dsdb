@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B503345",
-    "uid": "50010000003293",
-    "name": "Petz® Hamsterz® Family",
-    "formal_name": "Petz® Hamsterz® Family",
-    "description": "Adopt your very own family of hamsters! Care for them, teach them fun tricks, and unlock new toys and accessories to give them lots of love!\n\n• Care for your hamsters by feeding them, playing with them, and keeping them clean and warm.\n• Discover your hamsters’ unique personalities—watch them react to you with cute and funny facial expressions!\n• Teach your hamsters fun activities like bowling or running on ramps and watch their progress.\n• Earn coins you can spend at the store to unlock new toys and accessories for your loveable hamsters.",
-    "release_date_on_eshop": "2010-07-26",
-    "product_code": "TWL-N-KP3E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503345",
+  "uid": "50010000003293",
+  "name": "Petz® Hamsterz® Family",
+  "formal_name": "Petz® Hamsterz® Family",
+  "description": "Adopt your very own family of hamsters! Care for them, teach them fun tricks, and unlock new toys and accessories to give them lots of love!\n\n• Care for your hamsters by feeding them, playing with them, and keeping them clean and warm.\n• Discover your hamsters’ unique personalities—watch them react to you with cute and funny facial expressions!\n• Teach your hamsters fun activities like bowling or running on ramps and watch their progress.\n• Earn coins you can spend at the store to unlock new toys and accessories for your loveable hamsters.",
+  "release_date_on_eshop": "2010-07-26",
+  "product_code": "TWL-N-KP3E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

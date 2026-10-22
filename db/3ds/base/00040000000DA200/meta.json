@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000DA200",
-    "uid": "50010000014872",
-    "name": "BUGS vs. TANKS!™ ",
-    "formal_name": "BUGS vs. TANKS!™ ",
-    "description": "From Keiji Inafune, creator of the\nMEGA MAN series and many other hit\ntitles, BUGS vs. TANKS! is a new take\non the survival action genre.\n<br/><br/>\nWhen a panzer squad from the\nbattlefields of World War II is shrunk\nto the size of a bug, they find\nthemselves engaged in intense battles\nwith the insects as they fight to return\nto normal size.\n<br/><br/>\nFeaturing over 30 World War II\nchassis and turrets pulled straight\nfrom the history books, you'll build up\nyour tank ordnance and customize it\nwith over 80 types of paint and\nstyles.\n<br/><br/>\nEngage with up to four friends in\nCO-OP missions via local wireless play\nthat put you in challenging fights\nagainst giant bugs that will live up to\nyour nightmares. (max 4 players). You\ncan also call on their tanks for\nfriendly cover fire via StreetPass™!\n<br/><br/>\nFight your war across terrains from\ngrassy fields to murky swamps,\nchoosing your difficulty and firing\nstyle for maximum accessibility.",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-N-JS4P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DA200",
+  "uid": "50010000014872",
+  "name": "BUGS vs. TANKS!™ ",
+  "formal_name": "BUGS vs. TANKS!™ ",
+  "description": "From Keiji Inafune, creator of the\nMEGA MAN series and many other hit\ntitles, BUGS vs. TANKS! is a new take\non the survival action genre.\n<br/><br/>\nWhen a panzer squad from the\nbattlefields of World War II is shrunk\nto the size of a bug, they find\nthemselves engaged in intense battles\nwith the insects as they fight to return\nto normal size.\n<br/><br/>\nFeaturing over 30 World War II\nchassis and turrets pulled straight\nfrom the history books, you'll build up\nyour tank ordnance and customize it\nwith over 80 types of paint and\nstyles.\n<br/><br/>\nEngage with up to four friends in\nCO-OP missions via local wireless play\nthat put you in challenging fights\nagainst giant bugs that will live up to\nyour nightmares. (max 4 players). You\ncan also call on their tanks for\nfriendly cover fire via StreetPass™!\n<br/><br/>\nFight your war across terrains from\ngrassy fields to murky swamps,\nchoosing your difficulty and firing\nstyle for maximum accessibility.",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-N-JS4P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

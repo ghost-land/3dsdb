@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B415545",
-    "uid": "50010000001081",
-    "name": "Nintendo Countdown Calendar",
-    "formal_name": "Nintendo Countdown Calendar",
-    "description": "With Nintendo Countdown Calendar, you can add and track all of your important events in a fun and exciting countdown format. Simply set up your personal profile and then start entering events!\n\nAdding events is easy: choose a date for the event, decide whether it will be an open event (which you name yourself) or a set event (chosen from the School, Work, or General Events categories), and select an icon from the wide variety of available options. If needed, set the recurrence of the event or even move the event to the Hidden Events List. From there, the calendar does the rest and you just watch the days count down!\n\nOn subsequent visits to the application, you may see special greetings or suggested seasonal events you can choose to add to your calendar countdowns. All events added to the calendar are displayed chronologically, so you can quickly view all of your upcoming events in one place.",
-    "release_date_on_eshop": "2010-09-20",
-    "product_code": "TWL-N-KAUE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B415545",
+  "uid": "50010000001081",
+  "name": "Nintendo Countdown Calendar",
+  "formal_name": "Nintendo Countdown Calendar",
+  "description": "With Nintendo Countdown Calendar, you can add and track all of your important events in a fun and exciting countdown format. Simply set up your personal profile and then start entering events!\n\nAdding events is easy: choose a date for the event, decide whether it will be an open event (which you name yourself) or a set event (chosen from the School, Work, or General Events categories), and select an icon from the wide variety of available options. If needed, set the recurrence of the event or even move the event to the Hidden Events List. From there, the calendar does the rest and you just watch the days count down!\n\nOn subsequent visits to the application, you may see special greetings or suggested seasonal events you can choose to add to your calendar countdowns. All events added to the calendar are displayed chronologically, so you can quickly view all of your upcoming events in one place.",
+  "release_date_on_eshop": "2010-09-20",
+  "product_code": "TWL-N-KAUE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B344550",
-    "uid": "50010000015662",
-    "name": "Treasure Hunter X",
-    "formal_name": "Treasure Hunter X",
-    "description": "Many untouched caverns still exist in\nthe world, waiting for the one brave\nenough to explore them. Within them\nlie vast troves of treasure and rare\nartifacts.\n<br/><br/>\nBecome Tyrol the treasure hunter,\ncollect treasures and escape from the\ncaverns. Be warned though, there are\ncreatures lurking in the depths of the\ncaverns and the element of nature is\nagainst you. Use your pickaxe wisely\nso you do not get yourself trapped\nand lost forever within the darkness of\nthe caverns.\n<br/><br/>\nCan Tyrol collect enough treasure in\norder to win the heart of the woman\nhe loves?\n<br/><br/>\nFeatures:\n<br/><br/>\n- Explore various caverns.\n<br/><br/>\n- Use items to assist your\nexploration.\n<br/><br/>\n- Encounter a variety of monsters\nand creatures.\n<br/><br/>\n- Collect rare and priceless\nartefacts.",
-    "release_date_on_eshop": "2013-08-29",
-    "product_code": "TWL-N-K4EP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B344550",
+  "uid": "50010000015662",
+  "name": "Treasure Hunter X",
+  "formal_name": "Treasure Hunter X",
+  "description": "Many untouched caverns still exist in\nthe world, waiting for the one brave\nenough to explore them. Within them\nlie vast troves of treasure and rare\nartifacts.\n<br/><br/>\nBecome Tyrol the treasure hunter,\ncollect treasures and escape from the\ncaverns. Be warned though, there are\ncreatures lurking in the depths of the\ncaverns and the element of nature is\nagainst you. Use your pickaxe wisely\nso you do not get yourself trapped\nand lost forever within the darkness of\nthe caverns.\n<br/><br/>\nCan Tyrol collect enough treasure in\norder to win the heart of the woman\nhe loves?\n<br/><br/>\nFeatures:\n<br/><br/>\n- Explore various caverns.\n<br/><br/>\n- Use items to assist your\nexploration.\n<br/><br/>\n- Encounter a variety of monsters\nand creatures.\n<br/><br/>\n- Collect rare and priceless\nartefacts.",
+  "release_date_on_eshop": "2013-08-29",
+  "product_code": "TWL-N-K4EP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

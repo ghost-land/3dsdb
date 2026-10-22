@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B373345",
-    "uid": "50010000027016",
-    "name": "Magical Diary: Secrets Sharing",
-    "formal_name": "Magical Diary: Secrets Sharing",
-    "description": "Write your Diary with this amazing software for Nintendo DSi and Nintendo 3DS!\n<br><br>\nUse the amazing Magical spells to add life to your pages!\nOnce you selected a word or a sentence, you can apply a funny, sad or other animation that will show up when the text is touched. Easy way to express your feelings!\nAnd there is more!\nMany stickers to decorate the pages, various paper designs for the layout, different font colors, customizable covers, emoji, etcâ€¦\nA mysterious Capsule Machine is also present!\nAfter writing in your Diary, you receive tickets and can use them with the Capsule Machine in order to unlock new items to decorate your pages.\nExchange Diaries with friends with the Wireless Communications!",
-    "release_date_on_eshop": "2014-10-23",
-    "product_code": "TWL-N-K73E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B373345",
+  "uid": "50010000027016",
+  "name": "Magical Diary: Secrets Sharing",
+  "formal_name": "Magical Diary: Secrets Sharing",
+  "description": "Write your Diary with this amazing software for Nintendo DSi and Nintendo 3DS!\n<br><br>\nUse the amazing Magical spells to add life to your pages!\nOnce you selected a word or a sentence, you can apply a funny, sad or other animation that will show up when the text is touched. Easy way to express your feelings!\nAnd there is more!\nMany stickers to decorate the pages, various paper designs for the layout, different font colors, customizable covers, emoji, etcâ€¦\nA mysterious Capsule Machine is also present!\nAfter writing in your Diary, you receive tickets and can use them with the Capsule Machine in order to unlock new items to decorate your pages.\nExchange Diaries with friends with the Wireless Communications!",
+  "release_date_on_eshop": "2014-10-23",
+  "product_code": "TWL-N-K73E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

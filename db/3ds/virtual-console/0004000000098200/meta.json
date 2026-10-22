@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000098200",
-    "uid": "50010000010550",
-    "name": "IN THE WAKE OF VAMPIRE",
-    "formal_name": "IN THE WAKE OF VAMPIRE",
-    "description": "このソフトは、1992年に発売されたゲームギア用のアクションゲームです。\n19世紀のロンドンを舞台に、連続殺人事件の影に潜む吸血鬼の謎をさぐるため、若き学者フェルディナンドの冒険が始まります。襲い来る怪物たちを相手にナイフやサーベルの通常武器と、ピストルなどの特殊武器の2種類を駆使して戦います。",
-    "release_date_on_eshop": "2012-06-27",
-    "product_code": "CTR-N-GAQJ",
-    "platform_name": "ゲームギア",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000098200",
+  "uid": "50010000010550",
+  "name": "IN THE WAKE OF VAMPIRE",
+  "formal_name": "IN THE WAKE OF VAMPIRE",
+  "description": "このソフトは、1992年に発売されたゲームギア用のアクションゲームです。\n19世紀のロンドンを舞台に、連続殺人事件の影に潜む吸血鬼の謎をさぐるため、若き学者フェルディナンドの冒険が始まります。襲い来る怪物たちを相手にナイフやサーベルの通常武器と、ピストルなどの特殊武器の2種類を駆使して戦います。",
+  "release_date_on_eshop": "2012-06-27",
+  "product_code": "CTR-N-GAQJ",
+  "platform_name": "ゲームギア",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

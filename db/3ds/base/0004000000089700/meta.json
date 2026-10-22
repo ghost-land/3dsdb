@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000089700",
-    "uid": "50010000010026",
-    "name": "パチパラ3D 大海物語2",
-    "formal_name": "パチパラ3D 大海物語2\n～パチプロ風雲録･花\n希望と裏切りの学園生活～",
-    "description": "『CR大海物語2』を持ち玉や時間を気にせずとことん楽しめる!\n<br>\n<br>ストーリーモード「パチプロ風雲録」が5年ぶりに復活!\n<br>パチプロを夢見るヒロインのコーチとなって、パチプロへの過酷な道をともに目指そう!\n<br>\n<br>「アイレム名作コレクションVol.1」では、『R-TYPE』や『大工の源さん』などが遊べる!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AU3J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "テーブル"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000089700",
+  "uid": "50010000010026",
+  "name": "パチパラ3D 大海物語2",
+  "formal_name": "パチパラ3D 大海物語2\n～パチプロ風雲録･花\n希望と裏切りの学園生活～",
+  "description": "『CR大海物語2』を持ち玉や時間を気にせずとことん楽しめる!\n<br>\n<br>ストーリーモード「パチプロ風雲録」が5年ぶりに復活!\n<br>パチプロを夢見るヒロインのコーチとなって、パチプロへの過酷な道をともに目指そう!\n<br>\n<br>「アイレム名作コレクションVol.1」では、『R-TYPE』や『大工の源さん』などが遊べる!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AU3J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "テーブル"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

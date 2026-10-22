@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B524845",
-    "uid": "50010000003384",
-    "name": "Music on: Retro Keyboard",
-    "formal_name": "Music on: Retro Keyboard",
-    "description": "Turn your Nintendo DSi system into a full electronic keyboard with a carefully chosen selection of sounds and rhythms from the mythic computers and consoles of the 80s. Perfect for retro-lovers! If you are already an expert or if you are taking your first steps, Retro Keyboard will help you capture your inspiration wherever you are.\n\nCharacteristics:\n*Interface inspired by the 80s\n*Selection of keyboard, console and computer sounds from the 80s\n*Rhythms inspired by the first generation videogames\n\nAnd also featuring:\n*Automatic accompaniment function with chord recognition\n*Up to 8 user definable chords\n*5 different styles, each one with 4 variations\n*Independent drum, bass and chorus parts\n*6 octave keyboard (2 visible)\n*Pitch bend function\n*16 instruments\n*Integrated sequencer\n*Metronome\n*Recording and replay option",
-    "release_date_on_eshop": "2010-07-12",
-    "product_code": "TWL-N-KRHE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524845",
+  "uid": "50010000003384",
+  "name": "Music on: Retro Keyboard",
+  "formal_name": "Music on: Retro Keyboard",
+  "description": "Turn your Nintendo DSi system into a full electronic keyboard with a carefully chosen selection of sounds and rhythms from the mythic computers and consoles of the 80s. Perfect for retro-lovers! If you are already an expert or if you are taking your first steps, Retro Keyboard will help you capture your inspiration wherever you are.\n\nCharacteristics:\n*Interface inspired by the 80s\n*Selection of keyboard, console and computer sounds from the 80s\n*Rhythms inspired by the first generation videogames\n\nAnd also featuring:\n*Automatic accompaniment function with chord recognition\n*Up to 8 user definable chords\n*5 different styles, each one with 4 variations\n*Independent drum, bass and chorus parts\n*6 octave keyboard (2 visible)\n*Pitch bend function\n*16 instruments\n*Integrated sequencer\n*Metronome\n*Recording and replay option",
+  "release_date_on_eshop": "2010-07-12",
+  "product_code": "TWL-N-KRHE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

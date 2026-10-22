@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000070000",
-    "uid": "50010000007273",
-    "name": "Donkey Kong Jr.™",
-    "formal_name": "Donkey Kong Jr.™",
-    "description": "Original Release Date: June 1986\n\nBased on the popular arcade game, Donkey Kong Jr. is the sequel to the immensely successful Donkey Kong™. Play as Donkey Kong's son, and rescue your dad who has been kidnapped and imprisoned in a cage by Mario™. Use your jumping and climbing abilities to clamber up vines and chains, gather vital fruit and keys, and open the cage to free your father. Make sure you avoid the pesky birds, nasty electric sparks, and creepy chompers! Four different worlds filled with numerous climbing and jumping puzzles await you in this timeless classic.",
-    "release_date_on_eshop": "2012-06-14",
-    "product_code": "CTR-N-TAKE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000070000",
+  "uid": "50010000007273",
+  "name": "Donkey Kong Jr.™",
+  "formal_name": "Donkey Kong Jr.™",
+  "description": "Original Release Date: June 1986\n\nBased on the popular arcade game, Donkey Kong Jr. is the sequel to the immensely successful Donkey Kong™. Play as Donkey Kong's son, and rescue your dad who has been kidnapped and imprisoned in a cage by Mario™. Use your jumping and climbing abilities to clamber up vines and chains, gather vital fruit and keys, and open the cage to free your father. Make sure you avoid the pesky birds, nasty electric sparks, and creepy chompers! Four different worlds filled with numerous climbing and jumping puzzles await you in this timeless classic.",
+  "release_date_on_eshop": "2012-06-14",
+  "product_code": "CTR-N-TAKE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

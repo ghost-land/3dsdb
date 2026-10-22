@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000067300",
-    "uid": "50010000008841",
-    "name": "Balloon Kid™",
-    "formal_name": "Balloon Kid™",
-    "description": "Take to the skies on a trip through a\nland filled with danger, with nothing\nbut balloons to keep you afloat!<br>\n<br>\nWhen her brother is swept away on\nthe wind, Alice must save him by\nfloating through eight perilous stages.\nNavigate your way through enemies\nand obstacles, collect balloons to\nearn bonuses, or let go of your\nballoons to face enemies on the\nground.<br>\n<br>\nAlso, in Balloon Trip mode, negotiate\nincreasingly tricky levels to earn a\nhigh score and move up the ranks.\nWill you rise to the challenge?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBEP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000067300",
+  "uid": "50010000008841",
+  "name": "Balloon Kid™",
+  "formal_name": "Balloon Kid™",
+  "description": "Take to the skies on a trip through a\nland filled with danger, with nothing\nbut balloons to keep you afloat!<br>\n<br>\nWhen her brother is swept away on\nthe wind, Alice must save him by\nfloating through eight perilous stages.\nNavigate your way through enemies\nand obstacles, collect balloons to\nearn bonuses, or let go of your\nballoons to face enemies on the\nground.<br>\n<br>\nAlso, in Balloon Trip mode, negotiate\nincreasingly tricky levels to earn a\nhigh score and move up the ranks.\nWill you rise to the challenge?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBEP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

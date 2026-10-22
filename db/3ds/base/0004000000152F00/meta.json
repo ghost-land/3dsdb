@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000152F00",
-    "uid": "50010000026896",
-    "name": "ピンポントリックショット",
-    "formal_name": "ピンポントリックショット",
-    "description": "トリックショットとはかっこよくボールをカップに入れること。\n<br>何度も、壁をはねながら入れるなんて難しい、成功すれば気持ちいい、それを手軽に感じられるようにしたものがこの『ピンポントリックショット』です。",
-    "release_date_on_eshop": "2014-11-05",
-    "product_code": "CTR-N-KP9J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000152F00",
+  "uid": "50010000026896",
+  "name": "ピンポントリックショット",
+  "formal_name": "ピンポントリックショット",
+  "description": "トリックショットとはかっこよくボールをカップに入れること。\n<br>何度も、壁をはねながら入れるなんて難しい、成功すれば気持ちいい、それを手軽に感じられるようにしたものがこの『ピンポントリックショット』です。",
+  "release_date_on_eshop": "2014-11-05",
+  "product_code": "CTR-N-KP9J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

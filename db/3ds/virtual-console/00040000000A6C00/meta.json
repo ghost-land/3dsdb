@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000A6C00",
-    "uid": "50010000019513",
-    "name": "Ninja Gaiden III:\nThe Ancient Ship of Doom",
-    "formal_name": "Ninja Gaiden III:\nThe Ancient Ship of Doom",
-    "description": "The original NES™ adventures of Ryu\nHayabusa conclude with Ninja Gaiden\nIII: The Ancient Ship of Doom. Falsely\naccused of murder, Ryu must battle\nthrough seven action-packed stages\nto clear his name.\n<br/><br/>\nArmed with his trusty sword and ninja\npower, Ryu can now grab platforms\nand pipes to perform swift attacks on\nenemies from above or below. You’ll\nneed all of Ryu’s skills at your\ndisposal to defeat the forces of evil\nand uncover the true culprit.",
-    "release_date_on_eshop": "2014-01-23",
-    "product_code": "CTR-N-TBRP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A6C00",
+  "uid": "50010000019513",
+  "name": "Ninja Gaiden III:\nThe Ancient Ship of Doom",
+  "formal_name": "Ninja Gaiden III:\nThe Ancient Ship of Doom",
+  "description": "The original NES™ adventures of Ryu\nHayabusa conclude with Ninja Gaiden\nIII: The Ancient Ship of Doom. Falsely\naccused of murder, Ryu must battle\nthrough seven action-packed stages\nto clear his name.\n<br/><br/>\nArmed with his trusty sword and ninja\npower, Ryu can now grab platforms\nand pipes to perform swift attacks on\nenemies from above or below. You’ll\nneed all of Ryu’s skills at your\ndisposal to defeat the forces of evil\nand uncover the true culprit.",
+  "release_date_on_eshop": "2014-01-23",
+  "product_code": "CTR-N-TBRP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

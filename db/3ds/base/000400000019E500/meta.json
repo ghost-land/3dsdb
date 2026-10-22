@@ -1,31 +1,31 @@
 {
-    "tid": "000400000019E500",
-    "uid": "50010000041330",
-    "name": "Blasting Agent: Ultimate Edition",
-    "formal_name": "Blasting Agent: Ultimate Edition",
-    "description": "Trouble in Antarctica!\n<br>\n<br>The Black Hand of Fate, an international Terrorist Group, has constructed a secret base within the heart of a Volcano, and has built a massive army of bio-engineered soldiers and genetic monsters to take over the world! You are the only one that can put a stop to their dastardly plans. You are the Blasting Agent!\n<br>\n<br>Featuring\n<br>- Classic jump-and-shoot gameplay\n<br>- A variety of levels, enemies, and secrets\n<br>- Challenging and unique boss fights\n<br>- Collectible upgrades and power-ups\n<br>- Unlockable Boss Rush mode\n<br>- Unlockable Hard Mode with costume rewards\n<br>- Unlockable second playable character!\n<br>- Fight with guns or martial arts! Choose your way!",
-    "release_date_on_eshop": "2016-08-18",
-    "product_code": "CTR-N-KBJP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "German",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019E500",
+  "uid": "50010000041330",
+  "name": "Blasting Agent: Ultimate Edition",
+  "formal_name": "Blasting Agent: Ultimate Edition",
+  "description": "Trouble in Antarctica!\n<br>\n<br>The Black Hand of Fate, an international Terrorist Group, has constructed a secret base within the heart of a Volcano, and has built a massive army of bio-engineered soldiers and genetic monsters to take over the world! You are the only one that can put a stop to their dastardly plans. You are the Blasting Agent!\n<br>\n<br>Featuring\n<br>- Classic jump-and-shoot gameplay\n<br>- A variety of levels, enemies, and secrets\n<br>- Challenging and unique boss fights\n<br>- Collectible upgrades and power-ups\n<br>- Unlockable Boss Rush mode\n<br>- Unlockable Hard Mode with costume rewards\n<br>- Unlockable second playable character!\n<br>- Fight with guns or martial arts! Choose your way!",
+  "release_date_on_eshop": "2016-08-18",
+  "product_code": "CTR-N-KBJP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es",
+    "de",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

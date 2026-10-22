@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B343350",
-    "uid": "50010000014615",
-    "name": "Jewel Quest 4 Heritage",
-    "formal_name": "Jewel Quest 4 Heritage",
-    "description": "Hit the trail with Rupert on a journey\nthrough the shrines and castles of\nHernan Cortes's lore. Swap jewels\nand collect puzzle pieces to unravel a\nperplexing web of family history. With\nover 170 new Jewel Boards, including\nthree jewel-swapping modes, new\nsurprises await in every level.",
-    "release_date_on_eshop": "2013-06-06",
-    "product_code": "TWL-N-K43P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B343350",
+  "uid": "50010000014615",
+  "name": "Jewel Quest 4 Heritage",
+  "formal_name": "Jewel Quest 4 Heritage",
+  "description": "Hit the trail with Rupert on a journey\nthrough the shrines and castles of\nHernan Cortes's lore. Swap jewels\nand collect puzzle pieces to unravel a\nperplexing web of family history. With\nover 170 new Jewel Boards, including\nthree jewel-swapping modes, new\nsurprises await in every level.",
+  "release_date_on_eshop": "2013-06-06",
+  "product_code": "TWL-N-K43P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

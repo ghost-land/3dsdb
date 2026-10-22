@@ -1,30 +1,30 @@
 {
-    "tid": "000400000014E200",
-    "uid": "50010000029475",
-    "name": "Hazumi",
-    "formal_name": "Hazumi",
-    "description": "Hazumi is a game of action and\npuzzle-solving where you control a\ncolored ball. Your goal in each level\nis to destroy all crystal blocks. You\ncan only remove a block if it matches\nthe color of the ball. Deadly traps and\nlabyrinths will stand in your way, so\nuse cunning to your advantage!\n<br/>\nFeaturing over 100 puzzles, a level\neditor, pixel art graphics and\nimmensely addictive gameplay,\nHazumi will keep you entertained for\ndays!",
-    "release_date_on_eshop": "2015-01-22",
-    "product_code": "CTR-N-KHZP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014E200",
+  "uid": "50010000029475",
+  "name": "Hazumi",
+  "formal_name": "Hazumi",
+  "description": "Hazumi is a game of action and\npuzzle-solving where you control a\ncolored ball. Your goal in each level\nis to destroy all crystal blocks. You\ncan only remove a block if it matches\nthe color of the ball. Deadly traps and\nlabyrinths will stand in your way, so\nuse cunning to your advantage!\n<br/>\nFeaturing over 100 puzzles, a level\neditor, pixel art graphics and\nimmensely addictive gameplay,\nHazumi will keep you entertained for\ndays!",
+  "release_date_on_eshop": "2015-01-22",
+  "product_code": "CTR-N-KHZP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000053800",
-    "uid": "50010000007364",
-    "name": "フロッガー3D",
-    "formal_name": "フロッガー3D",
-    "description": "小さなカエルが上下左右にハネる、ヨケる。カンタン操作なのにこの興奮!\n<br>次々に迫る大都会やカジノや戦場での挑戦…6つのワールドの最後にはそれぞれ大パニックのボス戦も。クラシックアーケード版を忠実に再現しながら、ゴールのない無限横断地獄はスコアをすれちがい通信で交換できる。最大4人のローカル対戦もアツい!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFRJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000053800",
+  "uid": "50010000007364",
+  "name": "フロッガー3D",
+  "formal_name": "フロッガー3D",
+  "description": "小さなカエルが上下左右にハネる、ヨケる。カンタン操作なのにこの興奮!\n<br>次々に迫る大都会やカジノや戦場での挑戦…6つのワールドの最後にはそれぞれ大パニックのボス戦も。クラシックアーケード版を忠実に再現しながら、ゴールのない無限横断地獄はスコアをすれちがい通信で交換できる。最大4人のローカル対戦もアツい!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFRJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

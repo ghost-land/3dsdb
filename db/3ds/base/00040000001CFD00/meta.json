@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001CFD00",
-    "uid": "50010000044255",
-    "name": "ピクロスe8",
-    "formal_name": "ピクロスe8",
-    "description": "全世界で50万DLを突破した『ピクロスｅ』シリーズの第8弾です。\n<br>\n<br>前作ピクロスe7から機能をそのまま引き継いで、問題を一新しました。\n<br>シリーズを重ね洗練された快適なプレイ環境でピクロスをお楽しみください。\n<br>\n<br>※『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。\n<br>シンプルで分かりやすいルールで、誰でも手軽に楽しめます。",
-    "release_date_on_eshop": "2017-12-20",
-    "product_code": "CTR-N-BE8J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CFD00",
+  "uid": "50010000044255",
+  "name": "ピクロスe8",
+  "formal_name": "ピクロスe8",
+  "description": "全世界で50万DLを突破した『ピクロスｅ』シリーズの第8弾です。\n<br>\n<br>前作ピクロスe7から機能をそのまま引き継いで、問題を一新しました。\n<br>シリーズを重ね洗練された快適なプレイ環境でピクロスをお楽しみください。\n<br>\n<br>※『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。\n<br>シンプルで分かりやすいルールで、誰でも手軽に楽しめます。",
+  "release_date_on_eshop": "2017-12-20",
+  "product_code": "CTR-N-BE8J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

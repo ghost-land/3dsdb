@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B495350",
-    "uid": "50010000005881",
-    "name": "Ice Hockey Slovakia 2011",
-    "formal_name": "Ice Hockey Slovakia 2011",
-    "description": "Challenge your friends to the ultimate Table Hockey game on your Nintendo DSi.<br>\n<br>\nFind out how many computers you can defeat with Championship mode, or challenge your friends in Multiplayer mode and show them who’s the true champ. The game Hockey fans have been waiting for!<br>\n<br>\nKey Features:\n- The first Table Hockey simulation game on Nintendo DSiWare.\n- 3D experience running at 60 frames per second (FPS).\n- Championship or Quick Play game modes.\n- Play multiplayer duel against another Nintendo DSi owner.\n- Featuring 16 of the best national Ice Hockey teams.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KISP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Simulation",
-        "Sports"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B495350",
+  "uid": "50010000005881",
+  "name": "Ice Hockey Slovakia 2011",
+  "formal_name": "Ice Hockey Slovakia 2011",
+  "description": "Challenge your friends to the ultimate Table Hockey game on your Nintendo DSi.<br>\n<br>\nFind out how many computers you can defeat with Championship mode, or challenge your friends in Multiplayer mode and show them who’s the true champ. The game Hockey fans have been waiting for!<br>\n<br>\nKey Features:\n- The first Table Hockey simulation game on Nintendo DSiWare.\n- 3D experience running at 60 frames per second (FPS).\n- Championship or Quick Play game modes.\n- Play multiplayer duel against another Nintendo DSi owner.\n- Featuring 16 of the best national Ice Hockey teams.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KISP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Simulation",
+    "Sports"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

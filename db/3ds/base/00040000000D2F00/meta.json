@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000D2F00",
-    "uid": "50010000014372",
-    "name": "Mario and Donkey Kong™:\nMinis on the Move",
-    "formal_name": "Mario and Donkey Kong™:\nMinis on the Move",
-    "description": "After yet another huge success with\nthe theme park in Mario vs. Donkey\nKong™: Mini-Land Mayhem!, the Mario\nToy Company decides to host a Mini\nToy Carnival this year. This time,\nhowever, Donkey Kong has joined\nwith Pauline to run a game arcade\ninside the carnival.\n<br/><br/>\nMario and Donkey Kong: Minis on the\nMove is a charming single-player\npuzzle game set in the Mario vs.\nDonkey Kong universe. Several\nMario-universe characters appear in\nthis game and of course you will meet\nMario and Donkey Kong represented\nas mechanical clockwork toys.\n<br/><br/>\nThis game features a simple-to-use\nCreate & Share mode which allows\nyou to create your own content that\nyou can share with your friends.\n<br/><br/>\nCan you help Mario and his friends in\nthis great puzzle game?",
-    "release_date_on_eshop": "2013-05-09",
-    "product_code": "CTR-N-JB7P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D2F00",
+  "uid": "50010000014372",
+  "name": "Mario and Donkey Kong™:\nMinis on the Move",
+  "formal_name": "Mario and Donkey Kong™:\nMinis on the Move",
+  "description": "After yet another huge success with\nthe theme park in Mario vs. Donkey\nKong™: Mini-Land Mayhem!, the Mario\nToy Company decides to host a Mini\nToy Carnival this year. This time,\nhowever, Donkey Kong has joined\nwith Pauline to run a game arcade\ninside the carnival.\n<br/><br/>\nMario and Donkey Kong: Minis on the\nMove is a charming single-player\npuzzle game set in the Mario vs.\nDonkey Kong universe. Several\nMario-universe characters appear in\nthis game and of course you will meet\nMario and Donkey Kong represented\nas mechanical clockwork toys.\n<br/><br/>\nThis game features a simple-to-use\nCreate & Share mode which allows\nyou to create your own content that\nyou can share with your friends.\n<br/><br/>\nCan you help Mario and his friends in\nthis great puzzle game?",
+  "release_date_on_eshop": "2013-05-09",
+  "product_code": "CTR-N-JB7P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

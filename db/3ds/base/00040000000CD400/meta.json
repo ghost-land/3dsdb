@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000CD400",
-    "uid": "50010000015095",
-    "name": "PICROSS e2",
-    "formal_name": "PICROSS e2",
-    "description": "This is the sequel to PICROSS e with a navigation feature to make gameplay even smoother. Like the previous game, this game has 150 new puzzles, plus an all new gameplay element known as Micross.\n<br><br>\nPicross is a Picture Crossword Puzzle Game in which you use numbers as hints to complete illustrations. The rules are simple and easy to understand. Anyone can do it!",
-    "release_date_on_eshop": "2013-07-25",
-    "product_code": "CTR-N-JP2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nSupports Circle Pad Pro",
-    "descriptors": []
+  "tid": "00040000000CD400",
+  "uid": "50010000015095",
+  "name": "PICROSS e2",
+  "formal_name": "PICROSS e2",
+  "description": "This is the sequel to PICROSS e with a navigation feature to make gameplay even smoother. Like the previous game, this game has 150 new puzzles, plus an all new gameplay element known as Micross.\n<br><br>\nPicross is a Picture Crossword Puzzle Game in which you use numbers as hints to complete illustrations. The rules are simple and easy to understand. Anyone can do it!",
+  "release_date_on_eshop": "2013-07-25",
+  "product_code": "CTR-N-JP2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nSupports Circle Pad Pro",
+  "descriptors": []
 }

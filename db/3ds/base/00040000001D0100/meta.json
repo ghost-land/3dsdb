@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001D0100",
-    "uid": "50010000045435",
-    "name": "WAKU WAKU SWEETS:\nHappy Sweets Making",
-    "formal_name": "WAKU WAKU SWEETS:\n<br>Happy Sweets Making",
-    "description": "Let's make lots of sweets at the yearning sweets shop!\n<br>\n<br>With easy operation, you can make sweets happily!\n<br>\n<br>You can learn how to make sweets with over 100 kinds of fun while playing!\n<br>\n<br>There are many recipes including cakes, cookies, Japanese sweets and so on.",
-    "release_date_on_eshop": "2018-03-29",
-    "product_code": "CTR-N-BSWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Adventure",
-        "Study"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D0100",
+  "uid": "50010000045435",
+  "name": "WAKU WAKU SWEETS:\nHappy Sweets Making",
+  "formal_name": "WAKU WAKU SWEETS:\n<br>Happy Sweets Making",
+  "description": "Let's make lots of sweets at the yearning sweets shop!\n<br>\n<br>With easy operation, you can make sweets happily!\n<br>\n<br>You can learn how to make sweets with over 100 kinds of fun while playing!\n<br>\n<br>There are many recipes including cakes, cookies, Japanese sweets and so on.",
+  "release_date_on_eshop": "2018-03-29",
+  "product_code": "CTR-N-BSWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Adventure",
+    "Study"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

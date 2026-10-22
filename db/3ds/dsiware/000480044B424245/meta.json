@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B424245",
-    "uid": "50010000001181",
-    "name": "Bomberman Blitz",
-    "formal_name": "Bomberman Blitz",
-    "description": "Bomberman makes his debut downloadable appearance on Nintendo DSiWare™ with Bomberman Blitz! Experience the classic Bomberman multiplayer experience with 8 player local and online multiplayer through Nintendo® Wi-Fi Connection. Hone your skills and learn the maps and when ready, take the battle online! Change multiple map and item preferences for tons of customization options to battle it out. Delivering unparalleled multiplayer gaming excitement, Bomberman Blitz gives everyone who picks up the Nintendo DSi system the addictive fun of Bomberman, anytime, anywhere! Bring friends!",
-    "release_date_on_eshop": "2009-11-09",
-    "product_code": "TWL-N-KBBE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Strategy",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.",
-    "descriptors": []
+  "tid": "000480044B424245",
+  "uid": "50010000001181",
+  "name": "Bomberman Blitz",
+  "formal_name": "Bomberman Blitz",
+  "description": "Bomberman makes his debut downloadable appearance on Nintendo DSiWare™ with Bomberman Blitz! Experience the classic Bomberman multiplayer experience with 8 player local and online multiplayer through Nintendo® Wi-Fi Connection. Hone your skills and learn the maps and when ready, take the battle online! Change multiple map and item preferences for tons of customization options to battle it out. Delivering unparalleled multiplayer gaming excitement, Bomberman Blitz gives everyone who picks up the Nintendo DSi system the addictive fun of Bomberman, anytime, anywhere! Bring friends!",
+  "release_date_on_eshop": "2009-11-09",
+  "product_code": "TWL-N-KBBE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Strategy",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.",
+  "descriptors": []
 }

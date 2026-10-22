@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001CA500",
-    "uid": "50010000046855",
-    "name": "PixelMaker Studio",
-    "formal_name": "PixelMaker Studio",
-    "description": "PixelMaker Studio is a drawing program designed specifically for making pixel art images, animations and tile-based scenes!\n<br>\n<br>Using easy to use tools on your Nintendo 3DS™, you can design images as simple or as complex as you like. Experiment, and create characters and scenes based on your favorite classic video games, or draw straight out of your own imagination! \n<br>\n<br>Create multi-frame animated images and watch them come to life.\n<br>\n<br>Design sets of image tiles and use them to create large, complex scenes.\n<br>\n<br>Support for multi-layer drawing, and 3D layered images and animations.\n<br>\n<br>Zoom in on the touch screen while seeing your whole scene on the upper screen.\n<br>\n<br>Cut/Copy/Paste selections with flip and rotate options.\n<br>\n<br>Fill by selection, flood-fill or replace all of a color.\n<br>\n<br>Draw and erase with multiple brush sizes.\n<br>\n<br>Pixel-perfect line and stroke drawing modes.\n<br>\n<br>Export PNG images and scenes to SD Card.\n<br>\n<br>Undo/Redo and image auto-save and restore.\n<br>\n<br>Palette-based color management with a number of classic samples.\n<br>\n<br>Choose colors visually, by exact RGB, or pick from the image.\n<br>\n<br>Optional grid overlay.",
-    "release_date_on_eshop": "2018-12-20",
-    "product_code": "CTR-N-AXPP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Lifestyle",
-        "System Tool"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CA500",
+  "uid": "50010000046855",
+  "name": "PixelMaker Studio",
+  "formal_name": "PixelMaker Studio",
+  "description": "PixelMaker Studio is a drawing program designed specifically for making pixel art images, animations and tile-based scenes!\n<br>\n<br>Using easy to use tools on your Nintendo 3DS™, you can design images as simple or as complex as you like. Experiment, and create characters and scenes based on your favorite classic video games, or draw straight out of your own imagination! \n<br>\n<br>Create multi-frame animated images and watch them come to life.\n<br>\n<br>Design sets of image tiles and use them to create large, complex scenes.\n<br>\n<br>Support for multi-layer drawing, and 3D layered images and animations.\n<br>\n<br>Zoom in on the touch screen while seeing your whole scene on the upper screen.\n<br>\n<br>Cut/Copy/Paste selections with flip and rotate options.\n<br>\n<br>Fill by selection, flood-fill or replace all of a color.\n<br>\n<br>Draw and erase with multiple brush sizes.\n<br>\n<br>Pixel-perfect line and stroke drawing modes.\n<br>\n<br>Export PNG images and scenes to SD Card.\n<br>\n<br>Undo/Redo and image auto-save and restore.\n<br>\n<br>Palette-based color management with a number of classic samples.\n<br>\n<br>Choose colors visually, by exact RGB, or pick from the image.\n<br>\n<br>Optional grid overlay.",
+  "release_date_on_eshop": "2018-12-20",
+  "product_code": "CTR-N-AXPP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Lifestyle",
+    "System Tool"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

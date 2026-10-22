@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001A1A00",
-    "uid": "50010000041621",
-    "name": "Ninja Usagimaru -\nThe Mysterious Karakuri Castle",
-    "formal_name": "Ninja Usagimaru -\nThe Mysterious Karakuri Castle",
-    "description": "Ninja Usagimaru - The Mysterious Karakuri Castle is an action puzzle game that challenges players to put their sharpened ninja skills to the test! Taking place in a time long forgotten by men, players assume the role of Usagimaru, a legendary hero who embarks on a massive quest to save his village from the clutches of vile monsters. Travel through 60+ mindboggling levels to rescue captured villagers and restore order to the land. Ready to reap the rewards of a true ninja warrior? Freeing villagers will bestow bonuses to boost your equipment and skills! Navigate tough traps, manipulate the environment and overcome brain twisting puzzles as the one and only Usagimaru!",
-    "release_date_on_eshop": "2016-09-29",
-    "product_code": "CTR-N-KRBP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A1A00",
+  "uid": "50010000041621",
+  "name": "Ninja Usagimaru -\nThe Mysterious Karakuri Castle",
+  "formal_name": "Ninja Usagimaru -\nThe Mysterious Karakuri Castle",
+  "description": "Ninja Usagimaru - The Mysterious Karakuri Castle is an action puzzle game that challenges players to put their sharpened ninja skills to the test! Taking place in a time long forgotten by men, players assume the role of Usagimaru, a legendary hero who embarks on a massive quest to save his village from the clutches of vile monsters. Travel through 60+ mindboggling levels to rescue captured villagers and restore order to the land. Ready to reap the rewards of a true ninja warrior? Freeing villagers will bestow bonuses to boost your equipment and skills! Navigate tough traps, manipulate the environment and overcome brain twisting puzzles as the one and only Usagimaru!",
+  "release_date_on_eshop": "2016-09-29",
+  "product_code": "CTR-N-KRBP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

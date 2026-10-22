@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001BBD00",
-    "uid": "50010000044217",
-    "name": "Apollo Justice: Ace Attorney",
-    "formal_name": "Apollo Justice: Ace Attorney",
-    "description": "Experience the popular Ace Attorney series as a rookie lawyer in Apollo Justice: Ace Attorney now on eShop! Step into the shoes of a young and passionate Apollo Justice in his early law career as he takes on his first case.  With the help of Trucy Wright, a talented magician who is also his assistant, and his level-headed  mentor, Kristoph Gavin, the team will seek to reveal the truth in criminal trials.  Apollo’s undeniable skills in uncovering lies by analyzing witness' body language and years of invaluable advice from his mentor will be put to test when he faces a dashing rival prosecutor named Klavier Gavin. With special appearances from well-known characters such as Phoenix Wright and Ema Skye, players will have an adventure filled with dramatic cases, jaw-dropping events, and a chance to defend their clients at all costs!\n<br>\n<br>Players will utilize the touch screen to maneuver their way through crime scenes, interview witnesses with amusing dialogue, and collect vital evidence using forensic science by dusting for prints or testing for traces of blood and present them in the courtroom. Experience challenging puzzles and thrilling stories that will have you at the edge of your seat! The courtroom awaits you, download today!",
-    "release_date_on_eshop": "2017-11-23",
-    "product_code": "CTR-N-AXRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BBD00",
+  "uid": "50010000044217",
+  "name": "Apollo Justice: Ace Attorney",
+  "formal_name": "Apollo Justice: Ace Attorney",
+  "description": "Experience the popular Ace Attorney series as a rookie lawyer in Apollo Justice: Ace Attorney now on eShop! Step into the shoes of a young and passionate Apollo Justice in his early law career as he takes on his first case.  With the help of Trucy Wright, a talented magician who is also his assistant, and his level-headed  mentor, Kristoph Gavin, the team will seek to reveal the truth in criminal trials.  Apollo’s undeniable skills in uncovering lies by analyzing witness' body language and years of invaluable advice from his mentor will be put to test when he faces a dashing rival prosecutor named Klavier Gavin. With special appearances from well-known characters such as Phoenix Wright and Ema Skye, players will have an adventure filled with dramatic cases, jaw-dropping events, and a chance to defend their clients at all costs!\n<br>\n<br>Players will utilize the touch screen to maneuver their way through crime scenes, interview witnesses with amusing dialogue, and collect vital evidence using forensic science by dusting for prints or testing for traces of blood and present them in the courtroom. Experience challenging puzzles and thrilling stories that will have you at the edge of your seat! The courtroom awaits you, download today!",
+  "release_date_on_eshop": "2017-11-23",
+  "product_code": "CTR-N-AXRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

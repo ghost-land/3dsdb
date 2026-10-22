@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000060800",
-    "uid": "50010000007665",
-    "name": "ジュエルペット\n魔法のリズムでイェイッ!",
-    "formal_name": "ジュエルペット\n魔法のリズムでイェイッ!",
-    "description": "リズムに合わせて画面をタッチすると、ジュエルペットが可愛くダンス♪\n<br>ゲームをクリアするともらえるジュエルとレシピをあつめて、3つの魔法でがっきをゲットしよう。遊べるがっきはなんと160種類以上!\n<br>\n<br>ARカードを使えば「魔法のカメラ」でジュエルペットと一緒に写真がとれるよ。すれちがい通信ではおともだちと「おてがみ交換」して遊んでね。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AJPJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "音楽"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000060800",
+  "uid": "50010000007665",
+  "name": "ジュエルペット\n魔法のリズムでイェイッ!",
+  "formal_name": "ジュエルペット\n魔法のリズムでイェイッ!",
+  "description": "リズムに合わせて画面をタッチすると、ジュエルペットが可愛くダンス♪\n<br>ゲームをクリアするともらえるジュエルとレシピをあつめて、3つの魔法でがっきをゲットしよう。遊べるがっきはなんと160種類以上!\n<br>\n<br>ARカードを使えば「魔法のカメラ」でジュエルペットと一緒に写真がとれるよ。すれちがい通信ではおともだちと「おてがみ交換」して遊んでね。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AJPJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "音楽"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

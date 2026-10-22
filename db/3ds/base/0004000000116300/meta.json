@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000116300",
-    "uid": "50010000018793",
-    "name": "Banana Bliss:\nJungle Puzzles",
-    "formal_name": "Banana Bliss:\nJungle Puzzles",
-    "description": "Embark on a fruitful quest with Morris\nthe monkey in this puzzling adventure!\n<br/><br/>\nDiscover the dense jungle trails with\nMorris the monkey and gather all the\nscattered hearts on Paradise Island\nfor his beloved sweetheart Molly.\nSwing, run and climb through the\njungle canopy, by-passing and\ndestroying dangerous critters from\nspiked urchins to poisonous snails that\nwill try to get in your way! Locate\nhidden bananas in each level to\nunlock bonus levels and with every\nbanana revealed you can save your\nplay and watch it back with the\nbuilt-in replay function, Playback!\nWith over 300 levels to complete in 7\njungle-inspired worlds there will be no\ntime for monkeying around in these\nblissful jungle puzzles!\n<br/><br/>\n- Swing through over 300 puzzles in\n7 jungle-inspired worlds!\n<br/><br/>\n- Climb and interact with boulders,\nbars and other items to clear each\npuzzle\n<br/><br/>\n- Avoid or destroy the jungle critters\nthat roam aimlessly around the jungle\n<br/><br/>\n- Earn a Banana Bonus in each level\nto save the level's replay and watch it\nback with Playback!",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JSRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Platformer",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000116300",
+  "uid": "50010000018793",
+  "name": "Banana Bliss:\nJungle Puzzles",
+  "formal_name": "Banana Bliss:\nJungle Puzzles",
+  "description": "Embark on a fruitful quest with Morris\nthe monkey in this puzzling adventure!\n<br/><br/>\nDiscover the dense jungle trails with\nMorris the monkey and gather all the\nscattered hearts on Paradise Island\nfor his beloved sweetheart Molly.\nSwing, run and climb through the\njungle canopy, by-passing and\ndestroying dangerous critters from\nspiked urchins to poisonous snails that\nwill try to get in your way! Locate\nhidden bananas in each level to\nunlock bonus levels and with every\nbanana revealed you can save your\nplay and watch it back with the\nbuilt-in replay function, Playback!\nWith over 300 levels to complete in 7\njungle-inspired worlds there will be no\ntime for monkeying around in these\nblissful jungle puzzles!\n<br/><br/>\n- Swing through over 300 puzzles in\n7 jungle-inspired worlds!\n<br/><br/>\n- Climb and interact with boulders,\nbars and other items to clear each\npuzzle\n<br/><br/>\n- Avoid or destroy the jungle critters\nthat roam aimlessly around the jungle\n<br/><br/>\n- Earn a Banana Bonus in each level\nto save the level's replay and watch it\nback with Playback!",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JSRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Platformer",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

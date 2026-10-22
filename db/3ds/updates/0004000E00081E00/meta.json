@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E00081E00",
-    "uid": "50010000029155",
-    "name": "METAL GEAR SOLID SNAKE\nEATER 3D Update Ver. 1.1",
-    "formal_name": "METAL GEAR SOLID SNAKE\nEATER 3D Update Ver. 1.1",
-    "description": "When save data is created in a specific stage (inside the WIG) with the Circle Pad Pro on, occasionally the game hangs after loading and may corrupt save data. This problem was fixed.",
-    "release_date_on_eshop": "2014-12-19",
-    "product_code": "CTR-U-AMGE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "17"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E00081E00",
+  "uid": "50010000029155",
+  "name": "METAL GEAR SOLID SNAKE\nEATER 3D Update Ver. 1.1",
+  "formal_name": "METAL GEAR SOLID SNAKE\nEATER 3D Update Ver. 1.1",
+  "description": "When save data is created in a specific stage (inside the WIG) with the Circle Pad Pro on, occasionally the game hangs after loading and may corrupt save data. This problem was fixed.",
+  "release_date_on_eshop": "2014-12-19",
+  "product_code": "CTR-U-AMGE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "17"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

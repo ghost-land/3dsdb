@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B455A50",
-    "uid": "50010000003303",
-    "name": "Successfully Learning\nEnglish Year 3",
-    "formal_name": "Successfully Learning\nEnglish Year 3",
-    "description": "In \"Successfully Learning English\nYear 3\", pupils will solve exciting\nexercises to learn English in a playful\nway. The little vampire Freddy\nmotivates the children and helps with\ntips.<br>\n<br>\nLanguages: English, French, Spanish,\nItalian, German, Turkish.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KEZP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B455A50",
+  "uid": "50010000003303",
+  "name": "Successfully Learning\nEnglish Year 3",
+  "formal_name": "Successfully Learning\nEnglish Year 3",
+  "description": "In \"Successfully Learning English\nYear 3\", pupils will solve exciting\nexercises to learn English in a playful\nway. The little vampire Freddy\nmotivates the children and helps with\ntips.<br>\n<br>\nLanguages: English, French, Spanish,\nItalian, German, Turkish.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KEZP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

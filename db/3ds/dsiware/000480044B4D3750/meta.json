@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4D3750",
-    "uid": "50010000005921",
-    "name": "Missy Mila\nTwisted Tales",
-    "formal_name": "Missy Mila\nTwisted Tales",
-    "description": "Missy Mila Twisted Tales is an\ninteractive storybook with 5 stories in\nit.<br>\n<br>\nThe stories : Baba Yaga, The\nToupouloupou, Elvis, The Cow And\nThe Rabbit, The Hidden Princess.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KM7P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D3750",
+  "uid": "50010000005921",
+  "name": "Missy Mila\nTwisted Tales",
+  "formal_name": "Missy Mila\nTwisted Tales",
+  "description": "Missy Mila Twisted Tales is an\ninteractive storybook with 5 stories in\nit.<br>\n<br>\nThe stories : Baba Yaga, The\nToupouloupou, Elvis, The Cow And\nThe Rabbit, The Hidden Princess.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KM7P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

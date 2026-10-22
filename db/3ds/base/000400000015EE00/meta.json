@@ -1,34 +1,34 @@
 {
-    "tid": "000400000015EE00",
-    "uid": "50010000031899",
-    "name": "Navy Commander",
-    "formal_name": "Navy Commander",
-    "description": "Hit... Sunk!\n<br/>\nAt the helm of your fleet, use your\nfirepower and secret weapons to sink\nthe enemy navy before it finds all of\nyour ships.\n<br/>\nReact quickly and adapt your tactics\nto become the master of the seas.\n<br/>\n- The classic board game revisited,\nwith exclusive animations and bonuses\nthat give the game a whole new\ndimension.\n<br/>\n- Set the game up the way you\nwant: number of ships, grid size,\navailable secret weapons, and five\nlevels of AI difficulty.\n<br/>\n- Set up your Nintendo 3DS™ like a\ngame board to play with a friend or in\nwireless multiplayer mode with a\nsingle Game Card.",
-    "release_date_on_eshop": "2015-03-19",
-    "product_code": "CTR-P-BNCP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015EE00",
+  "uid": "50010000031899",
+  "name": "Navy Commander",
+  "formal_name": "Navy Commander",
+  "description": "Hit... Sunk!\n<br/>\nAt the helm of your fleet, use your\nfirepower and secret weapons to sink\nthe enemy navy before it finds all of\nyour ships.\n<br/>\nReact quickly and adapt your tactics\nto become the master of the seas.\n<br/>\n- The classic board game revisited,\nwith exclusive animations and bonuses\nthat give the game a whole new\ndimension.\n<br/>\n- Set the game up the way you\nwant: number of ships, grid size,\navailable secret weapons, and five\nlevels of AI difficulty.\n<br/>\n- Set up your Nintendo 3DS™ like a\ngame board to play with a friend or in\nwireless multiplayer mode with a\nsingle Game Card.",
+  "release_date_on_eshop": "2015-03-19",
+  "product_code": "CTR-P-BNCP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

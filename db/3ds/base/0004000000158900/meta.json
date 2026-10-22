@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000158900",
-    "uid": "50010000029355",
-    "name": "3D After Burner II",
-    "formal_name": "3D After Burner II",
-    "description": "3D After Burner II is a completely re-mastered version of the arcade classic. Pilot your F-14D fighter through enemy territory blasting away squadrons of enemy fighters. This arcade masterpiece now features stereoscopic 3D, a choice of real arcade cabinets, new difficulty settings as well as visual adjustments options. Blast your way through 23 stages to unlock a special mode with even more gameplay enhancements.  ",
-    "release_date_on_eshop": "2015-01-15",
-    "product_code": "CTR-N-JVNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000158900",
+  "uid": "50010000029355",
+  "name": "3D After Burner II",
+  "formal_name": "3D After Burner II",
+  "description": "3D After Burner II is a completely re-mastered version of the arcade classic. Pilot your F-14D fighter through enemy territory blasting away squadrons of enemy fighters. This arcade masterpiece now features stereoscopic 3D, a choice of real arcade cabinets, new difficulty settings as well as visual adjustments options. Blast your way through 23 stages to unlock a special mode with even more gameplay enhancements.  ",
+  "release_date_on_eshop": "2015-01-15",
+  "product_code": "CTR-N-JVNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

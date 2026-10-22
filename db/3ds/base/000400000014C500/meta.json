@@ -1,29 +1,29 @@
 {
-    "tid": "000400000014C500",
-    "uid": "50010000024315",
-    "name": "Smash Controller",
-    "formal_name": "Smash Controller",
-    "description": "This application is intended for use by consumers who own the Super Smash Bros. for Wii U game and want to expand their controller options by using a Nintendo 3DS family system as a controller—even without owning the handheld version of the game. This application includes the same capability that is included in the Super Smash Bros. for Nintendo 3DS game. Simply purchase and download the Smash Controller application from the Nintendo eShop to your Nintendo 3DS system and get ready for battle!",
-    "release_date_on_eshop": "2015-06-14",
-    "product_code": "CTR-N-KXCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nBroadband Internet access and Super Smash Bros. for Wii U game required.  For more info, go to support.nintendo.com\n<br><br>\nSuper Smash Bros. for Wii U game is REQUIRED to use this application; sold separately.\n<br><br>\nThis application contains the same capability that is included in the Super Smash Bros. for Nintendo 3DS game.  If you own the Super Smash Bros. for Nintendo 3DS game, you do not need to purchase this app.",
-    "descriptors": []
+  "tid": "000400000014C500",
+  "uid": "50010000024315",
+  "name": "Smash Controller",
+  "formal_name": "Smash Controller",
+  "description": "This application is intended for use by consumers who own the Super Smash Bros. for Wii U game and want to expand their controller options by using a Nintendo 3DS family system as a controller—even without owning the handheld version of the game. This application includes the same capability that is included in the Super Smash Bros. for Nintendo 3DS game. Simply purchase and download the Smash Controller application from the Nintendo eShop to your Nintendo 3DS system and get ready for battle!",
+  "release_date_on_eshop": "2015-06-14",
+  "product_code": "CTR-N-KXCE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nBroadband Internet access and Super Smash Bros. for Wii U game required.  For more info, go to support.nintendo.com\n<br><br>\nSuper Smash Bros. for Wii U game is REQUIRED to use this application; sold separately.\n<br><br>\nThis application contains the same capability that is included in the Super Smash Bros. for Nintendo 3DS game.  If you own the Super Smash Bros. for Nintendo 3DS game, you do not need to purchase this app.",
+  "descriptors": []
 }

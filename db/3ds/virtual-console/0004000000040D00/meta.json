@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000040D00",
-    "uid": "50010000007052",
-    "name": "Baseball",
-    "formal_name": "Baseball",
-    "description": "Strategy, skill and determination.\nIt takes all three to win in Baseball!<br>\n<br>\nChoose a starting pitcher from your \nbullpen (Mario is an old favourite). \nHurl fastballs past the batter. If he \nconnects, your outfield backs up to\nsnag a fly. A sturdy infield backs you\nup on grounders and pop-ups. \nThree outs later and your team is up. \nTake a strike to feel out the pitcher. \nThen drive a long one. \nIt's a home run! <br>\n<br>\nYou can even choose between \nAmerican or Japanese-style modes.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RABP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000040D00",
+  "uid": "50010000007052",
+  "name": "Baseball",
+  "formal_name": "Baseball",
+  "description": "Strategy, skill and determination.\nIt takes all three to win in Baseball!<br>\n<br>\nChoose a starting pitcher from your \nbullpen (Mario is an old favourite). \nHurl fastballs past the batter. If he \nconnects, your outfield backs up to\nsnag a fly. A sturdy infield backs you\nup on grounders and pop-ups. \nThree outs later and your team is up. \nTake a strike to feel out the pitcher. \nThen drive a long one. \nIt's a home run! <br>\n<br>\nYou can even choose between \nAmerican or Japanese-style modes.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RABP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

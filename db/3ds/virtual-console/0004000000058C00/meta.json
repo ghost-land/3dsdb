@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000058C00",
-    "uid": "50010000014333",
-    "name": "The Legend of Zelda™:\nOracle of Seasons™",
-    "formal_name": "The Legend of Zelda™:\nOracle of Seasons™",
-    "description": "Original Release Date:  May 2001\n<br><br>\nThe land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero...and finds Link™. His quest won't be easy--he'll have to master the seasons themselves if he's to turn back the evil tide.\n<br><br>\nWield the Rod of Seasons! Changes in weather open new paths and reveal hidden mysteries! Use tons of items! Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like Roc's Feather and the Power Bracelet. Link gets reinforcements! Fly, swim, and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!",
-    "release_date_on_eshop": "2013-05-30",
-    "product_code": "CTR-N-QACE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000058C00",
+  "uid": "50010000014333",
+  "name": "The Legend of Zelda™:\nOracle of Seasons™",
+  "formal_name": "The Legend of Zelda™:\nOracle of Seasons™",
+  "description": "Original Release Date:  May 2001\n<br><br>\nThe land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero...and finds Link™. His quest won't be easy--he'll have to master the seasons themselves if he's to turn back the evil tide.\n<br><br>\nWield the Rod of Seasons! Changes in weather open new paths and reveal hidden mysteries! Use tons of items! Link will master new items like Mystical Seeds and over 60 Magical Rings as well as classic tools like Roc's Feather and the Power Bracelet. Link gets reinforcements! Fly, swim, and jump to new heights with all-new characters like Moosh the winged bear, Ricky the marsupial, and Dimitri the Dodongo!",
+  "release_date_on_eshop": "2013-05-30",
+  "product_code": "CTR-N-QACE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B524A45",
-    "uid": "50010000003385",
-    "name": "5 in 1 Mahjong",
-    "formal_name": "5 in 1 Mahjong",
-    "description": "Play Standard mahjong without all the bells and whistles. You can choose from over 300 layouts or try different variations of the game. In ‘Countdown’ you only have 20 minutes to clear the tiles. With ‘Remember’, you can train your memory as every tile is only briefly visible! Don’t dally in ‘Shuffle’ mode! The board will rebuild itself if you don’t make a match in time. In ‘Match’ you simply need to search for particular tiles.\n\nThe tile images are strikingly sharp, making them easy to recognize. Choose your favorite tile design, plus enjoy the great soundtrack and high-quality animation that create an authentic gaming experience. Challenge yourself with a range of difficult layouts—if you are stuck, hints will help you out!\n\n• 300 layouts, three difficulty levels\n• Five game modes for more variety\n• Numerous customizable settings",
-    "release_date_on_eshop": "2011-03-14",
-    "product_code": "TWL-N-KRJE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Board Game",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524A45",
+  "uid": "50010000003385",
+  "name": "5 in 1 Mahjong",
+  "formal_name": "5 in 1 Mahjong",
+  "description": "Play Standard mahjong without all the bells and whistles. You can choose from over 300 layouts or try different variations of the game. In ‘Countdown’ you only have 20 minutes to clear the tiles. With ‘Remember’, you can train your memory as every tile is only briefly visible! Don’t dally in ‘Shuffle’ mode! The board will rebuild itself if you don’t make a match in time. In ‘Match’ you simply need to search for particular tiles.\n\nThe tile images are strikingly sharp, making them easy to recognize. Choose your favorite tile design, plus enjoy the great soundtrack and high-quality animation that create an authentic gaming experience. Challenge yourself with a range of difficult layouts—if you are stuck, hints will help you out!\n\n• 300 layouts, three difficulty levels\n• Five game modes for more variety\n• Numerous customizable settings",
+  "release_date_on_eshop": "2011-03-14",
+  "product_code": "TWL-N-KRJE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Board Game",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

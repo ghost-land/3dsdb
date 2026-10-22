@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B5A4550",
-    "uid": "50010000006621",
-    "name": "Bounce & Break",
-    "formal_name": "Bounce & Break",
-    "description": "Bounce & Break is an innovative\nbreak-out game taking place in a Zen\nJapanese universe. In this Zen world\nyou will play in 4 different universes.\nEach universe is divided into 4\nseasons. The best 2 scores are saved\nin the Top Ranking table. Be the best\nplayer to enter this Hall of Fame!<br>\n<br>\nTwo different game modes:<br>\n<br>\n- The \"classical\" game mode.\n- The \"orientation\" game mode.<br>\n<br>\nAccording to the game mode that has\nbeen selected, Gameâ€™s rules will\nslightly change.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KZEP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4550",
+  "uid": "50010000006621",
+  "name": "Bounce & Break",
+  "formal_name": "Bounce & Break",
+  "description": "Bounce & Break is an innovative\nbreak-out game taking place in a Zen\nJapanese universe. In this Zen world\nyou will play in 4 different universes.\nEach universe is divided into 4\nseasons. The best 2 scores are saved\nin the Top Ranking table. Be the best\nplayer to enter this Hall of Fame!<br>\n<br>\nTwo different game modes:<br>\n<br>\n- The \"classical\" game mode.\n- The \"orientation\" game mode.<br>\n<br>\nAccording to the game mode that has\nbeen selected, Gameâ€™s rules will\nslightly change.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KZEP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

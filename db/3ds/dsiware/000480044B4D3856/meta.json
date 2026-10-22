@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4D3856",
-    "uid": "50010000004302",
-    "name": "Me And My Dogs:\nFriends Forever",
-    "formal_name": "Me And My Dogs:\nFriends Forever",
-    "description": "Dream of having your own cute dog?\nThanks to Me and My Dogs: Friends\nForever, you can have up to three of\nthe cutest pups imaginable and take\nthem with you everywhere you\ngo!Choose from Labradors,\nChowChows and Beagles. Like real\ndogs, you’ll have to feed, wash, and\ngive them lots of love. Play in the\npark, teach them tricks or have them\ncompete at the stadium. You can even\ncall them like in real life thanks to the\nmicrophone! Plus, personalize your\nin-game profile with the camera\nfeature.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KM8V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D3856",
+  "uid": "50010000004302",
+  "name": "Me And My Dogs:\nFriends Forever",
+  "formal_name": "Me And My Dogs:\nFriends Forever",
+  "description": "Dream of having your own cute dog?\nThanks to Me and My Dogs: Friends\nForever, you can have up to three of\nthe cutest pups imaginable and take\nthem with you everywhere you\ngo!Choose from Labradors,\nChowChows and Beagles. Like real\ndogs, you’ll have to feed, wash, and\ngive them lots of love. Play in the\npark, teach them tricks or have them\ncompete at the stadium. You can even\ncall them like in real life thanks to the\nmicrophone! Plus, personalize your\nin-game profile with the camera\nfeature.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KM8V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

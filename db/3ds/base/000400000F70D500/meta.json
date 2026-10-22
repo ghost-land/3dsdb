@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70D500",
-    "uid": "50010000043915",
-    "name": "GALAXY BLASTER CODE RED",
-    "formal_name": "GALAXY BLASTER CODE RED",
-    "description": "In GALAXY BLASTER CODE RED, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
-    "release_date_on_eshop": "2017-10-19",
-    "product_code": "KTR-N-CB2E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Shooter",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70D500",
+  "uid": "50010000043915",
+  "name": "GALAXY BLASTER CODE RED",
+  "formal_name": "GALAXY BLASTER CODE RED",
+  "description": "In GALAXY BLASTER CODE RED, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
+  "release_date_on_eshop": "2017-10-19",
+  "product_code": "KTR-N-CB2E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Shooter",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

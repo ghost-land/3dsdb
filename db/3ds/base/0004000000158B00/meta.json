@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000158B00",
-    "uid": "50010000032815",
-    "name": "3D Fantasy Zone II W",
-    "formal_name": "3D Fantasy Zone II W",
-    "description": "Fantasy Zone II, first released for the SEGA Master System in 1987 as a sequel to 1986’s Fantasy Zone, is the fan favorite scrolling shooter in which players control a sentient spaceship named Opa-Opa to fight surreal invader enemies. 3D Fantasy Zone II W upgrades all visuals from SEGA's System-E to System- 16 graphic standards and combines stereoscopic 3D effects with a host of additional features to deliver cutting edge gameplay experience with a classic feel. Additional features include: an all-new endless game mode that takes place in the mysterious Link Loop Land, adjustable difficulty settings, the ability to save replays for later viewing, a Stage Select feature that allows players to save and resume progress mid-game, and adjustable difficulty settings.",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-N-JFCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000158B00",
+  "uid": "50010000032815",
+  "name": "3D Fantasy Zone II W",
+  "formal_name": "3D Fantasy Zone II W",
+  "description": "Fantasy Zone II, first released for the SEGA Master System in 1987 as a sequel to 1986’s Fantasy Zone, is the fan favorite scrolling shooter in which players control a sentient spaceship named Opa-Opa to fight surreal invader enemies. 3D Fantasy Zone II W upgrades all visuals from SEGA's System-E to System- 16 graphic standards and combines stereoscopic 3D effects with a host of additional features to deliver cutting edge gameplay experience with a classic feel. Additional features include: an all-new endless game mode that takes place in the mysterious Link Loop Land, adjustable difficulty settings, the ability to save replays for later viewing, a Stage Select feature that allows players to save and resume progress mid-game, and adjustable difficulty settings.",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-N-JFCE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

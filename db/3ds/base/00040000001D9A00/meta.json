@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001D9A00",
-    "uid": "50010000048195",
-    "name": "Shakedown: Hawaii",
-    "formal_name": "Shakedown: Hawaii",
-    "description": "Build your corporate empire and destroy the competition.\n<br>\n<br>Shakedown: Hawaii follows three protagonists through a 16-bit open world. Build your own \"legitimate\" corporation by completing missions, acquiring businesses, sabotaging competitors, \"re-zoning\" land, and shaking down shops for protection money.\n<br>\n<br>Explore the island by foot, by car, or by boat. It's filled with arcade challenges, sidequests, stores to shop at, houses to burgle, civilians to interact with, and secrets to discover.\n<br>\n<br>You begin your adventure as an aging CEO, struggling to make sense of the modern world. Online shopping killed his retail stores, ride sharing his taxi business, and streaming his video stores. To save the company, he'll need to learn the \"methods\" of modern business, and use them to rebuild his empire.\n<br>\n<br>The entire island is up for grabs... or at least, could be with the right business model. \n<br>\n<br>It's business in the front, and bodies in the back... in Shakedown: Hawaii.",
-    "release_date_on_eshop": "2019-09-26",
-    "product_code": "CTR-N-AHYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter",
-        "Racing"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D9A00",
+  "uid": "50010000048195",
+  "name": "Shakedown: Hawaii",
+  "formal_name": "Shakedown: Hawaii",
+  "description": "Build your corporate empire and destroy the competition.\n<br>\n<br>Shakedown: Hawaii follows three protagonists through a 16-bit open world. Build your own \"legitimate\" corporation by completing missions, acquiring businesses, sabotaging competitors, \"re-zoning\" land, and shaking down shops for protection money.\n<br>\n<br>Explore the island by foot, by car, or by boat. It's filled with arcade challenges, sidequests, stores to shop at, houses to burgle, civilians to interact with, and secrets to discover.\n<br>\n<br>You begin your adventure as an aging CEO, struggling to make sense of the modern world. Online shopping killed his retail stores, ride sharing his taxi business, and streaming his video stores. To save the company, he'll need to learn the \"methods\" of modern business, and use them to rebuild his empire.\n<br>\n<br>The entire island is up for grabs... or at least, could be with the right business model. \n<br>\n<br>It's business in the front, and bodies in the back... in Shakedown: Hawaii.",
+  "release_date_on_eshop": "2019-09-26",
+  "product_code": "CTR-N-AHYP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter",
+    "Racing"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

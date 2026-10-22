@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000196F00",
-    "uid": "50010000042835",
-    "name": "Kirby's™ Blowout Blast",
-    "formal_name": "Kirby's™ Blowout Blast",
-    "description": "Blast your way through a variety of colourful levels in Kirby’s Blowout Blast, a fast-paced 3D action-puzzler!\n<br>\n<br>Fight through over 25 bite-sized stages, perfect for playing on the go, and aim for the highest scores you can muster. Inhale any enemies you encounter, then spit them out when the time is right to bash other bad guys – and rack up the points! The more meanies you inhale, the more firepower you’ll wield! Unleash a powerful Blaster Bullet to wipe out entire troops of wrongdoers all at once, or take out a single foe with a quick fire Star Bullet – you’ll need to chain combos to achieve the highest scores! Experience larger-than-life boss battles, as troublesome fiends from the Kirby universe return to cause havoc.\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-07-06",
-    "product_code": "CTR-N-JHUA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Region Free",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000196F00",
+  "uid": "50010000042835",
+  "name": "Kirby's™ Blowout Blast",
+  "formal_name": "Kirby's™ Blowout Blast",
+  "description": "Blast your way through a variety of colourful levels in Kirby’s Blowout Blast, a fast-paced 3D action-puzzler!\n<br>\n<br>Fight through over 25 bite-sized stages, perfect for playing on the go, and aim for the highest scores you can muster. Inhale any enemies you encounter, then spit them out when the time is right to bash other bad guys – and rack up the points! The more meanies you inhale, the more firepower you’ll wield! Unleash a powerful Blaster Bullet to wipe out entire troops of wrongdoers all at once, or take out a single foe with a quick fire Star Bullet – you’ll need to chain combos to achieve the highest scores! Experience larger-than-life boss battles, as troublesome fiends from the Kirby universe return to cause havoc.\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-07-06",
+  "product_code": "CTR-N-JHUA",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Region Free",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

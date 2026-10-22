@@ -1,33 +1,33 @@
 {
-    "tid": "000400000014F200",
-    "uid": "50010000036455",
-    "name": "Animal Crossing™: \nHappy Home Designer",
-    "formal_name": "Animal Crossing™: \nHappy Home Designer",
-    "description": "In this game, put your decorating\nskills to the test and design wonderful\nhomes to suit all your favourite Animal\nCrossing characters. Listen to each\nanimal's request, pick a style and\nfinish it off with furniture to turn their\ndream home into reality.\n<br/><br/>\n<br/><br/>\nThis game may contain product\nplacement and advertising.",
-    "release_date_on_eshop": "2015-10-02",
-    "product_code": "CTR-P-EDHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014F200",
+  "uid": "50010000036455",
+  "name": "Animal Crossing™: \nHappy Home Designer",
+  "formal_name": "Animal Crossing™: \nHappy Home Designer",
+  "description": "In this game, put your decorating\nskills to the test and design wonderful\nhomes to suit all your favourite Animal\nCrossing characters. Listen to each\nanimal's request, pick a style and\nfinish it off with furniture to turn their\ndream home into reality.\n<br/><br/>\n<br/><br/>\nThis game may contain product\nplacement and advertising.",
+  "release_date_on_eshop": "2015-10-02",
+  "product_code": "CTR-P-EDHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

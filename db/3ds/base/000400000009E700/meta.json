@@ -1,33 +1,33 @@
 {
-    "tid": "000400000009E700",
-    "uid": "50010000014299",
-    "name": "Crash City Mayhem",
-    "formal_name": "Crash City Mayhem",
-    "description": "Experience high-octane driving thrills\nwith 'Crash City Mayhem'. Blaze your\nway through the city streets and crush\nan evil syndicate of terrorists!\n<br/><br/>\nDrive anywhere - rooftops, sewers,\ninside buildings, rail tracks and more!\nUse your driving skills to enter a\nworld of espionage and action.\n<br/><br/>\nDrive a huge variety of crazy vehicles\nincluding mopeds, supercars and\ntanks!\n<br/><br/>\nUnlock a stash of secret items and\nvehicle upgrades.",
-    "release_date_on_eshop": "2013-05-09",
-    "product_code": "CTR-P-AC2P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009E700",
+  "uid": "50010000014299",
+  "name": "Crash City Mayhem",
+  "formal_name": "Crash City Mayhem",
+  "description": "Experience high-octane driving thrills\nwith 'Crash City Mayhem'. Blaze your\nway through the city streets and crush\nan evil syndicate of terrorists!\n<br/><br/>\nDrive anywhere - rooftops, sewers,\ninside buildings, rail tracks and more!\nUse your driving skills to enter a\nworld of espionage and action.\n<br/><br/>\nDrive a huge variety of crazy vehicles\nincluding mopeds, supercars and\ntanks!\n<br/><br/>\nUnlock a stash of secret items and\nvehicle upgrades.",
+  "release_date_on_eshop": "2013-05-09",
+  "product_code": "CTR-P-AC2P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

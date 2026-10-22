@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000193C00",
-    "uid": "50010000040115",
-    "name": "ファンタジーパイレーツ",
-    "formal_name": "ファンタジーパイレーツ",
-    "description": "宝箱の周りをグルグル回りながら砲撃を加えて攻撃していくタワーオフェンス型アクションストラテジーゲームです。\n<br>障害物や敵を避けながらドンドン砲弾を撃ち込みましょう。",
-    "release_date_on_eshop": "2016-04-20",
-    "product_code": "CTR-N-KFPJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000193C00",
+  "uid": "50010000040115",
+  "name": "ファンタジーパイレーツ",
+  "formal_name": "ファンタジーパイレーツ",
+  "description": "宝箱の周りをグルグル回りながら砲撃を加えて攻撃していくタワーオフェンス型アクションストラテジーゲームです。\n<br>障害物や敵を避けながらドンドン砲弾を撃ち込みましょう。",
+  "release_date_on_eshop": "2016-04-20",
+  "product_code": "CTR-N-KFPJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

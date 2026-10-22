@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B555045",
-    "uid": "50010000004161",
-    "name": "Match Up!",
-    "formal_name": "Match Up!",
-    "description": "Flip, match and...kaboom! How fast can you find the right set in Match Up!? Whether you’re 4 or 40, Match Up! will have you captivated for hours. Reveal shapes, colors and even hidden bonuses with a new take on a childhood favorite. Quick hands and a sharp mind are the only way to beat the clock and disarm the explosive cards riddled throughout. Not quite ready for the explosive action? Then start with the absolutely engaging classic concentration play, and see if you can level up. So come on—get matching!",
-    "release_date_on_eshop": "2010-08-02",
-    "product_code": "TWL-N-KUPE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B555045",
+  "uid": "50010000004161",
+  "name": "Match Up!",
+  "formal_name": "Match Up!",
+  "description": "Flip, match and...kaboom! How fast can you find the right set in Match Up!? Whether you’re 4 or 40, Match Up! will have you captivated for hours. Reveal shapes, colors and even hidden bonuses with a new take on a childhood favorite. Quick hands and a sharp mind are the only way to beat the clock and disarm the explosive cards riddled throughout. Not quite ready for the explosive action? Then start with the absolutely engaging classic concentration play, and see if you can level up. So come on—get matching!",
+  "release_date_on_eshop": "2010-08-02",
+  "product_code": "TWL-N-KUPE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

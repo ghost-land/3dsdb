@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000147B00",
-    "uid": "50010000030175",
-    "name": "Dedede’s Drum Dash™ Deluxe",
-    "formal_name": "Dedede’s Drum Dash™ Deluxe",
-    "description": "Bounce to the beat as Kirby’s\nlong-time rival in King Dedede’s\nrhythm action game! Jump on drums\ncollecting coins, avoiding enemies and\ntapping buttons in sync with catchy\nKirby tunes! This standalone deluxe\ngame includes content not found in\nKirby™: Triple Deluxe, including\nall-new stages, new obstacles and\nmore!",
-    "release_date_on_eshop": "2015-02-13",
-    "product_code": "CTR-N-JVQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Music"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000147B00",
+  "uid": "50010000030175",
+  "name": "Dedede’s Drum Dash™ Deluxe",
+  "formal_name": "Dedede’s Drum Dash™ Deluxe",
+  "description": "Bounce to the beat as Kirby’s\nlong-time rival in King Dedede’s\nrhythm action game! Jump on drums\ncollecting coins, avoiding enemies and\ntapping buttons in sync with catchy\nKirby tunes! This standalone deluxe\ngame includes content not found in\nKirby™: Triple Deluxe, including\nall-new stages, new obstacles and\nmore!",
+  "release_date_on_eshop": "2015-02-13",
+  "product_code": "CTR-N-JVQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Music"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

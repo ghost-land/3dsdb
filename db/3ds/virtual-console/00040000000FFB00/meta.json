@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000FFB00",
-    "uid": "50010000019993",
-    "name": "Super Mario Bros.™\nDeluxe",
-    "formal_name": "Super Mario Bros.™\nDeluxe",
-    "description": "This souped-up version of the all-time\nclassic was a big hit on Game Boy™\nColor. Super Mario Bros. Deluxe\nfeatures all 32 original levels from the\n1985 classic, plus a whole lot more!\n<br/><br/>\nIn Challenge mode, revisit classic\nlevels and collect special red coins\nand Yoshi eggs to beat the high\nscore. Or race against a familiar foe\nthrough eight special courses in You\nVs Boo mode! There are even\nchallenging secret levels to be\ndiscovered, for a true test of your\nSuper Mario Bros. skills!",
-    "release_date_on_eshop": "2014-02-27",
-    "product_code": "CTR-N-QA5P",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "If you participated in the Join\nNintendo Network Promotion, please\nremember to check your email to get\nyour free download code for Super\nMario Bros.™ Deluxe.",
-    "descriptors": []
+  "tid": "00040000000FFB00",
+  "uid": "50010000019993",
+  "name": "Super Mario Bros.™\nDeluxe",
+  "formal_name": "Super Mario Bros.™\nDeluxe",
+  "description": "This souped-up version of the all-time\nclassic was a big hit on Game Boy™\nColor. Super Mario Bros. Deluxe\nfeatures all 32 original levels from the\n1985 classic, plus a whole lot more!\n<br/><br/>\nIn Challenge mode, revisit classic\nlevels and collect special red coins\nand Yoshi eggs to beat the high\nscore. Or race against a familiar foe\nthrough eight special courses in You\nVs Boo mode! There are even\nchallenging secret levels to be\ndiscovered, for a true test of your\nSuper Mario Bros. skills!",
+  "release_date_on_eshop": "2014-02-27",
+  "product_code": "CTR-N-QA5P",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "If you participated in the Join\nNintendo Network Promotion, please\nremember to check your email to get\nyour free download code for Super\nMario Bros.™ Deluxe.",
+  "descriptors": []
 }

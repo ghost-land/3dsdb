@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000175E00",
-    "uid": "50010000041463",
-    "name": "Pokémon™ Moon",
-    "formal_name": "Pokémon™ Moon",
-    "description": "Pokémon Sun and Pokémon Moon take place in the Alola region, which centres around four tropical islands and one artificial island. Many Pokémon that have never been seen before inhabit the lush islands of the Alola region. The story begins right after the main character moves to the Alola region. After choosing to play as a hero or heroine, players can customise their character’s name and appearance. No sooner have they arrived than their adventures begin to unfold, and they meet many fascinating people as they travel through the region.\n<br>\n<br>- Pokémon-Exclusive Z-Moves Revealed\n<br>In Pokémon Sun and Pokémon Moon, Z-Moves make their debut. Each Trainer can use just one of these powered-up Z-Moves per battle. Z-Moves exist for moves of every different type. But some Z-Moves are exclusive and can be used only by certain Pokémon, such as Snorlax and Alolan Raichu. Now, Pikachu and Eevee join the list of Pokémon able to use exclusive Z-Moves. Both of their Z-Moves are extremely powerful. Bring Pikachu and Eevee to your battles and see what these high-powered Pokémon can do!\n<br>\n<br>- A new battle format: Battle Royal\n<br>In a Battle Royal, four Trainers are jumbled in battle together, but the rules are simple. Each of the four Trainers chooses three Pokémon and sends one Pokémon into battle at a time. The battle is over at the end of any turn when all of the Pokémon of one Trainer have fainted. The players are ranked, and a victor is declared based on the number of Pokémon each defeated and the number of Pokémon each has remaining in play.\n<br>\n<br>Supports 16 Players online and 16 Players via Local Play.",
-    "release_date_on_eshop": "2016-11-23",
-    "product_code": "CTR-N-BNEA",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Region Free",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000175E00",
+  "uid": "50010000041463",
+  "name": "Pokémon™ Moon",
+  "formal_name": "Pokémon™ Moon",
+  "description": "Pokémon Sun and Pokémon Moon take place in the Alola region, which centres around four tropical islands and one artificial island. Many Pokémon that have never been seen before inhabit the lush islands of the Alola region. The story begins right after the main character moves to the Alola region. After choosing to play as a hero or heroine, players can customise their character’s name and appearance. No sooner have they arrived than their adventures begin to unfold, and they meet many fascinating people as they travel through the region.\n<br>\n<br>- Pokémon-Exclusive Z-Moves Revealed\n<br>In Pokémon Sun and Pokémon Moon, Z-Moves make their debut. Each Trainer can use just one of these powered-up Z-Moves per battle. Z-Moves exist for moves of every different type. But some Z-Moves are exclusive and can be used only by certain Pokémon, such as Snorlax and Alolan Raichu. Now, Pikachu and Eevee join the list of Pokémon able to use exclusive Z-Moves. Both of their Z-Moves are extremely powerful. Bring Pikachu and Eevee to your battles and see what these high-powered Pokémon can do!\n<br>\n<br>- A new battle format: Battle Royal\n<br>In a Battle Royal, four Trainers are jumbled in battle together, but the rules are simple. Each of the four Trainers chooses three Pokémon and sends one Pokémon into battle at a time. The battle is over at the end of any turn when all of the Pokémon of one Trainer have fainted. The players are ranked, and a victor is declared based on the number of Pokémon each defeated and the number of Pokémon each has remaining in play.\n<br>\n<br>Supports 16 Players online and 16 Players via Local Play.",
+  "release_date_on_eshop": "2016-11-23",
+  "product_code": "CTR-N-BNEA",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Region Free",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

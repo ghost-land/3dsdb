@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000052700",
-    "uid": "50010000006917",
-    "name": "@SIMPLE DLシリーズ Vol.1\nTHE 密室からの脱出",
-    "formal_name": "@SIMPLE DLシリーズ Vol.1\nTHE 密室からの脱出\n～不思議なクマドナルバーガー編～",
-    "description": "様々なアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。舞台は有名バーガーチェーン店「クマドナルバーガー」。昼食をすませ店内で寝入ってしまった主人公。目が覚めてあたりを見渡すと客も店員もいない。店を出ようとするが出口のドアが開かない。いま、生死を賭けた壮大な脱出劇の幕があがる。",
-    "release_date_on_eshop": "2011-06-29",
-    "product_code": "CTR-N-JM4J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000052700",
+  "uid": "50010000006917",
+  "name": "@SIMPLE DLシリーズ Vol.1\nTHE 密室からの脱出",
+  "formal_name": "@SIMPLE DLシリーズ Vol.1\nTHE 密室からの脱出\n～不思議なクマドナルバーガー編～",
+  "description": "様々なアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。舞台は有名バーガーチェーン店「クマドナルバーガー」。昼食をすませ店内で寝入ってしまった主人公。目が覚めてあたりを見渡すと客も店員もいない。店を出ようとするが出口のドアが開かない。いま、生死を賭けた壮大な脱出劇の幕があがる。",
+  "release_date_on_eshop": "2011-06-29",
+  "product_code": "CTR-N-JM4J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B325545",
-    "uid": "50010000012294",
-    "name": "Spot It! Mean Machines",
-    "formal_name": "Spot It! Mean Machines",
-    "description": "In “Spot It! Mean Machines”, players race the clock to find the hidden objects in cleverly arranged scenes. The puzzles are based on the popular “Spot-It!” book series published by Capstone Press. See how many objects you can spot in 10 different puzzles. Vibrant graphics make spotting objects fun and challenging. \n\nPlayers use the stylus to tap on the hidden objects and also to navigate the extra large play areas. Use the new “Zoom Out” feature to get a big picture of the puzzle. \n\nPlayers can compete against their friends using the “Pass Around Play” feature. Up to four players can race to find 10 objects hidden within a puzzle. Each player has to spot the objects and then pass it on to the next player. See who can get the best score! \n\nFind objects fast to score the most points. Three levels of difficulty (Easy, Medium, and Insane) provide unlimited replay value.",
-    "release_date_on_eshop": "2012-11-01",
-    "product_code": "TWL-N-K2UE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B325545",
+  "uid": "50010000012294",
+  "name": "Spot It! Mean Machines",
+  "formal_name": "Spot It! Mean Machines",
+  "description": "In “Spot It! Mean Machines”, players race the clock to find the hidden objects in cleverly arranged scenes. The puzzles are based on the popular “Spot-It!” book series published by Capstone Press. See how many objects you can spot in 10 different puzzles. Vibrant graphics make spotting objects fun and challenging. \n\nPlayers use the stylus to tap on the hidden objects and also to navigate the extra large play areas. Use the new “Zoom Out” feature to get a big picture of the puzzle. \n\nPlayers can compete against their friends using the “Pass Around Play” feature. Up to four players can race to find 10 objects hidden within a puzzle. Each player has to spot the objects and then pass it on to the next player. See who can get the best score! \n\nFind objects fast to score the most points. Three levels of difficulty (Easy, Medium, and Insane) provide unlimited replay value.",
+  "release_date_on_eshop": "2012-11-01",
+  "product_code": "TWL-N-K2UE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "000400000013FD00",
-    "uid": "50010000023384",
-    "name": "Shizuku",
-    "formal_name": "Shizuku",
-    "description": "『Shizuku』は、雨降る世界のなか、\n<br>水滴（Shizuku）を操作し、パズルを解いていく\n<br>「純粋思考型パズル」です。\n<br>\n<br>心を落ち着かせる雨音と、\n<br>上画面の窓からしたたる水滴。\n<br>そしてアクション要素無し、タイムリミット無しの、\n<br>完全純粋思考型パズル。\n<br>\n<br>たまには、こんなゆっくりしっとりなパズルで、\n<br>まったりしましょう。",
-    "release_date_on_eshop": "2014-06-25",
-    "product_code": "CTR-N-JRYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000013FD00",
+  "uid": "50010000023384",
+  "name": "Shizuku",
+  "formal_name": "Shizuku",
+  "description": "『Shizuku』は、雨降る世界のなか、\n<br>水滴（Shizuku）を操作し、パズルを解いていく\n<br>「純粋思考型パズル」です。\n<br>\n<br>心を落ち着かせる雨音と、\n<br>上画面の窓からしたたる水滴。\n<br>そしてアクション要素無し、タイムリミット無しの、\n<br>完全純粋思考型パズル。\n<br>\n<br>たまには、こんなゆっくりしっとりなパズルで、\n<br>まったりしましょう。",
+  "release_date_on_eshop": "2014-06-25",
+  "product_code": "CTR-N-JRYJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

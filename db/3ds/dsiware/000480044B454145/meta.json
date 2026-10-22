@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B454145",
-    "uid": "50010000001708",
-    "name": "Electroplankton™\nTrapy",
-    "formal_name": "Electroplankton™ Trapy",
-    "description": "A strange electronic sea awaits you. In this sea, you’ll encounter unique species of tiny Electroplankton that respond to your touch and voice to create unforgettable sounds and melodies. Enjoy getting to know these fascinating plankton as you relax to their sights and sounds!\n\nTrapy plankton make sounds as they swim over graceful lines made up of linked triangles. The creatures follow the lines you trace along the water. There are six types of Trapy in all, each with a unique color and sound. All Trapy plankton produce different tones depending on the direction they swim. They produce the lowest-pitched sounds when they swim to the right and produce higher-pitched sounds as their path veers to the left.\n\n",
-    "release_date_on_eshop": "2009-11-09",
-    "product_code": "TWL-N-KEAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game content was previously released as part of Electroplankton for \nNintendo DS.",
-    "descriptors": []
+  "tid": "000480044B454145",
+  "uid": "50010000001708",
+  "name": "Electroplankton™\nTrapy",
+  "formal_name": "Electroplankton™ Trapy",
+  "description": "A strange electronic sea awaits you. In this sea, you’ll encounter unique species of tiny Electroplankton that respond to your touch and voice to create unforgettable sounds and melodies. Enjoy getting to know these fascinating plankton as you relax to their sights and sounds!\n\nTrapy plankton make sounds as they swim over graceful lines made up of linked triangles. The creatures follow the lines you trace along the water. There are six types of Trapy in all, each with a unique color and sound. All Trapy plankton produce different tones depending on the direction they swim. They produce the lowest-pitched sounds when they swim to the right and produce higher-pitched sounds as their path veers to the left.\n\n",
+  "release_date_on_eshop": "2009-11-09",
+  "product_code": "TWL-N-KEAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game content was previously released as part of Electroplankton for \nNintendo DS.",
+  "descriptors": []
 }

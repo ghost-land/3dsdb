@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000101D00",
-    "uid": "50010000016795",
-    "name": "PICROSS e3",
-    "formal_name": "PICROSS e3",
-    "description": "The new Picross e3 is equipped with a navigation function. It includes an all-new mode called \"Mega Picross\" that's a must-see for fans! Picross is a \"Picture Crossword Puzzle Game\" in which you use numbers as hints to complete illustrations. The rules are simple and easy to understand. Anyone can do it!\n<br><br>\nBeginners and intermediate players alike will be able to enjoy these 150 all-new puzzles!\nThe new Picross includes an all-new mode, \"Mega Picross,\" which has \"Mega Numbers,\" numbers which span two rows.\n<br><br>\nIt can be difficult to determine where to fill Mega Numbers, so a different kind of logic from the normal Picross may be necessary. You can change the rules for each puzzle to your own liking as you play.",
-    "release_date_on_eshop": "2013-10-03",
-    "product_code": "CTR-N-JETE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000101D00",
+  "uid": "50010000016795",
+  "name": "PICROSS e3",
+  "formal_name": "PICROSS e3",
+  "description": "The new Picross e3 is equipped with a navigation function. It includes an all-new mode called \"Mega Picross\" that's a must-see for fans! Picross is a \"Picture Crossword Puzzle Game\" in which you use numbers as hints to complete illustrations. The rules are simple and easy to understand. Anyone can do it!\n<br><br>\nBeginners and intermediate players alike will be able to enjoy these 150 all-new puzzles!\nThe new Picross includes an all-new mode, \"Mega Picross,\" which has \"Mega Numbers,\" numbers which span two rows.\n<br><br>\nIt can be difficult to determine where to fill Mega Numbers, so a different kind of logic from the normal Picross may be necessary. You can change the rules for each puzzle to your own liking as you play.",
+  "release_date_on_eshop": "2013-10-03",
+  "product_code": "CTR-N-JETE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

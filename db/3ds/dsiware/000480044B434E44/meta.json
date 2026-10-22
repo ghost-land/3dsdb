@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B434E44",
-    "uid": "50010000001421",
-    "name": "Castle Conqueror",
-    "formal_name": "Castle Conqueror",
-    "description": "You are a great commander! Castle Conqueror is a real-time strategy game for casual gamers. You play a commander who must resist the empire and save the lives of the people. Lead your soldiers into battle, seize the enemy’s castle and gain victories until you destroy the empire on the mainland!\n\nEasy game rules for fun gaming. Play this game using the stylus on the Touch Screen. Select the player’s castle, and then send your army to storm the enemy’s castle in real time. Capture the castle and destroy your enemies to earn gold that you can use to upgrade your commander’s abilities and to buy items that will help you win more battles. Select commanders and different cards to upgrade your army or castle. If, at the end of a battle, you have managed to occupy the enemy's castle, you win the game!\n",
-    "release_date_on_eshop": "2010-09-13",
-    "product_code": "TWL-N-KCNE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Cartoon Violence"
-    ]
+  "tid": "000480044B434E44",
+  "uid": "50010000001421",
+  "name": "Castle Conqueror",
+  "formal_name": "Castle Conqueror",
+  "description": "You are a great commander! Castle Conqueror is a real-time strategy game for casual gamers. You play a commander who must resist the empire and save the lives of the people. Lead your soldiers into battle, seize the enemy’s castle and gain victories until you destroy the empire on the mainland!\n\nEasy game rules for fun gaming. Play this game using the stylus on the Touch Screen. Select the player’s castle, and then send your army to storm the enemy’s castle in real time. Capture the castle and destroy your enemies to earn gold that you can use to upgrade your commander’s abilities and to buy items that will help you win more battles. Select commanders and different cards to upgrade your army or castle. If, at the end of a battle, you have managed to occupy the enemy's castle, you win the game!\n",
+  "release_date_on_eshop": "2010-09-13",
+  "product_code": "TWL-N-KCNE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ]
 }

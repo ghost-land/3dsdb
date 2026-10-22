@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000F5600",
-    "uid": "50010000027196",
-    "name": "Zombie Panic in\nWonderland DX",
-    "formal_name": "Zombie Panic in Wonderland DX",
-    "description": "The Deluxe Version for Nintendo 3DS of the successful Zombie Panic in Wonderland!<BR>\n<BR>\nDon’t miss it! The game is completely renewed for this version!<BR>\nAmazing graphics!<BR>\nExtra stages and extended story!<BR>\nExclusive enemies!<BR>\nYou can use 2 different control systems which are perfectly adapted for the Nintendo 3DS!<BR>\nMaximized playability!<BR>\n<BR>\nLet’s set out on a grand adventure to save the Wonderland from the zombies destroying all in your way!<BR>\n<BR>\nThe world of the fairy tales has been invaded by a plague of strange zombies wondering and spreading an amorous and unpleasant scent. Returning home for the first time in years, Momotaro (Peach Boy) comes upon this weird scent and feels urged to get to the bottom of the problem. <BR>\n<BR>\nArmed with powerful weapons, Momotaro goes through the most popular fairy tales, where also he meets allies who help him to defeat the craziest zombies full of love you have ever seen. ",
-    "release_date_on_eshop": "2014-10-30",
-    "product_code": "CTR-N-JZPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F5600",
+  "uid": "50010000027196",
+  "name": "Zombie Panic in\nWonderland DX",
+  "formal_name": "Zombie Panic in Wonderland DX",
+  "description": "The Deluxe Version for Nintendo 3DS of the successful Zombie Panic in Wonderland!<BR>\n<BR>\nDon’t miss it! The game is completely renewed for this version!<BR>\nAmazing graphics!<BR>\nExtra stages and extended story!<BR>\nExclusive enemies!<BR>\nYou can use 2 different control systems which are perfectly adapted for the Nintendo 3DS!<BR>\nMaximized playability!<BR>\n<BR>\nLet’s set out on a grand adventure to save the Wonderland from the zombies destroying all in your way!<BR>\n<BR>\nThe world of the fairy tales has been invaded by a plague of strange zombies wondering and spreading an amorous and unpleasant scent. Returning home for the first time in years, Momotaro (Peach Boy) comes upon this weird scent and feels urged to get to the bottom of the problem. <BR>\n<BR>\nArmed with powerful weapons, Momotaro goes through the most popular fairy tales, where also he meets allies who help him to defeat the craziest zombies full of love you have ever seen. ",
+  "release_date_on_eshop": "2014-10-30",
+  "product_code": "CTR-N-JZPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

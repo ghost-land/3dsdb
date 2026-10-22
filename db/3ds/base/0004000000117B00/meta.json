@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000117B00",
-    "uid": "50010000018833",
-    "name": "Winter Sports - Feel the Spirit",
-    "formal_name": "Winter Sports - Feel the Spirit",
-    "description": "Experience the adrenaline-fuelled winter sports highlight and embark on a record-breaking quest in 7 thrilling disciplines. Become champion and engage in exciting competitions on the world’s most exhilarating ice surfaces and pistes, or soar high and become king of the air in ski jumping!\n<br>\n<br>Immerse yourself in the spectacular three-dimensional atmosphere of the competition and get close to the action as an athlete when just hundredths of a second can decide the winner of the contest!\n<br>\n<br>The ideal winter sports fun for on the go on your Nintendo 3DS™!\n<br>\n<br>7 thrilling winter sports disciplines with action-packed gameplay\n<br>3 brand-new disciplines: Ice Speedway, Cross-Country Skiing und Curling\n<br>Breath-taking winter sport atmosphere with amazing 3D graphics and dramatic soundtrack\n<br>50 gripping challenges in the fast-paced Cup, Challenge and Single Discipline modes\n<br>20 nations to choose from\n<br>Spectacular slow-motion replays",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-AWSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000117B00",
+  "uid": "50010000018833",
+  "name": "Winter Sports - Feel the Spirit",
+  "formal_name": "Winter Sports - Feel the Spirit",
+  "description": "Experience the adrenaline-fuelled winter sports highlight and embark on a record-breaking quest in 7 thrilling disciplines. Become champion and engage in exciting competitions on the world’s most exhilarating ice surfaces and pistes, or soar high and become king of the air in ski jumping!\n<br>\n<br>Immerse yourself in the spectacular three-dimensional atmosphere of the competition and get close to the action as an athlete when just hundredths of a second can decide the winner of the contest!\n<br>\n<br>The ideal winter sports fun for on the go on your Nintendo 3DS™!\n<br>\n<br>7 thrilling winter sports disciplines with action-packed gameplay\n<br>3 brand-new disciplines: Ice Speedway, Cross-Country Skiing und Curling\n<br>Breath-taking winter sport atmosphere with amazing 3D graphics and dramatic soundtrack\n<br>50 gripping challenges in the fast-paced Cup, Challenge and Single Discipline modes\n<br>20 nations to choose from\n<br>Spectacular slow-motion replays",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-AWSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

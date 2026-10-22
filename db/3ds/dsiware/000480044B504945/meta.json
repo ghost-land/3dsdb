@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B504945",
-    "uid": "50010000003221",
-    "name": "Pop+ Solo™",
-    "formal_name": "Pop+ Solo™",
-    "description": "Pop bubbles, build chains and try to keep the timer alive in this addictive puzzle/shooter. Pop your way through 16 waves of bubbles in Adventure, Normal or Advanced. Test yourself against the clock in a 1, 2 or 5 minute run and take on the new Bonus Round mode where each bonus round can be played in 3, 5 or 10 rounds of increasing difficulty! Or just chill out in the relaxing Chill mode with no score or time pressures to worry about. Pop+ Solo comes to the Nintendo DSi with 8 modes and 5 bonus rounds plus plenty of new badges to collect! Adventure mode introduces some new elements to the game with mines, golden fish and jets of water as well as 4 boss battles. The new Challenge mode lets you create and customize your own challenges to play again and again.",
-    "release_date_on_eshop": "2009-08-24",
-    "product_code": "TWL-N-KPIE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504945",
+  "uid": "50010000003221",
+  "name": "Pop+ Solo™",
+  "formal_name": "Pop+ Solo™",
+  "description": "Pop bubbles, build chains and try to keep the timer alive in this addictive puzzle/shooter. Pop your way through 16 waves of bubbles in Adventure, Normal or Advanced. Test yourself against the clock in a 1, 2 or 5 minute run and take on the new Bonus Round mode where each bonus round can be played in 3, 5 or 10 rounds of increasing difficulty! Or just chill out in the relaxing Chill mode with no score or time pressures to worry about. Pop+ Solo comes to the Nintendo DSi with 8 modes and 5 bonus rounds plus plenty of new badges to collect! Adventure mode introduces some new elements to the game with mines, golden fish and jets of water as well as 4 boss battles. The new Challenge mode lets you create and customize your own challenges to play again and again.",
+  "release_date_on_eshop": "2009-08-24",
+  "product_code": "TWL-N-KPIE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

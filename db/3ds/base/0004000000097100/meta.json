@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000097100",
-    "uid": "50010000012466",
-    "name": "Wreck-it Ralph",
-    "formal_name": "Wreck-it Ralph",
-    "description": "Taking off where the film ends, a new army of Cy-bugs threatens Mr. Litwak’s arcade and it’s up to Ralph to prove that there’s more to him than his bad guy reputation suggests. Team up with the misunderstood Ralph and perpetual “good guy” Felix as they set out on a wild, game-hopping journey to restore peace and help Ralph earn the WRECK-ognition he deserves before \nit’s GAME OVER!\n<br><br>\nON THE FLY SWAPPABLE CHARACTERS<br>\nUse Wreck-It Ralph’s brawn to destroy obstacles or Fix-It-Felix’s magical hammer to repair them!\n<br><br>\nUNIQUE ENVIRONMENTS<br>\nVenture through four distinct backdrops based on the featured film; from Sugar Rush to Hero’s Duty, every world is unique but equally action-packed and fun!\n<br><br>\nBRAGGING RIGHTS<br>\nFind and accumulate collectibles like Hero Medals and Easter Eggs that you can display in your trophy collection!\n<br><br>\nFUN THAT NEVER ENDS<br>\nBeat the game? No problem! Play it again and discover more challenging levels under a new set of rules!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AWRE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Cartoon Violence"
-    ]
+  "tid": "0004000000097100",
+  "uid": "50010000012466",
+  "name": "Wreck-it Ralph",
+  "formal_name": "Wreck-it Ralph",
+  "description": "Taking off where the film ends, a new army of Cy-bugs threatens Mr. Litwak’s arcade and it’s up to Ralph to prove that there’s more to him than his bad guy reputation suggests. Team up with the misunderstood Ralph and perpetual “good guy” Felix as they set out on a wild, game-hopping journey to restore peace and help Ralph earn the WRECK-ognition he deserves before \nit’s GAME OVER!\n<br><br>\nON THE FLY SWAPPABLE CHARACTERS<br>\nUse Wreck-It Ralph’s brawn to destroy obstacles or Fix-It-Felix’s magical hammer to repair them!\n<br><br>\nUNIQUE ENVIRONMENTS<br>\nVenture through four distinct backdrops based on the featured film; from Sugar Rush to Hero’s Duty, every world is unique but equally action-packed and fun!\n<br><br>\nBRAGGING RIGHTS<br>\nFind and accumulate collectibles like Hero Medals and Easter Eggs that you can display in your trophy collection!\n<br><br>\nFUN THAT NEVER ENDS<br>\nBeat the game? No problem! Play it again and discover more challenging levels under a new set of rules!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AWRE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ]
 }

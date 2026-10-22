@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4D4454",
-    "uid": "50010000004384",
-    "name": "Master of Illusion™ Express:\nMatchmaker",
-    "formal_name": "Master of Illusion™ Express:\nMatchmaker",
-    "description": "Master of Illusion Express titles are mind-boggling magic tricks that you perform with your Nintendo DSi system. Learn the illusions, practice up, and then amaze your friends. Master of Illusion Express: Matchmaker includes two tricks that use your Nintendo DSi system as a way of revealing information about others. Use the Photo Diagnosis trick and stun others when only taking two simple photos pinpoints their exact age. Or have the Matchmaker trick show that another person has similar choices for favorite dates or favorite foods as you do—who knows, you could even land a date or make a new friend!",
-    "release_date_on_eshop": "2009-12-14",
-    "product_code": "TWL-N-KMDT",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4454",
+  "uid": "50010000004384",
+  "name": "Master of Illusion™ Express:\nMatchmaker",
+  "formal_name": "Master of Illusion™ Express:\nMatchmaker",
+  "description": "Master of Illusion Express titles are mind-boggling magic tricks that you perform with your Nintendo DSi system. Learn the illusions, practice up, and then amaze your friends. Master of Illusion Express: Matchmaker includes two tricks that use your Nintendo DSi system as a way of revealing information about others. Use the Photo Diagnosis trick and stun others when only taking two simple photos pinpoints their exact age. Or have the Matchmaker trick show that another person has similar choices for favorite dates or favorite foods as you do—who knows, you could even land a date or make a new friend!",
+  "release_date_on_eshop": "2009-12-14",
+  "product_code": "TWL-N-KMDT",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

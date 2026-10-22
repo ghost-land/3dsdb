@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000045D00",
-    "uid": "50010000007004",
-    "name": "PAC-MAN™ & Galaga™\nDimensions",
-    "formal_name": "PAC-MAN™ & Galaga™\nDimensions",
-    "description": "PAC-MAN & Galaga Dimensions is a\ncollection of six complete games,\nincluding four previous titles from the\nPAC-MAN and Galaga franchises, as\nwell as two brand new games\ndesigned to harness the power of\nNintendo 3DS.<br>\n<br>\nIn PAC-MAN tilt, you’ll utilise the\nNintendo 3DS system’s built-in gyro\nsensor to guide the spherical yellow\nhero through inventive levels crammed\nwith challenge. By tilting the Nintendo\n3DS system you’ll alter the angle of\nthe entire stage, causing PAC-MAN to\nroll at high speed and setting him up\nto use level elements like flippers and\nswings that can catapult him to new\nheights. It’s a whole new way to take\ncontrol of one of gaming’s most\nfamous heroes, and it’s all brought to\nlife in glorious 3D!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-APGP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000045D00",
+  "uid": "50010000007004",
+  "name": "PAC-MAN™ & Galaga™\nDimensions",
+  "formal_name": "PAC-MAN™ & Galaga™\nDimensions",
+  "description": "PAC-MAN & Galaga Dimensions is a\ncollection of six complete games,\nincluding four previous titles from the\nPAC-MAN and Galaga franchises, as\nwell as two brand new games\ndesigned to harness the power of\nNintendo 3DS.<br>\n<br>\nIn PAC-MAN tilt, you’ll utilise the\nNintendo 3DS system’s built-in gyro\nsensor to guide the spherical yellow\nhero through inventive levels crammed\nwith challenge. By tilting the Nintendo\n3DS system you’ll alter the angle of\nthe entire stage, causing PAC-MAN to\nroll at high speed and setting him up\nto use level elements like flippers and\nswings that can catapult him to new\nheights. It’s a whole new way to take\ncontrol of one of gaming’s most\nfamous heroes, and it’s all brought to\nlife in glorious 3D!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-APGP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

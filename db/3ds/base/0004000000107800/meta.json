@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000107800",
-    "uid": "50010000018275",
-    "name": "Race To The Line",
-    "formal_name": "Race To The Line",
-    "description": "Race in full 3D with famous cars. Test your mettle against other drivers through treacherous tracks across three continents. Choose one of the 10 Vehicles to drive. \n<br>\n<br>Take in the sights as you cruise through the famous landmarks in Asia, Europe and the United States. Challenge yourself with three distinct modes, Challenge, Time Attack and Two player battles.\n<br>\n<br>Compete in the USA, Europe & Asia\n<br>8 tracks around the world\n<br>4 types of competitions / challenges\n<br>Win points to unlock new circuits, cars and paintings",
-    "release_date_on_eshop": "2013-11-28",
-    "product_code": "CTR-N-JAVE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Action",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000107800",
+  "uid": "50010000018275",
+  "name": "Race To The Line",
+  "formal_name": "Race To The Line",
+  "description": "Race in full 3D with famous cars. Test your mettle against other drivers through treacherous tracks across three continents. Choose one of the 10 Vehicles to drive. \n<br>\n<br>Take in the sights as you cruise through the famous landmarks in Asia, Europe and the United States. Challenge yourself with three distinct modes, Challenge, Time Attack and Two player battles.\n<br>\n<br>Compete in the USA, Europe & Asia\n<br>8 tracks around the world\n<br>4 types of competitions / challenges\n<br>Win points to unlock new circuits, cars and paintings",
+  "release_date_on_eshop": "2013-11-28",
+  "product_code": "CTR-N-JAVE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Action",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

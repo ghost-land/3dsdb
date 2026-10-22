@@ -1,26 +1,26 @@
 {
-    "tid": "000400000009DF00",
-    "uid": "50010000013136",
-    "name": "Dig Dug",
-    "formal_name": "Dig Dug",
-    "description": "Get on down with Dig Dug, and wage\nunderground war with your trusty\npump! Vanquish persistent Pookas and\nfiery Fygars to clear each stage.\n<br/><br/>\nDefeat enemies by inflating them with\nair or by dropping rocks on them from\nabove. Earn bonus points by\ncollecting fruit or defeating\ndeep-dwelling foes.\n<br/><br/>\nThis classic game blends old-school\narcade action with strategy; try to\nlure multiple enemies into position and\nsatisfyingly squash them with a single\nrock!",
-    "release_date_on_eshop": "2013-04-18",
-    "product_code": "CTR-N-TA9P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009DF00",
+  "uid": "50010000013136",
+  "name": "Dig Dug",
+  "formal_name": "Dig Dug",
+  "description": "Get on down with Dig Dug, and wage\nunderground war with your trusty\npump! Vanquish persistent Pookas and\nfiery Fygars to clear each stage.\n<br/><br/>\nDefeat enemies by inflating them with\nair or by dropping rocks on them from\nabove. Earn bonus points by\ncollecting fruit or defeating\ndeep-dwelling foes.\n<br/><br/>\nThis classic game blends old-school\narcade action with strategy; try to\nlure multiple enemies into position and\nsatisfyingly squash them with a single\nrock!",
+  "release_date_on_eshop": "2013-04-18",
+  "product_code": "CTR-N-TA9P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

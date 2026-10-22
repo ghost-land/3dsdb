@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F705400",
-    "uid": "50010000041699",
-    "name": "Breath of Fire™",
-    "formal_name": "Breath of Fire™",
-    "description": "Long ago, the war between the dragon clans almost destroyed the world. Now, centuries after the Light and Dark Dragons settled their scores, evil is rising again!\n<br>\n<br>Join Ryu, a descendant of the Light Dragons, who has the ability to transform into a powerful beast, in a quest to rescue his sister and stop the Dark Dragons’ plans. He is joined by a band of seven companions, each with unique animal powers.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-10-06",
-    "product_code": "KTR-N-UBAE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F705400",
+  "uid": "50010000041699",
+  "name": "Breath of Fire™",
+  "formal_name": "Breath of Fire™",
+  "description": "Long ago, the war between the dragon clans almost destroyed the world. Now, centuries after the Light and Dark Dragons settled their scores, evil is rising again!\n<br>\n<br>Join Ryu, a descendant of the Light Dragons, who has the ability to transform into a powerful beast, in a quest to rescue his sister and stop the Dark Dragons’ plans. He is joined by a band of seven companions, each with unique animal powers.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-10-06",
+  "product_code": "KTR-N-UBAE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

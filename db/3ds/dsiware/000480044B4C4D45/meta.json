@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B4C4D45",
-    "uid": "50010000007944",
-    "name": "Battle of the Elements",
-    "formal_name": "Battle of the Elements",
-    "description": "Can you save the planet? The Legendary Elements are the key to face human destruction, but they have to be mastered to unleash their power!\n\nGet ready to travel around the world facing the most powerful characters in intense battles of elements, where\nyou'll need to think as fast as you move your stylus in order to earn the victory. Follow the story of your favorite character in the quest to find the Legenday Elements, solve 40 mind\nbending missions, or break the score record in a marathon. The world's destiny is just one step ahead!\n\nFeatures:\n*Story mode with eight selectable characters\n*40 mind bending missions to solve before time runs out\n*Achieve the highest score in an endless marathon mode\n*2 Player VS mode\n*Original storylines, endings, dialogues and voice acting for each character\n*Guided tutorial to easily introduce the “easy to learn but hard to master” game mechanic",
-    "release_date_on_eshop": "2011-11-24",
-    "product_code": "TWL-N-KLME",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Arcade",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.6.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4D45",
+  "uid": "50010000007944",
+  "name": "Battle of the Elements",
+  "formal_name": "Battle of the Elements",
+  "description": "Can you save the planet? The Legendary Elements are the key to face human destruction, but they have to be mastered to unleash their power!\n\nGet ready to travel around the world facing the most powerful characters in intense battles of elements, where\nyou'll need to think as fast as you move your stylus in order to earn the victory. Follow the story of your favorite character in the quest to find the Legenday Elements, solve 40 mind\nbending missions, or break the score record in a marathon. The world's destiny is just one step ahead!\n\nFeatures:\n*Story mode with eight selectable characters\n*40 mind bending missions to solve before time runs out\n*Achieve the highest score in an endless marathon mode\n*2 Player VS mode\n*Original storylines, endings, dialogues and voice acting for each character\n*Guided tutorial to easily introduce the “easy to learn but hard to master” game mechanic",
+  "release_date_on_eshop": "2011-11-24",
+  "product_code": "TWL-N-KLME",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Arcade",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.6.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000014FE00",
-    "uid": "50010000027735",
-    "name": "@SIMPLE DLシリーズ Vol.34\nTHE 密室からの脱出 博物館編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.34 THE 密室からの脱出\n～ふしぎ発見!博物館編～",
-    "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲームです。\n<br>今回の舞台は、歴史的な展示物が並んでいる博物館。恐竜や化石の展示場や、神秘的なエジプト展示場、海賊がテーマの展示場と、脱出しがいのある部屋が揃っています。貴重な展示物が、ヒラメキ次第で脱出に役立つアイテムに変身するかもしれません!?",
-    "release_date_on_eshop": "2014-11-19",
-    "product_code": "CTR-N-KDTJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014FE00",
+  "uid": "50010000027735",
+  "name": "@SIMPLE DLシリーズ Vol.34\nTHE 密室からの脱出 博物館編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.34 THE 密室からの脱出\n～ふしぎ発見!博物館編～",
+  "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲームです。\n<br>今回の舞台は、歴史的な展示物が並んでいる博物館。恐竜や化石の展示場や、神秘的なエジプト展示場、海賊がテーマの展示場と、脱出しがいのある部屋が揃っています。貴重な展示物が、ヒラメキ次第で脱出に役立つアイテムに変身するかもしれません!?",
+  "release_date_on_eshop": "2014-11-19",
+  "product_code": "CTR-N-KDTJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

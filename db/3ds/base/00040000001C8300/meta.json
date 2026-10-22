@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001C8300",
-    "uid": "50010000043017",
-    "name": "VoxelMaker",
-    "formal_name": "VoxelMaker",
-    "description": "Create 3D models of your own design! Voxel models are made from 3D cubes and create a stylised \"blocky\" look – like 3D pixel art. \n<br>\n<br>VoxelMaker’s fully-featured model editor makes use of both buttons and touch controls, allowing you to cut, copy and paste part of your model to move, rotate or duplicate sections with ease. You can also insert text, create, edit and save your own color schemes, and more. Finally, use your Nintendo 3DS™ to display 3D images of your scenes in the upper screen and then save them to your Screenshot Album, or share them on Miiverse™.\n<br>\n<br>With VoxelMaker, you have both a 3D canvas and camera in your hands: be inspired and create!\n<br>\n<br>- Create 3D models using a full-featured model editor \n<br>- Use buttons and the touch screen to edit your model and set up your scene \n<br>- View your art in 3D in the upper screen while editing in the lower screen\n<br>- Export your model to SD card in .vmk (VoxelMaker) or .vox (MagicaVoxel) format\n<br>- Save scenes to your Screenshot Album, or share them on Miiverse™",
-    "release_date_on_eshop": "2017-08-10",
-    "product_code": "CTR-N-BVMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C8300",
+  "uid": "50010000043017",
+  "name": "VoxelMaker",
+  "formal_name": "VoxelMaker",
+  "description": "Create 3D models of your own design! Voxel models are made from 3D cubes and create a stylised \"blocky\" look – like 3D pixel art. \n<br>\n<br>VoxelMaker’s fully-featured model editor makes use of both buttons and touch controls, allowing you to cut, copy and paste part of your model to move, rotate or duplicate sections with ease. You can also insert text, create, edit and save your own color schemes, and more. Finally, use your Nintendo 3DS™ to display 3D images of your scenes in the upper screen and then save them to your Screenshot Album, or share them on Miiverse™.\n<br>\n<br>With VoxelMaker, you have both a 3D canvas and camera in your hands: be inspired and create!\n<br>\n<br>- Create 3D models using a full-featured model editor \n<br>- Use buttons and the touch screen to edit your model and set up your scene \n<br>- View your art in 3D in the upper screen while editing in the lower screen\n<br>- Export your model to SD card in .vmk (VoxelMaker) or .vox (MagicaVoxel) format\n<br>- Save scenes to your Screenshot Album, or share them on Miiverse™",
+  "release_date_on_eshop": "2017-08-10",
+  "product_code": "CTR-N-BVMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

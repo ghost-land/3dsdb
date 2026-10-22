@@ -1,36 +1,36 @@
 {
-    "tid": "00040000000BA900",
-    "uid": "50010000014012",
-    "name": "Pokémon™ Mystery Dungeon:\nGates to Infinity",
-    "formal_name": "Pokémon™ Mystery Dungeon:\n<br>Gates to Infinity",
-    "description": "The Pokémon Mystery Dungeon\n<br>series has come to Nintendo 3DS!\n<br>Players take on the role of a\n<br>Pokémon and explore a world packed\n<br>with excitement, adventure and\n<br>dungeons with ever-changing layouts!\n<br>Battle other Pokémon and recruit\n<br>them to your team, help turn Pokémon\n<br>Paradise into a thriving city and use\n<br>the outer cameras of your\n<br>Nintendo 3DS to discover\n<br>Magnagates leading to new dungeons!",
-    "release_date_on_eshop": "2013-05-17",
-    "product_code": "CTR-P-APDP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BA900",
+  "uid": "50010000014012",
+  "name": "Pokémon™ Mystery Dungeon:\nGates to Infinity",
+  "formal_name": "Pokémon™ Mystery Dungeon:\n<br>Gates to Infinity",
+  "description": "The Pokémon Mystery Dungeon\n<br>series has come to Nintendo 3DS!\n<br>Players take on the role of a\n<br>Pokémon and explore a world packed\n<br>with excitement, adventure and\n<br>dungeons with ever-changing layouts!\n<br>Battle other Pokémon and recruit\n<br>them to your team, help turn Pokémon\n<br>Paradise into a thriving city and use\n<br>the outer cameras of your\n<br>Nintendo 3DS to discover\n<br>Magnagates leading to new dungeons!",
+  "release_date_on_eshop": "2013-05-17",
+  "product_code": "CTR-P-APDP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

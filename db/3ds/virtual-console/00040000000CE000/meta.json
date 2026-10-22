@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000CE000",
-    "uid": "50010000021178",
-    "name": "Galaga™",
-    "formal_name": "Galaga™",
-    "description": "Move right and left to defend against the missiles and attacks of the Galaga aliens and the Galaga Commander.\n<br><br>\nAliens attack in formations using a variety of attack patterns.\n<br><br>\nRescue a captured fighter to combine with it, forming a Dual Fighter with twice the firepower!\n<br><br>\nEarn Perfect Bonuses more easily by using a Dual Fighter on the Challenging Stages!",
-    "release_date_on_eshop": "2014-03-13",
-    "product_code": "CTR-N-TCUE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000CE000",
+  "uid": "50010000021178",
+  "name": "Galaga™",
+  "formal_name": "Galaga™",
+  "description": "Move right and left to defend against the missiles and attacks of the Galaga aliens and the Galaga Commander.\n<br><br>\nAliens attack in formations using a variety of attack patterns.\n<br><br>\nRescue a captured fighter to combine with it, forming a Dual Fighter with twice the firepower!\n<br><br>\nEarn Perfect Bonuses more easily by using a Dual Fighter on the Challenging Stages!",
+  "release_date_on_eshop": "2014-03-13",
+  "product_code": "CTR-N-TCUE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

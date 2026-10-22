@@ -1,26 +1,26 @@
 {
-    "tid": "000400000010FB00",
-    "uid": "50010000026277",
-    "name": "Adventures of Lolo™",
-    "formal_name": "Adventures of Lolo™",
-    "description": "When Princess Lala is kidnapped,\nPrince Lolo sets off to the rescue.\nUse your mind and wits to brave a\ntrap-laden castle and rescue Lala!\n<br/><br/>\nAdventures of Lolo features 50\ncunningly designed puzzle rooms.\nCollect all the heart framers to open\nthe treasure chest in each room.\nHowever, monsters are out to stop\nyou, and obstacles block your\nprogress. By collecting certain heart\nframers you can earn magic shots that\nturn enemies into eggs to use as rafts.\nBut beware: enemies won’t stay in\ntheir shells for long!",
-    "release_date_on_eshop": "2014-10-16",
-    "product_code": "CTR-N-TD3P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010FB00",
+  "uid": "50010000026277",
+  "name": "Adventures of Lolo™",
+  "formal_name": "Adventures of Lolo™",
+  "description": "When Princess Lala is kidnapped,\nPrince Lolo sets off to the rescue.\nUse your mind and wits to brave a\ntrap-laden castle and rescue Lala!\n<br/><br/>\nAdventures of Lolo features 50\ncunningly designed puzzle rooms.\nCollect all the heart framers to open\nthe treasure chest in each room.\nHowever, monsters are out to stop\nyou, and obstacles block your\nprogress. By collecting certain heart\nframers you can earn magic shots that\nturn enemies into eggs to use as rafts.\nBut beware: enemies won’t stay in\ntheir shells for long!",
+  "release_date_on_eshop": "2014-10-16",
+  "product_code": "CTR-N-TD3P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

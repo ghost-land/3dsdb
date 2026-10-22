@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000107600",
-    "uid": "50010000007935",
-    "name": "Arcade Classics 3D",
-    "formal_name": "Arcade Classics 3D",
-    "description": "6 of the most playable games of all\n<br>time Puzzles, action, shooters all in\n<br>one purchase! Play the great classics\n<br>today in modern themes in 3D\n<br>environments.\n<br>\n<br>Endless addictive gameplay with\n<br>massive replay ability utilising full on\n<br>3D for an amazing experience!\n<br>\n<br>Once you pick it up You just won’t\n<br>be able to put it down.",
-    "release_date_on_eshop": "2013-11-07",
-    "product_code": "CTR-P-ARDP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [
-        "Internet Required",
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000107600",
+  "uid": "50010000007935",
+  "name": "Arcade Classics 3D",
+  "formal_name": "Arcade Classics 3D",
+  "description": "6 of the most playable games of all\n<br>time Puzzles, action, shooters all in\n<br>one purchase! Play the great classics\n<br>today in modern themes in 3D\n<br>environments.\n<br>\n<br>Endless addictive gameplay with\n<br>massive replay ability utilising full on\n<br>3D for an amazing experience!\n<br>\n<br>Once you pick it up You just won’t\n<br>be able to put it down.",
+  "release_date_on_eshop": "2013-11-07",
+  "product_code": "CTR-P-ARDP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [
+    "Internet Required",
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

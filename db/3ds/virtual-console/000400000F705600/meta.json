@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F705600",
-    "uid": "50010000041700",
-    "name": "Breath of Fire II™",
-    "formal_name": "Breath of Fire II™",
-    "description": "Featuring a wide range of characters and a vast world to explore, Breath of Fire II is the sequel to the hit role-playing game.\n<br>\n<br>Set 500 years after the original, Ryu’s father and sister are abducted but the village-folk have mysteriously forgotten them. Ryu teams up with fellow orphan Bow and they embark on an incredible adventure.\n<br>\n<br>The game features multiple gameplay viewpoints (such as the isometric view during battles, famous from the first game) and exciting abilities like shaman fusing and dragon transformations.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-10-06",
-    "product_code": "KTR-N-UBBE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F705600",
+  "uid": "50010000041700",
+  "name": "Breath of Fire II™",
+  "formal_name": "Breath of Fire II™",
+  "description": "Featuring a wide range of characters and a vast world to explore, Breath of Fire II is the sequel to the hit role-playing game.\n<br>\n<br>Set 500 years after the original, Ryu’s father and sister are abducted but the village-folk have mysteriously forgotten them. Ryu teams up with fellow orphan Bow and they embark on an incredible adventure.\n<br>\n<br>The game features multiple gameplay viewpoints (such as the isometric view during battles, famous from the first game) and exciting abilities like shaman fusing and dragon transformations.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-10-06",
+  "product_code": "KTR-N-UBBE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

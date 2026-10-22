@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B333245",
-    "uid": "50010000015373",
-    "name": "Cute Witch! runner",
-    "formal_name": "Cute Witch! runner",
-    "description": "In Cute Witch! runner get ready to set off on an adventure as your character flies away on her broomstick to a peaceful world inhabited by fantasy characters.\n\nCute Witch! runner is a challenging action game where you have to fly, fly more, and then fly even more! Get all the 32 achievements done and become the number one in the score table. At first, everything is easy: you pick up stars, you earn score points, you fly around the creatures... but soon you'll be involved in an unleashed race where you'll have to put your reflexes to test avoiding every obstacle in your way.\n\nHow long do you think you'll resist flying?\n\nFeatures:\nFast-paced action at breakneck speed.\n32 challenges to accomplish.\nBreak all the records with the included bonus mini game.\nAn adventure full of cute creatures.",
-    "release_date_on_eshop": "2013-07-25",
-    "product_code": "TWL-N-K32E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Racing",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B333245",
+  "uid": "50010000015373",
+  "name": "Cute Witch! runner",
+  "formal_name": "Cute Witch! runner",
+  "description": "In Cute Witch! runner get ready to set off on an adventure as your character flies away on her broomstick to a peaceful world inhabited by fantasy characters.\n\nCute Witch! runner is a challenging action game where you have to fly, fly more, and then fly even more! Get all the 32 achievements done and become the number one in the score table. At first, everything is easy: you pick up stars, you earn score points, you fly around the creatures... but soon you'll be involved in an unleashed race where you'll have to put your reflexes to test avoiding every obstacle in your way.\n\nHow long do you think you'll resist flying?\n\nFeatures:\nFast-paced action at breakneck speed.\n32 challenges to accomplish.\nBreak all the records with the included bonus mini game.\nAn adventure full of cute creatures.",
+  "release_date_on_eshop": "2013-07-25",
+  "product_code": "TWL-N-K32E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Racing",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

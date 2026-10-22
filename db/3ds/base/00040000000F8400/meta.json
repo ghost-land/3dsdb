@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000F8400",
-    "uid": "50010000015633",
-    "name": "Bike Rider DX",
-    "formal_name": "Bike Rider DX",
-    "description": "After being crowned as No.1\ndownload title in Japan twice, this\nnew kind of jump 'n run action finally\nmade its way across the ocean. Travel\nthe globe to be the champion of the\nWORLD TOUR, or break the high\nscore in the endless GRAND PRIX\nmode in this crazy sidescrolling\nplatformer!\n<br/><br/>\nSimple controls, more than 60 levels\nand an addicting endless mode\nguarantee endless bike-riding fun!",
-    "release_date_on_eshop": "2013-08-15",
-    "product_code": "CTR-N-JCXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Arcade",
-        "Action",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F8400",
+  "uid": "50010000015633",
+  "name": "Bike Rider DX",
+  "formal_name": "Bike Rider DX",
+  "description": "After being crowned as No.1\ndownload title in Japan twice, this\nnew kind of jump 'n run action finally\nmade its way across the ocean. Travel\nthe globe to be the champion of the\nWORLD TOUR, or break the high\nscore in the endless GRAND PRIX\nmode in this crazy sidescrolling\nplatformer!\n<br/><br/>\nSimple controls, more than 60 levels\nand an addicting endless mode\nguarantee endless bike-riding fun!",
+  "release_date_on_eshop": "2013-08-15",
+  "product_code": "CTR-N-JCXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Arcade",
+    "Action",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

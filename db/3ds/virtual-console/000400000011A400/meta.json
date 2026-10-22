@@ -1,25 +1,25 @@
 {
-    "tid": "000400000011A400",
-    "uid": "50010000026555",
-    "name": "Donkey Kong Land™ 2",
-    "formal_name": "Donkey Kong Land™ 2",
-    "description": "Donkey Kong has been kidnapped by\nthe evil King K. Rool who is\ndemanding his entire banana hoard as\na ransom! Rather than give up the\nprecious stash, Diddy Kong teams up\nwith Dixie Kong to rescue their pal.\n<br/><br/>\nWhile the story may be familiar to\nfans of Donkey Kong™ Country 2, the\nlevels are all new. Jump in with Diddy\nor Dixie and enlist the help of friendly\nanimal buddies like Rambi the Rhino,\nSquitter the Spider, Enguarde the\nSwordfish and Squawks the Parrot to\nbring DK back to safety!",
-    "release_date_on_eshop": "2014-10-23",
-    "product_code": "CTR-N-RCJP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000011A400",
+  "uid": "50010000026555",
+  "name": "Donkey Kong Land™ 2",
+  "formal_name": "Donkey Kong Land™ 2",
+  "description": "Donkey Kong has been kidnapped by\nthe evil King K. Rool who is\ndemanding his entire banana hoard as\na ransom! Rather than give up the\nprecious stash, Diddy Kong teams up\nwith Dixie Kong to rescue their pal.\n<br/><br/>\nWhile the story may be familiar to\nfans of Donkey Kong™ Country 2, the\nlevels are all new. Jump in with Diddy\nor Dixie and enlist the help of friendly\nanimal buddies like Rambi the Rhino,\nSquitter the Spider, Enguarde the\nSwordfish and Squawks the Parrot to\nbring DK back to safety!",
+  "release_date_on_eshop": "2014-10-23",
+  "product_code": "CTR-N-RCJP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

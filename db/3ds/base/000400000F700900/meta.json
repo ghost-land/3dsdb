@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F700900",
-    "uid": "50010000038015",
-    "name": "The Binding of Isaac: Rebirth",
-    "formal_name": "The Binding of Isaac: Rebirth",
-    "description": "The Binding of Isaac: Rebirth is a\nrandomly generated action RPG\nshooter with heavy Rogue-like\nelements. On his journey, Isaac will\nfind bizarre treasures, face droves of\nstrange creatures, discover secrets,\nand fight his way to safety. This is the\nultimate of remakes with an all-new\nhighly efficient game engine, new pixel\nstyle artwork, polished visual effects,\nall-new soundtrack, and hundreds of\nnew designs, redesigns and\nenhancements.",
-    "release_date_on_eshop": "2015-10-29",
-    "product_code": "KTR-N-CBRP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v2.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F700900",
+  "uid": "50010000038015",
+  "name": "The Binding of Isaac: Rebirth",
+  "formal_name": "The Binding of Isaac: Rebirth",
+  "description": "The Binding of Isaac: Rebirth is a\nrandomly generated action RPG\nshooter with heavy Rogue-like\nelements. On his journey, Isaac will\nfind bizarre treasures, face droves of\nstrange creatures, discover secrets,\nand fight his way to safety. This is the\nultimate of remakes with an all-new\nhighly efficient game engine, new pixel\nstyle artwork, polished visual effects,\nall-new soundtrack, and hundreds of\nnew designs, redesigns and\nenhancements.",
+  "release_date_on_eshop": "2015-10-29",
+  "product_code": "KTR-N-CBRP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v2.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

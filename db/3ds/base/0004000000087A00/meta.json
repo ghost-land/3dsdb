@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000087A00",
-    "uid": "50010000011567",
-    "name": "SpeedX 3D",
-    "formal_name": "SpeedX 3D",
-    "description": "SpeedX 3D for Nintendo 3DS is a stunning tunnel racer that tests a player's skill and transports him or her into a trance filled with great electronic music and hypnotic graphics. SpeedX 3D offers four game modes introducing the player to more and more challenging places at a speed that increases with every second. The question is: how far can the player go without losing concentration?\n<br><br>\nFour game modes - Stages, Endless, Survival, and Zones - will test even the most experienced players. Speed beyond the limits - first-person view and 3D effects immerse the player in the game world and deliver brand new emotions. Start small - a perfect learning curve will hook new players and hold the attention of even the most proficient.",
-    "release_date_on_eshop": "2012-08-30",
-    "product_code": "CTR-N-JSXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000087A00",
+  "uid": "50010000011567",
+  "name": "SpeedX 3D",
+  "formal_name": "SpeedX 3D",
+  "description": "SpeedX 3D for Nintendo 3DS is a stunning tunnel racer that tests a player's skill and transports him or her into a trance filled with great electronic music and hypnotic graphics. SpeedX 3D offers four game modes introducing the player to more and more challenging places at a speed that increases with every second. The question is: how far can the player go without losing concentration?\n<br><br>\nFour game modes - Stages, Endless, Survival, and Zones - will test even the most experienced players. Speed beyond the limits - first-person view and 3D effects immerse the player in the game world and deliver brand new emotions. Start small - a perfect learning curve will hook new players and hold the attention of even the most proficient.",
+  "release_date_on_eshop": "2012-08-30",
+  "product_code": "CTR-N-JSXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

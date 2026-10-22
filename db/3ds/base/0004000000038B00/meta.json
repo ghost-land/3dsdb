@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000038B00",
-    "uid": "50010000000565",
-    "name": "Resident Evil™\nThe Mercenaries 3D",
-    "formal_name": "Resident Evil™\n<br>The Mercenaries 3D",
-    "description": "It’s a race against time as players\n<br>compete to defeat as many enemies\n<br>as possible before the countdown\n<br>reaches zero.\n<br><br/>\n<br>Resident Evil: The Mercenaries 3D\n<br>offers players a variety of gameplay\n<br>formats with a solo mission option or\n<br>the ability to team up with others\n<br>across the world in two-player co-op\n<br>via Internet Play. The game also\n<br>includes the addition of an all new\n<br>Skill Slot feature. Players will be able\n<br>to fill three skill slots from a selection\n<br>of 30 skills including improvements to\n<br>weapon performance, reload speed or\n<br>melee abilities and customise\n<br>characters to best suit their style of\n<br>play.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-ABMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "18"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000038B00",
+  "uid": "50010000000565",
+  "name": "Resident Evil™\nThe Mercenaries 3D",
+  "formal_name": "Resident Evil™\n<br>The Mercenaries 3D",
+  "description": "It’s a race against time as players\n<br>compete to defeat as many enemies\n<br>as possible before the countdown\n<br>reaches zero.\n<br><br/>\n<br>Resident Evil: The Mercenaries 3D\n<br>offers players a variety of gameplay\n<br>formats with a solo mission option or\n<br>the ability to team up with others\n<br>across the world in two-player co-op\n<br>via Internet Play. The game also\n<br>includes the addition of an all new\n<br>Skill Slot feature. Players will be able\n<br>to fill three skill slots from a selection\n<br>of 30 skills including improvements to\n<br>weapon performance, reload speed or\n<br>melee abilities and customise\n<br>characters to best suit their style of\n<br>play.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-ABMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "18"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

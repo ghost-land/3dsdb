@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E001E2B00",
-    "uid": "50010000049735",
-    "name": "Fragrant Story\nUpdate Ver. 1.2",
-    "formal_name": "Fragrant Story\n<br>Update Ver. 1.2",
-    "description": "This is an update for the Fragrant Story game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Fragrant Story.\nv1.2 changes:\n<br> - Fixed missing menu options\n<br> - Adjusted end credits (incl. additional names)\n<br> - Adjusted number of tickets awarded after missions\n<br> - Adjusted prices and availability in item shop\n<br> - Added equip option during character select\n<br> - Added AP tracking and rewards\n<br> - Added world map to main menu",
-    "release_date_on_eshop": "2023-02-16",
-    "product_code": "CTR-U-A4AE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v2.4.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E001E2B00",
+  "uid": "50010000049735",
+  "name": "Fragrant Story\nUpdate Ver. 1.2",
+  "formal_name": "Fragrant Story\n<br>Update Ver. 1.2",
+  "description": "This is an update for the Fragrant Story game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Fragrant Story.\nv1.2 changes:\n<br> - Fixed missing menu options\n<br> - Adjusted end credits (incl. additional names)\n<br> - Adjusted number of tickets awarded after missions\n<br> - Adjusted prices and availability in item shop\n<br> - Added equip option during character select\n<br> - Added AP tracking and rewards\n<br> - Added world map to main menu",
+  "release_date_on_eshop": "2023-02-16",
+  "product_code": "CTR-U-A4AE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v2.4.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

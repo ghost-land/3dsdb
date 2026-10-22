@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000055B00",
-    "uid": "50010000007433",
-    "name": "Shinobi™",
-    "formal_name": "Shinobi™",
-    "description": "Re-experience the classic gameplay of the original Shinobi games, with a modern twist. Defeat enemies with skill and style as you switch between ranged, melee and acrobatic attacks on the fly. Rely on your Ninja magic to get out of tight spots and give you advantage during intense fights. With a brand new combo system to master, a host of achievements to unlock and challenge maps to complete you will want to return again and again to better your score and ranking. Use the groundbreaking Streetpass functionality to unlock extra content with others.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASVE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Fighting"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Blood",
-        "Violence"
-    ]
+  "tid": "0004000000055B00",
+  "uid": "50010000007433",
+  "name": "Shinobi™",
+  "formal_name": "Shinobi™",
+  "description": "Re-experience the classic gameplay of the original Shinobi games, with a modern twist. Defeat enemies with skill and style as you switch between ranged, melee and acrobatic attacks on the fly. Rely on your Ninja magic to get out of tight spots and give you advantage during intense fights. With a brand new combo system to master, a host of achievements to unlock and challenge maps to complete you will want to return again and again to better your score and ranking. Use the groundbreaking Streetpass functionality to unlock extra content with others.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASVE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Blood",
+    "Violence"
+  ]
 }

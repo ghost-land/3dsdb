@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000163E00",
-    "uid": "50010000040478",
-    "name": "Dragon Fantasy: The Black Tome of Ice",
-    "formal_name": "Dragon Fantasy: The Black Tome of Ice",
-    "description": "Join Ogden and the heroes of Westeria in this classic JRPG epic, Dragon Fantasy: The Black Tome of Ice. Travel through the frozen wastelands of Tundaria, experiencing action-packed battles without random encounters, using spatially aware Area-of-Effect attacks and power moves. Travel by pirate ship, defending against enemies in thrilling ship-to-ship rock monster combat! Defeat oncoming hordes of demons and huge bosses that threaten the entire world of Dragon Fantasy.",
-    "release_date_on_eshop": "2016-05-26",
-    "product_code": "CTR-N-KDFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000163E00",
+  "uid": "50010000040478",
+  "name": "Dragon Fantasy: The Black Tome of Ice",
+  "formal_name": "Dragon Fantasy: The Black Tome of Ice",
+  "description": "Join Ogden and the heroes of Westeria in this classic JRPG epic, Dragon Fantasy: The Black Tome of Ice. Travel through the frozen wastelands of Tundaria, experiencing action-packed battles without random encounters, using spatially aware Area-of-Effect attacks and power moves. Travel by pirate ship, defending against enemies in thrilling ship-to-ship rock monster combat! Defeat oncoming hordes of demons and huge bosses that threaten the entire world of Dragon Fantasy.",
+  "release_date_on_eshop": "2016-05-26",
+  "product_code": "CTR-N-KDFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

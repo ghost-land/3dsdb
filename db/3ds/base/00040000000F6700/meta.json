@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000F6700",
-    "uid": "50010000021595",
-    "name": "Putty Squad",
-    "formal_name": "Putty Squad",
-    "description": "Putty Squad is a no-holds-barred\nretro gaming experience brought to\nlife for the modern gamer.\n<br/><br/>\nOur hero, Putty, can inflate, morph,\nstretch, punch and absorb, taking on\nferocious enemies on his mission to\nrescue imprisoned putties. Putty\nSquad features lovingly created levels\nthat will test your timing, skill and\nimagination in a charming and\nincredibly addictive adventure.\n<br/><br/>\nAccessible for the casual gamer, with\npower ups and special objects to find\nand use, Putty Squad will keep you\nhooked for hours and hours of game\nplay fun.\n",
-    "release_date_on_eshop": "2014-04-17",
-    "product_code": "CTR-P-AYZP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F6700",
+  "uid": "50010000021595",
+  "name": "Putty Squad",
+  "formal_name": "Putty Squad",
+  "description": "Putty Squad is a no-holds-barred\nretro gaming experience brought to\nlife for the modern gamer.\n<br/><br/>\nOur hero, Putty, can inflate, morph,\nstretch, punch and absorb, taking on\nferocious enemies on his mission to\nrescue imprisoned putties. Putty\nSquad features lovingly created levels\nthat will test your timing, skill and\nimagination in a charming and\nincredibly addictive adventure.\n<br/><br/>\nAccessible for the casual gamer, with\npower ups and special objects to find\nand use, Putty Squad will keep you\nhooked for hours and hours of game\nplay fun.\n",
+  "release_date_on_eshop": "2014-04-17",
+  "product_code": "CTR-P-AYZP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

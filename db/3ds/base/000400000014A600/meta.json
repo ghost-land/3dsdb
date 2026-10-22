@@ -1,34 +1,34 @@
 {
-    "tid": "000400000014A600",
-    "uid": "50010000031995",
-    "name": "My Pet School 3D",
-    "formal_name": "My Pet School 3D",
-    "description": "Start a fantastic career as a pet trainer!\n<br>\n<br>Enjoy a colorful, three-dimensional world with lots of entertaining tasks and minigames.\n<br>\n<br>- Educate cute animals like dogs, cats, horses, rabbits and parakeets\n<br>\n<br>- Show them amazing tricks like turn around, play dead, sit up and beg, lay down and give paw\n<br>\n<br>- Reward your pets with tidbits\n<br>\n<br>- Care lovingly for them and keep an eye on their values\n<br>\n<br>- Provide special training in obedience, road safety, family life, guiding or let them become big movie stars\n<br>\n<br>- Enjoy the wide area with city, sea and meadows to train or to ride out\n<br>\n<br>- Choose between a great selection of different objects to work with\n<br>\n<br>- Exchange Play Coins for ingame currency\n<br>\n<br>- Expand your pet school and your knowledge about animals",
-    "release_date_on_eshop": "2015-04-09",
-    "product_code": "CTR-P-BM6P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Adventure",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014A600",
+  "uid": "50010000031995",
+  "name": "My Pet School 3D",
+  "formal_name": "My Pet School 3D",
+  "description": "Start a fantastic career as a pet trainer!\n<br>\n<br>Enjoy a colorful, three-dimensional world with lots of entertaining tasks and minigames.\n<br>\n<br>- Educate cute animals like dogs, cats, horses, rabbits and parakeets\n<br>\n<br>- Show them amazing tricks like turn around, play dead, sit up and beg, lay down and give paw\n<br>\n<br>- Reward your pets with tidbits\n<br>\n<br>- Care lovingly for them and keep an eye on their values\n<br>\n<br>- Provide special training in obedience, road safety, family life, guiding or let them become big movie stars\n<br>\n<br>- Enjoy the wide area with city, sea and meadows to train or to ride out\n<br>\n<br>- Choose between a great selection of different objects to work with\n<br>\n<br>- Exchange Play Coins for ingame currency\n<br>\n<br>- Expand your pet school and your knowledge about animals",
+  "release_date_on_eshop": "2015-04-09",
+  "product_code": "CTR-P-BM6P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000E7700",
-    "uid": "50010000014936",
-    "name": "Gabrielle's Ghostly Groove™\nMini",
-    "formal_name": "Gabrielle's Ghostly Groove™ Mini",
-    "description": "Take a peek into Gabrielle's spooky world of Monsterville in this rhythm dancing game. Dance along in 4 different stages with characters like Vlad the Vampire, Fang the Werewolf, and Robert the Mummy! You'll need to use the stylus to twist and turn in time to the music. Do well enough, and\nyou'll earn enough screams to unlock the next level! With three difficulty levels, do you have what it takes to master the Ghostly Groove?",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-JGBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E7700",
+  "uid": "50010000014936",
+  "name": "Gabrielle's Ghostly Groove™\nMini",
+  "formal_name": "Gabrielle's Ghostly Groove™ Mini",
+  "description": "Take a peek into Gabrielle's spooky world of Monsterville in this rhythm dancing game. Dance along in 4 different stages with characters like Vlad the Vampire, Fang the Werewolf, and Robert the Mummy! You'll need to use the stylus to twist and turn in time to the music. Do well enough, and\nyou'll earn enough screams to unlock the next level! With three difficulty levels, do you have what it takes to master the Ghostly Groove?",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-JGBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

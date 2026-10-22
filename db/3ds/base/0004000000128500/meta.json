@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000128500",
-    "uid": "50010000021797",
-    "name": "Smash Cat Heroes",
-    "formal_name": "Smash Cat Heroes",
-    "description": "Slash and smash enemies coming at you from all directions in non-stop cat-attack action Smash Cat Heroes! Take control of one of the samurai cats and go in search for the legendary Super Cat Food that will supposedly grant its eater all the power in the world!\n<br><br>\nEach playable character has its own fighting style with short and long range attacks, plus special and hyper attacks. \n<br><br>\nCollect coins on your travels to level up your cat's abilities, increasing their attack strength, smash attacks, speed, HP and defenses.\n<br><br>\nStand still to charge your energy gauge when the coast is clear and then use the energy for special and hyper attacks that inflict heavy damage. Pull of a series of attacks without getting hit to charge the Combo counter and trigger the devastating Spinning Cat Attack!",
-    "release_date_on_eshop": "2014-04-17",
-    "product_code": "CTR-N-JN2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000128500",
+  "uid": "50010000021797",
+  "name": "Smash Cat Heroes",
+  "formal_name": "Smash Cat Heroes",
+  "description": "Slash and smash enemies coming at you from all directions in non-stop cat-attack action Smash Cat Heroes! Take control of one of the samurai cats and go in search for the legendary Super Cat Food that will supposedly grant its eater all the power in the world!\n<br><br>\nEach playable character has its own fighting style with short and long range attacks, plus special and hyper attacks. \n<br><br>\nCollect coins on your travels to level up your cat's abilities, increasing their attack strength, smash attacks, speed, HP and defenses.\n<br><br>\nStand still to charge your energy gauge when the coast is clear and then use the energy for special and hyper attacks that inflict heavy damage. Pull of a series of attacks without getting hit to charge the Combo counter and trigger the devastating Spinning Cat Attack!",
+  "release_date_on_eshop": "2014-04-17",
+  "product_code": "CTR-N-JN2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

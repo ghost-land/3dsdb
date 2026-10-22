@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001CB100",
-    "uid": "50010000046115",
-    "name": "Captain Toad™: \nTreasure Tracker",
-    "formal_name": "Captain Toad™: \n<br>Treasure Tracker",
-    "description": "Captain Toad stars in his own puzzling quest on the Nintendo 3DS™ family of systems! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new courses based on the Super Mario Odyssey™ game!  Watch them come to life in stereoscopic 3D using the touch-controlled game camera.\n<br>\n<br>Super Gems and Power Stars are hidden across each puzzling course you’ll explore. As you reclaim the treasure stolen by the monstrous, greedy bird, Wingo, you’ll eventually be able to play as Toadette! These tiny heroes will have to waddle, hide, pluck, chuck, and power-up through enemy-infested locales like towers, wild-west shanties, and Goomba waterparks—all bursting with goodies to find and secrets to unearth. It’s all in the name of treasure! Aim your head-mounted flashlight at adventure!",
-    "release_date_on_eshop": "2018-07-12",
-    "product_code": "CTR-N-BZPE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.<br><br>Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>amiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "00040000001CB100",
+  "uid": "50010000046115",
+  "name": "Captain Toad™: \nTreasure Tracker",
+  "formal_name": "Captain Toad™: \n<br>Treasure Tracker",
+  "description": "Captain Toad stars in his own puzzling quest on the Nintendo 3DS™ family of systems! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new courses based on the Super Mario Odyssey™ game!  Watch them come to life in stereoscopic 3D using the touch-controlled game camera.\n<br>\n<br>Super Gems and Power Stars are hidden across each puzzling course you’ll explore. As you reclaim the treasure stolen by the monstrous, greedy bird, Wingo, you’ll eventually be able to play as Toadette! These tiny heroes will have to waddle, hide, pluck, chuck, and power-up through enemy-infested locales like towers, wild-west shanties, and Goomba waterparks—all bursting with goodies to find and secrets to unearth. It’s all in the name of treasure! Aim your head-mounted flashlight at adventure!",
+  "release_date_on_eshop": "2018-07-12",
+  "product_code": "CTR-N-BZPE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.<br><br>Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>amiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

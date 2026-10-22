@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000FAA00",
-    "uid": "50010000015405",
-    "name": "グレコからの挑戦状!\n計算の城とオバケたち ひき算",
-    "formal_name": "グレコからの挑戦状!\n計算の城とオバケたち ひき算",
-    "description": "「ひき算」の達人になれる計算ドリルです。小学校で習う整数のひき算問題を収録しています。1けたどうしのひき算からはじまり、10段階の学習ステップの積み重ねで、無理なく自然に6けたどうしのひき算までできるようになります。\n<br>\n<br>グレコやオバケたちと勝負して、計算の城に隠されたコインや財宝を集めよう!",
-    "release_date_on_eshop": "2013-08-21",
-    "product_code": "CTR-N-JG8J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "学習"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FAA00",
+  "uid": "50010000015405",
+  "name": "グレコからの挑戦状!\n計算の城とオバケたち ひき算",
+  "formal_name": "グレコからの挑戦状!\n計算の城とオバケたち ひき算",
+  "description": "「ひき算」の達人になれる計算ドリルです。小学校で習う整数のひき算問題を収録しています。1けたどうしのひき算からはじまり、10段階の学習ステップの積み重ねで、無理なく自然に6けたどうしのひき算までできるようになります。\n<br>\n<br>グレコやオバケたちと勝負して、計算の城に隠されたコインや財宝を集めよう!",
+  "release_date_on_eshop": "2013-08-21",
+  "product_code": "CTR-N-JG8J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "学習"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

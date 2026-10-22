@@ -1,38 +1,38 @@
 {
-    "tid": "0004000000167400",
-    "uid": "50010000034616",
-    "name": "Fantasy Pirates",
-    "formal_name": "Fantasy Pirates",
-    "description": "Join in the adventures of the pirate\nclan. Sail the seas in search of islands\nand forts with treasures.\n<br/><br/>\nIt is a world of fantasy where you will\nfind unusual things like piggy boats,\nrare sea monsters and all types of\nstrange objects.\n<br/><br/>\nKeep both treasures and enemies in\nsight with 360º navigation; a simple,\nyet very effective system.\n<br/><br/>\nAnother ability of your fantastic pirate\nship is that it jumps and dives, which\nis very necessary to dodge or jump\nover obstacles and move forward in\nthe adventure.\n<br/><br/>\nThe touch screen controls shooting,\nwhich means you will have intuitive\nand absolute precision.\n<br/><br/>\nGet special items, such as the 'super\ncanon', which will give you total\ndestruction power, devastating\neverything you find along the way.\nOr the 'flea ship' Item, where you\nbecome as small as an elusive flea.\n<br/><br/>\nChallenge your friends\nand everyone else with the 1-on-1\nonline mode. You'll be the world's\ngreatest pirate of all time!!!\n<br/><br/>\n*** Features:<br/>\n- Adventure mode with a\npyramid-shaped map where you\nchoose both your path and the\ndifficulty.<br/>\n- Total control and very effective\n360º circular navigation.<br/>\n- One of the most challenging games\nin the eShop with over 15\nsimultaneous enemies.<br/>\n- Challenge an adversary in the\n1-on-1 online/local multi-player mode\nto become the world's greatest pirate.<br/>\n- Incredible and fantastic final\nBosses.",
-    "release_date_on_eshop": "2015-07-02",
-    "product_code": "CTR-N-KFPP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Arcade",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Internet Required",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000167400",
+  "uid": "50010000034616",
+  "name": "Fantasy Pirates",
+  "formal_name": "Fantasy Pirates",
+  "description": "Join in the adventures of the pirate\nclan. Sail the seas in search of islands\nand forts with treasures.\n<br/><br/>\nIt is a world of fantasy where you will\nfind unusual things like piggy boats,\nrare sea monsters and all types of\nstrange objects.\n<br/><br/>\nKeep both treasures and enemies in\nsight with 360º navigation; a simple,\nyet very effective system.\n<br/><br/>\nAnother ability of your fantastic pirate\nship is that it jumps and dives, which\nis very necessary to dodge or jump\nover obstacles and move forward in\nthe adventure.\n<br/><br/>\nThe touch screen controls shooting,\nwhich means you will have intuitive\nand absolute precision.\n<br/><br/>\nGet special items, such as the 'super\ncanon', which will give you total\ndestruction power, devastating\neverything you find along the way.\nOr the 'flea ship' Item, where you\nbecome as small as an elusive flea.\n<br/><br/>\nChallenge your friends\nand everyone else with the 1-on-1\nonline mode. You'll be the world's\ngreatest pirate of all time!!!\n<br/><br/>\n*** Features:<br/>\n- Adventure mode with a\npyramid-shaped map where you\nchoose both your path and the\ndifficulty.<br/>\n- Total control and very effective\n360º circular navigation.<br/>\n- One of the most challenging games\nin the eShop with over 15\nsimultaneous enemies.<br/>\n- Challenge an adversary in the\n1-on-1 online/local multi-player mode\nto become the world's greatest pirate.<br/>\n- Incredible and fantastic final\nBosses.",
+  "release_date_on_eshop": "2015-07-02",
+  "product_code": "CTR-N-KFPP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Arcade",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Internet Required",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

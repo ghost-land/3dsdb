@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001B8D00",
-    "uid": "50010000042738",
-    "name": "Miitopia™: Casting Call",
-    "formal_name": "Miitopia™: Casting Call",
-    "description": "Watch your favourite Mii characters star in a hilarious movie-style trailer!",
-    "release_date_on_eshop": "2017-07-13",
-    "product_code": "CTR-N-ANUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B8D00",
+  "uid": "50010000042738",
+  "name": "Miitopia™: Casting Call",
+  "formal_name": "Miitopia™: Casting Call",
+  "description": "Watch your favourite Mii characters star in a hilarious movie-style trailer!",
+  "release_date_on_eshop": "2017-07-13",
+  "product_code": "CTR-N-ANUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

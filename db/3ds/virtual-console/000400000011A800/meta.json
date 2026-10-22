@@ -1,30 +1,30 @@
 {
-    "tid": "000400000011A800",
-    "uid": "50010000029275",
-    "name": "Bionic Commando™:\nElite Forces",
-    "formal_name": "Bionic Commando™:\nElite Forces",
-    "description": "The once tranquil land of Karinia has been consumed by fear under the destructive rule of Arturus and his army of Avars. For years the Bionic Corps have fought back. But when one of their most valued officers is captured, the Elite Forces are called in to save Commander Joe and stop the Albatross Project. You are the perfect combination of man and machine—a Bionic Commando equipped with a Bionic Claw that will be extremely handy when infiltrating the danger zone. Blast through enemy lines as you grapple, swing, and scale more than 20 levels of forests, deserts, mountains, and futuristic cities. You are the last hope in saving your homeland from utter destruction. Suit up, soldier!",
-    "release_date_on_eshop": "2015-01-01",
-    "product_code": "CTR-N-QBDE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Platformer",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000011A800",
+  "uid": "50010000029275",
+  "name": "Bionic Commando™:\nElite Forces",
+  "formal_name": "Bionic Commando™:\nElite Forces",
+  "description": "The once tranquil land of Karinia has been consumed by fear under the destructive rule of Arturus and his army of Avars. For years the Bionic Corps have fought back. But when one of their most valued officers is captured, the Elite Forces are called in to save Commander Joe and stop the Albatross Project. You are the perfect combination of man and machine—a Bionic Commando equipped with a Bionic Claw that will be extremely handy when infiltrating the danger zone. Blast through enemy lines as you grapple, swing, and scale more than 20 levels of forests, deserts, mountains, and futuristic cities. You are the last hope in saving your homeland from utter destruction. Suit up, soldier!",
+  "release_date_on_eshop": "2015-01-01",
+  "product_code": "CTR-N-QBDE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Platformer",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

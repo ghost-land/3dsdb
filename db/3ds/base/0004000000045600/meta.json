@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000045600",
-    "uid": "50010000000322",
-    "name": "LEGO® Pirates of the\nCaribbean: The Video Game",
-    "formal_name": "LEGO® Pirates of the\nCaribbean: The Video Game",
-    "description": "Shiver me timbers! Disney Interactive\nStudios and TT Games invite you to\nhoist yer flag and raise anchor for a\nhigh seas adventure - as LEGO®\nPirates of the Caribbean The Video\nGame comes to Nintendo 3DS.\nBringing all the swashbuckling action\nof the Pirates of the Caribbean movies\nalive in LEGO form, this thrilling new\ntake on the series is sure to excite\nand delight with plenty of\nskullduggery and swordplay! Savvy?<br>\n<br>\nIf all of this has made you believe\nthat it’s a pirate’s life for ye, then set\nsail with no delay for LEGO Pirates\nof the Caribbean The Video Game\non Nintendo 3DS.<br>\n<br>\n* Featuring 70 characters and famed\nlocations from the movie series.\n* Exploration, combat and puzzles\nawait you in over 20 action-packed\nlevels.\n* There’s hours of fun to be had on a\nsearch for the treasure, secrets and\ncollectables which are hidden in\nfiendish places throughout the game.\n* Use Play Coins and Pirate Duels\nvia StreetPass to get extra booty!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-APCP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000045600",
+  "uid": "50010000000322",
+  "name": "LEGO® Pirates of the\nCaribbean: The Video Game",
+  "formal_name": "LEGO® Pirates of the\nCaribbean: The Video Game",
+  "description": "Shiver me timbers! Disney Interactive\nStudios and TT Games invite you to\nhoist yer flag and raise anchor for a\nhigh seas adventure - as LEGO®\nPirates of the Caribbean The Video\nGame comes to Nintendo 3DS.\nBringing all the swashbuckling action\nof the Pirates of the Caribbean movies\nalive in LEGO form, this thrilling new\ntake on the series is sure to excite\nand delight with plenty of\nskullduggery and swordplay! Savvy?<br>\n<br>\nIf all of this has made you believe\nthat it’s a pirate’s life for ye, then set\nsail with no delay for LEGO Pirates\nof the Caribbean The Video Game\non Nintendo 3DS.<br>\n<br>\n* Featuring 70 characters and famed\nlocations from the movie series.\n* Exploration, combat and puzzles\nawait you in over 20 action-packed\nlevels.\n* There’s hours of fun to be had on a\nsearch for the treasure, secrets and\ncollectables which are hidden in\nfiendish places throughout the game.\n* Use Play Coins and Pirate Duels\nvia StreetPass to get extra booty!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-APCP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

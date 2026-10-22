@@ -1,28 +1,28 @@
 {
-    "tid": "0004000200169301",
-    "uid": "50010000032795",
-    "name": "Word Search by POWGI",
-    "formal_name": "Word Search by POWGI",
-    "description": "With more than 300 puzzles to solve, Word Search by POWGI will keep you puzzling for hours!\n<br><br>\nAn intuitive touch-screen interface puts you straight into the action with no complex controls to learn!\n<br><br>\nFollow your progress through 28 different categories, from animals, nature and science to school life, hobbies and careers.\n<br><br>\nPOWGI's word search puzzles are expertly hand-crafted for your enjoyment and are stuffed to the brim with words in every direction!",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-N-KWBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000200169301",
+  "uid": "50010000032795",
+  "name": "Word Search by POWGI",
+  "formal_name": "Word Search by POWGI",
+  "description": "With more than 300 puzzles to solve, Word Search by POWGI will keep you puzzling for hours!\n<br><br>\nAn intuitive touch-screen interface puts you straight into the action with no complex controls to learn!\n<br><br>\nFollow your progress through 28 different categories, from animals, nature and science to school life, hobbies and careers.\n<br><br>\nPOWGI's word search puzzles are expertly hand-crafted for your enjoyment and are stuffed to the brim with words in every direction!",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-N-KWBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

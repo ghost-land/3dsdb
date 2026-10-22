@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B435150",
-    "uid": "50010000009121",
-    "name": "Crazy Cheebo: Puzzle Party",
-    "formal_name": "Crazy Cheebo: Puzzle Party",
-    "description": "The objective is to switch two\nobjects to make a horizontal or\nvertical set of three or more objects\nof the same colour. The player can win\nvarious awards by matching more\nobjects and creating combos. The\ngame contains colourful graphics, a\nCrazy Cheebo character and lots of\nhumorous videos.<br>\n<br>\nYou will have even more fun when\nyou compete against your friends in\nmultiplayer games where you can\nshow everyone who is the best player!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KCQP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Party"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435150",
+  "uid": "50010000009121",
+  "name": "Crazy Cheebo: Puzzle Party",
+  "formal_name": "Crazy Cheebo: Puzzle Party",
+  "description": "The objective is to switch two\nobjects to make a horizontal or\nvertical set of three or more objects\nof the same colour. The player can win\nvarious awards by matching more\nobjects and creating combos. The\ngame contains colourful graphics, a\nCrazy Cheebo character and lots of\nhumorous videos.<br>\n<br>\nYou will have even more fun when\nyou compete against your friends in\nmultiplayer games where you can\nshow everyone who is the best player!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KCQP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Party"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

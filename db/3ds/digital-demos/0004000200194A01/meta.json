@@ -1,32 +1,32 @@
 {
-    "tid": "0004000200194A01",
-    "uid": "50010000040176",
-    "name": "Pocket Card Jockey™",
-    "formal_name": "Pocket Card Jockey™",
-    "description": "3, 2, 1… Go! Stack cards like it’s a race to the finish. And it is! In this fast-paced mash-up of solitaire and horse racing, you’ll jockey your way to victory by clearing cards to energize your horse. You can even level up your noble steed through strategic positioning on the track. Can you master solitaire and horseback racing…at the same time?!\n\n<br><br>After you get a dozen races under your belt, you can retire your horse—a sad moment for any jockey. However! You can relocate your horse to your very own farm and pair them with other retired horses to breed new ponies...that are completely adorable! Eventually these babies will pony up by maturing into horses that you can ride in competitions for prizes. You can then get items at Chirp’s shop, such as puzzle pieces or temporary bonuses. After completing certain puzzles, your horse will gain even more stats when leveling up. That’s some next-level jockeying!",
-    "release_date_on_eshop": "2016-05-05",
-    "product_code": "CTR-N-JVAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Other",
-        "Racing"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Comic Mischief",
-        "Fantasy Violence"
-    ]
+  "tid": "0004000200194A01",
+  "uid": "50010000040176",
+  "name": "Pocket Card Jockey™",
+  "formal_name": "Pocket Card Jockey™",
+  "description": "3, 2, 1… Go! Stack cards like it’s a race to the finish. And it is! In this fast-paced mash-up of solitaire and horse racing, you’ll jockey your way to victory by clearing cards to energize your horse. You can even level up your noble steed through strategic positioning on the track. Can you master solitaire and horseback racing…at the same time?!\n\n<br><br>After you get a dozen races under your belt, you can retire your horse—a sad moment for any jockey. However! You can relocate your horse to your very own farm and pair them with other retired horses to breed new ponies...that are completely adorable! Eventually these babies will pony up by maturing into horses that you can ride in competitions for prizes. You can then get items at Chirp’s shop, such as puzzle pieces or temporary bonuses. After completing certain puzzles, your horse will gain even more stats when leveling up. That’s some next-level jockeying!",
+  "release_date_on_eshop": "2016-05-05",
+  "product_code": "CTR-N-JVAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Other",
+    "Racing"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Comic Mischief",
+    "Fantasy Violence"
+  ]
 }

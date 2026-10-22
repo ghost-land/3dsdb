@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000B5B00",
-    "uid": "50010000018738",
-    "name": "Life Force",
-    "formal_name": "Life Force",
-    "description": "Pilot the Vic Viper on a mission to\ndestroy an enormous alien that\nthreatens to devour the galaxy!\n<br/><br/>\nClassic shoot ‘em up Life Force is a\nspin-off of the seminal Gradius series,\nfeaturing six stages that take place\ninside the gigantic creature,\nalternating between horizontally and\nvertically scrolling environments.\n<br/><br/>\nCollect capsules to gain new\nweapons and power-ups, and defeat\nthe bosses at the end of each stage.\nGo it alone or team up with a friend in\nthe cooperative two player mode via\nDownload Play.",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-TBZP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Shooter"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B5B00",
+  "uid": "50010000018738",
+  "name": "Life Force",
+  "formal_name": "Life Force",
+  "description": "Pilot the Vic Viper on a mission to\ndestroy an enormous alien that\nthreatens to devour the galaxy!\n<br/><br/>\nClassic shoot ‘em up Life Force is a\nspin-off of the seminal Gradius series,\nfeaturing six stages that take place\ninside the gigantic creature,\nalternating between horizontally and\nvertically scrolling environments.\n<br/><br/>\nCollect capsules to gain new\nweapons and power-ups, and defeat\nthe bosses at the end of each stage.\nGo it alone or team up with a friend in\nthe cooperative two player mode via\nDownload Play.",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-TBZP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Shooter"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

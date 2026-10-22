@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B414945",
-    "uid": "50010000006865",
-    "name": "Art Academy™: First Semester",
-    "formal_name": "Art Academy™: First Semester",
-    "description": "Art Academy is a portable art course that anyone can join to replace the lecture-like structure of art school, or the trial and error on canvas, with a Nintendo DSi system.\n\nArt Academy: First Semester will guide you through the basics of using pencil and paints, which draw like the real things. With your own paintbrush set and color palette, you will learn texturing and blending techniques, along with how to depict light and shade. There is also Free Paint mode where you can select photos from your Nintendo DSi Camera Album to draw from. In just a few lessons, you will be discovering your inner artist and creating your own masterpieces, with art skills that you can apply with real-life materials.",
-    "release_date_on_eshop": "2009-09-14",
-    "product_code": "TWL-N-KAIE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414945",
+  "uid": "50010000006865",
+  "name": "Art Academy™: First Semester",
+  "formal_name": "Art Academy™: First Semester",
+  "description": "Art Academy is a portable art course that anyone can join to replace the lecture-like structure of art school, or the trial and error on canvas, with a Nintendo DSi system.\n\nArt Academy: First Semester will guide you through the basics of using pencil and paints, which draw like the real things. With your own paintbrush set and color palette, you will learn texturing and blending techniques, along with how to depict light and shade. There is also Free Paint mode where you can select photos from your Nintendo DSi Camera Album to draw from. In just a few lessons, you will be discovering your inner artist and creating your own masterpieces, with art skills that you can apply with real-life materials.",
+  "release_date_on_eshop": "2009-09-14",
+  "product_code": "TWL-N-KAIE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

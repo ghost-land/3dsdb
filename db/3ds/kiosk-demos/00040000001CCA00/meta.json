@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001CCA00",
-    "uid": "50010000044735",
-    "name": "Kirby™ Battle Royale Demo",
-    "formal_name": "Kirby™ Battle Royale Demo",
-    "description": "In this demo, Kirby enters a tournament against his toughest rival yet…himself! The demo allows players to try 3 battles in the single-player and multiplayer* modes. Try the Sword, Cutter, and Beetle ability, and transfer Meta Knight and coins as a bonus to the main game once the full version is purchased!",
-    "release_date_on_eshop": "2018-01-04",
-    "product_code": "CTR-N-BB4E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "*Additional games and systems required for multiplayer mode. Sold separately.\n<br>\n<br>Game in 2D.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Mild Cartoon Violence",
-        "Online Interactions Not Rated by the ESRB"
-    ]
+  "tid": "00040000001CCA00",
+  "uid": "50010000044735",
+  "name": "Kirby™ Battle Royale Demo",
+  "formal_name": "Kirby™ Battle Royale Demo",
+  "description": "In this demo, Kirby enters a tournament against his toughest rival yet…himself! The demo allows players to try 3 battles in the single-player and multiplayer* modes. Try the Sword, Cutter, and Beetle ability, and transfer Meta Knight and coins as a bonus to the main game once the full version is purchased!",
+  "release_date_on_eshop": "2018-01-04",
+  "product_code": "CTR-N-BB4E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "*Additional games and systems required for multiplayer mode. Sold separately.\n<br>\n<br>Game in 2D.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ]
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "000400000012CA00",
-    "uid": "50010000031237",
-    "name": "Mario vs. Donkey Kong™\nTipping Stars",
-    "formal_name": "Mario vs. Donkey Kong™\nTipping Stars",
-    "description": "You get a free download code for Mario vs. Donkey Kong™ Tipping Stars for Wii U with this purchase.\nThe download code for the content can be found on-screen after the purchase and can also be found on the receipt including information on how to redeem it later.\n<br/><br/>\nUh-oh! Donkey Kong’s kidnapped\nPauline, and only Mario can rescue\nher in puzzler Mario vs. Donkey Kong:\nTipping Stars! Guide mini, clockwork\nversions of Mario and friends to the\nexits in over 60 increasingly-fiendish\n2D puzzle stages!\n<br/><br/>\nBuild and share your own levels, or\ndownload new ones from other\nplayers. If you find a stage you like,\nyou can even tip the creator with\nstars, giving them the chance to build\neven better stages in the future!\n<br/><br/>\nPlease note: due to differences in\nhardware, in some rare instances,\nuser-created levels may not be\nplayable on both versions of the game.",
-    "release_date_on_eshop": "2015-03-20",
-    "product_code": "CTR-P-JYLP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012CA00",
+  "uid": "50010000031237",
+  "name": "Mario vs. Donkey Kong™\nTipping Stars",
+  "formal_name": "Mario vs. Donkey Kong™\nTipping Stars",
+  "description": "You get a free download code for Mario vs. Donkey Kong™ Tipping Stars for Wii U with this purchase.\nThe download code for the content can be found on-screen after the purchase and can also be found on the receipt including information on how to redeem it later.\n<br/><br/>\nUh-oh! Donkey Kong’s kidnapped\nPauline, and only Mario can rescue\nher in puzzler Mario vs. Donkey Kong:\nTipping Stars! Guide mini, clockwork\nversions of Mario and friends to the\nexits in over 60 increasingly-fiendish\n2D puzzle stages!\n<br/><br/>\nBuild and share your own levels, or\ndownload new ones from other\nplayers. If you find a stage you like,\nyou can even tip the creator with\nstars, giving them the chance to build\neven better stages in the future!\n<br/><br/>\nPlease note: due to differences in\nhardware, in some rare instances,\nuser-created levels may not be\nplayable on both versions of the game.",
+  "release_date_on_eshop": "2015-03-20",
+  "product_code": "CTR-P-JYLP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

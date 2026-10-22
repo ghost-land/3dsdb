@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F703F00",
-    "uid": "50010000040995",
-    "name": "Final Fight",
-    "formal_name": "Final Fight",
-    "description": "Jessica, daughter of Metro City\n<br>mayor and former wrestler Mike\n<br>Haggar, has been kidnapped. Haggar\n<br>teams up with Jessica’s boyfriend\n<br>Cody Travers, one of the toughest\n<br>guys in town, to get her back!\n<br>\n<br>In this Super NES™ version of the\n<br>acclaimed arcade classic, take to the\n<br>streets as either Haggar or Cody and\n<br>fight your way deep into the territory\n<br>of the Mad Gear Gang, and bring back\n<br>Jessica.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-09-08",
-    "product_code": "KTR-N-UAYE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F703F00",
+  "uid": "50010000040995",
+  "name": "Final Fight",
+  "formal_name": "Final Fight",
+  "description": "Jessica, daughter of Metro City\n<br>mayor and former wrestler Mike\n<br>Haggar, has been kidnapped. Haggar\n<br>teams up with Jessica’s boyfriend\n<br>Cody Travers, one of the toughest\n<br>guys in town, to get her back!\n<br>\n<br>In this Super NES™ version of the\n<br>acclaimed arcade classic, take to the\n<br>streets as either Haggar or Cody and\n<br>fight your way deep into the territory\n<br>of the Mad Gear Gang, and bring back\n<br>Jessica.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-09-08",
+  "product_code": "KTR-N-UAYE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

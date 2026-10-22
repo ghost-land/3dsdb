@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000EDC00",
-    "uid": "50010000014435",
-    "name": "Dillon's Rolling Western\nThe Last Ranger",
-    "formal_name": "Dillon's Rolling Western\nThe Last Ranger",
-    "description": " 개척지가 위기를 맞자 또다시 그들이 돌아왔다!\n\n『롤링 웨스턴 더 라스트 레인저』는 해결사 딜론의 통쾌한 액션과 타워에 무기를 설치해 적을 공격하는 전략성 2가지 요소를 갖춘 액션 타워 디펜스 게임입니다.\n\n 이번에는 바위로 된 수수께끼 생명체들로부터 마을의 가축「망두」뿐만 아니라, 물자를 운반하는「대륙 횡단 철도」도 지켜내야 합니다.\n\n 적인지 아군인지, 누구 하나 평범하지 않은, 실력 하나는 확실한 새로운 해결사도 등장! 그들과 협력하여 몬스터에 대항할 수도 있습니다.\n\n 또한 엇갈림 통신으로 다른 플레이어와 맵의 기록을 교환할 수 있어, 지금까지 깨닫지 못했던 새로운 힌트를 얻을 수 있을지도 모릅니다.",
-    "release_date_on_eshop": "2014-08-20",
-    "product_code": "CTR-N-JGWZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "시뮬레이션"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "엇갈림 통신 대응"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "제명 : Dillon's Rolling Western\n       The Last Ranger \n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130424-001\n등급분류 일자 : 2013.04.24.\n제작・배급업신고번호: 게배 제2012-10호  \n",
-    "descriptors": []
+  "tid": "00040000000EDC00",
+  "uid": "50010000014435",
+  "name": "Dillon's Rolling Western\nThe Last Ranger",
+  "formal_name": "Dillon's Rolling Western\nThe Last Ranger",
+  "description": " 개척지가 위기를 맞자 또다시 그들이 돌아왔다!\n\n『롤링 웨스턴 더 라스트 레인저』는 해결사 딜론의 통쾌한 액션과 타워에 무기를 설치해 적을 공격하는 전략성 2가지 요소를 갖춘 액션 타워 디펜스 게임입니다.\n\n 이번에는 바위로 된 수수께끼 생명체들로부터 마을의 가축「망두」뿐만 아니라, 물자를 운반하는「대륙 횡단 철도」도 지켜내야 합니다.\n\n 적인지 아군인지, 누구 하나 평범하지 않은, 실력 하나는 확실한 새로운 해결사도 등장! 그들과 협력하여 몬스터에 대항할 수도 있습니다.\n\n 또한 엇갈림 통신으로 다른 플레이어와 맵의 기록을 교환할 수 있어, 지금까지 깨닫지 못했던 새로운 힌트를 얻을 수 있을지도 모릅니다.",
+  "release_date_on_eshop": "2014-08-20",
+  "product_code": "CTR-N-JGWZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "시뮬레이션"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "엇갈림 통신 대응"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "제명 : Dillon's Rolling Western\n       The Last Ranger \n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130424-001\n등급분류 일자 : 2013.04.24.\n제작・배급업신고번호: 게배 제2012-10호  \n",
+  "descriptors": []
 }

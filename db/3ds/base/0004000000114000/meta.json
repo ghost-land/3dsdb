@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000114000",
-    "uid": "50010000021673",
-    "name": "Atlantic Quest",
-    "formal_name": "Atlantic Quest",
-    "description": "A ship has capsized in the ocean, leaking oil into the water and damaging marine life.\n<br><br>\nPlay 120 levels as four fish friends as they work to save the inhabitants of the sea in this exciting puzzle adventure! Help the clever clownfish, powerful shark, explosive crab, and serious octopus return the ocean to its clear blue brilliance! Collect power-ups as you explore 12 stunning underwater locations, and play additional fun mini-games. Switch between three different Match-3 game modes and earn bonus puzzles as you progress.\n<br><br>\nThe fate of the sea is up to you…will you be able to save your friends in time?!   ",
-    "release_date_on_eshop": "2014-04-15",
-    "product_code": "CTR-N-BAQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000114000",
+  "uid": "50010000021673",
+  "name": "Atlantic Quest",
+  "formal_name": "Atlantic Quest",
+  "description": "A ship has capsized in the ocean, leaking oil into the water and damaging marine life.\n<br><br>\nPlay 120 levels as four fish friends as they work to save the inhabitants of the sea in this exciting puzzle adventure! Help the clever clownfish, powerful shark, explosive crab, and serious octopus return the ocean to its clear blue brilliance! Collect power-ups as you explore 12 stunning underwater locations, and play additional fun mini-games. Switch between three different Match-3 game modes and earn bonus puzzles as you progress.\n<br><br>\nThe fate of the sea is up to you…will you be able to save your friends in time?!   ",
+  "release_date_on_eshop": "2014-04-15",
+  "product_code": "CTR-N-BAQE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

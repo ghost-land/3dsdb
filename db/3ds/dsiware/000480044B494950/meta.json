@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B494950",
-    "uid": "50010000011106",
-    "name": "101 Pinball World",
-    "formal_name": "101 Pinball World",
-    "description": "Get ready for fast-paced pinball\naction with a twist! Complete special\nobjectives to earn fun bonuses as you\nshoot your ball through pipes, up\nramps and around mind-blowing\nobstacles. Choose from 2 game\nmodes: Quick Play and Random and\nblast through over 100 fun tables in\n4 exciting worlds filled with\neye-popping details. Be a pinball wiz\nin “Wizard World”, go on a galactic\nadventure in “Alien Spaceship”, enjoy\na spooky trip through “Halloween” and\nbecome a buccaneer in “Pirate's Bay”.\nRack up enough points to top the\nHigh Scores and you'll be the pinball\nchamp!<br>\n<br>\nFeatures:<br>\n<br>\n• 101 amazing tables in 4 unique\nworlds.\n• 3 player profiles and High Scores\nlist.\n• Classic pinball gameplay enhanced\nwith beautiful graphics.\n• Multiple special objectives earn\nextra points and power-ups.\n• Fun bonuses include table tilt, slow\nball and immunity.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KIIP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B494950",
+  "uid": "50010000011106",
+  "name": "101 Pinball World",
+  "formal_name": "101 Pinball World",
+  "description": "Get ready for fast-paced pinball\naction with a twist! Complete special\nobjectives to earn fun bonuses as you\nshoot your ball through pipes, up\nramps and around mind-blowing\nobstacles. Choose from 2 game\nmodes: Quick Play and Random and\nblast through over 100 fun tables in\n4 exciting worlds filled with\neye-popping details. Be a pinball wiz\nin “Wizard World”, go on a galactic\nadventure in “Alien Spaceship”, enjoy\na spooky trip through “Halloween” and\nbecome a buccaneer in “Pirate's Bay”.\nRack up enough points to top the\nHigh Scores and you'll be the pinball\nchamp!<br>\n<br>\nFeatures:<br>\n<br>\n• 101 amazing tables in 4 unique\nworlds.\n• 3 player profiles and High Scores\nlist.\n• Classic pinball gameplay enhanced\nwith beautiful graphics.\n• Multiple special objectives earn\nextra points and power-ups.\n• Fun bonuses include table tilt, slow\nball and immunity.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KIIP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

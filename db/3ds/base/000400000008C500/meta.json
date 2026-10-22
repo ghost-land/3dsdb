@@ -1,33 +1,33 @@
 {
-    "tid": "000400000008C500",
-    "uid": "50010000013553",
-    "name": "トモダチコレクション 新生活",
-    "formal_name": "トモダチコレクション 新生活",
-    "description": "登場人物は、自分や家族にそっくりなキャラクター「Mii」。仲良くなったり、ケンカをしたり、時には恋をして悩んだり…、海に浮かぶ小さな島で思い思いに過ごすMiiたちの人間ドラマを見守ります。\n<br>ニンテンドーDS版の楽しさはそのままに、新生活にふさわしい豊富なイベントやさまざまな施設が充実しています。",
-    "release_date_on_eshop": "2013-04-18",
-    "product_code": "CTR-N-EC6J",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "コミュニケーション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応",
-        "いつの間に通信対応",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008C500",
+  "uid": "50010000013553",
+  "name": "トモダチコレクション 新生活",
+  "formal_name": "トモダチコレクション 新生活",
+  "description": "登場人物は、自分や家族にそっくりなキャラクター「Mii」。仲良くなったり、ケンカをしたり、時には恋をして悩んだり…、海に浮かぶ小さな島で思い思いに過ごすMiiたちの人間ドラマを見守ります。\n<br>ニンテンドーDS版の楽しさはそのままに、新生活にふさわしい豊富なイベントやさまざまな施設が充実しています。",
+  "release_date_on_eshop": "2013-04-18",
+  "product_code": "CTR-N-EC6J",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "コミュニケーション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "いつの間に通信対応",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

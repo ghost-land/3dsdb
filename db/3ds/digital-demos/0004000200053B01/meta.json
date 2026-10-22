@@ -1,32 +1,32 @@
 {
-    "tid": "0004000200053B01",
-    "uid": "50010000012038",
-    "name": "BIOHAZARD REVELATIONS",
-    "formal_name": "BIOHAZARD REVELATIONS",
-    "description": "「BIOHAZARD」繁體中文化。回歸恐怖原點的內容，讓您可充分體驗生存恐怖的元素。\n為能更深入了解規模磅礡的劇情，採用了章節式的系統呈現。\n在各章節的最後，都設計了引人入勝的預告，吸引您繼續玩下去。",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ABRW",
-    "platform_name": "Nintendo 3DS 盒裝",
-    "region": "Taiwan",
-    "genres": [
-        "動作",
-        "冒險"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "18"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200053B01",
+  "uid": "50010000012038",
+  "name": "BIOHAZARD REVELATIONS",
+  "formal_name": "BIOHAZARD REVELATIONS",
+  "description": "「BIOHAZARD」繁體中文化。回歸恐怖原點的內容，讓您可充分體驗生存恐怖的元素。\n為能更深入了解規模磅礡的劇情，採用了章節式的系統呈現。\n在各章節的最後，都設計了引人入勝的預告，吸引您繼續玩下去。",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ABRW",
+  "platform_name": "Nintendo 3DS 盒裝",
+  "region": "Taiwan",
+  "genres": [
+    "動作",
+    "冒險"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "18"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

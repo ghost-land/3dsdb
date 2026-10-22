@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000071200",
-    "uid": "50010000007277",
-    "name": "Yoshi™",
-    "formal_name": "Yoshi™",
-    "description": "Original Release Date: June 1992\n<br><br>\nYoshi™ is an action/puzzle game starring Mario's dinosaur buddy Yoshi who has been imprisoned in an egg. Now it's raining Goombas, Bloopers, and Boo Buddies, and you have to help Mario™ stop the airborne invasion. As the critters fall, catch them on trays. Stack two of a kind and they both disappear, or capture the whole bunch in between eggshells. When the eggshells match, out hatches Yoshi and up goes your score! The action heats up as the characters fall faster and faster. To save the day, switch and shuffle, and don't let your piles get too high!",
-    "release_date_on_eshop": "2013-02-21",
-    "product_code": "CTR-N-TARE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000071200",
+  "uid": "50010000007277",
+  "name": "Yoshi™",
+  "formal_name": "Yoshi™",
+  "description": "Original Release Date: June 1992\n<br><br>\nYoshi™ is an action/puzzle game starring Mario's dinosaur buddy Yoshi who has been imprisoned in an egg. Now it's raining Goombas, Bloopers, and Boo Buddies, and you have to help Mario™ stop the airborne invasion. As the critters fall, catch them on trays. Stack two of a kind and they both disappear, or capture the whole bunch in between eggshells. When the eggshells match, out hatches Yoshi and up goes your score! The action heats up as the characters fall faster and faster. To save the day, switch and shuffle, and don't let your piles get too high!",
+  "release_date_on_eshop": "2013-02-21",
+  "product_code": "CTR-N-TARE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

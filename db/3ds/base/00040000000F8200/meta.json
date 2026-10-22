@@ -1,37 +1,37 @@
 {
-    "tid": "00040000000F8200",
-    "uid": "50010000017559",
-    "name": "Mario Party™: Island Tour",
-    "formal_name": "Mario Party™: Island Tour",
-    "description": "Are you prepared for the ultimate\nportable party? Join Mario and his\nfriends as they head off into the\nclouds for not just the most exciting\ninstalment of the Mario Party series\nyet, but the first to appear on the\nNintendo 3DS family of systems! And\nwith this being a Mario Party game,\ndon't forget that the focus is firmly on\nbringing your friends into the action!\nMario Party: Island Tour offers\nmultiplayer hijinks through Download\nPlay, meaning you only need one\nGame Card to enjoy four-player fun in\nnearly all of the game's modes.",
-    "release_date_on_eshop": "2014-01-17",
-    "product_code": "CTR-P-ATSP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F8200",
+  "uid": "50010000017559",
+  "name": "Mario Party™: Island Tour",
+  "formal_name": "Mario Party™: Island Tour",
+  "description": "Are you prepared for the ultimate\nportable party? Join Mario and his\nfriends as they head off into the\nclouds for not just the most exciting\ninstalment of the Mario Party series\nyet, but the first to appear on the\nNintendo 3DS family of systems! And\nwith this being a Mario Party game,\ndon't forget that the focus is firmly on\nbringing your friends into the action!\nMario Party: Island Tour offers\nmultiplayer hijinks through Download\nPlay, meaning you only need one\nGame Card to enjoy four-player fun in\nnearly all of the game's modes.",
+  "release_date_on_eshop": "2014-01-17",
+  "product_code": "CTR-P-ATSP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

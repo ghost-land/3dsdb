@@ -1,28 +1,28 @@
 {
-    "tid": "000400000007D800",
-    "uid": "50010000012814",
-    "name": "Wario Land™ II",
-    "formal_name": "Wario Land™ II",
-    "description": "Original Release Date: March 1999<br><br>\nWhat kind of no-good ruffians would break into my castle and steal my treasures?! It's that rotten Captain Syrup and the Black Sugar Gang! I'm looking out for bad guys and scavenging for coins as I track down my treasures. If I don't get them all the first time, that's OK. I can go back again and again until I find them all. Captain Syrup doesn't stand a chance against me!<br><br>\nWith lots of hidden treasures, bonus games, and multiple endings, we're in for our own voyage of discovery!",
-    "release_date_on_eshop": "2012-12-20",
-    "product_code": "CTR-N-QAJE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000007D800",
+  "uid": "50010000012814",
+  "name": "Wario Land™ II",
+  "formal_name": "Wario Land™ II",
+  "description": "Original Release Date: March 1999<br><br>\nWhat kind of no-good ruffians would break into my castle and steal my treasures?! It's that rotten Captain Syrup and the Black Sugar Gang! I'm looking out for bad guys and scavenging for coins as I track down my treasures. If I don't get them all the first time, that's OK. I can go back again and again until I find them all. Captain Syrup doesn't stand a chance against me!<br><br>\nWith lots of hidden treasures, bonus games, and multiple endings, we're in for our own voyage of discovery!",
+  "release_date_on_eshop": "2012-12-20",
+  "product_code": "CTR-N-QAJE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000DDD00",
-    "uid": "50010000030255",
-    "name": "Jewel Quest 6 - The Sapphire\n<br>Dragon",
-    "formal_name": "Jewel Quest 6 - The Sapphire Dragon",
-    "description": "After crash-landing on a frozen mountain Raj makes an incredible discovery in Jewel Quest 6: The Sapphire Dragon! Explore the Temple of Wishes, an ancient complex thought to be only a legend, and take on a gang of ruthless pirates.\n<br>\n<br>Solve action-packed Jewel Boards and challenge yourself with bonus levels as you explore the entire globe. Play as different characters with unique abilities and tackle new challenges in Jewel Quest 6: The Sapphire Dragon!",
-    "release_date_on_eshop": "2015-01-29",
-    "product_code": "CTR-N-AJ6E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Strategy",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000DDD00",
+  "uid": "50010000030255",
+  "name": "Jewel Quest 6 - The Sapphire\n<br>Dragon",
+  "formal_name": "Jewel Quest 6 - The Sapphire Dragon",
+  "description": "After crash-landing on a frozen mountain Raj makes an incredible discovery in Jewel Quest 6: The Sapphire Dragon! Explore the Temple of Wishes, an ancient complex thought to be only a legend, and take on a gang of ruthless pirates.\n<br>\n<br>Solve action-packed Jewel Boards and challenge yourself with bonus levels as you explore the entire globe. Play as different characters with unique abilities and tackle new challenges in Jewel Quest 6: The Sapphire Dragon!",
+  "release_date_on_eshop": "2015-01-29",
+  "product_code": "CTR-N-AJ6E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Strategy",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

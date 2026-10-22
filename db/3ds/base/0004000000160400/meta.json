@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000160400",
-    "uid": "50010000031876",
-    "name": "Navy Commander",
-    "formal_name": "Navy Commander",
-    "description": "At the helm of your fleet, use your firepower and secret weapons to sink the enemy navy before it finds all of your ships. \nReact quickly and adapt your tactics to become the master of the seas. \nThe classic board game revisited, with exclusive animations and bonuses that give the game a whole new dimension. \nSet the game up the way you want: number of ships, grid size, available secret weapons, and five levels of AI difficulty. \nSet up your Nintendo 3DS™ like a game board to play with a friend or in wireless multiplayer mode with a single Game Card. ",
-    "release_date_on_eshop": "2015-03-19",
-    "product_code": "CTR-N-BNCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000160400",
+  "uid": "50010000031876",
+  "name": "Navy Commander",
+  "formal_name": "Navy Commander",
+  "description": "At the helm of your fleet, use your firepower and secret weapons to sink the enemy navy before it finds all of your ships. \nReact quickly and adapt your tactics to become the master of the seas. \nThe classic board game revisited, with exclusive animations and bonuses that give the game a whole new dimension. \nSet the game up the way you want: number of ships, grid size, available secret weapons, and five levels of AI difficulty. \nSet up your Nintendo 3DS™ like a game board to play with a friend or in wireless multiplayer mode with a single Game Card. ",
+  "release_date_on_eshop": "2015-03-19",
+  "product_code": "CTR-N-BNCE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B524E45",
-    "uid": "50010000003421",
-    "name": "Rocks N' Rockets",
-    "formal_name": "Rocks N' Rockets",
-    "description": "Are you ready to take the hero's seat in this mesmerizing arcade game? We hope so. Civilization is threatened by a terrifying, multi-phased meteor attack—thousands of strange meteors are heading towards Earth! Your mission is to protect our cities by controlling a rocket launcher that is built to protect each city.\n\n• Waves of increasingly destructive meteors\n• Innovative power ups\n• Over 100 exciting levels",
-    "release_date_on_eshop": "2011-01-24",
-    "product_code": "TWL-N-KRNE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524E45",
+  "uid": "50010000003421",
+  "name": "Rocks N' Rockets",
+  "formal_name": "Rocks N' Rockets",
+  "description": "Are you ready to take the hero's seat in this mesmerizing arcade game? We hope so. Civilization is threatened by a terrifying, multi-phased meteor attack—thousands of strange meteors are heading towards Earth! Your mission is to protect our cities by controlling a rocket launcher that is built to protect each city.\n\n• Waves of increasingly destructive meteors\n• Innovative power ups\n• Over 100 exciting levels",
+  "release_date_on_eshop": "2011-01-24",
+  "product_code": "TWL-N-KRNE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

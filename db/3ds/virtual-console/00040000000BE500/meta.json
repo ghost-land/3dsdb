@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000BE500",
-    "uid": "50010000015293",
-    "name": "Shantae™",
-    "formal_name": "Shantae™",
-    "description": "Genie-girl Shantae is the self-appointed guardian of a small fishing village, Scuttle Town. Living life in a lighthouse rather than a bottle, she's constantly on the lookout for danger. When the nefarious lady-pirate, Risky Boots catches wind of the treasure that was recently unearthed in the village, she launches an attack.\n<br><br>\nTo get Scuttle out of trouble, it's up to Shantae to prove that she's the rightful “Guardian Genie” to the best of her dancing, buying and hair-whipping abilities.  Learn “Dance Magic” to get new attacks, and battle your way through over 50 locations and Mini-Games!",
-    "release_date_on_eshop": "2013-07-18",
-    "product_code": "CTR-N-QAVE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BE500",
+  "uid": "50010000015293",
+  "name": "Shantae™",
+  "formal_name": "Shantae™",
+  "description": "Genie-girl Shantae is the self-appointed guardian of a small fishing village, Scuttle Town. Living life in a lighthouse rather than a bottle, she's constantly on the lookout for danger. When the nefarious lady-pirate, Risky Boots catches wind of the treasure that was recently unearthed in the village, she launches an attack.\n<br><br>\nTo get Scuttle out of trouble, it's up to Shantae to prove that she's the rightful “Guardian Genie” to the best of her dancing, buying and hair-whipping abilities.  Learn “Dance Magic” to get new attacks, and battle your way through over 50 locations and Mini-Games!",
+  "release_date_on_eshop": "2013-07-18",
+  "product_code": "CTR-N-QAVE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

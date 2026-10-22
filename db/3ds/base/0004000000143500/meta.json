@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000143500",
-    "uid": "50010000028935",
-    "name": "Mes Comptines",
-    "formal_name": "Mes Comptines",
-    "description": "Frolic full-featured music videos keep children entertained while enjoying the simple - yet addictive game play and alternately singing along these well-known kid tunes.\nFeatures\n17 famous nursery rhymes with 3D-animated music videos!\nAll songs are uniquely composed and sung by professional singer\nEasily to sing along with the karaoke-style lyrics\nEnhancing hand-and-ear coordination of your little ones through simple game play\nCute and child-friendly artwork\nKids Favorite Nursery Rhymes\nL’alphabet\nAh les crocodiles \nFee-Fye le crapaud \nLe fermier dans son pré \nSavez-vous planter les choux ?\nAm stram gram\nL’araignée Gypsy\nPomme de Reinette\nFrère Jacques\nPromenons-nous dans les bois\nLe vieux Mac Donald\nSur le pont d’Avignon\nElle descend de la montagne\nJ’aime la galette\nUne souris verte\n1, 2, 3 nous irons au bois\nMeunier, tu dors\n",
-    "release_date_on_eshop": "2014-12-18",
-    "product_code": "CTR-N-KCPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000143500",
+  "uid": "50010000028935",
+  "name": "Mes Comptines",
+  "formal_name": "Mes Comptines",
+  "description": "Frolic full-featured music videos keep children entertained while enjoying the simple - yet addictive game play and alternately singing along these well-known kid tunes.\nFeatures\n17 famous nursery rhymes with 3D-animated music videos!\nAll songs are uniquely composed and sung by professional singer\nEasily to sing along with the karaoke-style lyrics\nEnhancing hand-and-ear coordination of your little ones through simple game play\nCute and child-friendly artwork\nKids Favorite Nursery Rhymes\nL’alphabet\nAh les crocodiles \nFee-Fye le crapaud \nLe fermier dans son pré \nSavez-vous planter les choux ?\nAm stram gram\nL’araignée Gypsy\nPomme de Reinette\nFrère Jacques\nPromenons-nous dans les bois\nLe vieux Mac Donald\nSur le pont d’Avignon\nElle descend de la montagne\nJ’aime la galette\nUne souris verte\n1, 2, 3 nous irons au bois\nMeunier, tu dors\n",
+  "release_date_on_eshop": "2014-12-18",
+  "product_code": "CTR-N-KCPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

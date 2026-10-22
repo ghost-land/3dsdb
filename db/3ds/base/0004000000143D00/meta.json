@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000143D00",
-    "uid": "50010000024355",
-    "name": "2048",
-    "formal_name": "2048",
-    "description": "Enjoy 2048, the most addictive\nnumber sliding puzzle. Move all tiles\nin one direction, double up tiles of the\nsame number. Reach the 2048 tile\nbefore the board fills up. Try different\ngames modes with 1024, 2048 and\n4096 goals for extra challenges.\nThere are 20 achievements to unlock\nfor hours and hours of puzzle fun. Can\nyou reach a new highscore? With\nintuitive controls you will enjoy 2048\nmore than ever. Try 2048 today and\nsee why this is one of the greatest\npuzzle games of all time!",
-    "release_date_on_eshop": "2014-07-31",
-    "product_code": "CTR-N-JFEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000143D00",
+  "uid": "50010000024355",
+  "name": "2048",
+  "formal_name": "2048",
+  "description": "Enjoy 2048, the most addictive\nnumber sliding puzzle. Move all tiles\nin one direction, double up tiles of the\nsame number. Reach the 2048 tile\nbefore the board fills up. Try different\ngames modes with 1024, 2048 and\n4096 goals for extra challenges.\nThere are 20 achievements to unlock\nfor hours and hours of puzzle fun. Can\nyou reach a new highscore? With\nintuitive controls you will enjoy 2048\nmore than ever. Try 2048 today and\nsee why this is one of the greatest\npuzzle games of all time!",
+  "release_date_on_eshop": "2014-07-31",
+  "product_code": "CTR-N-JFEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

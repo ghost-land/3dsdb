@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B395156",
-    "uid": "50010000019913",
-    "name": "Hidden Expedition® Titanic",
-    "formal_name": "Hidden Expedition® Titanic",
-    "description": "On April 14, 1912 the massive ship,\nRMS Titanic, collided with an iceberg\nand sank within three hours. The\nremains of the ship have been\ninvestigated several times, but many\nmysteries still remain hidden in the\ndepths of the dark wreck.\n<br/><br/>\nYou have now been assigned a\nmission to explore it! Descend to the\nocean bed and discover the fantastic\nsecrets waiting to be revealed in this\nonce majestic ship. Conduct your\nresearch over 14 missions in 17\nlocations and try to unveil the secrets\nof the Titanic.\n<br/><br/>\nCan you find the crown?\n",
-    "release_date_on_eshop": "2014-02-06",
-    "product_code": "TWL-N-K9QV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B395156",
+  "uid": "50010000019913",
+  "name": "Hidden Expedition® Titanic",
+  "formal_name": "Hidden Expedition® Titanic",
+  "description": "On April 14, 1912 the massive ship,\nRMS Titanic, collided with an iceberg\nand sank within three hours. The\nremains of the ship have been\ninvestigated several times, but many\nmysteries still remain hidden in the\ndepths of the dark wreck.\n<br/><br/>\nYou have now been assigned a\nmission to explore it! Descend to the\nocean bed and discover the fantastic\nsecrets waiting to be revealed in this\nonce majestic ship. Conduct your\nresearch over 14 missions in 17\nlocations and try to unveil the secrets\nof the Titanic.\n<br/><br/>\nCan you find the crown?\n",
+  "release_date_on_eshop": "2014-02-06",
+  "product_code": "TWL-N-K9QV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

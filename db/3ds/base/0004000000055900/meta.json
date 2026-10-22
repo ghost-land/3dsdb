@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000055900",
-    "uid": "50010000012126",
-    "name": "Rabbids® Rumble",
-    "formal_name": "Rabbids® Rumble",
-    "description": "Rabbids have escaped from your\ncartridge all over your\nNintendo 3DS™ and found their way\ninto the real world. You must collect\nthem throughout 7 worlds full of mini\ngames and bring the complete\ncollection back, one battle at the\ntime!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AR5P",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000055900",
+  "uid": "50010000012126",
+  "name": "Rabbids® Rumble",
+  "formal_name": "Rabbids® Rumble",
+  "description": "Rabbids have escaped from your\ncartridge all over your\nNintendo 3DS™ and found their way\ninto the real world. You must collect\nthem throughout 7 worlds full of mini\ngames and bring the complete\ncollection back, one battle at the\ntime!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AR5P",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

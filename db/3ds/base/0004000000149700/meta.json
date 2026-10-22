@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000149700",
-    "uid": "50010000026058",
-    "name": "Painting Workshop",
-    "formal_name": "Painting Workshop",
-    "description": "This update enables Miiverse™ users to\npost screenshots to the related\ncommunity.\n<br/><br/>\n- Disabling the Picture tool in order\nto post screenshots is now available.\n*Posting screenshots from all content\nmade before installing this update will\nstay prohibited.\n<br/><br/>\n- Other small bugs and inaccurate\nterms have been fixed.\n<br/><br/>\nThis is an update for the Painting\nWorkshop application. This download\ndoes not contain the full version of\nthe title. In order to use this update,\nyou must have the full version of\nPainting Workshop. This update isn’t\nnecessary if you are not using\nMiiverse™.",
-    "release_date_on_eshop": "2014-10-09",
-    "product_code": "CTR-N-JEQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "System Tool",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000149700",
+  "uid": "50010000026058",
+  "name": "Painting Workshop",
+  "formal_name": "Painting Workshop",
+  "description": "This update enables Miiverse™ users to\npost screenshots to the related\ncommunity.\n<br/><br/>\n- Disabling the Picture tool in order\nto post screenshots is now available.\n*Posting screenshots from all content\nmade before installing this update will\nstay prohibited.\n<br/><br/>\n- Other small bugs and inaccurate\nterms have been fixed.\n<br/><br/>\nThis is an update for the Painting\nWorkshop application. This download\ndoes not contain the full version of\nthe title. In order to use this update,\nyou must have the full version of\nPainting Workshop. This update isn’t\nnecessary if you are not using\nMiiverse™.",
+  "release_date_on_eshop": "2014-10-09",
+  "product_code": "CTR-N-JEQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "System Tool",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v2.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

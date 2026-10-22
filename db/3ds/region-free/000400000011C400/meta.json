@@ -1,36 +1,36 @@
 {
-    "tid": "000400000011C400",
-    "uid": "50010000024797",
-    "name": "Pokémon™ Omega Ruby",
-    "formal_name": "Pokémon™ Omega Ruby",
-    "description": "In this game, the player is a Trainer\nwho captures, trains and battles small\ncreatures called Pokémon, while\nadventuring to save the land from\nTeam Magma’s evil plans. There is a\nchance to become the Champion\nTrainer by defeating other Trainers in\nPokémon battles, plus Super-Secret\nBases to find, and Secret Pals to\nmake, which can be accessed online\nor over local wireless for multiplayer\nbattles and trading.",
-    "release_date_on_eshop": "2014-11-28",
-    "product_code": "CTR-N-ECRA",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Region Free",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v3.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000011C400",
+  "uid": "50010000024797",
+  "name": "Pokémon™ Omega Ruby",
+  "formal_name": "Pokémon™ Omega Ruby",
+  "description": "In this game, the player is a Trainer\nwho captures, trains and battles small\ncreatures called Pokémon, while\nadventuring to save the land from\nTeam Magma’s evil plans. There is a\nchance to become the Champion\nTrainer by defeating other Trainers in\nPokémon battles, plus Super-Secret\nBases to find, and Secret Pals to\nmake, which can be accessed online\nor over local wireless for multiplayer\nbattles and trading.",
+  "release_date_on_eshop": "2014-11-28",
+  "product_code": "CTR-N-ECRA",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Region Free",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v3.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

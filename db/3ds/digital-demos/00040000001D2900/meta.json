@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001D2900",
-    "uid": "50010000045157",
-    "name": "Detective Pikachu™\nSpecial Demo",
-    "formal_name": "Detective Pikachu™\n<br>Special Demo",
-    "description": "Detective Pikachu is on the case!\n<br>\n<br>Put your detective hat on – it’s time to crack the case of a boy’s missing father in Detective Pikachu, a unique adventure game filled with beloved Pokémon.\n<br>\n<br>In this demo for Detective Pikachu, you can play the beginning of the release version of the game. If you choose to purchase the full game, your demo save data can be transferred so that you can continue playing from where you left off.\n<br>\n<br>This game also supports Japanese",
-    "release_date_on_eshop": "2018-04-05",
-    "product_code": "CTR-N-BZTA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D2900",
+  "uid": "50010000045157",
+  "name": "Detective Pikachu™\nSpecial Demo",
+  "formal_name": "Detective Pikachu™\n<br>Special Demo",
+  "description": "Detective Pikachu is on the case!\n<br>\n<br>Put your detective hat on – it’s time to crack the case of a boy’s missing father in Detective Pikachu, a unique adventure game filled with beloved Pokémon.\n<br>\n<br>In this demo for Detective Pikachu, you can play the beginning of the release version of the game. If you choose to purchase the full game, your demo save data can be transferred so that you can continue playing from where you left off.\n<br>\n<br>This game also supports Japanese",
+  "release_date_on_eshop": "2018-04-05",
+  "product_code": "CTR-N-BZTA",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

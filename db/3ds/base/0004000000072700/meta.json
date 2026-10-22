@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000072700",
-    "uid": "50010000008101",
-    "name": "Mighty Switch Force!",
-    "formal_name": "Mighty Switch Force!",
-    "description": "Meet Patricia Wagon, cybernetic\npolice officer on a mission to put the\nHooligan Sisters back behind bars. By\nactivating her Siren Helmet, Patricia\ncan shift the machine matrix of Planet\nLand, altering the world around her.\nUse your wits and trusty Pellet Gun to\nblow crime away!\n\nUpdate includes: \n- 5 bonus levels\n- enhanced 3D graphics\n- quick-retry feature",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JMFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Platformer",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000072700",
+  "uid": "50010000008101",
+  "name": "Mighty Switch Force!",
+  "formal_name": "Mighty Switch Force!",
+  "description": "Meet Patricia Wagon, cybernetic\npolice officer on a mission to put the\nHooligan Sisters back behind bars. By\nactivating her Siren Helmet, Patricia\ncan shift the machine matrix of Planet\nLand, altering the world around her.\nUse your wits and trusty Pellet Gun to\nblow crime away!\n\nUpdate includes: \n- 5 bonus levels\n- enhanced 3D graphics\n- quick-retry feature",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JMFP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Platformer",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

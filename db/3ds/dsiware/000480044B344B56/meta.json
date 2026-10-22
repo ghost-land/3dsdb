@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B344B56",
-    "uid": "50010000001385",
-    "name": "Trailblaze™:\nPuzzle Incinerator",
-    "formal_name": "Trailblaze™:\nPuzzle Incinerator",
-    "description": "Blaze a path across the galaxy in this\nunique puzzle game. Holding the\nNintendo DSi vertically, you must plot\na route for your Flametail pod, using\nits red hot exhaust trail to burn\nthrough obstacles on your way to the\nnext planet.<br>\n<br>\nManoeuvre around a maze of blocks\nto burn them away as your pod passes\nby to clear the stage. Fortunately,\nthere are plentiful power-ups and\nitems such as the Bomb to blast a\nwide radius, or Radar which grants\nyou a map to aid your route.<br>\n<br>\nIn the main Space Tour mode,\njourney from Earth into outer space\non a block-burning and brain-busting\nvoyage. Or set yourself a challenge\nagainst the clock in Time Limit mode.<br>\n<br>\nPlus – if you achieve a high score,\nyou can even take a photo of yourself\nwith the inner camera of the Nintendo\nDSi system and show off your winning\nsmile!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K4KV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B344B56",
+  "uid": "50010000001385",
+  "name": "Trailblaze™:\nPuzzle Incinerator",
+  "formal_name": "Trailblaze™:\nPuzzle Incinerator",
+  "description": "Blaze a path across the galaxy in this\nunique puzzle game. Holding the\nNintendo DSi vertically, you must plot\na route for your Flametail pod, using\nits red hot exhaust trail to burn\nthrough obstacles on your way to the\nnext planet.<br>\n<br>\nManoeuvre around a maze of blocks\nto burn them away as your pod passes\nby to clear the stage. Fortunately,\nthere are plentiful power-ups and\nitems such as the Bomb to blast a\nwide radius, or Radar which grants\nyou a map to aid your route.<br>\n<br>\nIn the main Space Tour mode,\njourney from Earth into outer space\non a block-burning and brain-busting\nvoyage. Or set yourself a challenge\nagainst the clock in Time Limit mode.<br>\n<br>\nPlus – if you achieve a high score,\nyou can even take a photo of yourself\nwith the inner camera of the Nintendo\nDSi system and show off your winning\nsmile!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K4KV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

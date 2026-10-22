@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000192C00",
-    "uid": "50010000042279",
-    "name": "Gourmet Dream",
-    "formal_name": "Gourmet Dream",
-    "description": "\"Gourmet Dream\" is a management game in which you take up the role of a restaurant manager\n<br>and help your shop to grow.\n<br>\n<br>The aim of the game is to help your restaurant flourish until it is evaluated as an \"S Rank\" restaurant.\n<br>\n<br>In order to do this, you will have to create a menu to suit your customer's needs, hire and train staff that provide great food and service, and run promotions to increase the number of customers that come to your restaurant. In essence, you will be raising your store into a \"Highly Esteemed Gourmet Restaurant\".",
-    "release_date_on_eshop": "2017-01-19",
-    "product_code": "CTR-N-KGDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000192C00",
+  "uid": "50010000042279",
+  "name": "Gourmet Dream",
+  "formal_name": "Gourmet Dream",
+  "description": "\"Gourmet Dream\" is a management game in which you take up the role of a restaurant manager\n<br>and help your shop to grow.\n<br>\n<br>The aim of the game is to help your restaurant flourish until it is evaluated as an \"S Rank\" restaurant.\n<br>\n<br>In order to do this, you will have to create a menu to suit your customer's needs, hire and train staff that provide great food and service, and run promotions to increase the number of customers that come to your restaurant. In essence, you will be raising your store into a \"Highly Esteemed Gourmet Restaurant\".",
+  "release_date_on_eshop": "2017-01-19",
+  "product_code": "CTR-N-KGDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

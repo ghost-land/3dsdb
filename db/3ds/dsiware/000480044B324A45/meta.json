@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B324A45",
-    "uid": "50010000008582",
-    "name": "Cake Ninja",
-    "formal_name": "Cake Ninja",
-    "description": "A simple casual game where you swipe the stylus across the screen to slice cakes into small pieces like a true Ninja warrior. It’s very easy to play. The more cakes you slice, the longer you stay around, and the longer you survive, the higher your score. How long can you last? You can also challenge your friends to a multiplayer game to show everyone who the best player is!\n\nKey Features:\n- Simple, addictive gameplay\n- Colorful 3D graphics\n- Precise slice recognition\n- Challenging multiplayer mode",
-    "release_date_on_eshop": "2011-12-29",
-    "product_code": "TWL-N-K2JE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324A45",
+  "uid": "50010000008582",
+  "name": "Cake Ninja",
+  "formal_name": "Cake Ninja",
+  "description": "A simple casual game where you swipe the stylus across the screen to slice cakes into small pieces like a true Ninja warrior. It’s very easy to play. The more cakes you slice, the longer you stay around, and the longer you survive, the higher your score. How long can you last? You can also challenge your friends to a multiplayer game to show everyone who the best player is!\n\nKey Features:\n- Simple, addictive gameplay\n- Colorful 3D graphics\n- Precise slice recognition\n- Challenging multiplayer mode",
+  "release_date_on_eshop": "2011-12-29",
+  "product_code": "TWL-N-K2JE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

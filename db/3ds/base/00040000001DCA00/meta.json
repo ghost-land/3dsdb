@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DCA00",
-    "uid": "50010000048396",
-    "name": "Bricks Pinball",
-    "formal_name": "Bricks Pinball",
-    "description": "Bricks Pinball is a brick breaker game which combines the game mechanics of a traditional brick breaker and a flipper game.\n<br>Play through 15 exciting levels as you aim for a high score.",
-    "release_date_on_eshop": "2020-01-16",
-    "product_code": "CTR-N-L5WP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DCA00",
+  "uid": "50010000048396",
+  "name": "Bricks Pinball",
+  "formal_name": "Bricks Pinball",
+  "description": "Bricks Pinball is a brick breaker game which combines the game mechanics of a traditional brick breaker and a flipper game.\n<br>Play through 15 exciting levels as you aim for a high score.",
+  "release_date_on_eshop": "2020-01-16",
+  "product_code": "CTR-N-L5WP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000093C00",
-    "uid": "50010000012169",
-    "name": "Mario Golf™",
-    "formal_name": "Mario Golf™",
-    "description": "Original Release Date:  October, 1999\n\nThe stakes are high in the race to become the Grand Champion of golf. Four Club Champs stand in your way, and you'll have to defeat them all to get a shot at playing the most famous golfer in the land! Create up to three of your very own characters, and power them up as you play. To improve your game, pick up tips from the other golfers you meet. With four courses, tweleve practice ranges, five play modes, and a variety of minigames, hours of fun is par for the course!",
-    "release_date_on_eshop": "1999-10-01",
-    "product_code": "CTR-N-QAQE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000093C00",
+  "uid": "50010000012169",
+  "name": "Mario Golf™",
+  "formal_name": "Mario Golf™",
+  "description": "Original Release Date:  October, 1999\n\nThe stakes are high in the race to become the Grand Champion of golf. Four Club Champs stand in your way, and you'll have to defeat them all to get a shot at playing the most famous golfer in the land! Create up to three of your very own characters, and power them up as you play. To improve your game, pick up tips from the other golfers you meet. With four courses, tweleve practice ranges, five play modes, and a variety of minigames, hours of fun is par for the course!",
+  "release_date_on_eshop": "1999-10-01",
+  "product_code": "CTR-N-QAQE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B514B45",
-    "uid": "50010000010889",
-    "name": "Ace Mathician",
-    "formal_name": "Ace Mathician",
-    "description": "Ever wondered why you needed to learn math in school? The answer is simple; to change the world! And that's exactly what you get to do in this game!\n　\nYou play as a cute Koala named Ace who loves fruit! Unfortunately a few delicious pieces of fruit are just out of reach and you need to change the positions of the platforms to get to the fruit!\n　\nYou can change the positions of the platform by entering a math formula.\n　\nThere's no right or wrong answer, every formula the player can come up with will have an effect on the world! Suddenly math becomes as fun as drawing!\n　\nThere are many possible ways to finish a level... be creative!\n　\nLater levels will feature enemies and traps keeping the game challenging. And while your at it, you can collect stars for a better score!",
-    "release_date_on_eshop": "2012-07-12",
-    "product_code": "TWL-N-KQKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514B45",
+  "uid": "50010000010889",
+  "name": "Ace Mathician",
+  "formal_name": "Ace Mathician",
+  "description": "Ever wondered why you needed to learn math in school? The answer is simple; to change the world! And that's exactly what you get to do in this game!\n　\nYou play as a cute Koala named Ace who loves fruit! Unfortunately a few delicious pieces of fruit are just out of reach and you need to change the positions of the platforms to get to the fruit!\n　\nYou can change the positions of the platform by entering a math formula.\n　\nThere's no right or wrong answer, every formula the player can come up with will have an effect on the world! Suddenly math becomes as fun as drawing!\n　\nThere are many possible ways to finish a level... be creative!\n　\nLater levels will feature enemies and traps keeping the game challenging. And while your at it, you can collect stars for a better score!",
+  "release_date_on_eshop": "2012-07-12",
+  "product_code": "TWL-N-KQKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

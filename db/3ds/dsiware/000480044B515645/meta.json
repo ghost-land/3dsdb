@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B515645",
-    "uid": "50010000011806",
-    "name": "BOOKSTORE DREAM",
-    "formal_name": "BOOKSTORE DREAM",
-    "description": "Ever had a dream of owning you own bookstore? Now you can!\n\nBookstore Dream is a simulation game that allows you to manage your lovely bookstore. \n\nGet connected with publishers and put the best books on your shelf! Be sure to keep stocks at a good level when demands go up! If you do everything right you will become a well-known brand in the community!\n\nGame Features:\n\nManagement is not an easy task, you have to choose what books fit your store the best! Can you handle it?\n\nCreate a good running bookstore and become rich!\n\nWant demand soaring through the roof? Get authors to your store to meet and greet their fans!",
-    "release_date_on_eshop": "2012-09-13",
-    "product_code": "TWL-N-KQVE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B515645",
+  "uid": "50010000011806",
+  "name": "BOOKSTORE DREAM",
+  "formal_name": "BOOKSTORE DREAM",
+  "description": "Ever had a dream of owning you own bookstore? Now you can!\n\nBookstore Dream is a simulation game that allows you to manage your lovely bookstore. \n\nGet connected with publishers and put the best books on your shelf! Be sure to keep stocks at a good level when demands go up! If you do everything right you will become a well-known brand in the community!\n\nGame Features:\n\nManagement is not an easy task, you have to choose what books fit your store the best! Can you handle it?\n\nCreate a good running bookstore and become rich!\n\nWant demand soaring through the roof? Get authors to your store to meet and greet their fans!",
+  "release_date_on_eshop": "2012-09-13",
+  "product_code": "TWL-N-KQVE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

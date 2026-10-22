@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000D9900",
-    "uid": "50010000014352",
-    "name": "THE STARSHIP DAMREY™",
-    "formal_name": "THE STARSHIP DAMREY™",
-    "description": "From two masters of suspense, Kazuya Asano and Takemaru Abiko, comes a new twist on the genre as players discover a fear born of innocence.\n<br><br>\nYou awaken to discover that you are trapped in a Cold Sleep capsule aboard the titular Starship Damrey, with no memory of who you are or how you got there. \n<br><br>\nWith no tutorials, explanations, or hints provided, the game was created with the intent that self-discovery and experimentation be an integral part of the experience. An inconcievable truth awaits those willing to discover it.\n<br><br>\nDo you dare to hope? Or will despair claim the final shreds of your mind? Discover the mystery of the Starship Damrey to find out for yourself.",
-    "release_date_on_eshop": "2013-05-16",
-    "product_code": "CTR-N-JDME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D9900",
+  "uid": "50010000014352",
+  "name": "THE STARSHIP DAMREY™",
+  "formal_name": "THE STARSHIP DAMREY™",
+  "description": "From two masters of suspense, Kazuya Asano and Takemaru Abiko, comes a new twist on the genre as players discover a fear born of innocence.\n<br><br>\nYou awaken to discover that you are trapped in a Cold Sleep capsule aboard the titular Starship Damrey, with no memory of who you are or how you got there. \n<br><br>\nWith no tutorials, explanations, or hints provided, the game was created with the intent that self-discovery and experimentation be an integral part of the experience. An inconcievable truth awaits those willing to discover it.\n<br><br>\nDo you dare to hope? Or will despair claim the final shreds of your mind? Discover the mystery of the Starship Damrey to find out for yourself.",
+  "release_date_on_eshop": "2013-05-16",
+  "product_code": "CTR-N-JDME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

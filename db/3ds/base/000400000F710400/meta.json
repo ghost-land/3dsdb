@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F710400",
-    "uid": "50010000044976",
-    "name": "ZIG ZAG GO",
-    "formal_name": "ZIG ZAG GO",
-    "description": "Shapes on the go with ZIG ZAG GO! Use the touch screen to switch directions quickly and avoid oncoming shapes. Endless fun for everyone!",
-    "release_date_on_eshop": "2018-02-01",
-    "product_code": "KTR-N-CAZP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F710400",
+  "uid": "50010000044976",
+  "name": "ZIG ZAG GO",
+  "formal_name": "ZIG ZAG GO",
+  "description": "Shapes on the go with ZIG ZAG GO! Use the touch screen to switch directions quickly and avoid oncoming shapes. Endless fun for everyone!",
+  "release_date_on_eshop": "2018-02-01",
+  "product_code": "KTR-N-CAZP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

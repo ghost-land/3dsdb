@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001D1F00",
-    "uid": "50010000047515",
-    "name": "Kirby's Extra Epic Yarn",
-    "formal_name": "Kirby's Extra Epic Yarn",
-    "description": "In Patch Land, practically everything, from enemies to obstacles to who knows what else, is entirely made of yarn – even robots! And to beat courses made of yarn, you've got to use moves made of yarn.\n<br>\n<br>Every stage from the Wii version is making a return, and the Nintendo 3DS version is also being puffed up with some new features. When you pick up items you can craft bigger yarn balls, or you can even conjure up some wind to rake in the beads!\n<br>\n<br>For a little added challenge, see if you can outrun this speed demon of a Devil in Devilish Mode! To top it off, new minigames will give you a chance to play as some other familiar faces!\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2019-03-08",
-    "product_code": "CTR-P-BE4P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D1F00",
+  "uid": "50010000047515",
+  "name": "Kirby's Extra Epic Yarn",
+  "formal_name": "Kirby's Extra Epic Yarn",
+  "description": "In Patch Land, practically everything, from enemies to obstacles to who knows what else, is entirely made of yarn – even robots! And to beat courses made of yarn, you've got to use moves made of yarn.\n<br>\n<br>Every stage from the Wii version is making a return, and the Nintendo 3DS version is also being puffed up with some new features. When you pick up items you can craft bigger yarn balls, or you can even conjure up some wind to rake in the beads!\n<br>\n<br>For a little added challenge, see if you can outrun this speed demon of a Devil in Devilish Mode! To top it off, new minigames will give you a chance to play as some other familiar faces!\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2019-03-08",
+  "product_code": "CTR-P-BE4P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

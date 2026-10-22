@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000165700",
-    "uid": "50010000032336",
-    "name": "MIGHTY GUNVOLT",
-    "formal_name": "MIGHTY GUNVOLT",
-    "description": "Get ready for a blast from the 8-bit\npast with the all-new 2D\naction/platforming game, MIGHTY\nGUNVOLT! A loving nod to the retro\nsidescrollers of the late '80s, MIGHTY\nGUNVOLT offers simple controls, cute\n& colorful graphics, and a surprising\namount of complexity and fun.\n<br/><br/>\nPlay as one of three characters:\nGunvolt, the star of Azure Striker\nGUNVOLT, Ekoro, an angel from\nJapan's Gal*Gun series, or Beck, the\nhero of Mighty No. 9. Each character\npossesses unique skills that will allow\nplayers to keep challenging each\nstage in new and creative ways!",
-    "release_date_on_eshop": "2015-07-03",
-    "product_code": "CTR-N-KMGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000165700",
+  "uid": "50010000032336",
+  "name": "MIGHTY GUNVOLT",
+  "formal_name": "MIGHTY GUNVOLT",
+  "description": "Get ready for a blast from the 8-bit\npast with the all-new 2D\naction/platforming game, MIGHTY\nGUNVOLT! A loving nod to the retro\nsidescrollers of the late '80s, MIGHTY\nGUNVOLT offers simple controls, cute\n& colorful graphics, and a surprising\namount of complexity and fun.\n<br/><br/>\nPlay as one of three characters:\nGunvolt, the star of Azure Striker\nGUNVOLT, Ekoro, an angel from\nJapan's Gal*Gun series, or Beck, the\nhero of Mighty No. 9. Each character\npossesses unique skills that will allow\nplayers to keep challenging each\nstage in new and creative ways!",
+  "release_date_on_eshop": "2015-07-03",
+  "product_code": "CTR-N-KMGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000A7D00",
-    "uid": "50010000011326",
-    "name": "SpeedX 3D",
-    "formal_name": "SpeedX 3D",
-    "description": "SpeedX 3D for Nintendo 3DS is a\nstunning tunnel racer that tests a\nplayer's skill and transports him or her\ninto a trance filled with great\nelectronic music and hypnotic\ngraphics. SpeedX 3D offers four game\nmodes introducing the player to more\nand more challenging places at a\nspeed that increases with every\nsecond. The question is: how far can\nthe player go without losing\nconcentration?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JSXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A7D00",
+  "uid": "50010000011326",
+  "name": "SpeedX 3D",
+  "formal_name": "SpeedX 3D",
+  "description": "SpeedX 3D for Nintendo 3DS is a\nstunning tunnel racer that tests a\nplayer's skill and transports him or her\ninto a trance filled with great\nelectronic music and hypnotic\ngraphics. SpeedX 3D offers four game\nmodes introducing the player to more\nand more challenging places at a\nspeed that increases with every\nsecond. The question is: how far can\nthe player go without losing\nconcentration?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JSXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

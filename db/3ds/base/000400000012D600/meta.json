@@ -1,29 +1,29 @@
 {
-    "tid": "000400000012D600",
-    "uid": "50010000024997",
-    "name": "Cooking Mama 5: Bon Appétit!",
-    "formal_name": "Cooking Mama 5: Bon Appétit!",
-    "description": "The original kitchen diva that created the cooking genre is set to school you with 60 brand new mouth-watering recipes and over 30 household mini-games. Cook your way through classic fare, exotic cultural dishes and sweet treats to delight the palate! Fun stylus-based activities will keep you busy around the house and prove to Mama that you’ve got the culinary chops to play in her kitchen! ",
-    "release_date_on_eshop": "2014-09-16",
-    "product_code": "CTR-N-BC5E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000012D600",
+  "uid": "50010000024997",
+  "name": "Cooking Mama 5: Bon Appétit!",
+  "formal_name": "Cooking Mama 5: Bon Appétit!",
+  "description": "The original kitchen diva that created the cooking genre is set to school you with 60 brand new mouth-watering recipes and over 30 household mini-games. Cook your way through classic fare, exotic cultural dishes and sweet treats to delight the palate! Fun stylus-based activities will keep you busy around the house and prove to Mama that you’ve got the culinary chops to play in her kitchen! ",
+  "release_date_on_eshop": "2014-09-16",
+  "product_code": "CTR-N-BC5E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "000400000014A100",
-    "uid": "50010000030875",
-    "name": "Luv Me Buddies\nWonderland",
-    "formal_name": "Luv Me Buddies\n<br>Wonderland",
-    "description": "Enhanced and improved for\n<br>Nintendo 3DS™.\n<br/>\n<br>Play and have fun with the fantastic\n<br>Luv Me Buddies puppets and\n<br>experience an exciting adventure\n<br>along with your nice, new friends! In a\n<br>colorful world, you will discover many\n<br>mini-games designed for children,\n<br>which will entertain, amuse and\n<br>involve the whole family for beautiful\n<br>moments of pure relaxation!\n<br/>\n<br>The Luv Me Buddies game is\n<br>challenging, fun, educational\n<br>activities, with fancy and sparkling\n<br>graphics. Each time you interact with\n<br>one of the lovable and cute little\n<br>animals, you increase your chances in\n<br>the game, unlocking new mini-games,\n<br>for a never ending experience. Bright\n<br>colors, catchy music and magical\n<br>settings. The game stimulates\n<br>children's imagination and helps them\n<br>to interact with their creativity. Luv\n<br>Me Buddies is an immersive experience\n<br>for children and adults.\n<br/>\n<br>Enjoy and relax with “Luv Me\n<br>Buddies”!",
-    "release_date_on_eshop": "2015-02-19",
-    "product_code": "CTR-P-BWLP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Education",
-        "Puzzle",
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014A100",
+  "uid": "50010000030875",
+  "name": "Luv Me Buddies\nWonderland",
+  "formal_name": "Luv Me Buddies\n<br>Wonderland",
+  "description": "Enhanced and improved for\n<br>Nintendo 3DS™.\n<br/>\n<br>Play and have fun with the fantastic\n<br>Luv Me Buddies puppets and\n<br>experience an exciting adventure\n<br>along with your nice, new friends! In a\n<br>colorful world, you will discover many\n<br>mini-games designed for children,\n<br>which will entertain, amuse and\n<br>involve the whole family for beautiful\n<br>moments of pure relaxation!\n<br/>\n<br>The Luv Me Buddies game is\n<br>challenging, fun, educational\n<br>activities, with fancy and sparkling\n<br>graphics. Each time you interact with\n<br>one of the lovable and cute little\n<br>animals, you increase your chances in\n<br>the game, unlocking new mini-games,\n<br>for a never ending experience. Bright\n<br>colors, catchy music and magical\n<br>settings. The game stimulates\n<br>children's imagination and helps them\n<br>to interact with their creativity. Luv\n<br>Me Buddies is an immersive experience\n<br>for children and adults.\n<br/>\n<br>Enjoy and relax with “Luv Me\n<br>Buddies”!",
+  "release_date_on_eshop": "2015-02-19",
+  "product_code": "CTR-P-BWLP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Education",
+    "Puzzle",
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

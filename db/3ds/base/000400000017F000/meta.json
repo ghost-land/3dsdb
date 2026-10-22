@@ -1,33 +1,33 @@
 {
-    "tid": "000400000017F000",
-    "uid": "50010000040717",
-    "name": "LEGO® Star Wars™:\nEl Despertar de la Fuerza",
-    "formal_name": "LEGO® Star Wars™:\nEl Despertar de la Fuerza",
-    "description": "LEGO® Star Wars™: El Despertar de\nla Fuerza supone el regreso triunfal\nde la franquicia de más éxito de\nLEGO®, con un título que hará que\nlos jugadores experimenten toda la\nacción de la última película de Star\nWars™ con el toque de humor que\nsolo pueden ofrecer los juegos de\nLEGO®. El juego contará con nuevas\nmecánicas para construir, luchar y\nvolar a través de la galaxia como\nnunca antes, así como nuevos\ncontenidos que exploran lo ocurrido\nentre Star Wars™: El Retorno del\nJedi™ y Star Wars™: El Despertar de la\nFuerza, añadiendo más información\nsobre la nueva película y sus\npersonajes.",
-    "release_date_on_eshop": "2016-06-28",
-    "product_code": "CTR-P-BLWS",
-    "platform_name": "Nintendo 3DS (tarjeta/descarga)",
-    "region": "Spain",
-    "genres": [
-        "Acción",
-        "Aventura"
-    ],
-    "features": [
-        "Con imágenes 3D"
-    ],
-    "languages": [
-        "Inglés",
-        "Español",
-        "Francés",
-        "Alemán",
-        "Italiano",
-        "Neerlandés"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": "*El juego contiene voces en\nCastellano.",
-    "descriptors": []
+  "tid": "000400000017F000",
+  "uid": "50010000040717",
+  "name": "LEGO® Star Wars™:\nEl Despertar de la Fuerza",
+  "formal_name": "LEGO® Star Wars™:\nEl Despertar de la Fuerza",
+  "description": "LEGO® Star Wars™: El Despertar de\nla Fuerza supone el regreso triunfal\nde la franquicia de más éxito de\nLEGO®, con un título que hará que\nlos jugadores experimenten toda la\nacción de la última película de Star\nWars™ con el toque de humor que\nsolo pueden ofrecer los juegos de\nLEGO®. El juego contará con nuevas\nmecánicas para construir, luchar y\nvolar a través de la galaxia como\nnunca antes, así como nuevos\ncontenidos que exploran lo ocurrido\nentre Star Wars™: El Retorno del\nJedi™ y Star Wars™: El Despertar de la\nFuerza, añadiendo más información\nsobre la nueva película y sus\npersonajes.",
+  "release_date_on_eshop": "2016-06-28",
+  "product_code": "CTR-P-BLWS",
+  "platform_name": "Nintendo 3DS (tarjeta/descarga)",
+  "region": "Spain",
+  "genres": [
+    "Acción",
+    "Aventura"
+  ],
+  "features": [
+    "Con imágenes 3D"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": "*El juego contiene voces en\nCastellano.",
+  "descriptors": []
 }

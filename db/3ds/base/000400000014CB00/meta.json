@@ -1,31 +1,31 @@
 {
-    "tid": "000400000014CB00",
-    "uid": "50010000025835",
-    "name": "Horse Vet 3D",
-    "formal_name": "Horse Vet 3D",
-    "description": "Experience the daily life of a veterinarian – specialized in horses!\n<br>\n<br>You examine the horses to determine the nature of diseases or injuries. Drive to emergencies and treat them inpatient afterwards until they are healthy again!\n<br>\n<br>Diagnose and treat your patients with thermometer, ultrasonics, blood sample, forceps, syringe, bandages and more\n<br>\n<br>Enjoy thrilling outdoor adventures: Ride out on your horse or get into your car to reach emergencies on time with the help of the gyroscope controls\n<br>\n<br>Have fun with a variety of breeds while longing, feeding, cleaning and playing with them\n<br>\n<br>Recapture escaped horses on your practice area\n<br>\n<br>Breed cute foals or buy and sell horses\n<br>\n<br>Expand your practice with different buildings like stables and therapy house\n<br>\n<br>Visit the nearby town with its shop, bank, academy and advertising agency\n<br>\n<br>Collect Play Coins and change them into ingame currency\n<br>\n<br>3D photo feature: Take a real 3D photo of yourself and use it in the game",
-    "release_date_on_eshop": "2014-09-18",
-    "product_code": "CTR-N-KHVE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Adventure",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000014CB00",
+  "uid": "50010000025835",
+  "name": "Horse Vet 3D",
+  "formal_name": "Horse Vet 3D",
+  "description": "Experience the daily life of a veterinarian – specialized in horses!\n<br>\n<br>You examine the horses to determine the nature of diseases or injuries. Drive to emergencies and treat them inpatient afterwards until they are healthy again!\n<br>\n<br>Diagnose and treat your patients with thermometer, ultrasonics, blood sample, forceps, syringe, bandages and more\n<br>\n<br>Enjoy thrilling outdoor adventures: Ride out on your horse or get into your car to reach emergencies on time with the help of the gyroscope controls\n<br>\n<br>Have fun with a variety of breeds while longing, feeding, cleaning and playing with them\n<br>\n<br>Recapture escaped horses on your practice area\n<br>\n<br>Breed cute foals or buy and sell horses\n<br>\n<br>Expand your practice with different buildings like stables and therapy house\n<br>\n<br>Visit the nearby town with its shop, bank, academy and advertising agency\n<br>\n<br>Collect Play Coins and change them into ingame currency\n<br>\n<br>3D photo feature: Take a real 3D photo of yourself and use it in the game",
+  "release_date_on_eshop": "2014-09-18",
+  "product_code": "CTR-N-KHVE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Adventure",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

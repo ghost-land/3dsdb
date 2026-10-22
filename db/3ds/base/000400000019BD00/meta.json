@@ -1,37 +1,37 @@
 {
-    "tid": "000400000019BD00",
-    "uid": "50010000041636",
-    "name": "Mario Party™ Star Rush",
-    "formal_name": "Mario Party™ Star Rush",
-    "description": "Think fast and have a blast with a variety of ways to party with Mario™, Toad™, and more, on-the-go or on the couch! It’s always your turn as you and up to three friends roll the dice, roam the board, and recruit fan-favorite allies. The bigger your party, the faster you’ll earn stars and coins in frantic minigames. It’s instant fun for everyone!\n<br><br>\nBreak free of turn order and choose your path to victory in Toad Scramble, a mode with five wild worlds filled with bite-sized, open maps to play on. Blast across them in cannons, creep around haunted houses, or get a lift from Lakitu. You may get a chance to take down Bowser’s mech! Team up with Yoshi™, Daisy™, Waluigi™ and other allies along the way.\n<br><br>\nPit your skills against friends by racing along in a gauntlet of rapid-fire minigames in Coinathlon. Cannon down Goombas, take out Shy Guys pinball-style, and even surf on a leafboard…but watch for Wigglers! You may even find yourself wandering a labyrinth of Boos. Partying is tough business!",
-    "release_date_on_eshop": "2016-11-04",
-    "product_code": "CTR-N-BAAE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Party",
-        "Multiplayer",
-        "Board Game"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network",
-        "amiibo",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "*Additional games and systems required for multiplayer mode. Sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "000400000019BD00",
+  "uid": "50010000041636",
+  "name": "Mario Party™ Star Rush",
+  "formal_name": "Mario Party™ Star Rush",
+  "description": "Think fast and have a blast with a variety of ways to party with Mario™, Toad™, and more, on-the-go or on the couch! It’s always your turn as you and up to three friends roll the dice, roam the board, and recruit fan-favorite allies. The bigger your party, the faster you’ll earn stars and coins in frantic minigames. It’s instant fun for everyone!\n<br><br>\nBreak free of turn order and choose your path to victory in Toad Scramble, a mode with five wild worlds filled with bite-sized, open maps to play on. Blast across them in cannons, creep around haunted houses, or get a lift from Lakitu. You may get a chance to take down Bowser’s mech! Team up with Yoshi™, Daisy™, Waluigi™ and other allies along the way.\n<br><br>\nPit your skills against friends by racing along in a gauntlet of rapid-fire minigames in Coinathlon. Cannon down Goombas, take out Shy Guys pinball-style, and even surf on a leafboard…but watch for Wigglers! You may even find yourself wandering a labyrinth of Boos. Partying is tough business!",
+  "release_date_on_eshop": "2016-11-04",
+  "product_code": "CTR-N-BAAE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Party",
+    "Multiplayer",
+    "Board Game"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network",
+    "amiibo",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "*Additional games and systems required for multiplayer mode. Sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

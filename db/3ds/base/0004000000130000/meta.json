@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000130000",
-    "uid": "50010000027759",
-    "name": "SQUIDS-ひっぱりイカの大冒険-",
-    "formal_name": "SQUIDS-ひっぱりイカの大冒険-",
-    "description": "イカたちの足をぎゅ～とひっぱって、パッと離して発射して、敵にぶつけて倒していく「ターン制おはじき風戦略バトルゲーム」です。\n<br>\n<br>敵にぶつけた勢いが強ければ強いほど大ダメージ! ショップで「ヘルメット」を買ってパラメーター強化! 「ヒトデシュリケン」や「オスシ」を使ってバトルをもっと有利に!\n<br>\n<br>簡単操作で、戦略性いっぱいのバトルが楽しめるゲームです。",
-    "release_date_on_eshop": "2014-11-26",
-    "product_code": "CTR-N-JCJJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000130000",
+  "uid": "50010000027759",
+  "name": "SQUIDS-ひっぱりイカの大冒険-",
+  "formal_name": "SQUIDS-ひっぱりイカの大冒険-",
+  "description": "イカたちの足をぎゅ～とひっぱって、パッと離して発射して、敵にぶつけて倒していく「ターン制おはじき風戦略バトルゲーム」です。\n<br>\n<br>敵にぶつけた勢いが強ければ強いほど大ダメージ! ショップで「ヘルメット」を買ってパラメーター強化! 「ヒトデシュリケン」や「オスシ」を使ってバトルをもっと有利に!\n<br>\n<br>簡単操作で、戦略性いっぱいのバトルが楽しめるゲームです。",
+  "release_date_on_eshop": "2014-11-26",
+  "product_code": "CTR-N-JCJJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

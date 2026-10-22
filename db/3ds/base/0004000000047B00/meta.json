@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000047B00",
-    "uid": "50010000007970",
-    "name": "Nano Assault",
-    "formal_name": "Nano Assault",
-    "description": "Stop the deadly Nanostray virus from spreading and contaminating civilization in Nano Assault, a fast-paced action shooter set within a visually stunning cellular system that leaps off the screen in full 3D. Control your microscopic Nanite ship inside the dangerous virus to fight off infections, navigate through alien cell clusters, battle bosses, and ultimately analyze and destroy the virus’ core to save humanity.\n<br><br>\n• Find, analyze, and destroy the Nanostray virus DNA with your Nanite vessel.<br>\n• Harness the power of multiple weapons.<br>\n• Blast your way through 32 twisted cell stages and dark worlds with rugged landscapes that self-adjust in difficulty based on how you play.<br>\n• Stunning gameplay aesthetic set in a distinctive electron microscope inspired world.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AN3E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [
-        "WIFI",
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Fantasy Violence"
-    ]
+  "tid": "0004000000047B00",
+  "uid": "50010000007970",
+  "name": "Nano Assault",
+  "formal_name": "Nano Assault",
+  "description": "Stop the deadly Nanostray virus from spreading and contaminating civilization in Nano Assault, a fast-paced action shooter set within a visually stunning cellular system that leaps off the screen in full 3D. Control your microscopic Nanite ship inside the dangerous virus to fight off infections, navigate through alien cell clusters, battle bosses, and ultimately analyze and destroy the virus’ core to save humanity.\n<br><br>\n• Find, analyze, and destroy the Nanostray virus DNA with your Nanite vessel.<br>\n• Harness the power of multiple weapons.<br>\n• Blast your way through 32 twisted cell stages and dark worlds with rugged landscapes that self-adjust in difficulty based on how you play.<br>\n• Stunning gameplay aesthetic set in a distinctive electron microscope inspired world.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AN3E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [
+    "WIFI",
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Fantasy Violence"
+  ]
 }

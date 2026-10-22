@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B324F45",
-    "uid": "50010000000725",
-    "name": "505 Tangram",
-    "formal_name": "505 Tangram",
-    "description": "Solve 505 tangram puzzles from different groups and become a Tangram Master! Numerous challenges await you! Tangram is the puzzle for purists. Assemble seven pieces of the puzzle correctly to create a preset shape. Animals, humans or objects...can you complete them all?\n\nStatistics are available for players who love to track their wins. Save the game status at any time for play later. The game's style and interface has been designed for easy, intuitive operation with the stylus or the +Control Pad.",
-    "release_date_on_eshop": "2011-02-07",
-    "product_code": "TWL-N-K2OE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324F45",
+  "uid": "50010000000725",
+  "name": "505 Tangram",
+  "formal_name": "505 Tangram",
+  "description": "Solve 505 tangram puzzles from different groups and become a Tangram Master! Numerous challenges await you! Tangram is the puzzle for purists. Assemble seven pieces of the puzzle correctly to create a preset shape. Animals, humans or objects...can you complete them all?\n\nStatistics are available for players who love to track their wins. Save the game status at any time for play later. The game's style and interface has been designed for easy, intuitive operation with the stylus or the +Control Pad.",
+  "release_date_on_eshop": "2011-02-07",
+  "product_code": "TWL-N-K2OE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

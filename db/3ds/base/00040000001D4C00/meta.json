@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001D4C00",
-    "uid": "50010000046375",
-    "name": "Dragon's Wrath",
-    "formal_name": "Dragon's Wrath",
-    "description": "Dragon’s Wrath  is 3D side-scroller game, designed in a unique papercraft model style.  You play Dragonio, the last of his kind whose family treasures have been stolen by a rogue group of medieval bandits.  You must hunt them down and recover your inheritance before they escape with it forever. \n<br>\n<br>As you advance through the game, you’ll discover the bandits true motives as you explore the world of Pembroke.   Dragon’s Wrath 3D is a combination of high-speed fire-breathing action scenes with heavy emphasis on flying, exploration, and strategy.\n<br>\n<br>Update your dragon’s abilities along the way, and replay levels to earn more treasure and improve your score. The legendary game mechanics, unique artistic style graphics, and epic soundtracks will take you to new gaming adventures over and over.",
-    "release_date_on_eshop": "2019-01-17",
-    "product_code": "CTR-N-LDWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D4C00",
+  "uid": "50010000046375",
+  "name": "Dragon's Wrath",
+  "formal_name": "Dragon's Wrath",
+  "description": "Dragon’s Wrath  is 3D side-scroller game, designed in a unique papercraft model style.  You play Dragonio, the last of his kind whose family treasures have been stolen by a rogue group of medieval bandits.  You must hunt them down and recover your inheritance before they escape with it forever. \n<br>\n<br>As you advance through the game, you’ll discover the bandits true motives as you explore the world of Pembroke.   Dragon’s Wrath 3D is a combination of high-speed fire-breathing action scenes with heavy emphasis on flying, exploration, and strategy.\n<br>\n<br>Update your dragon’s abilities along the way, and replay levels to earn more treasure and improve your score. The legendary game mechanics, unique artistic style graphics, and epic soundtracks will take you to new gaming adventures over and over.",
+  "release_date_on_eshop": "2019-01-17",
+  "product_code": "CTR-N-LDWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

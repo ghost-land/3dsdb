@@ -1,30 +1,30 @@
 {
-    "tid": "000400000009C300",
-    "uid": "50010000014805",
-    "name": "Dr. Robotnik's Mean Bean\nMachine",
-    "formal_name": "Dr. Robotnik's Mean Bean Machine",
-    "description": "The evil Dr. Eggman (AKA Dr. Robotnik) has built a machine that will turn the poor people of Beanville into machines, but there’s safety in numbers! In this colorful puzzle game, help them out by joining them into groups of four matching colors so they can stick together and escape certain doom! Defeat Dr. Eggman’s henchmen in order to reach the evil doctor and save Beanville once and for all! You can even challenge a friend via local two-player multiplayer.",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-GARE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009C300",
+  "uid": "50010000014805",
+  "name": "Dr. Robotnik's Mean Bean\nMachine",
+  "formal_name": "Dr. Robotnik's Mean Bean Machine",
+  "description": "The evil Dr. Eggman (AKA Dr. Robotnik) has built a machine that will turn the poor people of Beanville into machines, but there’s safety in numbers! In this colorful puzzle game, help them out by joining them into groups of four matching colors so they can stick together and escape certain doom! Defeat Dr. Eggman’s henchmen in order to reach the evil doctor and save Beanville once and for all! You can even challenge a friend via local two-player multiplayer.",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-GARE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

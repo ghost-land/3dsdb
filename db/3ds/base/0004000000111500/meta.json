@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000111500",
-    "uid": "50010000019558",
-    "name": "Life with Horses 3D",
-    "formal_name": "Life with Horses 3D",
-    "description": "Renovate the stables, riding arena and guesthouse, take loving care of your horses and breed cute foals.\n<br>Ride at full gallop in exciting cross-country races and master the most amazing jumps.\n<br>\n<br>- Fantastic 3D graphics will guarantee lots of fun with your favourite animals.\n<br>\n<br>- Demonstrate your skills in grooming, lunging and taking care of your horse.\n<br>\n<br>- Breed your own foals, with over 100 possible combinations.\n<br>\n<br>- Enjoy thrilling cross-country races through amazing landscapes.\n<br>\n<br>- Collect Nintendo Playcoins and employ someone to perform tasks for you.\n<br>\n<br>- Use the Nintendo 3DS™ motion controls to experience riding, grooming, and training foals first hand.\n<br>\n<br>- StreetPass™: Meet other players to breed more cute foals.",
-    "release_date_on_eshop": "2014-03-06",
-    "product_code": "CTR-P-BMGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Education",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000111500",
+  "uid": "50010000019558",
+  "name": "Life with Horses 3D",
+  "formal_name": "Life with Horses 3D",
+  "description": "Renovate the stables, riding arena and guesthouse, take loving care of your horses and breed cute foals.\n<br>Ride at full gallop in exciting cross-country races and master the most amazing jumps.\n<br>\n<br>- Fantastic 3D graphics will guarantee lots of fun with your favourite animals.\n<br>\n<br>- Demonstrate your skills in grooming, lunging and taking care of your horse.\n<br>\n<br>- Breed your own foals, with over 100 possible combinations.\n<br>\n<br>- Enjoy thrilling cross-country races through amazing landscapes.\n<br>\n<br>- Collect Nintendo Playcoins and employ someone to perform tasks for you.\n<br>\n<br>- Use the Nintendo 3DS™ motion controls to experience riding, grooming, and training foals first hand.\n<br>\n<br>- StreetPass™: Meet other players to breed more cute foals.",
+  "release_date_on_eshop": "2014-03-06",
+  "product_code": "CTR-P-BMGP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Education",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

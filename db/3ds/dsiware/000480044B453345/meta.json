@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B453345",
-    "uid": "50010000001782",
-    "name": "PictureBook Games™:\nThe Royal Bluff",
-    "formal_name": "PictureBook Games™:\nThe Royal Bluff",
-    "description": "Aristocratic opponents square off in PictureBook Games: The Royal Bluff, a game of strategy and deceit. Compete for points by adding or subtracting colored chips from rows on the game board and trying to guess each of your opponent’s secretly assigned chip colors. Once you’re confident in your deduction, issue a Call Out attempt to earn bonus points—at the risk of giving your opponent an extra point if you’re wrong. Three modes of play (Tournament, Free Play, DS Wireless Play) offer a variety of options, from facing off against an assortment of computer opponents to competing in a wireless match with up to four players. Throw Trick Cards, with their variety of effects, into the mix and you’ve got a winning combination of tactics and trickery that is sure to score points with players!",
-    "release_date_on_eshop": "2009-10-26",
-    "product_code": "TWL-N-KE3E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play",
-        "Supports Online Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B453345",
+  "uid": "50010000001782",
+  "name": "PictureBook Games™:\nThe Royal Bluff",
+  "formal_name": "PictureBook Games™:\nThe Royal Bluff",
+  "description": "Aristocratic opponents square off in PictureBook Games: The Royal Bluff, a game of strategy and deceit. Compete for points by adding or subtracting colored chips from rows on the game board and trying to guess each of your opponent’s secretly assigned chip colors. Once you’re confident in your deduction, issue a Call Out attempt to earn bonus points—at the risk of giving your opponent an extra point if you’re wrong. Three modes of play (Tournament, Free Play, DS Wireless Play) offer a variety of options, from facing off against an assortment of computer opponents to competing in a wireless match with up to four players. Throw Trick Cards, with their variety of effects, into the mix and you’ve got a winning combination of tactics and trickery that is sure to score points with players!",
+  "release_date_on_eshop": "2009-10-26",
+  "product_code": "TWL-N-KE3E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play",
+    "Supports Online Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

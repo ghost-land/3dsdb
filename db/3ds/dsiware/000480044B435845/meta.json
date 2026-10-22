@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B435845",
-    "uid": "50010000000588",
-    "name": "Cosmo Fighters",
-    "formal_name": "Cosmo Fighters",
-    "description": "Ready for multiplayer action?\n\nOut in space there's a battle to fight, but before you meet your fate, train yourself against the CPU to master all the tricks and combos. Either one-on-one or you against a bully group of three, all your training will pay off once you challenge your friends and foes. All can play, only the trained one will win!\n\nSend your friends a demo to allow them to play solo or in a Versus mode! This feature works via DS Download Play, available on the Nintendo DS family of systems. Finding opponents for the Multiplayer mode will be really easy as only one of you has to own the full game. Let the fight begin!\n\n*DS Download Play\n*Up to four players\n*Different levels of AI\n*Battle modes: one-on-one or by teams",
-    "release_date_on_eshop": "2010-12-20",
-    "product_code": "TWL-N-KCXE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Fighting",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435845",
+  "uid": "50010000000588",
+  "name": "Cosmo Fighters",
+  "formal_name": "Cosmo Fighters",
+  "description": "Ready for multiplayer action?\n\nOut in space there's a battle to fight, but before you meet your fate, train yourself against the CPU to master all the tricks and combos. Either one-on-one or you against a bully group of three, all your training will pay off once you challenge your friends and foes. All can play, only the trained one will win!\n\nSend your friends a demo to allow them to play solo or in a Versus mode! This feature works via DS Download Play, available on the Nintendo DS family of systems. Finding opponents for the Multiplayer mode will be really easy as only one of you has to own the full game. Let the fight begin!\n\n*DS Download Play\n*Up to four players\n*Different levels of AI\n*Battle modes: one-on-one or by teams",
+  "release_date_on_eshop": "2010-12-20",
+  "product_code": "TWL-N-KCXE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Fighting",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

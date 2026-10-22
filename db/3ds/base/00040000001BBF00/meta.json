@@ -1,35 +1,35 @@
 {
-    "tid": "00040000001BBF00",
-    "uid": "50010000043695",
-    "name": "SteamWorld Dig 2",
-    "formal_name": "SteamWorld Dig 2",
-    "description": "Adventure waits below the surface... \n<br>\n<br>SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it’s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.\n<br> \n<br>Dig your way underground and explore vivid worlds riddled with treasure, secrets, and traps. \n<br>\n<br>Combat dangerous enemies at every turn of the underworld’s twisted paths, including shadowy creatures and the haunted remains of an ancient electrical threat.\n<br>\n<br>Upgrade your gear to forge deeper into the earth and take on bigger challenges.\n<br>\n<br>Swing across large chasms with your Hookshot and fly through caves with the Jet Engine!\n<br>\n<br>And finally, learn the truth about your long lost friend...",
-    "release_date_on_eshop": "2018-02-22",
-    "product_code": "CTR-N-KW4P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BBF00",
+  "uid": "50010000043695",
+  "name": "SteamWorld Dig 2",
+  "formal_name": "SteamWorld Dig 2",
+  "description": "Adventure waits below the surface... \n<br>\n<br>SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it’s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.\n<br> \n<br>Dig your way underground and explore vivid worlds riddled with treasure, secrets, and traps. \n<br>\n<br>Combat dangerous enemies at every turn of the underworld’s twisted paths, including shadowy creatures and the haunted remains of an ancient electrical threat.\n<br>\n<br>Upgrade your gear to forge deeper into the earth and take on bigger challenges.\n<br>\n<br>Swing across large chasms with your Hookshot and fly through caves with the Jet Engine!\n<br>\n<br>And finally, learn the truth about your long lost friend...",
+  "release_date_on_eshop": "2018-02-22",
+  "product_code": "CTR-N-KW4P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

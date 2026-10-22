@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000066A00",
-    "uid": "50010000007145",
-    "name": "ニコリのパズル カックロ",
-    "formal_name": "ニコリのパズル カックロ",
-    "description": "世界中で大ブームを巻き起こした「数独」に続き、今注目を集めているパズルが「カックロ」です。この「ニコリのパズル カックロ」には、ニコリが丁寧に作ったカックロ問題が50問収録されています。問題を解いたときの爽快感、パズルの中に感じ取ることができるストーリーは、ニコリのパズルならではです。",
-    "release_date_on_eshop": "2011-08-03",
-    "product_code": "CTR-N-JK6J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "学習"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000066A00",
+  "uid": "50010000007145",
+  "name": "ニコリのパズル カックロ",
+  "formal_name": "ニコリのパズル カックロ",
+  "description": "世界中で大ブームを巻き起こした「数独」に続き、今注目を集めているパズルが「カックロ」です。この「ニコリのパズル カックロ」には、ニコリが丁寧に作ったカックロ問題が50問収録されています。問題を解いたときの爽快感、パズルの中に感じ取ることができるストーリーは、ニコリのパズルならではです。",
+  "release_date_on_eshop": "2011-08-03",
+  "product_code": "CTR-N-JK6J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "学習"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

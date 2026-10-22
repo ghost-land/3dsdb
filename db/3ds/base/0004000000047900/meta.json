@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000047900",
-    "uid": "50010000007622",
-    "name": "Harvest Moon® 3D:\nThe Tale of Two Towns",
-    "formal_name": "Harvest Moon® 3D:\nThe Tale of Two Towns",
-    "description": "Years ago, a tunnel connected livestock-loving Bluebell village with the crop-growing town of Konohana, but boisterous bickering between the burgs created a cave-in and collapsed the tunnel! Build a bustling farm, befriend the villagers, and maybe you can find a way to bring these towns together once again!\n<br><br>\nChoose from two different villages, each with their own shops, villagers, and festivals!<br><br>\n\nTake on quests in each town and establish your reputation as the best farmer on both sides of the mountain!<br><br>\n\nGrow crops, raise livestock, woo a spouse, and start a family!",
-    "release_date_on_eshop": "2013-04-18",
-    "product_code": "CTR-N-AT2E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Adventure",
-        "RPG",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000047900",
+  "uid": "50010000007622",
+  "name": "Harvest Moon® 3D:\nThe Tale of Two Towns",
+  "formal_name": "Harvest Moon® 3D:\nThe Tale of Two Towns",
+  "description": "Years ago, a tunnel connected livestock-loving Bluebell village with the crop-growing town of Konohana, but boisterous bickering between the burgs created a cave-in and collapsed the tunnel! Build a bustling farm, befriend the villagers, and maybe you can find a way to bring these towns together once again!\n<br><br>\nChoose from two different villages, each with their own shops, villagers, and festivals!<br><br>\n\nTake on quests in each town and establish your reputation as the best farmer on both sides of the mountain!<br><br>\n\nGrow crops, raise livestock, woo a spouse, and start a family!",
+  "release_date_on_eshop": "2013-04-18",
+  "product_code": "CTR-N-AT2E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Adventure",
+    "RPG",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

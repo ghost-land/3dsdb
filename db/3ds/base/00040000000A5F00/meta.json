@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000A5F00",
-    "uid": "50010000012486",
-    "name": "Paper Mario™: Sticker Star",
-    "formal_name": "Paper Mario™: Sticker Star",
-    "description": "Paper Mario is back, and finds\n<br>himself in another sticky situation!\n<br>Take Mario on an exciting paper\n<br>adventure and help him repair the\n<br>mess Bowser has created using the\n<br>powers of brand new stickers. A cast\n<br>of colourful characters will keep you\n<br>laughing along the way as the familiar\n<br>world of Paper Mario is brought to life\n<br>in Paper Mario: Sticker Star for\n<br>Nintendo 3DS! The visually stunning\n<br>3D effects make it seem as though\n<br>you’re looking into and exploring a\n<br>world made up of shoebox dioramas!",
-    "release_date_on_eshop": "2012-12-07",
-    "product_code": "CTR-N-AG5P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A5F00",
+  "uid": "50010000012486",
+  "name": "Paper Mario™: Sticker Star",
+  "formal_name": "Paper Mario™: Sticker Star",
+  "description": "Paper Mario is back, and finds\n<br>himself in another sticky situation!\n<br>Take Mario on an exciting paper\n<br>adventure and help him repair the\n<br>mess Bowser has created using the\n<br>powers of brand new stickers. A cast\n<br>of colourful characters will keep you\n<br>laughing along the way as the familiar\n<br>world of Paper Mario is brought to life\n<br>in Paper Mario: Sticker Star for\n<br>Nintendo 3DS! The visually stunning\n<br>3D effects make it seem as though\n<br>you’re looking into and exploring a\n<br>world made up of shoebox dioramas!",
+  "release_date_on_eshop": "2012-12-07",
+  "product_code": "CTR-N-AG5P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

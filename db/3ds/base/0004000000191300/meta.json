@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000191300",
-    "uid": "50010000040559",
-    "name": "Puzzle Labyrinth",
-    "formal_name": "Puzzle Labyrinth",
-    "description": "Puzzle Labyrinth is a game where the\nplayer must solve puzzles and find\nitems to open doors that lead to the\nexit of a maze.\n<br/><br/>\nWith 60 stages filled with traps and\nmonsters getting in the way, it is sure\nto keep players entertained till the\nlast minute of their escape...if they\never manage to.",
-    "release_date_on_eshop": "2016-06-09",
-    "product_code": "CTR-N-KQMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000191300",
+  "uid": "50010000040559",
+  "name": "Puzzle Labyrinth",
+  "formal_name": "Puzzle Labyrinth",
+  "description": "Puzzle Labyrinth is a game where the\nplayer must solve puzzles and find\nitems to open doors that lead to the\nexit of a maze.\n<br/><br/>\nWith 60 stages filled with traps and\nmonsters getting in the way, it is sure\nto keep players entertained till the\nlast minute of their escape...if they\never manage to.",
+  "release_date_on_eshop": "2016-06-09",
+  "product_code": "CTR-N-KQMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

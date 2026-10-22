@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000F4A00",
-    "uid": "50010000017916",
-    "name": "Secret Mysteries in New York",
-    "formal_name": "Secret Mysteries in New York",
-    "description": "1920: When a politician is found murdered in a local park, the police make the unconventional decision to ask Oscar Gaebelein, a young forensic scientist, for help.\n<br>\n<br>Motivated by his desire to prove his value to the investigating team, Oscar throws himself headfirst into the investigation. However, very soon he and his colleagues discover that this first murder is only the beginning of something much more sinister.\n<br>\n<br>Help Oscar to find the killer in this thrilling hidden object game.\n<br>",
-    "release_date_on_eshop": "2014-02-18",
-    "product_code": "CTR-N-ASXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F4A00",
+  "uid": "50010000017916",
+  "name": "Secret Mysteries in New York",
+  "formal_name": "Secret Mysteries in New York",
+  "description": "1920: When a politician is found murdered in a local park, the police make the unconventional decision to ask Oscar Gaebelein, a young forensic scientist, for help.\n<br>\n<br>Motivated by his desire to prove his value to the investigating team, Oscar throws himself headfirst into the investigation. However, very soon he and his colleagues discover that this first murder is only the beginning of something much more sinister.\n<br>\n<br>Help Oscar to find the killer in this thrilling hidden object game.\n<br>",
+  "release_date_on_eshop": "2014-02-18",
+  "product_code": "CTR-N-ASXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

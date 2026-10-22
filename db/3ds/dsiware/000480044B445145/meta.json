@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B445145",
-    "uid": "50010000001720",
-    "name": "DRAGON QUEST® WARS™",
-    "formal_name": "DRAGON QUEST® WARS™",
-    "description": "DRAGON QUEST WARS is a Nintendo DSiWare grid-based strategy game featuring all of your favorite, quirky DRAGON QUEST monsters. Choose from several modes and get ready for battle in pure DRAGON QUEST fashion! While the rules are simple, strategy is the key to victory. Features single-player and DS Wireless Play, as well as battles with foes worldwide via Nintendo Wi-Fi Connection.\n",
-    "release_date_on_eshop": "2009-09-28",
-    "product_code": "TWL-N-KDQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.\n\n",
-    "descriptors": []
+  "tid": "000480044B445145",
+  "uid": "50010000001720",
+  "name": "DRAGON QUEST® WARS™",
+  "formal_name": "DRAGON QUEST® WARS™",
+  "description": "DRAGON QUEST WARS is a Nintendo DSiWare grid-based strategy game featuring all of your favorite, quirky DRAGON QUEST monsters. Choose from several modes and get ready for battle in pure DRAGON QUEST fashion! While the rules are simple, strategy is the key to victory. Features single-player and DS Wireless Play, as well as battles with foes worldwide via Nintendo Wi-Fi Connection.\n",
+  "release_date_on_eshop": "2009-09-28",
+  "product_code": "TWL-N-KDQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.\n\n",
+  "descriptors": []
 }

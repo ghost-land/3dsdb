@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B514F45",
-    "uid": "50010000008015",
-    "name": "Castle Conqueror - Against",
-    "formal_name": "Castle Conqueror - Against",
-    "description": "You are a great warrior from an ancient tribe. Your island is a beautiful place where you worship your god, who grants you and your tribes the powers that the island can bestow. The Empire suddenly arrived from the other side of the ocean and found gold mines and hunted down many innocent people; the fear of the Empire even made some tribes betray their faith. This has incurred the wrath of your god, and you must leave the safety of your hut to curse and punish the invaders. The god of the island bestows his blessing on you, and you have his power to curse the invaders and save your tribe.\n\nGame Features:\nCastle Conqueror (for advanced players) - Increased strategy, tactics and weather conditions.\nUse mysterious power on the battlefield, and obtain achievement after successfully completing challenges.",
-    "release_date_on_eshop": "2011-12-08",
-    "product_code": "TWL-N-KQOE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Action",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514F45",
+  "uid": "50010000008015",
+  "name": "Castle Conqueror - Against",
+  "formal_name": "Castle Conqueror - Against",
+  "description": "You are a great warrior from an ancient tribe. Your island is a beautiful place where you worship your god, who grants you and your tribes the powers that the island can bestow. The Empire suddenly arrived from the other side of the ocean and found gold mines and hunted down many innocent people; the fear of the Empire even made some tribes betray their faith. This has incurred the wrath of your god, and you must leave the safety of your hut to curse and punish the invaders. The god of the island bestows his blessing on you, and you have his power to curse the invaders and save your tribe.\n\nGame Features:\nCastle Conqueror (for advanced players) - Increased strategy, tactics and weather conditions.\nUse mysterious power on the battlefield, and obtain achievement after successfully completing challenges.",
+  "release_date_on_eshop": "2011-12-08",
+  "product_code": "TWL-N-KQOE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Action",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

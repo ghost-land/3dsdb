@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B535950",
-    "uid": "50010000006263",
-    "name": "System Flaw: Recruit",
-    "formal_name": "System Flaw: Recruit",
-    "description": "This innovative action shooter uses\nthe camera to turn your surroundings\ninto the playing environment! Truly\nunique and totally physical, 360\ndegrees of intensity, System Flaw:\nRecruit is the future of handheld\ngaming excitement. You have been\nchosen to take part in the most\narduous training program to combat\nthe threat we call the Flaw.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KSYP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B535950",
+  "uid": "50010000006263",
+  "name": "System Flaw: Recruit",
+  "formal_name": "System Flaw: Recruit",
+  "description": "This innovative action shooter uses\nthe camera to turn your surroundings\ninto the playing environment! Truly\nunique and totally physical, 360\ndegrees of intensity, System Flaw:\nRecruit is the future of handheld\ngaming excitement. You have been\nchosen to take part in the most\narduous training program to combat\nthe threat we call the Flaw.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KSYP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

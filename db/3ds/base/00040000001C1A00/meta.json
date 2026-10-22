@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001C1A00",
-    "uid": "50010000042821",
-    "name": "Of Mice And Sand",
-    "formal_name": "Of Mice And Sand",
-    "description": "In Of Mice And Sand, the mice drive a Desert Ship as their mobile fortress to travel around the planet.\n<br>\n<br>By ordering the mice crew living in the Desert ship, you can build facilities on the ship and make food for breeding the mice with various items. With the development of the ship, more mice will join in and they can accomplish more jobs. Don't let them starve and make them rich.\n<br>\n<br>Your final goal is to reach the other side of the desert and find the legendary land of gold to the east, El Dorado!",
-    "release_date_on_eshop": "2017-06-01",
-    "product_code": "CTR-N-KSZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C1A00",
+  "uid": "50010000042821",
+  "name": "Of Mice And Sand",
+  "formal_name": "Of Mice And Sand",
+  "description": "In Of Mice And Sand, the mice drive a Desert Ship as their mobile fortress to travel around the planet.\n<br>\n<br>By ordering the mice crew living in the Desert ship, you can build facilities on the ship and make food for breeding the mice with various items. With the development of the ship, more mice will join in and they can accomplish more jobs. Don't let them starve and make them rich.\n<br>\n<br>Your final goal is to reach the other side of the desert and find the legendary land of gold to the east, El Dorado!",
+  "release_date_on_eshop": "2017-06-01",
+  "product_code": "CTR-N-KSZE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

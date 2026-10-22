@@ -1,34 +1,34 @@
 {
-    "tid": "000400000010BF00",
-    "uid": "50010000021573",
-    "name": "Kirby™: Triple Deluxe",
-    "formal_name": "Kirby™: Triple Deluxe",
-    "description": "Pink? Check. Puffy? Check. Powerful? You have no idea. Devour trees, obstacles, and huge chunks of stages with Kirby’s Hypernova ability and inhale enemies to copy epic new moves like Archer. It’s a grand new Kirby™ adventure PLUS a new multiplayer battle mode, Kirby Fighters!\n<br><br>\nWhen a mysterious being kidnaps King Dedede atop a giant Dreamstalk, only Kirby can save the day! Jump from the foreground to the background in dynamic 3D side-scrolling environments while using new and returning copy abilities to defeat enemies. Duke it out in Kirby Fighters, a fierce 4-player battle mode where you fight using a chosen ability like Sword or Ninja. The last Kirby standing reigns supreme. Whether you’re new to Kirby or an old fan, the Kirby: Triple Deluxe game offers a triple threat—action, adventure, and a battle mode!",
-    "release_date_on_eshop": "2014-05-02",
-    "product_code": "CTR-N-BALE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Additional systems are required for multiplayer mode; sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000010BF00",
+  "uid": "50010000021573",
+  "name": "Kirby™: Triple Deluxe",
+  "formal_name": "Kirby™: Triple Deluxe",
+  "description": "Pink? Check. Puffy? Check. Powerful? You have no idea. Devour trees, obstacles, and huge chunks of stages with Kirby’s Hypernova ability and inhale enemies to copy epic new moves like Archer. It’s a grand new Kirby™ adventure PLUS a new multiplayer battle mode, Kirby Fighters!\n<br><br>\nWhen a mysterious being kidnaps King Dedede atop a giant Dreamstalk, only Kirby can save the day! Jump from the foreground to the background in dynamic 3D side-scrolling environments while using new and returning copy abilities to defeat enemies. Duke it out in Kirby Fighters, a fierce 4-player battle mode where you fight using a chosen ability like Sword or Ninja. The last Kirby standing reigns supreme. Whether you’re new to Kirby or an old fan, the Kirby: Triple Deluxe game offers a triple threat—action, adventure, and a battle mode!",
+  "release_date_on_eshop": "2014-05-02",
+  "product_code": "CTR-N-BALE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Additional systems are required for multiplayer mode; sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

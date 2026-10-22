@@ -1,35 +1,35 @@
 {
-    "tid": "000400000016A700",
-    "uid": "50010000039584",
-    "name": "Musicverse:\nElectronic Keyboard",
-    "formal_name": "Musicverse:\nElectronic Keyboard",
-    "description": "Share your musical genius using\nMusicverse: Electronic Keyboard!\n<br/><br/>\nRecord the melody stuck in your\nhead wherever you are and show it to\nthe world, no limits with Miiverse™,\nFacebook and Twitter!\n<br/><br/>\nListen and play the creations of Miko\nin Japan, John in Canada and Magnus\nin Europe... Everyone just a note\naway!\n<br/><br/>\nBoth if you are an expert or the first\ntime playing, Musicverse guides you\neasily through all the possibilities just\nat your fingertips in your Nintendo\n3DS™.\n<br/><br/>\nFeatures:\n<br/><br/>\n- Store up to 128 creations.<br/>\n- Share your music trough Miiverse™,\nFacebook and Twitter.<br/>\n- Import other user's music from\nMiiverse™ or QR Code patterns.<br/>\n- Export your creations in AAC\nformat to the SD card.<br/>\n- Included video tutorials.<br/>\n- Left handed mode.<br/>\n- 6 octave keyboard (2 visible).<br/>\n- Chord scale visualization.<br/>\n- Key zoom function.<br/>\n- Real time quantization.<br/>\n- Pitch bend function.<br/>\n- Automatic accompaniment with 14\nmusical styles and 4 variations.<br/>\n- 8 programmable chords and 12\nchord types to choose.<br/>\n- 32 instruments from retro to\nmodern style.<br/>\n- Integrated sequencer with\nindependent chord and melody tracks.<br/>\n- Independent mutes for drum, bass\nand chorus parts.<br/>\n- Metronome.",
-    "release_date_on_eshop": "2016-03-03",
-    "product_code": "CTR-N-KMKP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Music",
-        "Education",
-        "System Tool",
-        "Other"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016A700",
+  "uid": "50010000039584",
+  "name": "Musicverse:\nElectronic Keyboard",
+  "formal_name": "Musicverse:\nElectronic Keyboard",
+  "description": "Share your musical genius using\nMusicverse: Electronic Keyboard!\n<br/><br/>\nRecord the melody stuck in your\nhead wherever you are and show it to\nthe world, no limits with Miiverse™,\nFacebook and Twitter!\n<br/><br/>\nListen and play the creations of Miko\nin Japan, John in Canada and Magnus\nin Europe... Everyone just a note\naway!\n<br/><br/>\nBoth if you are an expert or the first\ntime playing, Musicverse guides you\neasily through all the possibilities just\nat your fingertips in your Nintendo\n3DS™.\n<br/><br/>\nFeatures:\n<br/><br/>\n- Store up to 128 creations.<br/>\n- Share your music trough Miiverse™,\nFacebook and Twitter.<br/>\n- Import other user's music from\nMiiverse™ or QR Code patterns.<br/>\n- Export your creations in AAC\nformat to the SD card.<br/>\n- Included video tutorials.<br/>\n- Left handed mode.<br/>\n- 6 octave keyboard (2 visible).<br/>\n- Chord scale visualization.<br/>\n- Key zoom function.<br/>\n- Real time quantization.<br/>\n- Pitch bend function.<br/>\n- Automatic accompaniment with 14\nmusical styles and 4 variations.<br/>\n- 8 programmable chords and 12\nchord types to choose.<br/>\n- 32 instruments from retro to\nmodern style.<br/>\n- Integrated sequencer with\nindependent chord and melody tracks.<br/>\n- Independent mutes for drum, bass\nand chorus parts.<br/>\n- Metronome.",
+  "release_date_on_eshop": "2016-03-03",
+  "product_code": "CTR-N-KMKP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Music",
+    "Education",
+    "System Tool",
+    "Other"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000036E00",
-    "uid": "50010000007191",
-    "name": "Skylanders Spyro's Adventure",
-    "formal_name": "Skylanders Spyro's Adventure",
-    "description": "The new video game where toys come to life!\n<br><br>\nFor generations, the Skylanders have used their magical powers and weapons to protect Skylands. But now,\nan evil tyrant has frozen them and banished them to Earth. Only you can put them on the Portal of Power™ and bring them to life to save Skylands forever.\n<br><br>\n30+ Skylanders to collect – each with unique abilities and powers. The Skylanders are so powerful that they remember their in-game experiences and upgrades as they explore the mysterious world of Skylanders, battle menacing creatures and collect treasures. Discover a variety of vivid 3D environments containing unique platform challenges and intense combat encounters.\n<br><br>\nTag Team Character Action – Bring two\nSkylanders into the game at any time and instantly swap between them!\n<br><br>\nExclusive character – Dark Spyro, available exclusively for the Nintendo 3DS but playable with any version of Skylanders Spyro’s Adventure.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASPE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Cartoon Violence"
-    ]
+  "tid": "0004000000036E00",
+  "uid": "50010000007191",
+  "name": "Skylanders Spyro's Adventure",
+  "formal_name": "Skylanders Spyro's Adventure",
+  "description": "The new video game where toys come to life!\n<br><br>\nFor generations, the Skylanders have used their magical powers and weapons to protect Skylands. But now,\nan evil tyrant has frozen them and banished them to Earth. Only you can put them on the Portal of Power™ and bring them to life to save Skylands forever.\n<br><br>\n30+ Skylanders to collect – each with unique abilities and powers. The Skylanders are so powerful that they remember their in-game experiences and upgrades as they explore the mysterious world of Skylanders, battle menacing creatures and collect treasures. Discover a variety of vivid 3D environments containing unique platform challenges and intense combat encounters.\n<br><br>\nTag Team Character Action – Bring two\nSkylanders into the game at any time and instantly swap between them!\n<br><br>\nExclusive character – Dark Spyro, available exclusively for the Nintendo 3DS but playable with any version of Skylanders Spyro’s Adventure.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASPE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Cartoon Violence"
+  ]
 }

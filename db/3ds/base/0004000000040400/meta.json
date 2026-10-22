@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000040400",
-    "uid": "50010000007870",
-    "name": "CRUSH™3D",
-    "formal_name": "CRUSH™3D",
-    "description": "CRUSH™3D: an innovative new\npuzzle-platform game for Nintendo\n3DS from SEGA and Zoë Mode which\nwill have you thinking outside the box\nbefore you can say “splat”.<br>\n<br>\nDanny needs your help, he’s stuck\ninside the C.R.U.S.H. machine,\nwandering worlds made from his own\nworries – he needs guidance from\nsomeone with the moxie to discover\nthe right route through the tangled\nworlds of his imagination. Help him\nout in CRUSH™3D, only on Nintendo\n3DS.<br>\n<br>\n* Crush from three dimensions to two\n(and back) to solve puzzles<br>\n<br>\n* Play through over 50\nmind-boggling levels and get to the\nexit door<br>\n<br>\n* Exchange gifts with friends via\nStreetPass to unlock extras<br>\n<br>\n* Amass collectables to access\nexclusive artwork and more!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ACRP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000040400",
+  "uid": "50010000007870",
+  "name": "CRUSH™3D",
+  "formal_name": "CRUSH™3D",
+  "description": "CRUSH™3D: an innovative new\npuzzle-platform game for Nintendo\n3DS from SEGA and Zoë Mode which\nwill have you thinking outside the box\nbefore you can say “splat”.<br>\n<br>\nDanny needs your help, he’s stuck\ninside the C.R.U.S.H. machine,\nwandering worlds made from his own\nworries – he needs guidance from\nsomeone with the moxie to discover\nthe right route through the tangled\nworlds of his imagination. Help him\nout in CRUSH™3D, only on Nintendo\n3DS.<br>\n<br>\n* Crush from three dimensions to two\n(and back) to solve puzzles<br>\n<br>\n* Play through over 50\nmind-boggling levels and get to the\nexit door<br>\n<br>\n* Exchange gifts with friends via\nStreetPass to unlock extras<br>\n<br>\n* Amass collectables to access\nexclusive artwork and more!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ACRP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

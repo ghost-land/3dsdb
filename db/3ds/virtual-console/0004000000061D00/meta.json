@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000061D00",
-    "uid": "50010000007999",
-    "name": "Blaster Master Enemy Below",
-    "formal_name": "Blaster Master Enemy Below",
-    "description": "An old enemy has returned, and the\nworld is once again in danger. Only\nJason, hero of the original Blaster\nMaster, and his all-terrain tank Sophia\nthe 3rd can save the day.<br>\n<br>\nBlaster Master Enemy Below brings\nthe series’ trademark mix of action\nand exploration to the small screen.\nShoot through enemy-infested\nenvironments in your tank, and then\njump out to continue the fight on foot.<br>\n<br>\nExplore eight sprawling catacombs,\nbattle bosses to win upgrades for\nSophia the 3rd and delve deeper into\nthe enemies’ lair.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-QAEP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000061D00",
+  "uid": "50010000007999",
+  "name": "Blaster Master Enemy Below",
+  "formal_name": "Blaster Master Enemy Below",
+  "description": "An old enemy has returned, and the\nworld is once again in danger. Only\nJason, hero of the original Blaster\nMaster, and his all-terrain tank Sophia\nthe 3rd can save the day.<br>\n<br>\nBlaster Master Enemy Below brings\nthe series’ trademark mix of action\nand exploration to the small screen.\nShoot through enemy-infested\nenvironments in your tank, and then\njump out to continue the fight on foot.<br>\n<br>\nExplore eight sprawling catacombs,\nbattle bosses to win upgrades for\nSophia the 3rd and delve deeper into\nthe enemies’ lair.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-QAEP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

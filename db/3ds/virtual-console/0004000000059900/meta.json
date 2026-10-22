@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000059900",
-    "uid": "50010000007998",
-    "name": "LOCK’N CHASE",
-    "formal_name": "LOCK’N CHASE",
-    "description": "The chase is on, to catch a master\nthief. He’s fast, sneaky and runs rings\naround the cops. No bank is safe\nfrom…you!<br>\n<br>\nIn classic arcade action game\nLOCK’N CHASE you must dash around\nthe maze-like bank vaults, grabbing all\nthe coins while avoiding the guards.<br>\n<br>\nAs you progress, the banks get\nbigger and the riches become greater;\nbut the guards get tougher, too.\nFortunately, snatching a diamond\nmeans the law can’t touch you, for a\nshort time at least. You know what\nthey say; no risk, no reward!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBGP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000059900",
+  "uid": "50010000007998",
+  "name": "LOCK’N CHASE",
+  "formal_name": "LOCK’N CHASE",
+  "description": "The chase is on, to catch a master\nthief. He’s fast, sneaky and runs rings\naround the cops. No bank is safe\nfrom…you!<br>\n<br>\nIn classic arcade action game\nLOCK’N CHASE you must dash around\nthe maze-like bank vaults, grabbing all\nthe coins while avoiding the guards.<br>\n<br>\nAs you progress, the banks get\nbigger and the riches become greater;\nbut the guards get tougher, too.\nFortunately, snatching a diamond\nmeans the law can’t touch you, for a\nshort time at least. You know what\nthey say; no risk, no reward!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBGP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

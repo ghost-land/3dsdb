@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B464D55",
-    "uid": "50010000002281",
-    "name": "Faceez! Monsters",
-    "formal_name": "Faceez! Monsters",
-    "description": "Faceez is back, and this time it will...scare your friends!\n\nFaceez: Monsters! features new disguises and accessories, each more frightening than the other! Living dead, werewolves, vampires, zombies...Take pictures of your friends’ faces and turn them into abominable monsters! Place them in your own settings! \n\nLots of laugher and fun! And share your monstrous creations.\n",
-    "release_date_on_eshop": "2011-03-28",
-    "product_code": "TWL-N-KFME",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Blood",
-        "Comic Mischief",
-        "Alcohol Reference"
-    ]
+  "tid": "000480044B464D55",
+  "uid": "50010000002281",
+  "name": "Faceez! Monsters",
+  "formal_name": "Faceez! Monsters",
+  "description": "Faceez is back, and this time it will...scare your friends!\n\nFaceez: Monsters! features new disguises and accessories, each more frightening than the other! Living dead, werewolves, vampires, zombies...Take pictures of your friends’ faces and turn them into abominable monsters! Place them in your own settings! \n\nLots of laugher and fun! And share your monstrous creations.\n",
+  "release_date_on_eshop": "2011-03-28",
+  "product_code": "TWL-N-KFME",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Blood",
+    "Comic Mischief",
+    "Alcohol Reference"
+  ]
 }

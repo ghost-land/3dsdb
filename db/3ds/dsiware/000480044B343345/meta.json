@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B343345",
-    "uid": "50010000022276",
-    "name": "Jewel Quest 4 Heritage",
-    "formal_name": "Jewel Quest 4 Heritage",
-    "description": "Hit the trail with Rupert on a journey through the shrines and castles of Hernan Cortes' lore. Swap jewels and collect puzzle pieces to unravel a perplexing web of family history in Jewel Quest Heritage.\n<br><br>\nThe Golden Jewel Board has been confiscated by the government, and is being delivered to the evil Sebastian Grenard! Investigate long-buried family secrets in order to discover the truth and save the day!",
-    "release_date_on_eshop": "2014-05-08",
-    "product_code": "TWL-N-K43E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B343345",
+  "uid": "50010000022276",
+  "name": "Jewel Quest 4 Heritage",
+  "formal_name": "Jewel Quest 4 Heritage",
+  "description": "Hit the trail with Rupert on a journey through the shrines and castles of Hernan Cortes' lore. Swap jewels and collect puzzle pieces to unravel a perplexing web of family history in Jewel Quest Heritage.\n<br><br>\nThe Golden Jewel Board has been confiscated by the government, and is being delivered to the evil Sebastian Grenard! Investigate long-buried family secrets in order to discover the truth and save the day!",
+  "release_date_on_eshop": "2014-05-08",
+  "product_code": "TWL-N-K43E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

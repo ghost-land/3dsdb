@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000F3500",
-    "uid": "50010000016995",
-    "name": "Professor Layton\nen de Erfenis van de Azran™",
-    "formal_name": "Professor Layton\n<br>en de Erfenis van de Azran™",
-    "description": "Het laatste hoofdstuk van de\n<br>Professor Layton-serie laat je puzzels\n<br>oplossen over de hele wereld, met het\n<br>meest ambitieuze avontuur van de\n<br>speurende heer tot nu toe. Na het\n<br>ontvangen van een mysterieuze brief\n<br>waarin wordt beweerd dat er een\n<br>levende mummie is ontdekt, reizen\n<br>Layton en zijn team af naar een stad\n<br>diep in het poolgebied. Daar bevrijden\n<br>ze een jongedame uit een gevangenis\n<br>van ijs, wat een groots avontuur in\n<br>beweging zet. Een luchtschip neemt ze\n<br>mee naar spectaculaire locaties, op\n<br>het spoor van de raadsels van\n<br>eeuwenoude beschavingen.",
-    "release_date_on_eshop": "2013-11-08",
-    "product_code": "CTR-P-AL6H",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "BE",
-    "genres": [
-        "Avonturenspel",
-        "Puzzelspel"
-    ],
-    "features": [
-        "Weergave van 3D-beelden",
-        "Ondersteunt StreetPass",
-        "Ondersteunt SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "Nederlands"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F3500",
+  "uid": "50010000016995",
+  "name": "Professor Layton\nen de Erfenis van de Azran™",
+  "formal_name": "Professor Layton\n<br>en de Erfenis van de Azran™",
+  "description": "Het laatste hoofdstuk van de\n<br>Professor Layton-serie laat je puzzels\n<br>oplossen over de hele wereld, met het\n<br>meest ambitieuze avontuur van de\n<br>speurende heer tot nu toe. Na het\n<br>ontvangen van een mysterieuze brief\n<br>waarin wordt beweerd dat er een\n<br>levende mummie is ontdekt, reizen\n<br>Layton en zijn team af naar een stad\n<br>diep in het poolgebied. Daar bevrijden\n<br>ze een jongedame uit een gevangenis\n<br>van ijs, wat een groots avontuur in\n<br>beweging zet. Een luchtschip neemt ze\n<br>mee naar spectaculaire locaties, op\n<br>het spoor van de raadsels van\n<br>eeuwenoude beschavingen.",
+  "release_date_on_eshop": "2013-11-08",
+  "product_code": "CTR-P-AL6H",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "BE",
+  "genres": [
+    "Avonturenspel",
+    "Puzzelspel"
+  ],
+  "features": [
+    "Weergave van 3D-beelden",
+    "Ondersteunt StreetPass",
+    "Ondersteunt SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

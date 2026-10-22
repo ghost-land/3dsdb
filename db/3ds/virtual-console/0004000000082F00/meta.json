@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000082F00",
-    "uid": "50010000010415",
-    "name": "Tumble Pop",
-    "formal_name": "Tumble Pop",
-    "description": "In the future, the world is infested\nwith strange beasties and weird\nmutations. So grab your trusty\nVacuulator and suck up those critters,\nand make the world fit for humans\nagain!<br>\n<br>\nThis classic action-platformer tasks\nyou with vacuuming up all the evil\nmutants, robots and aliens, and\nblasting them back at each other.<br>\n<br>\nTumble and pop your way through\neight worlds in the single player\ngame, and you can also get creative\nin Construction Mode and make your\nown levels!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBUP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000082F00",
+  "uid": "50010000010415",
+  "name": "Tumble Pop",
+  "formal_name": "Tumble Pop",
+  "description": "In the future, the world is infested\nwith strange beasties and weird\nmutations. So grab your trusty\nVacuulator and suck up those critters,\nand make the world fit for humans\nagain!<br>\n<br>\nThis classic action-platformer tasks\nyou with vacuuming up all the evil\nmutants, robots and aliens, and\nblasting them back at each other.<br>\n<br>\nTumble and pop your way through\neight worlds in the single player\ngame, and you can also get creative\nin Construction Mode and make your\nown levels!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBUP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

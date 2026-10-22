@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000D9000",
-    "uid": "50010000014853",
-    "name": "Mario & Luigi™:\nDream Team Bros.",
-    "formal_name": "Mario & Luigi™:\n<br>Dream Team Bros.",
-    "description": "Uncover the power of Dreamy Luigi in\n<br>Mario & Luigi: Dream Team Bros. on\n<br>Nintendo 3DS!\n<br>\n<br>In this fourth instalment of the\n<br>popular RPG series Mario & Luigi, the\n<br>story opens with Princess Peach and\n<br>her staff, plus brothers Mario and\n<br>Luigi in tow, being invited for a\n<br>sightseeing trip to the mysterious\n<br>Pi’illo Island by its equally mysterious\n<br>proprietor, Dr Snoozemore. But after\n<br>an initially hospitable welcoming to\n<br>the island – albeit with Dr Snoozemore\n<br>noticeably absent – things take a turn\n<br>for the worse when Princess Peach is\n<br>kidnapped and pulled into a Dream\n<br>World by a new enemy in the series,\n<br>the ghostly bat king Antasma.\n<br>\n<br>Solve puzzles, battle enemies, and\n<br>even interact with creations of Luigi’s\n<br>own imagination in order to succeed!\n<br>\n<br>New moves and attacks that use the\n<br>Nintendo 3DS system's capabilities in\n<br>original ways.",
-    "release_date_on_eshop": "2013-07-12",
-    "product_code": "CTR-P-AYMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D9000",
+  "uid": "50010000014853",
+  "name": "Mario & Luigi™:\nDream Team Bros.",
+  "formal_name": "Mario & Luigi™:\n<br>Dream Team Bros.",
+  "description": "Uncover the power of Dreamy Luigi in\n<br>Mario & Luigi: Dream Team Bros. on\n<br>Nintendo 3DS!\n<br>\n<br>In this fourth instalment of the\n<br>popular RPG series Mario & Luigi, the\n<br>story opens with Princess Peach and\n<br>her staff, plus brothers Mario and\n<br>Luigi in tow, being invited for a\n<br>sightseeing trip to the mysterious\n<br>Pi’illo Island by its equally mysterious\n<br>proprietor, Dr Snoozemore. But after\n<br>an initially hospitable welcoming to\n<br>the island – albeit with Dr Snoozemore\n<br>noticeably absent – things take a turn\n<br>for the worse when Princess Peach is\n<br>kidnapped and pulled into a Dream\n<br>World by a new enemy in the series,\n<br>the ghostly bat king Antasma.\n<br>\n<br>Solve puzzles, battle enemies, and\n<br>even interact with creations of Luigi’s\n<br>own imagination in order to succeed!\n<br>\n<br>New moves and attacks that use the\n<br>Nintendo 3DS system's capabilities in\n<br>original ways.",
+  "release_date_on_eshop": "2013-07-12",
+  "product_code": "CTR-P-AYMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

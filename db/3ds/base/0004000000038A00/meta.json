@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000038A00",
-    "uid": "50010000000220",
-    "name": "Dead or Alive Dimensions",
-    "formal_name": "Dead or Alive Dimensions",
-    "description": "DEAD OR ALIVE Dimensions (DOAD) is\na fighting game that can be enjoyed by\nanyone, no matter their level of\nability! Enjoy thrilling combat against\ncomputer opponents, take on a friend \nin a duel and have virtual battles \nwith other players using StreetPass.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ADDP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Fighting"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000038A00",
+  "uid": "50010000000220",
+  "name": "Dead or Alive Dimensions",
+  "formal_name": "Dead or Alive Dimensions",
+  "description": "DEAD OR ALIVE Dimensions (DOAD) is\na fighting game that can be enjoyed by\nanyone, no matter their level of\nability! Enjoy thrilling combat against\ncomputer opponents, take on a friend \nin a duel and have virtual battles \nwith other players using StreetPass.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ADDP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Fighting"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

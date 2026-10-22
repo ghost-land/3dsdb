@@ -1,36 +1,36 @@
 {
-    "tid": "000400000017BB00",
-    "uid": "50010000038878",
-    "name": "Bravely Second™: End Layer",
-    "formal_name": "Bravely Second™: End Layer",
-    "description": "Bonus for purchasing on Nintendo\neShop:\n<br><br>\nDownload code for Promotional Set\n2 for Bravely Second™: End Layer for\nNintendo 3DS.\n<br><br>\nPrepare yourself for a daring new\nadventure and unleash masterful battle\nstrategies in Bravely Second: End\nLayer. Building on the critically\nacclaimed Bravely Default, the sequel\noffers both newcomers and returning\nfans a vast role-playing adventure,\nfilled with deeply tactical combat,\nunforgettable characters and much\nmore.\n<br><br>\nWhen the evil Kaiser Oblivion abducts\nAgnès Oblige, the heroine of Bravely\nDefault, and her bodyguard Yew\nGeneolgia pledges to rescue her from\nthe kaiser’s Skyhold, an impregnable\nfortress floating high over Eternia.\nAlong the way, Yew will need to team\nup with Magnolia Arch and other new\nfaces, plus a few returning heroes like\nEdea Lee and Tiz Arrior, to survive\nforeboding dungeons and conquer\nfearsome enemies.\n<br/><br/>\nThis game also supports Japanese.",
-    "release_date_on_eshop": "2016-02-26",
-    "product_code": "CTR-P-BSED",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017BB00",
+  "uid": "50010000038878",
+  "name": "Bravely Second™: End Layer",
+  "formal_name": "Bravely Second™: End Layer",
+  "description": "Bonus for purchasing on Nintendo\neShop:\n<br><br>\nDownload code for Promotional Set\n2 for Bravely Second™: End Layer for\nNintendo 3DS.\n<br><br>\nPrepare yourself for a daring new\nadventure and unleash masterful battle\nstrategies in Bravely Second: End\nLayer. Building on the critically\nacclaimed Bravely Default, the sequel\noffers both newcomers and returning\nfans a vast role-playing adventure,\nfilled with deeply tactical combat,\nunforgettable characters and much\nmore.\n<br><br>\nWhen the evil Kaiser Oblivion abducts\nAgnès Oblige, the heroine of Bravely\nDefault, and her bodyguard Yew\nGeneolgia pledges to rescue her from\nthe kaiser’s Skyhold, an impregnable\nfortress floating high over Eternia.\nAlong the way, Yew will need to team\nup with Magnolia Arch and other new\nfaces, plus a few returning heroes like\nEdea Lee and Tiz Arrior, to survive\nforeboding dungeons and conquer\nfearsome enemies.\n<br/><br/>\nThis game also supports Japanese.",
+  "release_date_on_eshop": "2016-02-26",
+  "product_code": "CTR-P-BSED",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

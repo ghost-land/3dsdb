@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E0011C500",
-    "uid": "50010000025575",
-    "name": "Pokémon™ Alpha Sapphire:\nUpdate",
-    "formal_name": "Pokémon™ Alpha Sapphire:\nUpdate",
-    "description": "An update for Pokémon™ Alpha\nSapphire is now available from\nNintendo eShop.\n<br/><br/>\nThis will update the software to\nVersion 1.4 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\nOnce the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.\n<br/><br/>\nPlease note that Pokémon™ Omega\nRuby cannot be updated using this\ndata and you have to download the\nupdate data for Pokémon™ Omega\nRuby separately.",
-    "release_date_on_eshop": "2014-11-25",
-    "product_code": "CTR-U-ECLA",
-    "platform_name": "Update Data",
-    "region": "Region Free",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v7.7.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0011C500",
+  "uid": "50010000025575",
+  "name": "Pokémon™ Alpha Sapphire:\nUpdate",
+  "formal_name": "Pokémon™ Alpha Sapphire:\nUpdate",
+  "description": "An update for Pokémon™ Alpha\nSapphire is now available from\nNintendo eShop.\n<br/><br/>\nThis will update the software to\nVersion 1.4 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\nOnce the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.\n<br/><br/>\nPlease note that Pokémon™ Omega\nRuby cannot be updated using this\ndata and you have to download the\nupdate data for Pokémon™ Omega\nRuby separately.",
+  "release_date_on_eshop": "2014-11-25",
+  "product_code": "CTR-U-ECLA",
+  "platform_name": "Update Data",
+  "region": "Region Free",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v7.7.0",
+  "disclaimer": null,
+  "descriptors": []
 }

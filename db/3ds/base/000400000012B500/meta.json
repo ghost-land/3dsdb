@@ -1,29 +1,29 @@
 {
-    "tid": "000400000012B500",
-    "uid": "50010000024637",
-    "name": "@SIMPLE DLシリーズ Vol.32\nTHEバトルロボ大共闘スクランブル",
-    "formal_name": "@SIMPLE DLシリーズ Vol.32\nTHE バトルロボ ～大共闘スクランブル～",
-    "description": "ロボを操作し、ステージ上の敵ロボを全て撃破していくロボットアクションゲームです。\n<br>7種ある武器を入手･強化していきながら、全100以上の多彩なステージを制していこう。\n<br>操作するロボは3種から選択可能。ローカルプレイで最大4人までの共闘バトルが楽しめます。",
-    "release_date_on_eshop": "2014-08-06",
-    "product_code": "CTR-N-JVRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012B500",
+  "uid": "50010000024637",
+  "name": "@SIMPLE DLシリーズ Vol.32\nTHEバトルロボ大共闘スクランブル",
+  "formal_name": "@SIMPLE DLシリーズ Vol.32\nTHE バトルロボ ～大共闘スクランブル～",
+  "description": "ロボを操作し、ステージ上の敵ロボを全て撃破していくロボットアクションゲームです。\n<br>7種ある武器を入手･強化していきながら、全100以上の多彩なステージを制していこう。\n<br>操作するロボは3種から選択可能。ローカルプレイで最大4人までの共闘バトルが楽しめます。",
+  "release_date_on_eshop": "2014-08-06",
+  "product_code": "CTR-N-JVRJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

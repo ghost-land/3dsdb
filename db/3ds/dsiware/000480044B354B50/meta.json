@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B354B50",
-    "uid": "50010000007942",
-    "name": "Escape Trick:\nConvenience Store",
-    "formal_name": "Escape Trick: Convenience Store",
-    "description": "This is a convenience store located in the Southern island. It has very few customers due to the slow season... The main character, who makes his living working here as a part-timer, heads for the store upon the owner's urgent request to cover for him for an hour. Neither customers, nor the owner are in the store so he decides to balance the accounts. The hour passes without incident. But as he is leaving, he notices that something is seriously wrong. The door won't open! Plus, the store looks somehow different. Who would lock him in here? We join him as he tries to solve this mystery. Can he get out of this place? Anyone can enjoy a genuine escape game with the series' well-known simple controls!",
-    "release_date_on_eshop": "2011-11-17",
-    "product_code": "TWL-N-K5KE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Language"
-    ]
+  "tid": "000480044B354B50",
+  "uid": "50010000007942",
+  "name": "Escape Trick:\nConvenience Store",
+  "formal_name": "Escape Trick: Convenience Store",
+  "description": "This is a convenience store located in the Southern island. It has very few customers due to the slow season... The main character, who makes his living working here as a part-timer, heads for the store upon the owner's urgent request to cover for him for an hour. Neither customers, nor the owner are in the store so he decides to balance the accounts. The hour passes without incident. But as he is leaving, he notices that something is seriously wrong. The door won't open! Plus, the store looks somehow different. Who would lock him in here? We join him as he tries to solve this mystery. Can he get out of this place? Anyone can enjoy a genuine escape game with the series' well-known simple controls!",
+  "release_date_on_eshop": "2011-11-17",
+  "product_code": "TWL-N-K5KE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Language"
+  ]
 }

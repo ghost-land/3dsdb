@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B5A4345",
-    "uid": "50010000012831",
-    "name": "Jump Trials Extreme",
-    "formal_name": "Jump Trials Extreme",
-    "description": "Jump Trials is back and this time it's gone EXTREME!\n<p>\nJump Trials Extreme will test your running and jumping techniques to the limit, all over again! In this second version of Jump Trials there are new game features, new game modes and over 100 new stages to test your platform running and jumping skills. \n<p>\nTake control of a stickman and race across an obstacle course to get the exit in just 10 seconds! Navigate your stickman across moving platforms, slippery surfaces, disappearing blocks, conveyor belts, spring pads and seesaws! With only 10 seconds to reach the exit, hesitating for even a split second can be the difference between success and failure! \n<p>\nTest your running and jumping skills in three different game modes.<br>\nTrials Mode - Test yourself over 100 increasingly challenging stages.<br>\nTime Attack Mode - See how quickly you can complete each stage in a race against the clock.<br>\nChallenge Mode - Collect three medals on your way to the exit before the time runs out.",
-    "release_date_on_eshop": "2012-12-27",
-    "product_code": "TWL-N-KZCE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Racing",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4345",
+  "uid": "50010000012831",
+  "name": "Jump Trials Extreme",
+  "formal_name": "Jump Trials Extreme",
+  "description": "Jump Trials is back and this time it's gone EXTREME!\n<p>\nJump Trials Extreme will test your running and jumping techniques to the limit, all over again! In this second version of Jump Trials there are new game features, new game modes and over 100 new stages to test your platform running and jumping skills. \n<p>\nTake control of a stickman and race across an obstacle course to get the exit in just 10 seconds! Navigate your stickman across moving platforms, slippery surfaces, disappearing blocks, conveyor belts, spring pads and seesaws! With only 10 seconds to reach the exit, hesitating for even a split second can be the difference between success and failure! \n<p>\nTest your running and jumping skills in three different game modes.<br>\nTrials Mode - Test yourself over 100 increasingly challenging stages.<br>\nTime Attack Mode - See how quickly you can complete each stage in a race against the clock.<br>\nChallenge Mode - Collect three medals on your way to the exit before the time runs out.",
+  "release_date_on_eshop": "2012-12-27",
+  "product_code": "TWL-N-KZCE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Racing",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

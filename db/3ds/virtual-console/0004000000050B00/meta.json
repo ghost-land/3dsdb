@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000050B00",
-    "uid": "50010000007841",
-    "name": "Burger Time DELUXE",
-    "formal_name": "Burger Time DELUXE",
-    "description": "Chef Peter Pepper has a problem. A\nrival is out to stop him from creating\nthe ultimate burger, by sending his\nevil food minions to take over his\nkitchen.<br>\n<br>\nYou must dodge deadly hot dogs,\npesky pickles and evil eggs, as you\ntraverse the platforms to assemble the\ningredients for your burgers.<br>\n<br>\nFortunately, Peter has one weapon\nthat instils fear in any food foe: his\ntrusty pepper grinder. Burger Time\nDeluxe is a classic that never goes\nstale!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RA6P",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000050B00",
+  "uid": "50010000007841",
+  "name": "Burger Time DELUXE",
+  "formal_name": "Burger Time DELUXE",
+  "description": "Chef Peter Pepper has a problem. A\nrival is out to stop him from creating\nthe ultimate burger, by sending his\nevil food minions to take over his\nkitchen.<br>\n<br>\nYou must dodge deadly hot dogs,\npesky pickles and evil eggs, as you\ntraverse the platforms to assemble the\ningredients for your burgers.<br>\n<br>\nFortunately, Peter has one weapon\nthat instils fear in any food foe: his\ntrusty pepper grinder. Burger Time\nDeluxe is a classic that never goes\nstale!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RA6P",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

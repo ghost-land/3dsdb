@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B544C45",
-    "uid": "50010000006913",
-    "name": "Stratego®: Next Edition",
-    "formal_name": "Stratego®: Next Edition",
-    "description": "In Stratego: Next Edition, you must demonstrate your strategic skills on the battlefield. Stratego's unique gameplay pits you against opponents who will do everything in their power to outsmart you! Rise up to their challenge and confront them in battle, emerge victorious, and become the greatest general of all time! You can also play Stratego: Next Edition wirelessly against a friend who owns another copy of the game. Do you have the strength to endure the challenges and be the first to capture the flag?",
-    "release_date_on_eshop": "2011-06-23",
-    "product_code": "TWL-N-KTLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Board Game",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B544C45",
+  "uid": "50010000006913",
+  "name": "Stratego®: Next Edition",
+  "formal_name": "Stratego®: Next Edition",
+  "description": "In Stratego: Next Edition, you must demonstrate your strategic skills on the battlefield. Stratego's unique gameplay pits you against opponents who will do everything in their power to outsmart you! Rise up to their challenge and confront them in battle, emerge victorious, and become the greatest general of all time! You can also play Stratego: Next Edition wirelessly against a friend who owns another copy of the game. Do you have the strength to endure the challenges and be the first to capture the flag?",
+  "release_date_on_eshop": "2011-06-23",
+  "product_code": "TWL-N-KTLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Board Game",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

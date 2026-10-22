@@ -1,30 +1,30 @@
 {
-    "tid": "0004000200117801",
-    "uid": "50010000023497",
-    "name": "European Conqueror 3D",
-    "formal_name": "European Conqueror 3D",
-    "description": "European Conqueror 3D is a new strategy game set during World War II.\n<br>\n<br>In the game, you can order troops to conquer territories such as lands, cities, and oceans. Gather resources, grow in economic power, train troops, destroy your opponents, and capture their capital.\n<br>\n<br>Include two modes: Conquest mode and Campaign mode.\n<br>\n<br>Conquest mode: choose one of 12 countries that belong to either the Axis Powers or the Allies to dominate Europe. The other countries will be for, against or neutral towards your country.\n<br>\n<br>Campaign mode: Main storyline focusing on 4 countries (Germany,Britain,France,Soviet Union). 16 battles in total. \n<br>\n<br>Thrilling sound design that will immerse gamers into the action.\n<br>\n<br>Features:\n<br>3 difficulty levels\n<br>New Campaigns\n<br>Auto-save",
-    "release_date_on_eshop": "2014-06-19",
-    "product_code": "CTR-N-JXRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Mild Violence"
-    ]
+  "tid": "0004000200117801",
+  "uid": "50010000023497",
+  "name": "European Conqueror 3D",
+  "formal_name": "European Conqueror 3D",
+  "description": "European Conqueror 3D is a new strategy game set during World War II.\n<br>\n<br>In the game, you can order troops to conquer territories such as lands, cities, and oceans. Gather resources, grow in economic power, train troops, destroy your opponents, and capture their capital.\n<br>\n<br>Include two modes: Conquest mode and Campaign mode.\n<br>\n<br>Conquest mode: choose one of 12 countries that belong to either the Axis Powers or the Allies to dominate Europe. The other countries will be for, against or neutral towards your country.\n<br>\n<br>Campaign mode: Main storyline focusing on 4 countries (Germany,Britain,France,Soviet Union). 16 battles in total. \n<br>\n<br>Thrilling sound design that will immerse gamers into the action.\n<br>\n<br>Features:\n<br>3 difficulty levels\n<br>New Campaigns\n<br>Auto-save",
+  "release_date_on_eshop": "2014-06-19",
+  "product_code": "CTR-N-JXRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Violence"
+  ]
 }

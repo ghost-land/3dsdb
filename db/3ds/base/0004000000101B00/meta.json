@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000101B00",
-    "uid": "50010000035875",
-    "name": "Best of Board Games - Solitaire",
-    "formal_name": "Best of Board Games - Solitaire",
-    "description": "Rediscover Solitaire and its most popular variations in this timeless classic!\nTake a moment to relax with one of 5 variations: Freecell, Golf, Pyramid,\nKlondike and Spider, with many more adjustable options for each variation.\nStuck? Use brand new bonuses such as card swap to get yourself out of the situation!\nPlay a quick game at any time in Free mode or take on 40 increasingly harder challenges in Adventure mode.",
-    "release_date_on_eshop": "2015-07-30",
-    "product_code": "CTR-N-JSEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000101B00",
+  "uid": "50010000035875",
+  "name": "Best of Board Games - Solitaire",
+  "formal_name": "Best of Board Games - Solitaire",
+  "description": "Rediscover Solitaire and its most popular variations in this timeless classic!\nTake a moment to relax with one of 5 variations: Freecell, Golf, Pyramid,\nKlondike and Spider, with many more adjustable options for each variation.\nStuck? Use brand new bonuses such as card swap to get yourself out of the situation!\nPlay a quick game at any time in Free mode or take on 40 increasingly harder challenges in Adventure mode.",
+  "release_date_on_eshop": "2015-07-30",
+  "product_code": "CTR-N-JSEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

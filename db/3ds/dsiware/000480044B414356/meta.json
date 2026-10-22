@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B414356",
-    "uid": "50010000002003",
-    "name": "Advanced Circuits",
-    "formal_name": "Advanced Circuits",
-    "description": "With a train, a car or a tank, are you\nready for a new challenge? This\nbrain-boggling puzzle game will put\nyour powers of deduction to the test.<br>\n<br>\nComplete the circuits by connecting\nsquares on the game board with\npieces of track. Some pieces of track\nare already shown on the board at the\nbeginning of the game to give you a\nhead start. There is only one solution\nto each puzzle. The rules are simple\nbut the challenges are tough!<br>\n<br>\n• Challenge mode features 60\npredefined game boards, of increasing\ndifficulty.<br>\n<br>\n• Free Play mode lets you select the\ngame board size and practise on any\nnumber of randomly-generated\npuzzles.<br>\n<br>\n• 72 awards to be won.<br>\n<br>\n• Also features a tutorial, hints and\ntips and even the solution if you feel\nlike giving up!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KACV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414356",
+  "uid": "50010000002003",
+  "name": "Advanced Circuits",
+  "formal_name": "Advanced Circuits",
+  "description": "With a train, a car or a tank, are you\nready for a new challenge? This\nbrain-boggling puzzle game will put\nyour powers of deduction to the test.<br>\n<br>\nComplete the circuits by connecting\nsquares on the game board with\npieces of track. Some pieces of track\nare already shown on the board at the\nbeginning of the game to give you a\nhead start. There is only one solution\nto each puzzle. The rules are simple\nbut the challenges are tough!<br>\n<br>\n• Challenge mode features 60\npredefined game boards, of increasing\ndifficulty.<br>\n<br>\n• Free Play mode lets you select the\ngame board size and practise on any\nnumber of randomly-generated\npuzzles.<br>\n<br>\n• 72 awards to be won.<br>\n<br>\n• Also features a tutorial, hints and\ntips and even the solution if you feel\nlike giving up!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KACV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

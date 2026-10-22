@@ -1,30 +1,30 @@
 {
-    "tid": "000400000011D300",
-    "uid": "50010000031395",
-    "name": "Hollywood Fame:\nHidden Object Adventure",
-    "formal_name": "Hollywood Fame:\nHidden Object Adventure",
-    "description": "Your dream finally comes true: becoming a major Hollywood star! Unfortunately, not everything goes according to plan...\n<br><br>\nPlay as Jess Mallory, a young woman seemingly blessed by luck, and who needs you and your powers of observation to make a place for herself under the Hollywood sun.\n<br><br>\nDive into the world of stars and overcome the challenges you face: lots of hidden object games, mini-games and achievements to win.\nOver 250 objects and characters to find. \nAn enthralling story! ",
-    "release_date_on_eshop": "2015-03-05",
-    "product_code": "CTR-N-AFXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000011D300",
+  "uid": "50010000031395",
+  "name": "Hollywood Fame:\nHidden Object Adventure",
+  "formal_name": "Hollywood Fame:\nHidden Object Adventure",
+  "description": "Your dream finally comes true: becoming a major Hollywood star! Unfortunately, not everything goes according to plan...\n<br><br>\nPlay as Jess Mallory, a young woman seemingly blessed by luck, and who needs you and your powers of observation to make a place for herself under the Hollywood sun.\n<br><br>\nDive into the world of stars and overcome the challenges you face: lots of hidden object games, mini-games and achievements to win.\nOver 250 objects and characters to find. \nAn enthralling story! ",
+  "release_date_on_eshop": "2015-03-05",
+  "product_code": "CTR-N-AFXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

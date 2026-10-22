@@ -1,32 +1,32 @@
 {
-    "tid": "000400000018B800",
-    "uid": "50010000041464",
-    "name": "The Legend of Kusakari\n\n",
-    "formal_name": "The Legend of Kusakari",
-    "description": "Help the heroes and CUT that GRASS!\n<br>\n<br>You know what's the worst thing ever? Fighting slimes and dragons knee-deep in grass and weeds.\n<br>\n<br>Well if Kusakari has anything to do with it, it wont be that way for long. Get your scythe sharpened and jump into this quirky Japanese adventure puzzle game. Slice through over 50 levels of grass-filled action and help those heroes save the kingdom, in battle grounds fit to have a picnic on!\n<br>\n<br>Up to the challenge? Compete for the most grass cut in the endless grass cutting competion and record your best cut in the online leaderboards!",
-    "release_date_on_eshop": "2016-08-25",
-    "product_code": "CTR-N-KSBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "RPG",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000018B800",
+  "uid": "50010000041464",
+  "name": "The Legend of Kusakari\n\n",
+  "formal_name": "The Legend of Kusakari",
+  "description": "Help the heroes and CUT that GRASS!\n<br>\n<br>You know what's the worst thing ever? Fighting slimes and dragons knee-deep in grass and weeds.\n<br>\n<br>Well if Kusakari has anything to do with it, it wont be that way for long. Get your scythe sharpened and jump into this quirky Japanese adventure puzzle game. Slice through over 50 levels of grass-filled action and help those heroes save the kingdom, in battle grounds fit to have a picnic on!\n<br>\n<br>Up to the challenge? Compete for the most grass cut in the endless grass cutting competion and record your best cut in the online leaderboards!",
+  "release_date_on_eshop": "2016-08-25",
+  "product_code": "CTR-N-KSBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "RPG",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

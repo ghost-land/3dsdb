@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B584645",
-    "uid": "50010000014231",
-    "name": "Color Commando",
-    "formal_name": "Color Commando",
-    "description": "Color Commando is a new and very cool puzzle platform game.\n\nIn this game you get to hunt for treasure! However, many evil color monsters are blocking your path! Pick up color blobs and try to outsmart the monsters!\nIn each level, color monsters will block your path and try to grab you! So what can you do against this?\n\nCollect paint blobs that are spread out over the level. You can use a paint blob to paint a big paint-spot on the world. If a monster of the same color comes into contact with the paint-spot, the monster will dissolve into the spot. When this happens the monster cannot harm the player!\n\nThere are 5 worlds, with each 4 normal levels and 1 star level. You can unlock the star level by getting all the treasure in the other 4 levels!",
-    "release_date_on_eshop": "2013-04-25",
-    "product_code": "TWL-N-KXFE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584645",
+  "uid": "50010000014231",
+  "name": "Color Commando",
+  "formal_name": "Color Commando",
+  "description": "Color Commando is a new and very cool puzzle platform game.\n\nIn this game you get to hunt for treasure! However, many evil color monsters are blocking your path! Pick up color blobs and try to outsmart the monsters!\nIn each level, color monsters will block your path and try to grab you! So what can you do against this?\n\nCollect paint blobs that are spread out over the level. You can use a paint blob to paint a big paint-spot on the world. If a monster of the same color comes into contact with the paint-spot, the monster will dissolve into the spot. When this happens the monster cannot harm the player!\n\nThere are 5 worlds, with each 4 normal levels and 1 star level. You can unlock the star level by getting all the treasure in the other 4 levels!",
+  "release_date_on_eshop": "2013-04-25",
+  "product_code": "TWL-N-KXFE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

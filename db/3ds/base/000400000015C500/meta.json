@@ -1,28 +1,28 @@
 {
-    "tid": "000400000015C500",
-    "uid": "50010000032475",
-    "name": "Excave II :\n<br>Wizard of the Underworld",
-    "formal_name": "Excave II :\n<br>Wizard of the Underworld",
-    "description": "Excave is back with even more challenging dungeons and a more varied ensemble of terrible foes!\n<br>\n<br>Excave II is a classic JRPG style dungeon hack and slash game wherein you take the role of one of two adventurers, tasked with returning order to a progressively more chaotic city.\n<br>\n<br>Each adventurer has their own attacking style and hundreds of items and weaponry to discover!\n<br>\n<br>Unlike other RPG's, there is no leveling up system, instead the player's equipment determines how strong they are - find legendary weapons to smash your way through!\n<br>\n<br>Progress requires careful planning and thought - come ill prepared with weapons and equipment that are not targeting a specific enemies weakpoints then only doom awaits.",
-    "release_date_on_eshop": "2015-04-02",
-    "product_code": "CTR-N-JEJE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Action",
-        "Arcade",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
-    "descriptors": []
+  "tid": "000400000015C500",
+  "uid": "50010000032475",
+  "name": "Excave II :\n<br>Wizard of the Underworld",
+  "formal_name": "Excave II :\n<br>Wizard of the Underworld",
+  "description": "Excave is back with even more challenging dungeons and a more varied ensemble of terrible foes!\n<br>\n<br>Excave II is a classic JRPG style dungeon hack and slash game wherein you take the role of one of two adventurers, tasked with returning order to a progressively more chaotic city.\n<br>\n<br>Each adventurer has their own attacking style and hundreds of items and weaponry to discover!\n<br>\n<br>Unlike other RPG's, there is no leveling up system, instead the player's equipment determines how strong they are - find legendary weapons to smash your way through!\n<br>\n<br>Progress requires careful planning and thought - come ill prepared with weapons and equipment that are not targeting a specific enemies weakpoints then only doom awaits.",
+  "release_date_on_eshop": "2015-04-02",
+  "product_code": "CTR-N-JEJE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Action",
+    "Arcade",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
+  "descriptors": []
 }

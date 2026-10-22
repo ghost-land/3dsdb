@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001A0400",
-    "uid": "50010000041880",
-    "name": "Super Mario Maker™\nfor Nintendo 3DS",
-    "formal_name": "Super Mario Maker™\nfor Nintendo 3DS",
-    "description": "Get ready to play a near-infinite number of side-scrolling 2D Mario courses anytime, anywhere! Earn in-game medals in 100 built-in courses and access recommended courses from the Super Mario Maker™ game on the Wii U™ console. Plus, design courses and share them with other players via the StreetPass™ feature and local wireless!\n<br>\nWant your cannons to shoot coins? Go for it! In this game, you call the shots, and simple touch-screen controls and interactive tutorials make designing courses a snap. Learn design tips and tricks from Mary O. and Yamamura, then share your masterpieces via the StreetPass™ feature and local wireless. Collaborating has never been easier now that you can share incomplete courses with other players. Finish off a course together and a special icon will commemorate the collaboration. That’s one of many reasons that this is the must-play portable Mario™ game for inventive groups of friends and anyone yearning for never-ending Super Mario™ magic.",
-    "release_date_on_eshop": "2016-12-02",
-    "product_code": "CTR-N-AJHE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Other"
-    ],
-    "features": [
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v4.5.0",
-    "disclaimer": "Not all levels created in Super Mario Maker™ for the Wii U™ console are compatible with this release. Wireless Internet access required in order to access the Wii U version’s courses. For more info, go to support.nintendo.com.\n<br>\nThis game does not include an online-upload feature.\n<br>\nGame in 2D.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001A0400",
+  "uid": "50010000041880",
+  "name": "Super Mario Maker™\nfor Nintendo 3DS",
+  "formal_name": "Super Mario Maker™\nfor Nintendo 3DS",
+  "description": "Get ready to play a near-infinite number of side-scrolling 2D Mario courses anytime, anywhere! Earn in-game medals in 100 built-in courses and access recommended courses from the Super Mario Maker™ game on the Wii U™ console. Plus, design courses and share them with other players via the StreetPass™ feature and local wireless!\n<br>\nWant your cannons to shoot coins? Go for it! In this game, you call the shots, and simple touch-screen controls and interactive tutorials make designing courses a snap. Learn design tips and tricks from Mary O. and Yamamura, then share your masterpieces via the StreetPass™ feature and local wireless. Collaborating has never been easier now that you can share incomplete courses with other players. Finish off a course together and a special icon will commemorate the collaboration. That’s one of many reasons that this is the must-play portable Mario™ game for inventive groups of friends and anyone yearning for never-ending Super Mario™ magic.",
+  "release_date_on_eshop": "2016-12-02",
+  "product_code": "CTR-N-AJHE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Other"
+  ],
+  "features": [
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v4.5.0",
+  "disclaimer": "Not all levels created in Super Mario Maker™ for the Wii U™ console are compatible with this release. Wireless Internet access required in order to access the Wii U version’s courses. For more info, go to support.nintendo.com.\n<br>\nThis game does not include an online-upload feature.\n<br>\nGame in 2D.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

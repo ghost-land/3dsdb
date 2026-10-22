@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000F0300",
-    "uid": "50010000024715",
-    "name": "Xtreme Sports",
-    "formal_name": "Xtreme Sports",
-    "description": "The Xtreme Cola Company has invited\nall-comers to Xtreme Island to\nbecome the Xtreme Sports champion!\nGuppi and her boyfriend Fin take up\nthe challenge, with your help!\n<br/><br/>\nFrom the makers of cult classic\nShantae comes this colourful spin on\nhigh-adrenaline sports. Try your hand\nat surfing, street luge, in-line skating,\nskateboarding and even skyboarding!\n<br/><br/>\nExplore the island to find friends,\nfoes and even a few hidden treats.\nPractise hard and then compete in\nevents to win medals; there are more\nthan 400 to collect!",
-    "release_date_on_eshop": "2014-08-07",
-    "product_code": "CTR-N-QA4P",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F0300",
+  "uid": "50010000024715",
+  "name": "Xtreme Sports",
+  "formal_name": "Xtreme Sports",
+  "description": "The Xtreme Cola Company has invited\nall-comers to Xtreme Island to\nbecome the Xtreme Sports champion!\nGuppi and her boyfriend Fin take up\nthe challenge, with your help!\n<br/><br/>\nFrom the makers of cult classic\nShantae comes this colourful spin on\nhigh-adrenaline sports. Try your hand\nat surfing, street luge, in-line skating,\nskateboarding and even skyboarding!\n<br/><br/>\nExplore the island to find friends,\nfoes and even a few hidden treats.\nPractise hard and then compete in\nevents to win medals; there are more\nthan 400 to collect!",
+  "release_date_on_eshop": "2014-08-07",
+  "product_code": "CTR-N-QA4P",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

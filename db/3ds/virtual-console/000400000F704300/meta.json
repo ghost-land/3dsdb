@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F704300",
-    "uid": "50010000041170",
-    "name": "Street Fighter™ Alpha 2",
-    "formal_name": "Street Fighter™ Alpha 2",
-    "description": "Street Fighter Alpha 2 explodes onto Virtual Console™ with its trademark lightning-fast gameplay, Custom Combo System and innovative Alpha Counters.\n<br>\n<br>Push your talents to the limit as you discover new moves and counters for every attack. Neutralise your opponents' attacks with high and low Alpha Counters and execute Custom Combos to create your own rapid-fire assaults.\n<br>\n<br>All your favourite warriors are back, including previously hidden characters Dan, Akuma and Bison, plus new fighters including Rolento, Gen and Sakura.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-07-28",
-    "product_code": "KTR-N-UA2E",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Fighting"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F704300",
+  "uid": "50010000041170",
+  "name": "Street Fighter™ Alpha 2",
+  "formal_name": "Street Fighter™ Alpha 2",
+  "description": "Street Fighter Alpha 2 explodes onto Virtual Console™ with its trademark lightning-fast gameplay, Custom Combo System and innovative Alpha Counters.\n<br>\n<br>Push your talents to the limit as you discover new moves and counters for every attack. Neutralise your opponents' attacks with high and low Alpha Counters and execute Custom Combos to create your own rapid-fire assaults.\n<br>\n<br>All your favourite warriors are back, including previously hidden characters Dan, Akuma and Bison, plus new fighters including Rolento, Gen and Sakura.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-07-28",
+  "product_code": "KTR-N-UA2E",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Fighting"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

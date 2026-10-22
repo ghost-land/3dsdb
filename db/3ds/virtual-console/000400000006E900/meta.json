@@ -1,27 +1,27 @@
 {
-    "tid": "000400000006E900",
-    "uid": "50010000018736",
-    "name": "Super Mario Bros.™ 3",
-    "formal_name": "Super Mario Bros.™ 3",
-    "description": "When Bowser and Bowser's Minions\ncause havoc in the Mushroom World,\nMario and Luigi must spring into\naction once again.\n<br/><br/>\nThe acclaimed Super Mario Bros. 3\nfeatures more Mario action than ever\nbefore: fly as Raccoon Mario, swim as\nFrog Mario, throw fireballs as Fire\nMario and become an invincible statue\nas Tanooki Mario.\n<br/><br/>\nWith eight huge worlds to explore,\nnew mini games to enjoy and\ncountless secrets to discover, Super\nMario Bros. 3 truly deserves its status\nas one of the greatest games ever\nmade!",
-    "release_date_on_eshop": "2013-12-26",
-    "product_code": "CTR-N-TABP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006E900",
+  "uid": "50010000018736",
+  "name": "Super Mario Bros.™ 3",
+  "formal_name": "Super Mario Bros.™ 3",
+  "description": "When Bowser and Bowser's Minions\ncause havoc in the Mushroom World,\nMario and Luigi must spring into\naction once again.\n<br/><br/>\nThe acclaimed Super Mario Bros. 3\nfeatures more Mario action than ever\nbefore: fly as Raccoon Mario, swim as\nFrog Mario, throw fireballs as Fire\nMario and become an invincible statue\nas Tanooki Mario.\n<br/><br/>\nWith eight huge worlds to explore,\nnew mini games to enjoy and\ncountless secrets to discover, Super\nMario Bros. 3 truly deserves its status\nas one of the greatest games ever\nmade!",
+  "release_date_on_eshop": "2013-12-26",
+  "product_code": "CTR-N-TABP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

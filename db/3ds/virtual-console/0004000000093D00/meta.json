@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000093D00",
-    "uid": "50010000012534",
-    "name": "Mario Golf™",
-    "formal_name": "Mario Golf™",
-    "description": "Tee off with Mario and friends in this\nunique sporting adventure!\n\nThe Game Boy™ Color version of\nMario Golf is part simulation, part\nrole-playing game. Play as Mario or\nLuigi, or create your own character,\nand train them up to become the\nultimate golf pro. Explore the\nClubhouse, chat to fellow golfers to\npick up tips, and challenge opponents\nto raise your experience level.\n\nWith four courses, 12 practice\nranges, five play modes and a host of\nminigames to enjoy, fun is par for the\ncourse in Mario Golf!",
-    "release_date_on_eshop": "2014-05-29",
-    "product_code": "CTR-N-QAQP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000093D00",
+  "uid": "50010000012534",
+  "name": "Mario Golf™",
+  "formal_name": "Mario Golf™",
+  "description": "Tee off with Mario and friends in this\nunique sporting adventure!\n\nThe Game Boy™ Color version of\nMario Golf is part simulation, part\nrole-playing game. Play as Mario or\nLuigi, or create your own character,\nand train them up to become the\nultimate golf pro. Explore the\nClubhouse, chat to fellow golfers to\npick up tips, and challenge opponents\nto raise your experience level.\n\nWith four courses, 12 practice\nranges, five play modes and a host of\nminigames to enjoy, fun is par for the\ncourse in Mario Golf!",
+  "release_date_on_eshop": "2014-05-29",
+  "product_code": "CTR-N-QAQP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

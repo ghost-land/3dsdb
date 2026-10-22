@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000055300",
-    "uid": "50010000007444",
-    "name": "3D Classics TwinBee™",
-    "formal_name": "3D Classics TwinBee™",
-    "description": "Enjoy classic games in a new\ndimension with the 3D Classics range,\nremastered with immersive 3D visuals!<br>\n<br>\n3D Classics TwinBee brings the\narcade classic \"cute 'em up\" bang up\nto date in 3D!<br>\n<br>\nAt the helm of the TwinBee fighter\ncraft, you must defend Donburi Island\nagainst King Spice’s minions. Take\naim at flying foes and drop bombs on\nenemies below.<br>\n<br>\nA clever power-up system grants\ndifferent bonuses by shooting Bells to\nchange their colour. So tune-up your\nTwinBee and shoot for a high score!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-SACP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000055300",
+  "uid": "50010000007444",
+  "name": "3D Classics TwinBee™",
+  "formal_name": "3D Classics TwinBee™",
+  "description": "Enjoy classic games in a new\ndimension with the 3D Classics range,\nremastered with immersive 3D visuals!<br>\n<br>\n3D Classics TwinBee brings the\narcade classic \"cute 'em up\" bang up\nto date in 3D!<br>\n<br>\nAt the helm of the TwinBee fighter\ncraft, you must defend Donburi Island\nagainst King Spice’s minions. Take\naim at flying foes and drop bombs on\nenemies below.<br>\n<br>\nA clever power-up system grants\ndifferent bonuses by shooting Bells to\nchange their colour. So tune-up your\nTwinBee and shoot for a high score!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-SACP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

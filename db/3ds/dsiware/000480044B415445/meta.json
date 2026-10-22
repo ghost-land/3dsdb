@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B415445",
-    "uid": "50010000001061",
-    "name": "AiRace: Tunnel",
-    "formal_name": "AiRace: Tunnel",
-    "description": "AiRace: Tunnel is an invitation to a certain newly started project - Project Tunnel. It was prepared to examine the quickness and attention of aviation rookies. Think you got the skills? Put your reflexes to the test and see how swift, how precise and how predictive you are. Maneuver your aircraft safely through specially created winding tunnels full of traps. And be careful—your plane will speed up with every second making each turn and each barrier harder to pass. It’s not just a game—it’s a challenge.",
-    "release_date_on_eshop": "2010-01-25",
-    "product_code": "TWL-N-KATE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415445",
+  "uid": "50010000001061",
+  "name": "AiRace: Tunnel",
+  "formal_name": "AiRace: Tunnel",
+  "description": "AiRace: Tunnel is an invitation to a certain newly started project - Project Tunnel. It was prepared to examine the quickness and attention of aviation rookies. Think you got the skills? Put your reflexes to the test and see how swift, how precise and how predictive you are. Maneuver your aircraft safely through specially created winding tunnels full of traps. And be careful—your plane will speed up with every second making each turn and each barrier harder to pass. It’s not just a game—it’s a challenge.",
+  "release_date_on_eshop": "2010-01-25",
+  "product_code": "TWL-N-KATE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

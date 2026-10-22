@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001AD300",
-    "uid": "50010000042218",
-    "name": "さよなら！ ハコボーイ！",
-    "formal_name": "さよなら！ ハコボーイ！",
-    "description": "ハコを出すことができる、四角い体の主人公「キュービィ」を操作して、さまざまな障害物を乗り越える『ハコボーイ！』の第3弾。今回キュービィは、さまざまな惑星をめぐり、星ごとに異なる多彩な仕掛けに挑みます。果たしてハコで宇宙を救うことはできるのか？ ひらめきで解き進むパズルアクションゲーム、最終章！",
-    "release_date_on_eshop": "2017-02-02",
-    "product_code": "CTR-N-KCKJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション"
-    ],
-    "features": [
-        "amiibo"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>\n<br>2017年11月8日のMiiverseサービス終了以降、Miiverseを使用した機能はご利用いただけません。",
-    "descriptors": []
+  "tid": "00040000001AD300",
+  "uid": "50010000042218",
+  "name": "さよなら！ ハコボーイ！",
+  "formal_name": "さよなら！ ハコボーイ！",
+  "description": "ハコを出すことができる、四角い体の主人公「キュービィ」を操作して、さまざまな障害物を乗り越える『ハコボーイ！』の第3弾。今回キュービィは、さまざまな惑星をめぐり、星ごとに異なる多彩な仕掛けに挑みます。果たしてハコで宇宙を救うことはできるのか？ ひらめきで解き進むパズルアクションゲーム、最終章！",
+  "release_date_on_eshop": "2017-02-02",
+  "product_code": "CTR-N-KCKJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション"
+  ],
+  "features": [
+    "amiibo"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>\n<br>2017年11月8日のMiiverseサービス終了以降、Miiverseを使用した機能はご利用いただけません。",
+  "descriptors": []
 }

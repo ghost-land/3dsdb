@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000059F00",
-    "uid": "50010000007930",
-    "name": "ワールドサッカー\nウイニングイレブン 2012",
-    "formal_name": "ワールドサッカー\nウイニングイレブン 2012",
-    "description": "シリーズ最新作がモード数を大幅にアップして登場。またインターネットプレイで全国のユーザーと熱い戦いが可能に。更にタッチペンを使った操作システムを初搭載。タッチペンのみの操作でパス、ドリブル、シュートなどが可能となり、初心者の方でもリアルサッカーが存分に楽しめる。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AE2J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "スポーツ",
-        "アクション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000059F00",
+  "uid": "50010000007930",
+  "name": "ワールドサッカー\nウイニングイレブン 2012",
+  "formal_name": "ワールドサッカー\nウイニングイレブン 2012",
+  "description": "シリーズ最新作がモード数を大幅にアップして登場。またインターネットプレイで全国のユーザーと熱い戦いが可能に。更にタッチペンを使った操作システムを初搭載。タッチペンのみの操作でパス、ドリブル、シュートなどが可能となり、初心者の方でもリアルサッカーが存分に楽しめる。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AE2J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "スポーツ",
+    "アクション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

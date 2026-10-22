@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B5A5945",
-    "uid": "50010000012673",
-    "name": "Zombie Skape",
-    "formal_name": "Zombie Skape",
-    "description": "Ethan was Skateboarding in the park as usual.\n\nHe practiced a lot every evening. His dream was to become number 1, and imitate his great idol \"Johnny Eagle\", the best skater of all times.\n\nOne night, as he practiced, something strange was happening... Without knowing why, Ethan was surrounded by lots of Zombies. It was a nightmare. \nNow he will have to put everything he has learned through Skateboarding into practice to survive.\n\nArcade game with a terrifying atmosphere.\nLearn to use the Skateboard to survive.\nRescue as many girls as possible.\nLoads of Zombies onscreen.\nRanking to compete against friends.",
-    "release_date_on_eshop": "2012-12-13",
-    "product_code": "TWL-N-KZYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Racing",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A5945",
+  "uid": "50010000012673",
+  "name": "Zombie Skape",
+  "formal_name": "Zombie Skape",
+  "description": "Ethan was Skateboarding in the park as usual.\n\nHe practiced a lot every evening. His dream was to become number 1, and imitate his great idol \"Johnny Eagle\", the best skater of all times.\n\nOne night, as he practiced, something strange was happening... Without knowing why, Ethan was surrounded by lots of Zombies. It was a nightmare. \nNow he will have to put everything he has learned through Skateboarding into practice to survive.\n\nArcade game with a terrifying atmosphere.\nLearn to use the Skateboard to survive.\nRescue as many girls as possible.\nLoads of Zombies onscreen.\nRanking to compete against friends.",
+  "release_date_on_eshop": "2012-12-13",
+  "product_code": "TWL-N-KZYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Racing",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000109A00",
-    "uid": "50010000018615",
-    "name": "My Style Studio: Hair Salon",
-    "formal_name": "My Style Studio: Hair Salon",
-    "description": "Choose between five cute characters and cut and style them in whatever way you want. Use lots of different tools â€“ from a simple scissors to a curling iron and decorate the final look with hats, glasses and other fun accessories.\n<br><br>\nrealistic hair styling<br>\n5 cute characters<br>\n13 different tools<br>\nlots of different accessories: hats, glasses and much more<br>\nsmooth and beautiful animations",
-    "release_date_on_eshop": "2013-12-12",
-    "product_code": "CTR-N-JZ2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000109A00",
+  "uid": "50010000018615",
+  "name": "My Style Studio: Hair Salon",
+  "formal_name": "My Style Studio: Hair Salon",
+  "description": "Choose between five cute characters and cut and style them in whatever way you want. Use lots of different tools â€“ from a simple scissors to a curling iron and decorate the final look with hats, glasses and other fun accessories.\n<br><br>\nrealistic hair styling<br>\n5 cute characters<br>\n13 different tools<br>\nlots of different accessories: hats, glasses and much more<br>\nsmooth and beautiful animations",
+  "release_date_on_eshop": "2013-12-12",
+  "product_code": "CTR-N-JZ2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

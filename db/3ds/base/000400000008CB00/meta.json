@@ -1,34 +1,34 @@
 {
-    "tid": "000400000008CB00",
-    "uid": "50010000013272",
-    "name": "Petz® Beach",
-    "formal_name": "Petz® Beach",
-    "description": "Go on exciting beach adventures with\nyour Petz! Care for a wide variety of\ndogs, cats and 6 exclusive exotic\nseaside animals such as a dolphin and\na polar bear.\n<br/><br/>\nExplore the beach town and complete\nquests and fun activities with your\nPetz.\n<br/><br/>\nExpand your town, welcome new pets\nand unlock new buildings like the\nexotic petting park.",
-    "release_date_on_eshop": "2014-11-06",
-    "product_code": "CTR-P-APIP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008CB00",
+  "uid": "50010000013272",
+  "name": "Petz® Beach",
+  "formal_name": "Petz® Beach",
+  "description": "Go on exciting beach adventures with\nyour Petz! Care for a wide variety of\ndogs, cats and 6 exclusive exotic\nseaside animals such as a dolphin and\na polar bear.\n<br/><br/>\nExplore the beach town and complete\nquests and fun activities with your\nPetz.\n<br/><br/>\nExpand your town, welcome new pets\nand unlock new buildings like the\nexotic petting park.",
+  "release_date_on_eshop": "2014-11-06",
+  "product_code": "CTR-P-APIP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

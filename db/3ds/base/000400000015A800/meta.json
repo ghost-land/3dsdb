@@ -1,26 +1,26 @@
 {
-    "tid": "000400000015A800",
-    "uid": "50010000029215",
-    "name": "6×1≠UNLIMITED?",
-    "formal_name": "6×1≠UNLIMITED?",
-    "description": "全方位シューティングゲームとアドベンチャーゲームの融合。\n<br>\n<br>あなたは6種類の抗ウィルス弾を操り、迫り来る敵性ウィルスから日本の電気的仮想空間(通称:電域)を守ります。\n<br>6種類の抗ウィルス弾は、それぞれ6人の人工知能少女が管理しており、ステージを進めるごとに、彼女たちとの関係も親密になります。",
-    "release_date_on_eshop": "2015-01-07",
-    "product_code": "CTR-N-KDMJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シューティング",
-        "アドベンチャー"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "15"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000015A800",
+  "uid": "50010000029215",
+  "name": "6×1≠UNLIMITED?",
+  "formal_name": "6×1≠UNLIMITED?",
+  "description": "全方位シューティングゲームとアドベンチャーゲームの融合。\n<br>\n<br>あなたは6種類の抗ウィルス弾を操り、迫り来る敵性ウィルスから日本の電気的仮想空間(通称:電域)を守ります。\n<br>6種類の抗ウィルス弾は、それぞれ6人の人工知能少女が管理しており、ステージを進めるごとに、彼女たちとの関係も親密になります。",
+  "release_date_on_eshop": "2015-01-07",
+  "product_code": "CTR-N-KDMJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シューティング",
+    "アドベンチャー"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "15"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000030300",
-    "uid": "50010000000221",
-    "name": "スティールダイバー",
-    "formal_name": "スティールダイバー",
-    "description": "潜水艦がテーマの異なる3つのモードが入っています。\n<br>●潜水艦モード\n<br>3種類の潜水艦を操作して、与えられたミッションを遂行する3Dの横スクロールアクション。\n<br>●潜望鏡モード\n<br>本体を潜望鏡に見立てて敵艦を探索する、魚雷シューティング。\n<br>●海戦モード\n<br>人との対戦も可能なターン制の戦略シミュレーション。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASDJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング",
-        "シミュレーション"
-    ],
-    "features": [
-        "3D映像対応",
-        "ダウンロードプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000030300",
+  "uid": "50010000000221",
+  "name": "スティールダイバー",
+  "formal_name": "スティールダイバー",
+  "description": "潜水艦がテーマの異なる3つのモードが入っています。\n<br>●潜水艦モード\n<br>3種類の潜水艦を操作して、与えられたミッションを遂行する3Dの横スクロールアクション。\n<br>●潜望鏡モード\n<br>本体を潜望鏡に見立てて敵艦を探索する、魚雷シューティング。\n<br>●海戦モード\n<br>人との対戦も可能なターン制の戦略シミュレーション。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASDJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング",
+    "シミュレーション"
+  ],
+  "features": [
+    "3D映像対応",
+    "ダウンロードプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

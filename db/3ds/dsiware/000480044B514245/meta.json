@@ -1,33 +1,33 @@
 {
-    "tid": "000480044B514245",
-    "uid": "50010000009383",
-    "name": "Box Pusher",
-    "formal_name": "Box Pusher",
-    "description": "Push! In this classic puzzle game you play a warehouse worker who has to move boxes to the correct locations. Sound easy? Prove you have the brain power to solve over 250 missions and master all situations with the correct strategy.\n\nFunny animations, a zoomable playing area, and unlimited chances to undo steps will help you with these brain teasers. Play with friends in multiplayer or make and exchange your own levels. This puzzler will captivate you.",
-    "release_date_on_eshop": "2012-02-23",
-    "product_code": "TWL-N-KQBE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Puzzle",
-        "Board Game",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514245",
+  "uid": "50010000009383",
+  "name": "Box Pusher",
+  "formal_name": "Box Pusher",
+  "description": "Push! In this classic puzzle game you play a warehouse worker who has to move boxes to the correct locations. Sound easy? Prove you have the brain power to solve over 250 missions and master all situations with the correct strategy.\n\nFunny animations, a zoomable playing area, and unlimited chances to undo steps will help you with these brain teasers. Play with friends in multiplayer or make and exchange your own levels. This puzzler will captivate you.",
+  "release_date_on_eshop": "2012-02-23",
+  "product_code": "TWL-N-KQBE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Puzzle",
+    "Board Game",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

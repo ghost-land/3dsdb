@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A1400",
-    "uid": "50010000014095",
-    "name": "Mega Man™ 5",
-    "formal_name": "Mega Man™ 5",
-    "description": "Proto Man - once the trusted brother\nof Mega Man - has mysteriously gone\nberserk, kidnapping Dr. Light and\nforcing Mega Man to go on the\noffensive.\n<br/><br/>\nAssisted by his new sidekick Beat, a\nrobotic bird, and his faithful robo-dog\nRush, Mega Man must battle through\neight thrilling levels and defeat the\nrobot masters lurking within.\n<br/><br/>\nDefy gravity in Gravity Man's stage,\nchip away the defences in Stone\nMan's stage and catch some surf in\nWave Man's stage, before the final\nshowdown!",
-    "release_date_on_eshop": "2013-05-16",
-    "product_code": "CTR-N-TBEP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A1400",
+  "uid": "50010000014095",
+  "name": "Mega Man™ 5",
+  "formal_name": "Mega Man™ 5",
+  "description": "Proto Man - once the trusted brother\nof Mega Man - has mysteriously gone\nberserk, kidnapping Dr. Light and\nforcing Mega Man to go on the\noffensive.\n<br/><br/>\nAssisted by his new sidekick Beat, a\nrobotic bird, and his faithful robo-dog\nRush, Mega Man must battle through\neight thrilling levels and defeat the\nrobot masters lurking within.\n<br/><br/>\nDefy gravity in Gravity Man's stage,\nchip away the defences in Stone\nMan's stage and catch some surf in\nWave Man's stage, before the final\nshowdown!",
+  "release_date_on_eshop": "2013-05-16",
+  "product_code": "CTR-N-TBEP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

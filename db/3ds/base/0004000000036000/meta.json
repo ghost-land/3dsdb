@@ -1,41 +1,41 @@
 {
-    "tid": "0004000000036000",
-    "uid": "50010000006808",
-    "name": "DRIVER® RENEGADE",
-    "formal_name": "DRIVER® RENEGADE",
-    "description": "Driver Renegade is the first and exclusive action driving game on Nintendo 3DS that lets you experience the intensity and brutality of urban car chases in 3D. Drive recklessly, perform jumps to fill your Rage bar and unleash devastating takedowns on your enemy cars!\n<br><br>\nAfter years of undercover work on the Force, John Tanner wants to take matters of crime in his own hands, regardless of what the Law dictates. In a corrupt New York City run by criminal mobs, Tanner saves Senator Ballard’s life. He needs help in leading a crusade against Crime. Tanner accepts to clean the city off the record, against the Senator’s protection.\n<br><br>\nTanner becomes a renegade and must take out five kingpins: a drug dealer, a human-organs trafficker, a pimp, an arms dealer and an over-greedy trader. Helped by his few friends, with no badge to hold him back, Tanner wages his war against crime with his weapon of choice: his car!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ADRE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Action",
-        "Adventure",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "17"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Strong Language",
-        "Violence",
-        "Blood",
-        "Drug Reference",
-        "Sexual Themes"
-    ]
+  "tid": "0004000000036000",
+  "uid": "50010000006808",
+  "name": "DRIVER® RENEGADE",
+  "formal_name": "DRIVER® RENEGADE",
+  "description": "Driver Renegade is the first and exclusive action driving game on Nintendo 3DS that lets you experience the intensity and brutality of urban car chases in 3D. Drive recklessly, perform jumps to fill your Rage bar and unleash devastating takedowns on your enemy cars!\n<br><br>\nAfter years of undercover work on the Force, John Tanner wants to take matters of crime in his own hands, regardless of what the Law dictates. In a corrupt New York City run by criminal mobs, Tanner saves Senator Ballard’s life. He needs help in leading a crusade against Crime. Tanner accepts to clean the city off the record, against the Senator’s protection.\n<br><br>\nTanner becomes a renegade and must take out five kingpins: a drug dealer, a human-organs trafficker, a pimp, an arms dealer and an over-greedy trader. Helped by his few friends, with no badge to hold him back, Tanner wages his war against crime with his weapon of choice: his car!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ADRE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Action",
+    "Adventure",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "17"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Strong Language",
+    "Violence",
+    "Blood",
+    "Drug Reference",
+    "Sexual Themes"
+  ]
 }

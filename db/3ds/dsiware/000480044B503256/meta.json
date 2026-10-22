@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B503256",
-    "uid": "50010000004621",
-    "name": "Petz® Dog Superstar",
-    "formal_name": "Petz® Dog Superstar",
-    "description": "There’s a whole family of dogs you\ncan adopt and love! Take care of\nthem, discover their unique\npersonalities, and teach them fun\ntricks!<br>\n<br>\n• Choose from favourite breeds like\nGolden Retrievers and Labradors.\n• Give your dogs the best care: feed\nthem, groom them, and discover their\nindividual personalities— will they be\nshy or fun to play with?\n• Engage in fun activities with your\npups including Frisbee and obstacle\ncourses to turn them into talented\ndogs!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KP2V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503256",
+  "uid": "50010000004621",
+  "name": "Petz® Dog Superstar",
+  "formal_name": "Petz® Dog Superstar",
+  "description": "There’s a whole family of dogs you\ncan adopt and love! Take care of\nthem, discover their unique\npersonalities, and teach them fun\ntricks!<br>\n<br>\n• Choose from favourite breeds like\nGolden Retrievers and Labradors.\n• Give your dogs the best care: feed\nthem, groom them, and discover their\nindividual personalities— will they be\nshy or fun to play with?\n• Engage in fun activities with your\npups including Frisbee and obstacle\ncourses to turn them into talented\ndogs!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KP2V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

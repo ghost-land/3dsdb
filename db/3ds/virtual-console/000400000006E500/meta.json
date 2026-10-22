@@ -1,25 +1,25 @@
 {
-    "tid": "000400000006E500",
-    "uid": "50010000007269",
-    "name": "Super Mario Bros.™",
-    "formal_name": "Super Mario Bros.™",
-    "description": "Original Release Date: October 1985\n\nRediscover Mario & Luigi's first great adventure! One day, the Mushroom Kingdom was invaded by the Koopas, a tribe of turtles famous for their black magic. The quiet, peace-loving Mushroom People were turned into stones, bricks, and even plants, and the kingdom fell into ruin. The only one who can undo the magic spell is Princess Toadstool, the daughter of the Mushroom King. Unfortunately, she is in the hands of evil king Bowser™. Mario™ learns of the Mushroom\nPeople's plight and sets out to free the Mushroom Princess from the Koopas and restore the fallen kingdom. Jump, kick shells, and throw fireballs through eight action-packed worlds in this iconic NES classic!",
-    "release_date_on_eshop": "2012-02-16",
-    "product_code": "CTR-N-TAAE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000006E500",
+  "uid": "50010000007269",
+  "name": "Super Mario Bros.™",
+  "formal_name": "Super Mario Bros.™",
+  "description": "Original Release Date: October 1985\n\nRediscover Mario & Luigi's first great adventure! One day, the Mushroom Kingdom was invaded by the Koopas, a tribe of turtles famous for their black magic. The quiet, peace-loving Mushroom People were turned into stones, bricks, and even plants, and the kingdom fell into ruin. The only one who can undo the magic spell is Princess Toadstool, the daughter of the Mushroom King. Unfortunately, she is in the hands of evil king Bowser™. Mario™ learns of the Mushroom\nPeople's plight and sets out to free the Mushroom Princess from the Koopas and restore the fallen kingdom. Jump, kick shells, and throw fireballs through eight action-packed worlds in this iconic NES classic!",
+  "release_date_on_eshop": "2012-02-16",
+  "product_code": "CTR-N-TAAE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F701400",
-    "uid": "50010000039748",
-    "name": "Super Mario Kart™",
-    "formal_name": "Super Mario Kart™",
-    "description": "Start your engines for the original, legendary Super Mario Kart; which spawned a series that is still going strong today.\n<br>Choose from eight Mushroom Kingdom characters – from familiar faces like Mario and Bowser, to Donkey Kong Jr. in his only karting appearance. Burn rubber across classic courses like Mario Circuit, Bowser Castle, Koopa Beach and the infamous Rainbow Road!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-03-17",
-    "product_code": "KTR-N-UADE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Racing"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F701400",
+  "uid": "50010000039748",
+  "name": "Super Mario Kart™",
+  "formal_name": "Super Mario Kart™",
+  "description": "Start your engines for the original, legendary Super Mario Kart; which spawned a series that is still going strong today.\n<br>Choose from eight Mushroom Kingdom characters – from familiar faces like Mario and Bowser, to Donkey Kong Jr. in his only karting appearance. Burn rubber across classic courses like Mario Circuit, Bowser Castle, Koopa Beach and the infamous Rainbow Road!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-03-17",
+  "product_code": "KTR-N-UADE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Racing"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

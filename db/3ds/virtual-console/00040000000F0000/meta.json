@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000F0000",
-    "uid": "50010000022076",
-    "name": "Mega Man™ Xtreme 2",
-    "formal_name": "Mega Man™ Xtreme 2",
-    "description": "It is an age where humans and intelligent robots known as Reploids co-exist peacefully. \"Maverick Hunters\" have been assembled to hunt down broken Reploids, or \"Mavericks\", to maintain order in society.\n<br><br>\nIn the Reploid research facility on Laguz Island, Reploids are being turned into lifeless shells as if their souls have been erased... Maverick Hunters Mega Man X and Zero have been dispatched to investigate and solve this mysterious turn of events.\n<br><br>\nPlay as either Mega Man X or Zero as you jump across gaps and platforms, gather new abilities by collecting DNA souls, and blast through the evil forces that haunt the island. Solve the case, and restore the Reploids their missing souls!",
-    "release_date_on_eshop": "2014-05-29",
-    "product_code": "CTR-N-QA2E",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F0000",
+  "uid": "50010000022076",
+  "name": "Mega Man™ Xtreme 2",
+  "formal_name": "Mega Man™ Xtreme 2",
+  "description": "It is an age where humans and intelligent robots known as Reploids co-exist peacefully. \"Maverick Hunters\" have been assembled to hunt down broken Reploids, or \"Mavericks\", to maintain order in society.\n<br><br>\nIn the Reploid research facility on Laguz Island, Reploids are being turned into lifeless shells as if their souls have been erased... Maverick Hunters Mega Man X and Zero have been dispatched to investigate and solve this mysterious turn of events.\n<br><br>\nPlay as either Mega Man X or Zero as you jump across gaps and platforms, gather new abilities by collecting DNA souls, and blast through the evil forces that haunt the island. Solve the case, and restore the Reploids their missing souls!",
+  "release_date_on_eshop": "2014-05-29",
+  "product_code": "CTR-N-QA2E",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000400000009C100",
-    "uid": "50010000014938",
-    "name": "Crystal Warriors",
-    "formal_name": "Crystal Warriors",
-    "description": "In the Kingdom of Ariel, four elemental crystals have long protected the land and its inhabitants, but an evil force has appeared to destroy this peace by stealing them! With the kingdom in turmoil, guide Princess Iris in her quest to recover the lost crystals from the evil Jyn.\n<br><br>\nIn this classic strategy game, arm your warriors and tame monsters to fight alongside you against Jyn’s armies! Over 5 unique classes to use against Jyn’s forces! You can even challenge a friend via local two-player multiplayer.",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-GANE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009C100",
+  "uid": "50010000014938",
+  "name": "Crystal Warriors",
+  "formal_name": "Crystal Warriors",
+  "description": "In the Kingdom of Ariel, four elemental crystals have long protected the land and its inhabitants, but an evil force has appeared to destroy this peace by stealing them! With the kingdom in turmoil, guide Princess Iris in her quest to recover the lost crystals from the evil Jyn.\n<br><br>\nIn this classic strategy game, arm your warriors and tame monsters to fight alongside you against Jyn’s armies! Over 5 unique classes to use against Jyn’s forces! You can even challenge a friend via local two-player multiplayer.",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-GANE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000CBE00",
-    "uid": "50010000016697",
-    "name": "Beyblade Evolution",
-    "formal_name": "Beyblade Evolution",
-    "description": "Prepare to get closer to the battling\naction than ever before – it’s time to\nlet it rip with Beyblade Evolution on\nNintendo 3DS™!\n<br/><br/>\n• Use the motion controls of\nNintendo 3DS™ and get closer to\nplaying for real than ever before!\n<br/><br/>\n• Experience an exciting story in the\nworld of Beyblade as you face off\nagainst familiar heroes and villains\nto become a champion Blader.\n<br/><br/>\n• Collect a huge number of unique\nBey parts and combine them to build\nthe perfect Bey, then use it to smash\nthe opposition!\n<br/><br/>\n• Face off against your friends using\nLocal Play, or collect StreetPass™\ndata to battle other players!\n<br/><br/>\n• Use the AR Card packaged with the\ngame and do battle in a virtual arena!\n<br/><br/>\n• Get a sneak peek at the future by\nunlocking the all-powerful Samurai\nIfrit W145CF Beyblade from Beyblade:\nShogun Steel!\n<br/><br/>\n• The Collector’s Edition of Beyblade\nEvolution comes with an exclusive\nWinged Pegasus 90WF Beyblade,\nwhich will never be available to buy\nanywhere else!",
-    "release_date_on_eshop": "2013-10-25",
-    "product_code": "CTR-P-ARXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CBE00",
+  "uid": "50010000016697",
+  "name": "Beyblade Evolution",
+  "formal_name": "Beyblade Evolution",
+  "description": "Prepare to get closer to the battling\naction than ever before – it’s time to\nlet it rip with Beyblade Evolution on\nNintendo 3DS™!\n<br/><br/>\n• Use the motion controls of\nNintendo 3DS™ and get closer to\nplaying for real than ever before!\n<br/><br/>\n• Experience an exciting story in the\nworld of Beyblade as you face off\nagainst familiar heroes and villains\nto become a champion Blader.\n<br/><br/>\n• Collect a huge number of unique\nBey parts and combine them to build\nthe perfect Bey, then use it to smash\nthe opposition!\n<br/><br/>\n• Face off against your friends using\nLocal Play, or collect StreetPass™\ndata to battle other players!\n<br/><br/>\n• Use the AR Card packaged with the\ngame and do battle in a virtual arena!\n<br/><br/>\n• Get a sneak peek at the future by\nunlocking the all-powerful Samurai\nIfrit W145CF Beyblade from Beyblade:\nShogun Steel!\n<br/><br/>\n• The Collector’s Edition of Beyblade\nEvolution comes with an exclusive\nWinged Pegasus 90WF Beyblade,\nwhich will never be available to buy\nanywhere else!",
+  "release_date_on_eshop": "2013-10-25",
+  "product_code": "CTR-P-ARXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

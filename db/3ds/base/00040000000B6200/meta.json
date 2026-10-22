@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000B6200",
-    "uid": "50010000014574",
-    "name": "Fast & Furious™: Showdown",
-    "formal_name": "Fast & Furious™: Showdown",
-    "description": "BECOME A PART OF THE CREW!<br>\nStrap in and get ready for an intense ride as you team up to take down a dangerous international gang that can only be stopped by you and the rest of the Fast & Furious crew.  \n<br><br>\nKey Game Features:\n<br><br>\nTeam Action Racing:<br>\nGet behind the wheel of some of the world’s most intense rides and take on high-stakes driving missions cooperatively with a friend or computer A.I.  \n<br><br>\nChoose the Experience:<br>\nPut skills to the test in Challenge Mode, an over-the-top game mode offering addictive objectives and high re-playability \n<br><br>\nDiverse and customizable cars:<br>\nBuild your dream car and modify it with more than 50 awesome upgrades and performance perks\n<br><br>\nStoryline that spans the franchise and travels the globe:<br>\nHeists, hijacks and mayhem combine across 8 epic global locations, from Rio to LA to Moscow, in an original storyline that spans the entire Fast & Furious film franchise.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFHE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Multiplayer",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Language",
-        "Violence"
-    ]
+  "tid": "00040000000B6200",
+  "uid": "50010000014574",
+  "name": "Fast & Furious™: Showdown",
+  "formal_name": "Fast & Furious™: Showdown",
+  "description": "BECOME A PART OF THE CREW!<br>\nStrap in and get ready for an intense ride as you team up to take down a dangerous international gang that can only be stopped by you and the rest of the Fast & Furious crew.  \n<br><br>\nKey Game Features:\n<br><br>\nTeam Action Racing:<br>\nGet behind the wheel of some of the world’s most intense rides and take on high-stakes driving missions cooperatively with a friend or computer A.I.  \n<br><br>\nChoose the Experience:<br>\nPut skills to the test in Challenge Mode, an over-the-top game mode offering addictive objectives and high re-playability \n<br><br>\nDiverse and customizable cars:<br>\nBuild your dream car and modify it with more than 50 awesome upgrades and performance perks\n<br><br>\nStoryline that spans the franchise and travels the globe:<br>\nHeists, hijacks and mayhem combine across 8 epic global locations, from Rio to LA to Moscow, in an original storyline that spans the entire Fast & Furious film franchise.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFHE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Multiplayer",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Language",
+    "Violence"
+  ]
 }

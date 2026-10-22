@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000139000",
-    "uid": "50010000023498",
-    "name": "2048",
-    "formal_name": "2048",
-    "description": "Enjoy 2048, the most addictive number sliding puzzle. Move all tiles in one direction, double up tiles of the same number. Reach the 2048 tile before the board fills up. Try different games modes with 1024, 2048 and 4096 goals for extra challenges. There are 20 achievements to unlock for hours and hours of puzzle fun. Can you reach a new highscore? With intuitive controls you will enjoy 2048 more than ever. Try 2048 today and see why this is one of the greatest puzzle games of all time. The original 2048 was created by by Gabriele Cirulli.",
-    "release_date_on_eshop": "2014-06-19",
-    "product_code": "CTR-N-JFEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000139000",
+  "uid": "50010000023498",
+  "name": "2048",
+  "formal_name": "2048",
+  "description": "Enjoy 2048, the most addictive number sliding puzzle. Move all tiles in one direction, double up tiles of the same number. Reach the 2048 tile before the board fills up. Try different games modes with 1024, 2048 and 4096 goals for extra challenges. There are 20 achievements to unlock for hours and hours of puzzle fun. Can you reach a new highscore? With intuitive controls you will enjoy 2048 more than ever. Try 2048 today and see why this is one of the greatest puzzle games of all time. The original 2048 was created by by Gabriele Cirulli.",
+  "release_date_on_eshop": "2014-06-19",
+  "product_code": "CTR-N-JFEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4D5245",
-    "uid": "50010000002942",
-    "name": "My Farm",
-    "formal_name": "My Farm",
-    "description": "My Farm is a livestock farming simulation game!\n\nAt the beginning, all you own is an empty field, a few pennies and a single little hen... You need to feed the hen and take care of it! Then your hen will lay eggs which can be sold. And with this money, you can buy new animals at the Farmers’ Market and purchase equipment from the shopkeeper. Little by little as your farm builds up, you will unlock certain bonuses (wind turbine, rooster, guard dog, tractor, etc.). You will be able to exchange your animals with your friends who play My Farm or My Exotic Farm!\n\n• 6 kinds of animals to customize\n• Take care of your animals (food, clean, health, etc.)\n• Many farm improvements to buy and bonuses to collect\n• Exchange of animals and products with other players",
-    "release_date_on_eshop": "2010-08-23",
-    "product_code": "TWL-N-KMRE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B4D5245",
+  "uid": "50010000002942",
+  "name": "My Farm",
+  "formal_name": "My Farm",
+  "description": "My Farm is a livestock farming simulation game!\n\nAt the beginning, all you own is an empty field, a few pennies and a single little hen... You need to feed the hen and take care of it! Then your hen will lay eggs which can be sold. And with this money, you can buy new animals at the Farmers’ Market and purchase equipment from the shopkeeper. Little by little as your farm builds up, you will unlock certain bonuses (wind turbine, rooster, guard dog, tractor, etc.). You will be able to exchange your animals with your friends who play My Farm or My Exotic Farm!\n\n• 6 kinds of animals to customize\n• Take care of your animals (food, clean, health, etc.)\n• Many farm improvements to buy and bonuses to collect\n• Exchange of animals and products with other players",
+  "release_date_on_eshop": "2010-08-23",
+  "product_code": "TWL-N-KMRE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

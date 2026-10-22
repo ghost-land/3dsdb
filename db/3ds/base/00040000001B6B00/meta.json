@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001B6B00",
-    "uid": "50010000042418",
-    "name": "Mini Sports Collection",
-    "formal_name": "Mini Sports Collection",
-    "description": "Compete for the best times and scores in 12 different sports!\n<br>\n<br>Mini Sports Collection focuses on the fun part of each sport throwing you straight into the heart of each one!\n<br>\n<br>Score goals in Football, shoot clay targets in Skeet Shooting, take down opponents in Wrestling, smash the ball in Tennis!\n<br>Quick reflexes, fast button presses and accurate controls are required to make the highest rankings and succeed in 24 different achievements. Compete in solo events or try multiple event tournaments!\n<br>The following 12 sports are included:\n<br>100m Sprint, Pro Wrestling, Skeet Shooting, Baseball, Speed Skating, Fencing, Rugby, Tennis, Football, Archery, Hammer Throw, Table Tennis",
-    "release_date_on_eshop": "2017-03-09",
-    "product_code": "CTR-N-KTNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Arcade",
-        "Action",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B6B00",
+  "uid": "50010000042418",
+  "name": "Mini Sports Collection",
+  "formal_name": "Mini Sports Collection",
+  "description": "Compete for the best times and scores in 12 different sports!\n<br>\n<br>Mini Sports Collection focuses on the fun part of each sport throwing you straight into the heart of each one!\n<br>\n<br>Score goals in Football, shoot clay targets in Skeet Shooting, take down opponents in Wrestling, smash the ball in Tennis!\n<br>Quick reflexes, fast button presses and accurate controls are required to make the highest rankings and succeed in 24 different achievements. Compete in solo events or try multiple event tournaments!\n<br>The following 12 sports are included:\n<br>100m Sprint, Pro Wrestling, Skeet Shooting, Baseball, Speed Skating, Fencing, Rugby, Tennis, Football, Archery, Hammer Throw, Table Tennis",
+  "release_date_on_eshop": "2017-03-09",
+  "product_code": "CTR-N-KTNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Arcade",
+    "Action",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

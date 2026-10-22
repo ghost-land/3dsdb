@@ -1,26 +1,26 @@
 {
-    "tid": "000400000016A500",
-    "uid": "50010000035295",
-    "name": "Samurai Defender",
-    "formal_name": "Samurai Defender",
-    "description": "Samurai Defender is a simple defense\n<br>type action game set in the Warring\n<br>States period of Japan.\n<br>\n<br>Defend the castle from approaching\n<br>enemies!\n<br>\n<br>Tap on an enemy soldier to aim at\n<br>them. Your bowmen will take care of\n<br>the rest.\n<br>\n<br>Enemies will move towards your\n<br>castle gate, so take aim and stop\n<br>them from getting too close!\n<br>\n<br>Use the coins you acquire to learn\n<br>new schemes!\n<br>\n<br>Use the schemes you learned to\n<br>defeat lots of enemies!\n<br>\n<br>Defend your castle more easily by\n<br>leveling up your bowman and schemes,\n<br>\n<br>and enjoy the exhilaration of\n<br>repelling waves of enemy attacks!",
-    "release_date_on_eshop": "2015-07-16",
-    "product_code": "CTR-N-JWXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016A500",
+  "uid": "50010000035295",
+  "name": "Samurai Defender",
+  "formal_name": "Samurai Defender",
+  "description": "Samurai Defender is a simple defense\n<br>type action game set in the Warring\n<br>States period of Japan.\n<br>\n<br>Defend the castle from approaching\n<br>enemies!\n<br>\n<br>Tap on an enemy soldier to aim at\n<br>them. Your bowmen will take care of\n<br>the rest.\n<br>\n<br>Enemies will move towards your\n<br>castle gate, so take aim and stop\n<br>them from getting too close!\n<br>\n<br>Use the coins you acquire to learn\n<br>new schemes!\n<br>\n<br>Use the schemes you learned to\n<br>defeat lots of enemies!\n<br>\n<br>Defend your castle more easily by\n<br>leveling up your bowman and schemes,\n<br>\n<br>and enjoy the exhilaration of\n<br>repelling waves of enemy attacks!",
+  "release_date_on_eshop": "2015-07-16",
+  "product_code": "CTR-N-JWXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

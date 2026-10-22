@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B473745",
-    "uid": "50010000006900",
-    "name": "Gold Fever",
-    "formal_name": "Gold Fever",
-    "description": "Take a trip back in time to explore the great American Gold Rush in this extremely challenging arcade puzzle game. Flip coins to make matches of three or more while you mine your way to Gold Country, California. Gold Fever will challenge even the most dedicated puzzle players with its clever power ups, easy to play mechanic, and progressively more challenging game boards. Enjoy one hundred and sixty strike-it-rich levels while discovering new power ups, coins and challenges as you progress.",
-    "release_date_on_eshop": "2011-06-16",
-    "product_code": "TWL-N-KG7E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B473745",
+  "uid": "50010000006900",
+  "name": "Gold Fever",
+  "formal_name": "Gold Fever",
+  "description": "Take a trip back in time to explore the great American Gold Rush in this extremely challenging arcade puzzle game. Flip coins to make matches of three or more while you mine your way to Gold Country, California. Gold Fever will challenge even the most dedicated puzzle players with its clever power ups, easy to play mechanic, and progressively more challenging game boards. Enjoy one hundred and sixty strike-it-rich levels while discovering new power ups, coins and challenges as you progress.",
+  "release_date_on_eshop": "2011-06-16",
+  "product_code": "TWL-N-KG7E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

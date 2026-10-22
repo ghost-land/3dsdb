@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B443845",
-    "uid": "50010000002763",
-    "name": "Datamine",
-    "formal_name": "Datamine",
-    "description": "You are the safety inspector at the\nlargest data centre facility in the\nworld.<br>\n<br>\nUnfortunately your laziness at work\nhas created the biggest cataclysm of\nthe wireless age: the loss of all\nmankind's data.<br>\n<br>\nYou have been chosen to retrieve the\nlost data and must go on a dangerous\njourney to try to recover them all.<br>\n<br>\nDatamine is a great arcade action\ngame where you control a robot and\nbeam at data bubbles to split and\ncatch them.<br>\n<br>\nTest your skills in 100 challenging\nlevels. Grab equipment upgrades like\nspeed boost, sticky shots and shields,\nbreakencrypted data and fusion\nbubbles who multiply when they touch\nothers.",
-    "release_date_on_eshop": "2010-10-08",
-    "product_code": "TWL-N-KD8P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B443845",
+  "uid": "50010000002763",
+  "name": "Datamine",
+  "formal_name": "Datamine",
+  "description": "You are the safety inspector at the\nlargest data centre facility in the\nworld.<br>\n<br>\nUnfortunately your laziness at work\nhas created the biggest cataclysm of\nthe wireless age: the loss of all\nmankind's data.<br>\n<br>\nYou have been chosen to retrieve the\nlost data and must go on a dangerous\njourney to try to recover them all.<br>\n<br>\nDatamine is a great arcade action\ngame where you control a robot and\nbeam at data bubbles to split and\ncatch them.<br>\n<br>\nTest your skills in 100 challenging\nlevels. Grab equipment upgrades like\nspeed boost, sticky shots and shields,\nbreakencrypted data and fusion\nbubbles who multiply when they touch\nothers.",
+  "release_date_on_eshop": "2010-10-08",
+  "product_code": "TWL-N-KD8P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

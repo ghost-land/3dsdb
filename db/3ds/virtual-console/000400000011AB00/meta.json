@@ -1,26 +1,26 @@
 {
-    "tid": "000400000011AB00",
-    "uid": "50010000027618",
-    "name": "Lufia®: The Legend Returns",
-    "formal_name": "Lufia®: The Legend Returns",
-    "description": "Wain always wanted to see the\nworld, but he never expected he\nwould end up fighting to save it!\nFollow the young warrior and his\ncompanions on an epic adventure that\nspans vast continents, as you try to\nstop an ancient evil.\n<br/><br/>\nThe third in the series, and the first\nfor a handheld system, Lufia: The\nLegend Returns features 12 playable\ncharacters, each with their own unique\npersonality and special attacks, plus a\ncompelling storyline and in-depth\nbattle and magic systems, including\nthe return of Infuriating Point special\nattacks.",
-    "release_date_on_eshop": "2014-11-20",
-    "product_code": "CTR-N-QBEP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000011AB00",
+  "uid": "50010000027618",
+  "name": "Lufia®: The Legend Returns",
+  "formal_name": "Lufia®: The Legend Returns",
+  "description": "Wain always wanted to see the\nworld, but he never expected he\nwould end up fighting to save it!\nFollow the young warrior and his\ncompanions on an epic adventure that\nspans vast continents, as you try to\nstop an ancient evil.\n<br/><br/>\nThe third in the series, and the first\nfor a handheld system, Lufia: The\nLegend Returns features 12 playable\ncharacters, each with their own unique\npersonality and special attacks, plus a\ncompelling storyline and in-depth\nbattle and magic systems, including\nthe return of Infuriating Point special\nattacks.",
+  "release_date_on_eshop": "2014-11-20",
+  "product_code": "CTR-N-QBEP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

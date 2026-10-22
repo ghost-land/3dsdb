@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000153600",
-    "uid": "50010000037955",
-    "name": "Nintendo Badge Arcade",
-    "formal_name": "Nintendo Badge Arcade",
-    "description": "From the second half of March, 2023, paid plays on badge catchers will no longer be available. Afterwards, it will only be possible to play on the practice catcher and use free plays.\n<br>\n<br>Owners of systems in the Nintendo 3DS™ family can already customise their system’s HOME Menu with a range of colourful themes, and they are now able to take that personalisation to a whole new level with Nintendo Badge Arcade.\n<br>\n<br>In this lively arcade run by a chatty rabbit, players can take a shot at crane games and similar classic amusements, collecting badges based on Nintendo games and series like Mario Kart™, Splatoon™ and Animal Crossing™. Badges can be used to decorate the HOME Menu, with some even usable instead of the standard system icons that access Nintendo eShop and StreetPass™ Mii Plaza™, among others – perfect for total HOME Menu makeovers.\n<br>\n<br>Offers in-game purchases.",
-    "release_date_on_eshop": "2015-11-13",
-    "product_code": "CTR-N-JWVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "System Tool"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v4.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000153600",
+  "uid": "50010000037955",
+  "name": "Nintendo Badge Arcade",
+  "formal_name": "Nintendo Badge Arcade",
+  "description": "From the second half of March, 2023, paid plays on badge catchers will no longer be available. Afterwards, it will only be possible to play on the practice catcher and use free plays.\n<br>\n<br>Owners of systems in the Nintendo 3DS™ family can already customise their system’s HOME Menu with a range of colourful themes, and they are now able to take that personalisation to a whole new level with Nintendo Badge Arcade.\n<br>\n<br>In this lively arcade run by a chatty rabbit, players can take a shot at crane games and similar classic amusements, collecting badges based on Nintendo games and series like Mario Kart™, Splatoon™ and Animal Crossing™. Badges can be used to decorate the HOME Menu, with some even usable instead of the standard system icons that access Nintendo eShop and StreetPass™ Mii Plaza™, among others – perfect for total HOME Menu makeovers.\n<br>\n<br>Offers in-game purchases.",
+  "release_date_on_eshop": "2015-11-13",
+  "product_code": "CTR-N-JWVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "System Tool"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v4.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

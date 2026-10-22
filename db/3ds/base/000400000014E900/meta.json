@@ -1,33 +1,33 @@
 {
-    "tid": "000400000014E900",
-    "uid": "50010000031896",
-    "name": "LEGO® Ninjago™:\nLa Sombra de Ronin",
-    "formal_name": "LEGO® Ninjago™:\nLa Sombra de Ronin",
-    "description": "Hay una nueva amenaza en Ninjago,\ny su nombre es Ronin. Con la ayuda\nde samuráis oscuros, Ronin ha robado\nlas memorias de los Ninjas utilizando\nuna antigua arma llamada Obsidian\nGlaive. En LEGO Ninjago: La Sombra\nde Ronin, los ninjas han olvidado\ncómo utilizar sus poderes\nelementales, y los jugadores deberán\nayudarles a encontrar sus armas\nObisidian, recobrar sus recuerdos y\nrecuperar sus poderes antes de que\nRonin lleve a cabo sus planes y libere\nel mal en Ninjago.",
-    "release_date_on_eshop": "2015-03-27",
-    "product_code": "CTR-P-BLSX",
-    "platform_name": "Nintendo 3DS (tarjeta/descarga)",
-    "region": "Spain",
-    "genres": [
-        "Acción",
-        "Aventura"
-    ],
-    "features": [
-        "Con imágenes 3D"
-    ],
-    "languages": [
-        "Inglés",
-        "Español",
-        "Francés",
-        "Alemán",
-        "Italiano",
-        "Neerlandés"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": "* El juego contiene voces\nen Castellano.",
-    "descriptors": []
+  "tid": "000400000014E900",
+  "uid": "50010000031896",
+  "name": "LEGO® Ninjago™:\nLa Sombra de Ronin",
+  "formal_name": "LEGO® Ninjago™:\nLa Sombra de Ronin",
+  "description": "Hay una nueva amenaza en Ninjago,\ny su nombre es Ronin. Con la ayuda\nde samuráis oscuros, Ronin ha robado\nlas memorias de los Ninjas utilizando\nuna antigua arma llamada Obsidian\nGlaive. En LEGO Ninjago: La Sombra\nde Ronin, los ninjas han olvidado\ncómo utilizar sus poderes\nelementales, y los jugadores deberán\nayudarles a encontrar sus armas\nObisidian, recobrar sus recuerdos y\nrecuperar sus poderes antes de que\nRonin lleve a cabo sus planes y libere\nel mal en Ninjago.",
+  "release_date_on_eshop": "2015-03-27",
+  "product_code": "CTR-P-BLSX",
+  "platform_name": "Nintendo 3DS (tarjeta/descarga)",
+  "region": "Spain",
+  "genres": [
+    "Acción",
+    "Aventura"
+  ],
+  "features": [
+    "Con imágenes 3D"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": "* El juego contiene voces\nen Castellano.",
+  "descriptors": []
 }

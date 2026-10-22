@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000064900",
-    "uid": "50010000007621",
-    "name": "ACE COMBAT® Assault Horizon Legacy",
-    "formal_name": "ACE COMBAT® Assault Horizon Legacy",
-    "description": "The critically acclaimed aerial combat series flies onto the Nintendo 3DS! ACE COMBAT® Assault Horizon Legacy delivers supersonic flying, exciting dogfights and high-altitude acrobatics all in 3D for the first time!\n<br><br>\nFeatures: <br>\n-Intense and engaging battles in the sky – The fast-paced action of the ACE COMBAT series is even more immersive with the addition of 3D gameplay.<br>\n-Touch screen targeting – Lock-on to enemies and fire at will using the touch screen.<br>\n-Edge-of-your-seat controls – Experience the exhilaration of becoming an ace pilot with added control mechanics that enable split-second counter-maneuvers, dynamic dogfight action and satisfying enemy takedowns.<br>\n-Missions & Aircrafts – Full variety of real-world aircrafts to fly and diverse range of missions to enjoy.<br>",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AC3E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Language",
-        "Violence"
-    ]
+  "tid": "0004000000064900",
+  "uid": "50010000007621",
+  "name": "ACE COMBAT® Assault Horizon Legacy",
+  "formal_name": "ACE COMBAT® Assault Horizon Legacy",
+  "description": "The critically acclaimed aerial combat series flies onto the Nintendo 3DS! ACE COMBAT® Assault Horizon Legacy delivers supersonic flying, exciting dogfights and high-altitude acrobatics all in 3D for the first time!\n<br><br>\nFeatures: <br>\n-Intense and engaging battles in the sky – The fast-paced action of the ACE COMBAT series is even more immersive with the addition of 3D gameplay.<br>\n-Touch screen targeting – Lock-on to enemies and fire at will using the touch screen.<br>\n-Edge-of-your-seat controls – Experience the exhilaration of becoming an ace pilot with added control mechanics that enable split-second counter-maneuvers, dynamic dogfight action and satisfying enemy takedowns.<br>\n-Missions & Aircrafts – Full variety of real-world aircrafts to fly and diverse range of missions to enjoy.<br>",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AC3E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Language",
+    "Violence"
+  ]
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001CF800",
-    "uid": "50010000044915",
-    "name": "Machine Knight",
-    "formal_name": "Machine Knight",
-    "description": "To save his dying world from energy shortages Frain travels through a mysterious gate in an attempt to find a solution. Waiting for him there, however, are treachery and betrayal. Despite this, two heroines, Bell the priestess and the spirited Aulin support Frain through his troubles. Frain, more determined than ever, sets out with his two new companions to defeat the dark forces and save the world beyond the gate!\n<br>\n<br>Maximize character potential through the Machina Board. By using points earned through battles and completing quests you can change classes and power up skills.\n<br>\nFind items hidden throughout towns and castles, complete various subquests, crawl through vast dungeons, and scour the world for hidden areas containing rare items and craft materials!\n<br>\n<br>A fantastical sci-fi adventure awaits!",
-    "release_date_on_eshop": "2018-02-15",
-    "product_code": "CTR-N-J99E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001CF800",
+  "uid": "50010000044915",
+  "name": "Machine Knight",
+  "formal_name": "Machine Knight",
+  "description": "To save his dying world from energy shortages Frain travels through a mysterious gate in an attempt to find a solution. Waiting for him there, however, are treachery and betrayal. Despite this, two heroines, Bell the priestess and the spirited Aulin support Frain through his troubles. Frain, more determined than ever, sets out with his two new companions to defeat the dark forces and save the world beyond the gate!\n<br>\n<br>Maximize character potential through the Machina Board. By using points earned through battles and completing quests you can change classes and power up skills.\n<br>\nFind items hidden throughout towns and castles, complete various subquests, crawl through vast dungeons, and scour the world for hidden areas containing rare items and craft materials!\n<br>\n<br>A fantastical sci-fi adventure awaits!",
+  "release_date_on_eshop": "2018-02-15",
+  "product_code": "CTR-N-J99E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

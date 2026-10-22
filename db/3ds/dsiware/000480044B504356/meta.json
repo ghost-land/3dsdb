@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B504356",
-    "uid": "50010000004662",
-    "name": "Animal Puzzle Adventure",
-    "formal_name": "Animal Puzzle Adventure",
-    "description": "Animal Puzzle Adventure is a simple\npuzzle game where you have to lead\nvarious animals to their respective\nbarns placed on the map, while\navoiding pitfalls and cliffs and using\nthe objects on field to your\nadvantage.<br>\n<br>\nThere are 10 stages per level with a\ntotal of 5 levels, creating 50 stages\nin all! After clearing a stage, you\nunlock a piece of a photo. Once you\nclear all 10 stages in a level, the\nwallpaper for that level becomes\nunlocked and you can then view it in\nthe gallery.<br>\n<br>\nWith so many puzzles to unravel,\nyou'll find yourself immersed in the\npuzzle-riffic world of Animal Puzzle\nAdventure!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KPCV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504356",
+  "uid": "50010000004662",
+  "name": "Animal Puzzle Adventure",
+  "formal_name": "Animal Puzzle Adventure",
+  "description": "Animal Puzzle Adventure is a simple\npuzzle game where you have to lead\nvarious animals to their respective\nbarns placed on the map, while\navoiding pitfalls and cliffs and using\nthe objects on field to your\nadvantage.<br>\n<br>\nThere are 10 stages per level with a\ntotal of 5 levels, creating 50 stages\nin all! After clearing a stage, you\nunlock a piece of a photo. Once you\nclear all 10 stages in a level, the\nwallpaper for that level becomes\nunlocked and you can then view it in\nthe gallery.<br>\n<br>\nWith so many puzzles to unravel,\nyou'll find yourself immersed in the\npuzzle-riffic world of Animal Puzzle\nAdventure!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KPCV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

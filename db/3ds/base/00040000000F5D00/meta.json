@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000F5D00",
-    "uid": "50010000017854",
-    "name": "LEGO Marvel Super Heroes\nUniverse In Peril",
-    "formal_name": "LEGO Marvel Super Heroes\nUniverse In Peril",
-    "description": "LEGO® Marvel™ Super Heroes:\nUniverse in Peril for Nintendo 3DS™\nfeatures an original story crossing the\nentire Marvel Universe. Players take\ncontrol of Iron Man, Spider-Man, the\nHulk, Captain America, Wolverine and\nmany more Marvel characters as they\nunite to stop Loki and a host of other\nMarvel villains from assembling a\nsuper-weapon capable of destroying\nthe world. Players will chase down\nCosmic Bricks as they travel across\nkey locations from the Marvel\nUniverse, such as Stark Tower,\nAsteroid M, a Hydra base and the\nX-Mansion.",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-P-AL5P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F5D00",
+  "uid": "50010000017854",
+  "name": "LEGO Marvel Super Heroes\nUniverse In Peril",
+  "formal_name": "LEGO Marvel Super Heroes\nUniverse In Peril",
+  "description": "LEGO® Marvel™ Super Heroes:\nUniverse in Peril for Nintendo 3DS™\nfeatures an original story crossing the\nentire Marvel Universe. Players take\ncontrol of Iron Man, Spider-Man, the\nHulk, Captain America, Wolverine and\nmany more Marvel characters as they\nunite to stop Loki and a host of other\nMarvel villains from assembling a\nsuper-weapon capable of destroying\nthe world. Players will chase down\nCosmic Bricks as they travel across\nkey locations from the Marvel\nUniverse, such as Stark Tower,\nAsteroid M, a Hydra base and the\nX-Mansion.",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-P-AL5P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

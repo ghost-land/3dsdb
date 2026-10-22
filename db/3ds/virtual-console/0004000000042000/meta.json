@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000042000",
-    "uid": "50010000007149",
-    "name": "Mario's Picross™",
-    "formal_name": "Mario's Picross™",
-    "description": "Help Mario™ unlock the mystery of Picross! The secrets lie in the numeric codes on the top and left side of the window. Decipher these numbers and uncover a hidden picture in each mind-bending puzzle!\n<br><br>\nQuick wits and a speedy pace are required to solve the clues before the clock runs out! Chisel away boxes strategically and reveal the hidden image in record time! But be careful! Every mistake will cost precious minutes!\n<br><br>\nOver 250 brain-bending puzzles to solve! Different levels of difficulty provide mind-melting puzzle action for players of all skill levels!",
-    "release_date_on_eshop": "1995-03",
-    "product_code": "CTR-N-RAJE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000042000",
+  "uid": "50010000007149",
+  "name": "Mario's Picross™",
+  "formal_name": "Mario's Picross™",
+  "description": "Help Mario™ unlock the mystery of Picross! The secrets lie in the numeric codes on the top and left side of the window. Decipher these numbers and uncover a hidden picture in each mind-bending puzzle!\n<br><br>\nQuick wits and a speedy pace are required to solve the clues before the clock runs out! Chisel away boxes strategically and reveal the hidden image in record time! But be careful! Every mistake will cost precious minutes!\n<br><br>\nOver 250 brain-bending puzzles to solve! Different levels of difficulty provide mind-melting puzzle action for players of all skill levels!",
+  "release_date_on_eshop": "1995-03",
+  "product_code": "CTR-N-RAJE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

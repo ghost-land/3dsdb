@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000F7B00",
-    "uid": "50010000016354",
-    "name": "Inazuma Eleven® 3:\nBomb Blast",
-    "formal_name": "Inazuma Eleven® 3:\nBomb Blast",
-    "description": "It’s time to get into pre-season\ntraining and reacquaint yourself with\nMark Evans and other star players in\nthe Inazuma series! The action this\ntime takes place on the global stage,\nwith your daunting objective to win\nthe Frontier International\nChampionships, and be crowned the\ngreatest team in the world! It's up to\nyou which version you choose - are\nyou more of a Bomb Blast or a\nLightning Bolt on the pitch?\n<br/><br/>\nIn the pursuit of glory, you'll need to\ncreate a formidable and unique\nline-up, with Inazuma Eleven 3\ncontaining over 2,000 characters to\nencounter and recruit. Only by\ncreating the strongest and most\nbalanced team will you experience\nsuccess, especially when there are\nalso over 350 in-game special moves\nto consider, which have the potential\nto dramatically alter the course of a\nmatch. In terms of the storyline, both\nInazuma Eleven 3: Lightning Bolt and\nInazuma Eleven 3: Bomb Blast adopt\nthe point of view of a different\ncharacter, each version having\ndifferent powerful rivals to take on.\n<br/><br/>\nBringing back the unique formula of\nRPG elements combined with\nfootball-based action, this time\naround you can get further immersed\nin the game with the series debuting in\n3D, making the special moves and\n“battle scenes” even more intense.\nNew features on the pitch include the\nability to roll out special tactical team\nplays which involve the whole team,\nas well as a goal shoot chaining\nsystem where you can string together\nspecial moves from different\nteammates to launch powerful attacks\non goal.",
-    "release_date_on_eshop": "2013-09-27",
-    "product_code": "CTR-P-AXBP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F7B00",
+  "uid": "50010000016354",
+  "name": "Inazuma Eleven® 3:\nBomb Blast",
+  "formal_name": "Inazuma Eleven® 3:\nBomb Blast",
+  "description": "It’s time to get into pre-season\ntraining and reacquaint yourself with\nMark Evans and other star players in\nthe Inazuma series! The action this\ntime takes place on the global stage,\nwith your daunting objective to win\nthe Frontier International\nChampionships, and be crowned the\ngreatest team in the world! It's up to\nyou which version you choose - are\nyou more of a Bomb Blast or a\nLightning Bolt on the pitch?\n<br/><br/>\nIn the pursuit of glory, you'll need to\ncreate a formidable and unique\nline-up, with Inazuma Eleven 3\ncontaining over 2,000 characters to\nencounter and recruit. Only by\ncreating the strongest and most\nbalanced team will you experience\nsuccess, especially when there are\nalso over 350 in-game special moves\nto consider, which have the potential\nto dramatically alter the course of a\nmatch. In terms of the storyline, both\nInazuma Eleven 3: Lightning Bolt and\nInazuma Eleven 3: Bomb Blast adopt\nthe point of view of a different\ncharacter, each version having\ndifferent powerful rivals to take on.\n<br/><br/>\nBringing back the unique formula of\nRPG elements combined with\nfootball-based action, this time\naround you can get further immersed\nin the game with the series debuting in\n3D, making the special moves and\n“battle scenes” even more intense.\nNew features on the pitch include the\nability to roll out special tactical team\nplays which involve the whole team,\nas well as a goal shoot chaining\nsystem where you can string together\nspecial moves from different\nteammates to launch powerful attacks\non goal.",
+  "release_date_on_eshop": "2013-09-27",
+  "product_code": "CTR-P-AXBP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

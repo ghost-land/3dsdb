@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4C4C45",
-    "uid": "50010000003009",
-    "name": "The Seller",
-    "formal_name": "The Seller",
-    "description": "You are a down and out big time boss, forced into the small time, since your company was driven into bankruptcy by an underhanded competitor that stooped lower than even you would dare. Of course, revenge is a dish best served cold...and over a drink at an expensive club. This is where the game will take place, and where you can rebuild your fortune and show your competitor who really is boss.\n\nThis is a witty card game with a few simple rules to test your intelligence. Starting with a small amount of resources, money and action cards, try to use action cards to cunningly step forward until you have sold all of your resources to others. Set strategies in motion to increase your resources in value as one of the ways to win. But don’t forget that your ultimate goal is to introduce your competitors to bankruptcy.",
-    "release_date_on_eshop": "2011-01-17",
-    "product_code": "TWL-N-KLLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4C45",
+  "uid": "50010000003009",
+  "name": "The Seller",
+  "formal_name": "The Seller",
+  "description": "You are a down and out big time boss, forced into the small time, since your company was driven into bankruptcy by an underhanded competitor that stooped lower than even you would dare. Of course, revenge is a dish best served cold...and over a drink at an expensive club. This is where the game will take place, and where you can rebuild your fortune and show your competitor who really is boss.\n\nThis is a witty card game with a few simple rules to test your intelligence. Starting with a small amount of resources, money and action cards, try to use action cards to cunningly step forward until you have sold all of your resources to others. Set strategies in motion to increase your resources in value as one of the ways to win. But don’t forget that your ultimate goal is to introduce your competitors to bankruptcy.",
+  "release_date_on_eshop": "2011-01-17",
+  "product_code": "TWL-N-KLLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

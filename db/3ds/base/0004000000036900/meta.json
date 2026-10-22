@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000036900",
-    "uid": "50010000007209",
-    "name": "Frogger 3D",
-    "formal_name": "Frogger 3D",
-    "description": "Classic Frogger Gameplay. Using the tight controls on the Nintendo 3DS, run, dash and dodge past moving obstacles and enemies.\n<br><br>\n6 Huge New Worlds to Explore. Frogger ventures from the streets and sidewalks of his hometown to new places and exotic locations, including New York, the Far East –even Space!—in 60 uniquely challenging stages.\n<br><br>\nNew friends change up gameplay. Team up with some of Frogger’s special frog friends in certain levels to destroy obstacles, absorb damage or light the way in dark spaces as he progresses through the game!\n<br><br>\nCompete against other players! Enjoy 4 player multiplayer over wireless, engage in Street Pass battles or show off your skills in the all new Forever mode!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFRE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Animated Blood",
-        "Cartoon Violence"
-    ]
+  "tid": "0004000000036900",
+  "uid": "50010000007209",
+  "name": "Frogger 3D",
+  "formal_name": "Frogger 3D",
+  "description": "Classic Frogger Gameplay. Using the tight controls on the Nintendo 3DS, run, dash and dodge past moving obstacles and enemies.\n<br><br>\n6 Huge New Worlds to Explore. Frogger ventures from the streets and sidewalks of his hometown to new places and exotic locations, including New York, the Far East –even Space!—in 60 uniquely challenging stages.\n<br><br>\nNew friends change up gameplay. Team up with some of Frogger’s special frog friends in certain levels to destroy obstacles, absorb damage or light the way in dark spaces as he progresses through the game!\n<br><br>\nCompete against other players! Enjoy 4 player multiplayer over wireless, engage in Street Pass battles or show off your skills in the all new Forever mode!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFRE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Animated Blood",
+    "Cartoon Violence"
+  ]
 }

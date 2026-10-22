@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000043B00",
-    "uid": "50010000007069",
-    "name": "Thor™: God of Thunder",
-    "formal_name": "Thor™: God of Thunder",
-    "description": "Thor: God of Thunder takes players\nthrough a spectacular, third-person\naction adventure. <br>\n<br>\nThor, the son of Asgard, battles\nthrough numerous worlds of Norse\nmythology to overcome monstrous\nfoes lifted from the pages of the\ncomics including Ulik, Ymir, and\nSurtur. <br>\n<br>\nPlayers will wield the iconic Mjölnir,\nThor’s legendary hammer, to fight\nenemies on an immense scale while\ncontrolling the elemental storm powers\nof lightning, thunder, and wind to\nvanquish foes.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AGTP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000043B00",
+  "uid": "50010000007069",
+  "name": "Thor™: God of Thunder",
+  "formal_name": "Thor™: God of Thunder",
+  "description": "Thor: God of Thunder takes players\nthrough a spectacular, third-person\naction adventure. <br>\n<br>\nThor, the son of Asgard, battles\nthrough numerous worlds of Norse\nmythology to overcome monstrous\nfoes lifted from the pages of the\ncomics including Ulik, Ymir, and\nSurtur. <br>\n<br>\nPlayers will wield the iconic Mjölnir,\nThor’s legendary hammer, to fight\nenemies on an immense scale while\ncontrolling the elemental storm powers\nof lightning, thunder, and wind to\nvanquish foes.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AGTP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B504B45",
-    "uid": "50010000003501",
-    "name": "Petz® Kittens",
-    "formal_name": "Petz® Kittens",
-    "description": "The cutest newborn kittens are here, and they need someone to care for and love them. Adopt your very own kittens, bond with them, and help them grow into strong and healthy cats.\n\n• Choose from a variety of popular cat breeds—Siamese, Persian, and more.\n• Give your adorable baby kittens lots of loving care: feed them warm milk, keep them clean and warm, and help them grow.\n• Your kittens make cute faces and react in surprising ways when you play fun games with them like peek-a-boo or balloon games.",
-    "release_date_on_eshop": "2010-07-19",
-    "product_code": "TWL-N-KPKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504B45",
+  "uid": "50010000003501",
+  "name": "Petz® Kittens",
+  "formal_name": "Petz® Kittens",
+  "description": "The cutest newborn kittens are here, and they need someone to care for and love them. Adopt your very own kittens, bond with them, and help them grow into strong and healthy cats.\n\n• Choose from a variety of popular cat breeds—Siamese, Persian, and more.\n• Give your adorable baby kittens lots of loving care: feed them warm milk, keep them clean and warm, and help them grow.\n• Your kittens make cute faces and react in surprising ways when you play fun games with them like peek-a-boo or balloon games.",
+  "release_date_on_eshop": "2010-07-19",
+  "product_code": "TWL-N-KPKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

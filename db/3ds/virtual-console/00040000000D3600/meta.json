@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000D3600",
-    "uid": "50010000023275",
-    "name": "Double Dragon II: The Revenge",
-    "formal_name": "Double Dragon II: The Revenge",
-    "description": "Billy and Jimmy Lee, the Double Dragons, are back to avenge the loss of Marion. In their quest to defeat the evil Shadow Warriors, Billy and Jimmy must complete nine missions, facing deadly street gangs, ninjas and huge mutant fighters. The duo must traverse through construction sites, alleyways and underwater hideouts complete with secret elevator shafts, spiked ceilings and razor-sharp mechanical claws. Can Billy and Jimmy contend with the enemies placed before them and ultimately save the world?",
-    "release_date_on_eshop": "2014-06-12",
-    "product_code": "CTR-N-TC3E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Fighting"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D3600",
+  "uid": "50010000023275",
+  "name": "Double Dragon II: The Revenge",
+  "formal_name": "Double Dragon II: The Revenge",
+  "description": "Billy and Jimmy Lee, the Double Dragons, are back to avenge the loss of Marion. In their quest to defeat the evil Shadow Warriors, Billy and Jimmy must complete nine missions, facing deadly street gangs, ninjas and huge mutant fighters. The duo must traverse through construction sites, alleyways and underwater hideouts complete with secret elevator shafts, spiked ceilings and razor-sharp mechanical claws. Can Billy and Jimmy contend with the enemies placed before them and ultimately save the world?",
+  "release_date_on_eshop": "2014-06-12",
+  "product_code": "CTR-N-TC3E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Fighting"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400000009FF00",
-    "uid": "50010000012020",
-    "name": "바이오하자드 레벌레이션스",
-    "formal_name": "바이오하자드 레벌레이션스",
-    "description": " 호러 게임으로 유명한 바이오하자드 시리즈 특유의 공포 분위기가 느껴지는 그래픽을 특수 안경 없이 3D 영상으로 볼  수 있으며, 새롭게 밝혀지는 진실과 거듭되는 반전으로 호러 영화와 같이 긴장감 넘치게 전개되는 스토리를 즐길 수 있습니다.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ABRK",
-    "platform_name": "닌텐도 3DS 패키지",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "어드벤처"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "로컬 플레이 대응",
-        "엇갈림 통신 대응",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "18"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "제명 : 바이오하자드 레벌레이션스\n상호 : 한국닌텐도(주)\n이용등급 : 청소년이용불가\n등급분류번호: CC-NV-120725-002\n등급분류 일자 : 2012.07.25.\n제작・배급업신고번호 : 2006000019 ",
-    "descriptors": []
+  "tid": "000400000009FF00",
+  "uid": "50010000012020",
+  "name": "바이오하자드 레벌레이션스",
+  "formal_name": "바이오하자드 레벌레이션스",
+  "description": " 호러 게임으로 유명한 바이오하자드 시리즈 특유의 공포 분위기가 느껴지는 그래픽을 특수 안경 없이 3D 영상으로 볼  수 있으며, 새롭게 밝혀지는 진실과 거듭되는 반전으로 호러 영화와 같이 긴장감 넘치게 전개되는 스토리를 즐길 수 있습니다.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ABRK",
+  "platform_name": "닌텐도 3DS 패키지",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "어드벤처"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "로컬 플레이 대응",
+    "엇갈림 통신 대응",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "18"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "제명 : 바이오하자드 레벌레이션스\n상호 : 한국닌텐도(주)\n이용등급 : 청소년이용불가\n등급분류번호: CC-NV-120725-002\n등급분류 일자 : 2012.07.25.\n제작・배급업신고번호 : 2006000019 ",
+  "descriptors": []
 }

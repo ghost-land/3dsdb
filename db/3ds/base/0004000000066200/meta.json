@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000066200",
-    "uid": "50010000007951",
-    "name": "Crash Time 3D",
-    "formal_name": "Crash Time 3D",
-    "description": "The ultimate car chase experience!<br>\n<br>\nIn Crash Time 3D the cops teach the\ncriminal fraternity a lesson by means\nof some very handy police equipment,\nnitro-powered stunts and plenty of\nhorsepower-fuelled justice. Your\nmission is: Full Speed! Sit yourself\ndown behind the wheel of a\ncustom-tuned patrol car and go up\nagainst some rock hard challenges.\nWill you be able to make the streets\nsafe once more? Criminality without\nlimits - every assignment is full of\nrisks - all in a day’s work for the men\nof Crash Time 3D!<br>\n<br>\n- High speed chases and explosive\naction sequences<br>\n<br>\n- Racing, ramming, drifting, tail ’em\nand track ’em down…<br>\n<br>\n- Destroy your opponents! With\nspike strips, nitrous, armour and much\nmore!<br>\n<br>\n- Experience explosive 3D action!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFBP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000066200",
+  "uid": "50010000007951",
+  "name": "Crash Time 3D",
+  "formal_name": "Crash Time 3D",
+  "description": "The ultimate car chase experience!<br>\n<br>\nIn Crash Time 3D the cops teach the\ncriminal fraternity a lesson by means\nof some very handy police equipment,\nnitro-powered stunts and plenty of\nhorsepower-fuelled justice. Your\nmission is: Full Speed! Sit yourself\ndown behind the wheel of a\ncustom-tuned patrol car and go up\nagainst some rock hard challenges.\nWill you be able to make the streets\nsafe once more? Criminality without\nlimits - every assignment is full of\nrisks - all in a day’s work for the men\nof Crash Time 3D!<br>\n<br>\n- High speed chases and explosive\naction sequences<br>\n<br>\n- Racing, ramming, drifting, tail ’em\nand track ’em down…<br>\n<br>\n- Destroy your opponents! With\nspike strips, nitrous, armour and much\nmore!<br>\n<br>\n- Experience explosive 3D action!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFBP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

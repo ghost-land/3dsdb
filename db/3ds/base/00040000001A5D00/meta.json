@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001A5D00",
-    "uid": "50010000041474",
-    "name": "Japanese Rail Sim 3D Monorail Trip to Okinawa",
-    "formal_name": "Japanese Rail Sim 3D Monorail Trip to Okinawa",
-    "description": "This game is set on the Yui Rail, a railway located at the southern most point of Japan amidst the tropical atmosphere of Okinawa prefecture.\n\nThe monorail travels along a grand total of 12.9 kilometers of railway.\n<br>\nThe Yui Rail runs entirely on an elevated railway!\n<br>\nFrom a height of 20 metres from the ground, you can look out the window and feel like you are taking a walk above the city.\n<br>\nNight Mode is also included.\nChanging from Day Mode, enjoy the peaceful glittering lights of the city at night.\n<br>\nSimple to operate! With just one lever you can easily control power and breaking.\nAim for a high rating by paying extra attention to the speed limit as you take on the steep slopes and sudden curves with the monorail!\n<br>\nEnjoy your time as a monorail conductor as you take in the refreshing view while speeding across the elevated railway.",
-    "release_date_on_eshop": "2016-08-25",
-    "product_code": "CTR-N-BTYE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001A5D00",
+  "uid": "50010000041474",
+  "name": "Japanese Rail Sim 3D Monorail Trip to Okinawa",
+  "formal_name": "Japanese Rail Sim 3D Monorail Trip to Okinawa",
+  "description": "This game is set on the Yui Rail, a railway located at the southern most point of Japan amidst the tropical atmosphere of Okinawa prefecture.\n\nThe monorail travels along a grand total of 12.9 kilometers of railway.\n<br>\nThe Yui Rail runs entirely on an elevated railway!\n<br>\nFrom a height of 20 metres from the ground, you can look out the window and feel like you are taking a walk above the city.\n<br>\nNight Mode is also included.\nChanging from Day Mode, enjoy the peaceful glittering lights of the city at night.\n<br>\nSimple to operate! With just one lever you can easily control power and breaking.\nAim for a high rating by paying extra attention to the speed limit as you take on the steep slopes and sudden curves with the monorail!\n<br>\nEnjoy your time as a monorail conductor as you take in the refreshing view while speeding across the elevated railway.",
+  "release_date_on_eshop": "2016-08-25",
+  "product_code": "CTR-N-BTYE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

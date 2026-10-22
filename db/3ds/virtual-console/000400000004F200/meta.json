@@ -1,26 +1,26 @@
 {
-    "tid": "000400000004F200",
-    "uid": "50010000007436",
-    "name": "Mega Man™:\nDr. Wily's Revenge",
-    "formal_name": "Mega Man™:\nDr. Wily's Revenge",
-    "description": "They're alive, and ripping up the\ntown!<br>\n<br>\nInsane industrial wizard Dr. Wily has\nrevived 8 of his Robot Masters in\nanother try at taking over the world.<br>\n<br>\nDr. Wily's really raving this time. As\nyou blaze and blast your way closer,\nhe runs further into even nastier\nmazes, and hides behind terrifying\ntons of mechanized maniacs, including\nthe all-new, Mega Man Hunter!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAWP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004F200",
+  "uid": "50010000007436",
+  "name": "Mega Man™:\nDr. Wily's Revenge",
+  "formal_name": "Mega Man™:\nDr. Wily's Revenge",
+  "description": "They're alive, and ripping up the\ntown!<br>\n<br>\nInsane industrial wizard Dr. Wily has\nrevived 8 of his Robot Masters in\nanother try at taking over the world.<br>\n<br>\nDr. Wily's really raving this time. As\nyou blaze and blast your way closer,\nhe runs further into even nastier\nmazes, and hides behind terrifying\ntons of mechanized maniacs, including\nthe all-new, Mega Man Hunter!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAWP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

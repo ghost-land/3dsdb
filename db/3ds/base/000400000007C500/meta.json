@@ -1,33 +1,33 @@
 {
-    "tid": "000400000007C500",
-    "uid": "50010000008702",
-    "name": "Dillon's Rolling Western™",
-    "formal_name": "Dillon's Rolling Western™",
-    "description": "Ravenous rock monsters are raiding\nvillages to feast on their livestock,\nand there's only one armadillo tough\nenough to stop them: ranger Dillon!<br>\n<br>\nDefend villages against waves of\ncreatures - building gun towers and\nlookouts - and battle the varmints\nwith Dillon's sharp claws, awesome\nRoll Attack, Grind Attack and more.<br>\n<br>\nGather ore from mines to make\ndefence gates for the village, and raid\nancient ruins for hidden treasure, too.<br>\n<br>\nDillon’s Rolling Western puts a new\nspin on the tower defence genre!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JAMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007C500",
+  "uid": "50010000008702",
+  "name": "Dillon's Rolling Western™",
+  "formal_name": "Dillon's Rolling Western™",
+  "description": "Ravenous rock monsters are raiding\nvillages to feast on their livestock,\nand there's only one armadillo tough\nenough to stop them: ranger Dillon!<br>\n<br>\nDefend villages against waves of\ncreatures - building gun towers and\nlookouts - and battle the varmints\nwith Dillon's sharp claws, awesome\nRoll Attack, Grind Attack and more.<br>\n<br>\nGather ore from mines to make\ndefence gates for the village, and raid\nancient ruins for hidden treasure, too.<br>\n<br>\nDillon’s Rolling Western puts a new\nspin on the tower defence genre!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JAMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

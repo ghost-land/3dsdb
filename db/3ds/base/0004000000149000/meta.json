@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000149000",
-    "uid": "50010000026576",
-    "name": "Riding Star 3D",
-    "formal_name": "Riding Star 3D",
-    "description": "Train your horse in show jumping, dressage and military to compete in prestigious tournaments. Take loving care of your champion in its stable – only as a strong team you can win!<BR>\n<br><BR>\n<br>The most professional riding simulation in fantastic stereoscopic 3D view<BR>\n<br>Master challenging show-jumping, dressage and military events<BR>\n<br>Train your horses speed, stamina and jumping power well<BR>\n<br>Look after your horse in the stable: Brush and stroke it, pick its hooves out or give it more food<BR>\n<br>Ride in hot seat mode with up to 6 players, compete in team play mode against other nations with up to 4 players or ride a different horse in the horse swap<BR>\n<br>Supports Circle Pad controls of your Nintendo 3DS",
-    "release_date_on_eshop": "2014-10-09",
-    "product_code": "CTR-N-ARSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Sports",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000149000",
+  "uid": "50010000026576",
+  "name": "Riding Star 3D",
+  "formal_name": "Riding Star 3D",
+  "description": "Train your horse in show jumping, dressage and military to compete in prestigious tournaments. Take loving care of your champion in its stable – only as a strong team you can win!<BR>\n<br><BR>\n<br>The most professional riding simulation in fantastic stereoscopic 3D view<BR>\n<br>Master challenging show-jumping, dressage and military events<BR>\n<br>Train your horses speed, stamina and jumping power well<BR>\n<br>Look after your horse in the stable: Brush and stroke it, pick its hooves out or give it more food<BR>\n<br>Ride in hot seat mode with up to 6 players, compete in team play mode against other nations with up to 4 players or ride a different horse in the horse swap<BR>\n<br>Supports Circle Pad controls of your Nintendo 3DS",
+  "release_date_on_eshop": "2014-10-09",
+  "product_code": "CTR-N-ARSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Sports",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

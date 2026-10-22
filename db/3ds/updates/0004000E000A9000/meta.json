@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E000A9000",
-    "uid": "50010000013119",
-    "name": "New Style Boutique™\nUpdate",
-    "formal_name": "New Style Boutique™\nUpdate",
-    "description": "An update for New Style Boutique is\nnow available from Nintendo eShop.\nThis will update the software to\nVersion 1.1.\n<br/><br/>\nThis update corrects an issue that\noccurs after receiving the Open Back\nTurtleneck item in black. (Using the\nwardrobe to change clothes after\nreceiving this item may cause the item\nto disappear.)\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\n• If the update is successful, \"Ver.\n1.1\" will appear on the title screen\nafter launching the game.\n<br/><br/>\nWe apologise for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "release_date_on_eshop": "2013-01-23",
-    "product_code": "CTR-U-ACLP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000A9000",
+  "uid": "50010000013119",
+  "name": "New Style Boutique™\nUpdate",
+  "formal_name": "New Style Boutique™\nUpdate",
+  "description": "An update for New Style Boutique is\nnow available from Nintendo eShop.\nThis will update the software to\nVersion 1.1.\n<br/><br/>\nThis update corrects an issue that\noccurs after receiving the Open Back\nTurtleneck item in black. (Using the\nwardrobe to change clothes after\nreceiving this item may cause the item\nto disappear.)\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\n• If the update is successful, \"Ver.\n1.1\" will appear on the title screen\nafter launching the game.\n<br/><br/>\nWe apologise for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+  "release_date_on_eshop": "2013-01-23",
+  "product_code": "CTR-U-ACLP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

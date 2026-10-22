@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001C1700",
-    "uid": "50010000042822",
-    "name": "Of Mice And Sand",
-    "formal_name": "Of Mice And Sand",
-    "description": "In Of Mice And Sand, the mice drive a Desert Ship as their mobile fortress to travel around the planet.\n<br>\n<br>By ordering the mice crew living in the Desert ship, you can build facilities on the ship and make food for breeding the mice with various items. With the development of the ship, more mice will join in and they can accomplish more jobs. Don't let them starve and make them rich.\n<br>Your final goal is to reach the other side of the desert and find the legendary land of gold to the east, El Dorado!",
-    "release_date_on_eshop": "2017-06-08",
-    "product_code": "CTR-N-KSZP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C1700",
+  "uid": "50010000042822",
+  "name": "Of Mice And Sand",
+  "formal_name": "Of Mice And Sand",
+  "description": "In Of Mice And Sand, the mice drive a Desert Ship as their mobile fortress to travel around the planet.\n<br>\n<br>By ordering the mice crew living in the Desert ship, you can build facilities on the ship and make food for breeding the mice with various items. With the development of the ship, more mice will join in and they can accomplish more jobs. Don't let them starve and make them rich.\n<br>Your final goal is to reach the other side of the desert and find the legendary land of gold to the east, El Dorado!",
+  "release_date_on_eshop": "2017-06-08",
+  "product_code": "CTR-N-KSZP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

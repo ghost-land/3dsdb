@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B505445",
-    "uid": "50010000003177",
-    "name": "Link 'n' Launch™",
-    "formal_name": "Link 'n' Launch™",
-    "description": "Take your puzzle-solving skills to new heights in Link ‘n’ Launch, a puzzle game in which you move tiles to create a path that connects fuel to your rocket, blasting it through space. Complete the basic training mode to learn how to play Link ‘n’ Launch, and then buckle in for the ride through the robust Missions and Puzzles modes. Missions mode has you propelling the rocket through space to reach the target planet within the three-minute time limit, while Puzzles mode challenges you to clear all fuel and pipe tiles from the screen. In both modes, not only do you need to create a path to keep your rocket fueled, but you’ll have to also account for immovable tiles and special tiles that add parts to upgrade your rocket or give you additional time to complete the level. All while keeping your rocket’s flight path within the established boundaries. The countdown to launch has started—are you prepared?",
-    "release_date_on_eshop": "2010-02-08",
-    "product_code": "TWL-N-KPTE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B505445",
+  "uid": "50010000003177",
+  "name": "Link 'n' Launch™",
+  "formal_name": "Link 'n' Launch™",
+  "description": "Take your puzzle-solving skills to new heights in Link ‘n’ Launch, a puzzle game in which you move tiles to create a path that connects fuel to your rocket, blasting it through space. Complete the basic training mode to learn how to play Link ‘n’ Launch, and then buckle in for the ride through the robust Missions and Puzzles modes. Missions mode has you propelling the rocket through space to reach the target planet within the three-minute time limit, while Puzzles mode challenges you to clear all fuel and pipe tiles from the screen. In both modes, not only do you need to create a path to keep your rocket fueled, but you’ll have to also account for immovable tiles and special tiles that add parts to upgrade your rocket or give you additional time to complete the level. All while keeping your rocket’s flight path within the established boundaries. The countdown to launch has started—are you prepared?",
+  "release_date_on_eshop": "2010-02-08",
+  "product_code": "TWL-N-KPTE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

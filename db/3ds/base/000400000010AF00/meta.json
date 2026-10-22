@@ -1,34 +1,34 @@
 {
-    "tid": "000400000010AF00",
-    "uid": "50010000030076",
-    "name": "Shantae and the Pirate's Curse",
-    "formal_name": "Shantae and the Pirate's Curse",
-    "description": "50% off if you own Shantae and the\nPirate's Curse on Wii U™!*<br><br>\n*Your Wii U and Nintendo 3DS™ must\nbe linked with the same Nintendo\nNetwork ID.\n<br><br>\nEmbark on a brand new adventure\nwith Shantae, the hair-whipping belly\ndancing genie. When she loses her\nmagic, Shantae must team up with her\nnemesis, the nefarious pirate Risky\nBoots in order to save Sequin Land\nfrom an evil curse. As a pirate,\nShantae gains new weapons to\nadvance her quest, slay monsters,\nbattle epic bosses… and hopefully get\nher magic back in the bargain! But can\nshe really trust her deadliest\nenemy?<br>\n<br>\nThe third Shantae game is the biggest\nyet! Beyond Sequin Land lie cursed\nislands and labyrinths each hiding a\nnew piece of Pirate Gear - Flintlock\nPistol, Pirate Hat, Scimitar, Risky's\nBoots, and even a Cannon. Upgrade\nShantae's hair and weapons or unlock\nadvanced Fighter's Moves. Locate\nmaps, return lost Heart Squids,\ncollect rare loot, and laugh out loud\nat the weird, wild, and wonderfully\nhumorous cast of characters.\nIncredible stereoscopic visuals,\nunlockable Pirate-Mode, multiple\nendings, and an unforgettable\nsoundtrack make this one game you\nwon't want to miss!",
-    "release_date_on_eshop": "2015-02-05",
-    "product_code": "CTR-N-JSAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010AF00",
+  "uid": "50010000030076",
+  "name": "Shantae and the Pirate's Curse",
+  "formal_name": "Shantae and the Pirate's Curse",
+  "description": "50% off if you own Shantae and the\nPirate's Curse on Wii U™!*<br><br>\n*Your Wii U and Nintendo 3DS™ must\nbe linked with the same Nintendo\nNetwork ID.\n<br><br>\nEmbark on a brand new adventure\nwith Shantae, the hair-whipping belly\ndancing genie. When she loses her\nmagic, Shantae must team up with her\nnemesis, the nefarious pirate Risky\nBoots in order to save Sequin Land\nfrom an evil curse. As a pirate,\nShantae gains new weapons to\nadvance her quest, slay monsters,\nbattle epic bosses… and hopefully get\nher magic back in the bargain! But can\nshe really trust her deadliest\nenemy?<br>\n<br>\nThe third Shantae game is the biggest\nyet! Beyond Sequin Land lie cursed\nislands and labyrinths each hiding a\nnew piece of Pirate Gear - Flintlock\nPistol, Pirate Hat, Scimitar, Risky's\nBoots, and even a Cannon. Upgrade\nShantae's hair and weapons or unlock\nadvanced Fighter's Moves. Locate\nmaps, return lost Heart Squids,\ncollect rare loot, and laugh out loud\nat the weird, wild, and wonderfully\nhumorous cast of characters.\nIncredible stereoscopic visuals,\nunlockable Pirate-Mode, multiple\nendings, and an unforgettable\nsoundtrack make this one game you\nwon't want to miss!",
+  "release_date_on_eshop": "2015-02-05",
+  "product_code": "CTR-N-JSAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

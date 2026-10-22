@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B415845",
-    "uid": "50010000001102",
-    "name": "Animal Boxing",
-    "formal_name": "Animal Boxing",
-    "description": "Animal Boxing is one of the first games to require inverting the Nintendo DSi system to play. Use the stylus for motion-based controls. Throw jabs, hooks and uppercuts with simple stylus movements.\n\nTake On All Challengers:\nStep into the ring against 50 wild fighters with different fighting styles. Go toe-to-toe against Lee the cat, Sauda the rhino, Fore the bull, and many more! \n\nCreate A Fighter:\nBuild your own male or female character, then step into the ring in eight unique environments. Customize your gloves, clothing, hairstyle, and more! \n\nBattle a Friend:\nFace off against another player with DS Wireless Play.",
-    "release_date_on_eshop": "2011-01-17",
-    "product_code": "TWL-N-KAXE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Sports",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415845",
+  "uid": "50010000001102",
+  "name": "Animal Boxing",
+  "formal_name": "Animal Boxing",
+  "description": "Animal Boxing is one of the first games to require inverting the Nintendo DSi system to play. Use the stylus for motion-based controls. Throw jabs, hooks and uppercuts with simple stylus movements.\n\nTake On All Challengers:\nStep into the ring against 50 wild fighters with different fighting styles. Go toe-to-toe against Lee the cat, Sauda the rhino, Fore the bull, and many more! \n\nCreate A Fighter:\nBuild your own male or female character, then step into the ring in eight unique environments. Customize your gloves, clothing, hairstyle, and more! \n\nBattle a Friend:\nFace off against another player with DS Wireless Play.",
+  "release_date_on_eshop": "2011-01-17",
+  "product_code": "TWL-N-KAXE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Sports",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "000400000008C900",
-    "uid": "50010000010846",
-    "name": "Marvel Pinball 3D",
-    "formal_name": "Marvel Pinball 3D",
-    "description": "The critically acclaimed Marvel\nPinball series from Zen Studios, the\ndefinitive leader in videogame pinball,\nis now available for Nintendo 3DS™!\nMarvel Pinball 3D is the ultimate\nSuper Hero pinball experience,\nfeaturing original tables based on\ncharacters from the Marvel Universe.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JMVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Simulation"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008C900",
+  "uid": "50010000010846",
+  "name": "Marvel Pinball 3D",
+  "formal_name": "Marvel Pinball 3D",
+  "description": "The critically acclaimed Marvel\nPinball series from Zen Studios, the\ndefinitive leader in videogame pinball,\nis now available for Nintendo 3DS™!\nMarvel Pinball 3D is the ultimate\nSuper Hero pinball experience,\nfeaturing original tables based on\ncharacters from the Marvel Universe.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JMVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Simulation"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

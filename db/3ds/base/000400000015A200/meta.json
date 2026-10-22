@@ -1,35 +1,35 @@
 {
-    "tid": "000400000015A200",
-    "uid": "50010000031296",
-    "name": "OlliOlli",
-    "formal_name": "OlliOlli",
-    "description": "If you download the Wii U™ version,\nyou can get the Nintendo 3DS™\nversion for free!\n<br/><br/>\n(Your Wii U and Nintendo 3DS must\nbe linked with the same Nintendo\nNetwork ID)\n<br/><br/>\nOlliOlli mixes addictive one-life\ngameplay with over 120 tricks and\ngrinds across 50 deviously crafted\nlevels, 250 Challenges, Spots Mode\nand Daily Grind. Not enough for you?\nComplete all challenges to unlock the\nsuper skilful RAD Mode!\n<br/><br/>\nRack up the biggest and coolest\ncombos along the way then time your\nlanding to perfection to rule the\nleader-boards.\n<br/><br/>\nCompete across the world in all\nmodes to get the highest scores on\nevery Level and Spot.\n<br/><br/>\nDaily Grind gives you 24 hours to\nchallenge the world at a randomly\nselected Spot. You can practice as\nmany times as you like, but you only\nget one chance to set your score.\nJust don’t slam on your face... (you\nwill slam on your face!)",
-    "release_date_on_eshop": "2015-03-05",
-    "product_code": "CTR-N-KLLP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Sports",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015A200",
+  "uid": "50010000031296",
+  "name": "OlliOlli",
+  "formal_name": "OlliOlli",
+  "description": "If you download the Wii U™ version,\nyou can get the Nintendo 3DS™\nversion for free!\n<br/><br/>\n(Your Wii U and Nintendo 3DS must\nbe linked with the same Nintendo\nNetwork ID)\n<br/><br/>\nOlliOlli mixes addictive one-life\ngameplay with over 120 tricks and\ngrinds across 50 deviously crafted\nlevels, 250 Challenges, Spots Mode\nand Daily Grind. Not enough for you?\nComplete all challenges to unlock the\nsuper skilful RAD Mode!\n<br/><br/>\nRack up the biggest and coolest\ncombos along the way then time your\nlanding to perfection to rule the\nleader-boards.\n<br/><br/>\nCompete across the world in all\nmodes to get the highest scores on\nevery Level and Spot.\n<br/><br/>\nDaily Grind gives you 24 hours to\nchallenge the world at a randomly\nselected Spot. You can practice as\nmany times as you like, but you only\nget one chance to set your score.\nJust don’t slam on your face... (you\nwill slam on your face!)",
+  "release_date_on_eshop": "2015-03-05",
+  "product_code": "CTR-N-KLLP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Sports",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

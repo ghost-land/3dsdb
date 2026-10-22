@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70EC00",
-    "uid": "50010000043518",
-    "name": "Physical contact: 2048",
-    "formal_name": "Physical contact: 2048",
-    "description": "Physical contact: 2048 is a casual but head-minded game that aims at higher values by coalescing the same blocks in the region.\n<br>\n<br>For better grades, polite operation is necessary.\n<br>\n<br>It is a game series where two people can play against each other.\n<br>\n<br>Any two partners, including parents, friends and lovers are suitable.\n<br>\n<br>Because it is simple and has rules that everyone knows, you can enjoy the game immediately.\n<br>\n<br>If you use the handicap function, you can level the playing field.\n<br>\n<br>Because the match times are short, you can play anytime and anywhere whenever you feel like it.\n<br>\n<br>Of course there is also a single-player mode.\n<br>\n<br>Please enjoy it together!",
-    "release_date_on_eshop": "2017-10-12",
-    "product_code": "KTR-N-CETP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70EC00",
+  "uid": "50010000043518",
+  "name": "Physical contact: 2048",
+  "formal_name": "Physical contact: 2048",
+  "description": "Physical contact: 2048 is a casual but head-minded game that aims at higher values by coalescing the same blocks in the region.\n<br>\n<br>For better grades, polite operation is necessary.\n<br>\n<br>It is a game series where two people can play against each other.\n<br>\n<br>Any two partners, including parents, friends and lovers are suitable.\n<br>\n<br>Because it is simple and has rules that everyone knows, you can enjoy the game immediately.\n<br>\n<br>If you use the handicap function, you can level the playing field.\n<br>\n<br>Because the match times are short, you can play anytime and anywhere whenever you feel like it.\n<br>\n<br>Of course there is also a single-player mode.\n<br>\n<br>Please enjoy it together!",
+  "release_date_on_eshop": "2017-10-12",
+  "product_code": "KTR-N-CETP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

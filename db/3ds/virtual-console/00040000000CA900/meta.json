@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000CA900",
-    "uid": "50010000020813",
-    "name": "Renegade™",
-    "formal_name": "Renegade™",
-    "description": "Battle your way through subways, parks, alleyways and parking lots. Use your arsenal of kicks, punches\n(including the infamous sit-on punch) and jump kicks, as well as a variety of throws to knock your opponents into submission. Along the way, pick up items like a hamburger that restores your life, a heart that increases your lives by one, a power-up to increase your attack strength, and a speed item that gives you a speed burst while on your motorcycle.\n<br><br>\nYou'll need all the help you can get to take out your aggression on street punks, thugs, outlaw bikers, killer kung-fu females and an array of bosses standing in your way. Take the law into your own hands! Defeat the countless villians that are loitering in the streets, and take your city back like the renegade you are!",
-    "release_date_on_eshop": "2014-02-27",
-    "product_code": "CTR-N-TCLE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000CA900",
+  "uid": "50010000020813",
+  "name": "Renegade™",
+  "formal_name": "Renegade™",
+  "description": "Battle your way through subways, parks, alleyways and parking lots. Use your arsenal of kicks, punches\n(including the infamous sit-on punch) and jump kicks, as well as a variety of throws to knock your opponents into submission. Along the way, pick up items like a hamburger that restores your life, a heart that increases your lives by one, a power-up to increase your attack strength, and a speed item that gives you a speed burst while on your motorcycle.\n<br><br>\nYou'll need all the help you can get to take out your aggression on street punks, thugs, outlaw bikers, killer kung-fu females and an array of bosses standing in your way. Take the law into your own hands! Defeat the countless villians that are loitering in the streets, and take your city back like the renegade you are!",
+  "release_date_on_eshop": "2014-02-27",
+  "product_code": "CTR-N-TCLE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

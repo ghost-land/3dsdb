@@ -1,32 +1,32 @@
 {
-    "tid": "0004000200149301",
-    "uid": "50010000027619",
-    "name": "WRC The Official Game",
-    "formal_name": "WRC FIA World Rally Championship\nThe Official Game",
-    "description": "Drive all the cars and compete\nagainst all the drivers of the 2014 FIA\nWorld Rally Championship\n<br/><br/>\nAll weather conditions on all types of\nroad surfaces\n<br/><br/>\nRealistic, real-time damage\nmanagement\n<br/><br/>\nVarious difficulty levels, from\nbeginner to expert",
-    "release_date_on_eshop": "2014-12-04",
-    "product_code": "CTR-P-BWRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200149301",
+  "uid": "50010000027619",
+  "name": "WRC The Official Game",
+  "formal_name": "WRC FIA World Rally Championship\nThe Official Game",
+  "description": "Drive all the cars and compete\nagainst all the drivers of the 2014 FIA\nWorld Rally Championship\n<br/><br/>\nAll weather conditions on all types of\nroad surfaces\n<br/><br/>\nRealistic, real-time damage\nmanagement\n<br/><br/>\nVarious difficulty levels, from\nbeginner to expert",
+  "release_date_on_eshop": "2014-12-04",
+  "product_code": "CTR-P-BWRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

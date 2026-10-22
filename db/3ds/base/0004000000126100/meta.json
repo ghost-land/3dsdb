@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000126100",
-    "uid": "50010000028495",
-    "name": "Monster Hunter™ 4 Ultimate",
-    "formal_name": "Monster Hunter™ 4 Ultimate",
-    "description": "A demo is available for this software!\n<br>To download it, touch the \"Monster\n<br>Hunter 4 Ultimate Demo\" link in the\n<br>\"related searches\" section near the\n<br>bottom of this page to be guided\n<br>towards the separate demo game\n<br>page.\n<br><br/><br/>\n<br>Take up your weapons, greet your\n<br>fellow adventurers and head for the\n<br>field to battle huge, fearsome\n<br>creatures in Monster Hunter 4\n<br>Ultimate on Nintendo 3DS and 2DS!\n<br>With full online and local co-op play,\n<br>the fight for the land looms large in\n<br>this sprawling action RPG!\n<br><br/><br/>\n<br>Your first steps in a deep,\n<br>narrative-led adventure see you join a\n<br>travelling caravan as its designated\n<br>hunter, sworn to protect the people\n<br>from wild monsters that roam the\n<br>land. Choose your quarry, hunt it\n<br>down, and despatch it with a\n<br>combination of weapons and tactics.\n<br>Setting out, you’ll discover a plethora\n<br>of new content, including a wealth of\n<br>arms and armour to forge and\n<br>customise, and scores of\n<br>undiscovered beasts to hunt. Terrain is\n<br>much more vertical than before –\n<br>assault your enemy from above, and\n<br>deliver a flurry of blows while holding\n<br>on for dear life!\n<br><br/><br/>\n<br>Make no mistake – Monster Hunter 4\n<br>Ultimate is a strategic, expansive and\n<br>epic action RPG just waiting to be\n<br>discovered. Glory awaits!",
-    "release_date_on_eshop": "2015-02-13",
-    "product_code": "CTR-P-BFGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000126100",
+  "uid": "50010000028495",
+  "name": "Monster Hunter™ 4 Ultimate",
+  "formal_name": "Monster Hunter™ 4 Ultimate",
+  "description": "A demo is available for this software!\n<br>To download it, touch the \"Monster\n<br>Hunter 4 Ultimate Demo\" link in the\n<br>\"related searches\" section near the\n<br>bottom of this page to be guided\n<br>towards the separate demo game\n<br>page.\n<br><br/><br/>\n<br>Take up your weapons, greet your\n<br>fellow adventurers and head for the\n<br>field to battle huge, fearsome\n<br>creatures in Monster Hunter 4\n<br>Ultimate on Nintendo 3DS and 2DS!\n<br>With full online and local co-op play,\n<br>the fight for the land looms large in\n<br>this sprawling action RPG!\n<br><br/><br/>\n<br>Your first steps in a deep,\n<br>narrative-led adventure see you join a\n<br>travelling caravan as its designated\n<br>hunter, sworn to protect the people\n<br>from wild monsters that roam the\n<br>land. Choose your quarry, hunt it\n<br>down, and despatch it with a\n<br>combination of weapons and tactics.\n<br>Setting out, you’ll discover a plethora\n<br>of new content, including a wealth of\n<br>arms and armour to forge and\n<br>customise, and scores of\n<br>undiscovered beasts to hunt. Terrain is\n<br>much more vertical than before –\n<br>assault your enemy from above, and\n<br>deliver a flurry of blows while holding\n<br>on for dear life!\n<br><br/><br/>\n<br>Make no mistake – Monster Hunter 4\n<br>Ultimate is a strategic, expansive and\n<br>epic action RPG just waiting to be\n<br>discovered. Glory awaits!",
+  "release_date_on_eshop": "2015-02-13",
+  "product_code": "CTR-P-BFGP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

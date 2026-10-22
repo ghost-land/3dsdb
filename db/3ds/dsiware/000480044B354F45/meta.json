@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B354F45",
-    "uid": "50010000034755",
-    "name": "G.G Series VECTOR",
-    "formal_name": "G.G Series VECTOR",
-    "description": "Falling blocks with arrows need to be arranged according to color and arrow direction! Manipulate the blocks and their arrows to create a path or \"Vector\" of four or more to clear them from the screen. If the blocks pile up to the top of the screen, it's game over. Choose from Easy to Expert mode. Beware, blocks may change direction randomly without warning on the highest difficulty setting. Stay alert and aim for the highest score and the largest combo in your goal for mastery over the \"Vector\"!",
-    "release_date_on_eshop": "2015-07-16",
-    "product_code": "TWL-N-K5OE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B354F45",
+  "uid": "50010000034755",
+  "name": "G.G Series VECTOR",
+  "formal_name": "G.G Series VECTOR",
+  "description": "Falling blocks with arrows need to be arranged according to color and arrow direction! Manipulate the blocks and their arrows to create a path or \"Vector\" of four or more to clear them from the screen. If the blocks pile up to the top of the screen, it's game over. Choose from Easy to Expert mode. Beware, blocks may change direction randomly without warning on the highest difficulty setting. Stay alert and aim for the highest score and the largest combo in your goal for mastery over the \"Vector\"!",
+  "release_date_on_eshop": "2015-07-16",
+  "product_code": "TWL-N-K5OE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

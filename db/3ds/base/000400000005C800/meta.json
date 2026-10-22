@@ -1,29 +1,29 @@
 {
-    "tid": "000400000005C800",
-    "uid": "50010000011489",
-    "name": "Crosswords Plus",
-    "formal_name": "Crosswords Plus",
-    "description": "The Crosswords Plus game offers over 1,000 professionally designed crossword puzzles at multiple skill levels to challenge all types of players. It is all controlled with the stylus and touch screen to input your answers. Within the crossword puzzles, players will discover 4 different skill levels (Easy, Medium, Hard, and Expert) and an accessible Hint system.  \n<br><br>\nPlayers can work through puzzles at their own pace as they improve their skills. Additionally, new crossword puzzles will be available for download through the SpotPass™ feature at no additional charge (wireless Internet access required). You can also unlock new puzzles by connecting with others through the StreetPass™ feature.  And with the new giant-sized puzzles, players will feel like they are working through multiple crossword puzzles at one time.",
-    "release_date_on_eshop": "2012-10-01",
-    "product_code": "CTR-N-AQ8E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000005C800",
+  "uid": "50010000011489",
+  "name": "Crosswords Plus",
+  "formal_name": "Crosswords Plus",
+  "description": "The Crosswords Plus game offers over 1,000 professionally designed crossword puzzles at multiple skill levels to challenge all types of players. It is all controlled with the stylus and touch screen to input your answers. Within the crossword puzzles, players will discover 4 different skill levels (Easy, Medium, Hard, and Expert) and an accessible Hint system.  \n<br><br>\nPlayers can work through puzzles at their own pace as they improve their skills. Additionally, new crossword puzzles will be available for download through the SpotPass™ feature at no additional charge (wireless Internet access required). You can also unlock new puzzles by connecting with others through the StreetPass™ feature.  And with the new giant-sized puzzles, players will feel like they are working through multiple crossword puzzles at one time.",
+  "release_date_on_eshop": "2012-10-01",
+  "product_code": "CTR-N-AQ8E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

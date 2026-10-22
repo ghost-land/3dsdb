@@ -1,35 +1,35 @@
 {
-    "tid": "0004008C0F708700",
-    "uid": "50010000042357",
-    "name": "Runbow Pocket",
-    "formal_name": "Runbow Pocket",
-    "description": "Runbow Pocket is a fast, frantic game where you can conquer over 145 levels in Adventure and The Bowhemoth, or go head to head in Run, Arena, and King of the Hill online. The world changes with each swipe of colour, so you'll have to stay on your toes as platforms and obstacles disappear.",
-    "release_date_on_eshop": "2017-06-20",
-    "product_code": "KTR-P-CDRE",
-    "platform_name": "New 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Racing"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Online Play Only",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Mild Fantasy Violence"
-    ]
+  "tid": "0004008C0F708700",
+  "uid": "50010000042357",
+  "name": "Runbow Pocket",
+  "formal_name": "Runbow Pocket",
+  "description": "Runbow Pocket is a fast, frantic game where you can conquer over 145 levels in Adventure and The Bowhemoth, or go head to head in Run, Arena, and King of the Hill online. The world changes with each swipe of colour, so you'll have to stay on your toes as platforms and obstacles disappear.",
+  "release_date_on_eshop": "2017-06-20",
+  "product_code": "KTR-P-CDRE",
+  "platform_name": "New 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Racing"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Online Play Only",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ]
 }

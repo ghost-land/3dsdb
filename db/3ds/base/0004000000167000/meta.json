@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000167000",
-    "uid": "50010000034975",
-    "name": "I Love My Dogs",
-    "formal_name": "I Love My Dogs",
-    "description": "Become a best friend to the animals\nby taking in abandoned puppies. Look\nafter them every day so they flourish\nwith their new family: feed them, pat\nthem, train them, groom them and\nplay with them.<br/>\nDiscover the town around you: take\nthem for walks in the park, enter\ncompetitions on the beach and buy\nnew toys and accessories for them at\nthe market.\n<br/><br/>\n- 8 dog breeds: Dalmatian, Husky,\nGolden Retriever, German Shepherd,\nAustralian Kelpie, Beagle, Border\nCollie, Brittany Spaniel.<br/>\n- 21 activities for playing and\ntraining your puppies.<br/>\n- Change the way they look with a\nwide range of accessories.",
-    "release_date_on_eshop": "2015-07-16",
-    "product_code": "CTR-P-ALWP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000167000",
+  "uid": "50010000034975",
+  "name": "I Love My Dogs",
+  "formal_name": "I Love My Dogs",
+  "description": "Become a best friend to the animals\nby taking in abandoned puppies. Look\nafter them every day so they flourish\nwith their new family: feed them, pat\nthem, train them, groom them and\nplay with them.<br/>\nDiscover the town around you: take\nthem for walks in the park, enter\ncompetitions on the beach and buy\nnew toys and accessories for them at\nthe market.\n<br/><br/>\n- 8 dog breeds: Dalmatian, Husky,\nGolden Retriever, German Shepherd,\nAustralian Kelpie, Beagle, Border\nCollie, Brittany Spaniel.<br/>\n- 21 activities for playing and\ntraining your puppies.<br/>\n- Change the way they look with a\nwide range of accessories.",
+  "release_date_on_eshop": "2015-07-16",
+  "product_code": "CTR-P-ALWP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

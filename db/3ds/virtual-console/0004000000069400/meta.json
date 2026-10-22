@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000069400",
-    "uid": "50010000011186",
-    "name": "Kid Icarus™\nOf Myths and Monsters",
-    "formal_name": "Kid Icarus™\nOf Myths and Monsters",
-    "description": "Original Release Date: November 1991\n<br><br>\nAll of Angel Land is up to its halos in woes! Mythical monsters are running rampant and Pit, the original Kid Icarus, must save the realm again. Armed with his trusty bow, he'll zap the bad guys and find the Three Sacred Treasures hidden by Palutena. Only after this grueling training will he be strong enough to take on the dark forces behind Angel Land's troubles.\n<br><br>\nPit will encounter old friends and new enemies, from helpful Centurions to the dreaded Eggplant Wizard, as he journeys from the depths of the underworld to the towers of the sky palace. Find hammers to shatter special walls and reveal helpful items. Collect hearts by fighting off Pit's foes. Train hard and battle harder. Pit's challenges make the labors of Hercules look like a walk in the park!",
-    "release_date_on_eshop": "2012-07-19",
-    "product_code": "CTR-N-RBLE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000069400",
+  "uid": "50010000011186",
+  "name": "Kid Icarus™\nOf Myths and Monsters",
+  "formal_name": "Kid Icarus™\nOf Myths and Monsters",
+  "description": "Original Release Date: November 1991\n<br><br>\nAll of Angel Land is up to its halos in woes! Mythical monsters are running rampant and Pit, the original Kid Icarus, must save the realm again. Armed with his trusty bow, he'll zap the bad guys and find the Three Sacred Treasures hidden by Palutena. Only after this grueling training will he be strong enough to take on the dark forces behind Angel Land's troubles.\n<br><br>\nPit will encounter old friends and new enemies, from helpful Centurions to the dreaded Eggplant Wizard, as he journeys from the depths of the underworld to the towers of the sky palace. Find hammers to shatter special walls and reveal helpful items. Collect hearts by fighting off Pit's foes. Train hard and battle harder. Pit's challenges make the labors of Hercules look like a walk in the park!",
+  "release_date_on_eshop": "2012-07-19",
+  "product_code": "CTR-N-RBLE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

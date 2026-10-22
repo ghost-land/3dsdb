@@ -1,34 +1,34 @@
 {
-    "tid": "000400000F706A00",
-    "uid": "50010000041296",
-    "name": "Lifespeed",
-    "formal_name": "Lifespeed",
-    "description": "Lifespeed is the ultimate race for survival. Battle your galactic opponents while flying at high speed through exciting tunnels. Your planet needs you!\n<br>One thousand years ago a Great War threatened to engulf the galaxy. The United Government was formed to stop the impending Armageddon. Now there is a new genocide called Lifespeed. Instead of war, disputes about resources and survival are settled on the track. Each rider is forced to compete for their planetâ€™s survival and for the chance to become Archon. You are Cypher Reid.",
-    "release_date_on_eshop": "2017-02-02",
-    "product_code": "KTR-N-CALP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Racing",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F706A00",
+  "uid": "50010000041296",
+  "name": "Lifespeed",
+  "formal_name": "Lifespeed",
+  "description": "Lifespeed is the ultimate race for survival. Battle your galactic opponents while flying at high speed through exciting tunnels. Your planet needs you!\n<br>One thousand years ago a Great War threatened to engulf the galaxy. The United Government was formed to stop the impending Armageddon. Now there is a new genocide called Lifespeed. Instead of war, disputes about resources and survival are settled on the track. Each rider is forced to compete for their planetâ€™s survival and for the chance to become Archon. You are Cypher Reid.",
+  "release_date_on_eshop": "2017-02-02",
+  "product_code": "KTR-N-CALP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Racing",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

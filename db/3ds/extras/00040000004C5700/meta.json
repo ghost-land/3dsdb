@@ -1,38 +1,38 @@
 {
-    "tid": "00040000004C5700",
-    "uid": "50010000041873",
-    "name": "Animal Crossing™: New Leaf - \nWelcome amiibo",
-    "formal_name": "Animal Crossing™: New Leaf - \n<br>Welcome amiibo",
-    "description": "Please note: If you already own \"Animal Crossing: New Leaf\", you can update your game to \"Animal Crossing: New Leaf - Welcome amiibo\" with the free update downloadable via eShop.\n<br>\n<br>An exciting new life awaits you in\n<br>Animal Crossing: New Leaf!\n<br>\n<br>Have you ever wanted a new home, a\n<br>new job, a new life? There's one\n<br>waiting for you in Animal Crossing:\n<br>New Leaf! Move to a new town and\n<br>become mayor, then live life at your\n<br>own pace; make new friends, have all\n<br>kinds of experiences and create the\n<br>town of your dreams!\n<br>\n<br>Supports 4 Players online and 4 Players via Local Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-11-25",
-    "product_code": "CTR-P-EAAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000004C5700",
+  "uid": "50010000041873",
+  "name": "Animal Crossing™: New Leaf - \nWelcome amiibo",
+  "formal_name": "Animal Crossing™: New Leaf - \n<br>Welcome amiibo",
+  "description": "Please note: If you already own \"Animal Crossing: New Leaf\", you can update your game to \"Animal Crossing: New Leaf - Welcome amiibo\" with the free update downloadable via eShop.\n<br>\n<br>An exciting new life awaits you in\n<br>Animal Crossing: New Leaf!\n<br>\n<br>Have you ever wanted a new home, a\n<br>new job, a new life? There's one\n<br>waiting for you in Animal Crossing:\n<br>New Leaf! Move to a new town and\n<br>become mayor, then live life at your\n<br>own pace; make new friends, have all\n<br>kinds of experiences and create the\n<br>town of your dreams!\n<br>\n<br>Supports 4 Players online and 4 Players via Local Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-11-25",
+  "product_code": "CTR-P-EAAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

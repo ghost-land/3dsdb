@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000BFA00",
-    "uid": "50010000013330",
-    "name": "マンションパーカッション",
-    "formal_name": "マンションパーカッション",
-    "description": "あなたが引っ越してきたマンション「パーカッション」。\n<br>そこはとても不思議なマンション。\n<br>\n<br>そこには不思議とうるさい住人が住んでいて、不思議な騒音が聞こえてきます。\n<br>\n<br>どんな世界のどんな時代でも、マンション「パーカッション」はとても賑やか。\n<br>\n<br>だからあなたは叩くのです。壁を。\n<br>\n<br>ドン･ドン･ドン･ドン･ドン･ドン\n<br>\n<br>なんだか楽しくなってきませんか……?",
-    "release_date_on_eshop": "2013-03-06",
-    "product_code": "CTR-N-JPCJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "音楽",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BFA00",
+  "uid": "50010000013330",
+  "name": "マンションパーカッション",
+  "formal_name": "マンションパーカッション",
+  "description": "あなたが引っ越してきたマンション「パーカッション」。\n<br>そこはとても不思議なマンション。\n<br>\n<br>そこには不思議とうるさい住人が住んでいて、不思議な騒音が聞こえてきます。\n<br>\n<br>どんな世界のどんな時代でも、マンション「パーカッション」はとても賑やか。\n<br>\n<br>だからあなたは叩くのです。壁を。\n<br>\n<br>ドン･ドン･ドン･ドン･ドン･ドン\n<br>\n<br>なんだか楽しくなってきませんか……?",
+  "release_date_on_eshop": "2013-03-06",
+  "product_code": "CTR-N-JPCJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "音楽",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

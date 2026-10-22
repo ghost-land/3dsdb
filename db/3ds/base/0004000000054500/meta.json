@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000054500",
-    "uid": "50010000007204",
-    "name": "3D Classics: Urban Champion™",
-    "formal_name": "3D Classics: Urban Champion™",
-    "description": "The first fighting game released for the Nintendo Entertainment System is back for another round. Use a combination of punches to knock your opponent back--and into an open manhole before time expires. Watch out for angry neighbors who will attempt to drop flowerpots on your head. The police will also make an occasional appearance to temporarily break up the fight--or make an arrest if time runs out. Find out if you have what it takes to make it on the rough city streets against the toughest brawlers around. Prove yourself worthy, and be crowned Urban Champion.",
-    "release_date_on_eshop": "2011-08-18",
-    "product_code": "CTR-N-SADE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000054500",
+  "uid": "50010000007204",
+  "name": "3D Classics: Urban Champion™",
+  "formal_name": "3D Classics: Urban Champion™",
+  "description": "The first fighting game released for the Nintendo Entertainment System is back for another round. Use a combination of punches to knock your opponent back--and into an open manhole before time expires. Watch out for angry neighbors who will attempt to drop flowerpots on your head. The police will also make an occasional appearance to temporarily break up the fight--or make an arrest if time runs out. Find out if you have what it takes to make it on the rough city streets against the toughest brawlers around. Prove yourself worthy, and be crowned Urban Champion.",
+  "release_date_on_eshop": "2011-08-18",
+  "product_code": "CTR-N-SADE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

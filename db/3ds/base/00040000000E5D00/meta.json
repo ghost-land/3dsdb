@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000E5D00",
-    "uid": "50010000014808",
-    "name": "PICROSS e",
-    "formal_name": "PICROSS e",
-    "description": "This is the series of \"picture crossword puzzles\" in which you use numbers as hints to complete illustrations that Nintendo has been developing as its own brand of game software since 1995.\n<br><br>\nAnyone can enjoy it with its simple and easy to understand rules. With this version's newly implemented Navigation feature, the puzzles can be solved more smoothly than ever.\n<br><br>\nThere are 3 types of puzzle sizes: 5x5, 10x10, and 15x15.<br>\nDon't take puzzles lightly because they're small.<br>\nThere are plenty of challenging puzzles as well.<br>\nComplete a puzzle within the time limit and the illustration will be displayed in color.",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-JEXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Supports Circle Pad Pro\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000E5D00",
+  "uid": "50010000014808",
+  "name": "PICROSS e",
+  "formal_name": "PICROSS e",
+  "description": "This is the series of \"picture crossword puzzles\" in which you use numbers as hints to complete illustrations that Nintendo has been developing as its own brand of game software since 1995.\n<br><br>\nAnyone can enjoy it with its simple and easy to understand rules. With this version's newly implemented Navigation feature, the puzzles can be solved more smoothly than ever.\n<br><br>\nThere are 3 types of puzzle sizes: 5x5, 10x10, and 15x15.<br>\nDon't take puzzles lightly because they're small.<br>\nThere are plenty of challenging puzzles as well.<br>\nComplete a puzzle within the time limit and the illustration will be displayed in color.",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-JEXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Supports Circle Pad Pro\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000015CA00",
-    "uid": "50010000033935",
-    "name": "Ninja Usagimaru\n- The Gem of Blessings -",
-    "formal_name": "Ninja Usagimaru \n- The Gem of Blessings -",
-    "description": "You control Usagimaru, and sets off on a journey to rescue captivated villagers from the evil grasps of the Mononoke. Your mission is to bring the villagers to the safety of the Usagi Statue.\n<br><br>\nIn each stage there will be a captured villager, and the path to rescue them is filled with various traps and Mononoke.\n<br><br>\nUse the various tools you have in your possession, and utilise the terrain and even the Mononoke themselves in order to rescue the villagers, and finally bring them to safety!",
-    "release_date_on_eshop": "2015-06-11",
-    "product_code": "CTR-N-JSPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000015CA00",
+  "uid": "50010000033935",
+  "name": "Ninja Usagimaru\n- The Gem of Blessings -",
+  "formal_name": "Ninja Usagimaru \n- The Gem of Blessings -",
+  "description": "You control Usagimaru, and sets off on a journey to rescue captivated villagers from the evil grasps of the Mononoke. Your mission is to bring the villagers to the safety of the Usagi Statue.\n<br><br>\nIn each stage there will be a captured villager, and the path to rescue them is filled with various traps and Mononoke.\n<br><br>\nUse the various tools you have in your possession, and utilise the terrain and even the Mononoke themselves in order to rescue the villagers, and finally bring them to safety!",
+  "release_date_on_eshop": "2015-06-11",
+  "product_code": "CTR-N-JSPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

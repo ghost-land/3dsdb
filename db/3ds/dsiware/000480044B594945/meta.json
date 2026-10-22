@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B594945",
-    "uid": "50010000004764",
-    "name": "myDiary™",
-    "formal_name": "myDiary™",
-    "description": "myDiary allows you to keep your own personal diary on your Nintendo DSi system. Just open your Nintendo DSi system, tap on a day, and write a note! Set alarms for important events. You can even lock your notes away from prying eyes.\n\nTry keeping track of important dates, to do lists and more! You can even personalize myDiary with 12 different unlockable themes and ink colors. Use the stylus as a pencil to make your notes or doodles and then erase the bits you don't like. myDiary will help you organize your life.",
-    "release_date_on_eshop": "2011-01-31",
-    "product_code": "TWL-N-KYIE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B594945",
+  "uid": "50010000004764",
+  "name": "myDiary™",
+  "formal_name": "myDiary™",
+  "description": "myDiary allows you to keep your own personal diary on your Nintendo DSi system. Just open your Nintendo DSi system, tap on a day, and write a note! Set alarms for important events. You can even lock your notes away from prying eyes.\n\nTry keeping track of important dates, to do lists and more! You can even personalize myDiary with 12 different unlockable themes and ink colors. Use the stylus as a pencil to make your notes or doodles and then erase the bits you don't like. myDiary will help you organize your life.",
+  "release_date_on_eshop": "2011-01-31",
+  "product_code": "TWL-N-KYIE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

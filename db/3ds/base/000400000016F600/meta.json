@@ -1,36 +1,36 @@
 {
-    "tid": "000400000016F600",
-    "uid": "50010000041165",
-    "name": "Metroid Prime™: Federation \nForce Blast Ball Demo",
-    "formal_name": "Metroid Prime™: Federation \nForce Blast Ball Demo",
-    "description": "The online multiplayer feature for the Metroid Prime: Federation Force Blast Ball demo has been discontinued. Please continue to enjoy the single player and local wireless modes in the demo. Thanks for playing! For more information, visit http://www.nintendo.com/games/detail/metroid-prime-blast-ball-demo-3ds.\n<br><br>\nSix mechs. Two teams. One free pass to play the most intense 3-on-3 sci-fi sport in the Metroid™ universe. Literally shoot the ball into the goal and grab power-ups as you fight. Increase your firing rate or even eject opponents from their mechs! Score victory locally or online* as you prepare for the full game Metroid Prime™: Federation Force.",
-    "release_date_on_eshop": "2016-07-21",
-    "product_code": "CTR-N-JA5E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "First-Person Shooter"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Online Play Only",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Nintendo Network",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "*This demo will be supported by online servers for a limited time beginning 7/21/2016. \n<br>\nOnce the online servers for the special demo are discontinued, online functions will still be available for this mode in the full Metroid Prime™: Federation Force game. Wireless Internet access required for online play. For more info, go to support.nintendo.com.\n<br><br>\n**Additional systems required for multiplayer mode. Sold separately.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000016F600",
+  "uid": "50010000041165",
+  "name": "Metroid Prime™: Federation \nForce Blast Ball Demo",
+  "formal_name": "Metroid Prime™: Federation \nForce Blast Ball Demo",
+  "description": "The online multiplayer feature for the Metroid Prime: Federation Force Blast Ball demo has been discontinued. Please continue to enjoy the single player and local wireless modes in the demo. Thanks for playing! For more information, visit http://www.nintendo.com/games/detail/metroid-prime-blast-ball-demo-3ds.\n<br><br>\nSix mechs. Two teams. One free pass to play the most intense 3-on-3 sci-fi sport in the Metroid™ universe. Literally shoot the ball into the goal and grab power-ups as you fight. Increase your firing rate or even eject opponents from their mechs! Score victory locally or online* as you prepare for the full game Metroid Prime™: Federation Force.",
+  "release_date_on_eshop": "2016-07-21",
+  "product_code": "CTR-N-JA5E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "First-Person Shooter"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Online Play Only",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Nintendo Network",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "*This demo will be supported by online servers for a limited time beginning 7/21/2016. \n<br>\nOnce the online servers for the special demo are discontinued, online functions will still be available for this mode in the full Metroid Prime™: Federation Force game. Wireless Internet access required for online play. For more info, go to support.nintendo.com.\n<br><br>\n**Additional systems required for multiplayer mode. Sold separately.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

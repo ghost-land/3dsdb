@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000124E00",
-    "uid": "50010000023435",
-    "name": "Color Zen Kids",
-    "formal_name": "Color Zen Kids",
-    "description": "For your own Zen masters in training, Color Zen Kids is a fun new twist on the critically acclaimed puzzle game. With simpler puzzles, larger shapes, and a kid-friendly animal theme, it's a great way to teach problem solving with a game they won't want to put down. \n<br><br>\nGame features:\n<br><br>\nThe fun of Color Zen, with easier puzzles and fun animal shapes\n100 levels to solve, with hours of replay value\nOriginal soundtrack by Steve Woodzell",
-    "release_date_on_eshop": "2014-06-19",
-    "product_code": "CTR-N-JZKE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000124E00",
+  "uid": "50010000023435",
+  "name": "Color Zen Kids",
+  "formal_name": "Color Zen Kids",
+  "description": "For your own Zen masters in training, Color Zen Kids is a fun new twist on the critically acclaimed puzzle game. With simpler puzzles, larger shapes, and a kid-friendly animal theme, it's a great way to teach problem solving with a game they won't want to put down. \n<br><br>\nGame features:\n<br><br>\nThe fun of Color Zen, with easier puzzles and fun animal shapes\n100 levels to solve, with hours of replay value\nOriginal soundtrack by Steve Woodzell",
+  "release_date_on_eshop": "2014-06-19",
+  "product_code": "CTR-N-JZKE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

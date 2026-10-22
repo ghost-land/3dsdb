@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B423645",
-    "uid": "50010000007203",
-    "name": "Build-a-lot®",
-    "formal_name": "Build-a-lot®",
-    "description": "Become a real estate mogul and take over the housing market as you construct, upgrade, and sell houses for huge profits. You can flip houses for quick cash or sit back and watch the rental income pile up. Travel to scenic towns and perform special tasks for the local mayors, or toss out the blueprints and create your own dream neighborhood.\n\nIn Career Mode, you will visit various towns performing special tasks for the local mayors. In Casual Mode, your goal is to generate a specific amount of money using any strategy you like. At the beginning of each level, you’ll be tasked with goals to meet, and you must manage your budget and workers to complete each challenge. You’ll need to gather your materials and blueprints to make your dream neighborhood a reality. Decide if you should upgrade, repair, or demolish houses in the neighborhood. Add special buildings to the town like a workshop, a bank, or a sawmill. Put your strategy skills to the test in Build-a-lot!",
-    "release_date_on_eshop": "2011-08-18",
-    "product_code": "TWL-N-KB6E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B423645",
+  "uid": "50010000007203",
+  "name": "Build-a-lot®",
+  "formal_name": "Build-a-lot®",
+  "description": "Become a real estate mogul and take over the housing market as you construct, upgrade, and sell houses for huge profits. You can flip houses for quick cash or sit back and watch the rental income pile up. Travel to scenic towns and perform special tasks for the local mayors, or toss out the blueprints and create your own dream neighborhood.\n\nIn Career Mode, you will visit various towns performing special tasks for the local mayors. In Casual Mode, your goal is to generate a specific amount of money using any strategy you like. At the beginning of each level, you’ll be tasked with goals to meet, and you must manage your budget and workers to complete each challenge. You’ll need to gather your materials and blueprints to make your dream neighborhood a reality. Decide if you should upgrade, repair, or demolish houses in the neighborhood. Add special buildings to the town like a workshop, a bank, or a sawmill. Put your strategy skills to the test in Build-a-lot!",
+  "release_date_on_eshop": "2011-08-18",
+  "product_code": "TWL-N-KB6E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

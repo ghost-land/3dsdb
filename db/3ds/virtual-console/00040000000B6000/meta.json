@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000B6000",
-    "uid": "50010000018415",
-    "name": "Donkey Kong™ 3",
-    "formal_name": "Donkey Kong™ 3",
-    "description": "Unique to the classic series, Donkey\nKong 3 is a frantic action game\nstarring newcomer Stanley, whose\ngreenhouse has been invaded by the\ntroublesome ape and swarms of angry\ninsects.\n<br/><br/>\nArmed with a spray can, you must\npush Donkey Kong up the screen\nwhile fending off the swarms of bugs\nintent on stealing Stanley's precious\nflowers.\n<br/><br/>\nAvoid the coconuts that DK throws at\nyou, and try to grab the power spray\ncan for a few seconds of\nsupercharged spraying as you aim for\na high score!",
-    "release_date_on_eshop": "2013-12-12",
-    "product_code": "CTR-N-TB4P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B6000",
+  "uid": "50010000018415",
+  "name": "Donkey Kong™ 3",
+  "formal_name": "Donkey Kong™ 3",
+  "description": "Unique to the classic series, Donkey\nKong 3 is a frantic action game\nstarring newcomer Stanley, whose\ngreenhouse has been invaded by the\ntroublesome ape and swarms of angry\ninsects.\n<br/><br/>\nArmed with a spray can, you must\npush Donkey Kong up the screen\nwhile fending off the swarms of bugs\nintent on stealing Stanley's precious\nflowers.\n<br/><br/>\nAvoid the coconuts that DK throws at\nyou, and try to grab the power spray\ncan for a few seconds of\nsupercharged spraying as you aim for\na high score!",
+  "release_date_on_eshop": "2013-12-12",
+  "product_code": "CTR-N-TB4P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

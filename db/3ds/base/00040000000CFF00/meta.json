@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000CFF00",
-    "uid": "50010000015153",
-    "name": "루이지 맨션 다크 문",
-    "formal_name": "루이지 맨션 다크 문",
-    "description": " 갑자기 난폭해진 유령들이 여기저기서\n난동을 피우고 있는 유령 계곡.\n 사건 조사를 위해 억지로 루이지를 불러들인 것은, 유령학의 권위자 아라따박사.\n 유령을 빨아들이는 청소기 \"유령싹싹\"을 손에 들고, 겁 많고 소심한 루이지가,\n다양한 맨션을 탐색합니다. ",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AGGK",
-    "platform_name": "닌텐도 3DS 패키지",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "어드벤처"
-    ],
-    "features": [
-        "인터넷 대응",
-        "3D 영상 대응",
-        "로컬 플레이 대응",
-        "다운로드 플레이 대응",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "제명 : 루이지 맨션 다크 문\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130531-010\n등급분류 일자 : 2013.5.31.\n제작・배급업신고번호: 게배 제2012-10호  ",
-    "descriptors": []
+  "tid": "00040000000CFF00",
+  "uid": "50010000015153",
+  "name": "루이지 맨션 다크 문",
+  "formal_name": "루이지 맨션 다크 문",
+  "description": " 갑자기 난폭해진 유령들이 여기저기서\n난동을 피우고 있는 유령 계곡.\n 사건 조사를 위해 억지로 루이지를 불러들인 것은, 유령학의 권위자 아라따박사.\n 유령을 빨아들이는 청소기 \"유령싹싹\"을 손에 들고, 겁 많고 소심한 루이지가,\n다양한 맨션을 탐색합니다. ",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AGGK",
+  "platform_name": "닌텐도 3DS 패키지",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "어드벤처"
+  ],
+  "features": [
+    "인터넷 대응",
+    "3D 영상 대응",
+    "로컬 플레이 대응",
+    "다운로드 플레이 대응",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "제명 : 루이지 맨션 다크 문\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130531-010\n등급분류 일자 : 2013.5.31.\n제작・배급업신고번호: 게배 제2012-10호  ",
+  "descriptors": []
 }

@@ -1,42 +1,42 @@
 {
-    "tid": "0004000200038A01",
-    "uid": "50010000000381",
-    "name": "DEAD OR ALIVE Dimensions",
-    "formal_name": "DEAD OR ALIVE Dimensions",
-    "description": "Team NINJA is bringing the fast-paced DEAD OR ALIVE action to a whole new dimension...\n<br><br>\nDEAD OR ALIVE Dimensions takes the vivacious characters and locales that have made the DOA franchise a hit with gamers everywhere and presents them in eye-popping 3D. All of the punches, kicks, counters and holds that have defined the series as a top-tier fighter are present for the first time on a portable gaming system – the Nintendo 3DS®.\n<br><br>\nDEAD OR ALIVE Dimensions features some of the best content from the series spanning all of the titles from the original DOA up to DOA 4. Fans will be able to relive some of the classic rivalries, storylines and white-knuckle action from the best points in the DOA history. There’s also a ton of new content, so even the most seasoned DOA fan will enjoy fresh material.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ADDE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Language",
-        "Suggestive Themes",
-        "Violence",
-        "Blood",
-        "Use of Alcohol",
-        "Partial Nudity"
-    ]
+  "tid": "0004000200038A01",
+  "uid": "50010000000381",
+  "name": "DEAD OR ALIVE Dimensions",
+  "formal_name": "DEAD OR ALIVE Dimensions",
+  "description": "Team NINJA is bringing the fast-paced DEAD OR ALIVE action to a whole new dimension...\n<br><br>\nDEAD OR ALIVE Dimensions takes the vivacious characters and locales that have made the DOA franchise a hit with gamers everywhere and presents them in eye-popping 3D. All of the punches, kicks, counters and holds that have defined the series as a top-tier fighter are present for the first time on a portable gaming system – the Nintendo 3DS®.\n<br><br>\nDEAD OR ALIVE Dimensions features some of the best content from the series spanning all of the titles from the original DOA up to DOA 4. Fans will be able to relive some of the classic rivalries, storylines and white-knuckle action from the best points in the DOA history. There’s also a ton of new content, so even the most seasoned DOA fan will enjoy fresh material.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ADDE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Language",
+    "Suggestive Themes",
+    "Violence",
+    "Blood",
+    "Use of Alcohol",
+    "Partial Nudity"
+  ]
 }

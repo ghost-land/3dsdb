@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B4B3756",
-    "uid": "50010000003575",
-    "name": "Music on:\nElectronic Keyboard",
-    "formal_name": "Music on:\nElectronic Keyboard",
-    "description": "An electronic keyboard to take with\nyou everywhere!<br>\n<br>\nGet creative, transforming your\nNintendo DSi into a complete\nelectronic keyboard: with a great\nvariety of instruments, rhythms and\nsound effects.<br>\n<br>\nThis is the perfect way to have fun\nand impress your friends with your\nmusical creations!<br>\n<br>\nWhether you are already an expert or\nif you are taking your first musical\nsteps, Electronic Keyboard will help\nyou capture your inspiration wherever\nyou are.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KK7V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B3756",
+  "uid": "50010000003575",
+  "name": "Music on:\nElectronic Keyboard",
+  "formal_name": "Music on:\nElectronic Keyboard",
+  "description": "An electronic keyboard to take with\nyou everywhere!<br>\n<br>\nGet creative, transforming your\nNintendo DSi into a complete\nelectronic keyboard: with a great\nvariety of instruments, rhythms and\nsound effects.<br>\n<br>\nThis is the perfect way to have fun\nand impress your friends with your\nmusical creations!<br>\n<br>\nWhether you are already an expert or\nif you are taking your first musical\nsteps, Electronic Keyboard will help\nyou capture your inspiration wherever\nyou are.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KK7V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F711400",
-    "uid": "50010000045855",
-    "name": "Storm Chaser - Tornado Alley",
-    "formal_name": "Storm Chaser - Tornado Alley",
-    "description": "Buckle up and take the wheel of a multi-million dollar storm chasing vehicle.  Start off with a humble following and film your way to the top as you become the worldâ€™s favorite storm chaser.\n<br>\n<br>Full physics and entertaining visuals.",
-    "release_date_on_eshop": "2018-06-07",
-    "product_code": "KTR-N-CCLE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This is an arcade simulation game.  No real streaming is involved (it is part of the gameplay).<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "000400000F711400",
+  "uid": "50010000045855",
+  "name": "Storm Chaser - Tornado Alley",
+  "formal_name": "Storm Chaser - Tornado Alley",
+  "description": "Buckle up and take the wheel of a multi-million dollar storm chasing vehicle.  Start off with a humble following and film your way to the top as you become the worldâ€™s favorite storm chaser.\n<br>\n<br>Full physics and entertaining visuals.",
+  "release_date_on_eshop": "2018-06-07",
+  "product_code": "KTR-N-CCLE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This is an arcade simulation game.  No real streaming is involved (it is part of the gameplay).<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

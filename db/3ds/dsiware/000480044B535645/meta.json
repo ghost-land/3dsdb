@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B535645",
-    "uid": "50010000022355",
-    "name": "Sokomania 2: Cool Job",
-    "formal_name": "Sokomania 2: Cool Job",
-    "description": "The work of a warehouse keeper never demanded such a high IQ! Will you earn the cool job?\n<br><br>\nThe objective of the warehouse keeper is to place all crates on the target squares in as few steps as possible. Those who want to find an optimal solution will certainly appreciate the time shift feature. It enables you to\n“rewind” the recording of the warehouse events any time so that you can try another approach.\n<br><br>\nGame allows for up to three separate game profiles to be created and also generates a unique game code for each player that can be submitted to a website and entered into the global leaderboard. The total score can be improved by returning to an already completed level and finding a better solution.\n<br><br>\nAnalyze, focus, think, and find the best solution in the right time. Compare your skills with others!",
-    "release_date_on_eshop": "2014-05-08",
-    "product_code": "TWL-N-KSVE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B535645",
+  "uid": "50010000022355",
+  "name": "Sokomania 2: Cool Job",
+  "formal_name": "Sokomania 2: Cool Job",
+  "description": "The work of a warehouse keeper never demanded such a high IQ! Will you earn the cool job?\n<br><br>\nThe objective of the warehouse keeper is to place all crates on the target squares in as few steps as possible. Those who want to find an optimal solution will certainly appreciate the time shift feature. It enables you to\n“rewind” the recording of the warehouse events any time so that you can try another approach.\n<br><br>\nGame allows for up to three separate game profiles to be created and also generates a unique game code for each player that can be submitted to a website and entered into the global leaderboard. The total score can be improved by returning to an already completed level and finding a better solution.\n<br><br>\nAnalyze, focus, think, and find the best solution in the right time. Compare your skills with others!",
+  "release_date_on_eshop": "2014-05-08",
+  "product_code": "TWL-N-KSVE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

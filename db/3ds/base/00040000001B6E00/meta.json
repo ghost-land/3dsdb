@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001B6E00",
-    "uid": "50010000042439",
-    "name": "Mini Sports Collection",
-    "formal_name": "Mini Sports Collection",
-    "description": "Compete for the best times and scores in 12 different sports!\n<br>\n<br>Mini Sports Collection focuses on the fun part of each sport throwing\n<br>you straight into the heart of each one!\n<br>\n<br>Bat in Baseball, shoot clay targets in Skeet Shooting, take down opponents in Wrestling, smash the ball in Tennis!\n<br>Quick reflexes, fast button presses and accurate controls are required to make the highest rankings and succeed in 24 different achievements. Compete in solo events or try multiple event tournaments!\n<br>The following 12 sports are included:\n<br>100m Sprint, Pro Wrestling, Skeet Shooting, Baseball, Speed Skating, Fencing, Rugby, Tennis, Soccer, Archery, Hammer Throw, Table Tennis",
-    "release_date_on_eshop": "2017-03-09",
-    "product_code": "CTR-N-KTNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Arcade",
-        "Action",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B6E00",
+  "uid": "50010000042439",
+  "name": "Mini Sports Collection",
+  "formal_name": "Mini Sports Collection",
+  "description": "Compete for the best times and scores in 12 different sports!\n<br>\n<br>Mini Sports Collection focuses on the fun part of each sport throwing\n<br>you straight into the heart of each one!\n<br>\n<br>Bat in Baseball, shoot clay targets in Skeet Shooting, take down opponents in Wrestling, smash the ball in Tennis!\n<br>Quick reflexes, fast button presses and accurate controls are required to make the highest rankings and succeed in 24 different achievements. Compete in solo events or try multiple event tournaments!\n<br>The following 12 sports are included:\n<br>100m Sprint, Pro Wrestling, Skeet Shooting, Baseball, Speed Skating, Fencing, Rugby, Tennis, Soccer, Archery, Hammer Throw, Table Tennis",
+  "release_date_on_eshop": "2017-03-09",
+  "product_code": "CTR-N-KTNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Arcade",
+    "Action",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

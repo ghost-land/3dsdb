@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001A1500",
-    "uid": "50010000041386",
-    "name": "LEGO® ニンジャゴー\nニンドロイド",
-    "formal_name": "LEGO® ニンジャゴー\nニンドロイド",
-    "description": "国内外で大人気のレゴ®ニンジャゴーが、アクションと冒険とともに再びゲームに戻ってきた！ 本作は、前作「ローニンの影」以前のストーリーを収録。ニュー・ニンジャゴー・シティを舞台にウー先生の元で修行に励むニンジャたちが、特別な武器や新たなビークル、そしてスピン術を用いて、邪悪なオーバー卿とそのサイボーグ軍団「ニンドロイド」の脅威に立ち向かう！",
-    "release_date_on_eshop": "2016-11-22",
-    "product_code": "CTR-N-BLNJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A1500",
+  "uid": "50010000041386",
+  "name": "LEGO® ニンジャゴー\nニンドロイド",
+  "formal_name": "LEGO® ニンジャゴー\nニンドロイド",
+  "description": "国内外で大人気のレゴ®ニンジャゴーが、アクションと冒険とともに再びゲームに戻ってきた！ 本作は、前作「ローニンの影」以前のストーリーを収録。ニュー・ニンジャゴー・シティを舞台にウー先生の元で修行に励むニンジャたちが、特別な武器や新たなビークル、そしてスピン術を用いて、邪悪なオーバー卿とそのサイボーグ軍団「ニンドロイド」の脅威に立ち向かう！",
+  "release_date_on_eshop": "2016-11-22",
+  "product_code": "CTR-N-BLNJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

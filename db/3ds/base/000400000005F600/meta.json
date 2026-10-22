@@ -1,35 +1,35 @@
 {
-    "tid": "000400000005F600",
-    "uid": "50010000008005",
-    "name": "Reel Fishing\nParadise 3D",
-    "formal_name": "Reel Fishing\n<br>Paradise 3D",
-    "description": "Travel to over a dozen stunning\n<br>locales in your quest to become a\n<br>master angler. Fish in tranquil lakes,\n<br>rocky coastal waters, and more, all in\n<br>3D that brings every leaping fish and\n<br>splash of water to life. A huge variety\n<br>of fish will test the expertise of even\n<br>the most seasoned fishing veterans,\n<br>from wily bass to powerful Bluefin\n<br>tuna. 15 Stages, 40 Fish, and over\n<br>100 pieces of tackle! A variety of\n<br>fishing techniques, from bait fishing to\n<br>fly! Catch, keep, and care for fish in\n<br>two fully customisable 3D fish tanks!",
-    "release_date_on_eshop": "2013-10-24",
-    "product_code": "CTR-P-ARFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Adventure",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005F600",
+  "uid": "50010000008005",
+  "name": "Reel Fishing\nParadise 3D",
+  "formal_name": "Reel Fishing\n<br>Paradise 3D",
+  "description": "Travel to over a dozen stunning\n<br>locales in your quest to become a\n<br>master angler. Fish in tranquil lakes,\n<br>rocky coastal waters, and more, all in\n<br>3D that brings every leaping fish and\n<br>splash of water to life. A huge variety\n<br>of fish will test the expertise of even\n<br>the most seasoned fishing veterans,\n<br>from wily bass to powerful Bluefin\n<br>tuna. 15 Stages, 40 Fish, and over\n<br>100 pieces of tackle! A variety of\n<br>fishing techniques, from bait fishing to\n<br>fly! Catch, keep, and care for fish in\n<br>two fully customisable 3D fish tanks!",
+  "release_date_on_eshop": "2013-10-24",
+  "product_code": "CTR-P-ARFP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Adventure",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

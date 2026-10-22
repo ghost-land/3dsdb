@@ -1,39 +1,39 @@
 {
-    "tid": "0004000000051400",
-    "uid": "50010000007702",
-    "name": "Need For Speed™: The Run",
-    "formal_name": "Need For Speed™: The Run",
-    "description": "Matt is a marked man. Matt has just found a way to save his life. All he needs to do is win an illicit, coast-to-coast race from San Francisco to New York. It’s called The Run. Three-thousand miles of unforgiving asphalt from San Francisco to New York. No speed limits. No rules. No allies. Armed with just his guts and instinct, Matt battles a field of the most notorious drivers ever assembled. Dense city streets, icy mountain passes and narrow canyons push his driving skills to the limit. Matt is racing for his life.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ANSE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Multiplayer"
-    ],
-    "features": [
-        "WIFI",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Animated Blood",
-        "Mild Suggestive Themes",
-        "Violence"
-    ]
+  "tid": "0004000000051400",
+  "uid": "50010000007702",
+  "name": "Need For Speed™: The Run",
+  "formal_name": "Need For Speed™: The Run",
+  "description": "Matt is a marked man. Matt has just found a way to save his life. All he needs to do is win an illicit, coast-to-coast race from San Francisco to New York. It’s called The Run. Three-thousand miles of unforgiving asphalt from San Francisco to New York. No speed limits. No rules. No allies. Armed with just his guts and instinct, Matt battles a field of the most notorious drivers ever assembled. Dense city streets, icy mountain passes and narrow canyons push his driving skills to the limit. Matt is racing for his life.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ANSE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Multiplayer"
+  ],
+  "features": [
+    "WIFI",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Animated Blood",
+    "Mild Suggestive Themes",
+    "Violence"
+  ]
 }

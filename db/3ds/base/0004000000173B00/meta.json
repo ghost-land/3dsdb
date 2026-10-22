@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000173B00",
-    "uid": "50010000034575",
-    "name": "SAMURAI WARRIORS:\nChronicles 3",
-    "formal_name": "SAMURAI WARRIORS:\nChronicles 3",
-    "description": "The Latest sequel of \"SAMURAI\nWARRIORS Chronicles\" is now on the\nNintendo 3DS™!\n<br/><br/>\nSwitch between up to four playable\ncharacters in real time, and use the\n\"Hyper Attacks\" to make this the most\nstrategically rich title in the series to\ndate!\n<br/><br/>\nThe new \"Challenge Mode\" allows\nyou to tackle a series of objectives,\none after the other, with a time limit,\nand reach your final goal! You can\neven check your rankings against\nother warriors online!\n<br/><br/>\nWeapon upgrades, custom parts and\nmore make this a truly immersive title.",
-    "release_date_on_eshop": "2015-06-24",
-    "product_code": "CTR-N-BC4P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Strategy"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000173B00",
+  "uid": "50010000034575",
+  "name": "SAMURAI WARRIORS:\nChronicles 3",
+  "formal_name": "SAMURAI WARRIORS:\nChronicles 3",
+  "description": "The Latest sequel of \"SAMURAI\nWARRIORS Chronicles\" is now on the\nNintendo 3DS™!\n<br/><br/>\nSwitch between up to four playable\ncharacters in real time, and use the\n\"Hyper Attacks\" to make this the most\nstrategically rich title in the series to\ndate!\n<br/><br/>\nThe new \"Challenge Mode\" allows\nyou to tackle a series of objectives,\none after the other, with a time limit,\nand reach your final goal! You can\neven check your rankings against\nother warriors online!\n<br/><br/>\nWeapon upgrades, custom parts and\nmore make this a truly immersive title.",
+  "release_date_on_eshop": "2015-06-24",
+  "product_code": "CTR-N-BC4P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

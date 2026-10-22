@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000071900",
-    "uid": "50010000008019",
-    "name": "@SIMPLE DLシリーズ Vol.2 THE\n密室からの脱出 学校の旧校舎編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.2\nTHE 密室からの脱出 ～学校の旧校舎編～",
-    "description": "様々なアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。今度の舞台は「学校の旧校舎」。クラスメイトに乗せられて「幽霊が出る」と噂されている旧校舎へ来てしまった主人公。突如、教室のドアが開かなくなり閉じ込められてしまう。いま再び、壮大な脱出劇の幕があがる。",
-    "release_date_on_eshop": "2011-12-07",
-    "product_code": "CTR-N-JM2J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000071900",
+  "uid": "50010000008019",
+  "name": "@SIMPLE DLシリーズ Vol.2 THE\n密室からの脱出 学校の旧校舎編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.2\nTHE 密室からの脱出 ～学校の旧校舎編～",
+  "description": "様々なアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。今度の舞台は「学校の旧校舎」。クラスメイトに乗せられて「幽霊が出る」と噂されている旧校舎へ来てしまった主人公。突如、教室のドアが開かなくなり閉じ込められてしまう。いま再び、壮大な脱出劇の幕があがる。",
+  "release_date_on_eshop": "2011-12-07",
+  "product_code": "CTR-N-JM2J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

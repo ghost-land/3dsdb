@@ -1,38 +1,38 @@
 {
-    "tid": "0004000000076500",
-    "uid": "50010000013419",
-    "name": "Luigi’s Mansion™ 2",
-    "formal_name": "Luigi’s Mansion™ 2",
-    "description": "Luigi is back on a mission to remove\n<br>a bunch of stubborn ghosts from some\n<br>super-spooky mansions in Luigi’s\n<br>Mansion 2 for Nintendo 3DS. Armed\n<br>with his trusty “Poltergust”\n<br>ghost-grabbing vacuum cleaner,\n<br>Mario’s brother takes centre stage to\n<br>capture those pesky phantoms. Sure,\n<br>Luigi’s the nervous type who’d rather\n<br>be as far from these ghosts as he can\n<br>get, but a reluctant hero can still save\n<br>the day!\n<br>\n<br>This hair-raising title is the first\n<br>sequel to the 2002\n<br>Nintendo GameCube launch title,\n<br>Luigi’s Mansion, and brings back all\n<br>the thrills of the original with bags of\n<br>new fun features too. The\n<br>stereoscopic 3D visuals bring the\n<br>murky mansions, ghastly ghosts and\n<br>spooky surroundings to life, so you\n<br>can experience all the haunting chills\n<br>and supernatural fun the game has to\n<br>offer.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-AGGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000076500",
+  "uid": "50010000013419",
+  "name": "Luigi’s Mansion™ 2",
+  "formal_name": "Luigi’s Mansion™ 2",
+  "description": "Luigi is back on a mission to remove\n<br>a bunch of stubborn ghosts from some\n<br>super-spooky mansions in Luigi’s\n<br>Mansion 2 for Nintendo 3DS. Armed\n<br>with his trusty “Poltergust”\n<br>ghost-grabbing vacuum cleaner,\n<br>Mario’s brother takes centre stage to\n<br>capture those pesky phantoms. Sure,\n<br>Luigi’s the nervous type who’d rather\n<br>be as far from these ghosts as he can\n<br>get, but a reluctant hero can still save\n<br>the day!\n<br>\n<br>This hair-raising title is the first\n<br>sequel to the 2002\n<br>Nintendo GameCube launch title,\n<br>Luigi’s Mansion, and brings back all\n<br>the thrills of the original with bags of\n<br>new fun features too. The\n<br>stereoscopic 3D visuals bring the\n<br>murky mansions, ghastly ghosts and\n<br>spooky surroundings to life, so you\n<br>can experience all the haunting chills\n<br>and supernatural fun the game has to\n<br>offer.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-AGGP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

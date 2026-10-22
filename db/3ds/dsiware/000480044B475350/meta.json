@@ -1,33 +1,33 @@
 {
-    "tid": "000480044B475350",
-    "uid": "50010000003901",
-    "name": "Globulos Party",
-    "formal_name": "Globulos Party",
-    "description": "Globulos Party is a collection of\nminigames very simple to understand\nand fun to master!<br>\n<br>\nThe 20 games are: 4-Square, Arena,\nBasket, Bomber, Bomber-King,\nCroquet, Darts, Darts-King, Football,\nFunky-Football, Ice Hockey, Monster,\nPétanque, Pinball, Rally, Rugby,\nSnooker, Sumo, Tic-Tac-Toe, Volley.<br>\n<br>\nMore than 15 hours of solo fun and\nan unlimited lifetime with the 3\nmultiplayer modes. You'd better\npractice before everybody beats you\nplaying this game!<br>\n<br>\nThe game has been elected \"best\ngame of the year\" for handheld\nconsoles by the Milthon French\nAwards jury who particularly\nappreciated playing the game in\nmultiplayer.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KGSP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Sports",
-        "Strategy"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B475350",
+  "uid": "50010000003901",
+  "name": "Globulos Party",
+  "formal_name": "Globulos Party",
+  "description": "Globulos Party is a collection of\nminigames very simple to understand\nand fun to master!<br>\n<br>\nThe 20 games are: 4-Square, Arena,\nBasket, Bomber, Bomber-King,\nCroquet, Darts, Darts-King, Football,\nFunky-Football, Ice Hockey, Monster,\nPétanque, Pinball, Rally, Rugby,\nSnooker, Sumo, Tic-Tac-Toe, Volley.<br>\n<br>\nMore than 15 hours of solo fun and\nan unlimited lifetime with the 3\nmultiplayer modes. You'd better\npractice before everybody beats you\nplaying this game!<br>\n<br>\nThe game has been elected \"best\ngame of the year\" for handheld\nconsoles by the Milthon French\nAwards jury who particularly\nappreciated playing the game in\nmultiplayer.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KGSP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Sports",
+    "Strategy"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

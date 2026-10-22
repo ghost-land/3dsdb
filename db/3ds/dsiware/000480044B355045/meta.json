@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B355045",
-    "uid": "50010000009772",
-    "name": "Penguin Patrol",
-    "formal_name": "Penguin Patrol",
-    "description": "Baby penguins have been stranded on thin ice by the evil (but oddly stylish) Walrus, and it's up to the Penguin Patrol to rescue them!\n\nEncounter several types of penguins, such as the stubborn Bratty Penguin or the sleepy Fatty Penguin, as you trek across over 75 puzzling levels. But watch out! With each step you take, the thin ice behind you breaks. Without careful planning, you could cut off your own escape route!\n\nFeaturing a charming pixel art style, delightful music, and thoughtfully designed levels, Penguin Patrol will entice players of all ages.",
-    "release_date_on_eshop": "2012-04-05",
-    "product_code": "TWL-N-K5PE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B355045",
+  "uid": "50010000009772",
+  "name": "Penguin Patrol",
+  "formal_name": "Penguin Patrol",
+  "description": "Baby penguins have been stranded on thin ice by the evil (but oddly stylish) Walrus, and it's up to the Penguin Patrol to rescue them!\n\nEncounter several types of penguins, such as the stubborn Bratty Penguin or the sleepy Fatty Penguin, as you trek across over 75 puzzling levels. But watch out! With each step you take, the thin ice behind you breaks. Without careful planning, you could cut off your own escape route!\n\nFeaturing a charming pixel art style, delightful music, and thoughtfully designed levels, Penguin Patrol will entice players of all ages.",
+  "release_date_on_eshop": "2012-04-05",
+  "product_code": "TWL-N-K5PE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000400000007FD00",
-    "uid": "50010000008584",
-    "name": "VVVVVV",
-    "formal_name": "VVVVVV",
-    "description": "There's something terribly wrong in an alternate dimension! Help Captain Viridian flip to find five crew members, 20 hard-to-reach Trinkets and save a dimension on the brink of destruction. It's a space opera in the most unique scale with a style that only VVVVVV can bring to you. Instead of jumping, control the direction of gravity by inverting your gravity and allowing Captain Viridian to flip between the floors and ceilings of the environments.\n<br><br>\nFor adventurers who save the dimension, there's still hours and hours of new gameplay with all-new Player Levels. Test your mettle and see if you have what it takes to beat a collection of levels created by other famous game developers. Inspired by classic 8-bit games of days gone-by and now with experience-heightening 3D, VVVVVV will challenge even the most battle-hardened old-school gamers.",
-    "release_date_on_eshop": "2011-12-29",
-    "product_code": "CTR-N-JVVE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v2.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000007FD00",
+  "uid": "50010000008584",
+  "name": "VVVVVV",
+  "formal_name": "VVVVVV",
+  "description": "There's something terribly wrong in an alternate dimension! Help Captain Viridian flip to find five crew members, 20 hard-to-reach Trinkets and save a dimension on the brink of destruction. It's a space opera in the most unique scale with a style that only VVVVVV can bring to you. Instead of jumping, control the direction of gravity by inverting your gravity and allowing Captain Viridian to flip between the floors and ceilings of the environments.\n<br><br>\nFor adventurers who save the dimension, there's still hours and hours of new gameplay with all-new Player Levels. Test your mettle and see if you have what it takes to beat a collection of levels created by other famous game developers. Inspired by classic 8-bit games of days gone-by and now with experience-heightening 3D, VVVVVV will challenge even the most battle-hardened old-school gamers.",
+  "release_date_on_eshop": "2011-12-29",
+  "product_code": "CTR-N-JVVE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v2.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

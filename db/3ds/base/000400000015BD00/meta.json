@@ -1,28 +1,28 @@
 {
-    "tid": "000400000015BD00",
-    "uid": "50010000027275",
-    "name": "Azure Striker GUNVOLT",
-    "formal_name": "Azure Striker GUNVOLT",
-    "description": " 푸른 뇌정이 이끄는 새로운 신화가 탄생한다!\n「Azure Striker GUNVOLT」는 빠른 속도와 상쾌한 타격감을 느낄 수 있는 2D 액션 게임입니다. \n 근미래를 배경으로 초능력을 가진 주인공 “건볼트”가 거대 조직 ’스메라기 그룹’에 맞서 싸우는 이야기가 긴장감 넘치게 펼쳐집니다. \n 주인공은 ‘총’을 기본 무기로 사용하며, 뇌격 배리어를 이용하는 특수한 능력인 ‘뇌격린’으로 적과의 전투를 펼치고, 적의 공격을 피할 수 있는 ‘전자결계’ 등의 여러 스킬을 사용해, 보다 더 역동적인 액션을 즐길 수 있습니다. \n",
-    "release_date_on_eshop": "2014-11-05",
-    "product_code": "CTR-N-JV7K",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "어드벤처"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "제명 : Azure Striker GUNVOLT\n상호 : INTICREATES\n이용등급 : 12세이용가\n등급분류번호 : GC-CC-NV-141024-001\n등급분류 일자 : 2014.10.24.\n제작・배급업신고번호 : 게배 제2012-10호",
-    "descriptors": []
+  "tid": "000400000015BD00",
+  "uid": "50010000027275",
+  "name": "Azure Striker GUNVOLT",
+  "formal_name": "Azure Striker GUNVOLT",
+  "description": " 푸른 뇌정이 이끄는 새로운 신화가 탄생한다!\n「Azure Striker GUNVOLT」는 빠른 속도와 상쾌한 타격감을 느낄 수 있는 2D 액션 게임입니다. \n 근미래를 배경으로 초능력을 가진 주인공 “건볼트”가 거대 조직 ’스메라기 그룹’에 맞서 싸우는 이야기가 긴장감 넘치게 펼쳐집니다. \n 주인공은 ‘총’을 기본 무기로 사용하며, 뇌격 배리어를 이용하는 특수한 능력인 ‘뇌격린’으로 적과의 전투를 펼치고, 적의 공격을 피할 수 있는 ‘전자결계’ 등의 여러 스킬을 사용해, 보다 더 역동적인 액션을 즐길 수 있습니다. \n",
+  "release_date_on_eshop": "2014-11-05",
+  "product_code": "CTR-N-JV7K",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "어드벤처"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "제명 : Azure Striker GUNVOLT\n상호 : INTICREATES\n이용등급 : 12세이용가\n등급분류번호 : GC-CC-NV-141024-001\n등급분류 일자 : 2014.10.24.\n제작・배급업신고번호 : 게배 제2012-10호",
+  "descriptors": []
 }

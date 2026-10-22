@@ -1,32 +1,32 @@
 {
-    "tid": "000400000F700200",
-    "uid": "50010000031095",
-    "name": "Xenoblade Chronicles 3D",
-    "formal_name": "Xenoblade Chronicles 3D",
-    "description": "In a vast world of adventure, where the action stretches as far as the eye can see, you must battle evil in the sprawling RPG Xenoblade Chronicles 3D. \n<br>\n<br>An almighty crash heralded the sudden arrival of the Bionis and the Mechonis to this world, for the two titans were locked in a timeless battle. Once the dust had settled, only their corpses remained. Now, the Bionis' enormous body, covered in lush plains, is home to a developed civilisation, the Homs. But life on Bionis was not destined to flourish forever. One day, a horde of mechanical life forms from the Mechonis launched an all-out attack on the inhabitants of Bionis. The Homs' only remaining hope is a legendary sword, Monado, said to be a gift from the titan itself. Unfortunately, whosoever wields the sword must endure a great toll on their body...\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information.",
-    "release_date_on_eshop": "2015-04-02",
-    "product_code": "KTR-P-CAFP",
-    "platform_name": "New 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F700200",
+  "uid": "50010000031095",
+  "name": "Xenoblade Chronicles 3D",
+  "formal_name": "Xenoblade Chronicles 3D",
+  "description": "In a vast world of adventure, where the action stretches as far as the eye can see, you must battle evil in the sprawling RPG Xenoblade Chronicles 3D. \n<br>\n<br>An almighty crash heralded the sudden arrival of the Bionis and the Mechonis to this world, for the two titans were locked in a timeless battle. Once the dust had settled, only their corpses remained. Now, the Bionis' enormous body, covered in lush plains, is home to a developed civilisation, the Homs. But life on Bionis was not destined to flourish forever. One day, a horde of mechanical life forms from the Mechonis launched an all-out attack on the inhabitants of Bionis. The Homs' only remaining hope is a legendary sword, Monado, said to be a gift from the titan itself. Unfortunately, whosoever wields the sword must endure a great toll on their body...\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information.",
+  "release_date_on_eshop": "2015-04-02",
+  "product_code": "KTR-P-CAFP",
+  "platform_name": "New 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

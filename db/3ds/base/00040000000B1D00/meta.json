@@ -1,38 +1,38 @@
 {
-    "tid": "00040000000B1D00",
-    "uid": "50010000012867",
-    "name": "Monster Hunter™ 3 Ultimate",
-    "formal_name": "Monster Hunter™ 3 Ultimate",
-    "description": "Take up arms and venture into a\n<br>world of spectacular surroundings and\n<br>challenging monsters in Monster\n<br>Hunter 3 Ultimate on Nintendo 3DS.\n<br>With all-new monsters, equipment and\n<br>weapons and over 200 action-packed\n<br>quests to tackle, Monster Hunter 3\n<br>Ultimate is the most expansive game\n<br>in the series to date.\n<br><br/><br/>\n<br>In this action role-playing game for\n<br>Nintendo 3DS, players use skill and\n<br>strategy to hunt down enormous\n<br>monsters. Over 200 quests and a vast\n<br>variety of weapons and armour types\n<br>give players plenty to discover, while\n<br>multiplayer options bring friends into\n<br>the fray. Hunters can work together to\n<br>slay the toughest monsters locally,\n<br>with fellow Nintendo 3DS owners or\n<br>with players of Monster Hunter 3\n<br>Ultimate on Wii U.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-AMHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B1D00",
+  "uid": "50010000012867",
+  "name": "Monster Hunter™ 3 Ultimate",
+  "formal_name": "Monster Hunter™ 3 Ultimate",
+  "description": "Take up arms and venture into a\n<br>world of spectacular surroundings and\n<br>challenging monsters in Monster\n<br>Hunter 3 Ultimate on Nintendo 3DS.\n<br>With all-new monsters, equipment and\n<br>weapons and over 200 action-packed\n<br>quests to tackle, Monster Hunter 3\n<br>Ultimate is the most expansive game\n<br>in the series to date.\n<br><br/><br/>\n<br>In this action role-playing game for\n<br>Nintendo 3DS, players use skill and\n<br>strategy to hunt down enormous\n<br>monsters. Over 200 quests and a vast\n<br>variety of weapons and armour types\n<br>give players plenty to discover, while\n<br>multiplayer options bring friends into\n<br>the fray. Hunters can work together to\n<br>slay the toughest monsters locally,\n<br>with fellow Nintendo 3DS owners or\n<br>with players of Monster Hunter 3\n<br>Ultimate on Wii U.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-AMHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000092200",
-    "uid": "50010000015635",
-    "name": "Sudoku by Nikoli",
-    "formal_name": "Sudoku by Nikoli",
-    "description": "With the Nikoli puzzle series, you can\nenjoy high-quality \"sudoku\" puzzles,\ncreated by Nikoli, who gave the\nworld-famous puzzle its name. The\nNintendo 3DS™ allows for the\nrealization of simple and easy to play\noperability.\n<br/><br/>\n\"Sudoku by Nikoli\" contains 50\nsudoku puzzles. \"Sudoku\" is a puzzle\nin which you place numbers from 1 to\n9 into a 9x9 grid, divided into\nhorizontal and vertical lines and 3x3\nblocks, filling up all of the spaces with\nthe numbers. With everything from\nsimple puzzles to super-difficult ones,\nthis game is popular with a wide range\nof players, from beginners to veterans.\nTo ensure your long-term enjoyment,\nwe're prepared both a \"Stage Clear\"\nmode and a \"Random\" mode. In\n\"Stage Clear\" mode, you progress by\nclearing puzzles one by one, and in\n\"Random\" mode puzzles are\ngenerated at random. Please enjoy\nthis high-quality \"sudoku\" game.",
-    "release_date_on_eshop": "2013-08-15",
-    "product_code": "CTR-N-JH4P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000092200",
+  "uid": "50010000015635",
+  "name": "Sudoku by Nikoli",
+  "formal_name": "Sudoku by Nikoli",
+  "description": "With the Nikoli puzzle series, you can\nenjoy high-quality \"sudoku\" puzzles,\ncreated by Nikoli, who gave the\nworld-famous puzzle its name. The\nNintendo 3DS™ allows for the\nrealization of simple and easy to play\noperability.\n<br/><br/>\n\"Sudoku by Nikoli\" contains 50\nsudoku puzzles. \"Sudoku\" is a puzzle\nin which you place numbers from 1 to\n9 into a 9x9 grid, divided into\nhorizontal and vertical lines and 3x3\nblocks, filling up all of the spaces with\nthe numbers. With everything from\nsimple puzzles to super-difficult ones,\nthis game is popular with a wide range\nof players, from beginners to veterans.\nTo ensure your long-term enjoyment,\nwe're prepared both a \"Stage Clear\"\nmode and a \"Random\" mode. In\n\"Stage Clear\" mode, you progress by\nclearing puzzles one by one, and in\n\"Random\" mode puzzles are\ngenerated at random. Please enjoy\nthis high-quality \"sudoku\" game.",
+  "release_date_on_eshop": "2013-08-15",
+  "product_code": "CTR-N-JH4P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

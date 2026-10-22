@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001B7100",
-    "uid": "50010000042479",
-    "name": "YO-KAI WATCH™ 2:\nSpecial Demo",
-    "formal_name": "YO-KAI WATCH™ 2:\n<br>Special Demo",
-    "description": "In the YO-KAI WATCH 2 Special Demo you can explore the town of Harrisville, a charming village where you meet Hovernyan for the first time! Discover the town, battle Yo-kai and keep an eye out for secrets...",
-    "release_date_on_eshop": "2017-03-09",
-    "product_code": "CTR-N-BYWP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B7100",
+  "uid": "50010000042479",
+  "name": "YO-KAI WATCH™ 2:\nSpecial Demo",
+  "formal_name": "YO-KAI WATCH™ 2:\n<br>Special Demo",
+  "description": "In the YO-KAI WATCH 2 Special Demo you can explore the town of Harrisville, a charming village where you meet Hovernyan for the first time! Discover the town, battle Yo-kai and keep an eye out for secrets...",
+  "release_date_on_eshop": "2017-03-09",
+  "product_code": "CTR-N-BYWP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

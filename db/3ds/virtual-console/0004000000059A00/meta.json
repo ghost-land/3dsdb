@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000059A00",
-    "uid": "50010000008944",
-    "name": "Lock'N Chase",
-    "formal_name": "Lock'N Chase",
-    "description": "In this classic arcade game, play as a thief who is trying to score big by collecting his weight in gold. Duck in and out of alleys while scooping up coins along the way, and maybe you’ll get lucky and find some extra treasure! But being on the wrong side of the law is never easy, as the police are hot on your tail! If you think they’re coming too close, try using a sliding door or power-up items to block their chase.\n\nThink you can make a clean getaway? Test your skills in this game of Lock'N Chase!",
-    "release_date_on_eshop": "1990-07",
-    "product_code": "CTR-N-RBGE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000059A00",
+  "uid": "50010000008944",
+  "name": "Lock'N Chase",
+  "formal_name": "Lock'N Chase",
+  "description": "In this classic arcade game, play as a thief who is trying to score big by collecting his weight in gold. Duck in and out of alleys while scooping up coins along the way, and maybe you’ll get lucky and find some extra treasure! But being on the wrong side of the law is never easy, as the police are hot on your tail! If you think they’re coming too close, try using a sliding door or power-up items to block their chase.\n\nThink you can make a clean getaway? Test your skills in this game of Lock'N Chase!",
+  "release_date_on_eshop": "1990-07",
+  "product_code": "CTR-N-RBGE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

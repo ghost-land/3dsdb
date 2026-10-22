@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000CA700",
-    "uid": "50010000020953",
-    "name": "Adventure Island II",
-    "formal_name": "Adventure Island II",
-    "description": "The Evil Witch Doctor has returned and is up to no good once again! And this time, he has kidnapped Princess Leilani's sister, Tina. Rushing to her rescue, Master Higgins must face the forces of nature and ghoul in eight islands! Battle dinosaurs, giant scorpions and cobras. Survive avalanches and volcanic eruptions. Swim through treacherous waters, then return to land and take a ride on your skateboard. It's another big adventure for our hero! Can you survive this latest rescue mission?",
-    "release_date_on_eshop": "2014-03-06",
-    "product_code": "CTR-N-TCKE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000CA700",
+  "uid": "50010000020953",
+  "name": "Adventure Island II",
+  "formal_name": "Adventure Island II",
+  "description": "The Evil Witch Doctor has returned and is up to no good once again! And this time, he has kidnapped Princess Leilani's sister, Tina. Rushing to her rescue, Master Higgins must face the forces of nature and ghoul in eight islands! Battle dinosaurs, giant scorpions and cobras. Survive avalanches and volcanic eruptions. Swim through treacherous waters, then return to land and take a ride on your skateboard. It's another big adventure for our hero! Can you survive this latest rescue mission?",
+  "release_date_on_eshop": "2014-03-06",
+  "product_code": "CTR-N-TCKE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

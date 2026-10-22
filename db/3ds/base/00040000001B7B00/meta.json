@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001B7B00",
-    "uid": "50010000042437",
-    "name": "Dragon Sinker",
-    "formal_name": "Dragon Sinker",
-    "description": "Join forces with elves and dwarves, and slay the evil dragon, Wyrmvarg in a retro-style fantasy RPG!\n<br>\n<br>Set out in search of the legendary weapons to free the world from the rule of Wyrmvarg!\n<br>\n<br>Employing 8-bit graphics and sound that hark back to the golden era of RPGs, Dragon Sinker brings a visual and audio feast to the table of hungry gamers starving for the nostalgia of the great classics of yesteryear!\n<br>\n<br>Scour the world in search of new companions and collect more than 16 jobs! Then lead up to 12 party members into turn-based battles and swap freely between 3 teams to take on a host of powerful foes! And if that were not exciting enough, character costumes also change according to their job, giving pixel lovers something even more to look forward to!\n<br>\n<br>Plus, with plenty of subquests for the hero to tackle and secret dungeons to explore, this is one adventure not soon to be forgotten!",
-    "release_date_on_eshop": "2017-04-06",
-    "product_code": "CTR-N-KD9P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B7B00",
+  "uid": "50010000042437",
+  "name": "Dragon Sinker",
+  "formal_name": "Dragon Sinker",
+  "description": "Join forces with elves and dwarves, and slay the evil dragon, Wyrmvarg in a retro-style fantasy RPG!\n<br>\n<br>Set out in search of the legendary weapons to free the world from the rule of Wyrmvarg!\n<br>\n<br>Employing 8-bit graphics and sound that hark back to the golden era of RPGs, Dragon Sinker brings a visual and audio feast to the table of hungry gamers starving for the nostalgia of the great classics of yesteryear!\n<br>\n<br>Scour the world in search of new companions and collect more than 16 jobs! Then lead up to 12 party members into turn-based battles and swap freely between 3 teams to take on a host of powerful foes! And if that were not exciting enough, character costumes also change according to their job, giving pixel lovers something even more to look forward to!\n<br>\n<br>Plus, with plenty of subquests for the hero to tackle and secret dungeons to explore, this is one adventure not soon to be forgotten!",
+  "release_date_on_eshop": "2017-04-06",
+  "product_code": "CTR-N-KD9P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

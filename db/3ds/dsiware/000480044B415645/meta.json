@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B415645",
-    "uid": "50010000001082",
-    "name": "Art Style™: DIGIDRIVE™",
-    "formal_name": "Art Style™: DIGIDRIVE™",
-    "description": "It’s traffic control with a twist as you try to direct identical cars down the same road in Art Style: DIGIDRIVE. This constantly moving puzzle game combines an easily understood playing field (an intersection) and a simple goal (create fuel) and then challenges you to properly guide a never-ending stream of cars. Stack similar cars five deep to create some fuel, and then use that fuel to continue your progress in the game. Take on ENDLESS mode to see how long you can last or compete against the computer or a human opponent in VS mode. Utilize combos to your advantage and see if your reflexes can handle the intensity of Overdrive mode. When all is said and done, you may find that you can never look at gridlock quite the same way again!\n\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n",
-    "release_date_on_eshop": "2009-11-16",
-    "product_code": "TWL-N-KAVE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Download Play",
-        "Supports Online Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415645",
+  "uid": "50010000001082",
+  "name": "Art Style™: DIGIDRIVE™",
+  "formal_name": "Art Style™: DIGIDRIVE™",
+  "description": "It’s traffic control with a twist as you try to direct identical cars down the same road in Art Style: DIGIDRIVE. This constantly moving puzzle game combines an easily understood playing field (an intersection) and a simple goal (create fuel) and then challenges you to properly guide a never-ending stream of cars. Stack similar cars five deep to create some fuel, and then use that fuel to continue your progress in the game. Take on ENDLESS mode to see how long you can last or compete against the computer or a human opponent in VS mode. Utilize combos to your advantage and see if your reflexes can handle the intensity of Overdrive mode. When all is said and done, you may find that you can never look at gridlock quite the same way again!\n\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n",
+  "release_date_on_eshop": "2009-11-16",
+  "product_code": "TWL-N-KAVE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Download Play",
+    "Supports Online Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

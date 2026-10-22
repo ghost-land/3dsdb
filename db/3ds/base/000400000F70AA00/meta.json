@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70AA00",
-    "uid": "50010000042511",
-    "name": "FOUR BOMBS",
-    "formal_name": "FOUR BOMBS",
-    "description": "Watch your mark with FOUR BOMBS! Carefully scan the mine field for bombs by learning a common pattern among surrounding spaces. Find all 4 bombs and win - levels randomly generated for endless fun!",
-    "release_date_on_eshop": "2017-03-30",
-    "product_code": "KTR-N-CFBE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70AA00",
+  "uid": "50010000042511",
+  "name": "FOUR BOMBS",
+  "formal_name": "FOUR BOMBS",
+  "description": "Watch your mark with FOUR BOMBS! Carefully scan the mine field for bombs by learning a common pattern among surrounding spaces. Find all 4 bombs and win - levels randomly generated for endless fun!",
+  "release_date_on_eshop": "2017-03-30",
+  "product_code": "KTR-N-CFBE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

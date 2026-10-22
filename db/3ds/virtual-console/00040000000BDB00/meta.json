@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000BDB00",
-    "uid": "50010000019633",
-    "name": "Castlevania II: Simon's Quest",
-    "formal_name": "Castlevania II: Simon's Quest",
-    "description": "In this one-player adventure you once again take on the role of Simon Belmont and duel to the death with Count Dracula. Grab your legendary whip, Vampire Killer, and roam freely through Transylvania on a quest to find the count’s missing body parts. These are the key to breaking an evil curse put upon Simon by the count.\n<br><br>\nThis quest won't be easy, though, for you must battle hideous fiends who stalk the land. In addition to the intense action and tight control the Castlevania series is known for, this sequel also introduced several unique game-play elements into the fold. Build experience the longer you play, buy weapons and items from merchants, or talk with villagers to get clues (some of which are false!). Watch as day turns to night and then back again. Take a deep breath, steady your nerves, and help Simon end his curse and defeat the count once and for all!",
-    "release_date_on_eshop": "2014-01-16",
-    "product_code": "CTR-N-TCBE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BDB00",
+  "uid": "50010000019633",
+  "name": "Castlevania II: Simon's Quest",
+  "formal_name": "Castlevania II: Simon's Quest",
+  "description": "In this one-player adventure you once again take on the role of Simon Belmont and duel to the death with Count Dracula. Grab your legendary whip, Vampire Killer, and roam freely through Transylvania on a quest to find the count’s missing body parts. These are the key to breaking an evil curse put upon Simon by the count.\n<br><br>\nThis quest won't be easy, though, for you must battle hideous fiends who stalk the land. In addition to the intense action and tight control the Castlevania series is known for, this sequel also introduced several unique game-play elements into the fold. Build experience the longer you play, buy weapons and items from merchants, or talk with villagers to get clues (some of which are false!). Watch as day turns to night and then back again. Take a deep breath, steady your nerves, and help Simon end his curse and defeat the count once and for all!",
+  "release_date_on_eshop": "2014-01-16",
+  "product_code": "CTR-N-TCBE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

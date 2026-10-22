@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000E6700",
-    "uid": "50010000021394",
-    "name": "Skater Cat",
-    "formal_name": "Skater Cat",
-    "description": "Ride the streets with Ollie, the sleekest cat on the block and put your reflexes to the test as you make spectacular tricks in the air to collect scrumptious treats and fleeing stray cats. Skate faster and faster as you lead the clowder and keep them keen with a topped up supply of treats! The addition of StreetPass and SpotPass will allow you to exchange best times and ghost runs with other players and the game makers themselves! With over 25 levels to complete, 90 medals to collect plus bonus in-game features to unlock, you’ll be purring with so much excitement!\n<br><br>\nFeatures:\n3 worlds with over 25 levels to complete and 90 medals to collect!\n<br><br>\nExciting in-game bonuses to unlock including the ability to play as your Mii!\n<br><br>\nStreetPass feature included to exchange best times and ghost runs from other Skater Cat players\n<br><br>\nReceive news updates and available ghost runs from the game makers via SpotPass\n<br><br>\nAn awesome pick up and play action game!",
-    "release_date_on_eshop": "2014-03-27",
-    "product_code": "CTR-N-JMYE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000E6700",
+  "uid": "50010000021394",
+  "name": "Skater Cat",
+  "formal_name": "Skater Cat",
+  "description": "Ride the streets with Ollie, the sleekest cat on the block and put your reflexes to the test as you make spectacular tricks in the air to collect scrumptious treats and fleeing stray cats. Skate faster and faster as you lead the clowder and keep them keen with a topped up supply of treats! The addition of StreetPass and SpotPass will allow you to exchange best times and ghost runs with other players and the game makers themselves! With over 25 levels to complete, 90 medals to collect plus bonus in-game features to unlock, you’ll be purring with so much excitement!\n<br><br>\nFeatures:\n3 worlds with over 25 levels to complete and 90 medals to collect!\n<br><br>\nExciting in-game bonuses to unlock including the ability to play as your Mii!\n<br><br>\nStreetPass feature included to exchange best times and ghost runs from other Skater Cat players\n<br><br>\nReceive news updates and available ghost runs from the game makers via SpotPass\n<br><br>\nAn awesome pick up and play action game!",
+  "release_date_on_eshop": "2014-03-27",
+  "product_code": "CTR-N-JMYE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

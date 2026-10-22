@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000189000",
-    "uid": "50010000039115",
-    "name": "学友運命共同体",
-    "formal_name": "学友運命共同体",
-    "description": "とある学校の1学期終業式の日の事。\n<br>なにやら見たことのないゲーム機を教室に持ち込んだ主人公。\n<br>\n<br>なんとそれは、\n<br>「ゲーム世界で時間感覚が変化し、現実で1日過ぎる間にゲーム内では30日過ごしている感覚を味わえる」\n<br>という不思議なゲーム機でした。\n<br>\n<br>それを聞いて「面白そう！」「夏休みが30日延びる！」と、基本的にノリノリのクラスメイトたち。\n<br>主人公は勢いに乗ってゲームのスイッチをON！\n<br>\n<br>こうして、2年4組の冒険は始まった！",
-    "release_date_on_eshop": "2016-01-20",
-    "product_code": "CTR-N-KGQJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000189000",
+  "uid": "50010000039115",
+  "name": "学友運命共同体",
+  "formal_name": "学友運命共同体",
+  "description": "とある学校の1学期終業式の日の事。\n<br>なにやら見たことのないゲーム機を教室に持ち込んだ主人公。\n<br>\n<br>なんとそれは、\n<br>「ゲーム世界で時間感覚が変化し、現実で1日過ぎる間にゲーム内では30日過ごしている感覚を味わえる」\n<br>という不思議なゲーム機でした。\n<br>\n<br>それを聞いて「面白そう！」「夏休みが30日延びる！」と、基本的にノリノリのクラスメイトたち。\n<br>主人公は勢いに乗ってゲームのスイッチをON！\n<br>\n<br>こうして、2年4組の冒険は始まった！",
+  "release_date_on_eshop": "2016-01-20",
+  "product_code": "CTR-N-KGQJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

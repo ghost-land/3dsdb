@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000092400",
-    "uid": "50010000012049",
-    "name": "Crazy Kangaroo",
-    "formal_name": "Crazy Kangaroo",
-    "description": "A groundbreaking, super-addictive and unbelievably cute platform game from Gamelion that delivers pure awesomeness!\n<br><br>\nMEET BARNEY - a cute kangaroo that was caught by evil poachers but luckily fell out of the airplane and now has to make his way home. Help him - you two should hop along together just great! With intuitive Motion Sensor and Circle Pad controls, and handcrafted graphics, CRAZY KANGAROO is simply perfect. Complete missions, reach new ranks, and buy lots of helpful upgrades. Give it a shot!",
-    "release_date_on_eshop": "2012-10-11",
-    "product_code": "CTR-N-JKGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000092400",
+  "uid": "50010000012049",
+  "name": "Crazy Kangaroo",
+  "formal_name": "Crazy Kangaroo",
+  "description": "A groundbreaking, super-addictive and unbelievably cute platform game from Gamelion that delivers pure awesomeness!\n<br><br>\nMEET BARNEY - a cute kangaroo that was caught by evil poachers but luckily fell out of the airplane and now has to make his way home. Help him - you two should hop along together just great! With intuitive Motion Sensor and Circle Pad controls, and handcrafted graphics, CRAZY KANGAROO is simply perfect. Complete missions, reach new ranks, and buy lots of helpful upgrades. Give it a shot!",
+  "release_date_on_eshop": "2012-10-11",
+  "product_code": "CTR-N-JKGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

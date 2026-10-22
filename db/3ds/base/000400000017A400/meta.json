@@ -1,38 +1,38 @@
 {
-    "tid": "000400000017A400",
-    "uid": "50010000039797",
-    "name": "Fire Emblem™ Fates",
-    "formal_name": "Fire Emblem™ Fates",
-    "description": "From the second half of March, 2023, it will no longer be possible to purchase downloadable content.\n<br>In the digital version of the game, players must choose between and download either the Conquest path or the Birthright path after progressing to Chapter 6 in the story. The distribution of these paths will end when the sale of downloadable content on Nintendo eShop stops.\n<br>In order to play Chapter 6 and on in the game, you will need to reach that point in the story and download your path before it becomes impossible to purchase downloadable content on Nintendo eShop.\n<br>\n<br>Two kingdoms are on the brink of war – and you must decide whose side to take in Fire Emblem Fates for Nintendo 3DS family systems. As a Hoshidan prince raised by Nohrian royals, you’re torn between two families. The path you choose determines the fate that awaits you and the army you lead. Command them with expert precision and form stronger relationships in this ambitious turn-based strategy game.\n<br>\n<br>Join Hoshido in Fire Emblem Fates: Birthright, or fight alongside Nohr in Fire Emblem Fates: Conquest. Later on, you can explore the depth of the story in a third path, available to purchase as add-on content – Fire Emblem Fates: Revelation. After selecting your path, you can then choose to purchase the other story paths as downloadable content from Nintendo eShop.\n<br>\n<br>For the first time ever, your customised avatar is the main hero. Guide your army through challenging turn-based battles, and devise your plan of attack based on your allies' classes, weapons and support levels. Each unit and weapon has strengths and weaknesses that you must balance against the foes they face. Partner your allies on the battlefield so they can support one another in combat. Building relationships is key – the closer your allies become, the better they’ll fight together.\n<br>\n<br>Visit amiibo.nintendo.eu for\n<br>compatible amiibo™ and the latest\n<br>information. To use amiibo on\n<br>Nintendo 3DS, Nintendo 3DS XL and\n<br>Nintendo 2DS systems a\n<br>Nintendo 3DS NFC Reader/Writer is\n<br>required.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-05-20",
-    "product_code": "CTR-P-BFWP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Strategy"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017A400",
+  "uid": "50010000039797",
+  "name": "Fire Emblem™ Fates",
+  "formal_name": "Fire Emblem™ Fates",
+  "description": "From the second half of March, 2023, it will no longer be possible to purchase downloadable content.\n<br>In the digital version of the game, players must choose between and download either the Conquest path or the Birthright path after progressing to Chapter 6 in the story. The distribution of these paths will end when the sale of downloadable content on Nintendo eShop stops.\n<br>In order to play Chapter 6 and on in the game, you will need to reach that point in the story and download your path before it becomes impossible to purchase downloadable content on Nintendo eShop.\n<br>\n<br>Two kingdoms are on the brink of war – and you must decide whose side to take in Fire Emblem Fates for Nintendo 3DS family systems. As a Hoshidan prince raised by Nohrian royals, you’re torn between two families. The path you choose determines the fate that awaits you and the army you lead. Command them with expert precision and form stronger relationships in this ambitious turn-based strategy game.\n<br>\n<br>Join Hoshido in Fire Emblem Fates: Birthright, or fight alongside Nohr in Fire Emblem Fates: Conquest. Later on, you can explore the depth of the story in a third path, available to purchase as add-on content – Fire Emblem Fates: Revelation. After selecting your path, you can then choose to purchase the other story paths as downloadable content from Nintendo eShop.\n<br>\n<br>For the first time ever, your customised avatar is the main hero. Guide your army through challenging turn-based battles, and devise your plan of attack based on your allies' classes, weapons and support levels. Each unit and weapon has strengths and weaknesses that you must balance against the foes they face. Partner your allies on the battlefield so they can support one another in combat. Building relationships is key – the closer your allies become, the better they’ll fight together.\n<br>\n<br>Visit amiibo.nintendo.eu for\n<br>compatible amiibo™ and the latest\n<br>information. To use amiibo on\n<br>Nintendo 3DS, Nintendo 3DS XL and\n<br>Nintendo 2DS systems a\n<br>Nintendo 3DS NFC Reader/Writer is\n<br>required.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-05-20",
+  "product_code": "CTR-P-BFWP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

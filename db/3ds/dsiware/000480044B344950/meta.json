@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B344950",
-    "uid": "50010000001383",
-    "name": "24/7 Solitaire",
-    "formal_name": "24/7 Solitaire",
-    "description": "24/7 Solitaire features 24 variations\nof the most well-known and\nbest-loved single-player card game\nincluding Klondike, Freecell, Spider,\nPyramid, Yukon and 7 versions of\nPeg-Solitaire. Most games have\ncustom gameplay options so you can\nenjoy the game with your favourite\nrules. On-screen instructions allow\nlearning of new Solitaire variations.<br>\n<br>\nStatistics are available for players\nwho love to track their wins. Save the\ngame status any time for later. The\ngame's style and interface has been\ndesigned for easy intuitive operation\nwith the stylus or the Control Pad.<br>\n<br>\nSit back and relax... Enjoy the\nendless challenge and fun with this\nSolitaire game collection.<br>\n<br>\nGame supports texts in English,\nGerman, Spanish, French and Italian.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K4IP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B344950",
+  "uid": "50010000001383",
+  "name": "24/7 Solitaire",
+  "formal_name": "24/7 Solitaire",
+  "description": "24/7 Solitaire features 24 variations\nof the most well-known and\nbest-loved single-player card game\nincluding Klondike, Freecell, Spider,\nPyramid, Yukon and 7 versions of\nPeg-Solitaire. Most games have\ncustom gameplay options so you can\nenjoy the game with your favourite\nrules. On-screen instructions allow\nlearning of new Solitaire variations.<br>\n<br>\nStatistics are available for players\nwho love to track their wins. Save the\ngame status any time for later. The\ngame's style and interface has been\ndesigned for easy intuitive operation\nwith the stylus or the Control Pad.<br>\n<br>\nSit back and relax... Enjoy the\nendless challenge and fun with this\nSolitaire game collection.<br>\n<br>\nGame supports texts in English,\nGerman, Spanish, French and Italian.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K4IP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

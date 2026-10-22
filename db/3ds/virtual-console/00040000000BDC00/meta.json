@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000BDC00",
-    "uid": "50010000019413",
-    "name": "Castlevania Ⅱ\nSimon's Quest",
-    "formal_name": "Castlevania Ⅱ\nSimon's Quest",
-    "description": "Famous vampire hunter Simon\nBelmont is back, in Castlevania II:\nSimon’s Quest. Following his victory\nagainst Dracula in the original game,\nBelmont is struck by the Count’s\ndeadly curse and must track down\nand destroy Dracula’s missing body\nparts to save himself.\n<br/><br/>\nCastlevania II expands on its\npredecessor with the addition of new\nadventure elements and also a day\nand night system. During daytime,\ntalk to the locals and gather clues\nand weapons, and prepare for the\ncreatures that appear when the sun\ngoes down!",
-    "release_date_on_eshop": "2014-01-16",
-    "product_code": "CTR-N-TCBP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BDC00",
+  "uid": "50010000019413",
+  "name": "Castlevania Ⅱ\nSimon's Quest",
+  "formal_name": "Castlevania Ⅱ\nSimon's Quest",
+  "description": "Famous vampire hunter Simon\nBelmont is back, in Castlevania II:\nSimon’s Quest. Following his victory\nagainst Dracula in the original game,\nBelmont is struck by the Count’s\ndeadly curse and must track down\nand destroy Dracula’s missing body\nparts to save himself.\n<br/><br/>\nCastlevania II expands on its\npredecessor with the addition of new\nadventure elements and also a day\nand night system. During daytime,\ntalk to the locals and gather clues\nand weapons, and prepare for the\ncreatures that appear when the sun\ngoes down!",
+  "release_date_on_eshop": "2014-01-16",
+  "product_code": "CTR-N-TCBP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

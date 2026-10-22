@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000EF900",
-    "uid": "50010000024684",
-    "name": "Mega Man™ 4",
-    "formal_name": "Mega Man™ 4",
-    "description": "At a gathering of the World Robot\nExposition, chaos suddenly ensues.\nDr. Wily, with his mind-controlling\ndevice, sets all of the robots to\nattack! The only one not under his\ncontrol is Mega Man, who sets off to\nstop Dr. Wily.\n<br/><br/>\nJoining Mega Man are Rush and Beat,\nand together they battle fortresses of\nlaser turrets, waves of armed androids\nand fiendish Robot Masters. Blast\nyour way through while adding new\nweapons to your inventory and\nface-off with Dr. Wily once more!",
-    "release_date_on_eshop": "2014-08-21",
-    "product_code": "CTR-N-RCFP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EF900",
+  "uid": "50010000024684",
+  "name": "Mega Man™ 4",
+  "formal_name": "Mega Man™ 4",
+  "description": "At a gathering of the World Robot\nExposition, chaos suddenly ensues.\nDr. Wily, with his mind-controlling\ndevice, sets all of the robots to\nattack! The only one not under his\ncontrol is Mega Man, who sets off to\nstop Dr. Wily.\n<br/><br/>\nJoining Mega Man are Rush and Beat,\nand together they battle fortresses of\nlaser turrets, waves of armed androids\nand fiendish Robot Masters. Blast\nyour way through while adding new\nweapons to your inventory and\nface-off with Dr. Wily once more!",
+  "release_date_on_eshop": "2014-08-21",
+  "product_code": "CTR-N-RCFP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

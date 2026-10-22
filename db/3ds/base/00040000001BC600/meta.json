@@ -1,39 +1,39 @@
 {
-    "tid": "00040000001BC600",
-    "uid": "50010000042575",
-    "name": "Monster Hunter Stories™",
-    "formal_name": "Monster Hunter Stories™",
-    "description": "Bonus for purchasing on Nintendo eShop:\n<br>Download code for Explorer Set for Monster Hunter Stories™ for Nintendo 3DS.\n<br>\n<br>Prepare to embark on an RPG adventure unlike anything the Monster Hunter series has ever known.\n<br>\n<br>In Monster Hunter Stories, become a Rider and bond with monsters to raise their potential and unleash powerful combos.\n<br>\n<br>Players can fly, swim and crash into new areas of the map, discover eggs to collect and hatch, and participate in turn-based battles with a party of multiple monsters.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-09-08",
-    "product_code": "CTR-P-AAHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network",
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BC600",
+  "uid": "50010000042575",
+  "name": "Monster Hunter Stories™",
+  "formal_name": "Monster Hunter Stories™",
+  "description": "Bonus for purchasing on Nintendo eShop:\n<br>Download code for Explorer Set for Monster Hunter Stories™ for Nintendo 3DS.\n<br>\n<br>Prepare to embark on an RPG adventure unlike anything the Monster Hunter series has ever known.\n<br>\n<br>In Monster Hunter Stories, become a Rider and bond with monsters to raise their potential and unleash powerful combos.\n<br>\n<br>Players can fly, swim and crash into new areas of the map, discover eggs to collect and hatch, and participate in turn-based battles with a party of multiple monsters.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-09-08",
+  "product_code": "CTR-P-AAHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network",
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

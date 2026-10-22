@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000031F00",
-    "uid": "50010000000088",
-    "name": "レイトン教授と奇跡の仮面",
-    "formal_name": "レイトン教授と奇跡の仮面",
-    "description": "「奇跡の紳士」が恐ろしい事件を引き起こす街、モンテドール。\n<br>この街で起こる数々の出来事が、高校生だった頃のレイトンの悲しい過去を呼び起こします。\n<br>「奇跡の紳士」とは何者なのか? そして彼の持つ「奇跡の仮面」とは何なのか? \n<br>新たなナゾがレイトン教授を待ち受けます。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AKKJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル",
-        "コミュニケーション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "すれちがい通信対応",
-        "いつの間に通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000031F00",
+  "uid": "50010000000088",
+  "name": "レイトン教授と奇跡の仮面",
+  "formal_name": "レイトン教授と奇跡の仮面",
+  "description": "「奇跡の紳士」が恐ろしい事件を引き起こす街、モンテドール。\n<br>この街で起こる数々の出来事が、高校生だった頃のレイトンの悲しい過去を呼び起こします。\n<br>「奇跡の紳士」とは何者なのか? そして彼の持つ「奇跡の仮面」とは何なのか? \n<br>新たなナゾがレイトン教授を待ち受けます。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AKKJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル",
+    "コミュニケーション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "すれちがい通信対応",
+    "いつの間に通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

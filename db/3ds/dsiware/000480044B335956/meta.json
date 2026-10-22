@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B335956",
-    "uid": "50010000009137",
-    "name": "3 Heroes Crystal Soul",
-    "formal_name": "3 Heroes Crystal Soul",
-    "description": "Crystennia is an ancient kingdom that\nuses Crystal Soul as its main energy\nsource. The kingdom is facing the\nthreat of monsters created by Rune\nCrystals.<br>\n<br>\nAs the Crystal Champion, you must\nprotect the kingdom by defeating\nmonsters and collect various kinds of\nnatural energy released by them.<br>\n<br>\nGame Features:<br>\n<br>\nPuzzle based gameplay featuring RPG\nelements.<br>\n<br>\nUtilise your strategic skills to destroy\nbosses in battle and dominate all kinds\nof terrain with easy to learn controls.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K3YV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Strategy",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B335956",
+  "uid": "50010000009137",
+  "name": "3 Heroes Crystal Soul",
+  "formal_name": "3 Heroes Crystal Soul",
+  "description": "Crystennia is an ancient kingdom that\nuses Crystal Soul as its main energy\nsource. The kingdom is facing the\nthreat of monsters created by Rune\nCrystals.<br>\n<br>\nAs the Crystal Champion, you must\nprotect the kingdom by defeating\nmonsters and collect various kinds of\nnatural energy released by them.<br>\n<br>\nGame Features:<br>\n<br>\nPuzzle based gameplay featuring RPG\nelements.<br>\n<br>\nUtilise your strategic skills to destroy\nbosses in battle and dominate all kinds\nof terrain with easy to learn controls.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K3YV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Strategy",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

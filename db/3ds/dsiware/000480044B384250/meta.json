@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B384250",
-    "uid": "50010000001481",
-    "name": "Beauty Academy",
-    "formal_name": "Beauty Academy",
-    "description": "Become a stylist to the stars!<br>\n<br>\nMeet the world’s most extraordinary\nmagician and open your own beauty\nstudio.<br>\n<br>\nProve your skill and speed at hair\nstyling, make-up, nail design and\nmuch more. Fulfil the wishes of your\ncustomers and your beauty studio will\nbecome known as the best in town!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K8BP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B384250",
+  "uid": "50010000001481",
+  "name": "Beauty Academy",
+  "formal_name": "Beauty Academy",
+  "description": "Become a stylist to the stars!<br>\n<br>\nMeet the world’s most extraordinary\nmagician and open your own beauty\nstudio.<br>\n<br>\nProve your skill and speed at hair\nstyling, make-up, nail design and\nmuch more. Fulfil the wishes of your\ncustomers and your beauty studio will\nbecome known as the best in town!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K8BP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

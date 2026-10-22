@@ -1,35 +1,35 @@
 {
-    "tid": "000400000018A400",
-    "uid": "50010000040656",
-    "name": "Rhythm Heaven™ Megamix",
-    "formal_name": "Rhythm Heaven™ Megamix",
-    "description": "Rhythmic gaming bliss, goats eating turnips, and the funkiest tunes you’ve ever bashed a button to? This must be the Rhythm Heaven™ Megamix. With 70+ rhythm games, including new ones, remixed fan-favorites, and US debuts, this fresh mix has it all. Try to reach Heaven World as you stab viruses, feed a bear, and more! Just don’t miss a beat.\n<br><br>\nAs you dig into each hilariously random activity, you’ll get pulled into the world of Rhythm Heaven by the riveting soundtrack, created with help from legendary music producer, Tsunku♂. Hang out in a café to check out new rhythm games and chat with a drink-serving dog. Or feed your pet goat using a turnip-powered game machine! You can even visit a museum to enjoy the game’s music and artwork. In the party mood? Then team up with three other players to take down challenges. Every time you encounter a player via the StreetPass™ feature, you’ll do battle with their punching robot. It’s time to kick back! Heaven World is just a few head bops away.",
-    "release_date_on_eshop": "2016-06-15",
-    "product_code": "CTR-N-BPJE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Other",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000018A400",
+  "uid": "50010000040656",
+  "name": "Rhythm Heaven™ Megamix",
+  "formal_name": "Rhythm Heaven™ Megamix",
+  "description": "Rhythmic gaming bliss, goats eating turnips, and the funkiest tunes you’ve ever bashed a button to? This must be the Rhythm Heaven™ Megamix. With 70+ rhythm games, including new ones, remixed fan-favorites, and US debuts, this fresh mix has it all. Try to reach Heaven World as you stab viruses, feed a bear, and more! Just don’t miss a beat.\n<br><br>\nAs you dig into each hilariously random activity, you’ll get pulled into the world of Rhythm Heaven by the riveting soundtrack, created with help from legendary music producer, Tsunku♂. Hang out in a café to check out new rhythm games and chat with a drink-serving dog. Or feed your pet goat using a turnip-powered game machine! You can even visit a museum to enjoy the game’s music and artwork. In the party mood? Then team up with three other players to take down challenges. Every time you encounter a player via the StreetPass™ feature, you’ll do battle with their punching robot. It’s time to kick back! Heaven World is just a few head bops away.",
+  "release_date_on_eshop": "2016-06-15",
+  "product_code": "CTR-N-BPJE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Other",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

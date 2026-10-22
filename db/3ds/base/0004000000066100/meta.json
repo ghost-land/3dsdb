@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000066100",
-    "uid": "50010000007968",
-    "name": "Winter Sports 2012 -\nFeel the Spirit",
-    "formal_name": "Winter Sports 2012 -\nFeel the Spirit",
-    "description": "HIGHEST. FASTEST. FURTHEST.\nFIRST.<br>\n<br>\nImmerse yourself in the intense\ncompetitive atmosphere in 3D and\nfight for your country in 7 enthralling \nwinter sport disciplines!<br>\n<br>\nDiscover the ultimate in winter\nsports fun and experience\nbreathtaking contests for up to 4\nplayers: Ski Cross, Ice\nSpeedway, Ski Jumping, Alpine\nDownhill, Alpine Slalom Skiing,\nCurling and Short Track Speed\nSkating!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AWSP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Party",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000066100",
+  "uid": "50010000007968",
+  "name": "Winter Sports 2012 -\nFeel the Spirit",
+  "formal_name": "Winter Sports 2012 -\nFeel the Spirit",
+  "description": "HIGHEST. FASTEST. FURTHEST.\nFIRST.<br>\n<br>\nImmerse yourself in the intense\ncompetitive atmosphere in 3D and\nfight for your country in 7 enthralling \nwinter sport disciplines!<br>\n<br>\nDiscover the ultimate in winter\nsports fun and experience\nbreathtaking contests for up to 4\nplayers: Ski Cross, Ice\nSpeedway, Ski Jumping, Alpine\nDownhill, Alpine Slalom Skiing,\nCurling and Short Track Speed\nSkating!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AWSP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Party",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001D7100",
-    "uid": "50010000046836",
-    "name": "Persona Q2: \n<br>New Cinema Labyrinth",
-    "formal_name": "Persona Q2: New Cinema Labyrinth",
-    "description": "Welcome to the ultimate Persona experience. The sequel to the beloved dungeon crawler, Persona Q2, arrives on Nintendo 3DS™. Join the cast of P3, P4, and P5 as they are thrown into a new and mysterious world.\n<br>\n<br>Can our favorite heroes defeat monsters, discover treasure, and navigate their way out of the labyrinth?",
-    "release_date_on_eshop": "2019-06-04",
-    "product_code": "CTR-P-AQ2E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "17"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D7100",
+  "uid": "50010000046836",
+  "name": "Persona Q2: \n<br>New Cinema Labyrinth",
+  "formal_name": "Persona Q2: New Cinema Labyrinth",
+  "description": "Welcome to the ultimate Persona experience. The sequel to the beloved dungeon crawler, Persona Q2, arrives on Nintendo 3DS™. Join the cast of P3, P4, and P5 as they are thrown into a new and mysterious world.\n<br>\n<br>Can our favorite heroes defeat monsters, discover treasure, and navigate their way out of the labyrinth?",
+  "release_date_on_eshop": "2019-06-04",
+  "product_code": "CTR-P-AQ2E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "17"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F714900",
-    "uid": "50010000049175",
-    "name": "Harold Reborn",
-    "formal_name": "Harold Reborn",
-    "description": "Harold Reborn is a challenging open-world adventure and sequel to Harold's Walk.\n<br>Uncover the secrets in an unusual and mysterious realm by searching the overworld and 9 sub-worlds for over 90+ hidden objects and mysterious messages. \n<br>Harold's new abilities will have him rocketing over hills and across wide gaps at ultra fast speeds.\n<br>\n<br>Walk right into a new adventure.",
-    "release_date_on_eshop": "2021-05-13",
-    "product_code": "KTR-N-CE3E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "000400000F714900",
+  "uid": "50010000049175",
+  "name": "Harold Reborn",
+  "formal_name": "Harold Reborn",
+  "description": "Harold Reborn is a challenging open-world adventure and sequel to Harold's Walk.\n<br>Uncover the secrets in an unusual and mysterious realm by searching the overworld and 9 sub-worlds for over 90+ hidden objects and mysterious messages. \n<br>Harold's new abilities will have him rocketing over hills and across wide gaps at ultra fast speeds.\n<br>\n<br>Walk right into a new adventure.",
+  "release_date_on_eshop": "2021-05-13",
+  "product_code": "KTR-N-CE3E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

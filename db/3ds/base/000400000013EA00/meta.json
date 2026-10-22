@@ -1,26 +1,26 @@
 {
-    "tid": "000400000013EA00",
-    "uid": "50010000024155",
-    "name": "Comic Workshop",
-    "formal_name": "Comic Workshop",
-    "description": "No need to wait any more, here is the software you were looking for!\n<br><br>\nWith Comic Workshop, you will be able to easily create Comics and Manga, step by step, thanks to the various tools available.\n<br><br>\nFrom frame’s management to text entry, everything you need to make the best creations is gathered in this software.\n<br><br>\nSpeech Bubbles, Pattern Filling, Stickers or other Roller Stamps are not only useful but also fun to use! Many standard tools are also present like the Eraser, Straight Line tool, Color Picker, Selection tool, etc.\n<br><br>\nFeatures:\nIn-game detailed Lessons to learn about the interface and tool’s functions.<br>\nCustomize and make your own colors as well as your own Stickers and Roller Stamps!<br>\nProfessional interface with layers, Undo & Redo commands, import of photos/pictures, etc.<br>\nInterface fully controllable with the Stylus and a left-handed mode is also available!<br>\nSave your creations on your SD Card and print or share them!",
-    "release_date_on_eshop": "2014-07-17",
-    "product_code": "CTR-N-KWSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000013EA00",
+  "uid": "50010000024155",
+  "name": "Comic Workshop",
+  "formal_name": "Comic Workshop",
+  "description": "No need to wait any more, here is the software you were looking for!\n<br><br>\nWith Comic Workshop, you will be able to easily create Comics and Manga, step by step, thanks to the various tools available.\n<br><br>\nFrom frame’s management to text entry, everything you need to make the best creations is gathered in this software.\n<br><br>\nSpeech Bubbles, Pattern Filling, Stickers or other Roller Stamps are not only useful but also fun to use! Many standard tools are also present like the Eraser, Straight Line tool, Color Picker, Selection tool, etc.\n<br><br>\nFeatures:\nIn-game detailed Lessons to learn about the interface and tool’s functions.<br>\nCustomize and make your own colors as well as your own Stickers and Roller Stamps!<br>\nProfessional interface with layers, Undo & Redo commands, import of photos/pictures, etc.<br>\nInterface fully controllable with the Stylus and a left-handed mode is also available!<br>\nSave your creations on your SD Card and print or share them!",
+  "release_date_on_eshop": "2014-07-17",
+  "product_code": "CTR-N-KWSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

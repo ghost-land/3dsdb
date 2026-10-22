@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E0007A000",
-    "uid": "50010000010906",
-    "name": "更新データ Ver. 1.1 METAL\nGEAR SOLID SNAKE EATER 3D",
-    "formal_name": "更新データ Ver. 1.1 METAL\nGEAR SOLID SNAKE EATER 3D",
-    "description": "ニンテンドー3DSソフト「METAL GEAR SOLID SNAKE EATER 3D」の進行不能等、各種不具合の改善を行う更新データです。\n\n特定の条件で作成したセーブデータから、\nゲーム再開できなくなる不具合を改善。\n 「ラゾレーヴォ北部」ステージからの移動時、装備しているアイテムによって進行不能となる不具合を改善。他。\n 「METAL GEAR SOLID SNAKE EATER 3D」をお持ちのお客様は、必ずダウンロードください。",
-    "release_date_on_eshop": "2012-07-05",
-    "product_code": "CTR-U-AMGJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.0.0",
-    "disclaimer": "ニンテンドー3DSソフト『METAL GEAR SOLID SNAKE EATER 3D』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E0007A000",
+  "uid": "50010000010906",
+  "name": "更新データ Ver. 1.1 METAL\nGEAR SOLID SNAKE EATER 3D",
+  "formal_name": "更新データ Ver. 1.1 METAL\nGEAR SOLID SNAKE EATER 3D",
+  "description": "ニンテンドー3DSソフト「METAL GEAR SOLID SNAKE EATER 3D」の進行不能等、各種不具合の改善を行う更新データです。\n\n特定の条件で作成したセーブデータから、\nゲーム再開できなくなる不具合を改善。\n 「ラゾレーヴォ北部」ステージからの移動時、装備しているアイテムによって進行不能となる不具合を改善。他。\n 「METAL GEAR SOLID SNAKE EATER 3D」をお持ちのお客様は、必ずダウンロードください。",
+  "release_date_on_eshop": "2012-07-05",
+  "product_code": "CTR-U-AMGJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.0.0",
+  "disclaimer": "ニンテンドー3DSソフト『METAL GEAR SOLID SNAKE EATER 3D』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

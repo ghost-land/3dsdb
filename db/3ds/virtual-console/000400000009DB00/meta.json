@@ -1,26 +1,26 @@
 {
-    "tid": "000400000009DB00",
-    "uid": "50010000013850",
-    "name": "Castlevania®",
-    "formal_name": "Castlevania®",
-    "description": "Step into the shadows of the deadliest dwelling on earth. You've arrived at Castlevania, and you're here on business: To destroy the curse of the Evil Count, once and for all. Take arms as Simon Belmont as you make your way through six monstrous floors filled with bats, ghosts, zombies and every kind of ghoulish creature that you can imagine. Use the legendary whip, Vampire Killer, and a host of deadly weapons to battle your way to\nDracula's chamber and to the ultimate duel of good versus evil.",
-    "release_date_on_eshop": "2013-04-04",
-    "product_code": "CTR-N-TA8E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009DB00",
+  "uid": "50010000013850",
+  "name": "Castlevania®",
+  "formal_name": "Castlevania®",
+  "description": "Step into the shadows of the deadliest dwelling on earth. You've arrived at Castlevania, and you're here on business: To destroy the curse of the Evil Count, once and for all. Take arms as Simon Belmont as you make your way through six monstrous floors filled with bats, ghosts, zombies and every kind of ghoulish creature that you can imagine. Use the legendary whip, Vampire Killer, and a host of deadly weapons to battle your way to\nDracula's chamber and to the ultimate duel of good versus evil.",
+  "release_date_on_eshop": "2013-04-04",
+  "product_code": "CTR-N-TA8E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

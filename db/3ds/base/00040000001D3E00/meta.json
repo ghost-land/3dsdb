@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001D3E00",
-    "uid": "50010000045895",
-    "name": "SPACE DEFENDER\nBATTLE INFINITY",
-    "formal_name": "SPACE DEFENDER\n<br>BATTLE INFINITY",
-    "description": "The galaxy was suddenly attacked by alien life forms \n<br>known as the space invaders.\n<br>Fast numbers of them enveloped the galaxy and destroyed planets\n<br>Your mission with the best space pilots in the galaxy will be to destroy the space invaders ...",
-    "release_date_on_eshop": "2019-05-02",
-    "product_code": "CTR-N-LSGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D3E00",
+  "uid": "50010000045895",
+  "name": "SPACE DEFENDER\nBATTLE INFINITY",
+  "formal_name": "SPACE DEFENDER\n<br>BATTLE INFINITY",
+  "description": "The galaxy was suddenly attacked by alien life forms \n<br>known as the space invaders.\n<br>Fast numbers of them enveloped the galaxy and destroyed planets\n<br>Your mission with the best space pilots in the galaxy will be to destroy the space invaders ...",
+  "release_date_on_eshop": "2019-05-02",
+  "product_code": "CTR-N-LSGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

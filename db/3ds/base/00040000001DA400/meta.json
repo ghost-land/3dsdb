@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001DA400",
-    "uid": "50010000048315",
-    "name": "Turkey, Please!",
-    "formal_name": "Turkey, Please!",
-    "description": "It is Thanksgiving Day, and you are looking forward to a delicious turkey dinner with all the fixings. But it won't happen on its own! \n<br>\n<br>With your cousins tearing around the house, Uncle Leon trying to watch the game, and your little brother being his usual annoying self, dinner may never be ready. \n<br>\n<br>Looks like it's up to YOU to save the holiday!\n<br>\n<br>- Classic adventure game fun.\n<br>- Explore and interact within a lighthearted and humorous world.\n<br>- Use your wits and a bit of mischief to solve puzzles.\n<br>- Try for a high score in the \"Fat Dragon\" mini-game.",
-    "release_date_on_eshop": "2019-11-14",
-    "product_code": "CTR-N-KA8E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "00040000001DA400",
+  "uid": "50010000048315",
+  "name": "Turkey, Please!",
+  "formal_name": "Turkey, Please!",
+  "description": "It is Thanksgiving Day, and you are looking forward to a delicious turkey dinner with all the fixings. But it won't happen on its own! \n<br>\n<br>With your cousins tearing around the house, Uncle Leon trying to watch the game, and your little brother being his usual annoying self, dinner may never be ready. \n<br>\n<br>Looks like it's up to YOU to save the holiday!\n<br>\n<br>- Classic adventure game fun.\n<br>- Explore and interact within a lighthearted and humorous world.\n<br>- Use your wits and a bit of mischief to solve puzzles.\n<br>- Try for a high score in the \"Fat Dragon\" mini-game.",
+  "release_date_on_eshop": "2019-11-14",
+  "product_code": "CTR-N-KA8E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

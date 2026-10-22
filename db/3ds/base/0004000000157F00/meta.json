@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000157F00",
-    "uid": "50010000031375",
-    "name": "3D Out Run™",
-    "formal_name": "3D Out Run™",
-    "description": "3D Out Run™ is the critically\n<br>acclaimed 1986 driving game\n<br>designed by Yu Suzuki, re-mastered\n<br>and enhanced for the Nintendo 3DS™\n<br>system. 3D Out Run\n<br>includes all of Out Run’s original\n<br>content, alongside two new songs and\n<br>runs at 60 frames per second, which\n<br>is twice the speed of the original\n<br>version. The game features a built in\n<br>Stage Select option that allows\n<br>players to save and resume progress\n<br>mid-game, has adjustable difficulty\n<br>settings, and includes unlockable car\n<br>customization options. Additionally,\n<br>players are able to choose from a\n<br>number of real-life arcade cabinets\n<br>wherein everything from the\n<br>appearance to the environmental\n<br>sounds of the specific cabinet are\n<br>recreated, providing a true and\n<br>authentic arcade experience.",
-    "release_date_on_eshop": "2015-03-12",
-    "product_code": "CTR-N-JYRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000157F00",
+  "uid": "50010000031375",
+  "name": "3D Out Run™",
+  "formal_name": "3D Out Run™",
+  "description": "3D Out Run™ is the critically\n<br>acclaimed 1986 driving game\n<br>designed by Yu Suzuki, re-mastered\n<br>and enhanced for the Nintendo 3DS™\n<br>system. 3D Out Run\n<br>includes all of Out Run’s original\n<br>content, alongside two new songs and\n<br>runs at 60 frames per second, which\n<br>is twice the speed of the original\n<br>version. The game features a built in\n<br>Stage Select option that allows\n<br>players to save and resume progress\n<br>mid-game, has adjustable difficulty\n<br>settings, and includes unlockable car\n<br>customization options. Additionally,\n<br>players are able to choose from a\n<br>number of real-life arcade cabinets\n<br>wherein everything from the\n<br>appearance to the environmental\n<br>sounds of the specific cabinet are\n<br>recreated, providing a true and\n<br>authentic arcade experience.",
+  "release_date_on_eshop": "2015-03-12",
+  "product_code": "CTR-N-JYRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

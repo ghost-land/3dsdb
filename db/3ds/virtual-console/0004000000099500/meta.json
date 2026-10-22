@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000099500",
-    "uid": "50010000012346",
-    "name": "Ghosts'n Goblins™",
-    "formal_name": "Ghosts'n Goblins™",
-    "description": "Original Release Date: November 1986\nTake on the role of the knight Sir Arthur, and delve into the realm of demons and monsters to rescue your girlfriend, the princess. Choose your weapons wisely, and take advantage of their strengths to deal with the situation at hand.  Defeat the main boss at the end of each level, and pass through the gates that stand between you and Astaroth.  Teach him a lesson in chivalry he'll never forget!  The stage for adventure is set.  Are you brave enough for the challenge?",
-    "release_date_on_eshop": "2012-10-25",
-    "product_code": "CTR-N-TA4E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000099500",
+  "uid": "50010000012346",
+  "name": "Ghosts'n Goblins™",
+  "formal_name": "Ghosts'n Goblins™",
+  "description": "Original Release Date: November 1986\nTake on the role of the knight Sir Arthur, and delve into the realm of demons and monsters to rescue your girlfriend, the princess. Choose your weapons wisely, and take advantage of their strengths to deal with the situation at hand.  Defeat the main boss at the end of each level, and pass through the gates that stand between you and Astaroth.  Teach him a lesson in chivalry he'll never forget!  The stage for adventure is set.  Are you brave enough for the challenge?",
+  "release_date_on_eshop": "2012-10-25",
+  "product_code": "CTR-N-TA4E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

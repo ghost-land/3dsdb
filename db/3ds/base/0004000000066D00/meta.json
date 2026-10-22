@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000066D00",
-    "uid": "50010000007687",
-    "name": "Super Pokémon™ Rumble",
-    "formal_name": "Super Pokémon™ Rumble",
-    "description": "Super Pokémon Rumble allows\n<br>players to battle against waves of\n<br>opposing wind-up Toy Pokémon, and\n<br>connect with a friend to battle\n<br>together. With over 600 Toy Pokémon\n<br>to collect, including those from the\n<br>Pokémon Black Version and Pokémon\n<br>White Version games, it's going to be\n<br>a Super Pokémon Rumble!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-ACCP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000066D00",
+  "uid": "50010000007687",
+  "name": "Super Pokémon™ Rumble",
+  "formal_name": "Super Pokémon™ Rumble",
+  "description": "Super Pokémon Rumble allows\n<br>players to battle against waves of\n<br>opposing wind-up Toy Pokémon, and\n<br>connect with a friend to battle\n<br>together. With over 600 Toy Pokémon\n<br>to collect, including those from the\n<br>Pokémon Black Version and Pokémon\n<br>White Version games, it's going to be\n<br>a Super Pokémon Rumble!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-ACCP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

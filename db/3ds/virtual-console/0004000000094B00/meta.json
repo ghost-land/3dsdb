@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000094B00",
-    "uid": "50010000012267",
-    "name": "GRADIUS",
-    "formal_name": "GRADIUS",
-    "description": "The planet of Gradius is doomed.\nOnly you, at the helm of the prototype\nVic Viper fighter, can save Gradius\nand the galaxy from the evil\nBacterions.<br>\n<br>\nThe first in the classic series, Gradius\nintroduced the now familiar system of\ncollecting capsules to boost your\nship's abilities; missiles, increased\nspeed, laser beam, force field and\nmore.<br>\n<br>\nYou must use your skills as a pilot\nand choose your weapons wisely, as\nyou face off against waves of enemies\nand enormous bosses. Never forget:\nshoot the core!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TAYP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000094B00",
+  "uid": "50010000012267",
+  "name": "GRADIUS",
+  "formal_name": "GRADIUS",
+  "description": "The planet of Gradius is doomed.\nOnly you, at the helm of the prototype\nVic Viper fighter, can save Gradius\nand the galaxy from the evil\nBacterions.<br>\n<br>\nThe first in the classic series, Gradius\nintroduced the now familiar system of\ncollecting capsules to boost your\nship's abilities; missiles, increased\nspeed, laser beam, force field and\nmore.<br>\n<br>\nYou must use your skills as a pilot\nand choose your weapons wisely, as\nyou face off against waves of enemies\nand enormous bosses. Never forget:\nshoot the core!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TAYP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

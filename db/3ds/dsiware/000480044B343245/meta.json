@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B343245",
-    "uid": "50010000008161",
-    "name": "Elite Forces: Unit 77",
-    "formal_name": "Elite Forces: Unit 77",
-    "description": "A new and improved version, now with the Multiplayer function. Elite Forces: Unit 77 is an action game with basic tactical elements. Drive armored trucks and tanks, defuse mines, locate explosives, and rescue hostages. Gather your forces into a crack squad when your enemies are threatening to overwhelm you or control a single game character based on the strategic requirements.\n\nUnit 77 is comprised of four specialists with different combat skills:\n*Bill Matic, the \"Hacker\"\n*Kendra Chase, the sniper\n*T. K. Richter, the explosives expert\n*Dag Hammer, the green beret\n\nExtra features:\n- 12 missions, 3 scenarios\n- Range of combat activities\n- Action for 1-4 players\n- Excellent game controls with the stylus",
-    "release_date_on_eshop": "2011-12-15",
-    "product_code": "TWL-N-K42E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B343245",
+  "uid": "50010000008161",
+  "name": "Elite Forces: Unit 77",
+  "formal_name": "Elite Forces: Unit 77",
+  "description": "A new and improved version, now with the Multiplayer function. Elite Forces: Unit 77 is an action game with basic tactical elements. Drive armored trucks and tanks, defuse mines, locate explosives, and rescue hostages. Gather your forces into a crack squad when your enemies are threatening to overwhelm you or control a single game character based on the strategic requirements.\n\nUnit 77 is comprised of four specialists with different combat skills:\n*Bill Matic, the \"Hacker\"\n*Kendra Chase, the sniper\n*T. K. Richter, the explosives expert\n*Dag Hammer, the green beret\n\nExtra features:\n- 12 missions, 3 scenarios\n- Range of combat activities\n- Action for 1-4 players\n- Excellent game controls with the stylus",
+  "release_date_on_eshop": "2011-12-15",
+  "product_code": "TWL-N-K42E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

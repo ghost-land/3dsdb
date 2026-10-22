@@ -1,31 +1,31 @@
 {
-    "tid": "000400000014CA00",
-    "uid": "50010000028255",
-    "name": "My Life on a Farm 3D",
-    "formal_name": "My Life on a Farm 3D",
-    "description": "Life on a farm is a lot of fun, as there always is something exciting to do: Care for your animals, cultivate your fields with the tractor or sell self-made products in your own farmshop. \n<br>\n<br>Care for cows, sheep, donkeys, truffle pigs, fish, bees, chickens, ducks and geese\n<br>Enjoy loads of real farm activities in funny minigames: cultivate fields, harvest vegetables and fruit, collect wood, eggs, truffles and honey, milk the cows, shear the sheep and much more \n<br>Manage your own farm shop: Learn over 100 recipes and produce apple pie, bread, cheese and more for selling\n<br>Drive the tractor by tilting your Nintendo 3DS™ using the amazing gyroscope controls\n<br>Supports Circle Pad controls of your Nintendo 3DS\n<br>3D photo feature: Take a real 3D photo of yourself and use it in the game\n<br>Collect Play Coins and exchange them for in-game currency",
-    "release_date_on_eshop": "2014-11-27",
-    "product_code": "CTR-N-KFME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Adventure",
-        "Education",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000014CA00",
+  "uid": "50010000028255",
+  "name": "My Life on a Farm 3D",
+  "formal_name": "My Life on a Farm 3D",
+  "description": "Life on a farm is a lot of fun, as there always is something exciting to do: Care for your animals, cultivate your fields with the tractor or sell self-made products in your own farmshop. \n<br>\n<br>Care for cows, sheep, donkeys, truffle pigs, fish, bees, chickens, ducks and geese\n<br>Enjoy loads of real farm activities in funny minigames: cultivate fields, harvest vegetables and fruit, collect wood, eggs, truffles and honey, milk the cows, shear the sheep and much more \n<br>Manage your own farm shop: Learn over 100 recipes and produce apple pie, bread, cheese and more for selling\n<br>Drive the tractor by tilting your Nintendo 3DS™ using the amazing gyroscope controls\n<br>Supports Circle Pad controls of your Nintendo 3DS\n<br>3D photo feature: Take a real 3D photo of yourself and use it in the game\n<br>Collect Play Coins and exchange them for in-game currency",
+  "release_date_on_eshop": "2014-11-27",
+  "product_code": "CTR-N-KFME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Adventure",
+    "Education",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

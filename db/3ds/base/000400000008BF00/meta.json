@@ -1,28 +1,28 @@
 {
-    "tid": "000400000008BF00",
-    "uid": "50010000010453",
-    "name": "Family Tennis 3D",
-    "formal_name": "Family Tennis 3D",
-    "description": "The Family series comes to Nintendo 3DS with a casual tennis game!\n<br><br>\nNew characters join in to bring the number of playable characters to eight and there are six different courts, all exploding with variety. With the addition of Easy Mode, absolutely anyone can play with the press of a button and look great while doing it. Start with the Tournament to unlock everything in the gallery, then why not try the minigames: Roulette Rally, Human Backboard, and Survivor? Play some doubles and make it a real show!",
-    "release_date_on_eshop": "2012-07-05",
-    "product_code": "CTR-N-JK3E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000008BF00",
+  "uid": "50010000010453",
+  "name": "Family Tennis 3D",
+  "formal_name": "Family Tennis 3D",
+  "description": "The Family series comes to Nintendo 3DS with a casual tennis game!\n<br><br>\nNew characters join in to bring the number of playable characters to eight and there are six different courts, all exploding with variety. With the addition of Easy Mode, absolutely anyone can play with the press of a button and look great while doing it. Start with the Tournament to unlock everything in the gallery, then why not try the minigames: Roulette Rally, Human Backboard, and Survivor? Play some doubles and make it a real show!",
+  "release_date_on_eshop": "2012-07-05",
+  "product_code": "CTR-N-JK3E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

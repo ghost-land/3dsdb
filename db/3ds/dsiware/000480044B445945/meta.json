@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B445945",
-    "uid": "50010000002101",
-    "name": "STARSHIP DEFENSE™",
-    "formal_name": "STARSHIP DEFENSE™",
-    "description": "STARSHIP DEFENSE takes the tower defense genre into outer space! Defend your space fleet from wave after wave of enemy attacks by equipping a variety of weapons and using a combination of strategic skills and resource management. Attach weapons to your ships using the Touch Screen, making sure to place them for maximum effect when planning your defense—if you don’t, the relentless nature of your enemies could overwhelm you. Increase your chances of success by using energy collected from defeated enemies to install new and more powerful weapons, destroying particular enemies to obtain weapon upgrades, and watching for rare power crystals that unlock advanced attacks, including a devastating black hole! And if you still find yourself in trouble, select an SOS card to call on a special kind of assistance. You’ll have to defend your fleet across 30 intense sectors, some with specific challenges, while advancing your rank from lowly recruit all the way to fleet admiral. Are you up to the challenge?",
-    "release_date_on_eshop": "2010-01-18",
-    "product_code": "TWL-N-KDYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445945",
+  "uid": "50010000002101",
+  "name": "STARSHIP DEFENSE™",
+  "formal_name": "STARSHIP DEFENSE™",
+  "description": "STARSHIP DEFENSE takes the tower defense genre into outer space! Defend your space fleet from wave after wave of enemy attacks by equipping a variety of weapons and using a combination of strategic skills and resource management. Attach weapons to your ships using the Touch Screen, making sure to place them for maximum effect when planning your defense—if you don’t, the relentless nature of your enemies could overwhelm you. Increase your chances of success by using energy collected from defeated enemies to install new and more powerful weapons, destroying particular enemies to obtain weapon upgrades, and watching for rare power crystals that unlock advanced attacks, including a devastating black hole! And if you still find yourself in trouble, select an SOS card to call on a special kind of assistance. You’ll have to defend your fleet across 30 intense sectors, some with specific challenges, while advancing your rank from lowly recruit all the way to fleet admiral. Are you up to the challenge?",
+  "release_date_on_eshop": "2010-01-18",
+  "product_code": "TWL-N-KDYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

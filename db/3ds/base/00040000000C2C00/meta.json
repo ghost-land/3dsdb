@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000C2C00",
-    "uid": "50010000012909",
-    "name": "50 Classic Games 3D",
-    "formal_name": "50 Classic Games 3D",
-    "description": "This compilation of fun and addictive\ngames brings together 50 classic\npuzzles to the Nintendo 3DS™.\nIncludes well-loved classic games\nBattle Ships, Chess, Tic Tac Toe, Peg\nSolitaire, Sudoku, Air Mah Jong and\nmany more.\n<br/><br/>\nWhilst completing the puzzles you\ncan play alone, with friends or against\nthe computer with varying degrees of\ndifficulty to match your skill level.\nThere’s something for everyone in this\nhuge collection\n<br/><br/>\nof 3D puzzle games with hours and\nhours of endless fun guaranteed!\n<br/><br/>\n• 1300 levels of never-ending fun\n<br/><br/>\n• 50 classic puzzle and card games\n<br/><br/>\n• Various difficulty levels for\nchallenging gameplay\n<br/><br/>\n• Intuitive touch-control using the\nNintendo 3DS stylus\n<br/><br/>\n• Play against challenging computer\nopponents\n<br/><br/>\nCard and Board Games include:\nTexas Hold’Em Poker, Checkers,\nChess, Tic-Tac-Toe, Blackjack,\nMahjongg, Twist, Solitaire Twist,\nJailbreak FreeCell, Solitaire, Hearts,\nBackgammon, FreeCell and more!\n<br/><br/>\nAction and Arcade Games include:\nBattle on the Sea, Darts, Air Hockey,\nSlot Machine, Tennis, Tennis Training,\nSpot the Difference, Bubble Fire,\nCasino Dice, Casino Roulette and\nMore!\n<br/><br/>\nStrategy and Puzzle Games include:\nSlide Puzzle, Sudoku, Match 3,\nPuzzles Pieces, Puzzle Strip, Puzzle\nSwap, Square Puzzle and more!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-AF6Y",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C2C00",
+  "uid": "50010000012909",
+  "name": "50 Classic Games 3D",
+  "formal_name": "50 Classic Games 3D",
+  "description": "This compilation of fun and addictive\ngames brings together 50 classic\npuzzles to the Nintendo 3DS™.\nIncludes well-loved classic games\nBattle Ships, Chess, Tic Tac Toe, Peg\nSolitaire, Sudoku, Air Mah Jong and\nmany more.\n<br/><br/>\nWhilst completing the puzzles you\ncan play alone, with friends or against\nthe computer with varying degrees of\ndifficulty to match your skill level.\nThere’s something for everyone in this\nhuge collection\n<br/><br/>\nof 3D puzzle games with hours and\nhours of endless fun guaranteed!\n<br/><br/>\n• 1300 levels of never-ending fun\n<br/><br/>\n• 50 classic puzzle and card games\n<br/><br/>\n• Various difficulty levels for\nchallenging gameplay\n<br/><br/>\n• Intuitive touch-control using the\nNintendo 3DS stylus\n<br/><br/>\n• Play against challenging computer\nopponents\n<br/><br/>\nCard and Board Games include:\nTexas Hold’Em Poker, Checkers,\nChess, Tic-Tac-Toe, Blackjack,\nMahjongg, Twist, Solitaire Twist,\nJailbreak FreeCell, Solitaire, Hearts,\nBackgammon, FreeCell and more!\n<br/><br/>\nAction and Arcade Games include:\nBattle on the Sea, Darts, Air Hockey,\nSlot Machine, Tennis, Tennis Training,\nSpot the Difference, Bubble Fire,\nCasino Dice, Casino Roulette and\nMore!\n<br/><br/>\nStrategy and Puzzle Games include:\nSlide Puzzle, Sudoku, Match 3,\nPuzzles Pieces, Puzzle Strip, Puzzle\nSwap, Square Puzzle and more!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-AF6Y",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

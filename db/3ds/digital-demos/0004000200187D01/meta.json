@@ -1,31 +1,31 @@
 {
-    "tid": "0004000200187D01",
-    "uid": "50010000041509",
-    "name": "Picross 3D™ Round 2",
-    "formal_name": "Picross 3D™ Round 2",
-    "description": "Picross has a fresh new layer of paint—and strategy! Chip away at a three-dimensional block puzzle to reveal the object hidden within. Only this time, blocks can be painted with two colors of paint to mold detailed shapes. Enjoy more than 300 puzzles at the Café or even tap amiibo figures to solve 10 more puzzles hiding secret Nintendo characters!\n<br>\nIn the Café, the more puzzles you complete, the more that open up to play. Accomplish certain objectives, like getting a high ranking on 30 puzzles, and you’ll earn even more. You can choose between easy, medium, and hard difficulty levels for each one, but no matter the complexity, you’ll always be rewarded with the hidden object. Some sets of puzzles offer additional tasks, from Timed Challenges to One-Chance Challenges. With this many brainteasing activities, there are always new risks to take and hidden objects to find!",
-    "release_date_on_eshop": "2016-09-01",
-    "product_code": "CTR-N-BBPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "0004000200187D01",
+  "uid": "50010000041509",
+  "name": "Picross 3D™ Round 2",
+  "formal_name": "Picross 3D™ Round 2",
+  "description": "Picross has a fresh new layer of paint—and strategy! Chip away at a three-dimensional block puzzle to reveal the object hidden within. Only this time, blocks can be painted with two colors of paint to mold detailed shapes. Enjoy more than 300 puzzles at the Café or even tap amiibo figures to solve 10 more puzzles hiding secret Nintendo characters!\n<br>\nIn the Café, the more puzzles you complete, the more that open up to play. Accomplish certain objectives, like getting a high ranking on 30 puzzles, and you’ll earn even more. You can choose between easy, medium, and hard difficulty levels for each one, but no matter the complexity, you’ll always be rewarded with the hidden object. Some sets of puzzles offer additional tasks, from Timed Challenges to One-Chance Challenges. With this many brainteasing activities, there are always new risks to take and hidden objects to find!",
+  "release_date_on_eshop": "2016-09-01",
+  "product_code": "CTR-N-BBPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4B5A45",
-    "uid": "50010000012022",
-    "name": "Academy: Chess Puzzles",
-    "formal_name": "Academy: Chess Puzzles",
-    "description": "Play chess like never before and solve hundreds of puzzles in Academy: Chess Puzzles from Gamelion. Whether you're an advanced chess player or you've just started the adventure with this exciting game â€“ you will spend hours finding solutions for 750 brain-twisting chess puzzles. Three difficulty modes: Easy, Medium, and Hard will keep you busy and achievements and extra skins for the chessboard and pieces keep you playing. Appealing, clear graphics and jazz music help you stay focused on solving the next puzzle. Two modes (Puzzle and Quiz) and intuitive stylus and button controls guarantee an enjoyable, addictive, and satisfying adventure with Academy: Chess Puzzles.",
-    "release_date_on_eshop": "2012-10-04",
-    "product_code": "TWL-N-KKZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B5A45",
+  "uid": "50010000012022",
+  "name": "Academy: Chess Puzzles",
+  "formal_name": "Academy: Chess Puzzles",
+  "description": "Play chess like never before and solve hundreds of puzzles in Academy: Chess Puzzles from Gamelion. Whether you're an advanced chess player or you've just started the adventure with this exciting game â€“ you will spend hours finding solutions for 750 brain-twisting chess puzzles. Three difficulty modes: Easy, Medium, and Hard will keep you busy and achievements and extra skins for the chessboard and pieces keep you playing. Appealing, clear graphics and jazz music help you stay focused on solving the next puzzle. Two modes (Puzzle and Quiz) and intuitive stylus and button controls guarantee an enjoyable, addictive, and satisfying adventure with Academy: Chess Puzzles.",
+  "release_date_on_eshop": "2012-10-04",
+  "product_code": "TWL-N-KKZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

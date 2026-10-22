@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000036600",
-    "uid": "50010000000441",
-    "name": "DualPenSports™",
-    "formal_name": "DualPenSports™",
-    "description": "Compete using dual styluses for a fun and exciting real sports experience!\n<br><br>\nThe first ever dual touch action sports game, DualPenSports™ lets players feel more like they’re playing real sports with the use of up to two styluses.  Exciting and accessible to everyone, DualPenSports’ two hand coordination challenges players to have fun in new ways!\n<br><br>\nWith 7 unique sports mini-games and a host of other challenges, DualPenSports delivers addicting moments of glory every athlete wants to play again and again!  Players create and customize their own Athletes and then face off against the computer or friends in exciting sports mini-games!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-APPE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Action",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Cartoon Violence"
-    ]
+  "tid": "0004000000036600",
+  "uid": "50010000000441",
+  "name": "DualPenSports™",
+  "formal_name": "DualPenSports™",
+  "description": "Compete using dual styluses for a fun and exciting real sports experience!\n<br><br>\nThe first ever dual touch action sports game, DualPenSports™ lets players feel more like they’re playing real sports with the use of up to two styluses.  Exciting and accessible to everyone, DualPenSports’ two hand coordination challenges players to have fun in new ways!\n<br><br>\nWith 7 unique sports mini-games and a host of other challenges, DualPenSports delivers addicting moments of glory every athlete wants to play again and again!  Players create and customize their own Athletes and then face off against the computer or friends in exciting sports mini-games!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-APPE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Action",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ]
 }

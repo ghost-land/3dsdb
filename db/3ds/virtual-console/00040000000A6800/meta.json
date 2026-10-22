@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000A6800",
-    "uid": "50010000016533",
-    "name": "Solomon's Key™",
-    "formal_name": "Solomon's Key™",
-    "description": "As Dana, a skilled and talented hero, you must strategically maneuver through over 40 stages using mysterious block-creation skills and other magical powers. Free the captive Fairy in each stage by finding the Bell, and escape by grabbing the Magic Key. Use quick thinking and magical firepower to discover hidden items and evade numerous enemies as you race against the clock! Solomon's Key also features over 10 secret levels and multiple endings you can unlock! Do you have what it takes to unravel the secrets of Solomon's Key?",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-N-TBPE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A6800",
+  "uid": "50010000016533",
+  "name": "Solomon's Key™",
+  "formal_name": "Solomon's Key™",
+  "description": "As Dana, a skilled and talented hero, you must strategically maneuver through over 40 stages using mysterious block-creation skills and other magical powers. Free the captive Fairy in each stage by finding the Bell, and escape by grabbing the Magic Key. Use quick thinking and magical firepower to discover hidden items and evade numerous enemies as you race against the clock! Solomon's Key also features over 10 secret levels and multiple endings you can unlock! Do you have what it takes to unravel the secrets of Solomon's Key?",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-N-TBPE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B334A50",
-    "uid": "50010000011521",
-    "name": "iSpot Japan",
-    "formal_name": "iSpot Japan",
-    "description": "iSpot Japan takes you on a journey\nacross the land of the rising sun,\nexplaining facts and curiosities about\nJapanese culture, while you play the\nclassic “Spot the Difference” game in\nthe country's most beautiful locations.<br>\n<br>\nFind three, four or five differences in\neach picture, depending on the\nselected difficulty level, and unlock\nthem in the gallery to learn about\nlocal cuisine, historical characters or\nimportant monuments, together with\ntheir location on the map.<br>\n<br>\nRanging from southern Kyushu to\nnorthern Hokkaido, you'll get to know\nall of Japan through exclusive\nbeautiful pictures, carefully tricked out\nto create visually challenging\ndifferences.<br>\n<br>\nFeatures:<br>\n<br>\n* Exclusive beautiful pictures of Japan<br>\n<br>\n* Detailed explanation and map\nlocation of every picture.<br>\n<br>\n* Competitive VS multiplayer and\ngallery mode.<br>\n<br>\n* Three difficulty levels with three,\nfour or five differences per location.<br>\n<br>\n* A total of 150 pictures illustrating\nthe four main islands of Japan.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K3JP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Education",
-        "Lifestyle"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B334A50",
+  "uid": "50010000011521",
+  "name": "iSpot Japan",
+  "formal_name": "iSpot Japan",
+  "description": "iSpot Japan takes you on a journey\nacross the land of the rising sun,\nexplaining facts and curiosities about\nJapanese culture, while you play the\nclassic “Spot the Difference” game in\nthe country's most beautiful locations.<br>\n<br>\nFind three, four or five differences in\neach picture, depending on the\nselected difficulty level, and unlock\nthem in the gallery to learn about\nlocal cuisine, historical characters or\nimportant monuments, together with\ntheir location on the map.<br>\n<br>\nRanging from southern Kyushu to\nnorthern Hokkaido, you'll get to know\nall of Japan through exclusive\nbeautiful pictures, carefully tricked out\nto create visually challenging\ndifferences.<br>\n<br>\nFeatures:<br>\n<br>\n* Exclusive beautiful pictures of Japan<br>\n<br>\n* Detailed explanation and map\nlocation of every picture.<br>\n<br>\n* Competitive VS multiplayer and\ngallery mode.<br>\n<br>\n* Three difficulty levels with three,\nfour or five differences per location.<br>\n<br>\n* A total of 150 pictures illustrating\nthe four main islands of Japan.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K3JP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Education",
+    "Lifestyle"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

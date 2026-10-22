@@ -1,35 +1,35 @@
 {
-    "tid": "0004008C000F1700",
-    "uid": "50010000021256",
-    "name": "Pure Chess® ",
-    "formal_name": "Pure Chess® ",
-    "description": "Offers in-game purchases\n<br><br>\nDownload Pure Chess®  to experience chess the way it's meant to be played, in stunning 3D.\n<br><br>\nExperience one of the oldest known boardgames on the advanced technology of today. Pure Chess® is a game that can be played by everyone, at any age, but mastered by only a few. The question is... Are you a Grandmaster in the making?\n<br><br>\nFull game upgrade features:\n<br><br>\nStaunton, Checker, and Williams chess sets created with stunning detail and precision\nMuseum, Penthouse, and Library locations beautifully portrayed\nComprehensive tutorial that teaches you basic, intermediate, and advanced chess techniques\n3 Tournaments to test your tactics\n100 Bonus chess puzzles to ponder over\nPlay By Mail with up to 8 of your friends\nTrack your ELO and Tournament ratings in the ranking boards",
-    "release_date_on_eshop": "2014-03-20",
-    "product_code": "CTR-N-JPAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Puzzle",
-        "Strategy",
-        "Board Game"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
-    "descriptors": []
+  "tid": "0004008C000F1700",
+  "uid": "50010000021256",
+  "name": "Pure Chess® ",
+  "formal_name": "Pure Chess® ",
+  "description": "Offers in-game purchases\n<br><br>\nDownload Pure Chess®  to experience chess the way it's meant to be played, in stunning 3D.\n<br><br>\nExperience one of the oldest known boardgames on the advanced technology of today. Pure Chess® is a game that can be played by everyone, at any age, but mastered by only a few. The question is... Are you a Grandmaster in the making?\n<br><br>\nFull game upgrade features:\n<br><br>\nStaunton, Checker, and Williams chess sets created with stunning detail and precision\nMuseum, Penthouse, and Library locations beautifully portrayed\nComprehensive tutorial that teaches you basic, intermediate, and advanced chess techniques\n3 Tournaments to test your tactics\n100 Bonus chess puzzles to ponder over\nPlay By Mail with up to 8 of your friends\nTrack your ELO and Tournament ratings in the ranking boards",
+  "release_date_on_eshop": "2014-03-20",
+  "product_code": "CTR-N-JPAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Puzzle",
+    "Strategy",
+    "Board Game"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
+  "descriptors": []
 }

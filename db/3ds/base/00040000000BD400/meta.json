@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000BD400",
-    "uid": "50010000014030",
-    "name": "Puzzler Brain Games",
-    "formal_name": "Puzzler Brain Games",
-    "description": "The world’s best-selling puzzle brand brings you Puzzler Brain, an all-new collection of puzzles to keep your mind sharp! Put your memory, literary, numerical, and visual skills to the test with 20 brand new fun puzzles, a new Practice mode to exercise your skills, and all-new medals to unlock.\n<br><br>\nDo you have what it takes to be the ultimate Puzzler Brain champion? Work through the Professor’s program to find out! Review your progress with the in-game Progress Tracker and test as many times as you wish. Get your brain working with the ultimate puzzle compilation!",
-    "release_date_on_eshop": "2013-04-23",
-    "product_code": "CTR-N-AAGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BD400",
+  "uid": "50010000014030",
+  "name": "Puzzler Brain Games",
+  "formal_name": "Puzzler Brain Games",
+  "description": "The world’s best-selling puzzle brand brings you Puzzler Brain, an all-new collection of puzzles to keep your mind sharp! Put your memory, literary, numerical, and visual skills to the test with 20 brand new fun puzzles, a new Practice mode to exercise your skills, and all-new medals to unlock.\n<br><br>\nDo you have what it takes to be the ultimate Puzzler Brain champion? Work through the Professor’s program to find out! Review your progress with the in-game Progress Tracker and test as many times as you wish. Get your brain working with the ultimate puzzle compilation!",
+  "release_date_on_eshop": "2013-04-23",
+  "product_code": "CTR-N-AAGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

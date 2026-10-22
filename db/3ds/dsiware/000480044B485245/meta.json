@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B485245",
-    "uid": "50010000002643",
-    "name": "Picture Perfect Pocket Stylist",
-    "formal_name": "Picture Perfect Pocket Stylist",
-    "description": "With Picture Perfect Pocket Stylist your hairdresser will always be with you! Have fun inventing new hairstyles for the cartoon characters or for you and your friends! Take a picture of yourself and see how you look with a new haircut! When you find the right style, save it in the Nintendo DSi album. And you can also import a picture from the album and use it to create new styles! There are thousands of combinations of styles and makeup!",
-    "release_date_on_eshop": "2011-05-02",
-    "product_code": "TWL-N-KHRE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B485245",
+  "uid": "50010000002643",
+  "name": "Picture Perfect Pocket Stylist",
+  "formal_name": "Picture Perfect Pocket Stylist",
+  "description": "With Picture Perfect Pocket Stylist your hairdresser will always be with you! Have fun inventing new hairstyles for the cartoon characters or for you and your friends! Take a picture of yourself and see how you look with a new haircut! When you find the right style, save it in the Nintendo DSi album. And you can also import a picture from the album and use it to create new styles! There are thousands of combinations of styles and makeup!",
+  "release_date_on_eshop": "2011-05-02",
+  "product_code": "TWL-N-KHRE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

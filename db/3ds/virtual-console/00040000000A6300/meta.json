@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000A6300",
-    "uid": "50010000014852",
-    "name": "Super Mario Bros. 2™",
-    "formal_name": "Super Mario Bros. 2™",
-    "description": "Join Mario and company on a journey\nto save the world of Subcon from the\nfoul frog tyrant, Wart.\n<br/><br/>\nSuper Mario Bros. 2 offered freedom\nto explore levels not only horizontally\nbut also vertically; while collecting\npower-ups, uprooting veggies to throw\nat enemies and seeking out hidden\n‘Sub-space’ rooms.\n<br/><br/>\nIt was the first Mario title to let\nplayers control other characters like\nPrincess Toadstool (Peach) and Toad;\neach with their own skills. It also\nfeatured the first appearance of many\nMario series regulars, including Shy\nGuy and Birdo.",
-    "release_date_on_eshop": "2013-08-07",
-    "product_code": "CTR-N-TBMP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A6300",
+  "uid": "50010000014852",
+  "name": "Super Mario Bros. 2™",
+  "formal_name": "Super Mario Bros. 2™",
+  "description": "Join Mario and company on a journey\nto save the world of Subcon from the\nfoul frog tyrant, Wart.\n<br/><br/>\nSuper Mario Bros. 2 offered freedom\nto explore levels not only horizontally\nbut also vertically; while collecting\npower-ups, uprooting veggies to throw\nat enemies and seeking out hidden\n‘Sub-space’ rooms.\n<br/><br/>\nIt was the first Mario title to let\nplayers control other characters like\nPrincess Toadstool (Peach) and Toad;\neach with their own skills. It also\nfeatured the first appearance of many\nMario series regulars, including Shy\nGuy and Birdo.",
+  "release_date_on_eshop": "2013-08-07",
+  "product_code": "CTR-N-TBMP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

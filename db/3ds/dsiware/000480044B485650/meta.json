@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B485650",
-    "uid": "50010000019665",
-    "name": "Successfully Learning\nGerman Year 3",
-    "formal_name": "Successfully Learning\nGerman Year 3",
-    "description": "In \"Successfully Learning German\nYear 3\", pupils will solve exciting\nexercises to learn German in a playful\nway. The little vampire Freddy\nmotivates the children and helps with\ntips.<br>\n<br>\nLanguages: English, German, Turkish.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KHVP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B485650",
+  "uid": "50010000019665",
+  "name": "Successfully Learning\nGerman Year 3",
+  "formal_name": "Successfully Learning\nGerman Year 3",
+  "description": "In \"Successfully Learning German\nYear 3\", pupils will solve exciting\nexercises to learn German in a playful\nway. The little vampire Freddy\nmotivates the children and helps with\ntips.<br>\n<br>\nLanguages: English, German, Turkish.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KHVP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

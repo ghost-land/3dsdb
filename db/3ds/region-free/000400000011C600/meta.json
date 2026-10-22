@@ -1,29 +1,29 @@
 {
-    "tid": "000400000011C600",
-    "uid": "50010000020215",
-    "name": "Pokémon™ Battle Trozei",
-    "formal_name": "Pokémon™ Battle Trozei",
-    "description": "Puzzle-solving skills, meet adrenaline! Prepare for fast-paced Pokémon puzzle action—because you’re about to match Pokémon while battling and collecting even more Pokémon. This strategic puzzle game includes every known Pokémon—more than 700—from Pokémon Red and Pokémon Blue all the way to Pokémon X and Pokémon Y. Are you a master or aren’t you?\n<br><br>\nMoving and matching Pokémon to create chains is easy to start, but difficult to master. Match 3 or more Pokémon characters in a row to attack one of the many powerful opponents Pokémon you’ll face, like Xerneas, Yveltal, or Charizard! During this wild puzzle action, you’ll lower opponents’ Health Points and eventually capture them, similar to a regular Pokémon battle! Fans can expect classic Pokémon type-based strategy, adding depth that puzzle solvers of all ages can enjoy.\n<br><br>\nGAME PLAYABLE ONLY IN 2D",
-    "release_date_on_eshop": "2014-03-20",
-    "product_code": "CTR-N-JR8A",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "Region Free",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000011C600",
+  "uid": "50010000020215",
+  "name": "Pokémon™ Battle Trozei",
+  "formal_name": "Pokémon™ Battle Trozei",
+  "description": "Puzzle-solving skills, meet adrenaline! Prepare for fast-paced Pokémon puzzle action—because you’re about to match Pokémon while battling and collecting even more Pokémon. This strategic puzzle game includes every known Pokémon—more than 700—from Pokémon Red and Pokémon Blue all the way to Pokémon X and Pokémon Y. Are you a master or aren’t you?\n<br><br>\nMoving and matching Pokémon to create chains is easy to start, but difficult to master. Match 3 or more Pokémon characters in a row to attack one of the many powerful opponents Pokémon you’ll face, like Xerneas, Yveltal, or Charizard! During this wild puzzle action, you’ll lower opponents’ Health Points and eventually capture them, similar to a regular Pokémon battle! Fans can expect classic Pokémon type-based strategy, adding depth that puzzle solvers of all ages can enjoy.\n<br><br>\nGAME PLAYABLE ONLY IN 2D",
+  "release_date_on_eshop": "2014-03-20",
+  "product_code": "CTR-N-JR8A",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "Region Free",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

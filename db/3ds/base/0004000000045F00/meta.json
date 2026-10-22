@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000045F00",
-    "uid": "50010000007060",
-    "name": "BIT.TRIP SAGA",
-    "formal_name": "BIT.TRIP SAGA",
-    "description": "All six BIT.TRIP games morphed into a single entity called BIT.TRIP SAGA. Experience the crushing difficulty of the rhythmic galaxies through the head of CommanderVideo and ride along the long journey with him as he completes his mission and returns...home. Dance to the Chiptune-inspired soundtrack and look out for special guest appearances by Super Meat Boy and Mr. Robotube. <p>BIT.TRIP SAGA includes: BIT.TRIP BEAT, BIT.TRIP CORE, BIT.TRIP VOID, BIT.TRIP RUNNER, BIT.TRIP FATE, and BIT.TRIP FLUX...in 3D!",
-    "release_date_on_eshop": "2012-12-20",
-    "product_code": "CTR-N-ABTE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000045F00",
+  "uid": "50010000007060",
+  "name": "BIT.TRIP SAGA",
+  "formal_name": "BIT.TRIP SAGA",
+  "description": "All six BIT.TRIP games morphed into a single entity called BIT.TRIP SAGA. Experience the crushing difficulty of the rhythmic galaxies through the head of CommanderVideo and ride along the long journey with him as he completes his mission and returns...home. Dance to the Chiptune-inspired soundtrack and look out for special guest appearances by Super Meat Boy and Mr. Robotube. <p>BIT.TRIP SAGA includes: BIT.TRIP BEAT, BIT.TRIP CORE, BIT.TRIP VOID, BIT.TRIP RUNNER, BIT.TRIP FATE, and BIT.TRIP FLUX...in 3D!",
+  "release_date_on_eshop": "2012-12-20",
+  "product_code": "CTR-N-ABTE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

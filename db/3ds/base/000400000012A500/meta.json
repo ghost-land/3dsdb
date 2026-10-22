@@ -1,28 +1,28 @@
 {
-    "tid": "000400000012A500",
-    "uid": "50010000021136",
-    "name": "鋼鉄帝国\nSTEEL EMPIRE",
-    "formal_name": "鋼鉄帝国\nSTEEL EMPIRE",
-    "description": "弾を中てる、避ける、ボム……\n<br>スチームパンクな世界観の昔ながらのシューティングゲームです。\n<br>\n<br>メガドライブ、ゲームボーイアドバンスでリリースされ、コアなファンも多い『鋼鉄帝国』がニンテンドー3DSに登場。避けて撃つ、シューティングゲームの原点を楽しんでください。難易度設定により、初心者から上級者まで楽しめます。プレイ内容を保存できるリプレイ、オマケ要素をアンロックできる実績……盛り沢山の内容でお送りします。",
-    "release_date_on_eshop": "2014-03-19",
-    "product_code": "CTR-N-JPUJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シューティング",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012A500",
+  "uid": "50010000021136",
+  "name": "鋼鉄帝国\nSTEEL EMPIRE",
+  "formal_name": "鋼鉄帝国\nSTEEL EMPIRE",
+  "description": "弾を中てる、避ける、ボム……\n<br>スチームパンクな世界観の昔ながらのシューティングゲームです。\n<br>\n<br>メガドライブ、ゲームボーイアドバンスでリリースされ、コアなファンも多い『鋼鉄帝国』がニンテンドー3DSに登場。避けて撃つ、シューティングゲームの原点を楽しんでください。難易度設定により、初心者から上級者まで楽しめます。プレイ内容を保存できるリプレイ、オマケ要素をアンロックできる実績……盛り沢山の内容でお送りします。",
+  "release_date_on_eshop": "2014-03-19",
+  "product_code": "CTR-N-JPUJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シューティング",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

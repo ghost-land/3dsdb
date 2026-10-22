@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DC100",
-    "uid": "50010000048357",
-    "name": "Pinball Breaker V",
-    "formal_name": "Pinball Breaker V",
-    "description": "Pinball Breaker V is a breakout game which combines the game mechanics of a traditional breakout game and a flipper game.\n<br>Play through 15 exciting levels as you aim for a high score.",
-    "release_date_on_eshop": "2019-11-14",
-    "product_code": "CTR-N-A55P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DC100",
+  "uid": "50010000048357",
+  "name": "Pinball Breaker V",
+  "formal_name": "Pinball Breaker V",
+  "description": "Pinball Breaker V is a breakout game which combines the game mechanics of a traditional breakout game and a flipper game.\n<br>Play through 15 exciting levels as you aim for a high score.",
+  "release_date_on_eshop": "2019-11-14",
+  "product_code": "CTR-N-A55P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

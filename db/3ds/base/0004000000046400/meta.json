@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000046400",
-    "uid": "50010000006894",
-    "name": "Gabrielle's Ghostly\nGroove™ 3D",
-    "formal_name": "Gabrielle's Ghostly Groove™ 3D",
-    "description": "Gabrielle’s having a bad day. She sneezed her soul right out of her body! She’ll have to travel to Monsterville, the home of all things that go bump in the night, to get help. Only by busting out the ghostliest dance moves and thrilling and chilling people will she be able to scare up the power she needs to get herself back into her body! It’s a spooktacular rhythm adventure!\n<br><br>\nCatchy tunes will have you tapping, sliding, and flicking in time to the music!<br>\nUnlock chilling minigames!<br>\nEarn tons of terror-ific outfits, items, and more!<br>\nA fun-filled story with over 30 stages to master!<br>",
-    "release_date_on_eshop": "2013-04-04",
-    "product_code": "CTR-N-AG3E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000046400",
+  "uid": "50010000006894",
+  "name": "Gabrielle's Ghostly\nGroove™ 3D",
+  "formal_name": "Gabrielle's Ghostly Groove™ 3D",
+  "description": "Gabrielle’s having a bad day. She sneezed her soul right out of her body! She’ll have to travel to Monsterville, the home of all things that go bump in the night, to get help. Only by busting out the ghostliest dance moves and thrilling and chilling people will she be able to scare up the power she needs to get herself back into her body! It’s a spooktacular rhythm adventure!\n<br><br>\nCatchy tunes will have you tapping, sliding, and flicking in time to the music!<br>\nUnlock chilling minigames!<br>\nEarn tons of terror-ific outfits, items, and more!<br>\nA fun-filled story with over 30 stages to master!<br>",
+  "release_date_on_eshop": "2013-04-04",
+  "product_code": "CTR-N-AG3E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

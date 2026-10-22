@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000040C00",
-    "uid": "50010000007056",
-    "name": "Baseball",
-    "formal_name": "Baseball",
-    "description": "Re-live the glory of this 1989 Game Boy™ classic!\n<br><br>\nAs the pitching team, deliver a series of fastballs while adjusting curve and speed. But be careful of wearing out your pitcher! If the batter connects, your outfield or infield will back you up. Three outs by the opposing team, and it's your turn at offense! As the batting team, shift your batter on the home plate and time their swing at the incoming ball. Try to safely reach the next base, or score for a home run! Strategize your team's moves, and score for the winning team! It's time to play ball!",
-    "release_date_on_eshop": "1989-08",
-    "product_code": "CTR-N-RABE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000040C00",
+  "uid": "50010000007056",
+  "name": "Baseball",
+  "formal_name": "Baseball",
+  "description": "Re-live the glory of this 1989 Game Boy™ classic!\n<br><br>\nAs the pitching team, deliver a series of fastballs while adjusting curve and speed. But be careful of wearing out your pitcher! If the batter connects, your outfield or infield will back you up. Three outs by the opposing team, and it's your turn at offense! As the batting team, shift your batter on the home plate and time their swing at the incoming ball. Try to safely reach the next base, or score for a home run! Strategize your team's moves, and score for the winning team! It's time to play ball!",
+  "release_date_on_eshop": "1989-08",
+  "product_code": "CTR-N-RABE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

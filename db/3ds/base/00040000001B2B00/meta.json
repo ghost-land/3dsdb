@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001B2B00",
-    "uid": "50010000042445",
-    "name": "Parascientific Escape \n - Gear Detective",
-    "formal_name": "Parascientific Escape \n<br> - Gear Detective",
-    "description": "'Parascientific Escape～Gear Detective～' is a sequal to 'Parascientific Escape～Cruise in the distant seas～’, where the player is required to find clues and solve puzzles to escape certain situation using PSI abilities.\n<br>The story follows Detective Kyosuke Ayana, who has the ability named chronokinesis which allows him to look back in time in a limited field of view, for up till 5 days back. Detective Ayana is hired to find a serial killer threatening the quiet neighborhood of Camellia Hills - but soon finds himself in much bigger trouble as he investigates the crime scenes.",
-    "release_date_on_eshop": "2017-03-02",
-    "product_code": "CTR-N-KGEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B2B00",
+  "uid": "50010000042445",
+  "name": "Parascientific Escape \n - Gear Detective",
+  "formal_name": "Parascientific Escape \n<br> - Gear Detective",
+  "description": "'Parascientific Escape～Gear Detective～' is a sequal to 'Parascientific Escape～Cruise in the distant seas～’, where the player is required to find clues and solve puzzles to escape certain situation using PSI abilities.\n<br>The story follows Detective Kyosuke Ayana, who has the ability named chronokinesis which allows him to look back in time in a limited field of view, for up till 5 days back. Detective Ayana is hired to find a serial killer threatening the quiet neighborhood of Camellia Hills - but soon finds himself in much bigger trouble as he investigates the crime scenes.",
+  "release_date_on_eshop": "2017-03-02",
+  "product_code": "CTR-N-KGEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

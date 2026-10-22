@@ -1,38 +1,38 @@
 {
-    "tid": "0004000000185B00",
-    "uid": "50010000040123",
-    "name": "Monster Hunter™ Generations",
-    "formal_name": "Monster Hunter™ Generations",
-    "description": "The hunt is about to begin in the world of Monster Hunter! Take up the role of a hunter, seeking out and vanquishing a variety of colossal creatures. Or, for the first time, choose to fight as a Felyne in Prowler mode and see the world through their little furry eyes!\n<br>\n<br>Customise your hunting style, gear up in new armour and defend the villages from the menace of The Fated Four!\n<br>\n<br>- Define your unique hunter by choosing from four hunting styles, 14 weapon types and an array of devastating Hunter Arts.\n<br>- Explore new villages and maps, and relive returning fan-favourites.\n<br>- Hunt alone offline or continue the adventure with your fellow hunters, whether as a Hunter or Prowler, through local and online co-operative multiplayer!\n<br>\n<br>Happy Hunting!",
-    "release_date_on_eshop": "2016-07-15",
-    "product_code": "CTR-P-BXXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000185B00",
+  "uid": "50010000040123",
+  "name": "Monster Hunter™ Generations",
+  "formal_name": "Monster Hunter™ Generations",
+  "description": "The hunt is about to begin in the world of Monster Hunter! Take up the role of a hunter, seeking out and vanquishing a variety of colossal creatures. Or, for the first time, choose to fight as a Felyne in Prowler mode and see the world through their little furry eyes!\n<br>\n<br>Customise your hunting style, gear up in new armour and defend the villages from the menace of The Fated Four!\n<br>\n<br>- Define your unique hunter by choosing from four hunting styles, 14 weapon types and an array of devastating Hunter Arts.\n<br>- Explore new villages and maps, and relive returning fan-favourites.\n<br>- Hunt alone offline or continue the adventure with your fellow hunters, whether as a Hunter or Prowler, through local and online co-operative multiplayer!\n<br>\n<br>Happy Hunting!",
+  "release_date_on_eshop": "2016-07-15",
+  "product_code": "CTR-P-BXXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

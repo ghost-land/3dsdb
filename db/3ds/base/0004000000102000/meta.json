@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000102000",
-    "uid": "50010000020173",
-    "name": "The LEGO Movie Videogame",
-    "formal_name": "The LEGO Movie Videogame",
-    "description": "Transform the ordinary into the\nextraordinary and experience the\nultimate LEGO building experience in\nthe all new The LEGO® Movie\nVideogame. Step into the world of\nEmmet, an ordinary, rules-following,\nperfectly average citizen who is\nmistakenly identified as the most\nextraordinary person and the key to\nsaving the world. Players guide him as\nhe is drafted into a fellowship of\nstrangers on an epic quest to stop an\nevil tyrant, a journey for which Emmet\nis hopelessly and hilariously\nunderprepared.<br/> ",
-    "release_date_on_eshop": "2014-04-11",
-    "product_code": "CTR-P-AFJP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "* Game contains\nEnglish voice over.",
-    "descriptors": []
+  "tid": "0004000000102000",
+  "uid": "50010000020173",
+  "name": "The LEGO Movie Videogame",
+  "formal_name": "The LEGO Movie Videogame",
+  "description": "Transform the ordinary into the\nextraordinary and experience the\nultimate LEGO building experience in\nthe all new The LEGO® Movie\nVideogame. Step into the world of\nEmmet, an ordinary, rules-following,\nperfectly average citizen who is\nmistakenly identified as the most\nextraordinary person and the key to\nsaving the world. Players guide him as\nhe is drafted into a fellowship of\nstrangers on an epic quest to stop an\nevil tyrant, a journey for which Emmet\nis hopelessly and hilariously\nunderprepared.<br/> ",
+  "release_date_on_eshop": "2014-04-11",
+  "product_code": "CTR-P-AFJP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "* Game contains\nEnglish voice over.",
+  "descriptors": []
 }

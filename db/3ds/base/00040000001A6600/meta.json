@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001A6600",
-    "uid": "50010000041701",
-    "name": "Chase Cold Case Investigations\n~Distant Memories~",
-    "formal_name": "Chase: Cold Case Investigations\n~Distant Memories~",
-    "description": "Chase: Cold Case Investigations ~Distant Memories~ is an adventure mystery game from the mind of Taisuke Kanasaki, director of the famed Hotel Dusk: Room 215! Join the exploits of two gritty detectives whose sense of justice and raw instinct drive them to seek the truth. Put your sleuthing skills to the challenge by re-investigating old crime scenes and solving cold cases by searching for clues and interrogating perps! Find leads by diving head first into old investigation notes, crime scene photos and eye witness reports as you put together all the pieces. Once you have a solid lead, interrogate persons of interest to see what they do (or don't) know. Grill perps by asking tough questions, but be careful! Ask the wrong questions and your Interrogation Gauge will deplete. Ask too many wrong questions and it's Game Over!",
-    "release_date_on_eshop": "2016-10-13",
-    "product_code": "CTR-N-KMVE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001A6600",
+  "uid": "50010000041701",
+  "name": "Chase Cold Case Investigations\n~Distant Memories~",
+  "formal_name": "Chase: Cold Case Investigations\n~Distant Memories~",
+  "description": "Chase: Cold Case Investigations ~Distant Memories~ is an adventure mystery game from the mind of Taisuke Kanasaki, director of the famed Hotel Dusk: Room 215! Join the exploits of two gritty detectives whose sense of justice and raw instinct drive them to seek the truth. Put your sleuthing skills to the challenge by re-investigating old crime scenes and solving cold cases by searching for clues and interrogating perps! Find leads by diving head first into old investigation notes, crime scene photos and eye witness reports as you put together all the pieces. Once you have a solid lead, interrogate persons of interest to see what they do (or don't) know. Grill perps by asking tough questions, but be careful! Ask the wrong questions and your Interrogation Gauge will deplete. Ask too many wrong questions and it's Game Over!",
+  "release_date_on_eshop": "2016-10-13",
+  "product_code": "CTR-N-KMVE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

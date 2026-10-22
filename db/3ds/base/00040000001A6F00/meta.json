@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001A6F00",
-    "uid": "50010000041675",
-    "name": "Chase-Cold Case Investigations\n~Distant Memories~",
-    "formal_name": "Chase-Cold Case Investigations\n<br>~Distant Memories~",
-    "description": "Chase: Cold Case Investigations ~Distant Memories~ is an adventure mystery game from the mind of Taisuke Kanasaki, director of the famed Hotel Dusk: Room 215! Join the exploits of two gritty detectives whose sense of justice and raw instinct drive them to seek the truth. Put your sleuthing skills to the challenge by re-investigating old crime scenes and solving cold cases by searching for clues and interrogating perps! Find leads by diving head first into old investigation notes, crime scene photos and eye witness reports as you put together all the pieces. Once you have a solid lead, interrogate persons of interest to see what they do (or don't) know. Grill perps by asking tough questions, but be careful! Ask the wrong questions and your Interrogation Gauge will deplete. Ask too many wrong questions and it's Game Over!",
-    "release_date_on_eshop": "2016-10-13",
-    "product_code": "CTR-N-KMVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A6F00",
+  "uid": "50010000041675",
+  "name": "Chase-Cold Case Investigations\n~Distant Memories~",
+  "formal_name": "Chase-Cold Case Investigations\n<br>~Distant Memories~",
+  "description": "Chase: Cold Case Investigations ~Distant Memories~ is an adventure mystery game from the mind of Taisuke Kanasaki, director of the famed Hotel Dusk: Room 215! Join the exploits of two gritty detectives whose sense of justice and raw instinct drive them to seek the truth. Put your sleuthing skills to the challenge by re-investigating old crime scenes and solving cold cases by searching for clues and interrogating perps! Find leads by diving head first into old investigation notes, crime scene photos and eye witness reports as you put together all the pieces. Once you have a solid lead, interrogate persons of interest to see what they do (or don't) know. Grill perps by asking tough questions, but be careful! Ask the wrong questions and your Interrogation Gauge will deplete. Ask too many wrong questions and it's Game Over!",
+  "release_date_on_eshop": "2016-10-13",
+  "product_code": "CTR-N-KMVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

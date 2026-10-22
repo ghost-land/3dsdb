@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F709700",
-    "uid": "50010000042621",
-    "name": "BRICK RACE",
-    "formal_name": "BRICK RACE",
-    "description": "はるか昔のアーケードゲームの様な画面で、左右のボタンだけを利用し、レースを楽しむゲームです。\n<br>十字ボタンの左右を使い、前を走る車を追い越していきます。接触した時点でゲームオーバーです。\n<br>上手くすり抜けていくと、レベルがあがり、徐々に難易度とスピードが上がります。ゲームオーバー以外に終わりはなく、ひたすらハイスコアを狙う、とっさの判断力が鍛えられるゲームです。",
-    "release_date_on_eshop": "2017-05-17",
-    "product_code": "KTR-N-CBEJ",
-    "platform_name": "New 3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース",
-        "アクション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000F709700",
+  "uid": "50010000042621",
+  "name": "BRICK RACE",
+  "formal_name": "BRICK RACE",
+  "description": "はるか昔のアーケードゲームの様な画面で、左右のボタンだけを利用し、レースを楽しむゲームです。\n<br>十字ボタンの左右を使い、前を走る車を追い越していきます。接触した時点でゲームオーバーです。\n<br>上手くすり抜けていくと、レベルがあがり、徐々に難易度とスピードが上がります。ゲームオーバー以外に終わりはなく、ひたすらハイスコアを狙う、とっさの判断力が鍛えられるゲームです。",
+  "release_date_on_eshop": "2017-05-17",
+  "product_code": "KTR-N-CBEJ",
+  "platform_name": "New 3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース",
+    "アクション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

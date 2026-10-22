@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000167100",
-    "uid": "50010000035355",
-    "name": "I Love My Cats",
-    "formal_name": "I Love My Cats",
-    "description": "Become a best friend to the animals\nby taking in abandoned kittens. Look\nafter them every day so they flourish\nwith their new family: feed them,\nstroke them, tend them, raise them\nand play with them.\n<br/>\nDiscover the town around you: take\nthem for walks in the park, enter\ncompetitions on the beach and buy\nnew toys for them at the market.\n<br/><br/>\n- 8 cat breeds: Siamese, Maine\nCoon, Abyssinian, Tabby, British\nShorthair, Havana Brown, Scottish\nFold, Snowshoe.\n<br/>\n- 15 activities for playing and caring\nfor your kittens.\n<br/>\n- Change the way they look with a\nwide range of accessories.",
-    "release_date_on_eshop": "2015-07-23",
-    "product_code": "CTR-P-ALKP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000167100",
+  "uid": "50010000035355",
+  "name": "I Love My Cats",
+  "formal_name": "I Love My Cats",
+  "description": "Become a best friend to the animals\nby taking in abandoned kittens. Look\nafter them every day so they flourish\nwith their new family: feed them,\nstroke them, tend them, raise them\nand play with them.\n<br/>\nDiscover the town around you: take\nthem for walks in the park, enter\ncompetitions on the beach and buy\nnew toys for them at the market.\n<br/><br/>\n- 8 cat breeds: Siamese, Maine\nCoon, Abyssinian, Tabby, British\nShorthair, Havana Brown, Scottish\nFold, Snowshoe.\n<br/>\n- 15 activities for playing and caring\nfor your kittens.\n<br/>\n- Change the way they look with a\nwide range of accessories.",
+  "release_date_on_eshop": "2015-07-23",
+  "product_code": "CTR-P-ALKP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

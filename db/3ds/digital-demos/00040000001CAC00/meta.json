@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001CAC00",
-    "uid": "50010000043936",
-    "name": "Kirby Battle Royale Demo",
-    "formal_name": "Kirby Battle Royale Demo",
-    "description": "Kirby is about to enter a tournament against his toughest rival yet...himself! Up to 4 players can fight to be the last Kirby standing in a variety of battle modes!\n<br>\n<br>In this demo, play 3 different battle modes with 3 different abilities solo, or multiplayer. Local play as well as Download Play is supported, so gather your friends!",
-    "release_date_on_eshop": "2017-10-19",
-    "product_code": "CTR-N-BB4P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CAC00",
+  "uid": "50010000043936",
+  "name": "Kirby Battle Royale Demo",
+  "formal_name": "Kirby Battle Royale Demo",
+  "description": "Kirby is about to enter a tournament against his toughest rival yet...himself! Up to 4 players can fight to be the last Kirby standing in a variety of battle modes!\n<br>\n<br>In this demo, play 3 different battle modes with 3 different abilities solo, or multiplayer. Local play as well as Download Play is supported, so gather your friends!",
+  "release_date_on_eshop": "2017-10-19",
+  "product_code": "CTR-N-BB4P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

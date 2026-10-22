@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000048000",
-    "uid": "50010000009084",
-    "name": "初音ミク and Future Stars\nProject mirai",
-    "formal_name": "初音ミク and Future Stars\nProject mirai",
-    "description": "“初音ミク”をはじめとするボーカロイドキャラクターたちが登場する、リズムゲームと3DPV鑑賞がお楽しみいただけるゲームソフトです。\n<br>\n<br>CGモデルはグッドスマイルカンパニー社の人気フィギュア“ねんどろいど”のデザインを公式採用。ゲームは本作ならではのライトなゲームシステムとポップな選曲を実現!\n<br>さらに「AR」によるデスクトップライブや3D写真撮影など、ミライ機能満載!\n<br>「マイルーム」では、いつでもミクたちに会うことができます!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AM9J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "音楽",
-        "アクション",
-        "その他"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応",
-        "Mii"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000048000",
+  "uid": "50010000009084",
+  "name": "初音ミク and Future Stars\nProject mirai",
+  "formal_name": "初音ミク and Future Stars\nProject mirai",
+  "description": "“初音ミク”をはじめとするボーカロイドキャラクターたちが登場する、リズムゲームと3DPV鑑賞がお楽しみいただけるゲームソフトです。\n<br>\n<br>CGモデルはグッドスマイルカンパニー社の人気フィギュア“ねんどろいど”のデザインを公式採用。ゲームは本作ならではのライトなゲームシステムとポップな選曲を実現!\n<br>さらに「AR」によるデスクトップライブや3D写真撮影など、ミライ機能満載!\n<br>「マイルーム」では、いつでもミクたちに会うことができます!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AM9J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "音楽",
+    "アクション",
+    "その他"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応",
+    "Mii"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

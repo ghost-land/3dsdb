@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B494545",
-    "uid": "50010000002423",
-    "name": "Music on: Electric Guitar",
-    "formal_name": "Music on: Electric Guitar",
-    "description": "A cool electric guitar in your pocket! Transform your Nintendo DSi system into an incredible electric guitar and your stylus into a pick. You'll be amazed at how easy it is to play your favorite songs, even if music isn't your thing!\n\nFeatures:\n* Pedals: Distortion, Flanger & Delay\n  - Free organization and real sound outcome\n  - Individually activated\n  - 3 adjustment parameters\n  - Real-time sound representation\n* Advanced Play Screen\n  - Great for melodies, arpeggios & chord variations\n  - \"Solo\" function, limits the sound to the last string played\n  - 1 octave transposition function\n  - 7 transposition of a note for each string\n  - Vibrato\n* 32 definable chords on the Control Pad\n\nAnd also:\n* +950 chords\n* 32 different kind of chords with up to 6 variations\n* Graphic & sound representation of the chords\n* Intensity detection while strumming\n* Chord Lock\n* Palm Mute\n* Realistic playing sound effects\n* Save up to 10 sessions (chords & pedals)",
-    "release_date_on_eshop": "2010-11-22",
-    "product_code": "TWL-N-KIEE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B494545",
+  "uid": "50010000002423",
+  "name": "Music on: Electric Guitar",
+  "formal_name": "Music on: Electric Guitar",
+  "description": "A cool electric guitar in your pocket! Transform your Nintendo DSi system into an incredible electric guitar and your stylus into a pick. You'll be amazed at how easy it is to play your favorite songs, even if music isn't your thing!\n\nFeatures:\n* Pedals: Distortion, Flanger & Delay\n  - Free organization and real sound outcome\n  - Individually activated\n  - 3 adjustment parameters\n  - Real-time sound representation\n* Advanced Play Screen\n  - Great for melodies, arpeggios & chord variations\n  - \"Solo\" function, limits the sound to the last string played\n  - 1 octave transposition function\n  - 7 transposition of a note for each string\n  - Vibrato\n* 32 definable chords on the Control Pad\n\nAnd also:\n* +950 chords\n* 32 different kind of chords with up to 6 variations\n* Graphic & sound representation of the chords\n* Intensity detection while strumming\n* Chord Lock\n* Palm Mute\n* Realistic playing sound effects\n* Save up to 10 sessions (chords & pedals)",
+  "release_date_on_eshop": "2010-11-22",
+  "product_code": "TWL-N-KIEE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

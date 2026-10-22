@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B543345",
-    "uid": "50010000003821",
-    "name": "Academy: Tic-Tac-Toe",
-    "formal_name": "Academy: Tic-Tac-Toe",
-    "description": "One of the world’s most famous pen-and-paper game for two players can now be in your pocket wherever you go. If there is no one around to play the game with you, don’t worry: skillful AI players will gladly play with you in any of the four Tic-Tac-Toe variants available. If a single 3x3 playing field makes you claustrophobic, you'll be happy to try the new Nine Board game mode that adds a nice twist and more strategic depth to the game. Prove that you're a worthy Tic-Tac-Toe player by entering the Tic-Tac-Toe League and advancing from the initial School Club League, through Academic, City, National, and World Leagues up to the Super Stars League! Claim the top spot and become the Tic-Tac-Toe Champ!",
-    "release_date_on_eshop": "2010-10-18",
-    "product_code": "TWL-N-KT3E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B543345",
+  "uid": "50010000003821",
+  "name": "Academy: Tic-Tac-Toe",
+  "formal_name": "Academy: Tic-Tac-Toe",
+  "description": "One of the world’s most famous pen-and-paper game for two players can now be in your pocket wherever you go. If there is no one around to play the game with you, don’t worry: skillful AI players will gladly play with you in any of the four Tic-Tac-Toe variants available. If a single 3x3 playing field makes you claustrophobic, you'll be happy to try the new Nine Board game mode that adds a nice twist and more strategic depth to the game. Prove that you're a worthy Tic-Tac-Toe player by entering the Tic-Tac-Toe League and advancing from the initial School Club League, through Academic, City, National, and World Leagues up to the Super Stars League! Claim the top spot and become the Tic-Tac-Toe Champ!",
+  "release_date_on_eshop": "2010-10-18",
+  "product_code": "TWL-N-KT3E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000159000",
-    "uid": "50010000030335",
-    "name": "Titan Attacks!",
-    "formal_name": "Titan Attacks!",
-    "description": "Single-handedly turn back the evil\ninvading Titan army! Drive back the\naliens across the Solar System, and\nfinally defeat them on their homeworld\nin this modern remix of classic arcade\nshoot'em'ups.\n<br><br>\nTitan Attacks! has the same\neasy-to-learn but hard-to-master\ngameplay of classic arcade shooters,\nbut is packed full of new features, new\nstrategies, and stylish neo-retro\nvisuals. \n<br><br>\nBATTLE swarms of alien fighters,\nbombers and giant boss motherships\nover 5 unique worlds and 100 levels\nof frantic action!\n<br><br>\nFIGHT the Titan Invasion across the\nEarth, the Moon, Mars, Saturn and\nfinally Titan itself!<br><br>\nEARN bounty money and upgrade\nyour ship with new weapons and\npowers!\n<br><br>\nDESTROY falling wrecks, dodge\nhurtling asteroids and capture\nescaping aliens - or blast them from\nthe skies!\n <br><br>\nWIN prizes in sharp-shooter challenge\nstages and compete with other players\nfor a place on the online leaderboards!",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-N-KTTP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Shooter",
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000159000",
+  "uid": "50010000030335",
+  "name": "Titan Attacks!",
+  "formal_name": "Titan Attacks!",
+  "description": "Single-handedly turn back the evil\ninvading Titan army! Drive back the\naliens across the Solar System, and\nfinally defeat them on their homeworld\nin this modern remix of classic arcade\nshoot'em'ups.\n<br><br>\nTitan Attacks! has the same\neasy-to-learn but hard-to-master\ngameplay of classic arcade shooters,\nbut is packed full of new features, new\nstrategies, and stylish neo-retro\nvisuals. \n<br><br>\nBATTLE swarms of alien fighters,\nbombers and giant boss motherships\nover 5 unique worlds and 100 levels\nof frantic action!\n<br><br>\nFIGHT the Titan Invasion across the\nEarth, the Moon, Mars, Saturn and\nfinally Titan itself!<br><br>\nEARN bounty money and upgrade\nyour ship with new weapons and\npowers!\n<br><br>\nDESTROY falling wrecks, dodge\nhurtling asteroids and capture\nescaping aliens - or blast them from\nthe skies!\n <br><br>\nWIN prizes in sharp-shooter challenge\nstages and compete with other players\nfor a place on the online leaderboards!",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-N-KTTP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Shooter",
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

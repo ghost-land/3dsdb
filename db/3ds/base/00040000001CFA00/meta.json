@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001CFA00",
-    "uid": "50010000045115",
-    "name": "Fat Dragons",
-    "formal_name": "Fat Dragons",
-    "description": "Fly your dragon and do battle against enemy dragons invading your territories! Fight within the ruins of an ancient city, then do combat among the trees in a lush jungle. Dodge the molten fireballs launched from an erupting volcano, and avoid pounding rain storms and lightning strikes amidst the clouds - all while taking out your enemies!\n<br>\n<br>Light-hearted arcade action.\n<br>Colorful retro-styled graphics.",
-    "release_date_on_eshop": "2018-02-22",
-    "product_code": "CTR-N-LFDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001CFA00",
+  "uid": "50010000045115",
+  "name": "Fat Dragons",
+  "formal_name": "Fat Dragons",
+  "description": "Fly your dragon and do battle against enemy dragons invading your territories! Fight within the ruins of an ancient city, then do combat among the trees in a lush jungle. Dodge the molten fireballs launched from an erupting volcano, and avoid pounding rain storms and lightning strikes amidst the clouds - all while taking out your enemies!\n<br>\n<br>Light-hearted arcade action.\n<br>Colorful retro-styled graphics.",
+  "release_date_on_eshop": "2018-02-22",
+  "product_code": "CTR-N-LFDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

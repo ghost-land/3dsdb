@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001A6000",
-    "uid": "50010000040981",
-    "name": "Mario Party™: Star Rush:\nParty Guest",
-    "formal_name": "Mario Party™: Star Rush:\n<br>Party Guest",
-    "description": "Four friends, four Nintendo 3DS family systems, but only one copy of Mario Party: Star Rush? No problem! With Mario Party: Star Rush - Party Guest everybody can have access to the full multiplayer experience with a single copy of the game – just as if you were playing with more than one copy of the game!\n<br>\n<br>All you need to do is download Mario Party: Star Rush - Party Guest on the Nintendo 3DS family system of any player that doesn’t have the full game, and away you play! You can also try out some minigames in single-player after completing some multiplayer rounds. Match three in Tiles and Tribulations, blast baddies in Goomba Gold Rush and be a circus star in Rolling Rumble, or check out some famous Mushroom Kingdom faces in the Character Museum.\n<br>\n<br>Supports 4 Players via Local Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-10-07",
-    "product_code": "CTR-N-BABP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A6000",
+  "uid": "50010000040981",
+  "name": "Mario Party™: Star Rush:\nParty Guest",
+  "formal_name": "Mario Party™: Star Rush:\n<br>Party Guest",
+  "description": "Four friends, four Nintendo 3DS family systems, but only one copy of Mario Party: Star Rush? No problem! With Mario Party: Star Rush - Party Guest everybody can have access to the full multiplayer experience with a single copy of the game – just as if you were playing with more than one copy of the game!\n<br>\n<br>All you need to do is download Mario Party: Star Rush - Party Guest on the Nintendo 3DS family system of any player that doesn’t have the full game, and away you play! You can also try out some minigames in single-player after completing some multiplayer rounds. Match three in Tiles and Tribulations, blast baddies in Goomba Gold Rush and be a circus star in Rolling Rumble, or check out some famous Mushroom Kingdom faces in the Character Museum.\n<br>\n<br>Supports 4 Players via Local Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-10-07",
+  "product_code": "CTR-N-BABP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000084400",
-    "uid": "50010000010554",
-    "name": "レイマン オリジン",
-    "formal_name": "レイマン オリジン",
-    "description": "レイマンと仲間たちが大暴れする手描きアニメ風アクション『レイマン オリジン』は、誰でも楽しめる王道の横スクロールアクション。イラストで描かれたようなグラフィックと世界観がとっても魅了的。登場するキャラクターたちの躍動感溢れる動きによって、まるで手描きアニメを見ている気分に!レイマンと仲間たちを操作して、多彩なステージをクリアしよう!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ARMJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000084400",
+  "uid": "50010000010554",
+  "name": "レイマン オリジン",
+  "formal_name": "レイマン オリジン",
+  "description": "レイマンと仲間たちが大暴れする手描きアニメ風アクション『レイマン オリジン』は、誰でも楽しめる王道の横スクロールアクション。イラストで描かれたようなグラフィックと世界観がとっても魅了的。登場するキャラクターたちの躍動感溢れる動きによって、まるで手描きアニメを見ている気分に!レイマンと仲間たちを操作して、多彩なステージをクリアしよう!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ARMJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

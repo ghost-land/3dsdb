@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000AB700",
-    "uid": "50010000010995",
-    "name": "マダガスカル3",
-    "formal_name": "マダガスカル3",
-    "description": "映画『マダガスカル』シリーズでお馴染みのキャラクターたちを操作しながら進む横スクロールアクションゲームです。\n<br>水中移動はグロリア、ジャンプはアレックスなど、キャラクターそれぞれの特技を活かしたアクションが楽しめます。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AMCJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AB700",
+  "uid": "50010000010995",
+  "name": "マダガスカル3",
+  "formal_name": "マダガスカル3",
+  "description": "映画『マダガスカル』シリーズでお馴染みのキャラクターたちを操作しながら進む横スクロールアクションゲームです。\n<br>水中移動はグロリア、ジャンプはアレックスなど、キャラクターそれぞれの特技を活かしたアクションが楽しめます。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AMCJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

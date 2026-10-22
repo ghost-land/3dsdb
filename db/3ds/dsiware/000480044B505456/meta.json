@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B505456",
-    "uid": "50010000006021",
-    "name": "Link 'n' Launch™",
-    "formal_name": "Link 'n' Launch™",
-    "description": "Blast off to new heights of fun with a\npuzzler that is truly out of this world!\nIn Link ‘n’ Launch, you must propel a\nrocket into space by flipping and\nrotating tiles to link fuel to the\nrocket’s engines.<br>\n<br>\nIn Mission Mode, you have just three\nminutes to reach the next planet,\nquickly linking tiles while keeping your\nrocket on course. Think your way\naround unmovable tiles and collect\nspecial tiles that upgrade your rocket\nor grant additional time.<br>\n<br>\nIn Puzzle Mode, work out a path that\nwill use up all the fuel and pipe tiles\nand clear the screen. With 100\npuzzles to complete, it's a challenge\nof galactic proportions!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KPTV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B505456",
+  "uid": "50010000006021",
+  "name": "Link 'n' Launch™",
+  "formal_name": "Link 'n' Launch™",
+  "description": "Blast off to new heights of fun with a\npuzzler that is truly out of this world!\nIn Link ‘n’ Launch, you must propel a\nrocket into space by flipping and\nrotating tiles to link fuel to the\nrocket’s engines.<br>\n<br>\nIn Mission Mode, you have just three\nminutes to reach the next planet,\nquickly linking tiles while keeping your\nrocket on course. Think your way\naround unmovable tiles and collect\nspecial tiles that upgrade your rocket\nor grant additional time.<br>\n<br>\nIn Puzzle Mode, work out a path that\nwill use up all the fuel and pipe tiles\nand clear the screen. With 100\npuzzles to complete, it's a challenge\nof galactic proportions!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KPTV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,36 +1,36 @@
 {
-    "tid": "00040000000FC600",
-    "uid": "50010000017893",
-    "name": "Bravely Default™",
-    "formal_name": "Bravely Default™",
-    "description": "The crystal’s glow wanes by the\nhour. Its fading light portends a\ngreater darkness to come. Something\nmust be done… \n<br/><br/>\nIn Bravely Default, quest through\nLuxendarc to awaken the crystals in a\nunique and innovative RPG experience,\nonly on Nintendo 3DS family systems.\nMeet mysterious allies and terrible\nfoes from all corners of the world,\nand best your enemies in instantly\naccessible turn-based battles. The\nnew “Brave and Default” and “Bravely\nSecond” systems set the stage for\neven more strategies, allowing you to\ndisrupt the flow of traditional\nturn-based battles by attacking\nmultiple times in a single turn – or\neven freezing time.",
-    "release_date_on_eshop": "2013-12-06",
-    "product_code": "CTR-P-BTRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FC600",
+  "uid": "50010000017893",
+  "name": "Bravely Default™",
+  "formal_name": "Bravely Default™",
+  "description": "The crystal’s glow wanes by the\nhour. Its fading light portends a\ngreater darkness to come. Something\nmust be done… \n<br/><br/>\nIn Bravely Default, quest through\nLuxendarc to awaken the crystals in a\nunique and innovative RPG experience,\nonly on Nintendo 3DS family systems.\nMeet mysterious allies and terrible\nfoes from all corners of the world,\nand best your enemies in instantly\naccessible turn-based battles. The\nnew “Brave and Default” and “Bravely\nSecond” systems set the stage for\neven more strategies, allowing you to\ndisrupt the flow of traditional\nturn-based battles by attacking\nmultiple times in a single turn – or\neven freezing time.",
+  "release_date_on_eshop": "2013-12-06",
+  "product_code": "CTR-P-BTRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

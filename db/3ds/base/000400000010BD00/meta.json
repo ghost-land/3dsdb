@@ -1,31 +1,31 @@
 {
-    "tid": "000400000010BD00",
-    "uid": "50010000040736",
-    "name": "Rubik's® Cube",
-    "formal_name": "Rubik's® Cube",
-    "description": "Play anywhere, anytime on the most authentic digital representation of the Rubik’s Cube available. Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik.\n<br>\n<br>Game Features:\n<br>Intuitive touch controls\n<br>Cube 2x2x2 and Cube 3x3x3\n<br>Solver\n<br>Camera Capture\n<br>Internet rankings\n<br>\n<br>The game is developed under the license of the Rubik's Brand Ltd.",
-    "release_date_on_eshop": "2016-06-23",
-    "product_code": "CTR-N-JLQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Simulation",
-        "Education"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000010BD00",
+  "uid": "50010000040736",
+  "name": "Rubik's® Cube",
+  "formal_name": "Rubik's® Cube",
+  "description": "Play anywhere, anytime on the most authentic digital representation of the Rubik’s Cube available. Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik.\n<br>\n<br>Game Features:\n<br>Intuitive touch controls\n<br>Cube 2x2x2 and Cube 3x3x3\n<br>Solver\n<br>Camera Capture\n<br>Internet rankings\n<br>\n<br>The game is developed under the license of the Rubik's Brand Ltd.",
+  "release_date_on_eshop": "2016-06-23",
+  "product_code": "CTR-N-JLQE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Education"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

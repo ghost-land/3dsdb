@@ -1,26 +1,26 @@
 {
-    "tid": "000400000004FB00",
-    "uid": "50010000007235",
-    "name": "PAC-MAN®",
-    "formal_name": "PAC-MAN®",
-    "description": "Pac-Man comes to a new mobile platform! You control everyone’s favorite icon, Pac-Man, as you navigate through mazes, eating Pac-Dots while simultaneously avoiding the devious Ghosts. Warp from one edge of the maze to the other using the Warp Tunnels, or eat a Power Pellet to turn the tables and make the Ghosts vulnerable! In order to clear the stage, you’ll need to eat all the Pac-Dots! See just how far you can get through the stages before losing all your lives! Fruits, such as cherries and strawberries, will give you extra points to help you reach the highest score!",
-    "release_date_on_eshop": "1991-04",
-    "product_code": "CTR-N-RAZE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004FB00",
+  "uid": "50010000007235",
+  "name": "PAC-MAN®",
+  "formal_name": "PAC-MAN®",
+  "description": "Pac-Man comes to a new mobile platform! You control everyone’s favorite icon, Pac-Man, as you navigate through mazes, eating Pac-Dots while simultaneously avoiding the devious Ghosts. Warp from one edge of the maze to the other using the Warp Tunnels, or eat a Power Pellet to turn the tables and make the Ghosts vulnerable! In order to clear the stage, you’ll need to eat all the Pac-Dots! See just how far you can get through the stages before losing all your lives! Fruits, such as cherries and strawberries, will give you extra points to help you reach the highest score!",
+  "release_date_on_eshop": "1991-04",
+  "product_code": "CTR-N-RAZE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

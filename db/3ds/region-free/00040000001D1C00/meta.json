@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001D1C00",
-    "uid": "50010000045936",
-    "name": "WarioWare™ Gold",
-    "formal_name": "WarioWare™ Gold",
-    "description": "The latest in the WarioWare series is coming to Nintendo 3DS family systems! Which means, there’s a new way to play Wario’s strangely satisfying microgames.\n<br>\n<br>With classics and new additions, there are 300 microgames to enjoy, making this the biggest entry in the series! Press buttons, tilt the system, use the Touch Screen and microphone, and dig that crazy action while it’s hot!",
-    "release_date_on_eshop": "2018-07-27",
-    "product_code": "CTR-N-AWXA",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Region Free",
-    "genres": [
-        "Action",
-        "Party"
-    ],
-    "features": [
-        "Supports Local Play",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D1C00",
+  "uid": "50010000045936",
+  "name": "WarioWare™ Gold",
+  "formal_name": "WarioWare™ Gold",
+  "description": "The latest in the WarioWare series is coming to Nintendo 3DS family systems! Which means, there’s a new way to play Wario’s strangely satisfying microgames.\n<br>\n<br>With classics and new additions, there are 300 microgames to enjoy, making this the biggest entry in the series! Press buttons, tilt the system, use the Touch Screen and microphone, and dig that crazy action while it’s hot!",
+  "release_date_on_eshop": "2018-07-27",
+  "product_code": "CTR-N-AWXA",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Region Free",
+  "genres": [
+    "Action",
+    "Party"
+  ],
+  "features": [
+    "Supports Local Play",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

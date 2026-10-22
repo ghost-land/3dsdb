@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000BCE00",
-    "uid": "50010000012616",
-    "name": "2 Fast 4 Gnomz",
-    "formal_name": "2 Fast 4 Gnomz",
-    "description": "Join Bumb, Berzerk, Speedster and\nUncle Time as they run, fly, bounce,\nglide and break their way through the\nmagical lands of Gnomia to reach\ntheir mysterious destiny. You can help\nthem save the kingdom, find a\nprincess and collect hundreds of\nprecious lost socks.\n<br/><br/>\nGame Features:\n<br/>\n* Jumping, smashing, gliding, flying,\nfalling, speeding.\n<br/>\n* Simple sit-and-play gameplay.\n<br/>\n* Challenging try-and-die difficulty.\n<br/>\n* 45 levels in magical land of\nGnomia.\n<br/>\n* Four switchable characters.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JT4P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BCE00",
+  "uid": "50010000012616",
+  "name": "2 Fast 4 Gnomz",
+  "formal_name": "2 Fast 4 Gnomz",
+  "description": "Join Bumb, Berzerk, Speedster and\nUncle Time as they run, fly, bounce,\nglide and break their way through the\nmagical lands of Gnomia to reach\ntheir mysterious destiny. You can help\nthem save the kingdom, find a\nprincess and collect hundreds of\nprecious lost socks.\n<br/><br/>\nGame Features:\n<br/>\n* Jumping, smashing, gliding, flying,\nfalling, speeding.\n<br/>\n* Simple sit-and-play gameplay.\n<br/>\n* Challenging try-and-die difficulty.\n<br/>\n* 45 levels in magical land of\nGnomia.\n<br/>\n* Four switchable characters.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JT4P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

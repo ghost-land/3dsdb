@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001DBF00",
-    "uid": "50010000048235",
-    "name": "Tinboy",
-    "formal_name": "Tinboy",
-    "description": "Tinboy is a puzzle-platformer, with a high difficulty level.\n<br>A brilliant scientist creates a humanoid little robot. She then tests her creation by placing it in different environments. Using a special bow, the robot must reach the exit of every environment. Take control of the robot and solve the scientist’s puzzles.",
-    "release_date_on_eshop": "2020-02-20",
-    "product_code": "CTR-N-L7FP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DBF00",
+  "uid": "50010000048235",
+  "name": "Tinboy",
+  "formal_name": "Tinboy",
+  "description": "Tinboy is a puzzle-platformer, with a high difficulty level.\n<br>A brilliant scientist creates a humanoid little robot. She then tests her creation by placing it in different environments. Using a special bow, the robot must reach the exit of every environment. Take control of the robot and solve the scientist’s puzzles.",
+  "release_date_on_eshop": "2020-02-20",
+  "product_code": "CTR-N-L7FP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

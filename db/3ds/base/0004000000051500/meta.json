@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000051500",
-    "uid": "50010000007642",
-    "name": "Need for Speed: The Run",
-    "formal_name": "Need for Speed: The Run",
-    "description": "Matt is a marked man. Matt has just\nfound a way to save his life. All he\nneeds to do is win an illicit,\ncoast-to-coast race from San\nFrancisco to New York. It’s called The\nRun, three-thousand miles of\nunforgiving asphalt from San Francisco\nto New York. No speed limits. No\nrules. No allies. Armed with just his\nguts and instinct, Matt battles a field\nof the most notorious drivers ever\nassembled. Dense city streets, icy\nmountain passes and narrow canyons\npush his driving skills to the limit.\nRelentlessly hunted by the police, as\nwell as the men who want him dead,\nMatt is racing for his life.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ANSP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000051500",
+  "uid": "50010000007642",
+  "name": "Need for Speed: The Run",
+  "formal_name": "Need for Speed: The Run",
+  "description": "Matt is a marked man. Matt has just\nfound a way to save his life. All he\nneeds to do is win an illicit,\ncoast-to-coast race from San\nFrancisco to New York. It’s called The\nRun, three-thousand miles of\nunforgiving asphalt from San Francisco\nto New York. No speed limits. No\nrules. No allies. Armed with just his\nguts and instinct, Matt battles a field\nof the most notorious drivers ever\nassembled. Dense city streets, icy\nmountain passes and narrow canyons\npush his driving skills to the limit.\nRelentlessly hunted by the police, as\nwell as the men who want him dead,\nMatt is racing for his life.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ANSP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000B2E00",
-    "uid": "50010000018055",
-    "name": "City Connection™",
-    "formal_name": "City Connection™",
-    "description": "After breaking into a paint store in New York City, the cops are now coming after you! Carrying leaky 10-gallon paint cans, drive over every mile of New York City highways before catching a boat to England. From there, you will go on a tour of the world, avoiding the police and leaking paint all over the place. Your only defense: picking up oil cans left on highways and throwing them at police cars. \n<br><br>\nSend the police for a spin, and knock them off the road as you make your getaway!",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-N-TBUE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer",
-        "Racing"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this <br>software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000B2E00",
+  "uid": "50010000018055",
+  "name": "City Connection™",
+  "formal_name": "City Connection™",
+  "description": "After breaking into a paint store in New York City, the cops are now coming after you! Carrying leaky 10-gallon paint cans, drive over every mile of New York City highways before catching a boat to England. From there, you will go on a tour of the world, avoiding the police and leaking paint all over the place. Your only defense: picking up oil cans left on highways and throwing them at police cars. \n<br><br>\nSend the police for a spin, and knock them off the road as you make your getaway!",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-N-TBUE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer",
+    "Racing"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this <br>software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000F1100",
-    "uid": "50010000017754",
-    "name": "Luxor™",
-    "formal_name": "Luxor™",
-    "description": "Answer the call of the goddess, Isis, in this gripping Marble Popper! Chains of colored spheres are working their way through ancient Egypt, and it’s up to you to stop them before they reach the pyramids. Wielding your mystical winged-shooter, you must fire colored orbs into the chain to make matches of three or more, and eliminate the spheres from the chain!",
-    "release_date_on_eshop": "2013-11-07",
-    "product_code": "CTR-N-ALXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F1100",
+  "uid": "50010000017754",
+  "name": "Luxor™",
+  "formal_name": "Luxor™",
+  "description": "Answer the call of the goddess, Isis, in this gripping Marble Popper! Chains of colored spheres are working their way through ancient Egypt, and it’s up to you to stop them before they reach the pyramids. Wielding your mystical winged-shooter, you must fire colored orbs into the chain to make matches of three or more, and eliminate the spheres from the chain!",
+  "release_date_on_eshop": "2013-11-07",
+  "product_code": "CTR-N-ALXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

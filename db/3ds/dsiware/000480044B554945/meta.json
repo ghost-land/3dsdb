@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B554945",
-    "uid": "50010000011346",
-    "name": "Decathlon 2012",
-    "formal_name": "Decathlon 2012",
-    "description": "Roman Šebrle’s world record of 9026 points is shaking at its roots. \nThe time has come for a competition in the premiere athletic discipline – the decathlon. After hard training only the most versatile athlete will win. Every error will be mercilessly penalized and the chance to create a new world record will vanish away in the London fog.\n10 games in one: 100 meters sprint, long jump, shot put, high jump, 400 meters run, 110 meters hurdles, discus throw, pole vault, javelin throw, and finally the exhausting 1500 meters run.\nEnjoy a stylish design which naturally complements the great playability of original sports games. But this time you don’t have to worry about breaking your joystick. During the track events you have to move the stylus with the correct frequency and not waste your stamina. When jumping, you have to attain the necessary speed and time your take-off correctly, and when throwing you won’t succeed without totally concentrating on your technique.",
-    "release_date_on_eshop": "2012-07-26",
-    "product_code": "TWL-N-KUIE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Sports",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B554945",
+  "uid": "50010000011346",
+  "name": "Decathlon 2012",
+  "formal_name": "Decathlon 2012",
+  "description": "Roman Šebrle’s world record of 9026 points is shaking at its roots. \nThe time has come for a competition in the premiere athletic discipline – the decathlon. After hard training only the most versatile athlete will win. Every error will be mercilessly penalized and the chance to create a new world record will vanish away in the London fog.\n10 games in one: 100 meters sprint, long jump, shot put, high jump, 400 meters run, 110 meters hurdles, discus throw, pole vault, javelin throw, and finally the exhausting 1500 meters run.\nEnjoy a stylish design which naturally complements the great playability of original sports games. But this time you don’t have to worry about breaking your joystick. During the track events you have to move the stylus with the correct frequency and not waste your stamina. When jumping, you have to attain the necessary speed and time your take-off correctly, and when throwing you won’t succeed without totally concentrating on your technique.",
+  "release_date_on_eshop": "2012-07-26",
+  "product_code": "TWL-N-KUIE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Sports",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

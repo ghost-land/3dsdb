@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B525545",
-    "uid": "50010000003462",
-    "name": "Rummikub",
-    "formal_name": "Rummikub",
-    "description": "For over 50 years, players have loved Rummikub's combination of tactical thinking, luck and tense competition. Combine the tiles to create the smartest combinations. Play with friends who have their own copy of Rummikub and win the game using your wits. You can also pit those very wits against the computer in single player mode at various difficulty settings. Collect all the medals Rummikub has to offer and become the world champion!",
-    "release_date_on_eshop": "2010-10-04",
-    "product_code": "TWL-N-KRUE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525545",
+  "uid": "50010000003462",
+  "name": "Rummikub",
+  "formal_name": "Rummikub",
+  "description": "For over 50 years, players have loved Rummikub's combination of tactical thinking, luck and tense competition. Combine the tiles to create the smartest combinations. Play with friends who have their own copy of Rummikub and win the game using your wits. You can also pit those very wits against the computer in single player mode at various difficulty settings. Collect all the medals Rummikub has to offer and become the world champion!",
+  "release_date_on_eshop": "2010-10-04",
+  "product_code": "TWL-N-KRUE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

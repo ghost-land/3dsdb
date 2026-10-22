@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00169E00",
-    "uid": "",
-    "name": "プロ野球 ファミスタ リターンズ",
-    "formal_name": "プロ野球 ファミスタ リターンズ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BP5J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00169E00",
+  "uid": "",
+  "name": "プロ野球 ファミスタ リターンズ",
+  "formal_name": "プロ野球 ファミスタ リターンズ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BP5J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4E5550",
-    "uid": "50010000004541",
-    "name": "Pucca\nNoodle Rush",
-    "formal_name": "Pucca\nNoodle Rush",
-    "description": "Pucca Noodle Rush was inspired by\ntime management mechanisms, along\nwith many new ideas from the Pucca\ntelevision series.<br>\n<br>\nYou control Pucca, who is in charge\nof customer service in her uncles'\nrestaurant: seat customers, take their\norders, serve them, clear the tables,\npocket the cash, give priority service\nto your important friends, bring your\nimpatient customers back to their\ntables, make sure that you seat your\ncustomers according to their\nrespective affinities and rivalries...",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KNUP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4E5550",
+  "uid": "50010000004541",
+  "name": "Pucca\nNoodle Rush",
+  "formal_name": "Pucca\nNoodle Rush",
+  "description": "Pucca Noodle Rush was inspired by\ntime management mechanisms, along\nwith many new ideas from the Pucca\ntelevision series.<br>\n<br>\nYou control Pucca, who is in charge\nof customer service in her uncles'\nrestaurant: seat customers, take their\norders, serve them, clear the tables,\npocket the cash, give priority service\nto your important friends, bring your\nimpatient customers back to their\ntables, make sure that you seat your\ncustomers according to their\nrespective affinities and rivalries...",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KNUP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000142100",
-    "uid": "50010000031736",
-    "name": "STORY OF SEASONS",
-    "formal_name": "STORY OF SEASONS",
-    "description": "Best-selling farming/life simulation game of all time returns\n<BR><BR>\nLongtime series producer Yoshifumi Hashimoto returns to lead a veteran ‘Bokujo Monogatari’\ndevelopment team as the series is reborn in the West with its new name, STORY OF SEASONS.\n<BR><BR>\nExtensive character and farm customization\n<BR><BR>\nAfter creating unique farmers based on each player’s preference of gender, hair style and facial\nfeatures, the real work begins as players tend to crops, animals and anything else required to earn\na living in order to gather the resources to start customizing and expanding their farms.\n<BR><BR>\nA heart-throbbing romance heats up the peaceful farm life\n<BR><BR>\nA variety of eligible bachelors and bachelorettes live in the town for players to woo, with the hope of\ngrowing close and possibly even getting married and raising a family together.\n<BR><BR>\nUse the game's StreetPass functionality to fill your town with visiting farmers or connect locally to Nintendo Wi-Fi to visit your friends and farm together!",
-    "release_date_on_eshop": "2015-03-31",
-    "product_code": "CTR-N-BTSE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "RPG"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n<br>“Download Later” to download the game when the system enters “sleep mode.”\n<br>\n<br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000142100",
+  "uid": "50010000031736",
+  "name": "STORY OF SEASONS",
+  "formal_name": "STORY OF SEASONS",
+  "description": "Best-selling farming/life simulation game of all time returns\n<BR><BR>\nLongtime series producer Yoshifumi Hashimoto returns to lead a veteran ‘Bokujo Monogatari’\ndevelopment team as the series is reborn in the West with its new name, STORY OF SEASONS.\n<BR><BR>\nExtensive character and farm customization\n<BR><BR>\nAfter creating unique farmers based on each player’s preference of gender, hair style and facial\nfeatures, the real work begins as players tend to crops, animals and anything else required to earn\na living in order to gather the resources to start customizing and expanding their farms.\n<BR><BR>\nA heart-throbbing romance heats up the peaceful farm life\n<BR><BR>\nA variety of eligible bachelors and bachelorettes live in the town for players to woo, with the hope of\ngrowing close and possibly even getting married and raising a family together.\n<BR><BR>\nUse the game's StreetPass functionality to fill your town with visiting farmers or connect locally to Nintendo Wi-Fi to visit your friends and farm together!",
+  "release_date_on_eshop": "2015-03-31",
+  "product_code": "CTR-N-BTSE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "RPG"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n<br>“Download Later” to download the game when the system enters “sleep mode.”\n<br>\n<br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

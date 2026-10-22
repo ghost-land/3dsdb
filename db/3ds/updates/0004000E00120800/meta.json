@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00120800",
-    "uid": "50010000024075",
-    "name": "更新データ Ver. 1.1\nIslandDays",
-    "formal_name": "更新データ Ver. 1.1\nIslandDays",
-    "description": "ニンテンドー3DSソフト『IslandDays』の更新データです。『IslandDays』をお持ちのお客様は、必ずダウンロードしてください。\n\n・特定のイベントにてゲームが進行できなくなる不具合を修正しました。\n・特定のイベントにてキャラクターの表示が正しく行われない不具合を修正しました。 \n\n・本来発生しないイベントが発生してしまう不具合を修正しました。\n・本来発生するはずのイベントが発生しない不具合を修正しました。\n・メッセージテキストの誤字、矛盾点を修正しました。",
-    "release_date_on_eshop": "2014-07-16",
-    "product_code": "CTR-U-BDZJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": "ニンテンドー3DSソフト『IslandDays』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E00120800",
+  "uid": "50010000024075",
+  "name": "更新データ Ver. 1.1\nIslandDays",
+  "formal_name": "更新データ Ver. 1.1\nIslandDays",
+  "description": "ニンテンドー3DSソフト『IslandDays』の更新データです。『IslandDays』をお持ちのお客様は、必ずダウンロードしてください。\n\n・特定のイベントにてゲームが進行できなくなる不具合を修正しました。\n・特定のイベントにてキャラクターの表示が正しく行われない不具合を修正しました。 \n\n・本来発生しないイベントが発生してしまう不具合を修正しました。\n・本来発生するはずのイベントが発生しない不具合を修正しました。\n・メッセージテキストの誤字、矛盾点を修正しました。",
+  "release_date_on_eshop": "2014-07-16",
+  "product_code": "CTR-U-BDZJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": "ニンテンドー3DSソフト『IslandDays』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

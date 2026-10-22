@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000183100",
-    "uid": "50010000038437",
-    "name": "로데아 더 스카이 솔져",
-    "formal_name": "로데아 더 스카이 솔져",
-    "description": "이 마음, 미래에 닿아라.\n\n넓은 하늘을 달리는 호쾌함, 박력 있는 수많은 전투.\n과거의 기억, 자신을 도와준 소녀 이온.\n그리고 아름다운 천공의 대지 가루다를 구하기 위해 로데아는 싸웁니다.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AR6K",
-    "platform_name": "닌텐도 3DS 패키지",
-    "region": "Korea",
-    "genres": [
-        "어드벤처"
-    ],
-    "features": [
-        "Nintendo Network"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "제명 : 로데아 더 스카이 솔져\n상호 : 신세계아이앤씨\n이용등급 : 전체이용가\n등급분류번호: GC-CC-NV-150911-005\n등급분류 일자 : 2015.09.11\n제작・배급업신고번호 : 제2015-03호",
-    "descriptors": []
+  "tid": "0004000000183100",
+  "uid": "50010000038437",
+  "name": "로데아 더 스카이 솔져",
+  "formal_name": "로데아 더 스카이 솔져",
+  "description": "이 마음, 미래에 닿아라.\n\n넓은 하늘을 달리는 호쾌함, 박력 있는 수많은 전투.\n과거의 기억, 자신을 도와준 소녀 이온.\n그리고 아름다운 천공의 대지 가루다를 구하기 위해 로데아는 싸웁니다.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AR6K",
+  "platform_name": "닌텐도 3DS 패키지",
+  "region": "Korea",
+  "genres": [
+    "어드벤처"
+  ],
+  "features": [
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "제명 : 로데아 더 스카이 솔져\n상호 : 신세계아이앤씨\n이용등급 : 전체이용가\n등급분류번호: GC-CC-NV-150911-005\n등급분류 일자 : 2015.09.11\n제작・배급업신고번호 : 제2015-03호",
+  "descriptors": []
 }

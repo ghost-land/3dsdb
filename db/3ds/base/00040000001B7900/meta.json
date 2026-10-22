@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001B7900",
-    "uid": "50010000042443",
-    "name": "Farming Simulator 18",
-    "formal_name": "Farming Simulator 18",
-    "description": "Become a modern farmer in Farming Simulator 18! Plant, harvest, and trade in crops, including for the first time sunflowers. Diversify your activity with animal husbandry and forestry. Develop and expand your very own farm... wherever you go!\n<br>\n<br>More than 50 farming vehicles including AGCO brands\n<br>Breed and transport animals: cows, sheep, and for the first time, pigs\n<br>Plant crops, sell the product of your labor, and invest your profits! \n<br>Develop your farm in a new American environment",
-    "release_date_on_eshop": "2017-06-06",
-    "product_code": "CTR-P-A8FE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B7900",
+  "uid": "50010000042443",
+  "name": "Farming Simulator 18",
+  "formal_name": "Farming Simulator 18",
+  "description": "Become a modern farmer in Farming Simulator 18! Plant, harvest, and trade in crops, including for the first time sunflowers. Diversify your activity with animal husbandry and forestry. Develop and expand your very own farm... wherever you go!\n<br>\n<br>More than 50 farming vehicles including AGCO brands\n<br>Breed and transport animals: cows, sheep, and for the first time, pigs\n<br>Plant crops, sell the product of your labor, and invest your profits! \n<br>Develop your farm in a new American environment",
+  "release_date_on_eshop": "2017-06-06",
+  "product_code": "CTR-P-A8FE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

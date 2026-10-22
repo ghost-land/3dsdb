@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000155500",
-    "uid": "50010000027915",
-    "name": "Castle Conqueror EX",
-    "formal_name": "Castle Conqueror EX",
-    "description": "Commander! Are you ready to lead\nyour people against The Empire!?\n<br/><br/>\nCastle Conqueror EX is a real-time\nstrategy game for casual gamers.\nPlayers can play as 1 of 4 heroes in\nthe EX version of the Nintendo\nDSiWare™ hit Castle Conqueror. Your\nmission is to lead your soldiers into\nbattle, seize the enemy’s castle, and\ngain victories until The Empire is\nbanished from your land.\n<br/><br/>\nOther features:<br/>\n- Play through 50 levels with 4\nunique heroes that have their own\nadvantages in battle.<br/>\n- The EX version features AI and\nlevels that have been redone. Enemies\nare more intelligent and the levels are\nmore challenging.<br/>\n- All items and hero abilities have\nbeen redesigned.<br/>\n- A play coins feature that can be\nused to boost battle effects in-game.<br/>\n- Intended for both casual gamers\nand hardcore gamers.",
-    "release_date_on_eshop": "2014-11-27",
-    "product_code": "CTR-N-KCXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000155500",
+  "uid": "50010000027915",
+  "name": "Castle Conqueror EX",
+  "formal_name": "Castle Conqueror EX",
+  "description": "Commander! Are you ready to lead\nyour people against The Empire!?\n<br/><br/>\nCastle Conqueror EX is a real-time\nstrategy game for casual gamers.\nPlayers can play as 1 of 4 heroes in\nthe EX version of the Nintendo\nDSiWare™ hit Castle Conqueror. Your\nmission is to lead your soldiers into\nbattle, seize the enemy’s castle, and\ngain victories until The Empire is\nbanished from your land.\n<br/><br/>\nOther features:<br/>\n- Play through 50 levels with 4\nunique heroes that have their own\nadvantages in battle.<br/>\n- The EX version features AI and\nlevels that have been redone. Enemies\nare more intelligent and the levels are\nmore challenging.<br/>\n- All items and hero abilities have\nbeen redesigned.<br/>\n- A play coins feature that can be\nused to boost battle effects in-game.<br/>\n- Intended for both casual gamers\nand hardcore gamers.",
+  "release_date_on_eshop": "2014-11-27",
+  "product_code": "CTR-N-KCXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

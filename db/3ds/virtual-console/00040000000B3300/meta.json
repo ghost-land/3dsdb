@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000B3300",
-    "uid": "50010000016594",
-    "name": "Milon´s Secret Castle",
-    "formal_name": "Milon´s Secret Castle",
-    "description": "In a world where music is language,\nan evil warlord imprisons the queen\nand steals all the musical instruments.\nThe heroic Milon mounts a rescue\nmission, armed with only magic\nbubbles to help him reveal hidden\nitems and to defeat enemies.\n<br/><br/>\nThis cult platform classic is packed\nwith music references. Look out for\nmusic boxes that transport Milon to a\nbonus stage where you must collect\nnotes to turn them into cash.",
-    "release_date_on_eshop": "2013-09-26",
-    "product_code": "CTR-N-TBWP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B3300",
+  "uid": "50010000016594",
+  "name": "Milon´s Secret Castle",
+  "formal_name": "Milon´s Secret Castle",
+  "description": "In a world where music is language,\nan evil warlord imprisons the queen\nand steals all the musical instruments.\nThe heroic Milon mounts a rescue\nmission, armed with only magic\nbubbles to help him reveal hidden\nitems and to defeat enemies.\n<br/><br/>\nThis cult platform classic is packed\nwith music references. Look out for\nmusic boxes that transport Milon to a\nbonus stage where you must collect\nnotes to turn them into cash.",
+  "release_date_on_eshop": "2013-09-26",
+  "product_code": "CTR-N-TBWP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000171A00",
-    "uid": "50010000038518",
-    "name": "Pokémon™ Edición Azul",
-    "formal_name": "Pokémon™ Edición Azul",
-    "description": "You've got to be the very best, like\n<br>no one ever was - and the only way\n<br>to do that is by catching all the\n<br>Pokémon you can!\n<br><br>\n<br>Your quest to catch 'em all and\n<br>complete your Pokédex will take you\n<br>all over the world, and maybe one\n<br>day you'll even be able to defeat all\n<br>the Gym Leaders and collect their\n<br>badges!",
-    "release_date_on_eshop": "2016-02-27",
-    "product_code": "CTR-P-RCXA",
-    "platform_name": "Game Boy",
-    "region": "Region Free",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000171A00",
+  "uid": "50010000038518",
+  "name": "Pokémon™ Edición Azul",
+  "formal_name": "Pokémon™ Edición Azul",
+  "description": "You've got to be the very best, like\n<br>no one ever was - and the only way\n<br>to do that is by catching all the\n<br>Pokémon you can!\n<br><br>\n<br>Your quest to catch 'em all and\n<br>complete your Pokédex will take you\n<br>all over the world, and maybe one\n<br>day you'll even be able to defeat all\n<br>the Gym Leaders and collect their\n<br>badges!",
+  "release_date_on_eshop": "2016-02-27",
+  "product_code": "CTR-P-RCXA",
+  "platform_name": "Game Boy",
+  "region": "Region Free",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

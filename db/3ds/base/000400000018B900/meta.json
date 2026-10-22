@@ -1,29 +1,29 @@
 {
-    "tid": "000400000018B900",
-    "uid": "50010000039278",
-    "name": "Runny Egg",
-    "formal_name": "Runny Egg",
-    "description": "Take control of an egg with legs and\nrun as fast as you can through a\ncourse littered with dangers to reach\nthe egg stand at the end!\n<br/><br/>\nDuck and dodge your way through\neach stage, avoiding collisions that\nwill damage and eventually break your\nshell and spoil the egg! Reach the\ngoal as quickly as possible and\nwithout breaking the egg's shell!\n<br/><br/>\nEarn Egg Points for making it through\neach stage and extra points for\naccomplishing a task. Use your Egg\nPoints to enhance your egg's HP,\nSpeed and Shell.\n<br/><br/>\nCollect the chicks scattered\nthroughout each stage to increase\nyour rate of hatching. Getting 100\nchicks will hatch your egg, making\nyou invincible for a short period of\ntime!",
-    "release_date_on_eshop": "2016-01-28",
-    "product_code": "CTR-N-JTMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018B900",
+  "uid": "50010000039278",
+  "name": "Runny Egg",
+  "formal_name": "Runny Egg",
+  "description": "Take control of an egg with legs and\nrun as fast as you can through a\ncourse littered with dangers to reach\nthe egg stand at the end!\n<br/><br/>\nDuck and dodge your way through\neach stage, avoiding collisions that\nwill damage and eventually break your\nshell and spoil the egg! Reach the\ngoal as quickly as possible and\nwithout breaking the egg's shell!\n<br/><br/>\nEarn Egg Points for making it through\neach stage and extra points for\naccomplishing a task. Use your Egg\nPoints to enhance your egg's HP,\nSpeed and Shell.\n<br/><br/>\nCollect the chicks scattered\nthroughout each stage to increase\nyour rate of hatching. Getting 100\nchicks will hatch your egg, making\nyou invincible for a short period of\ntime!",
+  "release_date_on_eshop": "2016-01-28",
+  "product_code": "CTR-N-JTMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

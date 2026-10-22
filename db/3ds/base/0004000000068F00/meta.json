@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000068F00",
-    "uid": "50010000008021",
-    "name": "Pullblox™",
-    "formal_name": "Pullblox™",
-    "description": "Pullblox is a unique part-puzzle,\npart-platform game that will tax your\nbrain and creativity!<br>\n<br>\nChildren in Pullblox Park have been\ntrapped inside giant block puzzles –\n‘pullblox’ – that are as big as houses.\nSo it's tiny hero Mallo to the rescue!<br>\n<br>\nClimb the structures, pushing and\npulling blocks to use as steps, and\nrescue the children. If you make a\nmistake, simply rewind time and try\nagain!<br>\n<br>\nThere are more than 200 pullblox to\nenjoy, and you can also create your\nown in Pullblox Studio and exchange\nthem with friends via QR Code™.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JCAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000068F00",
+  "uid": "50010000008021",
+  "name": "Pullblox™",
+  "formal_name": "Pullblox™",
+  "description": "Pullblox is a unique part-puzzle,\npart-platform game that will tax your\nbrain and creativity!<br>\n<br>\nChildren in Pullblox Park have been\ntrapped inside giant block puzzles –\n‘pullblox’ – that are as big as houses.\nSo it's tiny hero Mallo to the rescue!<br>\n<br>\nClimb the structures, pushing and\npulling blocks to use as steps, and\nrescue the children. If you make a\nmistake, simply rewind time and try\nagain!<br>\n<br>\nThere are more than 200 pullblox to\nenjoy, and you can also create your\nown in Pullblox Studio and exchange\nthem with friends via QR Code™.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JCAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

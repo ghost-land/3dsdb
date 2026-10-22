@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E000CC400",
-    "uid": "50010000019233",
-    "name": "更新データ Ver. 1.1\n初音ミク Project mirai 2",
-    "formal_name": "更新データ Ver. 1.1\n初音ミク Project mirai 2",
-    "description": "ニンテンドー3DSソフト『初音ミク Project mirai 2』の更新データです。ゲーム中における一部問題点の修正とゲームプレイの改善に対応しております。\n<br>『初音ミク Project mirai 2』をお持ちのお客様は、ダウンロードしていただけますようお願いいたします。なお、更新データで修正される内容の詳細は、製品公式ページをご参照ください。",
-    "release_date_on_eshop": "2013-12-25",
-    "product_code": "CTR-U-AHNJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.3.0",
-    "disclaimer": "ニンテンドー3DSソフト『初音ミク Project mirai 2』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E000CC400",
+  "uid": "50010000019233",
+  "name": "更新データ Ver. 1.1\n初音ミク Project mirai 2",
+  "formal_name": "更新データ Ver. 1.1\n初音ミク Project mirai 2",
+  "description": "ニンテンドー3DSソフト『初音ミク Project mirai 2』の更新データです。ゲーム中における一部問題点の修正とゲームプレイの改善に対応しております。\n<br>『初音ミク Project mirai 2』をお持ちのお客様は、ダウンロードしていただけますようお願いいたします。なお、更新データで修正される内容の詳細は、製品公式ページをご参照ください。",
+  "release_date_on_eshop": "2013-12-25",
+  "product_code": "CTR-U-AHNJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.3.0",
+  "disclaimer": "ニンテンドー3DSソフト『初音ミク Project mirai 2』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

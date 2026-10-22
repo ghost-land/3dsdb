@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4B5145",
-    "uid": "50010000007497",
-    "name": "Bugs 'N' Balls",
-    "formal_name": "Bugs 'N' Balls",
-    "description": "Bugs 'N' Balls is the most played game in the Bug's World. Our goal is to play against all the opponents from the Cucumber League and win the maximum number of matches to gain access to the professional league. Bugs 'N' Balls is very easy to play: throw the balls on your side of the table into your adversary's side. Dodge the balls from your opponent or you'll get knocked out for a while. With luck, we can become champions of the professional league. But it's not that easy...we'll need to train hard!\n\n*Two game modes\n*Two leagues\n*Four characters\n*Mini-games...and more surprises!",
-    "release_date_on_eshop": "2011-09-29",
-    "product_code": "TWL-N-KKQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B5145",
+  "uid": "50010000007497",
+  "name": "Bugs 'N' Balls",
+  "formal_name": "Bugs 'N' Balls",
+  "description": "Bugs 'N' Balls is the most played game in the Bug's World. Our goal is to play against all the opponents from the Cucumber League and win the maximum number of matches to gain access to the professional league. Bugs 'N' Balls is very easy to play: throw the balls on your side of the table into your adversary's side. Dodge the balls from your opponent or you'll get knocked out for a while. With luck, we can become champions of the professional league. But it's not that easy...we'll need to train hard!\n\n*Two game modes\n*Two leagues\n*Four characters\n*Mini-games...and more surprises!",
+  "release_date_on_eshop": "2011-09-29",
+  "product_code": "TWL-N-KKQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

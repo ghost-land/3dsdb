@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4C3445",
-    "uid": "50010000007059",
-    "name": "My Australian Farm",
-    "formal_name": "My Australian Farm",
-    "description": "My Australian Farm is a simulation game!\n\nAt the beginning, all you own is an empty field, a little money and a single emu... You need to feed the emu and take care of it. Well-fed with seed, it will lay eggs which can then be sold to the Shopkeeper. With this money, you can buy new animals at the Farmers’ Market. Little by little as your farm builds up, you will unlock certain bonuses (a grain store, a wind turbine, a sacred stone, etc.). And you will be able to exchange your animals with your friends who play My Farm, My Exotic Farm, My Asian Farm or My Australian Farm!\n\n• 6 kind of animals to customize\n• Take care of your animals (food, clean, health, etc.)\n• Many farm improvement to buy and bonuses to collect\n• Exchange of animals and products with other players",
-    "release_date_on_eshop": "2011-07-28",
-    "product_code": "TWL-N-KL4E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B4C3445",
+  "uid": "50010000007059",
+  "name": "My Australian Farm",
+  "formal_name": "My Australian Farm",
+  "description": "My Australian Farm is a simulation game!\n\nAt the beginning, all you own is an empty field, a little money and a single emu... You need to feed the emu and take care of it. Well-fed with seed, it will lay eggs which can then be sold to the Shopkeeper. With this money, you can buy new animals at the Farmers’ Market. Little by little as your farm builds up, you will unlock certain bonuses (a grain store, a wind turbine, a sacred stone, etc.). And you will be able to exchange your animals with your friends who play My Farm, My Exotic Farm, My Asian Farm or My Australian Farm!\n\n• 6 kind of animals to customize\n• Take care of your animals (food, clean, health, etc.)\n• Many farm improvement to buy and bonuses to collect\n• Exchange of animals and products with other players",
+  "release_date_on_eshop": "2011-07-28",
+  "product_code": "TWL-N-KL4E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

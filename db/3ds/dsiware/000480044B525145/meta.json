@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B525145",
-    "uid": "50010000003441",
-    "name": "Rytmik Rock Edition",
-    "formal_name": "Rytmik Rock Edition",
-    "description": "Rytmik Rock Edition is an application for creating rhythmical and melodic themes and for composing whole songs. It contains more than 130 carefully selected sound samples of drums, keyboards, bass, clean, lead and rhythm guitars.\n\nWith Rytmik Rock Edition you can quickly and easily create the basic building stone—an audio clip. It consists of musical notations for up to four instruments that you may transpose, select their location in the stereo field, and modify their volume, polyphony and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music. Moreover you have a rhythm library and varied collection of 10 pre-made compositions at your disposal that you may quickly compose your own pieces from.\n\nFor the best musical experience we recommend connecting headphones or quality speaker system. You’ll become the king of the Rock party in no time...",
-    "release_date_on_eshop": "2010-12-06",
-    "product_code": "TWL-N-KRQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other",
-        "Music"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B525145",
+  "uid": "50010000003441",
+  "name": "Rytmik Rock Edition",
+  "formal_name": "Rytmik Rock Edition",
+  "description": "Rytmik Rock Edition is an application for creating rhythmical and melodic themes and for composing whole songs. It contains more than 130 carefully selected sound samples of drums, keyboards, bass, clean, lead and rhythm guitars.\n\nWith Rytmik Rock Edition you can quickly and easily create the basic building stone—an audio clip. It consists of musical notations for up to four instruments that you may transpose, select their location in the stereo field, and modify their volume, polyphony and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music. Moreover you have a rhythm library and varied collection of 10 pre-made compositions at your disposal that you may quickly compose your own pieces from.\n\nFor the best musical experience we recommend connecting headphones or quality speaker system. You’ll become the king of the Rock party in no time...",
+  "release_date_on_eshop": "2010-12-06",
+  "product_code": "TWL-N-KRQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other",
+    "Music"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

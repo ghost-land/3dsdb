@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B435145",
-    "uid": "50010000006862",
-    "name": "Crazy Cheebo: Puzzle Party",
-    "formal_name": "Crazy Cheebo: Puzzle Party",
-    "description": "Crazy Cheebo: Puzzle Party is a match three game, drag'n'drop style, that casual gamers will enjoy. The objective is to switch two objects to make a horizontal or vertical set of three or more objects of the same color. The player can win various awards by matching more objects and creating combos. The game contains colorful graphics, a Crazy Cheebo character, and lots of humorous videos. You can have even more fun when you compete against your friends in multiplayer games where you can show everyone who is the best player!",
-    "release_date_on_eshop": "2011-06-06",
-    "product_code": "TWL-N-KCQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435145",
+  "uid": "50010000006862",
+  "name": "Crazy Cheebo: Puzzle Party",
+  "formal_name": "Crazy Cheebo: Puzzle Party",
+  "description": "Crazy Cheebo: Puzzle Party is a match three game, drag'n'drop style, that casual gamers will enjoy. The objective is to switch two objects to make a horizontal or vertical set of three or more objects of the same color. The player can win various awards by matching more objects and creating combos. The game contains colorful graphics, a Crazy Cheebo character, and lots of humorous videos. You can have even more fun when you compete against your friends in multiplayer games where you can show everyone who is the best player!",
+  "release_date_on_eshop": "2011-06-06",
+  "product_code": "TWL-N-KCQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

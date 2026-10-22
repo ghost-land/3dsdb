@@ -1,39 +1,39 @@
 {
-    "tid": "00040000001B4100",
-    "uid": "50010000042409",
-    "name": "Fire Emblem™ Echoes:\nShadows of Valentia",
-    "formal_name": "Fire Emblem™ Echoes:\n<br>Shadows of Valentia",
-    "description": "Kingdoms clash over warring gods...\n<br>\n<br>In a continent torn asunder by warring gods, guide legions of soldiers through tactical battles in this reimagined strategy RPG epic!\n<br>\n<br>Uncover the intertwining tales of heroes Alm and Celica, engage foes, fend off monsters and explore 3D dungeons. Your prowess will grow as you master this melding of modern and classic Fire Emblem gameplay.\n<br>\n<br>In Valentia, battle is waged in the traditions of elder Fire Emblem games, when the rules of battle were simpler, yet the challenge formidable as ever. To stop the war and unify the continent, you’ll have to balance the needs of an army of soldiers with unique stats.\n<br>\n<br>Master iconic Fire Emblem character classes, such as Mage, Paladin and Archer as you bring strategic skills to bear in the challenging grid-based battle system. When you encounter a dungeon on the world map, explore every corner in action-adventure style. You never know what secrets you may unearth...\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-05-19",
-    "product_code": "CTR-P-AJJP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Strategy",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B4100",
+  "uid": "50010000042409",
+  "name": "Fire Emblem™ Echoes:\nShadows of Valentia",
+  "formal_name": "Fire Emblem™ Echoes:\n<br>Shadows of Valentia",
+  "description": "Kingdoms clash over warring gods...\n<br>\n<br>In a continent torn asunder by warring gods, guide legions of soldiers through tactical battles in this reimagined strategy RPG epic!\n<br>\n<br>Uncover the intertwining tales of heroes Alm and Celica, engage foes, fend off monsters and explore 3D dungeons. Your prowess will grow as you master this melding of modern and classic Fire Emblem gameplay.\n<br>\n<br>In Valentia, battle is waged in the traditions of elder Fire Emblem games, when the rules of battle were simpler, yet the challenge formidable as ever. To stop the war and unify the continent, you’ll have to balance the needs of an army of soldiers with unique stats.\n<br>\n<br>Master iconic Fire Emblem character classes, such as Mage, Paladin and Archer as you bring strategic skills to bear in the challenging grid-based battle system. When you encounter a dungeon on the world map, explore every corner in action-adventure style. You never know what secrets you may unearth...\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-05-19",
+  "product_code": "CTR-P-AJJP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Strategy",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

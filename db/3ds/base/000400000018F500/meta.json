@@ -1,31 +1,31 @@
 {
-    "tid": "000400000018F500",
-    "uid": "50010000040700",
-    "name": "The Battle Cats POP!",
-    "formal_name": "The Battle Cats POP!",
-    "description": "The tower-defense hit Battle Cats has\nachieved over 23,000,000\ndownloads worldwide for smartphones\nand tablets, and is now bursting onto\na new handheld scene with a\nNintendo 3DS™ release! Why be\ncontent with conquering the planet\nwhen the galaxy is yours to\ndominate?!<br />\nPlus, The Battle Cats POP!\nintroduces the hotly anticipated VS\nMode feature. Battle your friends and\nfamily for cool rewards!\n<br/><br />\nSpecial Features for the 3DS<br />\n・3D Battle Sequences<br />\n・No additional in-app purchases<br />\n・Pick up Uber Rare units from\nCapsules\n",
-    "release_date_on_eshop": "2016-06-27",
-    "product_code": "CTR-N-KNSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018F500",
+  "uid": "50010000040700",
+  "name": "The Battle Cats POP!",
+  "formal_name": "The Battle Cats POP!",
+  "description": "The tower-defense hit Battle Cats has\nachieved over 23,000,000\ndownloads worldwide for smartphones\nand tablets, and is now bursting onto\na new handheld scene with a\nNintendo 3DS™ release! Why be\ncontent with conquering the planet\nwhen the galaxy is yours to\ndominate?!<br />\nPlus, The Battle Cats POP!\nintroduces the hotly anticipated VS\nMode feature. Battle your friends and\nfamily for cool rewards!\n<br/><br />\nSpecial Features for the 3DS<br />\n・3D Battle Sequences<br />\n・No additional in-app purchases<br />\n・Pick up Uber Rare units from\nCapsules\n",
+  "release_date_on_eshop": "2016-06-27",
+  "product_code": "CTR-N-KNSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

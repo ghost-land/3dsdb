@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000AE300",
-    "uid": "50010000011767",
-    "name": "Lalaloopsy™: Carnival of Friends",
-    "formal_name": "Lalaloopsy™: \nCarnival of Friends",
-    "description": "Peanut Big Top™ is throwing the biggest Silly Funhouse carnival in Lalaloopsy Land for all to enjoy, including a special treat at the end! It's up to you to find all of the Lalaloopsy friends at the carnival to reveal the BIG surprise!<br>\n• See 40 of your favorite Lalaloopsy characters like never before. Plus, unlock a special character in the Nintendo 3DS game!\"<br>\n• For the first time ever play with the Lalaloopsy siblings, the Lalaloopsy Littles!<br>\n• Explore 16 whimsical levels including the Silly Funhouse Park.\n",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ALYE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Adventure",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AE300",
+  "uid": "50010000011767",
+  "name": "Lalaloopsy™: Carnival of Friends",
+  "formal_name": "Lalaloopsy™: \nCarnival of Friends",
+  "description": "Peanut Big Top™ is throwing the biggest Silly Funhouse carnival in Lalaloopsy Land for all to enjoy, including a special treat at the end! It's up to you to find all of the Lalaloopsy friends at the carnival to reveal the BIG surprise!<br>\n• See 40 of your favorite Lalaloopsy characters like never before. Plus, unlock a special character in the Nintendo 3DS game!\"<br>\n• For the first time ever play with the Lalaloopsy siblings, the Lalaloopsy Littles!<br>\n• Explore 16 whimsical levels including the Silly Funhouse Park.\n",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ALYE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

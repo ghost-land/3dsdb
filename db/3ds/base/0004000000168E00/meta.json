@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000168E00",
-    "uid": "50010000034615",
-    "name": "Paddington™:\nAdventures in London",
-    "formal_name": "Paddington™:\nAdventures in London",
-    "description": "A bear in the City!\n<br/>\nThe adventures of a very singular\nbear.\n<br/>\nHelp the inhabitants of London and\nbecome the perfect \"Gentlebear\"\n<br/>\nMake marmalade, dance along to the\nrhythm, find pickpockets…numerous\nmissions await you!\n<br/>\nHe has only just begun to get to\nknow London.",
-    "release_date_on_eshop": "2015-07-02",
-    "product_code": "CTR-P-BPLP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000168E00",
+  "uid": "50010000034615",
+  "name": "Paddington™:\nAdventures in London",
+  "formal_name": "Paddington™:\nAdventures in London",
+  "description": "A bear in the City!\n<br/>\nThe adventures of a very singular\nbear.\n<br/>\nHelp the inhabitants of London and\nbecome the perfect \"Gentlebear\"\n<br/>\nMake marmalade, dance along to the\nrhythm, find pickpockets…numerous\nmissions await you!\n<br/>\nHe has only just begun to get to\nknow London.",
+  "release_date_on_eshop": "2015-07-02",
+  "product_code": "CTR-P-BPLP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

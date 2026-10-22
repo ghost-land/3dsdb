@@ -1,28 +1,28 @@
 {
-    "tid": "00040002001AD001",
-    "uid": "50010000041665",
-    "name": "A列車で行こう3D NEO",
-    "formal_name": "A列車で行こう3D NEO",
-    "description": "「A列車で行こう3D NEO」は好評を博した「A列車で行こう3D」を『Newニンテンドー3DS』へと対応させた製品となります。ゲーム内容に大きな変更はなく、基本的には同じゲームですが、『Newニンテンドー3DS』でプレイした時には強化された性能が発揮され、スムーズで高速、快適なプレイが可能となります。\n<br>※『Newニンテンドー3DS』専用ではございませんので、「ニンテンドー3DS」でもお遊びいただけます。",
-    "release_date_on_eshop": "2016-12-01",
-    "product_code": "CTR-N-BN3J",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション"
-    ],
-    "features": [
-        "3D映像対応",
-        "New 3DS対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002001AD001",
+  "uid": "50010000041665",
+  "name": "A列車で行こう3D NEO",
+  "formal_name": "A列車で行こう3D NEO",
+  "description": "「A列車で行こう3D NEO」は好評を博した「A列車で行こう3D」を『Newニンテンドー3DS』へと対応させた製品となります。ゲーム内容に大きな変更はなく、基本的には同じゲームですが、『Newニンテンドー3DS』でプレイした時には強化された性能が発揮され、スムーズで高速、快適なプレイが可能となります。\n<br>※『Newニンテンドー3DS』専用ではございませんので、「ニンテンドー3DS」でもお遊びいただけます。",
+  "release_date_on_eshop": "2016-12-01",
+  "product_code": "CTR-N-BN3J",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション"
+  ],
+  "features": [
+    "3D映像対応",
+    "New 3DS対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

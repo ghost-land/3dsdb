@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000157000",
-    "uid": "50010000031096",
-    "name": "Hello Kitty & Sanrio\nFriends 3D Racing",
-    "formal_name": "Hello Kitty & Sanrio\nFriends 3D Racing",
-    "description": "Hello Kitty & Sanrio Friends 3D\nRacing is a family-friendly kart racer\nthat can be enjoyed by all ages. Race\non land, through the air, and over\nwater as you lead your favourite\nSanrio characters to victory around\ncolourful locations from the Hello\nKitty universe.",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-P-BKYP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000157000",
+  "uid": "50010000031096",
+  "name": "Hello Kitty & Sanrio\nFriends 3D Racing",
+  "formal_name": "Hello Kitty & Sanrio\nFriends 3D Racing",
+  "description": "Hello Kitty & Sanrio Friends 3D\nRacing is a family-friendly kart racer\nthat can be enjoyed by all ages. Race\non land, through the air, and over\nwater as you lead your favourite\nSanrio characters to victory around\ncolourful locations from the Hello\nKitty universe.",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-P-BKYP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

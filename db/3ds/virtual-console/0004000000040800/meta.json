@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000040800",
-    "uid": "50010000006801",
-    "name": "Super Mario Land™",
-    "formal_name": "Super Mario Land™",
-    "description": "Ancient ruins, giant crabs, Koopa Troopas, flying stone heads, and hungry sharks await you in this rerelease of the 1989 Game Boy™ game.\n\nIn the beautiful kingdom of Sarasaland, a mysterious alien has appeared and hypnotized the inhabitants while kidnapping Princess Daisy™ for himself! \n\nTravel over land, in the air, and underwater as Mario™ runs, jumps, and bounces his way to fortune and glory on his mission to save Princess Daisy and restore peace!\n\nAncient ruins, tempestuous waters, and brand new challenges await!",
-    "release_date_on_eshop": "1989-08",
-    "product_code": "CTR-N-RAAE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000040800",
+  "uid": "50010000006801",
+  "name": "Super Mario Land™",
+  "formal_name": "Super Mario Land™",
+  "description": "Ancient ruins, giant crabs, Koopa Troopas, flying stone heads, and hungry sharks await you in this rerelease of the 1989 Game Boy™ game.\n\nIn the beautiful kingdom of Sarasaland, a mysterious alien has appeared and hypnotized the inhabitants while kidnapping Princess Daisy™ for himself! \n\nTravel over land, in the air, and underwater as Mario™ runs, jumps, and bounces his way to fortune and glory on his mission to save Princess Daisy and restore peace!\n\nAncient ruins, tempestuous waters, and brand new challenges await!",
+  "release_date_on_eshop": "1989-08",
+  "product_code": "CTR-N-RAAE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

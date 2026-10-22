@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B465945",
-    "uid": "50010000002181",
-    "name": "A Fairy Tale",
-    "formal_name": "A Fairy Tale",
-    "description": "When a giant menace threatens the village, the young faeries Delfbert, Wilf, and Angelica set out on a fantastic journey to save their home! Join them on their whimsical quest through 100 puzzling levels of stunning graphics and magical music that will fill you with wonder. Featuring an exciting new type of puzzle game play and a humorous, light hearted storyline that is sure to make you smile, A Fairy Tale is an unforgettable journey of enchantment! Begin your unforgettable adventure to save the forest!",
-    "release_date_on_eshop": "2011-04-04",
-    "product_code": "TWL-N-KFYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B465945",
+  "uid": "50010000002181",
+  "name": "A Fairy Tale",
+  "formal_name": "A Fairy Tale",
+  "description": "When a giant menace threatens the village, the young faeries Delfbert, Wilf, and Angelica set out on a fantastic journey to save their home! Join them on their whimsical quest through 100 puzzling levels of stunning graphics and magical music that will fill you with wonder. Featuring an exciting new type of puzzle game play and a humorous, light hearted storyline that is sure to make you smile, A Fairy Tale is an unforgettable journey of enchantment! Begin your unforgettable adventure to save the forest!",
+  "release_date_on_eshop": "2011-04-04",
+  "product_code": "TWL-N-KFYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

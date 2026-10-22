@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000155B00",
-    "uid": "50010000028577",
-    "name": "Cooking Mama: Bon Appétit",
-    "formal_name": "Cooking Mama: Bon Appétit",
-    "description": "In this vibrant game for Nintendo 3DS\nand 2DS, players slice, chop, grill\nand stir to complete 60 fun recipes\nwith Mama! Players can also help\nMama outside of the kitchen in over\n30 lively minigames, or share the fun\nwith friends in multiplayer mode – just\none copy of the game needed! One\nNintendo 3DS or 2DS system per\nplayer required.",
-    "release_date_on_eshop": "2015-03-06",
-    "product_code": "CTR-P-BC5P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Party",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000155B00",
+  "uid": "50010000028577",
+  "name": "Cooking Mama: Bon Appétit",
+  "formal_name": "Cooking Mama: Bon Appétit",
+  "description": "In this vibrant game for Nintendo 3DS\nand 2DS, players slice, chop, grill\nand stir to complete 60 fun recipes\nwith Mama! Players can also help\nMama outside of the kitchen in over\n30 lively minigames, or share the fun\nwith friends in multiplayer mode – just\none copy of the game needed! One\nNintendo 3DS or 2DS system per\nplayer required.",
+  "release_date_on_eshop": "2015-03-06",
+  "product_code": "CTR-P-BC5P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Party",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

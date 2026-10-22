@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B594C45",
-    "uid": "50010000007036",
-    "name": "Make Up & Style",
-    "formal_name": "Make Up & Style",
-    "description": "Become a make-up artist!\n\nIn this game, designed by a female game designer, allow your creativity to run wild as a famous make-up artist with realistic make-up tools! You can even create a 3D face, simply by taking a picture of your face, placing it onto a 3D face, and applying make-up. Complete various missions on your way to becoming a professional make-up artist.\n\nFeatures:\n- Create thousands of different faces\n- Use the stylus to precisely apply make-up to the 3D face\n- 16 types of make-up tools: brushes, mascara, lipsticks, eye pencils, and more\n- 23 missions with a humorous story in Career mode",
-    "release_date_on_eshop": "2011-07-07",
-    "product_code": "TWL-N-KYLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B594C45",
+  "uid": "50010000007036",
+  "name": "Make Up & Style",
+  "formal_name": "Make Up & Style",
+  "description": "Become a make-up artist!\n\nIn this game, designed by a female game designer, allow your creativity to run wild as a famous make-up artist with realistic make-up tools! You can even create a 3D face, simply by taking a picture of your face, placing it onto a 3D face, and applying make-up. Complete various missions on your way to becoming a professional make-up artist.\n\nFeatures:\n- Create thousands of different faces\n- Use the stylus to precisely apply make-up to the 3D face\n- 16 types of make-up tools: brushes, mascara, lipsticks, eye pencils, and more\n- 23 missions with a humorous story in Career mode",
+  "release_date_on_eshop": "2011-07-07",
+  "product_code": "TWL-N-KYLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

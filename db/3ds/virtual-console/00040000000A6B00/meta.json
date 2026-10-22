@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A6B00",
-    "uid": "50010000018354",
-    "name": "Ninja Gaiden™ III:\nThe Ancient Ship of Doom",
-    "formal_name": "Ninja Gaiden™ III:\nThe Ancient Ship of Doom",
-    "description": "Join master ninja Ryu Hayabusa, last member of the famous Dragon Clan, in the third and final chapter of the legendary Ninja Gaiden saga.\n<br><br>\nRyu is framed for FBI agent Irene\n<br>Lew's murder, and it's up to him to clear his name. Defeating superior life-forms created out of “life energy” called BIO-NOIDs and avoiding enemy ambushes are among the many obstacles which Ryu faces in this unpredictable adventure of mystery, deceit, and destruction. Ryu's techniques have improved from last time—his ability to grab on to horizontal surfaces, his reduced falling speed and altered jumping maneuvers, as well as using power-ups give Ryu that extra advantage against his foes.\n<br><br>\nHelp Ryu defeat the forces of evil once more and discover the real culprit behind Irene’s death as one of the most loved trilogies in video-game history comes to a close!",
-    "release_date_on_eshop": "2013-11-28",
-    "product_code": "CTR-N-TBRE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A6B00",
+  "uid": "50010000018354",
+  "name": "Ninja Gaiden™ III:\nThe Ancient Ship of Doom",
+  "formal_name": "Ninja Gaiden™ III:\nThe Ancient Ship of Doom",
+  "description": "Join master ninja Ryu Hayabusa, last member of the famous Dragon Clan, in the third and final chapter of the legendary Ninja Gaiden saga.\n<br><br>\nRyu is framed for FBI agent Irene\n<br>Lew's murder, and it's up to him to clear his name. Defeating superior life-forms created out of “life energy” called BIO-NOIDs and avoiding enemy ambushes are among the many obstacles which Ryu faces in this unpredictable adventure of mystery, deceit, and destruction. Ryu's techniques have improved from last time—his ability to grab on to horizontal surfaces, his reduced falling speed and altered jumping maneuvers, as well as using power-ups give Ryu that extra advantage against his foes.\n<br><br>\nHelp Ryu defeat the forces of evil once more and discover the real culprit behind Irene’s death as one of the most loved trilogies in video-game history comes to a close!",
+  "release_date_on_eshop": "2013-11-28",
+  "product_code": "CTR-N-TBRE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

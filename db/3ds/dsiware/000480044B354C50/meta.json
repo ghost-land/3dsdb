@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B354C50",
-    "uid": "50010000013994",
-    "name": "Forgotten Legions",
-    "formal_name": "Forgotten Legions",
-    "description": "Forgotten Legions is an innovative\nreal-time strategy in a fantasy setting,\nand is an exclusive for Nintendo\nDSiWare. Choose from two unique\nsides and command 18 units in 30\ncampaign missions.\n<br/><br/>\nEndless mode brings hours of\nchallenging gameplay, with the\nchance to add the results to a\nweb-based leader board.\n<br/><br/>\nKey Features:\n<br/><br/>\n- Innovative real-time, side-scrolling\nstrategy\n<br/><br/>\n- Deeply tactical controls\n<br/><br/>\n- Fantasy setting – including\nhumans, elves, dwarves and the\nundead\n<br/><br/>\n- Two unique armies with distinctive\nstrategies\n<br/><br/>\n- 30 campaign missions\n<br/><br/>\n- Challenging endless mode\n<br/><br/>\n- Exciting gameplay\n<br/><br/>\n- Boss fights\n<br/><br/>\n- Special abilities\n<br/><br/>\n- A web-based leader board\n<br/><br/>\n- Atmospheric environments and\nmusic",
-    "release_date_on_eshop": "2013-04-18",
-    "product_code": "TWL-N-K5LP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Action",
-        "RPG",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B354C50",
+  "uid": "50010000013994",
+  "name": "Forgotten Legions",
+  "formal_name": "Forgotten Legions",
+  "description": "Forgotten Legions is an innovative\nreal-time strategy in a fantasy setting,\nand is an exclusive for Nintendo\nDSiWare. Choose from two unique\nsides and command 18 units in 30\ncampaign missions.\n<br/><br/>\nEndless mode brings hours of\nchallenging gameplay, with the\nchance to add the results to a\nweb-based leader board.\n<br/><br/>\nKey Features:\n<br/><br/>\n- Innovative real-time, side-scrolling\nstrategy\n<br/><br/>\n- Deeply tactical controls\n<br/><br/>\n- Fantasy setting – including\nhumans, elves, dwarves and the\nundead\n<br/><br/>\n- Two unique armies with distinctive\nstrategies\n<br/><br/>\n- 30 campaign missions\n<br/><br/>\n- Challenging endless mode\n<br/><br/>\n- Exciting gameplay\n<br/><br/>\n- Boss fights\n<br/><br/>\n- Special abilities\n<br/><br/>\n- A web-based leader board\n<br/><br/>\n- Atmospheric environments and\nmusic",
+  "release_date_on_eshop": "2013-04-18",
+  "product_code": "TWL-N-K5LP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Action",
+    "RPG",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

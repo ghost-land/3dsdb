@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000060F00",
-    "uid": "50010000007668",
-    "name": "Pyramids",
-    "formal_name": "Pyramids",
-    "description": "Pyramids is a puzzle/platform game\n<br>where an explorer tries to get out of\n<br>the pyramids with his loot. The task\n<br>will not be easy. There are many\n<br>dangerous traps and monsters that\n<br>will put your dexterity and ingenuity\n<br>to the test. The explorer will have the\n<br>use of TNT and a gun but his best\n<br>friend will be his shovel which allows\n<br>him to create and destroy blocks.\n<br>These blocks can be used as stairs,\n<br>bridges, protections... The explorer\n<br>will venture through 54 challenging\n<br>3D levels, divided into 6 worlds.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JA9P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Puzzle",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000060F00",
+  "uid": "50010000007668",
+  "name": "Pyramids",
+  "formal_name": "Pyramids",
+  "description": "Pyramids is a puzzle/platform game\n<br>where an explorer tries to get out of\n<br>the pyramids with his loot. The task\n<br>will not be easy. There are many\n<br>dangerous traps and monsters that\n<br>will put your dexterity and ingenuity\n<br>to the test. The explorer will have the\n<br>use of TNT and a gun but his best\n<br>friend will be his shovel which allows\n<br>him to create and destroy blocks.\n<br>These blocks can be used as stairs,\n<br>bridges, protections... The explorer\n<br>will venture through 54 challenging\n<br>3D levels, divided into 6 worlds.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JA9P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Puzzle",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

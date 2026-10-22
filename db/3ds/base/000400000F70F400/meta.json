@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F70F400",
-    "uid": "50010000043935",
-    "name": "Halloween Night Archery",
-    "formal_name": "Halloween Night Archery",
-    "description": "Test your skills and play this Halloween themed archery game. You can choose from 2 game modes with 3 variants. In Classic mode your task is to reach the highscore with 10 arrows from 5,10 or 15 meters, In the arcade mode you have 30,45 or 60 seconds to beat your highest score. Do you have what it takes to be the best archer?",
-    "release_date_on_eshop": "2017-10-26",
-    "product_code": "KTR-N-CA9E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "First-Person Shooter",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70F400",
+  "uid": "50010000043935",
+  "name": "Halloween Night Archery",
+  "formal_name": "Halloween Night Archery",
+  "description": "Test your skills and play this Halloween themed archery game. You can choose from 2 game modes with 3 variants. In Classic mode your task is to reach the highscore with 10 arrows from 5,10 or 15 meters, In the arcade mode you have 30,45 or 60 seconds to beat your highest score. Do you have what it takes to be the best archer?",
+  "release_date_on_eshop": "2017-10-26",
+  "product_code": "KTR-N-CA9E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "First-Person Shooter",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

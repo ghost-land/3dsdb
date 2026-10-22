@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B395445",
-    "uid": "50010000000922",
-    "name": "Chronos Twins",
-    "formal_name": "Chronos Twins",
-    "description": "Enter into the original world of Chronos Twins, where you'll live a fantastic adventure full of innovative ideas never seen before in any game. Thanks to its Dual Gameplay game system you'll be able to control Nec in two temporal scenarios at the same time. Chronos Twins mixes action, platforms, adventure and puzzles that will challenge your intelligence and ability. If you like games with a real challenge, there's no doubt that Chronos Twins is the game you're looking for.\n\nSpecial Features:\n• Explore an unknown world where \nyou'll discover endless hidden secrets.\n• 19 levels of fantastic atmosphere fully packed with alien beings and spectacular final bosses.\n• Play in two worlds simultaneously to progress and solve challenges that would be impossible to finish in only one world otherwise. \n• Fantastic 3D graphics, with particle effects, fog and blooming.\n• Change the past moving items, defeating creatures...and the present will change accordingly in real time.",
-    "release_date_on_eshop": "2010-01-18",
-    "product_code": "TWL-N-K9TE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B395445",
+  "uid": "50010000000922",
+  "name": "Chronos Twins",
+  "formal_name": "Chronos Twins",
+  "description": "Enter into the original world of Chronos Twins, where you'll live a fantastic adventure full of innovative ideas never seen before in any game. Thanks to its Dual Gameplay game system you'll be able to control Nec in two temporal scenarios at the same time. Chronos Twins mixes action, platforms, adventure and puzzles that will challenge your intelligence and ability. If you like games with a real challenge, there's no doubt that Chronos Twins is the game you're looking for.\n\nSpecial Features:\n• Explore an unknown world where \nyou'll discover endless hidden secrets.\n• 19 levels of fantastic atmosphere fully packed with alien beings and spectacular final bosses.\n• Play in two worlds simultaneously to progress and solve challenges that would be impossible to finish in only one world otherwise. \n• Fantastic 3D graphics, with particle effects, fog and blooming.\n• Change the past moving items, defeating creatures...and the present will change accordingly in real time.",
+  "release_date_on_eshop": "2010-01-18",
+  "product_code": "TWL-N-K9TE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

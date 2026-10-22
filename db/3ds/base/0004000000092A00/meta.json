@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000092A00",
-    "uid": "50010000011649",
-    "name": "Nurikabe by Nikoli",
-    "formal_name": "Nurikabe by Nikoli",
-    "description": "With the Nikoli puzzle series, you can enjoy high-quality Sudoku-like puzzles, created by Nikoli, who gave the world-famous Sudoku puzzle its name. The Nintendo 3DS allows for the realization of simple and easy-to-play operability.<br>\n\"Nurikabe by Nikoli\" contains 50 Nurikabe puzzles. <br>\nIn this super popular puzzle, black spaces and white spaces slowly come together to show their true form. \"Nurikabe by Nikoli\" is a puzzle in which you refer to the arranged numbers to fill in all of the spaces. It's popular among a wide range of players, from beginners to experts. To ensure your long-term enjoyment, we've prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode puzzles are generated at random. Please enjoy this high-quality \"Nurikabe\" game.",
-    "release_date_on_eshop": "2012-10-11",
-    "product_code": "CTR-N-JNKE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000092A00",
+  "uid": "50010000011649",
+  "name": "Nurikabe by Nikoli",
+  "formal_name": "Nurikabe by Nikoli",
+  "description": "With the Nikoli puzzle series, you can enjoy high-quality Sudoku-like puzzles, created by Nikoli, who gave the world-famous Sudoku puzzle its name. The Nintendo 3DS allows for the realization of simple and easy-to-play operability.<br>\n\"Nurikabe by Nikoli\" contains 50 Nurikabe puzzles. <br>\nIn this super popular puzzle, black spaces and white spaces slowly come together to show their true form. \"Nurikabe by Nikoli\" is a puzzle in which you refer to the arranged numbers to fill in all of the spaces. It's popular among a wide range of players, from beginners to experts. To ensure your long-term enjoyment, we've prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode puzzles are generated at random. Please enjoy this high-quality \"Nurikabe\" game.",
+  "release_date_on_eshop": "2012-10-11",
+  "product_code": "CTR-N-JNKE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

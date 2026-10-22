@@ -1,35 +1,35 @@
 {
-    "tid": "000400000006A200",
-    "uid": "50010000007967",
-    "name": "Zen Pinball 3D",
-    "formal_name": "Zen Pinball 3D",
-    "description": "Zen Pinball 3D for Nintendo 3DS\nbrings an incredible stereoscopic 3D\nexperience to the acclaimed video\ngame pinball series for the first time\never. Featuring four beautifully crafted\noriginal tables, Zen Pinball 3D\nfeatures the most advanced ball\nphysics in a video pinball game to\ndate, online leader boards ranking\nyou against other players, in-game\nfriend challenges, interactive 3D\nmodels, and more!<br>\n<br>\nZen Pinball 3D for Nintendo 3DS is\nthe definitive pinball experience on\nportable game consoles.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JENP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006A200",
+  "uid": "50010000007967",
+  "name": "Zen Pinball 3D",
+  "formal_name": "Zen Pinball 3D",
+  "description": "Zen Pinball 3D for Nintendo 3DS\nbrings an incredible stereoscopic 3D\nexperience to the acclaimed video\ngame pinball series for the first time\never. Featuring four beautifully crafted\noriginal tables, Zen Pinball 3D\nfeatures the most advanced ball\nphysics in a video pinball game to\ndate, online leader boards ranking\nyou against other players, in-game\nfriend challenges, interactive 3D\nmodels, and more!<br>\n<br>\nZen Pinball 3D for Nintendo 3DS is\nthe definitive pinball experience on\nportable game consoles.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JENP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

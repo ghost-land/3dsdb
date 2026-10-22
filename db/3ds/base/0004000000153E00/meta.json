@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000153E00",
-    "uid": "50010000030535",
-    "name": "Space Lift Danger Panic!",
-    "formal_name": "Space Lift Danger Panic!",
-    "description": "Fire portals and save people in this\n<br>science-fiction reaction-testing\n<br>hyper-arcade game!\n<br>\n<br>The Ceranthian's have been using\n<br>their space lift to travel between the\n<br>surface of their home planet and low\n<br>orbit, where they go about their daily\n<br>work. A series of attacks on their\n<br>planet have culminated with the\n<br>unleashing of a space weapon inside\n<br>the lift putting all the travellers in\n<br>deadly peril.\n<br>\n<br>Your job is to use a teleportation\n<br>cannon to fire portals into the\n<br>traveller’s path and transport them to\n<br>safety. It will be tough, but you are\n<br>the Ceranthian's only hope!\n<br>\n<br>Features:\n<br>• Play through an epic mode that\n<br>tests your reactions to their limits\n<br>across 40 levels.\n<br>• Challenge you friends in survival\n<br>mode, where the real test awaits! Can\n<br>you reach the top of the leaderboards\n<br>and claim global victory?\n<br>• From the makers of the hit game\n<br>Tiny Dice Dungeon comes their first\n<br>game on Nintendo 3DS™!",
-    "release_date_on_eshop": "2015-02-12",
-    "product_code": "CTR-N-KSLP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000153E00",
+  "uid": "50010000030535",
+  "name": "Space Lift Danger Panic!",
+  "formal_name": "Space Lift Danger Panic!",
+  "description": "Fire portals and save people in this\n<br>science-fiction reaction-testing\n<br>hyper-arcade game!\n<br>\n<br>The Ceranthian's have been using\n<br>their space lift to travel between the\n<br>surface of their home planet and low\n<br>orbit, where they go about their daily\n<br>work. A series of attacks on their\n<br>planet have culminated with the\n<br>unleashing of a space weapon inside\n<br>the lift putting all the travellers in\n<br>deadly peril.\n<br>\n<br>Your job is to use a teleportation\n<br>cannon to fire portals into the\n<br>traveller’s path and transport them to\n<br>safety. It will be tough, but you are\n<br>the Ceranthian's only hope!\n<br>\n<br>Features:\n<br>• Play through an epic mode that\n<br>tests your reactions to their limits\n<br>across 40 levels.\n<br>• Challenge you friends in survival\n<br>mode, where the real test awaits! Can\n<br>you reach the top of the leaderboards\n<br>and claim global victory?\n<br>• From the makers of the hit game\n<br>Tiny Dice Dungeon comes their first\n<br>game on Nintendo 3DS™!",
+  "release_date_on_eshop": "2015-02-12",
+  "product_code": "CTR-N-KSLP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

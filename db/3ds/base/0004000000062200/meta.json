@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000062200",
-    "uid": "50010000007746",
-    "name": "Sonic Generations™",
-    "formal_name": "Sonic Generations™",
-    "description": "Sonic’s universe is thrown into chaos\n<br>when a mysterious new power sends\n<br>Sonic back in time. Whilst there,\n<br>Sonic runs into a younger version of\n<br>himself! Now they must team up to\n<br>defeat their enemies, save their\n<br>friends, and find out who is behind\n<br>this diabolical deed.\n<br>\n<br>Sonic Generations allows players to\n<br>play as both Classic and Modern\n<br>Sonic - taking advantage of their\n<br>unique abilities. Master Classic\n<br>Sonic’s spin dash, and grind and\n<br>boost as Modern Sonic as you run\n<br>through levels created exclusively for\n<br>the Nintendo 3DS console.\n<br>\n<br>The Nintendo 3DS version also\n<br>includes additional bonus stages, as\n<br>well as the exclusive 2 player versus\n<br>mode - beat your friends and win the\n<br>ultimate bragging rights! You can also\n<br>use Street Pass to collect new\n<br>content and unlock bonus material\n<br>throughout the game!",
-    "release_date_on_eshop": "2013-09-12",
-    "product_code": "CTR-P-ASNP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Adventure"
-    ],
-    "features": [
-        "WIFI",
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000062200",
+  "uid": "50010000007746",
+  "name": "Sonic Generations™",
+  "formal_name": "Sonic Generations™",
+  "description": "Sonic’s universe is thrown into chaos\n<br>when a mysterious new power sends\n<br>Sonic back in time. Whilst there,\n<br>Sonic runs into a younger version of\n<br>himself! Now they must team up to\n<br>defeat their enemies, save their\n<br>friends, and find out who is behind\n<br>this diabolical deed.\n<br>\n<br>Sonic Generations allows players to\n<br>play as both Classic and Modern\n<br>Sonic - taking advantage of their\n<br>unique abilities. Master Classic\n<br>Sonic’s spin dash, and grind and\n<br>boost as Modern Sonic as you run\n<br>through levels created exclusively for\n<br>the Nintendo 3DS console.\n<br>\n<br>The Nintendo 3DS version also\n<br>includes additional bonus stages, as\n<br>well as the exclusive 2 player versus\n<br>mode - beat your friends and win the\n<br>ultimate bragging rights! You can also\n<br>use Street Pass to collect new\n<br>content and unlock bonus material\n<br>throughout the game!",
+  "release_date_on_eshop": "2013-09-12",
+  "product_code": "CTR-P-ASNP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Adventure"
+  ],
+  "features": [
+    "WIFI",
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,36 +1,36 @@
 {
-    "tid": "000400000016E300",
-    "uid": "50010000040395",
-    "name": "Metroid Prime™: \nFederation Force",
-    "formal_name": "Metroid Prime™: Federation Force",
-    "description": "The galaxy is not at peace. The war between the Galactic Federation and the Space Pirates is far from over. Enlist with the Federation Force to join a four-player local or online squad in this co-op sci-fi shooter. Fight alongside teammates in your specialized Mech to eliminate the Space Pirate menace and any threat that stands in your way.\n<br><br>\nMake it a solitary mission or join 3 friends for increased firepower and deeper strategies. In each mission, you’ll choose your role on the team by selecting from different subweapons and MODs to customize your Mech and maximize your chance of survival. Whether you focus on healing allies or increasing your arsenal, your greatest asset is teamwork. Work together, tackle missions, take down bosses, and defeat hostile creatures as one powerful unit. The dangerous Metroid Prime universe is now at your mercy. Honor your vow to protect it and fight back...before there’s nothing left to fight for. The next chapter in the Metroid Prime™ saga is here.",
-    "release_date_on_eshop": "2016-08-19",
-    "product_code": "CTR-N-BCAE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "First-Person Shooter",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Online Play Only",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network",
-        "amiibo",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "000400000016E300",
+  "uid": "50010000040395",
+  "name": "Metroid Prime™: \nFederation Force",
+  "formal_name": "Metroid Prime™: Federation Force",
+  "description": "The galaxy is not at peace. The war between the Galactic Federation and the Space Pirates is far from over. Enlist with the Federation Force to join a four-player local or online squad in this co-op sci-fi shooter. Fight alongside teammates in your specialized Mech to eliminate the Space Pirate menace and any threat that stands in your way.\n<br><br>\nMake it a solitary mission or join 3 friends for increased firepower and deeper strategies. In each mission, you’ll choose your role on the team by selecting from different subweapons and MODs to customize your Mech and maximize your chance of survival. Whether you focus on healing allies or increasing your arsenal, your greatest asset is teamwork. Work together, tackle missions, take down bosses, and defeat hostile creatures as one powerful unit. The dangerous Metroid Prime universe is now at your mercy. Honor your vow to protect it and fight back...before there’s nothing left to fight for. The next chapter in the Metroid Prime™ saga is here.",
+  "release_date_on_eshop": "2016-08-19",
+  "product_code": "CTR-N-BCAE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "First-Person Shooter",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Online Play Only",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network",
+    "amiibo",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

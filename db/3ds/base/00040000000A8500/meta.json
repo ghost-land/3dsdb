@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000A8500",
-    "uid": "50010000011523",
-    "name": "Professor Layton and the\nMiracle Mask™ ",
-    "formal_name": "Professor Layton and the\nMiracle Mask™ ",
-    "description": "The Professor Layton and the Miracle Mask™ game is the 5th installment in the series, and the first one for the Nintendo 3DS™ system. Dive into a vibrant world filled with delightful puzzles and mind-bending intrigue!\n<br><br>\nWhen Professor Layton travels to the festive city of Monte d’Or to investigate a series of terrifying incidents, he must search his past in order to stop a shadowy villain. Master the clues & puzzles to find the truth that lurks behind the mystery of the Masked Gentleman! If that’s not enough, you will be able to download an additional puzzle each day for a year* !\n<br><br>\n*Availability starts upon game launch (10/28/2012). A wireless internet connection is required to download puzzles.  Maximum of 365 downloadable puzzles. The number of puzzles available per download depends on how often the download library is accessed (for example, if you connect once a week, you will download 7 puzzles at once.)",
-    "release_date_on_eshop": "2012-10-28",
-    "product_code": "CTR-N-AKKE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or “Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A8500",
+  "uid": "50010000011523",
+  "name": "Professor Layton and the\nMiracle Mask™ ",
+  "formal_name": "Professor Layton and the\nMiracle Mask™ ",
+  "description": "The Professor Layton and the Miracle Mask™ game is the 5th installment in the series, and the first one for the Nintendo 3DS™ system. Dive into a vibrant world filled with delightful puzzles and mind-bending intrigue!\n<br><br>\nWhen Professor Layton travels to the festive city of Monte d’Or to investigate a series of terrifying incidents, he must search his past in order to stop a shadowy villain. Master the clues & puzzles to find the truth that lurks behind the mystery of the Masked Gentleman! If that’s not enough, you will be able to download an additional puzzle each day for a year* !\n<br><br>\n*Availability starts upon game launch (10/28/2012). A wireless internet connection is required to download puzzles.  Maximum of 365 downloadable puzzles. The number of puzzles available per download depends on how often the download library is accessed (for example, if you connect once a week, you will download 7 puzzles at once.)",
+  "release_date_on_eshop": "2012-10-28",
+  "product_code": "CTR-N-AKKE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or “Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "000400000F708600",
-    "uid": "50010000041730",
-    "name": "Pirate Pop Plus",
-    "formal_name": "Pirate Pop Plus",
-    "description": "Purchase this game at full price through Nintendo eShop and get a free digital version of Pirate Pop Plus for Wii U. The same Nintendo Network ID must be linked to your Wii U and New Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.\n<br><br>\nOffer applies to US, Canada, and Mexico only.\n<br><br>\nJoin Pete Jr on his quest to defeat the nefarious Bubble Pirate, an evil villain who has trapped the innocent townsfolk in bubbles! Dodge and pop bubbles with your anchor while collecting power-ups and managing Bubble Pirate’s constant gravity-switching mischief! When you feel at your Piratey-est, test your skill in the ultra-challenging Hyper Mode... The game may be faster and harder, but you'll find treasures beyond your wildest dreams. Coins as far as the eye can see! Collect coins to unlock content in the game’s shop like new music, new faceplates, buttons, backlights, and even characters for your bubble-popping mayhem! Yarr!",
-    "release_date_on_eshop": "2016-10-20",
-    "product_code": "KTR-N-CBPE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nThe same Nintendo Network ID must be linked to your Wii U and New Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.\n",
-    "descriptors": []
+  "tid": "000400000F708600",
+  "uid": "50010000041730",
+  "name": "Pirate Pop Plus",
+  "formal_name": "Pirate Pop Plus",
+  "description": "Purchase this game at full price through Nintendo eShop and get a free digital version of Pirate Pop Plus for Wii U. The same Nintendo Network ID must be linked to your Wii U and New Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.\n<br><br>\nOffer applies to US, Canada, and Mexico only.\n<br><br>\nJoin Pete Jr on his quest to defeat the nefarious Bubble Pirate, an evil villain who has trapped the innocent townsfolk in bubbles! Dodge and pop bubbles with your anchor while collecting power-ups and managing Bubble Pirate’s constant gravity-switching mischief! When you feel at your Piratey-est, test your skill in the ultra-challenging Hyper Mode... The game may be faster and harder, but you'll find treasures beyond your wildest dreams. Coins as far as the eye can see! Collect coins to unlock content in the game’s shop like new music, new faceplates, buttons, backlights, and even characters for your bubble-popping mayhem! Yarr!",
+  "release_date_on_eshop": "2016-10-20",
+  "product_code": "KTR-N-CBPE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nThe same Nintendo Network ID must be linked to your Wii U and New Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.\n",
+  "descriptors": []
 }

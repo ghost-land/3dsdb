@@ -1,34 +1,34 @@
 {
-    "tid": "000480044B525550",
-    "uid": "50010000011522",
-    "name": "Rummikub",
-    "formal_name": "Rummikub",
-    "description": "Rummikub was created in the 1950s\nby Ephraim Hertzano and his children\nMicha and Mariana Hertzano, who\nlater exported the game to five\ncontinents. Hertzano founded the\ngames manufacturing company\nLemada Light Industries, and this\nRummikub version adheres to the\nofficial rules created by Lemada.<br>\n<br>\nThe main component in Rummikub is a\npool of 106 tiles consisting of 104\nnumbered tiles and two joker tiles.\nThe numbered tiles are marked with\nthe numbers 1-13 in four colours\n(black, yellow, blue and red). Each\ncombination of colour and number is\nrepresented twice, and the player\nholds his tiles on a rack without\nrevealing his tiles to the other players.\nThe first player to remove all the tiles\nfrom his rack and place them on the\ntable wins the game.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KRUP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Arcade"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525550",
+  "uid": "50010000011522",
+  "name": "Rummikub",
+  "formal_name": "Rummikub",
+  "description": "Rummikub was created in the 1950s\nby Ephraim Hertzano and his children\nMicha and Mariana Hertzano, who\nlater exported the game to five\ncontinents. Hertzano founded the\ngames manufacturing company\nLemada Light Industries, and this\nRummikub version adheres to the\nofficial rules created by Lemada.<br>\n<br>\nThe main component in Rummikub is a\npool of 106 tiles consisting of 104\nnumbered tiles and two joker tiles.\nThe numbered tiles are marked with\nthe numbers 1-13 in four colours\n(black, yellow, blue and red). Each\ncombination of colour and number is\nrepresented twice, and the player\nholds his tiles on a rack without\nrevealing his tiles to the other players.\nThe first player to remove all the tiles\nfrom his rack and place them on the\ntable wins the game.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KRUP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Arcade"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

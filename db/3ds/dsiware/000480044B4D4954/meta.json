@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4D4954",
-    "uid": "50010000004382",
-    "name": "Master of Illusion™ Express:\nMind Probe",
-    "formal_name": "Master of Illusion™ Express:\nMind Probe",
-    "description": "Master of Illusion Express titles are mind-boggling magic tricks that you perform with your Nintendo DSi system. Learn the illusions, practice up, and then amaze your friends. Master of Illusion Express: Mind Probe uses your Nintendo DSi system as a means of detecting information. Ask a spectator to write down a favorite (or least-favorite) item—person, food, or color, for example—and then be astonished when the Nintendo DSi system sounds an alarm to indicate when that item is spoken.  Use any variation of likes or dislikes to stun the crowd!",
-    "release_date_on_eshop": "2009-11-30",
-    "product_code": "TWL-N-KMIT",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4954",
+  "uid": "50010000004382",
+  "name": "Master of Illusion™ Express:\nMind Probe",
+  "formal_name": "Master of Illusion™ Express:\nMind Probe",
+  "description": "Master of Illusion Express titles are mind-boggling magic tricks that you perform with your Nintendo DSi system. Learn the illusions, practice up, and then amaze your friends. Master of Illusion Express: Mind Probe uses your Nintendo DSi system as a means of detecting information. Ask a spectator to write down a favorite (or least-favorite) item—person, food, or color, for example—and then be astonished when the Nintendo DSi system sounds an alarm to indicate when that item is spoken.  Use any variation of likes or dislikes to stun the crowd!",
+  "release_date_on_eshop": "2009-11-30",
+  "product_code": "TWL-N-KMIT",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

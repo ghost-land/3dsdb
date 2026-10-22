@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000B1A00",
-    "uid": "50010000012526",
-    "name": "PIX3D",
-    "formal_name": "PIX3D",
-    "description": "Let's go back a few years. Okay,\nlet's say 25. To the old days, when\neverything looked simple, and the rest\nwas just fantasy.\n<br /><br/>\nThe main aim of PIX3D is to bring\npixels dispersed in space into line to\ncomplete beautiful pixel art pictures.\n<br /><br/>\nBut never seen before pixel particle\neffects and wonderful 8-bit music will\nalso bring back fond memories of\nyouth for some, and for those too\nyoung to remember, it will be a great\nshowcase of old times!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JPXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B1A00",
+  "uid": "50010000012526",
+  "name": "PIX3D",
+  "formal_name": "PIX3D",
+  "description": "Let's go back a few years. Okay,\nlet's say 25. To the old days, when\neverything looked simple, and the rest\nwas just fantasy.\n<br /><br/>\nThe main aim of PIX3D is to bring\npixels dispersed in space into line to\ncomplete beautiful pixel art pictures.\n<br /><br/>\nBut never seen before pixel particle\neffects and wonderful 8-bit music will\nalso bring back fond memories of\nyouth for some, and for those too\nyoung to remember, it will be a great\nshowcase of old times!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JPXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

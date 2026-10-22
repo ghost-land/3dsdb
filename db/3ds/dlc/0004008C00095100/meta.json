@@ -1,41 +1,41 @@
 {
-    "tid": "0004008C00095100",
-    "uid": "50010000010358",
-    "name": "THEATRHYTHM™\nFINAL FANTASY®",
-    "formal_name": "THEATRHYTHM™ FINAL FANTASY®",
-    "description": "Offers in-game purchases\n<br><br>\nWith over 100 million units shipped worldwide, the FINAL FANTASY series has for 25 years created wonderful memories for people all around the globe. Now THEATRHYTHM FINAL FANTASY reconnects players with characters and soundtracks from the games that they remember and cherish in a rich, melodic, and colorful rhythm-RPG adventure. Players will tap and slide to the rhythm of over 70 tracks from the FINAL FANTASY series while joining forces with iconic characters and facing off against memorable monsters and villains. Three exciting game modes offer hours of gameplay and tons of unique items and deeper challenges to unlock.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ATHE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "RPG",
-        "Music",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "In-game content available for purchase using stored account funds.",
-    "descriptors": [
-        "Fantasy Violence",
-        "Mild Blood",
-        "Mild Language",
-        "Suggestive Themes",
-        "Use of Tobacco"
-    ]
+  "tid": "0004008C00095100",
+  "uid": "50010000010358",
+  "name": "THEATRHYTHM™\nFINAL FANTASY®",
+  "formal_name": "THEATRHYTHM™ FINAL FANTASY®",
+  "description": "Offers in-game purchases\n<br><br>\nWith over 100 million units shipped worldwide, the FINAL FANTASY series has for 25 years created wonderful memories for people all around the globe. Now THEATRHYTHM FINAL FANTASY reconnects players with characters and soundtracks from the games that they remember and cherish in a rich, melodic, and colorful rhythm-RPG adventure. Players will tap and slide to the rhythm of over 70 tracks from the FINAL FANTASY series while joining forces with iconic characters and facing off against memorable monsters and villains. Three exciting game modes offer hours of gameplay and tons of unique items and deeper challenges to unlock.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ATHE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "RPG",
+    "Music",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "In-game content available for purchase using stored account funds.",
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Blood",
+    "Mild Language",
+    "Suggestive Themes",
+    "Use of Tobacco"
+  ]
 }

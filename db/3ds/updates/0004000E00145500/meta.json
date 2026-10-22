@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00145500",
-    "uid": "50010000032275",
-    "name": "更新データ Ver. 1.1.1\n役満 鳳凰",
-    "formal_name": "更新データ Ver. 1.1.1\n役満 鳳凰",
-    "description": "ニンテンドー3DSソフト『役満 鳳凰』の更新データです。\n\n■Ver. 1.1.1 [2016.7.27配信]\n\n●戦績データが、意図しないタイミングで削除されてしまう問題を修正しました。\n\n※以前の更新内容もVer. 1.1.1に含まれます。",
-    "release_date_on_eshop": "2016-07-27",
-    "product_code": "CTR-U-AGHJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.3.0",
-    "disclaimer": "ニンテンドー3DSソフト『役満 鳳凰』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
-    "descriptors": []
+  "tid": "0004000E00145500",
+  "uid": "50010000032275",
+  "name": "更新データ Ver. 1.1.1\n役満 鳳凰",
+  "formal_name": "更新データ Ver. 1.1.1\n役満 鳳凰",
+  "description": "ニンテンドー3DSソフト『役満 鳳凰』の更新データです。\n\n■Ver. 1.1.1 [2016.7.27配信]\n\n●戦績データが、意図しないタイミングで削除されてしまう問題を修正しました。\n\n※以前の更新内容もVer. 1.1.1に含まれます。",
+  "release_date_on_eshop": "2016-07-27",
+  "product_code": "CTR-U-AGHJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v2.3.0",
+  "disclaimer": "ニンテンドー3DSソフト『役満 鳳凰』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
+  "descriptors": []
 }

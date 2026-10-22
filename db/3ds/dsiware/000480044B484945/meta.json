@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B484945",
-    "uid": "50010000002641",
-    "name": "Hints Hunter",
-    "formal_name": "Hints Hunter",
-    "description": "Hints Hunter is an easy, casual game that you can play any time and anywhere. The objective is simply to find the keys hidden around the game. To do this, you will have to work out the meaning of the hints in each level. You can play the game using the stylus only. Most of the hints in the game are helpful and may require you to think about the time of the day, game functions like touching or dragging, or the principle of opening or closing. Make sure you observe the minutest detail very carefully, including the name of a level or even a tiny flower!",
-    "release_date_on_eshop": "2010-08-02",
-    "product_code": "TWL-N-KHIE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B484945",
+  "uid": "50010000002641",
+  "name": "Hints Hunter",
+  "formal_name": "Hints Hunter",
+  "description": "Hints Hunter is an easy, casual game that you can play any time and anywhere. The objective is simply to find the keys hidden around the game. To do this, you will have to work out the meaning of the hints in each level. You can play the game using the stylus only. Most of the hints in the game are helpful and may require you to think about the time of the day, game functions like touching or dragging, or the principle of opening or closing. Make sure you observe the minutest detail very carefully, including the name of a level or even a tiny flower!",
+  "release_date_on_eshop": "2010-08-02",
+  "product_code": "TWL-N-KHIE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

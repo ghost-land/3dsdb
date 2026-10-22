@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001C6B00",
-    "uid": "50010000042918",
-    "name": "Alchemic Dungeons",
-    "formal_name": "Alchemic Dungeons",
-    "description": "Classic rogue-like plus item crafting\n<br>Challenge the randomly generated dungeons to the best of your knowledge!\n<br>\n<br>Alchemic Dungeons is a rogue-like game that can be replayed with the random dungeon generating system.\n<br>\n<br>One action, one turn. The orthodox turn-based rogue-like game.\n<br>\n<br>With the item crafting feature, you can combine the obtained items and create powerful items that give you advantages in battle.\n<br>\n<br>Though the rule is simple in beating enemies with magic and skills, an easy miss will trouble you in despaired with tough enemies that'll leave you surrounded. In being easy, if you are distracted, you get stuck. Which is the thrill of the rogue-like game!",
-    "release_date_on_eshop": "2017-08-17",
-    "product_code": "CTR-N-KAWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C6B00",
+  "uid": "50010000042918",
+  "name": "Alchemic Dungeons",
+  "formal_name": "Alchemic Dungeons",
+  "description": "Classic rogue-like plus item crafting\n<br>Challenge the randomly generated dungeons to the best of your knowledge!\n<br>\n<br>Alchemic Dungeons is a rogue-like game that can be replayed with the random dungeon generating system.\n<br>\n<br>One action, one turn. The orthodox turn-based rogue-like game.\n<br>\n<br>With the item crafting feature, you can combine the obtained items and create powerful items that give you advantages in battle.\n<br>\n<br>Though the rule is simple in beating enemies with magic and skills, an easy miss will trouble you in despaired with tough enemies that'll leave you surrounded. In being easy, if you are distracted, you get stuck. Which is the thrill of the rogue-like game!",
+  "release_date_on_eshop": "2017-08-17",
+  "product_code": "CTR-N-KAWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

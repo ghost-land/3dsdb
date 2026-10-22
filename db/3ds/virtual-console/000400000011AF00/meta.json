@@ -1,28 +1,28 @@
 {
-    "tid": "000400000011AF00",
-    "uid": "50010000029995",
-    "name": "S.C.A.T.",
-    "formal_name": "S.C.A.T.",
-    "description": "In the year 2029, Supreme Commander Vile Malmort and his army land on Earth, setting in motion their plans for world domination. Humanity's last hope now resides in the hands of the Special Cybernetic Attack Team, or SCAT for short. \n<BR><BR>\nPlay as a male or female half-human and half-machine soldier, solo or with a friend. Blast and fly through relentless enemies and bosses while collecting power-ups that provide new weapons, speed boosts, and life recoveries. Your main objective is to send these alien invaders back home packing. Get ready, soldier. You're Earth's only hope.",
-    "release_date_on_eshop": "2015-01-22",
-    "product_code": "CTR-N-TD6E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000011AF00",
+  "uid": "50010000029995",
+  "name": "S.C.A.T.",
+  "formal_name": "S.C.A.T.",
+  "description": "In the year 2029, Supreme Commander Vile Malmort and his army land on Earth, setting in motion their plans for world domination. Humanity's last hope now resides in the hands of the Special Cybernetic Attack Team, or SCAT for short. \n<BR><BR>\nPlay as a male or female half-human and half-machine soldier, solo or with a friend. Blast and fly through relentless enemies and bosses while collecting power-ups that provide new weapons, speed boosts, and life recoveries. Your main objective is to send these alien invaders back home packing. Get ready, soldier. You're Earth's only hope.",
+  "release_date_on_eshop": "2015-01-22",
+  "product_code": "CTR-N-TD6E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

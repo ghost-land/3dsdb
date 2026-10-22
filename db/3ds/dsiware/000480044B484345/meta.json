@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B484345",
-    "uid": "50010000002581",
-    "name": "Hot and Cold: A 3D Hidden\nObject Adventure",
-    "formal_name": "Hot and Cold: A 3D Hidden\nObject Adventure",
-    "description": "You’re getting warm...warmer...hot! You’ve found Hot and Cold: A 3D Hidden Object Adventure, the new game that puts you on the job of finding people’s missing stuff. The voice in your head may mean you’re crazy, but it also tells you whether you’re Hot or Cold when searching for things. Investigate cases all over town using your unique ability, and discover the secret behind the mysterious voice in your head. Throw objects out of your way, maneuver your way through a 3D world, follow your Hot and Cold meter, and more in this unparalleled hidden object adventure!\n\n(Content available in English only.)",
-    "release_date_on_eshop": "2009-12-21",
-    "product_code": "TWL-N-KHCE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B484345",
+  "uid": "50010000002581",
+  "name": "Hot and Cold: A 3D Hidden\nObject Adventure",
+  "formal_name": "Hot and Cold: A 3D Hidden\nObject Adventure",
+  "description": "You’re getting warm...warmer...hot! You’ve found Hot and Cold: A 3D Hidden Object Adventure, the new game that puts you on the job of finding people’s missing stuff. The voice in your head may mean you’re crazy, but it also tells you whether you’re Hot or Cold when searching for things. Investigate cases all over town using your unique ability, and discover the secret behind the mysterious voice in your head. Throw objects out of your way, maneuver your way through a 3D world, follow your Hot and Cold meter, and more in this unparalleled hidden object adventure!\n\n(Content available in English only.)",
+  "release_date_on_eshop": "2009-12-21",
+  "product_code": "TWL-N-KHCE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

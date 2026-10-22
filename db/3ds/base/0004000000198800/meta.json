@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000198800",
-    "uid": "50010000040376",
-    "name": "Digger Dan DX",
-    "formal_name": "Digger Dan DX",
-    "description": "Digger Dan has found an old mine\nfull of caves, still brimming with\ntreasure. Can you guide him in the\nright direction by digging through the\nearth to collect the gems and nuggets\nof gold? Work out your path carefully\nas you push rocks out of the way or\nyou could find Dan caught in one of\nthe many traps. But those rocks can\nalso be very handy, especially if you\ncan drop one on top of a monster that\nyou are finding hard to dodge. Careful\nobservation of the monsters will reveal\ntheir movement patterns, so don’t\nrush straight in.\n<br/><br/>\nDan is not alone, his trusty sidekick\nKaboom (Dan’s pet gopher) can be\nfound snoozing in some levels. Wake\nhim up and he can squeeze into the\nsmall tunnels that Dan can’t get to.\nUse Dan and Kaboom together for the\npuzzles that they can’t solve alone.\n<br/><br/>\nAs you dig deeper and deeper\nthrough the 100 caves, you will\nuncover secret gems buried in the\nearth, unravel the mysteries of the\nwormholes which transport you around\nthe level, blow holes in walls with the\nabandoned barrels full of TNT and\ncollect pickaxes to release gems that\nare trapped in rock. Some of the\ncaves you encounter are flooded with\nwater forcing you to plan your route\nmore carefully so that you don’t run\nout of air. Use cameras to take\nsnapshots of the level, then if you\nmake mistakes or get trapped, you\ncan use your snapshot as a restart\npoint.\n<br/><br/>\nCan you become a gold star player?\nChallenge yourself to complete the\ncave, beat the timer and collect the\nhidden secret gem on every level.\n<br/><br/>\nFeatures:<br/>\n* Four themed areas graded as\ntraining, beginner, advanced and\nexpert.<br/>\n* Stereoscopic 3D layering<br/>\n* Completely revamped graphics<br/>\n* Improved sound effects<br/>\n* High score tables for every level<br/>\n* 4 save slots – challenge your\nfamily to beat your scores<br/>\n* 60fps smooth action",
-    "release_date_on_eshop": "2016-05-19",
-    "product_code": "CTR-N-KGXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000198800",
+  "uid": "50010000040376",
+  "name": "Digger Dan DX",
+  "formal_name": "Digger Dan DX",
+  "description": "Digger Dan has found an old mine\nfull of caves, still brimming with\ntreasure. Can you guide him in the\nright direction by digging through the\nearth to collect the gems and nuggets\nof gold? Work out your path carefully\nas you push rocks out of the way or\nyou could find Dan caught in one of\nthe many traps. But those rocks can\nalso be very handy, especially if you\ncan drop one on top of a monster that\nyou are finding hard to dodge. Careful\nobservation of the monsters will reveal\ntheir movement patterns, so don’t\nrush straight in.\n<br/><br/>\nDan is not alone, his trusty sidekick\nKaboom (Dan’s pet gopher) can be\nfound snoozing in some levels. Wake\nhim up and he can squeeze into the\nsmall tunnels that Dan can’t get to.\nUse Dan and Kaboom together for the\npuzzles that they can’t solve alone.\n<br/><br/>\nAs you dig deeper and deeper\nthrough the 100 caves, you will\nuncover secret gems buried in the\nearth, unravel the mysteries of the\nwormholes which transport you around\nthe level, blow holes in walls with the\nabandoned barrels full of TNT and\ncollect pickaxes to release gems that\nare trapped in rock. Some of the\ncaves you encounter are flooded with\nwater forcing you to plan your route\nmore carefully so that you don’t run\nout of air. Use cameras to take\nsnapshots of the level, then if you\nmake mistakes or get trapped, you\ncan use your snapshot as a restart\npoint.\n<br/><br/>\nCan you become a gold star player?\nChallenge yourself to complete the\ncave, beat the timer and collect the\nhidden secret gem on every level.\n<br/><br/>\nFeatures:<br/>\n* Four themed areas graded as\ntraining, beginner, advanced and\nexpert.<br/>\n* Stereoscopic 3D layering<br/>\n* Completely revamped graphics<br/>\n* Improved sound effects<br/>\n* High score tables for every level<br/>\n* 4 save slots – challenge your\nfamily to beat your scores<br/>\n* 60fps smooth action",
+  "release_date_on_eshop": "2016-05-19",
+  "product_code": "CTR-N-KGXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

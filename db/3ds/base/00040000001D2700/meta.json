@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001D2700",
-    "uid": "50010000045515",
-    "name": "SPACE DEFENDER",
-    "formal_name": "SPACE DEFENDER \n<br><br>BATTLE INFINITY\n",
-    "description": "The galaxy was suddenly attacked by alien life forms known as the space invaders.\n<br>Fast numbers of them enveloped the galaxy and destroyed planets\n<br>Your mission with the best space pilots in the galaxy will be to destroy the space invaders ...",
-    "release_date_on_eshop": "2018-09-06",
-    "product_code": "CTR-N-LSGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D2700",
+  "uid": "50010000045515",
+  "name": "SPACE DEFENDER",
+  "formal_name": "SPACE DEFENDER \n<br><br>BATTLE INFINITY\n",
+  "description": "The galaxy was suddenly attacked by alien life forms known as the space invaders.\n<br>Fast numbers of them enveloped the galaxy and destroyed planets\n<br>Your mission with the best space pilots in the galaxy will be to destroy the space invaders ...",
+  "release_date_on_eshop": "2018-09-06",
+  "product_code": "CTR-N-LSGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

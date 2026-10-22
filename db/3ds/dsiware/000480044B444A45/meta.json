@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B444A45",
-    "uid": "50010000001961",
-    "name": "DodoGo! Challenge",
-    "formal_name": "DodoGo! Challenge",
-    "description": "DodoGo! Challenge, the sequel to the game DodoGo!, is a unique puzzle game which will put your intelligence to the test!\n\nYou must save as many endangered eggs as possible in nearly 100 dangerous, trap-infested levels! Use the stylus to dig in the terrain, set fire to objects, cut ropes and plenty of other mechanisms! Will you find the solution to bring all the eggs safely to their nest? Don’t worry, your perseverance will be rewarded with bonus levels and trophies which can be unlocked! Beat your own score and see how it ranks against the rest of the world!",
-    "release_date_on_eshop": "2010-12-27",
-    "product_code": "TWL-N-KDJE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B444A45",
+  "uid": "50010000001961",
+  "name": "DodoGo! Challenge",
+  "formal_name": "DodoGo! Challenge",
+  "description": "DodoGo! Challenge, the sequel to the game DodoGo!, is a unique puzzle game which will put your intelligence to the test!\n\nYou must save as many endangered eggs as possible in nearly 100 dangerous, trap-infested levels! Use the stylus to dig in the terrain, set fire to objects, cut ropes and plenty of other mechanisms! Will you find the solution to bring all the eggs safely to their nest? Don’t worry, your perseverance will be rewarded with bonus levels and trophies which can be unlocked! Beat your own score and see how it ranks against the rest of the world!",
+  "release_date_on_eshop": "2010-12-27",
+  "product_code": "TWL-N-KDJE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000076400",
-    "uid": "50010000013373",
-    "name": "ルイージマンション2",
-    "formal_name": "ルイージマンション2",
-    "description": "突然狂暴化したオバケたちが、イタズラし放題のオバ渓谷。\n<br>調査にムリヤリ駆り出されたのは、やっぱりあの男。\n<br>オバケを吸い込む掃除機\"オバキューム\"を手に、ちょっぴり臆病なルイージが、さまざまな\"マンション\"を探索。",
-    "release_date_on_eshop": "2013-03-20",
-    "product_code": "CTR-N-AGGJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "ダウンロードプレイ対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000076400",
+  "uid": "50010000013373",
+  "name": "ルイージマンション2",
+  "formal_name": "ルイージマンション2",
+  "description": "突然狂暴化したオバケたちが、イタズラし放題のオバ渓谷。\n<br>調査にムリヤリ駆り出されたのは、やっぱりあの男。\n<br>オバケを吸い込む掃除機\"オバキューム\"を手に、ちょっぴり臆病なルイージが、さまざまな\"マンション\"を探索。",
+  "release_date_on_eshop": "2013-03-20",
+  "product_code": "CTR-N-AGGJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "ダウンロードプレイ対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

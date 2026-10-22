@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000E8C00",
-    "uid": "50010000013913",
-    "name": "魔女と勇者",
-    "formal_name": "魔女と勇者",
-    "description": "『魔女と勇者』は、メデューサにより石に変えられてしまった魔女と勇者を操作し、敵を倒してすすんでいく「8Bitテイストアクションゲーム」です。\n<br>\n<br>レトロな8Bitテイストのイラストとサウンドとシンプルなゲームルール。誰でも簡単にプレイすることが可能です。\n<br>\n<br>後半のステージでは敵がわらわらと大量に出現し、それをまとめて倒す快感がハマります。",
-    "release_date_on_eshop": "2013-04-17",
-    "product_code": "CTR-N-JWHJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E8C00",
+  "uid": "50010000013913",
+  "name": "魔女と勇者",
+  "formal_name": "魔女と勇者",
+  "description": "『魔女と勇者』は、メデューサにより石に変えられてしまった魔女と勇者を操作し、敵を倒してすすんでいく「8Bitテイストアクションゲーム」です。\n<br>\n<br>レトロな8Bitテイストのイラストとサウンドとシンプルなゲームルール。誰でも簡単にプレイすることが可能です。\n<br>\n<br>後半のステージでは敵がわらわらと大量に出現し、それをまとめて倒す快感がハマります。",
+  "release_date_on_eshop": "2013-04-17",
+  "product_code": "CTR-N-JWHJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

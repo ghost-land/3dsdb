@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F710000",
-    "uid": "50010000044515",
-    "name": "Cycle of Eternity",
-    "formal_name": "Cycle of Eternity: Space Anomaly",
-    "description": "The story is twisted around three graduates of the space fleet, who fell into a time trap. Trying to get home they get into an even bigger mess. Fight with enemies, improve your ships, go through the story and try to free your heroes from the space trap!\n<br>\n<br>Classic turn-based RPG with the unusual story in the space.",
-    "release_date_on_eshop": "2018-04-19",
-    "product_code": "KTR-N-CESE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.12.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F710000",
+  "uid": "50010000044515",
+  "name": "Cycle of Eternity",
+  "formal_name": "Cycle of Eternity: Space Anomaly",
+  "description": "The story is twisted around three graduates of the space fleet, who fell into a time trap. Trying to get home they get into an even bigger mess. Fight with enemies, improve your ships, go through the story and try to free your heroes from the space trap!\n<br>\n<br>Classic turn-based RPG with the unusual story in the space.",
+  "release_date_on_eshop": "2018-04-19",
+  "product_code": "KTR-N-CESE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.12.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000157A00",
-    "uid": "50010000029255",
-    "name": "3D After Burner II",
-    "formal_name": "3D After Burner II",
-    "description": "3D After Burner II is a completely\n<br>re-mastered version of the arcade\n<br>classic.  Pilot your F-14D fighter\n<br>through enemy territory blasting away\n<br>squadrons of enemy fighters.  This\n<br>arcade masterpiece now features\n<br>stereoscopic 3D, a choice of real\n<br>arcade cabinets, new difficulty\n<br>settings as well as visual adjustments\n<br>options.  Blast your way through 23\n<br>stages to unlock a special mode with\n<br>even more gameplay enhancements.",
-    "release_date_on_eshop": "2015-01-15",
-    "product_code": "CTR-N-JVNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000157A00",
+  "uid": "50010000029255",
+  "name": "3D After Burner II",
+  "formal_name": "3D After Burner II",
+  "description": "3D After Burner II is a completely\n<br>re-mastered version of the arcade\n<br>classic.  Pilot your F-14D fighter\n<br>through enemy territory blasting away\n<br>squadrons of enemy fighters.  This\n<br>arcade masterpiece now features\n<br>stereoscopic 3D, a choice of real\n<br>arcade cabinets, new difficulty\n<br>settings as well as visual adjustments\n<br>options.  Blast your way through 23\n<br>stages to unlock a special mode with\n<br>even more gameplay enhancements.",
+  "release_date_on_eshop": "2015-01-15",
+  "product_code": "CTR-N-JVNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

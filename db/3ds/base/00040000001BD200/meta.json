@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001BD200",
-    "uid": "50010000044216",
-    "name": "Apollo Justice: Ace Attorney",
-    "formal_name": "Apollo Justice: Ace Attorney",
-    "description": "Experience the popular Ace Attorney series as a rookie lawyer in Apollo Justice: Ace Attorney now on the Nintendo eShop on Nintendo 3DS™! Step into the shoes of a young and passionate Apollo Justice in his early law career as he takes on his first case.  With the help of Trucy Wright, a talented magician who is also his assistant, and his level-headed  mentor, Kristoph Gavin, the team will seek to reveal the truth in criminal trials.\n<br><br>\nApollo’s undeniable skills in uncovering lies by analyzing witness' body language and years of invaluable advice from his mentor will be put to test when he faces a dashing rival prosecutor named Klavier Gavin. With special appearances from well-known characters such as Phoenix Wright and Ema Skye, players will have an adventure filled with dramatic cases, jaw-dropping events, and a chance to defend their clients at all costs!\n<br>\n<br>Players will utilize the Touch Screen to maneuver their way through crime scenes, interview witnesses with amusing dialogue, and collect vital evidence using forensic science by dusting for prints or testing for traces of blood and present them in the courtroom. Experience challenging puzzles and thrilling stories that will have you at the edge of your seat! The courtroom awaits you, download today!",
-    "release_date_on_eshop": "2017-11-21",
-    "product_code": "CTR-N-AXRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001BD200",
+  "uid": "50010000044216",
+  "name": "Apollo Justice: Ace Attorney",
+  "formal_name": "Apollo Justice: Ace Attorney",
+  "description": "Experience the popular Ace Attorney series as a rookie lawyer in Apollo Justice: Ace Attorney now on the Nintendo eShop on Nintendo 3DS™! Step into the shoes of a young and passionate Apollo Justice in his early law career as he takes on his first case.  With the help of Trucy Wright, a talented magician who is also his assistant, and his level-headed  mentor, Kristoph Gavin, the team will seek to reveal the truth in criminal trials.\n<br><br>\nApollo’s undeniable skills in uncovering lies by analyzing witness' body language and years of invaluable advice from his mentor will be put to test when he faces a dashing rival prosecutor named Klavier Gavin. With special appearances from well-known characters such as Phoenix Wright and Ema Skye, players will have an adventure filled with dramatic cases, jaw-dropping events, and a chance to defend their clients at all costs!\n<br>\n<br>Players will utilize the Touch Screen to maneuver their way through crime scenes, interview witnesses with amusing dialogue, and collect vital evidence using forensic science by dusting for prints or testing for traces of blood and present them in the courtroom. Experience challenging puzzles and thrilling stories that will have you at the edge of your seat! The courtroom awaits you, download today!",
+  "release_date_on_eshop": "2017-11-21",
+  "product_code": "CTR-N-AXRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

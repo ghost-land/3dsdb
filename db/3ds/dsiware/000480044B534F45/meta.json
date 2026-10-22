@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B534F45",
-    "uid": "50010000003761",
-    "name": "Sokomania",
-    "formal_name": "Sokomania",
-    "description": "The game is a variation on a warehouse keeper theme. There are several crates placed on the playing area. The player controls a figure that can push the crates forward. The aim is to get all the crates on the places designated. The player selects the episode he wishes to play and the level he wishes to start at. Only the levels already finished (highlighted in green) and the first unfinished level in each episode are accessible. By repeating already finished levels the player may try to finish them with fewer crate movements. But be warned, those movements are added to the total movement number of the actual game, so for the best (i.e. the lowest) number of movements it’s advisable to finish the game in one run. ",
-    "release_date_on_eshop": "2010-05-03",
-    "product_code": "TWL-N-KSOE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B534F45",
+  "uid": "50010000003761",
+  "name": "Sokomania",
+  "formal_name": "Sokomania",
+  "description": "The game is a variation on a warehouse keeper theme. There are several crates placed on the playing area. The player controls a figure that can push the crates forward. The aim is to get all the crates on the places designated. The player selects the episode he wishes to play and the level he wishes to start at. Only the levels already finished (highlighted in green) and the first unfinished level in each episode are accessible. By repeating already finished levels the player may try to finish them with fewer crate movements. But be warned, those movements are added to the total movement number of the actual game, so for the best (i.e. the lowest) number of movements it’s advisable to finish the game in one run. ",
+  "release_date_on_eshop": "2010-05-03",
+  "product_code": "TWL-N-KSOE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

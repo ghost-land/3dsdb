@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000117800",
-    "uid": "50010000025255",
-    "name": "European Conqueror 3D",
-    "formal_name": "European Conqueror 3D",
-    "description": "European Conqueror 3D is a new\nstrategy game set during World War II.\n<br/><br/>\nIn the game, you can order troops to\nconquer territories such as lands,\ncities, and oceans. Gather resources,\ngrow in economic power, train troops,\ndestroy your opponents, and capture\ntheir capital.\n<br/><br/>\nInclude two modes: Conquest mode\nand Campaign mode.\n<br/><br/>\nConquest mode: choose one of 12\ncountries that belong to either the\nAxis Powers or the Allies to dominate\nEurope. The other countries will be\nfor, against or neutral towards your\ncountry.\n<br/><br/>\nCampaign mode: Main storyline\nfocusing on 4 countries\n(Germany,Britain,France,Soviet\nUnion). 16 battles in total.\n<br/><br/>\nThrilling sound design that will\nimmerse gamers into the action.\n<br/><br/>\nFeatures:\n<br/><br/>\n- 3 difficulty levels\n<br/><br/>\n- New Campaigns\n<br/><br/>\n- Auto-save",
-    "release_date_on_eshop": "2014-09-04",
-    "product_code": "CTR-N-JXRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000117800",
+  "uid": "50010000025255",
+  "name": "European Conqueror 3D",
+  "formal_name": "European Conqueror 3D",
+  "description": "European Conqueror 3D is a new\nstrategy game set during World War II.\n<br/><br/>\nIn the game, you can order troops to\nconquer territories such as lands,\ncities, and oceans. Gather resources,\ngrow in economic power, train troops,\ndestroy your opponents, and capture\ntheir capital.\n<br/><br/>\nInclude two modes: Conquest mode\nand Campaign mode.\n<br/><br/>\nConquest mode: choose one of 12\ncountries that belong to either the\nAxis Powers or the Allies to dominate\nEurope. The other countries will be\nfor, against or neutral towards your\ncountry.\n<br/><br/>\nCampaign mode: Main storyline\nfocusing on 4 countries\n(Germany,Britain,France,Soviet\nUnion). 16 battles in total.\n<br/><br/>\nThrilling sound design that will\nimmerse gamers into the action.\n<br/><br/>\nFeatures:\n<br/><br/>\n- 3 difficulty levels\n<br/><br/>\n- New Campaigns\n<br/><br/>\n- Auto-save",
+  "release_date_on_eshop": "2014-09-04",
+  "product_code": "CTR-N-JXRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

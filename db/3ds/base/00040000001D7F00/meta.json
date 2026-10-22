@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001D7F00",
-    "uid": "50010000047216",
-    "name": "RTO 3",
-    "formal_name": "RTO 3",
-    "description": "The lunar base, where you are stationed as part of the security forces, is under siege. Having just escaped from enemy captivity you are now on your own and must fight against overwhelming odds to survive.\n<br>\n<br>Featuring large and complex levels with nonstop action RTO 3 is a first person shooter which will keep you entertained for hours.",
-    "release_date_on_eshop": "2019-01-03",
-    "product_code": "CTR-N-LR3P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "First-Person Shooter",
-        "Shooter",
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Violence"
-    ]
+  "tid": "00040000001D7F00",
+  "uid": "50010000047216",
+  "name": "RTO 3",
+  "formal_name": "RTO 3",
+  "description": "The lunar base, where you are stationed as part of the security forces, is under siege. Having just escaped from enemy captivity you are now on your own and must fight against overwhelming odds to survive.\n<br>\n<br>Featuring large and complex levels with nonstop action RTO 3 is a first person shooter which will keep you entertained for hours.",
+  "release_date_on_eshop": "2019-01-03",
+  "product_code": "CTR-N-LR3P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "First-Person Shooter",
+    "Shooter",
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Violence"
+  ]
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4D5545",
-    "uid": "50010000002961",
-    "name": "Maestro! Green Groove",
-    "formal_name": "Maestro! Green Groove",
-    "description": "Hello,\n\nDo you like music? Do you like platforms? Do you like pink bird-like things? Do you like the jungle? You'll love Maestro! Green Groove edition! So jump in and enjoy this wonderful feeling of being a virtuoso using your heart, stylus and voice!\n\nEverything you do is music, EVERYTHING! Hit the spiders to play some drums, shoot the fruit to bring out the melody, pinch the strings to play the tune and so on... Challenge the mischievous Staccato the Spider in a melodious battle in which the most talented one will win. For those of you who have no fear, once you have finished the adventure, you can activate the SING/WHISTLE mode to bug everyone around you with your precious talents. And for the talented ones, there is an improvisation mode in which you'll play the levels with the instruments and at the speed of your choice.\n\nEnjoy! Maestros from all around the world!",
-    "release_date_on_eshop": "2010-06-28",
-    "product_code": "TWL-N-KMUE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D5545",
+  "uid": "50010000002961",
+  "name": "Maestro! Green Groove",
+  "formal_name": "Maestro! Green Groove",
+  "description": "Hello,\n\nDo you like music? Do you like platforms? Do you like pink bird-like things? Do you like the jungle? You'll love Maestro! Green Groove edition! So jump in and enjoy this wonderful feeling of being a virtuoso using your heart, stylus and voice!\n\nEverything you do is music, EVERYTHING! Hit the spiders to play some drums, shoot the fruit to bring out the melody, pinch the strings to play the tune and so on... Challenge the mischievous Staccato the Spider in a melodious battle in which the most talented one will win. For those of you who have no fear, once you have finished the adventure, you can activate the SING/WHISTLE mode to bug everyone around you with your precious talents. And for the talented ones, there is an improvisation mode in which you'll play the levels with the instruments and at the speed of your choice.\n\nEnjoy! Maestros from all around the world!",
+  "release_date_on_eshop": "2010-06-28",
+  "product_code": "TWL-N-KMUE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

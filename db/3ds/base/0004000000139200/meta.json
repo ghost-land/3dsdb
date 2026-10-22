@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000139200",
-    "uid": "50010000024036",
-    "name": "Me & My Pets 3D",
-    "formal_name": "Me & My Pets 3D",
-    "description": "Pamper them, offer them a comfortable home and entertain them with funny minigames.\n<br>\n<br>Care for dogs, cats, horses, rabbits, guinea pigs, birds and fishes!\n<br>\n<br>Have fun in minigames like feeding, playing, stroking, brushing, grooming or going for a walk.\n<br>\n<br>Enjoy exciting horse rides on the back of a Haflinger, Arabian & Co. using the amazing gyroscope controls of your Nintendo 3DS™.\n<br>Upgrade your compounds and keep an eye on the individual needs of each animal.\n<br>Visit the store and buy food, medicine, toys or accessories for your pets.\n<br>Collect Play Coins and spend them in the pet store.\n<br>Earn stars by mastering your tasks very well and change them into great ingame extras.\n<br>Supports Circle Pad controls of your Nintendo 3DS.\n<br>3D photo feature: Take a real 3D photo of yourself and use it in the game.",
-    "release_date_on_eshop": "2014-07-10",
-    "product_code": "CTR-N-KMPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Adventure",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000139200",
+  "uid": "50010000024036",
+  "name": "Me & My Pets 3D",
+  "formal_name": "Me & My Pets 3D",
+  "description": "Pamper them, offer them a comfortable home and entertain them with funny minigames.\n<br>\n<br>Care for dogs, cats, horses, rabbits, guinea pigs, birds and fishes!\n<br>\n<br>Have fun in minigames like feeding, playing, stroking, brushing, grooming or going for a walk.\n<br>\n<br>Enjoy exciting horse rides on the back of a Haflinger, Arabian & Co. using the amazing gyroscope controls of your Nintendo 3DS™.\n<br>Upgrade your compounds and keep an eye on the individual needs of each animal.\n<br>Visit the store and buy food, medicine, toys or accessories for your pets.\n<br>Collect Play Coins and spend them in the pet store.\n<br>Earn stars by mastering your tasks very well and change them into great ingame extras.\n<br>Supports Circle Pad controls of your Nintendo 3DS.\n<br>3D photo feature: Take a real 3D photo of yourself and use it in the game.",
+  "release_date_on_eshop": "2014-07-10",
+  "product_code": "CTR-N-KMPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Adventure",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

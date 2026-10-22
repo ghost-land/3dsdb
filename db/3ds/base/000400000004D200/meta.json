@@ -1,26 +1,26 @@
 {
-    "tid": "000400000004D200",
-    "uid": "50010000007484",
-    "name": "Cave Story 3D",
-    "formal_name": "Cave Story 3D",
-    "description": "The original game was lauded for its\nsimple, yet engaging, gameplay and\ncompelling storytelling - now Cave\nStory, an underground hit which can\nalso be found on WiiWare, is making\nits way onto Nintendo 3DS as Cave\nStory 3D.<br>\n<br>\nRemastered to take advantage of the\ncapabilities of the handheld console,\nthis side-scrolling, shooting platform\ntitle from independent game designer\nDaisuke Ayama (a.k.a. Pixel) offers\nthrills, spills and tons of action, in full\n3D.<br>\n<br>\nCave Story 3D’s premise is simple\nbut fascinating: you awaken in a\ngloomy cave with no memory of your\npast, your only option is to explore to\nfind out where, and who, you are.\nSoon enough you happen upon a\nvillage of rabbit-like people called\nMimigas, who are being persecuted by\na mysterious Doctor, and naturally,\nneed someone to help them.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ACVP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004D200",
+  "uid": "50010000007484",
+  "name": "Cave Story 3D",
+  "formal_name": "Cave Story 3D",
+  "description": "The original game was lauded for its\nsimple, yet engaging, gameplay and\ncompelling storytelling - now Cave\nStory, an underground hit which can\nalso be found on WiiWare, is making\nits way onto Nintendo 3DS as Cave\nStory 3D.<br>\n<br>\nRemastered to take advantage of the\ncapabilities of the handheld console,\nthis side-scrolling, shooting platform\ntitle from independent game designer\nDaisuke Ayama (a.k.a. Pixel) offers\nthrills, spills and tons of action, in full\n3D.<br>\n<br>\nCave Story 3D’s premise is simple\nbut fascinating: you awaken in a\ngloomy cave with no memory of your\npast, your only option is to explore to\nfind out where, and who, you are.\nSoon enough you happen upon a\nvillage of rabbit-like people called\nMimigas, who are being persecuted by\na mysterious Doctor, and naturally,\nneed someone to help them.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ACVP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

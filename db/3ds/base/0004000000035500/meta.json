@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000035500",
-    "uid": "50010000000250",
-    "name": "Madden NFL Football",
-    "formal_name": "Madden NFL Football",
-    "description": "Madden NFL Football for the Nintendo 3DS brings your favorite players and teams to life like never before, in jaw-dropping 3D. The action jumps off the screen as you compete in traditional 11-on-11 games or high-flying 5-on-5. Whether you’re a Madden NFL rookie or an All-Pro, three types of playcalling options provide the right amount of depth for every player. Harness the power of the Nintendo 3DS Touch Screen and draw your own plays right on the field with the innovative Call Your Shots feature. Madden NFL Football is the ultimate sports experience for the Nintendo 3DS.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AMDE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": []
+  "tid": "0004000000035500",
+  "uid": "50010000000250",
+  "name": "Madden NFL Football",
+  "formal_name": "Madden NFL Football",
+  "description": "Madden NFL Football for the Nintendo 3DS brings your favorite players and teams to life like never before, in jaw-dropping 3D. The action jumps off the screen as you compete in traditional 11-on-11 games or high-flying 5-on-5. Whether you’re a Madden NFL rookie or an All-Pro, three types of playcalling options provide the right amount of depth for every player. Harness the power of the Nintendo 3DS Touch Screen and draw your own plays right on the field with the innovative Call Your Shots feature. Madden NFL Football is the ultimate sports experience for the Nintendo 3DS.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AMDE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": []
 }

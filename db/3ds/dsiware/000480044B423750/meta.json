@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B423750",
-    "uid": "50010000002301",
-    "name": "Trollboarder",
-    "formal_name": "Trollboarder",
-    "description": "Descend the slopes in the craziest snowboard game in history! <br>\n<br>\nWhat happens when the dragonsâ€™ treasures are stolen by goblins when you were in charge of watching over them?\n The dragons become furious and you must recover all of the treasures as fast as possible.\n Control the last guardian on his snowboard and take part in frantic races to recover the stolen coins. Perform your best tricks to gain the favours of the dragons and to discover the invisible chests.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KB7P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Racing",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B423750",
+  "uid": "50010000002301",
+  "name": "Trollboarder",
+  "formal_name": "Trollboarder",
+  "description": "Descend the slopes in the craziest snowboard game in history! <br>\n<br>\nWhat happens when the dragonsâ€™ treasures are stolen by goblins when you were in charge of watching over them?\n The dragons become furious and you must recover all of the treasures as fast as possible.\n Control the last guardian on his snowboard and take part in frantic races to recover the stolen coins. Perform your best tricks to gain the favours of the dragons and to discover the invisible chests.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KB7P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Racing",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

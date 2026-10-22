@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000138900",
-    "uid": "50010000031295",
-    "name": "Proun+",
-    "formal_name": "Proun+",
-    "description": "In Proun+ you guide a ball racing\nalong a pipe while dodging obstacles.\n5 different speeds from Relaxed to\nSpeed of Light mean this game is\nsuitable for both casual and hardcore\ngamers, so anyone can enjoy it. The\nlevels are accompanied by great\njazz-rock music specially written for\nProun+. Make no mistake - this game\nis visually great but will be the\nhardest challenge of your life at top\nspeed!",
-    "release_date_on_eshop": "2015-03-05",
-    "product_code": "CTR-N-KPRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Action",
-        "Arcade",
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000138900",
+  "uid": "50010000031295",
+  "name": "Proun+",
+  "formal_name": "Proun+",
+  "description": "In Proun+ you guide a ball racing\nalong a pipe while dodging obstacles.\n5 different speeds from Relaxed to\nSpeed of Light mean this game is\nsuitable for both casual and hardcore\ngamers, so anyone can enjoy it. The\nlevels are accompanied by great\njazz-rock music specially written for\nProun+. Make no mistake - this game\nis visually great but will be the\nhardest challenge of your life at top\nspeed!",
+  "release_date_on_eshop": "2015-03-05",
+  "product_code": "CTR-N-KPRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Action",
+    "Arcade",
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

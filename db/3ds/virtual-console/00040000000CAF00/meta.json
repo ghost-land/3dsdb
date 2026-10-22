@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000CAF00",
-    "uid": "50010000020014",
-    "name": "Renegade",
-    "formal_name": "Renegade",
-    "description": "Renegade was a highly influential\nbenchmark in the beat ‘em up genre.\nStep into the shoes of a vigilante who\nmust battle his way through subways,\nparks, alleyways and parking lots. You\ncan even burn rubber on a motorcycle.\n<br/><br/>\nPick up items like a hamburger that\nrestores life, a heart that increases\nyour lives by one and an item that\ngives your bike a boost. You’ll need\nall the help you can get to take out\nthe many street punks, killer kung-fu\nfemales, outlaw bikers and array of\nbosses standing in your way.",
-    "release_date_on_eshop": "2014-02-20",
-    "product_code": "CTR-N-TCLP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CAF00",
+  "uid": "50010000020014",
+  "name": "Renegade",
+  "formal_name": "Renegade",
+  "description": "Renegade was a highly influential\nbenchmark in the beat ‘em up genre.\nStep into the shoes of a vigilante who\nmust battle his way through subways,\nparks, alleyways and parking lots. You\ncan even burn rubber on a motorcycle.\n<br/><br/>\nPick up items like a hamburger that\nrestores life, a heart that increases\nyour lives by one and an item that\ngives your bike a boost. You’ll need\nall the help you can get to take out\nthe many street punks, killer kung-fu\nfemales, outlaw bikers and array of\nbosses standing in your way.",
+  "release_date_on_eshop": "2014-02-20",
+  "product_code": "CTR-N-TCLP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

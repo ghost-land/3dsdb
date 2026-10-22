@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000084B00",
-    "uid": "50010000009131",
-    "name": "Cats and Dogs 3D\nPets at play",
-    "formal_name": "Cats and Dogs 3D\n<br>Pets at play",
-    "description": "Pick from a wide range of both cats and dogs. Take care of them and watch as they grow and develop into fully trained pets. At playtime use one of the various toys to keep them entertained and healthy. Teach them new tricks so they can compete in competitions.\n<br>\n<br>• Augmented Reality: Play with your pet in full 3D\n<br>\n<br>• Various breeds: Golden Retriever, Dalmatian, German Shepherd, Husky, Siamese, Maine Coon, British Shorthair, Tabby\n<br>\n<br>• 16 Mini-games\n<br>\n<br>• Take them for a walk and visit shops.",
-    "release_date_on_eshop": "2013-04-11",
-    "product_code": "CTR-P-AHUP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000084B00",
+  "uid": "50010000009131",
+  "name": "Cats and Dogs 3D\nPets at play",
+  "formal_name": "Cats and Dogs 3D\n<br>Pets at play",
+  "description": "Pick from a wide range of both cats and dogs. Take care of them and watch as they grow and develop into fully trained pets. At playtime use one of the various toys to keep them entertained and healthy. Teach them new tricks so they can compete in competitions.\n<br>\n<br>• Augmented Reality: Play with your pet in full 3D\n<br>\n<br>• Various breeds: Golden Retriever, Dalmatian, German Shepherd, Husky, Siamese, Maine Coon, British Shorthair, Tabby\n<br>\n<br>• 16 Mini-games\n<br>\n<br>• Take them for a walk and visit shops.",
+  "release_date_on_eshop": "2013-04-11",
+  "product_code": "CTR-P-AHUP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

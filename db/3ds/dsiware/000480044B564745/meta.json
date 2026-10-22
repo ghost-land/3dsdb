@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B564745",
-    "uid": "50010000004164",
-    "name": "Adventure in Vegas: \nSlot Machine",
-    "formal_name": "Adventure in Vegas: \nSlot Machine",
-    "description": "Try your luck playing on three slot machines: Hawaiian, Pirate Treasure and Mexican Heat. The one-armed bandits in “Adventure in Vegas: Slot Machine” are not only uniquely themed with tunes and graphics, but also have different special table features: the number of reels, extra buttons, winning sequences and custom bets. End your around-the-world trip in Vegas and bet the remainder of the small fortune you inherited. You have to be good to be lucky! Will you acquire more luxury goods like jewelry, a bike or your own jet?! Or maybe you’ll lose everything you win? Whatever the outcome, all you can do in Las Vegas is go for it!",
-    "release_date_on_eshop": "2010-11-08",
-    "product_code": "TWL-N-KVGE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B564745",
+  "uid": "50010000004164",
+  "name": "Adventure in Vegas: \nSlot Machine",
+  "formal_name": "Adventure in Vegas: \nSlot Machine",
+  "description": "Try your luck playing on three slot machines: Hawaiian, Pirate Treasure and Mexican Heat. The one-armed bandits in “Adventure in Vegas: Slot Machine” are not only uniquely themed with tunes and graphics, but also have different special table features: the number of reels, extra buttons, winning sequences and custom bets. End your around-the-world trip in Vegas and bet the remainder of the small fortune you inherited. You have to be good to be lucky! Will you acquire more luxury goods like jewelry, a bike or your own jet?! Or maybe you’ll lose everything you win? Whatever the outcome, all you can do in Las Vegas is go for it!",
+  "release_date_on_eshop": "2010-11-08",
+  "product_code": "TWL-N-KVGE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,38 +1,38 @@
 {
-    "tid": "000400000015FA00",
-    "uid": "50010000029495",
-    "name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
-    "formal_name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
-    "description": "In Monster Hunter™ 4 Ultimate you'll embark on an epic journey, traveling across a vast world hunting larger than life beasts as you search for the source of a mysterious virus. Travel with a caravan of fellow hunters and merchants as you make your way across multiple locales, each with its own unique look and feel in the largest Monster Hunter™ ever!\n\nThis grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Choose from 14 different weapon classes such as the Dual Blades or Gunlance, or try one of the new weapons classes, the agile Insect Glaive or the devastating Charge Blade.  Craft hundreds of different armor sets, each with their own unique skills and stats as you become the ultimate hunter.\n\nBut don't hunt alone! Form a party with up to three other friends locally or via the Nintendo Network to take on the fiercest foes together.",
-    "release_date_on_eshop": "2015-02-05",
-    "product_code": "CTR-N-KFGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "Digital Demos",
-    "genres": [
-        "Action",
-        "Adventure",
-        "RPG"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Blood",
-        "Crude Humor",
-        "Fantasy Violence"
-    ]
+  "tid": "000400000015FA00",
+  "uid": "50010000029495",
+  "name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
+  "formal_name": "Monster Hunter™ 4 Ultimate\nSpecial Demo",
+  "description": "In Monster Hunter™ 4 Ultimate you'll embark on an epic journey, traveling across a vast world hunting larger than life beasts as you search for the source of a mysterious virus. Travel with a caravan of fellow hunters and merchants as you make your way across multiple locales, each with its own unique look and feel in the largest Monster Hunter™ ever!\n\nThis grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Choose from 14 different weapon classes such as the Dual Blades or Gunlance, or try one of the new weapons classes, the agile Insect Glaive or the devastating Charge Blade.  Craft hundreds of different armor sets, each with their own unique skills and stats as you become the ultimate hunter.\n\nBut don't hunt alone! Form a party with up to three other friends locally or via the Nintendo Network to take on the fiercest foes together.",
+  "release_date_on_eshop": "2015-02-05",
+  "product_code": "CTR-N-KFGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "Digital Demos",
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Blood",
+    "Crude Humor",
+    "Fantasy Violence"
+  ]
 }

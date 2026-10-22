@@ -1,38 +1,38 @@
 {
-    "tid": "0004000000074000",
-    "uid": "50010000010366",
-    "name": "Heroes of Ruin™",
-    "formal_name": "Heroes of Ruin™",
-    "description": "Create your own mercenary and go\nforth into battle either on your own, or\njoin forces with other heroes in\n4-player co-operative multiplayer.\nTest your combat skills and earn\nrewards by taking on new daily\nchallenges.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-AH6P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action",
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000074000",
+  "uid": "50010000010366",
+  "name": "Heroes of Ruin™",
+  "formal_name": "Heroes of Ruin™",
+  "description": "Create your own mercenary and go\nforth into battle either on your own, or\njoin forces with other heroes in\n4-player co-operative multiplayer.\nTest your combat skills and earn\nrewards by taking on new daily\nchallenges.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-AH6P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action",
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

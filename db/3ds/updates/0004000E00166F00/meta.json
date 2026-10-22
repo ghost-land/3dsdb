@@ -1,26 +1,26 @@
 {
-    "tid": "0004000E00166F00",
-    "uid": "50010000035735",
-    "name": "Comic Workshop 2: Update",
-    "formal_name": "Comic Workshop 2: Update",
-    "description": "- An auto-correction for curves has\nbeen added. Making quick curves will\nnot result in straight line segments\nanymore.\n<br/><br/>\n- Preview icons displaying the size of\nvarious tools like the Pencil, Text or\nBlur tools have been revised to look\nmuch sharper.\n<br/><br/>\n- Fixed a critical error occurring\nwhen making small selections when\nthe zoom level is higher than 100%.\n<br/><br/>\n- Density level for the Pencil, Eraser\nand Straight Lines has been improved.\n<br/><br/>\n- A display bug when making small\nand thin panels has been fixed.\n<br/><br/>\n- The size of texts appearing in\npop-up windows has been adapted for\nbetter readability purposes.\n<br/><br/>\n- Other small bugs have been fixed.\n<br/><br/>\nThis is an update for the Comic\nWorkshop 2 application.\n<br/>\nThis download does not contain the\nfull version of the title.\n<br/>\nIn order to use this update, you must\nhave the full version of Comic\nWorkshop 2.",
-    "release_date_on_eshop": "2015-07-17",
-    "product_code": "CTR-U-KW2P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00166F00",
+  "uid": "50010000035735",
+  "name": "Comic Workshop 2: Update",
+  "formal_name": "Comic Workshop 2: Update",
+  "description": "- An auto-correction for curves has\nbeen added. Making quick curves will\nnot result in straight line segments\nanymore.\n<br/><br/>\n- Preview icons displaying the size of\nvarious tools like the Pencil, Text or\nBlur tools have been revised to look\nmuch sharper.\n<br/><br/>\n- Fixed a critical error occurring\nwhen making small selections when\nthe zoom level is higher than 100%.\n<br/><br/>\n- Density level for the Pencil, Eraser\nand Straight Lines has been improved.\n<br/><br/>\n- A display bug when making small\nand thin panels has been fixed.\n<br/><br/>\n- The size of texts appearing in\npop-up windows has been adapted for\nbetter readability purposes.\n<br/><br/>\n- Other small bugs have been fixed.\n<br/><br/>\nThis is an update for the Comic\nWorkshop 2 application.\n<br/>\nThis download does not contain the\nfull version of the title.\n<br/>\nIn order to use this update, you must\nhave the full version of Comic\nWorkshop 2.",
+  "release_date_on_eshop": "2015-07-17",
+  "product_code": "CTR-U-KW2P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

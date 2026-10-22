@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000F8A00",
-    "uid": "50010000026540",
-    "name": "Gargoyle's Quest II: The Demon Darkness",
-    "formal_name": "Gargoyle's Quest II: The Demon Darkness",
-    "description": "Firebrand the gargoyle returns in this\nNES™ prequel to the gothic\nGame Boy™ hit. As a young\ndemon-in-training, Firebrand is\nentrusted to defeat an evil, dark light\nthat threatens his home.\n<br/><br/>\nPart platformer, part role-playing\ngame, Gargoyle’s Quest II features\noverhead map-style adventure\nelements and side-scrolling action\nelements. Increase Firebrand’s abilities\nas you progress; improving your\nflying, jumping and magic power.\nExplore the realm, collect items and\nbattle bosses, and vanquish the\nultimate evil!",
-    "release_date_on_eshop": "2014-10-30",
-    "product_code": "CTR-N-TDNP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F8A00",
+  "uid": "50010000026540",
+  "name": "Gargoyle's Quest II: The Demon Darkness",
+  "formal_name": "Gargoyle's Quest II: The Demon Darkness",
+  "description": "Firebrand the gargoyle returns in this\nNES™ prequel to the gothic\nGame Boy™ hit. As a young\ndemon-in-training, Firebrand is\nentrusted to defeat an evil, dark light\nthat threatens his home.\n<br/><br/>\nPart platformer, part role-playing\ngame, Gargoyle’s Quest II features\noverhead map-style adventure\nelements and side-scrolling action\nelements. Increase Firebrand’s abilities\nas you progress; improving your\nflying, jumping and magic power.\nExplore the realm, collect items and\nbattle bosses, and vanquish the\nultimate evil!",
+  "release_date_on_eshop": "2014-10-30",
+  "product_code": "CTR-N-TDNP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

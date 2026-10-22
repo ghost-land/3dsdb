@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000FB900",
-    "uid": "50010000015102",
-    "name": "3D ギャラクシーフォースⅡ",
-    "formal_name": "3D ギャラクシーフォースⅡ",
-    "description": "幻想的な宇宙空間を舞台にしたSF3Dシューティングゲームが、3D立体視対応に加え、より美しい画面になって登場。5つの星を駆け抜けて要塞に潜入、コアを破壊します。「セガ体感ゲーム」のダイナミックさを再現した「ムービング筐体」モードでは画面が上下左右に動き、当時の感動を再現します。\n<br>\n<br>※本作は、拡張スライドパッドに対応しています。",
-    "release_date_on_eshop": "2013-07-24",
-    "product_code": "CTR-N-JGFJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シューティング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FB900",
+  "uid": "50010000015102",
+  "name": "3D ギャラクシーフォースⅡ",
+  "formal_name": "3D ギャラクシーフォースⅡ",
+  "description": "幻想的な宇宙空間を舞台にしたSF3Dシューティングゲームが、3D立体視対応に加え、より美しい画面になって登場。5つの星を駆け抜けて要塞に潜入、コアを破壊します。「セガ体感ゲーム」のダイナミックさを再現した「ムービング筐体」モードでは画面が上下左右に動き、当時の感動を再現します。\n<br>\n<br>※本作は、拡張スライドパッドに対応しています。",
+  "release_date_on_eshop": "2013-07-24",
+  "product_code": "CTR-N-JGFJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シューティング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

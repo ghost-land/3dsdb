@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E0016A900",
-    "uid": "50010000039375",
-    "name": "Terraria Update Ver. 1.0.5",
-    "formal_name": "Terraria Update Ver. 1.0.5",
-    "description": "Keep your game up to date with the latest content and fixes by updating to version 1.0.5.\n<br>\n<br>Chlorophyte Armor stability issue fixed\n<br>Minor bug fixes\n<br>\n<br>(This is an update for the Terraria game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Terraria.)",
-    "release_date_on_eshop": "2016-12-16",
-    "product_code": "CTR-U-BTEE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v5.6.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E0016A900",
+  "uid": "50010000039375",
+  "name": "Terraria Update Ver. 1.0.5",
+  "formal_name": "Terraria Update Ver. 1.0.5",
+  "description": "Keep your game up to date with the latest content and fixes by updating to version 1.0.5.\n<br>\n<br>Chlorophyte Armor stability issue fixed\n<br>Minor bug fixes\n<br>\n<br>(This is an update for the Terraria game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Terraria.)",
+  "release_date_on_eshop": "2016-12-16",
+  "product_code": "CTR-U-BTEE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v5.6.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

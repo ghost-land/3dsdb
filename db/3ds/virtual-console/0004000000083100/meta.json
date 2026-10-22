@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000083100",
-    "uid": "50010000011008",
-    "name": "The Sword of Hope II",
-    "formal_name": "The Sword of Hope II",
-    "description": "The Sword of Hope II is a Role Playing Game released in 1996, for the handheld video game device Game Boy.\n<br><br>\nYou will take on the role of young Prince Theo of Riccar, going on an adventure to find out the truth of the mystery which is threatening the Kingdom. The key to solve the numerous puzzles and gimmicks are the commands like \"look\", \"open\" and \"hit\". You will find your way looking around and finding many places and items during the adventure, with some friends waiting for to lend their hands on the way.",
-    "release_date_on_eshop": "2012-07-12",
-    "product_code": "CTR-N-RBVE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000083100",
+  "uid": "50010000011008",
+  "name": "The Sword of Hope II",
+  "formal_name": "The Sword of Hope II",
+  "description": "The Sword of Hope II is a Role Playing Game released in 1996, for the handheld video game device Game Boy.\n<br><br>\nYou will take on the role of young Prince Theo of Riccar, going on an adventure to find out the truth of the mystery which is threatening the Kingdom. The key to solve the numerous puzzles and gimmicks are the commands like \"look\", \"open\" and \"hit\". You will find your way looking around and finding many places and items during the adventure, with some friends waiting for to lend their hands on the way.",
+  "release_date_on_eshop": "2012-07-12",
+  "product_code": "CTR-N-RBVE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

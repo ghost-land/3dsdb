@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000110000",
-    "uid": "50010000026756",
-    "name": "Harvest Moon® 2 GBC",
-    "formal_name": "Harvest Moon® 2 GBC",
-    "description": "The honorable mayor of your local town has given you a farm at an unbelievable price—for FREE! But there's a catch. You must restore the farm to its former glory within a certain amount of time, or he will reclaim the property and turn it into a theme park!\n<br><br>\nChoose between playing as a boy or a girl farmer, and then grab your gloves and dig into a list of chores. Clear the land so you can plant and harvest crops. Raise happy cows, chickens, and sheep so that they can provide resources to sell and start you on the path to riches! Build new structures on your land, and watch your farm grow into an investment! Prove to the mayor that you have what it takes!",
-    "release_date_on_eshop": "2014-10-16",
-    "product_code": "CTR-N-QA7E",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000110000",
+  "uid": "50010000026756",
+  "name": "Harvest Moon® 2 GBC",
+  "formal_name": "Harvest Moon® 2 GBC",
+  "description": "The honorable mayor of your local town has given you a farm at an unbelievable price—for FREE! But there's a catch. You must restore the farm to its former glory within a certain amount of time, or he will reclaim the property and turn it into a theme park!\n<br><br>\nChoose between playing as a boy or a girl farmer, and then grab your gloves and dig into a list of chores. Clear the land so you can plant and harvest crops. Raise happy cows, chickens, and sheep so that they can provide resources to sell and start you on the path to riches! Build new structures on your land, and watch your farm grow into an investment! Prove to the mayor that you have what it takes!",
+  "release_date_on_eshop": "2014-10-16",
+  "product_code": "CTR-N-QA7E",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

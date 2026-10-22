@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B414545",
-    "uid": "50010000001222",
-    "name": "Ancient Tribe",
-    "formal_name": "Ancient Tribe",
-    "description": "In the ancient world of Savage, you play the god of an ancient tribe in this real-time strategy game. Expand your village by guiding its inhabitants on the hunting grounds to find food and resources. Use them to upgrade your village and increase its population. When the primitive tribe develops to a certain level, they will build a temple to pay tribute to your mightiness. You can recruit new troops and research new classes of tribal people by upgrading the existing tribe's equipment and technology. Besides improving your tribe you can improve your godly powers by sacrificing some of your tribesmen and resources. On the hunting ground your tribe will explore forests, deserts, volcanoes and frozen lands. They will meet various kinds of beasts such as boars, elephants and even dinosaurs. You can help trap and tame them so your tribe can ride on them as part of your army and hunting troop. ",
-    "release_date_on_eshop": "2010-06-27",
-    "product_code": "TWL-N-KAEE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414545",
+  "uid": "50010000001222",
+  "name": "Ancient Tribe",
+  "formal_name": "Ancient Tribe",
+  "description": "In the ancient world of Savage, you play the god of an ancient tribe in this real-time strategy game. Expand your village by guiding its inhabitants on the hunting grounds to find food and resources. Use them to upgrade your village and increase its population. When the primitive tribe develops to a certain level, they will build a temple to pay tribute to your mightiness. You can recruit new troops and research new classes of tribal people by upgrading the existing tribe's equipment and technology. Besides improving your tribe you can improve your godly powers by sacrificing some of your tribesmen and resources. On the hunting ground your tribe will explore forests, deserts, volcanoes and frozen lands. They will meet various kinds of beasts such as boars, elephants and even dinosaurs. You can help trap and tame them so your tribe can ride on them as part of your army and hunting troop. ",
+  "release_date_on_eshop": "2010-06-27",
+  "product_code": "TWL-N-KAEE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

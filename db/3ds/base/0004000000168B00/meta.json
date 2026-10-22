@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000168B00",
-    "uid": "50010000034681",
-    "name": "YAKARI: The Mystery\nof Four-Seasons",
-    "formal_name": "YAKARI: The Mystery\nof Four-Seasons",
-    "description": "Step into the shoes of your favourite\nhero in his new adventure!<br/>\nHead off on an adventure with Yakari\nto solve the Four Seasons mystery.<br/>\nDiscover why winter came all of a\nsudden for Yakari and his tribe.<br/>\nBrave the elements in a universe full\nof colour.<br/>\nYour friends the animals will\naccompany you throughout your\nadventure.",
-    "release_date_on_eshop": "2015-07-02",
-    "product_code": "CTR-P-AYRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000168B00",
+  "uid": "50010000034681",
+  "name": "YAKARI: The Mystery\nof Four-Seasons",
+  "formal_name": "YAKARI: The Mystery\nof Four-Seasons",
+  "description": "Step into the shoes of your favourite\nhero in his new adventure!<br/>\nHead off on an adventure with Yakari\nto solve the Four Seasons mystery.<br/>\nDiscover why winter came all of a\nsudden for Yakari and his tribe.<br/>\nBrave the elements in a universe full\nof colour.<br/>\nYour friends the animals will\naccompany you throughout your\nadventure.",
+  "release_date_on_eshop": "2015-07-02",
+  "product_code": "CTR-P-AYRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

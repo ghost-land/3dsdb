@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000B2F00",
-    "uid": "50010000017114",
-    "name": "City Connection™",
-    "formal_name": "City Connection™",
-    "description": "NES™ classic City Connection is a\ndriving action game which sees you\nrace across all the highways of the\nworld!\n<br/><br/>\nAfter breaking into a New York paint\nstore you get behind the wheel of a\ncustomised automobile. You must\navoid pesky cats and the ever-present\npolice who will stop at nothing to\nbring your journey to a screeching\nhalt.\n<br/><br/>\nUtilising oil cans and death-defying\njumps, throw your assailants off your\ntrail and travel the world from New\nYork to Japan in this exciting arcade\nclassic!",
-    "release_date_on_eshop": "2013-10-17",
-    "product_code": "CTR-N-TBUP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Racing",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B2F00",
+  "uid": "50010000017114",
+  "name": "City Connection™",
+  "formal_name": "City Connection™",
+  "description": "NES™ classic City Connection is a\ndriving action game which sees you\nrace across all the highways of the\nworld!\n<br/><br/>\nAfter breaking into a New York paint\nstore you get behind the wheel of a\ncustomised automobile. You must\navoid pesky cats and the ever-present\npolice who will stop at nothing to\nbring your journey to a screeching\nhalt.\n<br/><br/>\nUtilising oil cans and death-defying\njumps, throw your assailants off your\ntrail and travel the world from New\nYork to Japan in this exciting arcade\nclassic!",
+  "release_date_on_eshop": "2013-10-17",
+  "product_code": "CTR-N-TBUP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Racing",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

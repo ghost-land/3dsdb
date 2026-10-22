@@ -1,25 +1,25 @@
 {
-    "tid": "000400000008AF00",
-    "uid": "50010000010426",
-    "name": "Wario Land™ 3",
-    "formal_name": "Wario Land™ 3",
-    "description": "Once again, greed has got the better\nof Wario. Trapped inside a mystical\nmusic box, Wario must find his way\nout - while grabbing all the loot\nalong the way, of course!<br>\n<br>\nWario Land 3 is a huge platform\nadventure with day and night versions\nof each level, with 100 treasures to\ndiscover, plus bags of secrets and the\ntypically wacky Wario humour!<br>\n<br>\nWario can also gain new abilities like\nElectric Wario, Invisible Wario,\nVampire Wario and more. There is\neven a Time Attack Mode and a golf\nminigame to discover!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-QAPP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008AF00",
+  "uid": "50010000010426",
+  "name": "Wario Land™ 3",
+  "formal_name": "Wario Land™ 3",
+  "description": "Once again, greed has got the better\nof Wario. Trapped inside a mystical\nmusic box, Wario must find his way\nout - while grabbing all the loot\nalong the way, of course!<br>\n<br>\nWario Land 3 is a huge platform\nadventure with day and night versions\nof each level, with 100 treasures to\ndiscover, plus bags of secrets and the\ntypically wacky Wario humour!<br>\n<br>\nWario can also gain new abilities like\nElectric Wario, Invisible Wario,\nVampire Wario and more. There is\neven a Time Attack Mode and a golf\nminigame to discover!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-QAPP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

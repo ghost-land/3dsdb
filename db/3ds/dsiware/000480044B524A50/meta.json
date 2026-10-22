@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B524A50",
-    "uid": "50010000006123",
-    "name": "5 in 1 Mahjong",
-    "formal_name": "5 in 1 Mahjong",
-    "description": "Play Classic Mahjong choosing from\n300 layouts in three difficulty levels.\nOr try another variation: In\n\"Countdown\" you only have 20\nminutes. Train your memory with\n\"Remember\", don’t dally in \"Shuffle\"\nor search for particular tiles in\n\"Match\".<br>\n<br>\nThe tiles are strikingly sharp, making\nthem easy to recognize. If you are\nstuck, hints will help you out!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KRJP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Simulation",
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524A50",
+  "uid": "50010000006123",
+  "name": "5 in 1 Mahjong",
+  "formal_name": "5 in 1 Mahjong",
+  "description": "Play Classic Mahjong choosing from\n300 layouts in three difficulty levels.\nOr try another variation: In\n\"Countdown\" you only have 20\nminutes. Train your memory with\n\"Remember\", don’t dally in \"Shuffle\"\nor search for particular tiles in\n\"Match\".<br>\n<br>\nThe tiles are strikingly sharp, making\nthem easy to recognize. If you are\nstuck, hints will help you out!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KRJP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "000400000008CE00",
-    "uid": "50010000010466",
-    "name": "Akari by Nikoli",
-    "formal_name": "Akari by Nikoli",
-    "description": "With the Nikoli puzzle series, you can enjoy high-quality \"Akari\" puzzles, created by Nikoli, who gave the world-famous puzzle \"Sudoku\" name. The Nintendo 3DS allows for the realization of simple and easy to play operability.\n<br><br>\n\"Akari\" is a puzzle in which you set lights based on the hint numbers in order to light up the entirety of the white space. The main features of \"Akari\" are the easy to understand rules, and the depth of the game. There are great numbers of patterns for which you will figure out \"When the numbers and lights and spaces are combined like this, then THIS is how they are sure to match up\", so you have plenty of opportunities to taste \"the excitement of discovering new patterns\". To ensure your long-term enjoyment, we're prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode puzzles are generated at random. Please enjoy this high-quality \"Akari\" game.",
-    "release_date_on_eshop": "2012-07-05",
-    "product_code": "CTR-N-JBJE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008CE00",
+  "uid": "50010000010466",
+  "name": "Akari by Nikoli",
+  "formal_name": "Akari by Nikoli",
+  "description": "With the Nikoli puzzle series, you can enjoy high-quality \"Akari\" puzzles, created by Nikoli, who gave the world-famous puzzle \"Sudoku\" name. The Nintendo 3DS allows for the realization of simple and easy to play operability.\n<br><br>\n\"Akari\" is a puzzle in which you set lights based on the hint numbers in order to light up the entirety of the white space. The main features of \"Akari\" are the easy to understand rules, and the depth of the game. There are great numbers of patterns for which you will figure out \"When the numbers and lights and spaces are combined like this, then THIS is how they are sure to match up\", so you have plenty of opportunities to taste \"the excitement of discovering new patterns\". To ensure your long-term enjoyment, we're prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode puzzles are generated at random. Please enjoy this high-quality \"Akari\" game.",
+  "release_date_on_eshop": "2012-07-05",
+  "product_code": "CTR-N-JBJE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

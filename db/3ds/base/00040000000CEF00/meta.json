@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000CEF00",
-    "uid": "50010000014532",
-    "name": "Swords & Soldiers 3D",
-    "formal_name": "Swords & Soldiers 3D",
-    "description": "Prepare for an encounter with a\nfreakishly large pepper: Swords &\nSoldiers 3D is coming your way!\n<br/><br/>\nRewrite history as you take control of\nthe brutal Vikings, the devious Aztecs\nor the crafty Chinese in their global\nquest to win the favor of the Gods!\n<br/><br/>\nSwords & Soldiers 3D is a\nside-scrolling strategy game that lets\nyou control an entire army and lets\nyou wield devastating magical\nabilities. Demolish your enemy’s\ncastle at the end of these\ntwo-dimensional battlefields and lead\nyour troops to victory!\n<br/><br/>\nFeatures\n<br/><br/>\n-Strategic fun like you’ve never seen\nbefore!\n<br/><br/>\n-Command Aztecs, Vikings and\nChinese in 30 missions!\n<br/><br/>\n-Endlessly challenging single player\nskirmish battles!\n<br/><br/>\n-Earn tricky achievements!",
-    "release_date_on_eshop": "2013-05-23",
-    "product_code": "CTR-N-JS2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CEF00",
+  "uid": "50010000014532",
+  "name": "Swords & Soldiers 3D",
+  "formal_name": "Swords & Soldiers 3D",
+  "description": "Prepare for an encounter with a\nfreakishly large pepper: Swords &\nSoldiers 3D is coming your way!\n<br/><br/>\nRewrite history as you take control of\nthe brutal Vikings, the devious Aztecs\nor the crafty Chinese in their global\nquest to win the favor of the Gods!\n<br/><br/>\nSwords & Soldiers 3D is a\nside-scrolling strategy game that lets\nyou control an entire army and lets\nyou wield devastating magical\nabilities. Demolish your enemy’s\ncastle at the end of these\ntwo-dimensional battlefields and lead\nyour troops to victory!\n<br/><br/>\nFeatures\n<br/><br/>\n-Strategic fun like you’ve never seen\nbefore!\n<br/><br/>\n-Command Aztecs, Vikings and\nChinese in 30 missions!\n<br/><br/>\n-Endlessly challenging single player\nskirmish battles!\n<br/><br/>\n-Earn tricky achievements!",
+  "release_date_on_eshop": "2013-05-23",
+  "product_code": "CTR-N-JS2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

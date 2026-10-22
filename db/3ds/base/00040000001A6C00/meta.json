@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001A6C00",
-    "uid": "50010000041723",
-    "name": "7th Dragon III Code: VFD",
-    "formal_name": "7th Dragon III Code: VFD",
-    "description": "The apocalypse is heralded by the appearance of seven dragons. One after another, they have invaded earth and are beginning to ravage the human race. Once the seventh appears, there’s no hope for mankind... unless you turn back time in 7th Dragon Code: VFD.",
-    "release_date_on_eshop": "2016-12-01",
-    "product_code": "CTR-P-BD7P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A6C00",
+  "uid": "50010000041723",
+  "name": "7th Dragon III Code: VFD",
+  "formal_name": "7th Dragon III Code: VFD",
+  "description": "The apocalypse is heralded by the appearance of seven dragons. One after another, they have invaded earth and are beginning to ravage the human race. Once the seventh appears, there’s no hope for mankind... unless you turn back time in 7th Dragon Code: VFD.",
+  "release_date_on_eshop": "2016-12-01",
+  "product_code": "CTR-P-BD7P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000D3300",
-    "uid": "50010000022021",
-    "name": "The Mysterious Murasame\nCastle",
-    "formal_name": "The Mysterious Murasame\nCastle",
-    "description": "Murasame Joh Castle was once\npeaceful; now it houses a mysterious\nforce that threatens Japan. As brave\nsamurai Takamaru, you must battle\nthrough four other castles overrun\nwith evil before the final showdown at\nMurasame Joh. Will you uncover its\nshocking secret?\n<br/><br/>\nPreviously unavailable outside of\nJapan, this classic action game was\noriginally released for the Famicom\nDisk System in 1986.\n<br/><br/>\nIt was also the inspiration for the\nTakamaru's Ninja Castle attraction in\nNintendo Land™ for Wii U™, 26 years\nafter its release!",
-    "release_date_on_eshop": "2014-05-29",
-    "product_code": "CTR-N-TCZP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D3300",
+  "uid": "50010000022021",
+  "name": "The Mysterious Murasame\nCastle",
+  "formal_name": "The Mysterious Murasame\nCastle",
+  "description": "Murasame Joh Castle was once\npeaceful; now it houses a mysterious\nforce that threatens Japan. As brave\nsamurai Takamaru, you must battle\nthrough four other castles overrun\nwith evil before the final showdown at\nMurasame Joh. Will you uncover its\nshocking secret?\n<br/><br/>\nPreviously unavailable outside of\nJapan, this classic action game was\noriginally released for the Famicom\nDisk System in 1986.\n<br/><br/>\nIt was also the inspiration for the\nTakamaru's Ninja Castle attraction in\nNintendo Land™ for Wii U™, 26 years\nafter its release!",
+  "release_date_on_eshop": "2014-05-29",
+  "product_code": "CTR-N-TCZP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

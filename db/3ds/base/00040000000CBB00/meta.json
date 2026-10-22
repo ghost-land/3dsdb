@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000CBB00",
-    "uid": "50010000014091",
-    "name": "Picdun 2: Witch's Curse",
-    "formal_name": "Picdun 2: Witch's Curse",
-    "description": "In the new Picdun, take on 60\ndungeon levels with a young lady as\nyour partner--an Archer, Whipper or\nSpellcaster. Cover all tiles on a floor\nto reveal the hidden picture.\n<br/><br/>\nBattle dynamic, powerful enemies!\n<br/><br/>\nYou're cursed and can't attack, so\nprotect your partner with a shield and\nguide her attacks.\n<br/><br/>\nUncover the mystery of the Witch's\nCurse!",
-    "release_date_on_eshop": "2013-05-02",
-    "product_code": "CTR-N-JPDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CBB00",
+  "uid": "50010000014091",
+  "name": "Picdun 2: Witch's Curse",
+  "formal_name": "Picdun 2: Witch's Curse",
+  "description": "In the new Picdun, take on 60\ndungeon levels with a young lady as\nyour partner--an Archer, Whipper or\nSpellcaster. Cover all tiles on a floor\nto reveal the hidden picture.\n<br/><br/>\nBattle dynamic, powerful enemies!\n<br/><br/>\nYou're cursed and can't attack, so\nprotect your partner with a shield and\nguide her attacks.\n<br/><br/>\nUncover the mystery of the Witch's\nCurse!",
+  "release_date_on_eshop": "2013-05-02",
+  "product_code": "CTR-N-JPDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

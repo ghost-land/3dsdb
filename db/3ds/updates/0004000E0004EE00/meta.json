@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E0004EE00",
-    "uid": "50010000010409",
-    "name": "更新データ Ver. 1.1\nKINGDOM HEARTS 3D",
-    "formal_name": "更新データ Ver. 1.1\nKINGDOM HEARTS 3D\n[Dream Drop Distance]",
-    "description": "ニンテンドー3DSソフト『KINGDOM HEARTS 3D [Dream Drop Distance]』の特定の条件下で進行不可となる現象を解消する更新データです。\n『KINGDOM HEARTS 3D [Dream Drop Distance]』をお持ちのお客様は、必ずダウンロードしてください。\n\n■主な修正内容\n対象ステージ:存在しなかった世界･幻想のはじまり\n操作キャラクター:リク\n条件:中央の装置の破壊によりらせん階段が出現する演出と、時間切れによる強制ドロップが重なった場合\n症状:リクにドロップし直した後もバリアが残り、閉じ込められて進行できなくなる\n\nその他、より快適にプレイしていただけるよう、いくつかの点をあわせて更新いたしました。",
-    "release_date_on_eshop": "2012-05-25",
-    "product_code": "CTR-U-AKHJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.0.0",
-    "disclaimer": "ニンテンドー3DSソフト『KINGDOM HEARTS 3D [Dream Drop Distance]』の更新データです。\n本データはダウンロード後、HOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E0004EE00",
+  "uid": "50010000010409",
+  "name": "更新データ Ver. 1.1\nKINGDOM HEARTS 3D",
+  "formal_name": "更新データ Ver. 1.1\nKINGDOM HEARTS 3D\n[Dream Drop Distance]",
+  "description": "ニンテンドー3DSソフト『KINGDOM HEARTS 3D [Dream Drop Distance]』の特定の条件下で進行不可となる現象を解消する更新データです。\n『KINGDOM HEARTS 3D [Dream Drop Distance]』をお持ちのお客様は、必ずダウンロードしてください。\n\n■主な修正内容\n対象ステージ:存在しなかった世界･幻想のはじまり\n操作キャラクター:リク\n条件:中央の装置の破壊によりらせん階段が出現する演出と、時間切れによる強制ドロップが重なった場合\n症状:リクにドロップし直した後もバリアが残り、閉じ込められて進行できなくなる\n\nその他、より快適にプレイしていただけるよう、いくつかの点をあわせて更新いたしました。",
+  "release_date_on_eshop": "2012-05-25",
+  "product_code": "CTR-U-AKHJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.0.0",
+  "disclaimer": "ニンテンドー3DSソフト『KINGDOM HEARTS 3D [Dream Drop Distance]』の更新データです。\n本データはダウンロード後、HOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

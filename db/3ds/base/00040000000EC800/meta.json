@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000EC800",
-    "uid": "50010000015706",
-    "name": "Smash Bowling 3D",
-    "formal_name": "Smash Bowling 3D",
-    "description": "Get ready to smash the boundaries of handheld bowling with Smash Bowling 3D on the Nintendo 3DS from Big John Games. \n<br><br>\nSmash Bowling 3D provides an incredibly accurate interface to apply aim, ball spin, power, and positioning. Two control styles are available: Buttons mode to quickly dial in your shot parameters, and Touch mode which uses the stylus to completely customize your bowling release.\n<br><br>\nUp to four players can participate in pass around multiplayer mode, while practice mode allows would-be bowlers to set their own pin layouts - anything from a single pin needed for a spare to the infamous 7-10 split. Enjoy varied-angle replays of your best shots.\n<br><br>\nEarn all 18 trophies as you strive for bowling perfection. Unlock great bowling ball designs and vibrant bowling alleys. Your career statistics are tracked, including best game, recent average, total points, and number of strikes among others.",
-    "release_date_on_eshop": "2013-08-08",
-    "product_code": "CTR-N-JB5E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Arcade",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000EC800",
+  "uid": "50010000015706",
+  "name": "Smash Bowling 3D",
+  "formal_name": "Smash Bowling 3D",
+  "description": "Get ready to smash the boundaries of handheld bowling with Smash Bowling 3D on the Nintendo 3DS from Big John Games. \n<br><br>\nSmash Bowling 3D provides an incredibly accurate interface to apply aim, ball spin, power, and positioning. Two control styles are available: Buttons mode to quickly dial in your shot parameters, and Touch mode which uses the stylus to completely customize your bowling release.\n<br><br>\nUp to four players can participate in pass around multiplayer mode, while practice mode allows would-be bowlers to set their own pin layouts - anything from a single pin needed for a spare to the infamous 7-10 split. Enjoy varied-angle replays of your best shots.\n<br><br>\nEarn all 18 trophies as you strive for bowling perfection. Unlock great bowling ball designs and vibrant bowling alleys. Your career statistics are tracked, including best game, recent average, total points, and number of strikes among others.",
+  "release_date_on_eshop": "2013-08-08",
+  "product_code": "CTR-N-JB5E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Arcade",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

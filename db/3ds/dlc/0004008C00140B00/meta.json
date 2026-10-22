@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C00140B00",
-    "uid": "",
-    "name": "テラフォーマーズ - 紅き惑星の激闘",
-    "formal_name": "テラフォーマーズ - 紅き惑星の激闘",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BFMJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00140B00",
+  "uid": "",
+  "name": "テラフォーマーズ - 紅き惑星の激闘",
+  "formal_name": "テラフォーマーズ - 紅き惑星の激闘",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BFMJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "FuRyu",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

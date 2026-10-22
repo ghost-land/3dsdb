@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000DE100",
-    "uid": "50010000014050",
-    "name": "Lola's Math Train",
-    "formal_name": "Lola's Math Train",
-    "description": "Join Lola on her journey as she\nmakes her way through a fun filled\nenvironment of bright colors and\ncreative problem solving to get all of\nher friends to a party! Specifically\ndesigned for children 3-7 years old,\nLola’s Math Train encourages children\nto learn key skills like adding and\npuzzle solving all while having fun!",
-    "release_date_on_eshop": "2013-04-25",
-    "product_code": "CTR-N-JLMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DE100",
+  "uid": "50010000014050",
+  "name": "Lola's Math Train",
+  "formal_name": "Lola's Math Train",
+  "description": "Join Lola on her journey as she\nmakes her way through a fun filled\nenvironment of bright colors and\ncreative problem solving to get all of\nher friends to a party! Specifically\ndesigned for children 3-7 years old,\nLola’s Math Train encourages children\nto learn key skills like adding and\npuzzle solving all while having fun!",
+  "release_date_on_eshop": "2013-04-25",
+  "product_code": "CTR-N-JLMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

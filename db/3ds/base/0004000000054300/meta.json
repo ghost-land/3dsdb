@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000054300",
-    "uid": "50010000006802",
-    "name": "3D Classics: Excitebike™",
-    "formal_name": "3D Classics: Excitebike™",
-    "description": "The original Excitebike™ game returns, remastered with Nintendo's 3D technology and available exclusively via Nintendo eShop! Tackle perilous obstacle courses alone or face off against rival bikers as you compete in white-knuckle motocross races that pit you against the clock. Make good time and you might get a chance to race in a legendary Excitebike rally. Or if you feel the need for customized speed, create your own tracks to race on using the intuitive Course Editor feature that now lets you save up to 32 dream courses of your own design! Get ready for the ride of your life with 3D Classics: Excitebike, and rediscover an old favorite enhanced to a new dimension!",
-    "release_date_on_eshop": "2011-06-06",
-    "product_code": "CTR-N-SAEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Sports",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000054300",
+  "uid": "50010000006802",
+  "name": "3D Classics: Excitebike™",
+  "formal_name": "3D Classics: Excitebike™",
+  "description": "The original Excitebike™ game returns, remastered with Nintendo's 3D technology and available exclusively via Nintendo eShop! Tackle perilous obstacle courses alone or face off against rival bikers as you compete in white-knuckle motocross races that pit you against the clock. Make good time and you might get a chance to race in a legendary Excitebike rally. Or if you feel the need for customized speed, create your own tracks to race on using the intuitive Course Editor feature that now lets you save up to 32 dream courses of your own design! Get ready for the ride of your life with 3D Classics: Excitebike, and rediscover an old favorite enhanced to a new dimension!",
+  "release_date_on_eshop": "2011-06-06",
+  "product_code": "CTR-N-SAEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Sports",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

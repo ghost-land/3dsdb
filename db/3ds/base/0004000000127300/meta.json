@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000127300",
-    "uid": "50010000022216",
-    "name": "PICROSS e4",
-    "formal_name": "PICROSS e4",
-    "description": "The 4th game in the Picross e series, with a Navigation Feature!\n<br><br>\nAs fans requested, new 20x15 puzzles have been added.\n<br><br>\nMicross and Mega Picross modes are also included, with 150+ new puzzles!\n<br><br>\nTutorials and rule options let newcomers to the series start playing with ease.\n<br><br>\nWith save data from previous games, you can also play additional Special Puzzles.\n<br><br>\nPicross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images.\n<br><br>\nThe rules are simple and easy to grasp. Anyone can do it!",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-N-JEPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000127300",
+  "uid": "50010000022216",
+  "name": "PICROSS e4",
+  "formal_name": "PICROSS e4",
+  "description": "The 4th game in the Picross e series, with a Navigation Feature!\n<br><br>\nAs fans requested, new 20x15 puzzles have been added.\n<br><br>\nMicross and Mega Picross modes are also included, with 150+ new puzzles!\n<br><br>\nTutorials and rule options let newcomers to the series start playing with ease.\n<br><br>\nWith save data from previous games, you can also play additional Special Puzzles.\n<br><br>\nPicross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images.\n<br><br>\nThe rules are simple and easy to grasp. Anyone can do it!",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-N-JEPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

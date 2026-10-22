@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000158200",
-    "uid": "50010000033395",
-    "name": "3D Thunder Blade",
-    "formal_name": "3D Thunder Blade",
-    "description": "3D THUNDER BLADE is a recreation\n<br>of a one-of-a-kind combat originally\n<br>released in 1987, re-mastered for the\n<br>Nintendo 3DS™ hand-held system. In\n<br>3D Thunder Blade, players control a\n<br>helicopter and use guns and missiles\n<br>to destroy enemy vehicles while flying\n<br>between buildings, through caves, and\n<br>into enemy bases. The re-mastered\n<br>version boasts stereoscopic 3D visuals\n<br>and adds a host of new features.\n<br>Some of the additional features\n<br>include: gyro controls, adjustable\n<br>difficulty settings, Circle Pad Pro\n<br>support, and a load of options that\n<br>recreate the look and feel of the\n<br>original arcade machine. Replay\n<br>saving and stage select are also\n<br>available! 3D Thunder Blade also\n<br>introduces brand new remixes of the\n<br>original in-game music that can be\n<br>toggled ‘on’ and ‘off’ and an\n<br>unlockable Special Mode with updated\n<br>gameplay, new enemies, and a more\n<br>powerful fighter.",
-    "release_date_on_eshop": "2015-05-14",
-    "product_code": "CTR-N-JT7P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000158200",
+  "uid": "50010000033395",
+  "name": "3D Thunder Blade",
+  "formal_name": "3D Thunder Blade",
+  "description": "3D THUNDER BLADE is a recreation\n<br>of a one-of-a-kind combat originally\n<br>released in 1987, re-mastered for the\n<br>Nintendo 3DS™ hand-held system. In\n<br>3D Thunder Blade, players control a\n<br>helicopter and use guns and missiles\n<br>to destroy enemy vehicles while flying\n<br>between buildings, through caves, and\n<br>into enemy bases. The re-mastered\n<br>version boasts stereoscopic 3D visuals\n<br>and adds a host of new features.\n<br>Some of the additional features\n<br>include: gyro controls, adjustable\n<br>difficulty settings, Circle Pad Pro\n<br>support, and a load of options that\n<br>recreate the look and feel of the\n<br>original arcade machine. Replay\n<br>saving and stage select are also\n<br>available! 3D Thunder Blade also\n<br>introduces brand new remixes of the\n<br>original in-game music that can be\n<br>toggled ‘on’ and ‘off’ and an\n<br>unlockable Special Mode with updated\n<br>gameplay, new enemies, and a more\n<br>powerful fighter.",
+  "release_date_on_eshop": "2015-05-14",
+  "product_code": "CTR-N-JT7P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

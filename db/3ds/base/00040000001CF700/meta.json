@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001CF700",
-    "uid": "50010000044656",
-    "name": "PICROSS e8",
-    "formal_name": "PICROSS e8",
-    "description": "The 8th game in the Picross e series!\n<br>\n<br>The newest version of the series, withall the functions of previous titles!\n<br>\n<br>The 8th game in the Picross e series with over 500,000 downloads worldwide.\n<br>\n<br>It retains all the functions of Picross e 7, with all new puzzles.\n<br>\n<br>Enjoy Picross in a comfortable play environment refined from all the previous series.\n<br>\n<br>Picross is a Picture Crossword Puzzle Game where numbers act as hints to complete images.\n<br>The rules are simple and easy to grasp. Anyone can do it!",
-    "release_date_on_eshop": "2017-12-21",
-    "product_code": "CTR-N-BE8E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001CF700",
+  "uid": "50010000044656",
+  "name": "PICROSS e8",
+  "formal_name": "PICROSS e8",
+  "description": "The 8th game in the Picross e series!\n<br>\n<br>The newest version of the series, withall the functions of previous titles!\n<br>\n<br>The 8th game in the Picross e series with over 500,000 downloads worldwide.\n<br>\n<br>It retains all the functions of Picross e 7, with all new puzzles.\n<br>\n<br>Enjoy Picross in a comfortable play environment refined from all the previous series.\n<br>\n<br>Picross is a Picture Crossword Puzzle Game where numbers act as hints to complete images.\n<br>The rules are simple and easy to grasp. Anyone can do it!",
+  "release_date_on_eshop": "2017-12-21",
+  "product_code": "CTR-N-BE8E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

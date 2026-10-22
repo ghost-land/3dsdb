@@ -1,29 +1,29 @@
 {
-    "tid": "000400000008BE00",
-    "uid": "50010000014804",
-    "name": "Columns™",
-    "formal_name": "Columns™",
-    "description": "Drift back in time to ancient Phoenicia and challenge yourself with Columns, an addictive game played by Middle Eastern Merchants centuries ago. In this mesmerizing pastime, tinker with your riches to align glittering jewels across, down, or diagonally.\n<br><br>\nAs you line up colors, the gems vanish and more sparklers drop from above. The challenge increases as jewels fall more rapidly. You must quickly align them before the columns reach the top. For additional challenge, try to eliminate the flashing jewel before your time runs out in Flash Columns or take on a friend in local multiplayer!\n<br><br>\nWith three degrees of difficulty and ten different levels, Columns will challenge a novice to an expert. ",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-GAEE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000008BE00",
+  "uid": "50010000014804",
+  "name": "Columns™",
+  "formal_name": "Columns™",
+  "description": "Drift back in time to ancient Phoenicia and challenge yourself with Columns, an addictive game played by Middle Eastern Merchants centuries ago. In this mesmerizing pastime, tinker with your riches to align glittering jewels across, down, or diagonally.\n<br><br>\nAs you line up colors, the gems vanish and more sparklers drop from above. The challenge increases as jewels fall more rapidly. You must quickly align them before the columns reach the top. For additional challenge, try to eliminate the flashing jewel before your time runs out in Flash Columns or take on a friend in local multiplayer!\n<br><br>\nWith three degrees of difficulty and ten different levels, Columns will challenge a novice to an expert. ",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-GAEE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

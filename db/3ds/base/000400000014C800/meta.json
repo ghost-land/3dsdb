@@ -1,28 +1,28 @@
 {
-    "tid": "000400000014C800",
-    "uid": "50010000024995",
-    "name": "Azure Striker GUNVOLT",
-    "formal_name": "Azure Striker GUNVOLT",
-    "description": "Azure Striker GUNVOLT is a 2D side-scrolling action game.<br>\nThe heroe's agility and control over lightning create a fresh approach to the genre that gives the player a unique feeling of speed and power.\n<br><br>\nPierce your enemies with the devastating power of lightning!<br>\nGunvolt uses a lethal technique called “Flashfield”, which will always hit locked-on enemies. The more advanced players can try to reach a higher score by defeating 2 or more enemies at once.\n<br><br>\nThe song of the heroine \"Lumen\" gives power to Gunvolt!<br>\nEven if Gunvolt during the battle, he can be revived by the song power of Lumen and fight again. And when player piles up scores without suffering damage, the background music turns into her song.\n<br><br>\nAt the end of each stage, a powerful boss will be awaiting the player!<br>\nFully voiced mid-battle conversations increase the player's excitement exponentially.",
-    "release_date_on_eshop": "2014-08-29",
-    "product_code": "CTR-N-JV7E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000014C800",
+  "uid": "50010000024995",
+  "name": "Azure Striker GUNVOLT",
+  "formal_name": "Azure Striker GUNVOLT",
+  "description": "Azure Striker GUNVOLT is a 2D side-scrolling action game.<br>\nThe heroe's agility and control over lightning create a fresh approach to the genre that gives the player a unique feeling of speed and power.\n<br><br>\nPierce your enemies with the devastating power of lightning!<br>\nGunvolt uses a lethal technique called “Flashfield”, which will always hit locked-on enemies. The more advanced players can try to reach a higher score by defeating 2 or more enemies at once.\n<br><br>\nThe song of the heroine \"Lumen\" gives power to Gunvolt!<br>\nEven if Gunvolt during the battle, he can be revived by the song power of Lumen and fight again. And when player piles up scores without suffering damage, the background music turns into her song.\n<br><br>\nAt the end of each stage, a powerful boss will be awaiting the player!<br>\nFully voiced mid-battle conversations increase the player's excitement exponentially.",
+  "release_date_on_eshop": "2014-08-29",
+  "product_code": "CTR-N-JV7E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

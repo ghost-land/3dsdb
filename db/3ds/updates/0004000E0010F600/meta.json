@@ -1,27 +1,27 @@
 {
-    "tid": "0004000E0010F600",
-    "uid": "50010000035035",
-    "name": "Harvest Moon®: The Lost\nValley Update Ver. 1.01",
-    "formal_name": "Harvest Moon®: The Lost Valley\nUpdate Ver. 1.01",
-    "description": "This is an update for the Harvest Moon®: The Lost Valley game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Harvest Moon®: The Lost Valley.",
-    "release_date_on_eshop": "2015-07-14",
-    "product_code": "CTR-U-AVME",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E0010F600",
+  "uid": "50010000035035",
+  "name": "Harvest Moon®: The Lost\nValley Update Ver. 1.01",
+  "formal_name": "Harvest Moon®: The Lost Valley\nUpdate Ver. 1.01",
+  "description": "This is an update for the Harvest Moon®: The Lost Valley game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Harvest Moon®: The Lost Valley.",
+  "release_date_on_eshop": "2015-07-14",
+  "product_code": "CTR-U-AVME",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

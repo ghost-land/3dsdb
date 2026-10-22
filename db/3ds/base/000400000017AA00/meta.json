@@ -1,28 +1,28 @@
 {
-    "tid": "000400000017AA00",
-    "uid": "50010000035515",
-    "name": "@SIMPLE DLシリーズ Vol.39\nTHE密室からの脱出スポーツジム編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.39 THE 密室からの脱出\n～脳を鍛えるスポーツジム編～",
-    "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。\n<br>今度の舞台は、体を鍛えるスポーツジム施設。\n<br>ダンベルやランニングマシーンを使って、プールやテニスコートに仕掛けられた謎を解き、閉じ込められた場所からの脱出を楽しむことができます。",
-    "release_date_on_eshop": "2015-07-29",
-    "product_code": "CTR-N-KS9J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017AA00",
+  "uid": "50010000035515",
+  "name": "@SIMPLE DLシリーズ Vol.39\nTHE密室からの脱出スポーツジム編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.39 THE 密室からの脱出\n～脳を鍛えるスポーツジム編～",
+  "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。\n<br>今度の舞台は、体を鍛えるスポーツジム施設。\n<br>ダンベルやランニングマシーンを使って、プールやテニスコートに仕掛けられた謎を解き、閉じ込められた場所からの脱出を楽しむことができます。",
+  "release_date_on_eshop": "2015-07-29",
+  "product_code": "CTR-N-KS9J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

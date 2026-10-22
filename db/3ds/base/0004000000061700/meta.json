@@ -1,38 +1,38 @@
 {
-    "tid": "0004000000061700",
-    "uid": "50010000007938",
-    "name": "PES 2012 3D",
-    "formal_name": "PES 2012 3D - \nPro Evolution Soccer",
-    "description": "PES 2012 3D delivers a wealth of\nnew modes and options, with bespoke\nintuitive Touch Controls and exciting\nOnline Matches.<br>\n<br>\nExclusive modes include the UEFA\nChampions League and Copa\nSantander Libertadores competitions,\nwhile the Master League, Become a\nLegend and World Player features let\nyou experience the highs and lows of\nevery match day.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AE2P",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000061700",
+  "uid": "50010000007938",
+  "name": "PES 2012 3D",
+  "formal_name": "PES 2012 3D - \nPro Evolution Soccer",
+  "description": "PES 2012 3D delivers a wealth of\nnew modes and options, with bespoke\nintuitive Touch Controls and exciting\nOnline Matches.<br>\n<br>\nExclusive modes include the UEFA\nChampions League and Copa\nSantander Libertadores competitions,\nwhile the Master League, Become a\nLegend and World Player features let\nyou experience the highs and lows of\nevery match day.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AE2P",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

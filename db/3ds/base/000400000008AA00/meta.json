@@ -1,33 +1,33 @@
 {
-    "tid": "000400000008AA00",
-    "uid": "50010000010417",
-    "name": "3D Solitaire",
-    "formal_name": "3D Solitaire",
-    "description": "3D Solitaire for the Nintendo 3DS™\nbrings the classic game to beautiful\nstereoscopic 3D environments.\nFeaturing multiple modes of play,\nplayer rewards and fun environments,\n3D Solitaire provides classic\ngameplay for the Nintendo 3DS™.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JSLP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008AA00",
+  "uid": "50010000010417",
+  "name": "3D Solitaire",
+  "formal_name": "3D Solitaire",
+  "description": "3D Solitaire for the Nintendo 3DS™\nbrings the classic game to beautiful\nstereoscopic 3D environments.\nFeaturing multiple modes of play,\nplayer rewards and fun environments,\n3D Solitaire provides classic\ngameplay for the Nintendo 3DS™.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JSLP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

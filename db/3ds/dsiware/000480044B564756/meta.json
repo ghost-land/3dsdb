@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B564756",
-    "uid": "50010000006442",
-    "name": "Adventure in Vegas\nSlot Machine",
-    "formal_name": "Adventure in Vegas\nSlot Machine",
-    "description": "Try your luck playing on three slot\nmachines: Hawaii, Treasure and Hot.\nThe one-armed bandits in \"Adventure\nin Vegas: Slot Machine\" are not only\nuniquely themed, but also have\ndifferent special table features: the\nnumber of reels, extra buttons and\nwinning sequences. End your\naround-the-world trip and risk the\nremainder of a small fortune and\nluxury possessions. All you can do in\nLas Vegas is go for it!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KVGV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B564756",
+  "uid": "50010000006442",
+  "name": "Adventure in Vegas\nSlot Machine",
+  "formal_name": "Adventure in Vegas\nSlot Machine",
+  "description": "Try your luck playing on three slot\nmachines: Hawaii, Treasure and Hot.\nThe one-armed bandits in \"Adventure\nin Vegas: Slot Machine\" are not only\nuniquely themed, but also have\ndifferent special table features: the\nnumber of reels, extra buttons and\nwinning sequences. End your\naround-the-world trip and risk the\nremainder of a small fortune and\nluxury possessions. All you can do in\nLas Vegas is go for it!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KVGV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

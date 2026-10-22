@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B465845",
-    "uid": "50010000007940",
-    "name": "Play & Learn Chinese",
-    "formal_name": "Play & Learn Chinese",
-    "description": "Play & Learn Chinese is the fast, fun, and friendly way to learn to speak Mandarin Chinese! Get ready for an exciting and entertaining challenge as you match the pictures to the words you hear, and see how high you can score. You’ll be surprised by how much Chinese you’ve learned while you play! Over 700 words and phrases with entertaining visuals help you learn quickly and speak with confidence. Listen to and speak aloud Chinese words and phrases while you explore settings such as the supermarket, restaurant, and city streets. Play & Learn Chinese is easy and effective for beginners and travelers and a fun refresher for advanced and intermediate speakers!",
-    "release_date_on_eshop": "2011-11-17",
-    "product_code": "TWL-N-KFXE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B465845",
+  "uid": "50010000007940",
+  "name": "Play & Learn Chinese",
+  "formal_name": "Play & Learn Chinese",
+  "description": "Play & Learn Chinese is the fast, fun, and friendly way to learn to speak Mandarin Chinese! Get ready for an exciting and entertaining challenge as you match the pictures to the words you hear, and see how high you can score. You’ll be surprised by how much Chinese you’ve learned while you play! Over 700 words and phrases with entertaining visuals help you learn quickly and speak with confidence. Listen to and speak aloud Chinese words and phrases while you explore settings such as the supermarket, restaurant, and city streets. Play & Learn Chinese is easy and effective for beginners and travelers and a fun refresher for advanced and intermediate speakers!",
+  "release_date_on_eshop": "2011-11-17",
+  "product_code": "TWL-N-KFXE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B354945",
-    "uid": "50010000001001",
-    "name": "5 in 1 Solitaire",
-    "formal_name": "5 in 1 Solitaire",
-    "description": "Now you can take five of the most popular solitaire games with you on the go! 5 in 1 Solitaire features the always popular Klondike, Spider and FreeCell games as well as the unique Golf and Gaps versions of solitaire. Each of these versions has a unique gameplay style that is easy enough for any novice player to enjoy, but will also challenge the expert solitaire player. You’ll also be able to view tutorials for each game as well as track your scores and gaming stats to see your progress. See how fast you can win!",
-    "release_date_on_eshop": "2010-02-01",
-    "product_code": "TWL-N-K5IE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B354945",
+  "uid": "50010000001001",
+  "name": "5 in 1 Solitaire",
+  "formal_name": "5 in 1 Solitaire",
+  "description": "Now you can take five of the most popular solitaire games with you on the go! 5 in 1 Solitaire features the always popular Klondike, Spider and FreeCell games as well as the unique Golf and Gaps versions of solitaire. Each of these versions has a unique gameplay style that is easy enough for any novice player to enjoy, but will also challenge the expert solitaire player. You’ll also be able to view tutorials for each game as well as track your scores and gaming stats to see your progress. See how fast you can win!",
+  "release_date_on_eshop": "2010-02-01",
+  "product_code": "TWL-N-K5IE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

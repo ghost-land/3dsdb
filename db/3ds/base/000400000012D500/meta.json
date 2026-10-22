@@ -1,28 +1,28 @@
 {
-    "tid": "000400000012D500",
-    "uid": "50010000028695",
-    "name": "My First Songs 2",
-    "formal_name": "My First Songs 2",
-    "description": "You can now enjoy My First Songs 2, the interactive music game for kids. My First Songs 2 features a new playlist of 14 popular children’s songs as well as gorgeous 3D animations. \n<br><br>\nSing along and interact by popping bubble notes: try to catch them all! \n<br><br>\nMy First Songs 2 features: \n14 popular children’s songs \nLots of animals \n<br><br>\nPlaylist: \nHead Shoulders Knees and Toes \nDeck the Hall \nTen Little Indians \nHey Diddle Diddle \nHumpty Dumpty \nIf You’re Happy and You Know It \nLittle Miss Muffet \nPop Goes the Weasel \nRow, Row, Row Your Boat \nThe Muffin Man \nThe Wheel on the Bus \nWe Wish You A Merry Christmas\nLittle Bo Peep\nOh Where Has My Little Dog Gone",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-JFXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000012D500",
+  "uid": "50010000028695",
+  "name": "My First Songs 2",
+  "formal_name": "My First Songs 2",
+  "description": "You can now enjoy My First Songs 2, the interactive music game for kids. My First Songs 2 features a new playlist of 14 popular children’s songs as well as gorgeous 3D animations. \n<br><br>\nSing along and interact by popping bubble notes: try to catch them all! \n<br><br>\nMy First Songs 2 features: \n14 popular children’s songs \nLots of animals \n<br><br>\nPlaylist: \nHead Shoulders Knees and Toes \nDeck the Hall \nTen Little Indians \nHey Diddle Diddle \nHumpty Dumpty \nIf You’re Happy and You Know It \nLittle Miss Muffet \nPop Goes the Weasel \nRow, Row, Row Your Boat \nThe Muffin Man \nThe Wheel on the Bus \nWe Wish You A Merry Christmas\nLittle Bo Peep\nOh Where Has My Little Dog Gone",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-JFXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

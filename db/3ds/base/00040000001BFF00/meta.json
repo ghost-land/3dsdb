@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001BFF00",
-    "uid": "50010000042678",
-    "name": "Elminage Original",
-    "formal_name": "Elminage Original",
-    "description": "The five rings that protect the world have been scattered after five sorceresses attempted to release the Demon King. They who can find the five rings and restore the barrier on the Dragon's Fang shall be richly rewarded.Today, many adventurers pass through the gates of Trangelda, \n<br>their true motives hidden within their hearts.\n<br>\n<br>Elminage Original is an atmospheric, dungeon RPG where players assemble a band of adventures and embark to conquer dungeons and recover the rings! \n<br>\n<br>The five rings lie in dungeons across the world throughout temples, caverns and forests,\n<br>their locations randomly placed when starting a game. Earn Fame by completing events and infuse it into a compass to track where the rings are hidden.\n<br>\n<br>Hordes of monsters lie in wait throughout the dungeons, some of them so huge they cannot fit on the screen. Create powerful adventures and level up to progress deeper into the dungeons and face stronger foes.\n<br> \n<br>Choose from a total of 16 classes of adventurers, including the more unusual \"servant\" in addition to the traditional fighters, mages and samurai classes. Nine races, gender, age, and nature,  parameters allow players to customize their own powerful characters. Learn 72 different spells under the mage, cleric, and alchemy lines and cast unique spells from your very own characters. \n<br>\n<br>Your very own epic adventure awaits you!",
-    "release_date_on_eshop": "2017-08-10",
-    "product_code": "CTR-N-KELE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Fighting",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001BFF00",
+  "uid": "50010000042678",
+  "name": "Elminage Original",
+  "formal_name": "Elminage Original",
+  "description": "The five rings that protect the world have been scattered after five sorceresses attempted to release the Demon King. They who can find the five rings and restore the barrier on the Dragon's Fang shall be richly rewarded.Today, many adventurers pass through the gates of Trangelda, \n<br>their true motives hidden within their hearts.\n<br>\n<br>Elminage Original is an atmospheric, dungeon RPG where players assemble a band of adventures and embark to conquer dungeons and recover the rings! \n<br>\n<br>The five rings lie in dungeons across the world throughout temples, caverns and forests,\n<br>their locations randomly placed when starting a game. Earn Fame by completing events and infuse it into a compass to track where the rings are hidden.\n<br>\n<br>Hordes of monsters lie in wait throughout the dungeons, some of them so huge they cannot fit on the screen. Create powerful adventures and level up to progress deeper into the dungeons and face stronger foes.\n<br> \n<br>Choose from a total of 16 classes of adventurers, including the more unusual \"servant\" in addition to the traditional fighters, mages and samurai classes. Nine races, gender, age, and nature,  parameters allow players to customize their own powerful characters. Learn 72 different spells under the mage, cleric, and alchemy lines and cast unique spells from your very own characters. \n<br>\n<br>Your very own epic adventure awaits you!",
+  "release_date_on_eshop": "2017-08-10",
+  "product_code": "CTR-N-KELE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Fighting",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

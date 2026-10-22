@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4D5445",
-    "uid": "50010000002943",
-    "name": "Nintendo DSi™ Metronome",
-    "formal_name": "Nintendo DSi™ Metronome",
-    "description": "The Nintendo DSi Metronome software can be used to help keep tempo—when playing an instrument, for example. It creates a rhythm by playing sounds based on beat and tempo settings, which both allow a wide range of possible adjustments. In addition, choose from three metronome designs (including one based on Nintendo’s Game & Watch: Ball title!) and record your own beat sounds for the metronome to use. Or, if you want to take a break, enjoy a unique minigame: Donkey Kong Metronome, in which you make sounds into the microphone to match the beat and have Mario jump over Donkey Kong’s barrels. ",
-    "release_date_on_eshop": "2010-03-29",
-    "product_code": "TWL-N-KMTE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B4D5445",
+  "uid": "50010000002943",
+  "name": "Nintendo DSi™ Metronome",
+  "formal_name": "Nintendo DSi™ Metronome",
+  "description": "The Nintendo DSi Metronome software can be used to help keep tempo—when playing an instrument, for example. It creates a rhythm by playing sounds based on beat and tempo settings, which both allow a wide range of possible adjustments. In addition, choose from three metronome designs (including one based on Nintendo’s Game & Watch: Ball title!) and record your own beat sounds for the metronome to use. Or, if you want to take a break, enjoy a unique minigame: Donkey Kong Metronome, in which you make sounds into the microphone to match the beat and have Mario jump over Donkey Kong’s barrels. ",
+  "release_date_on_eshop": "2010-03-29",
+  "product_code": "TWL-N-KMTE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

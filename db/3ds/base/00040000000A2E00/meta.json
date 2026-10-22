@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000A2E00",
-    "uid": "50010000013420",
-    "name": "Family Tennis 3D",
-    "formal_name": "Family Tennis 3D",
-    "description": "The Family series comes to\nNintendo 3DS™ with a casual tennis\ngame!\n<br/><br/>\nNew characters join in to bring the\nnumber of playable characters to eight\nand there are six different courts, all\nexploding with variety. With the\naddition of Easy Mode, absolutely\nanyone can play with the press of a\nbutton and look great while doing it.\nStart with the Tournament to unlock\neverything in the gallery, then why not\ntry the minigames: Roulette Rally,\nHuman Backboard, and Survivor?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JK3P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A2E00",
+  "uid": "50010000013420",
+  "name": "Family Tennis 3D",
+  "formal_name": "Family Tennis 3D",
+  "description": "The Family series comes to\nNintendo 3DS™ with a casual tennis\ngame!\n<br/><br/>\nNew characters join in to bring the\nnumber of playable characters to eight\nand there are six different courts, all\nexploding with variety. With the\naddition of Easy Mode, absolutely\nanyone can play with the press of a\nbutton and look great while doing it.\nStart with the Tournament to unlock\neverything in the gallery, then why not\ntry the minigames: Roulette Rally,\nHuman Backboard, and Survivor?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JK3P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

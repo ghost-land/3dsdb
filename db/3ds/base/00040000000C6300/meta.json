@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000C6300",
-    "uid": "50010000012836",
-    "name": "Gunman Clive",
-    "formal_name": "Gunman Clive",
-    "description": "In the year of 18XX, the west is\n<br>overrun by thugs and outlaws. A\n<br>group of bandits have kidnapped\n<br>Mayor Johnson's daughter and are\n<br>spreading havoc across the land. Only\n<br>Gunman Clive can bring order to the\n<br>west and save the girl!\n<br>\n<br>Jump and shoot your way across\n<br>diverse and challenging levels and\n<br>fight massive bosses. Gunman Clive is\n<br>an old-school sidescrolling platform\n<br>game set in the old west with full 3D\n<br>graphics and a unique art style.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JGCP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C6300",
+  "uid": "50010000012836",
+  "name": "Gunman Clive",
+  "formal_name": "Gunman Clive",
+  "description": "In the year of 18XX, the west is\n<br>overrun by thugs and outlaws. A\n<br>group of bandits have kidnapped\n<br>Mayor Johnson's daughter and are\n<br>spreading havoc across the land. Only\n<br>Gunman Clive can bring order to the\n<br>west and save the girl!\n<br>\n<br>Jump and shoot your way across\n<br>diverse and challenging levels and\n<br>fight massive bosses. Gunman Clive is\n<br>an old-school sidescrolling platform\n<br>game set in the old west with full 3D\n<br>graphics and a unique art style.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JGCP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

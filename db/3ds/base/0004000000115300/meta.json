@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000115300",
-    "uid": "50010000020778",
-    "name": "熟語 速引辞典",
-    "formal_name": "熟語 速引辞典",
-    "description": "熟語を辞書で引くときには、一つ目の字の読みかたが必要ですが、同じ漢字でも読みかたが複数あるために、辞書を引くのが難しい時も大いにあります。特に一つ目の字の読みが分からなくて、難漢字や画数の多い字だったら辞書で調べることは面倒です。この『熟語 速引辞典』ではこの問題を解決してくれて、そういう熟語や地名が簡単に調べられます。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AJXJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "実用",
-        "学習"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "0004000000115300",
+  "uid": "50010000020778",
+  "name": "熟語 速引辞典",
+  "formal_name": "熟語 速引辞典",
+  "description": "熟語を辞書で引くときには、一つ目の字の読みかたが必要ですが、同じ漢字でも読みかたが複数あるために、辞書を引くのが難しい時も大いにあります。特に一つ目の字の読みが分からなくて、難漢字や画数の多い字だったら辞書で調べることは面倒です。この『熟語 速引辞典』ではこの問題を解決してくれて、そういう熟語や地名が簡単に調べられます。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AJXJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "実用",
+    "学習"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

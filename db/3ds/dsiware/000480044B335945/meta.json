@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B335945",
-    "uid": "50010000008762",
-    "name": "3 Heroes: Crystal Soul",
-    "formal_name": "3 Heroes: Crystal Soul",
-    "description": "Crystennia is an ancient kingdom that uses Crystal Soul as its main energy source. The kingdom is facing the threat of monsters created by Rune Crystals. As the Crystal Champion, you must protect the kingdom by defeating monsters, and collect various kinds of natural energy released by them.\n\nGame Features:\n*Puzzle based gameplay featuring RPG elements\n*Utilize your strategic skills to destroy bosses in battle and dominate each terrain with easy to learn controls.",
-    "release_date_on_eshop": "2012-01-05",
-    "product_code": "TWL-N-K3YE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Puzzle",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B335945",
+  "uid": "50010000008762",
+  "name": "3 Heroes: Crystal Soul",
+  "formal_name": "3 Heroes: Crystal Soul",
+  "description": "Crystennia is an ancient kingdom that uses Crystal Soul as its main energy source. The kingdom is facing the threat of monsters created by Rune Crystals. As the Crystal Champion, you must protect the kingdom by defeating monsters, and collect various kinds of natural energy released by them.\n\nGame Features:\n*Puzzle based gameplay featuring RPG elements\n*Utilize your strategic skills to destroy bosses in battle and dominate each terrain with easy to learn controls.",
+  "release_date_on_eshop": "2012-01-05",
+  "product_code": "TWL-N-K3YE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Puzzle",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

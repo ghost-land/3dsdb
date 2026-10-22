@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000055800",
-    "uid": "50010000006751",
-    "name": "ひゅ～ストン",
-    "formal_name": "ひゅ～ストン",
-    "description": "ひゅ～ストンは、井戸を落下する石となり、石の視点を楽しむ、思わず声が出てしまう落下アクションゲームです。立体視による圧倒的な迫力とスリリングな落下感覚を体験できます。石の操作はスライドパッドのみとシンプルです。成績はすれちがい通信で他のプレイヤーと交換できます。",
-    "release_date_on_eshop": "2011-06-07",
-    "product_code": "CTR-N-JHSJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000055800",
+  "uid": "50010000006751",
+  "name": "ひゅ～ストン",
+  "formal_name": "ひゅ～ストン",
+  "description": "ひゅ～ストンは、井戸を落下する石となり、石の視点を楽しむ、思わず声が出てしまう落下アクションゲームです。立体視による圧倒的な迫力とスリリングな落下感覚を体験できます。石の操作はスライドパッドのみとシンプルです。成績はすれちがい通信で他のプレイヤーと交換できます。",
+  "release_date_on_eshop": "2011-06-07",
+  "product_code": "CTR-N-JHSJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

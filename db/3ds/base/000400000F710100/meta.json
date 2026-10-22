@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F710100",
-    "uid": "50010000044955",
-    "name": "Now I know my ABCs 2",
-    "formal_name": "Now I know my ABCs 2",
-    "description": "Now I know my ABCs 2, is a fun and interactive way to learn the alphabet. You're shown step-by-step how to write each letter. Your goal is to write every letter in both lowercase and uppercase. After you complete writing each letter a cool animation plays, giving positive reinforcement to help encourage the learning of even more letters!",
-    "release_date_on_eshop": "2018-02-01",
-    "product_code": "KTR-N-CDEE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Training",
-        "Study",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F710100",
+  "uid": "50010000044955",
+  "name": "Now I know my ABCs 2",
+  "formal_name": "Now I know my ABCs 2",
+  "description": "Now I know my ABCs 2, is a fun and interactive way to learn the alphabet. You're shown step-by-step how to write each letter. Your goal is to write every letter in both lowercase and uppercase. After you complete writing each letter a cool animation plays, giving positive reinforcement to help encourage the learning of even more letters!",
+  "release_date_on_eshop": "2018-02-01",
+  "product_code": "KTR-N-CDEE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Training",
+    "Study",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

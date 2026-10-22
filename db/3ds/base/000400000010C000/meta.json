@@ -1,37 +1,37 @@
 {
-    "tid": "000400000010C000",
-    "uid": "50010000021213",
-    "name": "Kirby™: Triple Deluxe",
-    "formal_name": "Kirby™: Triple Deluxe",
-    "description": "Scroll side-to-side and shift\n<br>back-to-front in Kirby: Triple Deluxe,\n<br>only on Nintendo 3DS family systems!\n<br>Discover hidden depths as Kirby leaps\n<br>in and out of the background to\n<br>explore new areas, solve puzzles and\n<br>dodge enemies. But beware, bad guys\n<br>lie in wait both before and behind you,\n<br>and they can attack from all\n<br>directions!",
-    "release_date_on_eshop": "2014-05-16",
-    "product_code": "CTR-P-BALP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010C000",
+  "uid": "50010000021213",
+  "name": "Kirby™: Triple Deluxe",
+  "formal_name": "Kirby™: Triple Deluxe",
+  "description": "Scroll side-to-side and shift\n<br>back-to-front in Kirby: Triple Deluxe,\n<br>only on Nintendo 3DS family systems!\n<br>Discover hidden depths as Kirby leaps\n<br>in and out of the background to\n<br>explore new areas, solve puzzles and\n<br>dodge enemies. But beware, bad guys\n<br>lie in wait both before and behind you,\n<br>and they can attack from all\n<br>directions!",
+  "release_date_on_eshop": "2014-05-16",
+  "product_code": "CTR-P-BALP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

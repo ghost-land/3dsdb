@@ -1,35 +1,35 @@
 {
-    "tid": "000400000012C200",
-    "uid": "50010000026815",
-    "name": "Sonic Boom™:\nShattered Crystal",
-    "formal_name": "Sonic Boom™:\nShattered Crystal",
-    "description": "In Sonic Boom™: Shattered Crystal,\nAmy discovers a secret ancient\nlanguage and manuscript detailing the\nhistory and whereabouts of a Lost\nCrystal of Power. The evil and vile\nvillain, Lyric, kidnaps Amy in his\neagerness to get his claws on this\nlong-forgotten power that has been\nhidden throughout the jungles and\ncanyons of a mysterious new island.\n<br/><br/>\nSonic must team up with Tails,\nKnuckles and newest member of the\nteam Sticks who is Amy’s best friend\nas they follow her footsteps to save\nher from the clutches of Lyric and his\nrobot army. Lyric is bent on powering\nup his army of robots and stopping\nSonic and team at all costs in his\nquest to destroy the world. By\nworking as a team, they will prove\nthey are stronger together than they\nare apart.\n",
-    "release_date_on_eshop": "2014-11-21",
-    "product_code": "CTR-P-BSYP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012C200",
+  "uid": "50010000026815",
+  "name": "Sonic Boom™:\nShattered Crystal",
+  "formal_name": "Sonic Boom™:\nShattered Crystal",
+  "description": "In Sonic Boom™: Shattered Crystal,\nAmy discovers a secret ancient\nlanguage and manuscript detailing the\nhistory and whereabouts of a Lost\nCrystal of Power. The evil and vile\nvillain, Lyric, kidnaps Amy in his\neagerness to get his claws on this\nlong-forgotten power that has been\nhidden throughout the jungles and\ncanyons of a mysterious new island.\n<br/><br/>\nSonic must team up with Tails,\nKnuckles and newest member of the\nteam Sticks who is Amy’s best friend\nas they follow her footsteps to save\nher from the clutches of Lyric and his\nrobot army. Lyric is bent on powering\nup his army of robots and stopping\nSonic and team at all costs in his\nquest to destroy the world. By\nworking as a team, they will prove\nthey are stronger together than they\nare apart.\n",
+  "release_date_on_eshop": "2014-11-21",
+  "product_code": "CTR-P-BSYP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

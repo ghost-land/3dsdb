@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000188C00",
-    "uid": "50010000042517",
-    "name": "Mario Sports™ Superstars",
-    "formal_name": "Mario Sports™ Superstars",
-    "description": "Five full-on sports—Soccer, Tennis, Golf, Baseball, and Horse Racing—bring the challenge and depth you demand to Nintendo 3DS™ systems. Take on friends and rivals in local or online multiplayer*, hone skills in training, or tackle single-player tournaments. Whether you pick Mario, Waluigi, or one of sixteen others, you’re on the road to superstardom! Before long, you’ll have mastered the ins and outs of each sport: learn when to use an infield shift in Baseball, change your team’s formation in Soccer, and more. Even Horse Racing is surprisingly deep! Build a stable of horses and train them well to win the day in the first-ever horse races in series history. But remember: these aren’t normal sports—they’re Mario Sports. Expect unexpected thrills and power up to stomp the competition.",
-    "release_date_on_eshop": "2017-03-24",
-    "product_code": "CTR-N-AUNE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Multiplayer",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Supports Local Play",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Additional games and systems required for multiplayer mode. Sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "0004000000188C00",
+  "uid": "50010000042517",
+  "name": "Mario Sports™ Superstars",
+  "formal_name": "Mario Sports™ Superstars",
+  "description": "Five full-on sports—Soccer, Tennis, Golf, Baseball, and Horse Racing—bring the challenge and depth you demand to Nintendo 3DS™ systems. Take on friends and rivals in local or online multiplayer*, hone skills in training, or tackle single-player tournaments. Whether you pick Mario, Waluigi, or one of sixteen others, you’re on the road to superstardom! Before long, you’ll have mastered the ins and outs of each sport: learn when to use an infield shift in Baseball, change your team’s formation in Soccer, and more. Even Horse Racing is surprisingly deep! Build a stable of horses and train them well to win the day in the first-ever horse races in series history. But remember: these aren’t normal sports—they’re Mario Sports. Expect unexpected thrills and power up to stomp the competition.",
+  "release_date_on_eshop": "2017-03-24",
+  "product_code": "CTR-N-AUNE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Multiplayer",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Supports Local Play",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Additional games and systems required for multiplayer mode. Sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

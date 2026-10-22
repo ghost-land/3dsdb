@@ -1,33 +1,33 @@
 {
-    "tid": "0004000200124801",
-    "uid": "50010000029895",
-    "name": "Undead Storm Nightmare",
-    "formal_name": "Undead Storm Nightmare",
-    "description": "Undead Storm Nightmare is the sequel to the popular Nintendo DSiWare™ Undead Storm.<BR>\n<BR>\nFight off hordes of bloody thirsty zombies as you face a new zombie epidemic first hand. Bigger, bloodier and more gruesome than the first time, Undead Storm Nightmare will test your zombie killing skills to the limit! Arm yourself from a stock of weapons that include an assault rifle, rocket launcher, chainsaw and samurai sword! Upgrade each weapon to increase its performance and fight through waves of zombies before going one-on-one with the giant zombie bosses!<BR>\n<BR>\nKeep your eyes peeled for the Nightwalker that patrols the streets!\nIf she catches you she will trigger Nightmare Time and call massive amounts of zombies to your position! No one has ever survived...<BR>\n<BR>\nTeam up with 3 friends and go hunting for zombies together using Local Play!",
-    "release_date_on_eshop": "2015-01-22",
-    "product_code": "CTR-N-JZQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Other"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Violence",
-        "Blood and Gore"
-    ]
+  "tid": "0004000200124801",
+  "uid": "50010000029895",
+  "name": "Undead Storm Nightmare",
+  "formal_name": "Undead Storm Nightmare",
+  "description": "Undead Storm Nightmare is the sequel to the popular Nintendo DSiWare™ Undead Storm.<BR>\n<BR>\nFight off hordes of bloody thirsty zombies as you face a new zombie epidemic first hand. Bigger, bloodier and more gruesome than the first time, Undead Storm Nightmare will test your zombie killing skills to the limit! Arm yourself from a stock of weapons that include an assault rifle, rocket launcher, chainsaw and samurai sword! Upgrade each weapon to increase its performance and fight through waves of zombies before going one-on-one with the giant zombie bosses!<BR>\n<BR>\nKeep your eyes peeled for the Nightwalker that patrols the streets!\nIf she catches you she will trigger Nightmare Time and call massive amounts of zombies to your position! No one has ever survived...<BR>\n<BR>\nTeam up with 3 friends and go hunting for zombies together using Local Play!",
+  "release_date_on_eshop": "2015-01-22",
+  "product_code": "CTR-N-JZQE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Other"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Violence",
+    "Blood and Gore"
+  ]
 }

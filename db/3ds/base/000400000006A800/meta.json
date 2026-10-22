@@ -1,32 +1,32 @@
 {
-    "tid": "000400000006A800",
-    "uid": "50010000007950",
-    "name": "Chevrolet Camaro\nWild Ride 3D",
-    "formal_name": "Chevrolet Camaro\n<br>Wild Ride 3D",
-    "description": "Race in full 3D with famous Chevrolet\n<br>Camaro cars. Test your mettle against\n<br>other drivers through treacherous\n<br>tracks across three continents.\n<br>Choose one of the 10 Camaro\n<br>Vehicles to drive, in models ranging\n<br>from 1971 to modern day. Take in\n<br>the sights as you cruise through the\n<br>famous landmarks in Asia, Europe and\n<br>the United States. Challenge yourself\n<br>with three distinct modes, Challenge,\n<br>Time Attack and Two player battles.\n<br>\n<br>• Play with the most famous\n<br>Chevrolet Camaro cars\n<br>\n<br>• 10 cars available from Yenko 1967\n<br>to Synergy 2010\n<br>\n<br>• Compete in the USA, Europe & Asia\n<br>\n<br>• 8 tracks around the world\n<br>\n<br>• 4 types of competitions /\n<br>challenges\n<br>\n<br>• Win Chevy points to unlock new\n<br>circuits, cars and paintings",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-P-ACWP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006A800",
+  "uid": "50010000007950",
+  "name": "Chevrolet Camaro\nWild Ride 3D",
+  "formal_name": "Chevrolet Camaro\n<br>Wild Ride 3D",
+  "description": "Race in full 3D with famous Chevrolet\n<br>Camaro cars. Test your mettle against\n<br>other drivers through treacherous\n<br>tracks across three continents.\n<br>Choose one of the 10 Camaro\n<br>Vehicles to drive, in models ranging\n<br>from 1971 to modern day. Take in\n<br>the sights as you cruise through the\n<br>famous landmarks in Asia, Europe and\n<br>the United States. Challenge yourself\n<br>with three distinct modes, Challenge,\n<br>Time Attack and Two player battles.\n<br>\n<br>• Play with the most famous\n<br>Chevrolet Camaro cars\n<br>\n<br>• 10 cars available from Yenko 1967\n<br>to Synergy 2010\n<br>\n<br>• Compete in the USA, Europe & Asia\n<br>\n<br>• 8 tracks around the world\n<br>\n<br>• 4 types of competitions /\n<br>challenges\n<br>\n<br>• Win Chevy points to unlock new\n<br>circuits, cars and paintings",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-P-ACWP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

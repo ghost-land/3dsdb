@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000A5400",
-    "uid": "50010000010586",
-    "name": "Mutant Mudds™",
-    "formal_name": "Mutant Mudds™",
-    "description": "NEW! Now featuring 20 FREE BONUS\nLEVELS. This brings the total level\ncount to 80!!<br>\n<br>\nLove pixels? Fond of platformers? Is\nthere a special place in your heart for\nthe 8-bit and 16-bit era? Want to\nhave fun? Yes!? Well, you’ve come to\nthe right place, my friend. Mutant\nMudds is a “12-bit” action platformer\nfull of pixels and platforming fun!<br>\n<br>\nOur hero, Max, may be just a 2D\nsprite, but he can leap into the third\ndimension by jetting between the\nbackground and the foreground\nplayfields with his trusty jetpack in\nthis unique dimensionally-woven\nexperience.<br>\n<br>\nArmed with a heavy-duty water\ncannon, Max has what he needs to\nvanquish his long-term nemeses: the\nMutant Mudds. Max must blast and\nhover his way across the soiled\nlandscape to seek out mysterious\nWater Sprites. Legend says collecting\nall of the mysterious Water Sprites will\nwash the filthy Mutant Mudds away\nfor good!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JMDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v2.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A5400",
+  "uid": "50010000010586",
+  "name": "Mutant Mudds™",
+  "formal_name": "Mutant Mudds™",
+  "description": "NEW! Now featuring 20 FREE BONUS\nLEVELS. This brings the total level\ncount to 80!!<br>\n<br>\nLove pixels? Fond of platformers? Is\nthere a special place in your heart for\nthe 8-bit and 16-bit era? Want to\nhave fun? Yes!? Well, you’ve come to\nthe right place, my friend. Mutant\nMudds is a “12-bit” action platformer\nfull of pixels and platforming fun!<br>\n<br>\nOur hero, Max, may be just a 2D\nsprite, but he can leap into the third\ndimension by jetting between the\nbackground and the foreground\nplayfields with his trusty jetpack in\nthis unique dimensionally-woven\nexperience.<br>\n<br>\nArmed with a heavy-duty water\ncannon, Max has what he needs to\nvanquish his long-term nemeses: the\nMutant Mudds. Max must blast and\nhover his way across the soiled\nlandscape to seek out mysterious\nWater Sprites. Legend says collecting\nall of the mysterious Water Sprites will\nwash the filthy Mutant Mudds away\nfor good!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JMDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

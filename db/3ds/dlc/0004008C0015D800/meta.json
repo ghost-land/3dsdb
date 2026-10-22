@@ -1,37 +1,37 @@
 {
-    "tid": "0004008C0015D800",
-    "uid": "50010000031216",
-    "name": "IRONFALL Invasion",
-    "formal_name": "IRONFALL Invasion",
-    "description": "IronFall: Invasion is a thrilling third-person shooter. Equipped with an arsenal of destructive weapons, take cover and repel an invasion of Alien Robots.\n<br><br>\nIronFall: Invasion is divided into two separate modes, which can be tried for free and purchased separately!\n<br><br>\nThe \"Campaign\" mode is a single-player adventure, which will have you travel from various locations over 11 levels.\n<br><br>\nThe \"Multiplayer\" mode allows up to 6 players to join locally or online for competitive battles in 6 different arenas.",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-N-KFLE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
-    "descriptors": [
-        "Violence",
-        "Language"
-    ]
+  "tid": "0004008C0015D800",
+  "uid": "50010000031216",
+  "name": "IRONFALL Invasion",
+  "formal_name": "IRONFALL Invasion",
+  "description": "IronFall: Invasion is a thrilling third-person shooter. Equipped with an arsenal of destructive weapons, take cover and repel an invasion of Alien Robots.\n<br><br>\nIronFall: Invasion is divided into two separate modes, which can be tried for free and purchased separately!\n<br><br>\nThe \"Campaign\" mode is a single-player adventure, which will have you travel from various locations over 11 levels.\n<br><br>\nThe \"Multiplayer\" mode allows up to 6 players to join locally or online for competitive battles in 6 different arenas.",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-N-KFLE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
+  "descriptors": [
+    "Violence",
+    "Language"
+  ]
 }

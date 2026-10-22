@@ -1,32 +1,32 @@
 {
-    "tid": "0004000E001CEF00",
-    "uid": "50010000046795",
-    "name": "YO-KAI WATCH™ BLASTERS:\n White Dog Squad\nUpdate Ver. 2.4",
-    "formal_name": "YO-KAI WATCH™ BLASTERS:\n<br><br> White Dog Squad\n<br>Update Ver. 2.4",
-    "description": "This is an update for the game card version of the YO-KAI WATCH™ BLASTERS: White Dog Squad game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of YO-KAI WATCH™ BLASTERS: White Dog Squad.",
-    "release_date_on_eshop": "2018-09-27",
-    "product_code": "CTR-U-BYBE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v2.4.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E001CEF00",
+  "uid": "50010000046795",
+  "name": "YO-KAI WATCH™ BLASTERS:\n White Dog Squad\nUpdate Ver. 2.4",
+  "formal_name": "YO-KAI WATCH™ BLASTERS:\n<br><br> White Dog Squad\n<br>Update Ver. 2.4",
+  "description": "This is an update for the game card version of the YO-KAI WATCH™ BLASTERS: White Dog Squad game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of YO-KAI WATCH™ BLASTERS: White Dog Squad.",
+  "release_date_on_eshop": "2018-09-27",
+  "product_code": "CTR-U-BYBE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v2.4.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000200074701",
-    "uid": "50010000010381",
-    "name": "ゴン\nバクバクバクバクアドベンチャー",
-    "formal_name": "ゴン バクバクバクバクアドベンチャー",
-    "description": "ゴンを操作し、どんどん食べながら進んで行く横スクロールアクションゲーム!\n<br>\n<br>“まぼろしのたべもの”を探すため、ゴンが大自然を冒険!\n<br>おなかいっぱい食べながら、いろんなアクションを使って探検しよう!\n<br>いろんなステージや、いろんなどうぶつがゴンをまっているよ!",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AG7J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200074701",
+  "uid": "50010000010381",
+  "name": "ゴン\nバクバクバクバクアドベンチャー",
+  "formal_name": "ゴン バクバクバクバクアドベンチャー",
+  "description": "ゴンを操作し、どんどん食べながら進んで行く横スクロールアクションゲーム!\n<br>\n<br>“まぼろしのたべもの”を探すため、ゴンが大自然を冒険!\n<br>おなかいっぱい食べながら、いろんなアクションを使って探検しよう!\n<br>いろんなステージや、いろんなどうぶつがゴンをまっているよ!",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AG7J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

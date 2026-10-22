@@ -1,30 +1,30 @@
 {
-    "tid": "000400000016EC00",
-    "uid": "50010000035556",
-    "name": "Ninja Battle Heroes",
-    "formal_name": "Ninja Battle Heroes",
-    "description": "Grab your katana and a ninja\nthrowing stars and embark on a\njourney that will take you across\nJapan in your mission to find the\nmissing Yukimura and his Beast\nBrigade!\n<br/><br/>\nUse your katana to slash through\nenemies coming at you front and back\nas you make your way through cities,\nforests and across water falls. Take\nout enemies in the distance with ninja\nthrowing stars before they shoot or\ncharge towards you.\n<br/><br/>\nAbsorb Spirit from each enemy you\ndefeat and use it to summon powerful\nheroes that you've rescued on your\njourney. Make use of their powers\nincluding firewalls, ice pillars,\ncyclones, quakes and even flight as\nyou come face to face with greater\nand greater foes on your journey to\nfind the missing Beast Brigade!",
-    "release_date_on_eshop": "2015-07-23",
-    "product_code": "CTR-N-JNNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Platformer",
-        "Fighting"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016EC00",
+  "uid": "50010000035556",
+  "name": "Ninja Battle Heroes",
+  "formal_name": "Ninja Battle Heroes",
+  "description": "Grab your katana and a ninja\nthrowing stars and embark on a\njourney that will take you across\nJapan in your mission to find the\nmissing Yukimura and his Beast\nBrigade!\n<br/><br/>\nUse your katana to slash through\nenemies coming at you front and back\nas you make your way through cities,\nforests and across water falls. Take\nout enemies in the distance with ninja\nthrowing stars before they shoot or\ncharge towards you.\n<br/><br/>\nAbsorb Spirit from each enemy you\ndefeat and use it to summon powerful\nheroes that you've rescued on your\njourney. Make use of their powers\nincluding firewalls, ice pillars,\ncyclones, quakes and even flight as\nyou come face to face with greater\nand greater foes on your journey to\nfind the missing Beast Brigade!",
+  "release_date_on_eshop": "2015-07-23",
+  "product_code": "CTR-N-JNNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Platformer",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

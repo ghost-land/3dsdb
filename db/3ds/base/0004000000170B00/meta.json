@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000170B00",
-    "uid": "50010000038215",
-    "name": "Teenage Mutant Ninja Turtles:\nMaster Splinter's Training Pack",
-    "formal_name": "Teenage Mutant Ninja Turtles:\nMaster Splinter's Training Pack",
-    "description": "Your ninja training begins now with two games packed with ninja action!\n<br><br>\nTeenage Mutant Ninja Turtles:\nShredder and the Kraang intend to unleash a devastating mutagen bomb that will transform the citizens of New York City into mindless mutants! Join Leonardo, Raphael, Donatello and Michelangelo in the fight for NYC in Teenage Mutant Ninja Turtles the videogame! Play as your favorite Turtle anytime! Booyakasha! Join the Turtle Power and battle through 15 action-packed levels!\n<br><br>\nTMNT: Danger of the Ooze\nThe Turtles are back in action against the evils of the world! Stop Shredder and his army of mutants as he threatens to unleash the power of a new Super Mutagen that could destroy their beloved NYC.\n* Battle NEW enemies from the hit TV show, not yet seen in a TMNT video game!\n* Discover new locations including the mysterious Dimension X!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BTNE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Comic Mischief",
-        "Fantasy Violence"
-    ]
+  "tid": "0004000000170B00",
+  "uid": "50010000038215",
+  "name": "Teenage Mutant Ninja Turtles:\nMaster Splinter's Training Pack",
+  "formal_name": "Teenage Mutant Ninja Turtles:\nMaster Splinter's Training Pack",
+  "description": "Your ninja training begins now with two games packed with ninja action!\n<br><br>\nTeenage Mutant Ninja Turtles:\nShredder and the Kraang intend to unleash a devastating mutagen bomb that will transform the citizens of New York City into mindless mutants! Join Leonardo, Raphael, Donatello and Michelangelo in the fight for NYC in Teenage Mutant Ninja Turtles the videogame! Play as your favorite Turtle anytime! Booyakasha! Join the Turtle Power and battle through 15 action-packed levels!\n<br><br>\nTMNT: Danger of the Ooze\nThe Turtles are back in action against the evils of the world! Stop Shredder and his army of mutants as he threatens to unleash the power of a new Super Mutagen that could destroy their beloved NYC.\n* Battle NEW enemies from the hit TV show, not yet seen in a TMNT video game!\n* Discover new locations including the mysterious Dimension X!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BTNE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Comic Mischief",
+    "Fantasy Violence"
+  ]
 }

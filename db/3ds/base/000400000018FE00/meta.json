@@ -1,29 +1,29 @@
 {
-    "tid": "000400000018FE00",
-    "uid": "50010000039857",
-    "name": "SIMPLEシリーズ for 3DS Vol.3\nTHE密室からの脱出 アーカイブス2",
-    "formal_name": "SIMPLEシリーズ for ニンテンドー3DS Vol.3\nTHE密室からの脱出 アーカイブス2",
-    "description": "簡単操作で謎解き爽快！ 脱出ゲームの決定版。\n<br>\n<br>出口のない空間が、究極のシチュエーションで再びキミに挑む。\n<br>注意深く探索して情報を集め、知恵を絞って暗号を解け。手に入れたアイテムを組み合わせることも謎解きの重要な鍵となる。\n<br>\n<br>”SIMPLE DLシリーズ”の「THE密室からの脱出」から5本を厳選収録。\n<br>ボタンとタッチスクリーンのどちらでも操作が可能。\n<br>老若男女問わず気軽に楽しめるよう、写真やメモ記録を残せる便利な機能付き。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BP3J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル",
-        "トレーニング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018FE00",
+  "uid": "50010000039857",
+  "name": "SIMPLEシリーズ for 3DS Vol.3\nTHE密室からの脱出 アーカイブス2",
+  "formal_name": "SIMPLEシリーズ for ニンテンドー3DS Vol.3\nTHE密室からの脱出 アーカイブス2",
+  "description": "簡単操作で謎解き爽快！ 脱出ゲームの決定版。\n<br>\n<br>出口のない空間が、究極のシチュエーションで再びキミに挑む。\n<br>注意深く探索して情報を集め、知恵を絞って暗号を解け。手に入れたアイテムを組み合わせることも謎解きの重要な鍵となる。\n<br>\n<br>”SIMPLE DLシリーズ”の「THE密室からの脱出」から5本を厳選収録。\n<br>ボタンとタッチスクリーンのどちらでも操作が可能。\n<br>老若男女問わず気軽に楽しめるよう、写真やメモ記録を残せる便利な機能付き。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BP3J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル",
+    "トレーニング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

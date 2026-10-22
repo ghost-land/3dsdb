@@ -1,36 +1,36 @@
 {
-    "tid": "00040000000D7E00",
-    "uid": "50010000020194",
-    "name": "Steel Diver™: Sub Wars",
-    "formal_name": "Steel Diver™: Sub Wars",
-    "description": "From the second half of March, 2023,\n<br>it will no longer be possible to upgrade\n<br>to the Premium Version of the game or\n<br>purchase extra submarines.\n<br>Afterwards, those who have not \n<br>upgraded to the Premium Version of the\n<br>game will only be able to play some\n<br>missions and use some submarines. \n<br>In order to play all missions and use\n<br>all submarines, you will need to\n<br>upgrade to the Premium Version\n<br>of the game before the second\n<br>half of March, 2023.\n<br>\n<br>Dive, dive, dive for strategic\n<br>subaquatic combat! Amass a fleet of\n<br>submarines and blow your opponents\n<br>out of the water in Steel Diver: Sub\n<br>Wars. Pilot your sub in first-person\n<br>view, with total control over its speed,\n<br>depth and direction, and use tactics\n<br>and tenacity to win the day!\n<br><br/><br/>\n<br>In the purchasable Premium Version,\n<br>unlock and command up to 18 unique\n<br>submarines across seven varied\n<br>missions. Try the first two missions\n<br>and two basic submarines for yourself\n<br>in the Free Version!",
-    "release_date_on_eshop": "2014-02-14",
-    "product_code": "CTR-N-JNUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D7E00",
+  "uid": "50010000020194",
+  "name": "Steel Diver™: Sub Wars",
+  "formal_name": "Steel Diver™: Sub Wars",
+  "description": "From the second half of March, 2023,\n<br>it will no longer be possible to upgrade\n<br>to the Premium Version of the game or\n<br>purchase extra submarines.\n<br>Afterwards, those who have not \n<br>upgraded to the Premium Version of the\n<br>game will only be able to play some\n<br>missions and use some submarines. \n<br>In order to play all missions and use\n<br>all submarines, you will need to\n<br>upgrade to the Premium Version\n<br>of the game before the second\n<br>half of March, 2023.\n<br>\n<br>Dive, dive, dive for strategic\n<br>subaquatic combat! Amass a fleet of\n<br>submarines and blow your opponents\n<br>out of the water in Steel Diver: Sub\n<br>Wars. Pilot your sub in first-person\n<br>view, with total control over its speed,\n<br>depth and direction, and use tactics\n<br>and tenacity to win the day!\n<br><br/><br/>\n<br>In the purchasable Premium Version,\n<br>unlock and command up to 18 unique\n<br>submarines across seven varied\n<br>missions. Try the first two missions\n<br>and two basic submarines for yourself\n<br>in the Free Version!",
+  "release_date_on_eshop": "2014-02-14",
+  "product_code": "CTR-N-JNUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

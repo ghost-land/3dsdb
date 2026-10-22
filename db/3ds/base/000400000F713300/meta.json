@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F713300",
-    "uid": "50010000048015",
-    "name": "Without Escape",
-    "formal_name": "Without Escape",
-    "description": "Without Escape harkens back to first-person graphic adventures of the early ‘90s, which relied on pre-rendered backgrounds and full-motion video to tell interactive stories. Explore the confines of your own home as you flip between a mundane existence and a horrifying otherworld. Can you escape the nightmare and find the answers you’re looking for?\n<br>\n<br>Features:\n<br>- Reconnect with the past through classic point-and-click exploration.\n<br>- Overcome enigmatic puzzles that will test your wits.\n<br>- Immerse yourself in your home’s oppressive atmosphere with an atmospheric soundtrack.\n<br>- Discover multiple endings, secrets, and Easter eggs.",
-    "release_date_on_eshop": "2019-08-15",
-    "product_code": "KTR-N-CEPP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F713300",
+  "uid": "50010000048015",
+  "name": "Without Escape",
+  "formal_name": "Without Escape",
+  "description": "Without Escape harkens back to first-person graphic adventures of the early ‘90s, which relied on pre-rendered backgrounds and full-motion video to tell interactive stories. Explore the confines of your own home as you flip between a mundane existence and a horrifying otherworld. Can you escape the nightmare and find the answers you’re looking for?\n<br>\n<br>Features:\n<br>- Reconnect with the past through classic point-and-click exploration.\n<br>- Overcome enigmatic puzzles that will test your wits.\n<br>- Immerse yourself in your home’s oppressive atmosphere with an atmospheric soundtrack.\n<br>- Discover multiple endings, secrets, and Easter eggs.",
+  "release_date_on_eshop": "2019-08-15",
+  "product_code": "KTR-N-CEPP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

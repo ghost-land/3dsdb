@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000DE900",
-    "uid": "50010000014883",
-    "name": "Tails Adventure™",
-    "formal_name": "Tails Adventure™",
-    "description": "Sonic’s trusty sidekick flies solo in his very own adventure!\n<br><br>\nWhen Tails stumbles upon a small part of what looks to be a very large machine, he decides to embark on a journey to find its source!\n<br><br>\nAs Tails, fly through 12 action packed stages on a quest to gather all the mechanical parts and discover the secret of their origin.<br>\nGather items to augment Tails’ various abilities!<br>\nUse your wits to defeat enemies across 12 stages in order to discover the origin of the mysterious machines!",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-N-GAVE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DE900",
+  "uid": "50010000014883",
+  "name": "Tails Adventure™",
+  "formal_name": "Tails Adventure™",
+  "description": "Sonic’s trusty sidekick flies solo in his very own adventure!\n<br><br>\nWhen Tails stumbles upon a small part of what looks to be a very large machine, he decides to embark on a journey to find its source!\n<br><br>\nAs Tails, fly through 12 action packed stages on a quest to gather all the mechanical parts and discover the secret of their origin.<br>\nGather items to augment Tails’ various abilities!<br>\nUse your wits to defeat enemies across 12 stages in order to discover the origin of the mysterious machines!",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-N-GAVE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

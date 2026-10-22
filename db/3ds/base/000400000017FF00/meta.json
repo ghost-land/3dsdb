@@ -1,30 +1,30 @@
 {
-    "tid": "000400000017FF00",
-    "uid": "50010000041818",
-    "name": "Mini Golf Resort",
-    "formal_name": "Mini Golf Resort",
-    "description": "Welcome to the most amazing mini golf resort ever on Nintendo 3DS™! Grab your golf clubs and get ready to play through 56 incredible courses in 4 unique worlds. Enjoy a combination of real golf club rules and wacky mini golf fun as you shoot your ball through pipes, up extreme ramps and around crazy obstacles towards the hole!\n<br>\n<br>With over 1001 fun and challenging courses available, packed with a character customization, a large selection of items and bonuses and 10 trophies to unlock, it's the ultimate mini golf experience!",
-    "release_date_on_eshop": "2017-01-26",
-    "product_code": "CTR-N-KGTP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Simulation",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017FF00",
+  "uid": "50010000041818",
+  "name": "Mini Golf Resort",
+  "formal_name": "Mini Golf Resort",
+  "description": "Welcome to the most amazing mini golf resort ever on Nintendo 3DS™! Grab your golf clubs and get ready to play through 56 incredible courses in 4 unique worlds. Enjoy a combination of real golf club rules and wacky mini golf fun as you shoot your ball through pipes, up extreme ramps and around crazy obstacles towards the hole!\n<br>\n<br>With over 1001 fun and challenging courses available, packed with a character customization, a large selection of items and bonuses and 10 trophies to unlock, it's the ultimate mini golf experience!",
+  "release_date_on_eshop": "2017-01-26",
+  "product_code": "CTR-N-KGTP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Simulation",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001C1E00",
-    "uid": "50010000045116",
-    "name": "Detective Pikachu™",
-    "formal_name": "Detective Pikachu™",
-    "description": "Detective Pikachu is on the case!\n<br>\n<br>Put your detective hat on – it’s time to crack the case of a boy’s missing father in Detective Pikachu, a unique adventure game filled with beloved Pokémon.\n<br>\n<br>Follow the story of Tim Goodman, an 18-year-old university student with a strong sense of justice, and form an unlikely partnership with a peculiar talking Pikachu! Gather evidence, interview witnesses, and piece together a variety of clues to unravel the many mysteries surrounding Ryme City.\n<br>\n<br>This game also supports Japanese<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2018-03-23",
-    "product_code": "CTR-N-A98A",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Region Free",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C1E00",
+  "uid": "50010000045116",
+  "name": "Detective Pikachu™",
+  "formal_name": "Detective Pikachu™",
+  "description": "Detective Pikachu is on the case!\n<br>\n<br>Put your detective hat on – it’s time to crack the case of a boy’s missing father in Detective Pikachu, a unique adventure game filled with beloved Pokémon.\n<br>\n<br>Follow the story of Tim Goodman, an 18-year-old university student with a strong sense of justice, and form an unlikely partnership with a peculiar talking Pikachu! Gather evidence, interview witnesses, and piece together a variety of clues to unravel the many mysteries surrounding Ryme City.\n<br>\n<br>This game also supports Japanese<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2018-03-23",
+  "product_code": "CTR-N-A98A",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Region Free",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001B5100",
-    "uid": "50010000043878",
-    "name": "Pokémon™ Ultra Moon",
-    "formal_name": "Pokémon™ Ultra Moon",
-    "description": "Bonus until 10/01/2018:\n<br>Download code for 12 Quick Balls for Pokémon™ Ultra Moon for Nintendo 3DS.\n<br>The download code is valid until 30/11/2018.\n<br>\n<br>Pokémon Ultra Sun and Pokémon Ultra Moon offer an alternative story taking place in the same world as Pokémon Sun and Pokémon Moon, as well as new Pokémon that didn’t appear in Pokémon Sun and Pokémon Moon. There will be additional elements to let you enjoy your adventure even more.\n<br>\n<br>Ominous dark clouds are spreading in the sky above the Alola region, the setting of Pokémon Ultra Sun and Pokémon Ultra Moon. In these adventures, a story unfolds on a grand scale, with the Legendary Pokémon Solgaleo, Lunala, and Necrozma at its centre. Secrets about Necrozma and the Alola region – undisclosed in the previous games – will come to light.",
-    "release_date_on_eshop": "2017-11-17",
-    "product_code": "CTR-N-A2BA",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Region Free",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B5100",
+  "uid": "50010000043878",
+  "name": "Pokémon™ Ultra Moon",
+  "formal_name": "Pokémon™ Ultra Moon",
+  "description": "Bonus until 10/01/2018:\n<br>Download code for 12 Quick Balls for Pokémon™ Ultra Moon for Nintendo 3DS.\n<br>The download code is valid until 30/11/2018.\n<br>\n<br>Pokémon Ultra Sun and Pokémon Ultra Moon offer an alternative story taking place in the same world as Pokémon Sun and Pokémon Moon, as well as new Pokémon that didn’t appear in Pokémon Sun and Pokémon Moon. There will be additional elements to let you enjoy your adventure even more.\n<br>\n<br>Ominous dark clouds are spreading in the sky above the Alola region, the setting of Pokémon Ultra Sun and Pokémon Ultra Moon. In these adventures, a story unfolds on a grand scale, with the Legendary Pokémon Solgaleo, Lunala, and Necrozma at its centre. Secrets about Necrozma and the Alola region – undisclosed in the previous games – will come to light.",
+  "release_date_on_eshop": "2017-11-17",
+  "product_code": "CTR-N-A2BA",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Region Free",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F702800",
-    "uid": "50010000040676",
-    "name": "Mega Man™ 7",
-    "formal_name": "Mega Man™ 7",
-    "description": "Dr. Wily has finally been imprisoned but Mega Man’s fight is far from over. Wily’s backup plan springs into action: four evil robots attack the city; the perfect distraction to make his escape.\n<br>Mega Man and Rush are soon on Wily’s trail, and so are Bass and Treble: another robot and canine companion. Who are these mysterious newcomers, and can they be trusted?\n<br>Jump and blast your way through action-packed levels, face off against fiendish new bosses, discover hidden items and power ups, and send Dr. Wily back behind bars!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-07-14",
-    "product_code": "KTR-N-UANE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F702800",
+  "uid": "50010000040676",
+  "name": "Mega Man™ 7",
+  "formal_name": "Mega Man™ 7",
+  "description": "Dr. Wily has finally been imprisoned but Mega Man’s fight is far from over. Wily’s backup plan springs into action: four evil robots attack the city; the perfect distraction to make his escape.\n<br>Mega Man and Rush are soon on Wily’s trail, and so are Bass and Treble: another robot and canine companion. Who are these mysterious newcomers, and can they be trusted?\n<br>Jump and blast your way through action-packed levels, face off against fiendish new bosses, discover hidden items and power ups, and send Dr. Wily back behind bars!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-07-14",
+  "product_code": "KTR-N-UANE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4A554A",
-    "uid": "50010000005342",
-    "name": "１０秒走",
-    "formal_name": "１０秒走",
-    "description": "「１０秒走」は、誰もが一度は描いたことのある棒人間を主人公に、「走る」「跳ぶ」という２つの動作で１０秒という短い時間内でのゴールを目指す、シンプルなジャンプアクションゲームです。",
-    "release_date_on_eshop": "2010-04-28",
-    "product_code": "TWL-N-KJUJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
-    "descriptors": []
+  "tid": "000480044B4A554A",
+  "uid": "50010000005342",
+  "name": "１０秒走",
+  "formal_name": "１０秒走",
+  "description": "「１０秒走」は、誰もが一度は描いたことのある棒人間を主人公に、「走る」「跳ぶ」という２つの動作で１０秒という短い時間内でのゴールを目指す、シンプルなジャンプアクションゲームです。",
+  "release_date_on_eshop": "2010-04-28",
+  "product_code": "TWL-N-KJUJ",
+  "platform_name": "ニンテンドーDSiウェア",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": []
 }

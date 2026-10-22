@@ -1,40 +1,40 @@
 {
-    "tid": "000400000019BE00",
-    "uid": "50010000041555",
-    "name": "Mario Party™: Star Rush",
-    "formal_name": "Mario Party™: Star Rush",
-    "description": "A new approach to Mario Party: quicker play and simultaneous turns!\n<br>\n<br>Team up with Mario, Peach, Donkey Kong, and more in the most perfectly portable Mario Party game to date. Play with up to four players simultaneously, exploring different worlds as you freely move your Toad across maps and recruit Mushroom Kingdom allies. Break free of turn order, with all players plotting strategy, rolling the dice and moving...all simultaneously! Team up with your friends in the real world to compete or co-operate to take down bosses in each game board.\n<br>\n<br>- Recruit characters like Toadette, Rosalina and Wario to team up with and support you in Toad Scramble starring Toads\n<br>\n<br>- Choose from multiple boards in different worlds, each with tricky boss battles\n<br>\n<br>- Up to four players can simultaneously roll and move freely around a map\n<br>\n<br>- Team up with up to four Mushroom Kingdom characters who can help you win by participating in different events\n<br>\n<br>This software supports up to 4 players for both Local Play and Download Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-10-07",
-    "product_code": "CTR-P-BAAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network",
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019BE00",
+  "uid": "50010000041555",
+  "name": "Mario Party™: Star Rush",
+  "formal_name": "Mario Party™: Star Rush",
+  "description": "A new approach to Mario Party: quicker play and simultaneous turns!\n<br>\n<br>Team up with Mario, Peach, Donkey Kong, and more in the most perfectly portable Mario Party game to date. Play with up to four players simultaneously, exploring different worlds as you freely move your Toad across maps and recruit Mushroom Kingdom allies. Break free of turn order, with all players plotting strategy, rolling the dice and moving...all simultaneously! Team up with your friends in the real world to compete or co-operate to take down bosses in each game board.\n<br>\n<br>- Recruit characters like Toadette, Rosalina and Wario to team up with and support you in Toad Scramble starring Toads\n<br>\n<br>- Choose from multiple boards in different worlds, each with tricky boss battles\n<br>\n<br>- Up to four players can simultaneously roll and move freely around a map\n<br>\n<br>- Team up with up to four Mushroom Kingdom characters who can help you win by participating in different events\n<br>\n<br>This software supports up to 4 players for both Local Play and Download Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-10-07",
+  "product_code": "CTR-P-BAAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network",
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

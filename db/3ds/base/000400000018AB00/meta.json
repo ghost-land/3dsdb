@@ -1,28 +1,28 @@
 {
-    "tid": "000400000018AB00",
-    "uid": "50010000039421",
-    "name": "Dementium Remastered",
-    "formal_name": "Dementium Remastered",
-    "description": "Rebuilt from the ground up to take\n<br>advantage of the Nintendo 3DS™,\n<br>Dementium Remastered takes the guts\n<br>of Renegade Kid's award-winning title\n<br>and delivers a new and improved\n<br>atmospheric first-person survival\n<br>horror experience with enhanced\n<br>graphics, refined gameplay,\n<br>high-quality audio, and immersive\n<br>control options.\n<br><br/>\n<br>Features new difficulty settings,\n<br>including Demented mode - designed\n<br>for hardcore fans of the series!\n<br><br/>\n<br>Dementium Remastered tells the tale\n<br>of a man who awakens to find himself\n<br>alone in a mysterious, derelict\n<br>hospital that is frozen in time.\n<br>Confronted by the deadly, grotesque\n<br>surgical experiments that wander the\n<br>halls, a series of challenging puzzles,\n<br>and a cast of peculiar characters, he\n<br>must face his deepest fears, unlock\n<br>the mysteries of the hospital, and\n<br>escape with his life.",
-    "release_date_on_eshop": "2016-02-11",
-    "product_code": "CTR-N-KDDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "First-Person Shooter",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018AB00",
+  "uid": "50010000039421",
+  "name": "Dementium Remastered",
+  "formal_name": "Dementium Remastered",
+  "description": "Rebuilt from the ground up to take\n<br>advantage of the Nintendo 3DS™,\n<br>Dementium Remastered takes the guts\n<br>of Renegade Kid's award-winning title\n<br>and delivers a new and improved\n<br>atmospheric first-person survival\n<br>horror experience with enhanced\n<br>graphics, refined gameplay,\n<br>high-quality audio, and immersive\n<br>control options.\n<br><br/>\n<br>Features new difficulty settings,\n<br>including Demented mode - designed\n<br>for hardcore fans of the series!\n<br><br/>\n<br>Dementium Remastered tells the tale\n<br>of a man who awakens to find himself\n<br>alone in a mysterious, derelict\n<br>hospital that is frozen in time.\n<br>Confronted by the deadly, grotesque\n<br>surgical experiments that wander the\n<br>halls, a series of challenging puzzles,\n<br>and a cast of peculiar characters, he\n<br>must face his deepest fears, unlock\n<br>the mysteries of the hospital, and\n<br>escape with his life.",
+  "release_date_on_eshop": "2016-02-11",
+  "product_code": "CTR-N-KDDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "First-Person Shooter",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

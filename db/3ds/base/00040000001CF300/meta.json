@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001CF300",
-    "uid": "50010000045635",
-    "name": "Dillon’s Dead-Heat Breakers™",
-    "formal_name": "Dillon’s Dead-Heat Breakers™",
-    "description": "As a team, defend a post-apocalyptic wild west from an invasion of transforming rock monsters alongside your Mii™ character, Dillon the armadillo, and his squirrel engineer, Russ. Recruit hired gunners to back you up in battle, and then roll into fights and high-speed chases and take down waves of enemies as Dillon—the “Red Flash” himself! \n<br>\n<br>Eighty years ago, a cataclysmic event devastated the world. Holed up in “The City” and outlying frontier towns, no survivor is safe now that a mysterious ship has unleashed an army of supercharged monsters. So, prepare for battle: gather resources by helping local businesses and winning races. Then stock up, man the towers, and strengthen barricades to protect each village’s livestock! Discover new strategies to take out over 30 different types of enemies: some swim, some dig, some are electrified, poisonous, armored—even flying. Monsters transform into wheeled forms, racing into action-packed, high-speed chases!",
-    "release_date_on_eshop": "2018-05-24",
-    "product_code": "CTR-N-A9EE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001CF300",
+  "uid": "50010000045635",
+  "name": "Dillon’s Dead-Heat Breakers™",
+  "formal_name": "Dillon’s Dead-Heat Breakers™",
+  "description": "As a team, defend a post-apocalyptic wild west from an invasion of transforming rock monsters alongside your Mii™ character, Dillon the armadillo, and his squirrel engineer, Russ. Recruit hired gunners to back you up in battle, and then roll into fights and high-speed chases and take down waves of enemies as Dillon—the “Red Flash” himself! \n<br>\n<br>Eighty years ago, a cataclysmic event devastated the world. Holed up in “The City” and outlying frontier towns, no survivor is safe now that a mysterious ship has unleashed an army of supercharged monsters. So, prepare for battle: gather resources by helping local businesses and winning races. Then stock up, man the towers, and strengthen barricades to protect each village’s livestock! Discover new strategies to take out over 30 different types of enemies: some swim, some dig, some are electrified, poisonous, armored—even flying. Monsters transform into wheeled forms, racing into action-packed, high-speed chases!",
+  "release_date_on_eshop": "2018-05-24",
+  "product_code": "CTR-N-A9EE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

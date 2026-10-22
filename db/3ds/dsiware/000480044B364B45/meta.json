@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B364B45",
-    "uid": "50010000011992",
-    "name": "Kart Krashers",
-    "formal_name": "Kart Krashers",
-    "description": "Kart Krashers is a single player game where the player drives their kart through an exciting 10 stage circuit that spans the globe, and beyond! Each stage has three uniquely laid out events, for a total of 30 challenging competitions. The goal is simple: collect stars and smash into objects to achieve the highest event score. Earn enough points and you will win up to three Golden Wheels in each event, which are the key to advancing in the Kart Krashers competition.\nThroughout the course of the circuit you will meet up with 5 drivers, each with their own motivations, and each bringing new Kart capabilities and driving styles to your team.\nAs you unlock stages, more and more of the mystery of the Kart Krashers competition is revealed. Earn enough golden wheels and your team will win the grand prize, and the honor of being known as Kart Krashing champions.\nThere are achievement medals to be won, and high scores to be set. \nDon’t miss out on a chance to be a Kart Krashing legend.",
-    "release_date_on_eshop": "2012-09-27",
-    "product_code": "TWL-N-K6KE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Racing",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B364B45",
+  "uid": "50010000011992",
+  "name": "Kart Krashers",
+  "formal_name": "Kart Krashers",
+  "description": "Kart Krashers is a single player game where the player drives their kart through an exciting 10 stage circuit that spans the globe, and beyond! Each stage has three uniquely laid out events, for a total of 30 challenging competitions. The goal is simple: collect stars and smash into objects to achieve the highest event score. Earn enough points and you will win up to three Golden Wheels in each event, which are the key to advancing in the Kart Krashers competition.\nThroughout the course of the circuit you will meet up with 5 drivers, each with their own motivations, and each bringing new Kart capabilities and driving styles to your team.\nAs you unlock stages, more and more of the mystery of the Kart Krashers competition is revealed. Earn enough golden wheels and your team will win the grand prize, and the honor of being known as Kart Krashing champions.\nThere are achievement medals to be won, and high scores to be set. \nDon’t miss out on a chance to be a Kart Krashing legend.",
+  "release_date_on_eshop": "2012-09-27",
+  "product_code": "TWL-N-K6KE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Racing",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000CD900",
-    "uid": "50010000015660",
-    "name": "ARC STYLE: Football 3D",
-    "formal_name": "ARC STYLE: Football 3D",
-    "description": "Enjoy this simple soccer game which\ndoes away with detailed rules. There\nis room for endless customization with\nthe ability to change your teams'\nnames and uniforms, and create every\nteam member's features from scratch.\nYou can even use your own\nphotographed face on your team\nmembers!\n<br/><br/>\nYou can also use Nintendo 3DS™\nLocal Play with this game and enjoy\nmultiplayer matches.",
-    "release_date_on_eshop": "2013-08-22",
-    "product_code": "CTR-N-JA3P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CD900",
+  "uid": "50010000015660",
+  "name": "ARC STYLE: Football 3D",
+  "formal_name": "ARC STYLE: Football 3D",
+  "description": "Enjoy this simple soccer game which\ndoes away with detailed rules. There\nis room for endless customization with\nthe ability to change your teams'\nnames and uniforms, and create every\nteam member's features from scratch.\nYou can even use your own\nphotographed face on your team\nmembers!\n<br/><br/>\nYou can also use Nintendo 3DS™\nLocal Play with this game and enjoy\nmultiplayer matches.",
+  "release_date_on_eshop": "2013-08-22",
+  "product_code": "CTR-N-JA3P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00117200",
-    "uid": "50010000028962",
-    "name": "更新データ Ver. 3.6.3\nプチコン3号 SmileBASIC",
-    "formal_name": "更新データ Ver. 3.6.3\nプチコン3号 SmileBASIC",
-    "description": "ニンテンドー3DSソフト『プチコン3号 SmileBASIC』の不具合修正と一部命令の追加を行った更新データです。お持ちのお客様は、必ずダウンロードしてください。\n\n以下の不具合対処が行われています。詳細については、公式ページの「更新と障害情報」をご確認ください。\n\n◎重大な不具合の修正（以下の停止問題を修正）\n\n・1VSYNC内にBEEP命令を32回以上実行するとハングアップする\n・GPAINTで塗りつぶし色と境界色を同じにした場合、塗り残しが発生する事がある",
-    "release_date_on_eshop": "2018-12-05",
-    "product_code": "CTR-U-JPKJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v15.21.0",
-    "disclaimer": "ニンテンドー3DSソフト『プチコン3号 SmileBASIC』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E00117200",
+  "uid": "50010000028962",
+  "name": "更新データ Ver. 3.6.3\nプチコン3号 SmileBASIC",
+  "formal_name": "更新データ Ver. 3.6.3\nプチコン3号 SmileBASIC",
+  "description": "ニンテンドー3DSソフト『プチコン3号 SmileBASIC』の不具合修正と一部命令の追加を行った更新データです。お持ちのお客様は、必ずダウンロードしてください。\n\n以下の不具合対処が行われています。詳細については、公式ページの「更新と障害情報」をご確認ください。\n\n◎重大な不具合の修正（以下の停止問題を修正）\n\n・1VSYNC内にBEEP命令を32回以上実行するとハングアップする\n・GPAINTで塗りつぶし色と境界色を同じにした場合、塗り残しが発生する事がある",
+  "release_date_on_eshop": "2018-12-05",
+  "product_code": "CTR-U-JPKJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v15.21.0",
+  "disclaimer": "ニンテンドー3DSソフト『プチコン3号 SmileBASIC』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

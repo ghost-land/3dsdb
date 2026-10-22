@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000048200",
-    "uid": "50010000006809",
-    "name": "Angler's Club: Ultimate Bass\nFishing™ 3D",
-    "formal_name": "Angler's Club: Ultimate Bass\nFishing™ 3D",
-    "description": "Angler’s Club: Ultimate Bass Fishing 3D™ is the supreme fishing experience. Explore the lake and bring serenity and excitement of catching bass to your fingertips. Brilliant Nintendo 3DS graphics make competing in over 40+ tournaments an amazing experience. Customizable characters, lures and reels and gear will make you the ultimate bass fishing champion!\n<br><br>\nPrecision control of the rod and reel with the Circle Pad and Accelerometer<br>\n3D screen enhancements: Gorgeous water effects and real-time settings are enhanced with the Nintendo 3DS screen<br>\nPhotograph yourself with the Nintendo 3DS Camera and create a unique Angler's Club Membership Card<br>\nCompete in 40+ exciting tournaments: Compare your ultimate bass weight and varieties.  Place in the top three to earn trophies and gold!<br>\nTons of Accessories: Master the art of fishing with 500+ lures, 13 rods, and 12 reels to prep for varying conditions",
-    "release_date_on_eshop": "2013-07-25",
-    "product_code": "CTR-N-AFDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000048200",
+  "uid": "50010000006809",
+  "name": "Angler's Club: Ultimate Bass\nFishing™ 3D",
+  "formal_name": "Angler's Club: Ultimate Bass\nFishing™ 3D",
+  "description": "Angler’s Club: Ultimate Bass Fishing 3D™ is the supreme fishing experience. Explore the lake and bring serenity and excitement of catching bass to your fingertips. Brilliant Nintendo 3DS graphics make competing in over 40+ tournaments an amazing experience. Customizable characters, lures and reels and gear will make you the ultimate bass fishing champion!\n<br><br>\nPrecision control of the rod and reel with the Circle Pad and Accelerometer<br>\n3D screen enhancements: Gorgeous water effects and real-time settings are enhanced with the Nintendo 3DS screen<br>\nPhotograph yourself with the Nintendo 3DS Camera and create a unique Angler's Club Membership Card<br>\nCompete in 40+ exciting tournaments: Compare your ultimate bass weight and varieties.  Place in the top three to earn trophies and gold!<br>\nTons of Accessories: Master the art of fishing with 500+ lures, 13 rods, and 12 reels to prep for varying conditions",
+  "release_date_on_eshop": "2013-07-25",
+  "product_code": "CTR-N-AFDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

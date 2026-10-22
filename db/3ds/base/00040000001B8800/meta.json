@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001B8800",
-    "uid": "50010000042416",
-    "name": "Dragon Sinker",
-    "formal_name": "Dragon Sinker",
-    "description": "Set out in search of the legendary weapons to free the world from the rule of Wyrmvarg!\n<br>\n<br>Employing 8-bit graphics and sound that hark back to the golden era of RPGs, Dragon Sinker brings a visual and audio feast to the table of hungry gamers starving for the nostalgia of the great classics of yesteryear!\n<br>\n<br>Scour the world in search of new companions and collect more than 16 jobs! Then lead up to 12 party members into turn-based battles and swap freely between 3 teams to take on a host of powerful foes! And if that were not exciting enough, character costumes also change according to their job, giving pixel lovers something even more to look forward to!\n<br>\n<br>Plus, with plenty of subquests for the hero to tackle and secret dungeons to explore, this is one adventure not soon to be forgotten!",
-    "release_date_on_eshop": "2017-04-06",
-    "product_code": "CTR-N-KD9E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B8800",
+  "uid": "50010000042416",
+  "name": "Dragon Sinker",
+  "formal_name": "Dragon Sinker",
+  "description": "Set out in search of the legendary weapons to free the world from the rule of Wyrmvarg!\n<br>\n<br>Employing 8-bit graphics and sound that hark back to the golden era of RPGs, Dragon Sinker brings a visual and audio feast to the table of hungry gamers starving for the nostalgia of the great classics of yesteryear!\n<br>\n<br>Scour the world in search of new companions and collect more than 16 jobs! Then lead up to 12 party members into turn-based battles and swap freely between 3 teams to take on a host of powerful foes! And if that were not exciting enough, character costumes also change according to their job, giving pixel lovers something even more to look forward to!\n<br>\n<br>Plus, with plenty of subquests for the hero to tackle and secret dungeons to explore, this is one adventure not soon to be forgotten!",
+  "release_date_on_eshop": "2017-04-06",
+  "product_code": "CTR-N-KD9E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

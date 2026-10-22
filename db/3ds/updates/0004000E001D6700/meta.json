@@ -1,30 +1,30 @@
 {
-    "tid": "0004000E001D6700",
-    "uid": "50010000047435",
-    "name": "YO-KAI WATCH ™ 3\nUpdate Ver. 1.3",
-    "formal_name": "YO-KAI WATCH ™ 3\n<br>Update Ver. 1.3",
-    "description": "This is an update for the game card version of the YO-KAI WATCH ™ 3 game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of YO-KAI WATCH ™ 3.",
-    "release_date_on_eshop": "2019-02-07",
-    "product_code": "CTR-U-ALZE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v3.4.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E001D6700",
+  "uid": "50010000047435",
+  "name": "YO-KAI WATCH ™ 3\nUpdate Ver. 1.3",
+  "formal_name": "YO-KAI WATCH ™ 3\n<br>Update Ver. 1.3",
+  "description": "This is an update for the game card version of the YO-KAI WATCH ™ 3 game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of YO-KAI WATCH ™ 3.",
+  "release_date_on_eshop": "2019-02-07",
+  "product_code": "CTR-U-ALZE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v3.4.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B374845",
-    "uid": "50010000032175",
-    "name": "Titanic Mystery",
-    "formal_name": "Titanic Mystery",
-    "description": "Take a trip on the all-new RMS Titanic, the greatest, most luxurious ocean liner ever built.\n<br><br>\nExactly 100 years after the original ship sailed on its maiden voyage from Southampton to New York, the all-new Titanic sets off on the same voyage. Build with the same level of luxury and extravagance, but with modern day safety designs and up to date lifeboats.\n<br><br>\nBut, shortly after you set sail you find out that someone onboard has plans to blow the ship up. It is up to you to find the bomb and unmask the culprit by solving a serious of puzzles and riddles.\n<br><br>\nVisit 30 locations from the luxurious RMS Titanic\nA huge variety of puzzles and mini games\nA compelling story with various tasks and clues",
-    "release_date_on_eshop": "2015-03-26",
-    "product_code": "TWL-N-K7HE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B374845",
+  "uid": "50010000032175",
+  "name": "Titanic Mystery",
+  "formal_name": "Titanic Mystery",
+  "description": "Take a trip on the all-new RMS Titanic, the greatest, most luxurious ocean liner ever built.\n<br><br>\nExactly 100 years after the original ship sailed on its maiden voyage from Southampton to New York, the all-new Titanic sets off on the same voyage. Build with the same level of luxury and extravagance, but with modern day safety designs and up to date lifeboats.\n<br><br>\nBut, shortly after you set sail you find out that someone onboard has plans to blow the ship up. It is up to you to find the bomb and unmask the culprit by solving a serious of puzzles and riddles.\n<br><br>\nVisit 30 locations from the luxurious RMS Titanic\nA huge variety of puzzles and mini games\nA compelling story with various tasks and clues",
+  "release_date_on_eshop": "2015-03-26",
+  "product_code": "TWL-N-K7HE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

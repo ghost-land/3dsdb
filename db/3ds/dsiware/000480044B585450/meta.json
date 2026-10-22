@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B585450",
-    "uid": "50010000010878",
-    "name": "99Seconds",
-    "formal_name": "99Seconds",
-    "description": "99Seconds, a fun retro-style video\ngame where you can modify time to\navoid all kinds of dangers.<br>\n<br>\nAfter finishing off Black Eye, V-99\nentered a mysterious zone called Bit\n8. Without knowing why V-99 could\nmodify time, slow it down and even\nstop it, but everything became\ncomplicated with the appearance of\nthe BLACK VECTORS, mysterious\nbeings that aim to destroy any\nintruder who reaches Bit 8.<br>\n<br>\n* Control V-99 by dodging and using\nSLOW DOWN to slow, stop and even\ngo back in time!\n* Arcade mobility, like in the classic\narcade games!\n* Retro-style levels!\n* Incredible enemy patterns!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KXTP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585450",
+  "uid": "50010000010878",
+  "name": "99Seconds",
+  "formal_name": "99Seconds",
+  "description": "99Seconds, a fun retro-style video\ngame where you can modify time to\navoid all kinds of dangers.<br>\n<br>\nAfter finishing off Black Eye, V-99\nentered a mysterious zone called Bit\n8. Without knowing why V-99 could\nmodify time, slow it down and even\nstop it, but everything became\ncomplicated with the appearance of\nthe BLACK VECTORS, mysterious\nbeings that aim to destroy any\nintruder who reaches Bit 8.<br>\n<br>\n* Control V-99 by dodging and using\nSLOW DOWN to slow, stop and even\ngo back in time!\n* Arcade mobility, like in the classic\narcade games!\n* Retro-style levels!\n* Incredible enemy patterns!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KXTP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

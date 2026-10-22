@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000A1000",
-    "uid": "50010000014234",
-    "name": "Mega Man™ 4",
-    "formal_name": "Mega Man™ 4",
-    "description": "Original Release Date:  January 1992\n<br><br>\nA year after the destruction of Gamma, and Dr. Wily's defeat, the world is still at peace. One day a mysterious letter arrives for Dr. Light from an unknown scientist named Dr. Mikhail Cossack. Dr. Cossack plans to eliminate Mega Man and prove he is the greatest robot designer of all time. It’s up to Mega Man to save the day once again. Mega Man 4 provides action based game play like the earlier games in the series.\n<br><br>\nRush, Mega Man’s canine companion, is back to battle the baddies. Mega Man also has the ability to charge up energy inside his Arm Cannon, allowing him to fire larger and more damaging blasts.",
-    "release_date_on_eshop": "2013-04-25",
-    "product_code": "CTR-N-TBDE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A1000",
+  "uid": "50010000014234",
+  "name": "Mega Man™ 4",
+  "formal_name": "Mega Man™ 4",
+  "description": "Original Release Date:  January 1992\n<br><br>\nA year after the destruction of Gamma, and Dr. Wily's defeat, the world is still at peace. One day a mysterious letter arrives for Dr. Light from an unknown scientist named Dr. Mikhail Cossack. Dr. Cossack plans to eliminate Mega Man and prove he is the greatest robot designer of all time. It’s up to Mega Man to save the day once again. Mega Man 4 provides action based game play like the earlier games in the series.\n<br><br>\nRush, Mega Man’s canine companion, is back to battle the baddies. Mega Man also has the ability to charge up energy inside his Arm Cannon, allowing him to fire larger and more damaging blasts.",
+  "release_date_on_eshop": "2013-04-25",
+  "product_code": "CTR-N-TBDE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

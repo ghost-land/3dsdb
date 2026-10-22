@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B424845",
-    "uid": "50010000000595",
-    "name": "Digger Dan & Kaboom",
-    "formal_name": "Digger Dan & Kaboom",
-    "description": "Digger Dan has always loved digging. That’s probably how he got his name, although nobody knows for sure. He also loves gems and he just happens to have found a ton of them! However, there is a problem: all of the gems are in some pretty nasty caves, so you are going to have to help Dan get them out. Dan has sent Kaboom, his pet gopher, into the caves to find the best place to start, but he hasn’t returned. Kaboom has a habit of falling asleep though, so it looks like Dan is going to have to rescue him too!\n\n\n",
-    "release_date_on_eshop": "2011-01-24",
-    "product_code": "TWL-N-KBHE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B424845",
+  "uid": "50010000000595",
+  "name": "Digger Dan & Kaboom",
+  "formal_name": "Digger Dan & Kaboom",
+  "description": "Digger Dan has always loved digging. That’s probably how he got his name, although nobody knows for sure. He also loves gems and he just happens to have found a ton of them! However, there is a problem: all of the gems are in some pretty nasty caves, so you are going to have to help Dan get them out. Dan has sent Kaboom, his pet gopher, into the caves to find the best place to start, but he hasn’t returned. Kaboom has a habit of falling asleep though, so it looks like Dan is going to have to rescue him too!\n\n\n",
+  "release_date_on_eshop": "2011-01-24",
+  "product_code": "TWL-N-KBHE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

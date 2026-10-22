@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000179000",
-    "uid": "50010000037375",
-    "name": "Chronus Arc",
-    "formal_name": "Chronus Arc",
-    "description": "The Chronus Fragments are needed to prepare for the Time Rewinding, which only takes place once every 10 years. On their way to the Chronus Shrine to get the Fragments, Loka and his teacher Teth are surrounded by a mysterious man named Geppel and his gang. They demand the Fragments. While Teth plays for time, Loka, the main character, rushes out of the cave on his own to fetch reinforcements. He is successful, but Teth and Geppel are nowhere to be found.\nAiming to gather information about his missing teacher, Teth, and Geppel, who is trying to get his hands on the Fragments, Loka decides to set out on a journey with his friend Sarna.\n\nThe game features familiar quests, but also dungeons filled with puzzles to solve, and characters who grow and can be developed as the story progresses with the class change system.\nAlso, additional dungeons and special items are available for extra fun by collecting Mana!\n\nDon't miss out on Loka and his friends' grand adventure!",
-    "release_date_on_eshop": "2015-10-01",
-    "product_code": "CTR-N-JCNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Puzzle",
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000179000",
+  "uid": "50010000037375",
+  "name": "Chronus Arc",
+  "formal_name": "Chronus Arc",
+  "description": "The Chronus Fragments are needed to prepare for the Time Rewinding, which only takes place once every 10 years. On their way to the Chronus Shrine to get the Fragments, Loka and his teacher Teth are surrounded by a mysterious man named Geppel and his gang. They demand the Fragments. While Teth plays for time, Loka, the main character, rushes out of the cave on his own to fetch reinforcements. He is successful, but Teth and Geppel are nowhere to be found.\nAiming to gather information about his missing teacher, Teth, and Geppel, who is trying to get his hands on the Fragments, Loka decides to set out on a journey with his friend Sarna.\n\nThe game features familiar quests, but also dungeons filled with puzzles to solve, and characters who grow and can be developed as the story progresses with the class change system.\nAlso, additional dungeons and special items are available for extra fun by collecting Mana!\n\nDon't miss out on Loka and his friends' grand adventure!",
+  "release_date_on_eshop": "2015-10-01",
+  "product_code": "CTR-N-JCNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Puzzle",
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

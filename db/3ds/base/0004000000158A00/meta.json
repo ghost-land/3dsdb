@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000158A00",
-    "uid": "50010000031695",
-    "name": "3D Out Run",
-    "formal_name": "3D Out Run",
-    "description": "3D Out Run™ is the critically acclaimed 1986 driving game designed by Yu Suzuki, re-mastered and enhanced for the Nintendo 3DS™ hand-held system. 3D Out Run includes all of Out Run’s original content, alongside two new songs and runs at 60 frames per second, which is twice the speed of the original version.\n<br><br>\nThe game features a built in Stage Select option that allows players to save and resume progress mid-game, has adjustable difficulty settings, and includes unlockable car customization options. Additionally, players are able to choose from a number of real-life arcade cabinets wherein everything from the appearance to the environmental sounds of the specific cabinet are recreated, providing a true and authentic arcade experience. ",
-    "release_date_on_eshop": "2015-03-12",
-    "product_code": "CTR-N-JYRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000158A00",
+  "uid": "50010000031695",
+  "name": "3D Out Run",
+  "formal_name": "3D Out Run",
+  "description": "3D Out Run™ is the critically acclaimed 1986 driving game designed by Yu Suzuki, re-mastered and enhanced for the Nintendo 3DS™ hand-held system. 3D Out Run includes all of Out Run’s original content, alongside two new songs and runs at 60 frames per second, which is twice the speed of the original version.\n<br><br>\nThe game features a built in Stage Select option that allows players to save and resume progress mid-game, has adjustable difficulty settings, and includes unlockable car customization options. Additionally, players are able to choose from a number of real-life arcade cabinets wherein everything from the appearance to the environmental sounds of the specific cabinet are recreated, providing a true and authentic arcade experience. ",
+  "release_date_on_eshop": "2015-03-12",
+  "product_code": "CTR-N-JYRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

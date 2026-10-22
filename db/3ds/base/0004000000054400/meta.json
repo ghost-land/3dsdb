@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000054400",
-    "uid": "50010000007379",
-    "name": "3D Classics: TwinBee™",
-    "formal_name": "3D Classics: TwinBee™",
-    "description": "A hit sensation back in the day, this vertical-scrolling arcade game only made its release on the Famicom. Now, for the first time ever in North America, 3D Classics: TwinBee presents the old shooter along with a new 3D look for your enjoyment! \n<br><br>\nGuide the spacecraft, TwinBee, as you dodge and destroy waves of aerial and ground enemies. If you get hit and lose both of your ship's arms, find an ambulance for repairs quickly! Shoot through the clouds to uncover bells. Collect these for extra points, or continue to shoot at them to gain different upgrades for your ship! Additional power-ups can also be collected from the ground! Fly high in the sky with your anthropomorphic spacecraft in this new release of a classic!",
-    "release_date_on_eshop": "2011-09-22",
-    "product_code": "CTR-N-SACE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000054400",
+  "uid": "50010000007379",
+  "name": "3D Classics: TwinBee™",
+  "formal_name": "3D Classics: TwinBee™",
+  "description": "A hit sensation back in the day, this vertical-scrolling arcade game only made its release on the Famicom. Now, for the first time ever in North America, 3D Classics: TwinBee presents the old shooter along with a new 3D look for your enjoyment! \n<br><br>\nGuide the spacecraft, TwinBee, as you dodge and destroy waves of aerial and ground enemies. If you get hit and lose both of your ship's arms, find an ambulance for repairs quickly! Shoot through the clouds to uncover bells. Collect these for extra points, or continue to shoot at them to gain different upgrades for your ship! Additional power-ups can also be collected from the ground! Fly high in the sky with your anthropomorphic spacecraft in this new release of a classic!",
+  "release_date_on_eshop": "2011-09-22",
+  "product_code": "CTR-N-SACE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

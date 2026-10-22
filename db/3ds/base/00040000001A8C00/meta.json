@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001A8C00",
-    "uid": "50010000041161",
-    "name": "ニャニャントモリ",
-    "formal_name": "ニャニャントモリ",
-    "description": "ニャニャントモリは、同じネコを繋げてあげるパズルゲーム。\n<br>ネコは列でうごくから、うまく動かしてコンボを狙おう。\n<br>\n<br>画面にいるすべてのネコを消してあげるとクリアになるよ。\n<br>\n<br>プレイ結果によって、ネコの「めいげん」をゲットできるぞ。\n<br>ぜんぶの「めいげん」を集められるかな？",
-    "release_date_on_eshop": "2016-08-31",
-    "product_code": "CTR-N-KNBJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001A8C00",
+  "uid": "50010000041161",
+  "name": "ニャニャントモリ",
+  "formal_name": "ニャニャントモリ",
+  "description": "ニャニャントモリは、同じネコを繋げてあげるパズルゲーム。\n<br>ネコは列でうごくから、うまく動かしてコンボを狙おう。\n<br>\n<br>画面にいるすべてのネコを消してあげるとクリアになるよ。\n<br>\n<br>プレイ結果によって、ネコの「めいげん」をゲットできるぞ。\n<br>ぜんぶの「めいげん」を集められるかな？",
+  "release_date_on_eshop": "2016-08-31",
+  "product_code": "CTR-N-KNBJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

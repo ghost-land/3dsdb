@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B435445",
-    "uid": "50010000000586",
-    "name": "Chess Challenge!",
-    "formal_name": "Chess Challenge!",
-    "description": "Patience will be key in order to score big in Chess Challenge! Perfect your chess skills playing against the computer in multiple difficulty modes, or play against your friends in either shared or wireless play via DS Wireless Communication.\n\nStart off practicing with some casual games and work your way up in fully ELO rated matches. You’ll even be able to track all of your gameplay stats—win, lose or draw! Chess Challenge! will keep both novice and expert players glued to the screen for hours!\n",
-    "release_date_on_eshop": "2010-05-10",
-    "product_code": "TWL-N-KCTE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435445",
+  "uid": "50010000000586",
+  "name": "Chess Challenge!",
+  "formal_name": "Chess Challenge!",
+  "description": "Patience will be key in order to score big in Chess Challenge! Perfect your chess skills playing against the computer in multiple difficulty modes, or play against your friends in either shared or wireless play via DS Wireless Communication.\n\nStart off practicing with some casual games and work your way up in fully ELO rated matches. You’ll even be able to track all of your gameplay stats—win, lose or draw! Chess Challenge! will keep both novice and expert players glued to the screen for hours!\n",
+  "release_date_on_eshop": "2010-05-10",
+  "product_code": "TWL-N-KCTE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

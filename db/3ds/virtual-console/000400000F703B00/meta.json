@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F703B00",
-    "uid": "50010000040558",
-    "name": "Kirby's Dream Course™",
-    "formal_name": "Kirby's Dream Course™",
-    "description": "Kirby’s Dream Course puts a new spin on golf, with Kirby as the ball and enemies as obstacles! Conquer eight different courses packed with water, spikes, conveyor belts and trampolines.\n<br>\n<br>Roll Kirby to take out enemies, and then head for the hole that appears. Adjust the angle of movement, add spin and power, and also copy the powers of enemies; such as using a parasol to float, ice to freeze water or fire to burn bad guys!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-06-09",
-    "product_code": "KTR-N-UAWE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F703B00",
+  "uid": "50010000040558",
+  "name": "Kirby's Dream Course™",
+  "formal_name": "Kirby's Dream Course™",
+  "description": "Kirby’s Dream Course puts a new spin on golf, with Kirby as the ball and enemies as obstacles! Conquer eight different courses packed with water, spikes, conveyor belts and trampolines.\n<br>\n<br>Roll Kirby to take out enemies, and then head for the hole that appears. Adjust the angle of movement, add spin and power, and also copy the powers of enemies; such as using a parasol to float, ice to freeze water or fire to burn bad guys!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-06-09",
+  "product_code": "KTR-N-UAWE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

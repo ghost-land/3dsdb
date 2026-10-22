@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B475145",
-    "uid": "50010000002481",
-    "name": "Go! Go! Island Rescue!",
-    "formal_name": "Go! Go! Island Rescue!",
-    "description": "This is THE worst holiday ever! The hotels are collapsing, the robot waiters are going berserk, and the picturesque volcanoes are exploding! You’ll be lucky to make it out alive, never mind the suntan! Time to scramble the Rescue Squad!\n\nYou take control of a squad of brave firefighters who have to save the hapless Darwins from all manner of disasters including fire, floods and rampaging robots. To do this you literally throw the Darwins around the levels until they reach a fire exit. Luckily some of the Darwins bounce so don’t worry too much if you drop some of them! And you can always rewind time in case of any fatal accidents!\n\nWith over 50 levels of unique, laugh out loud gameplay, spread across four colorful zones, panic rooms and bonus levels, Go! Go! Island Rescue! will have you hooked for hours.",
-    "release_date_on_eshop": "2010-10-25",
-    "product_code": "TWL-N-KGQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B475145",
+  "uid": "50010000002481",
+  "name": "Go! Go! Island Rescue!",
+  "formal_name": "Go! Go! Island Rescue!",
+  "description": "This is THE worst holiday ever! The hotels are collapsing, the robot waiters are going berserk, and the picturesque volcanoes are exploding! You’ll be lucky to make it out alive, never mind the suntan! Time to scramble the Rescue Squad!\n\nYou take control of a squad of brave firefighters who have to save the hapless Darwins from all manner of disasters including fire, floods and rampaging robots. To do this you literally throw the Darwins around the levels until they reach a fire exit. Luckily some of the Darwins bounce so don’t worry too much if you drop some of them! And you can always rewind time in case of any fatal accidents!\n\nWith over 50 levels of unique, laugh out loud gameplay, spread across four colorful zones, panic rooms and bonus levels, Go! Go! Island Rescue! will have you hooked for hours.",
+  "release_date_on_eshop": "2010-10-25",
+  "product_code": "TWL-N-KGQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "000400000009B800",
-    "uid": "50010000014094",
-    "name": "Dr. Robotnik's\nMean Bean Machine™",
-    "formal_name": "Dr. Robotnik's\nMean Bean Machine™",
-    "description": "The evil Dr. Eggman (AKA Dr.\nRobotnik) has built a machine that will\nturn the poor people of Beanville into\nmachines, but there’s safety in\nnumbers! In this colourful puzzle\ngame, help them out by pairing them\ninto groups of four matching colours\nso they can stick together and escape\ncertain doom!\n<br/><br/>\nFeatures:\n<br/><br/>\n- A challenging puzzle game! Pile up\nfour bean folk of the same colour so\nthey can stick together and escape!\n<br/><br/>\n- Defeat Dr. Eggman’s henchmen in\norder to reach the evil doctor and\nsave Beanville once and for all!",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-GARP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009B800",
+  "uid": "50010000014094",
+  "name": "Dr. Robotnik's\nMean Bean Machine™",
+  "formal_name": "Dr. Robotnik's\nMean Bean Machine™",
+  "description": "The evil Dr. Eggman (AKA Dr.\nRobotnik) has built a machine that will\nturn the poor people of Beanville into\nmachines, but there’s safety in\nnumbers! In this colourful puzzle\ngame, help them out by pairing them\ninto groups of four matching colours\nso they can stick together and escape\ncertain doom!\n<br/><br/>\nFeatures:\n<br/><br/>\n- A challenging puzzle game! Pile up\nfour bean folk of the same colour so\nthey can stick together and escape!\n<br/><br/>\n- Defeat Dr. Eggman’s henchmen in\norder to reach the evil doctor and\nsave Beanville once and for all!",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-GARP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

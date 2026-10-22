@@ -1,42 +1,42 @@
 {
-    "tid": "0004000000132200",
-    "uid": "50010000026546",
-    "name": "Football Up Online",
-    "formal_name": "Football Up Online",
-    "description": "75% off if you own Football Up 3D\non Nintendo 3DS™!*\n<br/><br/>\n* Your Wii U™ and Nintendo 3DS™\nmust be linked with the same Nintendo\nNetwork ID.\n<br/><br/>\nFootball Up, now with online mode!\n<br/><br/>\nFootball Up Online is a funny soccer\ngame that allows you a total control\nof any action of your team players:\nControl the ball, dribble and shoot\nwith effect to confuse the goalkeeper\nand score a goal! Now you can play\nwith your friends and other players\nfrom around the world thanks to the\nnew online multi-player mode!\nBecome a soccer master and make\nyour rival defenders tremble! Each\ncountry has its national team. You can\ncreate your own team with the\nin-game editor: give it the name you\nlike, choose its equipment and the\nmost important, play with your Mii™\nsaved on the Mii Maker™ of your\nNintendo 3DS™.\n<br/><br/>\nFeatures:\n<br/><br/>\n- New online mode.\n<br/><br/>\n- Send Football Up Online\ncompletely by using the \"Download\nPlay\" option.\n<br/><br/>\n- Create your own teams using your\nMii™.\n<br/><br/>\n- 2 Players with a single copy of\nFootball Up Online!\n<br/><br/>\n- Free Control Ball, the ball has\ninertial free movement.\n<br/><br/>\n- Full 3D Stereoscopic.\n<br/><br/>\n- Total control of height, direction\nand effect in each pass and shoot you\nmake.\n<br/><br/>\n- Play the World Cup!",
-    "release_date_on_eshop": "2014-11-06",
-    "product_code": "CTR-N-JULP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Arcade",
-        "Simulation",
-        "Party"
-    ],
-    "features": [
-        "WIFI",
-        "WIFI_PAY",
-        "Supports Internet Play",
-        "Internet Required",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000132200",
+  "uid": "50010000026546",
+  "name": "Football Up Online",
+  "formal_name": "Football Up Online",
+  "description": "75% off if you own Football Up 3D\non Nintendo 3DS™!*\n<br/><br/>\n* Your Wii U™ and Nintendo 3DS™\nmust be linked with the same Nintendo\nNetwork ID.\n<br/><br/>\nFootball Up, now with online mode!\n<br/><br/>\nFootball Up Online is a funny soccer\ngame that allows you a total control\nof any action of your team players:\nControl the ball, dribble and shoot\nwith effect to confuse the goalkeeper\nand score a goal! Now you can play\nwith your friends and other players\nfrom around the world thanks to the\nnew online multi-player mode!\nBecome a soccer master and make\nyour rival defenders tremble! Each\ncountry has its national team. You can\ncreate your own team with the\nin-game editor: give it the name you\nlike, choose its equipment and the\nmost important, play with your Mii™\nsaved on the Mii Maker™ of your\nNintendo 3DS™.\n<br/><br/>\nFeatures:\n<br/><br/>\n- New online mode.\n<br/><br/>\n- Send Football Up Online\ncompletely by using the \"Download\nPlay\" option.\n<br/><br/>\n- Create your own teams using your\nMii™.\n<br/><br/>\n- 2 Players with a single copy of\nFootball Up Online!\n<br/><br/>\n- Free Control Ball, the ball has\ninertial free movement.\n<br/><br/>\n- Full 3D Stereoscopic.\n<br/><br/>\n- Total control of height, direction\nand effect in each pass and shoot you\nmake.\n<br/><br/>\n- Play the World Cup!",
+  "release_date_on_eshop": "2014-11-06",
+  "product_code": "CTR-N-JULP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Arcade",
+    "Simulation",
+    "Party"
+  ],
+  "features": [
+    "WIFI",
+    "WIFI_PAY",
+    "Supports Internet Play",
+    "Internet Required",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,35 +1,35 @@
 {
-    "tid": "000400000015F300",
-    "uid": "50010000030995",
-    "name": "Zombie Incident",
-    "formal_name": "Zombie Incident",
-    "description": "Hamartia, the great citadel, became\nthe symbol of human sin. After\ncenturies of excesses its penance was\ngoing to come. In the darkness of the\nnight, chaos invaded everything.\nBeasts started to scream. Nothing\nwas like before! No one sane would\ngo to that place.\n<br/><br/>\nJoin our heroine to explore the\ncitadel, find the eight golden stars,\nand run away from there!\n<br/><br/>\nFeatures:\n<br/><br/>\n- CoderChild and NeneFranz bring\nyou this adventure, awarded in 2011,\nto your Nintendo 3DS™ consoles.\n<br/>\n- Enjoy an experience full of retro\nflavour all around.\n<br/>\n- With stunning pixel-art graphics\nand an amazing chiptune soundtrack.\n<br/>\n- And so you can get challenged by\nand with your friends, register your\nhigh scores on the online leaderbords!",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-N-JUZP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015F300",
+  "uid": "50010000030995",
+  "name": "Zombie Incident",
+  "formal_name": "Zombie Incident",
+  "description": "Hamartia, the great citadel, became\nthe symbol of human sin. After\ncenturies of excesses its penance was\ngoing to come. In the darkness of the\nnight, chaos invaded everything.\nBeasts started to scream. Nothing\nwas like before! No one sane would\ngo to that place.\n<br/><br/>\nJoin our heroine to explore the\ncitadel, find the eight golden stars,\nand run away from there!\n<br/><br/>\nFeatures:\n<br/><br/>\n- CoderChild and NeneFranz bring\nyou this adventure, awarded in 2011,\nto your Nintendo 3DS™ consoles.\n<br/>\n- Enjoy an experience full of retro\nflavour all around.\n<br/>\n- With stunning pixel-art graphics\nand an amazing chiptune soundtrack.\n<br/>\n- And so you can get challenged by\nand with your friends, register your\nhigh scores on the online leaderbords!",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-N-JUZP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

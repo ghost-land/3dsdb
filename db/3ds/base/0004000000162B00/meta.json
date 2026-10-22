@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000162B00",
-    "uid": "50010000033195",
-    "name": "シバ･カーリーの伝説",
-    "formal_name": "シバ･カーリーの伝説",
-    "description": "誰でも気軽に遊べる快感クサカリアクションゲーム。クサを刈る気持ちよさ、ステージをクリアした時の達成感、やりごたえ十分の全50ステージ+隠しステージ! エンドレスモードでは、ライフが尽きるまで、思いっきりクサが刈りまくれます。テクニックと頭脳を駆使して、あなたならではの刈りテクニックで遊んでください。",
-    "release_date_on_eshop": "2015-05-13",
-    "product_code": "CTR-N-KSBJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル",
-        "ロールプレイング"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000162B00",
+  "uid": "50010000033195",
+  "name": "シバ･カーリーの伝説",
+  "formal_name": "シバ･カーリーの伝説",
+  "description": "誰でも気軽に遊べる快感クサカリアクションゲーム。クサを刈る気持ちよさ、ステージをクリアした時の達成感、やりごたえ十分の全50ステージ+隠しステージ! エンドレスモードでは、ライフが尽きるまで、思いっきりクサが刈りまくれます。テクニックと頭脳を駆使して、あなたならではの刈りテクニックで遊んでください。",
+  "release_date_on_eshop": "2015-05-13",
+  "product_code": "CTR-N-KSBJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル",
+    "ロールプレイング"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

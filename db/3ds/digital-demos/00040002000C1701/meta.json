@@ -1,29 +1,29 @@
 {
-    "tid": "00040002000C1701",
-    "uid": "50010000016555",
-    "name": "AiRace Speed",
-    "formal_name": "AiRace Speed",
-    "description": "Let your Nintendo 3DSâ„¢ discover the true meaning of speed and adrenaline with AiRace Speed.\n<br><br>\nTake the challenge and pilot the most advanced and powerful jets as you compete to beat your best time. Race on stunning high-speed tracks featuring extremely difficult tunnels, spectacular halls and hidden shortcuts.\n<br><br>\nTake speed to a whole new level and enjoy a frantic new gaming experience:\n<br><br>\n Take the challenge - fly extreme speeds across 18 adrenaline-fueled tracks \n Stunning environments packed with challenging obstacles, tunnels, shortcuts and more \n Take control of one of 5 high-speed, futuristic jets powered with advanced technology\n High-performance graphics and immersive 3D effects that put you in the middle of the action\n Compete against fellow competitors around the world in online leaderboards\n Fantastic replay value with special achievements to be unlocked\n Third game of the successful and highly rated AiRace series\n",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-N-JARE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Arcade"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040002000C1701",
+  "uid": "50010000016555",
+  "name": "AiRace Speed",
+  "formal_name": "AiRace Speed",
+  "description": "Let your Nintendo 3DSâ„¢ discover the true meaning of speed and adrenaline with AiRace Speed.\n<br><br>\nTake the challenge and pilot the most advanced and powerful jets as you compete to beat your best time. Race on stunning high-speed tracks featuring extremely difficult tunnels, spectacular halls and hidden shortcuts.\n<br><br>\nTake speed to a whole new level and enjoy a frantic new gaming experience:\n<br><br>\n Take the challenge - fly extreme speeds across 18 adrenaline-fueled tracks \n Stunning environments packed with challenging obstacles, tunnels, shortcuts and more \n Take control of one of 5 high-speed, futuristic jets powered with advanced technology\n High-performance graphics and immersive 3D effects that put you in the middle of the action\n Compete against fellow competitors around the world in online leaderboards\n Fantastic replay value with special achievements to be unlocked\n Third game of the successful and highly rated AiRace series\n",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-N-JARE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

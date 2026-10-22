@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001BB500",
-    "uid": "50010000042524",
-    "name": "요괴워치 2 특별체험판",
-    "formal_name": "요괴워치 2 특별체험판",
-    "description": "「요괴워치 2 원조/본가」는 요괴가 보이는 신비한 시계 「요괴워치」를 손에 넣은 주인공을 중심으로 펼쳐지는 RPG 게임입니다. 「요괴워치」탄생의 비밀을 찾아 과거 세계로 시간 여행을 하게 되며 마을도 배틀도 요괴도, 모든 것이 파워 업되어 더욱 즐거워졌습니다.\n",
-    "release_date_on_eshop": "2017-03-17",
-    "product_code": "CTR-N-BYWK",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BB500",
+  "uid": "50010000042524",
+  "name": "요괴워치 2 특별체험판",
+  "formal_name": "요괴워치 2 특별체험판",
+  "description": "「요괴워치 2 원조/본가」는 요괴가 보이는 신비한 시계 「요괴워치」를 손에 넣은 주인공을 중심으로 펼쳐지는 RPG 게임입니다. 「요괴워치」탄생의 비밀을 찾아 과거 세계로 시간 여행을 하게 되며 마을도 배틀도 요괴도, 모든 것이 파워 업되어 더욱 즐거워졌습니다.\n",
+  "release_date_on_eshop": "2017-03-17",
+  "product_code": "CTR-N-BYWK",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

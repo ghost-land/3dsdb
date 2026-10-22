@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000149E00",
-    "uid": "50010000027015",
-    "name": "KORG DSN-12",
-    "formal_name": "KORG DSN-12",
-    "description": "KORG DSN-12 software makes it easy for anyone to enjoy serious sound-creation and song production with analog synthesizers. The software provides 12 monophonic synthesizers. Each one lets you add 3 effects, allowing a broad range of powerful sounds that you would not expect from a game machine. You can make your ideas take shape very quickly, you can enjoy constructing songs in real time while performing in a DJ-like manner. Don't miss the world's first 3D display oscilloscope screen!",
-    "release_date_on_eshop": "2014-10-23",
-    "product_code": "CTR-N-JRWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Music"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000149E00",
+  "uid": "50010000027015",
+  "name": "KORG DSN-12",
+  "formal_name": "KORG DSN-12",
+  "description": "KORG DSN-12 software makes it easy for anyone to enjoy serious sound-creation and song production with analog synthesizers. The software provides 12 monophonic synthesizers. Each one lets you add 3 effects, allowing a broad range of powerful sounds that you would not expect from a game machine. You can make your ideas take shape very quickly, you can enjoy constructing songs in real time while performing in a DJ-like manner. Don't miss the world's first 3D display oscilloscope screen!",
+  "release_date_on_eshop": "2014-10-23",
+  "product_code": "CTR-N-JRWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Music"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

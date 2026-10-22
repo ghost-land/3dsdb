@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B375745",
-    "uid": "50010000010432",
-    "name": "7 Wonders II",
-    "formal_name": "7 Wonders II",
-    "description": "Forgotten cities.  Hidden treasures.  Lavish monuments to gods, love and greed.  You are about to embark on a journey to mystic places that few have ever seen:  the Seven Wonders of the Forgotten World.  Your quest begins at the foot of Stonehenge and continues through sacred temples, architectural masterpieces and forgotten cities.  Only the most skilled and determined voyager will survive to see the world-wide journey's end.  Along the way, you'll see priceless artifacts, ancient relics and architectural feats that the modern world has yet to surpass.  A maze of age-old secrets and unanswered questions awaits you.",
-    "release_date_on_eshop": "2012-06-14",
-    "product_code": "TWL-N-K7WE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B375745",
+  "uid": "50010000010432",
+  "name": "7 Wonders II",
+  "formal_name": "7 Wonders II",
+  "description": "Forgotten cities.  Hidden treasures.  Lavish monuments to gods, love and greed.  You are about to embark on a journey to mystic places that few have ever seen:  the Seven Wonders of the Forgotten World.  Your quest begins at the foot of Stonehenge and continues through sacred temples, architectural masterpieces and forgotten cities.  Only the most skilled and determined voyager will survive to see the world-wide journey's end.  Along the way, you'll see priceless artifacts, ancient relics and architectural feats that the modern world has yet to surpass.  A maze of age-old secrets and unanswered questions awaits you.",
+  "release_date_on_eshop": "2012-06-14",
+  "product_code": "TWL-N-K7WE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

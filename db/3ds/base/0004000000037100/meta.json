@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000037100",
-    "uid": "50010000007931",
-    "name": "Crush™3D",
-    "formal_name": "Crush™3D",
-    "description": "CRUSH™3D - A puzzle with another dimension.\n<br><br>\nReinvented for the Nintendo 3DS, CRUSH™3D is the unique platform game that gives you the ability to change perspective from 2D to 3D as you try to solve brain-teasing puzzles.\n<br><br>\nCRUSH™3D tells the story of Danny, an inquisitive character who volunteers to test his friend’s amazing C.R.U.S.H. machine.\n<br><br>\nDozens of levels<br>\nOver 50 levels of mind stretching puzzles spread across four stunning environments, each recreating a specific aspect of Danny’s inner world.\n<br><br>\nNever get stuck!<br>\nCome to grips with the game via an all new tutorial and hint system that help you learn the ropes of CRUSH™3D and reveal hints whenever you’re stuck in a level.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ACRE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Cartoon Violence",
-        "Animated Blood"
-    ]
+  "tid": "0004000000037100",
+  "uid": "50010000007931",
+  "name": "Crush™3D",
+  "formal_name": "Crush™3D",
+  "description": "CRUSH™3D - A puzzle with another dimension.\n<br><br>\nReinvented for the Nintendo 3DS, CRUSH™3D is the unique platform game that gives you the ability to change perspective from 2D to 3D as you try to solve brain-teasing puzzles.\n<br><br>\nCRUSH™3D tells the story of Danny, an inquisitive character who volunteers to test his friend’s amazing C.R.U.S.H. machine.\n<br><br>\nDozens of levels<br>\nOver 50 levels of mind stretching puzzles spread across four stunning environments, each recreating a specific aspect of Danny’s inner world.\n<br><br>\nNever get stuck!<br>\nCome to grips with the game via an all new tutorial and hint system that help you learn the ropes of CRUSH™3D and reveal hints whenever you’re stuck in a level.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ACRE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Animated Blood"
+  ]
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "000400000018E800",
-    "uid": "50010000040377",
-    "name": "BOXBOXBOY!™",
-    "formal_name": "BOXBOXBOY!™",
-    "description": "It’s time to think outside the box once again. Our boxy hero, Qbby, has a new power that lets him create TWO sets of boxes. He’ll put every box to use to survive perilous traps across more than 120 puzzling levels. Learn new tricks and box formations to get past obstacles like switches, spikes and even lasers! If you’ve played the critically-acclaimed first game, BOXBOY!, every costume earned can be carried over into BOXBOXBOY!",
-    "release_date_on_eshop": "2016-06-30",
-    "product_code": "CTR-N-KCAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018E800",
+  "uid": "50010000040377",
+  "name": "BOXBOXBOY!™",
+  "formal_name": "BOXBOXBOY!™",
+  "description": "It’s time to think outside the box once again. Our boxy hero, Qbby, has a new power that lets him create TWO sets of boxes. He’ll put every box to use to survive perilous traps across more than 120 puzzling levels. Learn new tricks and box formations to get past obstacles like switches, spikes and even lasers! If you’ve played the critically-acclaimed first game, BOXBOY!, every costume earned can be carried over into BOXBOXBOY!",
+  "release_date_on_eshop": "2016-06-30",
+  "product_code": "CTR-N-KCAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

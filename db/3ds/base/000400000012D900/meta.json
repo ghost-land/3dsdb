@@ -1,30 +1,30 @@
 {
-    "tid": "000400000012D900",
-    "uid": "50010000038678",
-    "name": "SteamWorld Heist",
-    "formal_name": "SteamWorld Heist",
-    "description": "Prepare for boarding! SteamWorld Heist is a space adventure with turn-based tactical shootouts, where you aim in real time and perform awesome bullet-bouncing trick shots.\n<br>\n<br>From the makers of SteamWorld Dig:\n<br>\n<br>Join Captain Piper Faraday, smuggler and occasional pirate, as she recruits a rag-tag team of steam-driven robots and sets out on a daring adventure. With your hearty crew, you’ll board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your robots with unique abilities, weapons - and even stylish hats!\n<br>\n<br>Key features\n<br>\n<br>Turn-based strategy focused on skill rather than chance\n<br>Free aiming lets you perform clever trick shots\n<br>Master 100+ weapons\n<br>Kind to newcomers, deep and challenging for veterans\n<br>Randomly generated levels\n<br>15-20 hours of playtime, followed by New Game+\n<br>Steampunk tunes by legendary Steam Powered Giraffe\n<br>Fearsome bosses and a playful narrative\n<br>60 fps and C Stick support on New Nintendo 3DS and New Nintendo 3DS XL",
-    "release_date_on_eshop": "2015-12-10",
-    "product_code": "CTR-N-JY5E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Action",
-        "Shooter",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
-    "descriptors": []
+  "tid": "000400000012D900",
+  "uid": "50010000038678",
+  "name": "SteamWorld Heist",
+  "formal_name": "SteamWorld Heist",
+  "description": "Prepare for boarding! SteamWorld Heist is a space adventure with turn-based tactical shootouts, where you aim in real time and perform awesome bullet-bouncing trick shots.\n<br>\n<br>From the makers of SteamWorld Dig:\n<br>\n<br>Join Captain Piper Faraday, smuggler and occasional pirate, as she recruits a rag-tag team of steam-driven robots and sets out on a daring adventure. With your hearty crew, you’ll board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your robots with unique abilities, weapons - and even stylish hats!\n<br>\n<br>Key features\n<br>\n<br>Turn-based strategy focused on skill rather than chance\n<br>Free aiming lets you perform clever trick shots\n<br>Master 100+ weapons\n<br>Kind to newcomers, deep and challenging for veterans\n<br>Randomly generated levels\n<br>15-20 hours of playtime, followed by New Game+\n<br>Steampunk tunes by legendary Steam Powered Giraffe\n<br>Fearsome bosses and a playful narrative\n<br>60 fps and C Stick support on New Nintendo 3DS and New Nintendo 3DS XL",
+  "release_date_on_eshop": "2015-12-10",
+  "product_code": "CTR-N-JY5E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Action",
+    "Shooter",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
+  "descriptors": []
 }

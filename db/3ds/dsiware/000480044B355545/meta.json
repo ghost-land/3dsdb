@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B355545",
-    "uid": "50010000039335",
-    "name": "Crazy Train",
-    "formal_name": "Crazy Train",
-    "description": "Crazy Train is an easy to learn and hard to master puzzle game that's a highly addictive. Put on your thinking cap because hopeless train director Leon Steeltrack needs your help sending passenger and cargo trains to their correct stations! Don’t get \"sidetracked\"... as you need to make sure your trains don’t crash.\n<br><br>\nJust when you think you got the hang of it, the pace increases as the speed of trains and their frequency in which they enter the game field becomes fast and furious. All of a sudden... It's railroad madness!\n<br><br>\nJump into story mode where there are over 50 levels to complete. Or take part in challenge mode where the difficulty and speed is ever increasing.\n<br><br>\nWith the proper concentration and practice you will become a master engineer!",
-    "release_date_on_eshop": "2016-01-28",
-    "product_code": "TWL-N-K5UE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Action",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B355545",
+  "uid": "50010000039335",
+  "name": "Crazy Train",
+  "formal_name": "Crazy Train",
+  "description": "Crazy Train is an easy to learn and hard to master puzzle game that's a highly addictive. Put on your thinking cap because hopeless train director Leon Steeltrack needs your help sending passenger and cargo trains to their correct stations! Don’t get \"sidetracked\"... as you need to make sure your trains don’t crash.\n<br><br>\nJust when you think you got the hang of it, the pace increases as the speed of trains and their frequency in which they enter the game field becomes fast and furious. All of a sudden... It's railroad madness!\n<br><br>\nJump into story mode where there are over 50 levels to complete. Or take part in challenge mode where the difficulty and speed is ever increasing.\n<br><br>\nWith the proper concentration and practice you will become a master engineer!",
+  "release_date_on_eshop": "2016-01-28",
+  "product_code": "TWL-N-K5UE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Action",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

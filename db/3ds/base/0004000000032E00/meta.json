@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000032E00",
-    "uid": "50010000000094",
-    "name": "スーパーモンキーボール3D",
-    "formal_name": "スーパーモンキーボール3D",
-    "description": "『スーパーモンキーボール 3D』は、パズルアクション、レース、バトルロイヤルと、まったく違うジャンルのゲームが1本で楽しめます。アクションでは2種類の操作が選べ、レースとバトルでは、ソフト1枚で4人までの対戦も可能!!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASMJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "レース",
-        "格闘"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "ダウンロードプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000032E00",
+  "uid": "50010000000094",
+  "name": "スーパーモンキーボール3D",
+  "formal_name": "スーパーモンキーボール3D",
+  "description": "『スーパーモンキーボール 3D』は、パズルアクション、レース、バトルロイヤルと、まったく違うジャンルのゲームが1本で楽しめます。アクションでは2種類の操作が選べ、レースとバトルでは、ソフト1枚で4人までの対戦も可能!!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASMJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "レース",
+    "格闘"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "ダウンロードプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

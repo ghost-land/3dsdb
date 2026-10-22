@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000152400",
-    "uid": "50010000030435",
-    "name": "3D Fantasy Zone",
-    "formal_name": "3D Fantasy Zone",
-    "description": "3D Fantasy Zone™ is the popular\n<br>scrolling shooter, first released for the\n<br>SEGA System 16 board in 1986, in\n<br>which players control a sentient\n<br>spaceship named Opa-Opa to fight\n<br>bizarre invader enemies. The\n<br>re-mastered version combines\n<br>stereoscopic 3D visuals with a host of\n<br>additional features to deliver cutting\n<br>edge gameplay with a classic feel.\n<br>Additional features include: adjustable\n<br>difficulty settings, the ability to save\n<br>your game for later review, inclusion\n<br>of both the Japanese and Overseas\n<br>versions of the original game, a Stage\n<br>Select feature that allows players to\n<br>save and resume progress mid-game.\n<br>3D Fantasy Zone™ also offers players\n<br>an unlockable mode with new\n<br>weaponry and gameplay and an\n<br>original song called UPA-UPA.",
-    "release_date_on_eshop": "2015-02-12",
-    "product_code": "CTR-N-JF8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000152400",
+  "uid": "50010000030435",
+  "name": "3D Fantasy Zone",
+  "formal_name": "3D Fantasy Zone",
+  "description": "3D Fantasy Zone™ is the popular\n<br>scrolling shooter, first released for the\n<br>SEGA System 16 board in 1986, in\n<br>which players control a sentient\n<br>spaceship named Opa-Opa to fight\n<br>bizarre invader enemies. The\n<br>re-mastered version combines\n<br>stereoscopic 3D visuals with a host of\n<br>additional features to deliver cutting\n<br>edge gameplay with a classic feel.\n<br>Additional features include: adjustable\n<br>difficulty settings, the ability to save\n<br>your game for later review, inclusion\n<br>of both the Japanese and Overseas\n<br>versions of the original game, a Stage\n<br>Select feature that allows players to\n<br>save and resume progress mid-game.\n<br>3D Fantasy Zone™ also offers players\n<br>an unlockable mode with new\n<br>weaponry and gameplay and an\n<br>original song called UPA-UPA.",
+  "release_date_on_eshop": "2015-02-12",
+  "product_code": "CTR-N-JF8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

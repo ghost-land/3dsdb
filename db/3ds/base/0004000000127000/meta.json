@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000127000",
-    "uid": "50010000023155",
-    "name": "Color Zen Kids",
-    "formal_name": "Color Zen Kids",
-    "description": "For your own Zen masters in training,\nColor Zen Kids is a fun new twist\non the critically acclaimed puzzle\ngame. With simpler puzzles, larger\nshapes, and a kid-friendly animal\ntheme, it's a great way to teach\nproblem solving with a game they\nwon't want to put down. \n<br/><br/>\nNow everyone in the family can\nfind their way, with Color Zen Kids!\n<br/><br/>\nGame features:\n<br/><br/>\nThe fun of Color Zen, with easier\npuzzles and fun animal shapes\n<br/><br/>\n100 levels to solve, with hours of\nreplay value\n<br/><br/>\nOriginal soundtrack by Steve Woodzell",
-    "release_date_on_eshop": "2014-06-19",
-    "product_code": "CTR-N-JZKP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000127000",
+  "uid": "50010000023155",
+  "name": "Color Zen Kids",
+  "formal_name": "Color Zen Kids",
+  "description": "For your own Zen masters in training,\nColor Zen Kids is a fun new twist\non the critically acclaimed puzzle\ngame. With simpler puzzles, larger\nshapes, and a kid-friendly animal\ntheme, it's a great way to teach\nproblem solving with a game they\nwon't want to put down. \n<br/><br/>\nNow everyone in the family can\nfind their way, with Color Zen Kids!\n<br/><br/>\nGame features:\n<br/><br/>\nThe fun of Color Zen, with easier\npuzzles and fun animal shapes\n<br/><br/>\n100 levels to solve, with hours of\nreplay value\n<br/><br/>\nOriginal soundtrack by Steve Woodzell",
+  "release_date_on_eshop": "2014-06-19",
+  "product_code": "CTR-N-JZKP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

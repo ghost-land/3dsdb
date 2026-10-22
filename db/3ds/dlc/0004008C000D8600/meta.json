@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C000D8600",
-    "uid": "",
-    "name": "THE 歩兵アドオン",
-    "formal_name": "THE 歩兵アドオン",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-JH3J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C000D8600",
+  "uid": "",
+  "name": "THE 歩兵アドオン",
+  "formal_name": "THE 歩兵アドオン",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-JH3J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "D3 PUBLISHER",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

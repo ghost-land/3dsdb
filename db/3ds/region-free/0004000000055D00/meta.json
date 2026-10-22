@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000055D00",
-    "uid": "50010000014807",
-    "name": "Pokémon™ X",
-    "formal_name": "Pokémon™ X",
-    "description": "A breathtaking 3D world awaits as\nyou begin your adventure in Pokémon\nX, exclusively on Nintendo 3DS.\nJourney to the Kalos Region, a land\nsteeped in mystery, as you take your\nfirst steps into the next evolution of\nPokémon and choose from three\nnewly discovered starter Pokémon!",
-    "release_date_on_eshop": "2013-10-12",
-    "product_code": "CTR-N-EKJA",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Region Free",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000055D00",
+  "uid": "50010000014807",
+  "name": "Pokémon™ X",
+  "formal_name": "Pokémon™ X",
+  "description": "A breathtaking 3D world awaits as\nyou begin your adventure in Pokémon\nX, exclusively on Nintendo 3DS.\nJourney to the Kalos Region, a land\nsteeped in mystery, as you take your\nfirst steps into the next evolution of\nPokémon and choose from three\nnewly discovered starter Pokémon!",
+  "release_date_on_eshop": "2013-10-12",
+  "product_code": "CTR-N-EKJA",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Region Free",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

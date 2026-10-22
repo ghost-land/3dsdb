@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001C7400",
-    "uid": "50010000042915",
-    "name": "Metroid™: Samus Returns\nAnnouncement Trailer",
-    "formal_name": "Metroid™: Samus Returns\nAnnouncement Trailer",
-    "description": "Experience the immersive 3D visuals of Metroid™: Samus Returns! In this game, you brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. This masterful reimagining of her Game Boy™ adventure features classic Metroid gameplay along with a wealth of exciting new content sure to please new and veteran fans alike. \n<br>\n<br>*This trailer was first shown during E3 2017.",
-    "release_date_on_eshop": "2017-06-13",
-    "product_code": "CTR-N-SQHE",
-    "platform_name": "Downloadable Video",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C7400",
+  "uid": "50010000042915",
+  "name": "Metroid™: Samus Returns\nAnnouncement Trailer",
+  "formal_name": "Metroid™: Samus Returns\nAnnouncement Trailer",
+  "description": "Experience the immersive 3D visuals of Metroid™: Samus Returns! In this game, you brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. This masterful reimagining of her Game Boy™ adventure features classic Metroid gameplay along with a wealth of exciting new content sure to please new and veteran fans alike. \n<br>\n<br>*This trailer was first shown during E3 2017.",
+  "release_date_on_eshop": "2017-06-13",
+  "product_code": "CTR-N-SQHE",
+  "platform_name": "Downloadable Video",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

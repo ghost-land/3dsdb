@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000128900",
-    "uid": "50010000021815",
-    "name": "3D アウトラン",
-    "formal_name": "3D アウトラン",
-    "description": "ヨーロッパの美しい風景の中を、名曲に乗せてスポーツカーで駆けめぐる、元祖ドライブゲームが立体視に対応して復活! 今回の移植にあたって新車を追加、5種類のゴールで手に入る4つの追加パーツでカスタマイズできます。BGMも新たに2曲が加わり、全5曲から選択できるようになりました。",
-    "release_date_on_eshop": "2014-04-23",
-    "product_code": "CTR-N-JYRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000128900",
+  "uid": "50010000021815",
+  "name": "3D アウトラン",
+  "formal_name": "3D アウトラン",
+  "description": "ヨーロッパの美しい風景の中を、名曲に乗せてスポーツカーで駆けめぐる、元祖ドライブゲームが立体視に対応して復活! 今回の移植にあたって新車を追加、5種類のゴールで手に入る4つの追加パーツでカスタマイズできます。BGMも新たに2曲が加わり、全5曲から選択できるようになりました。",
+  "release_date_on_eshop": "2014-04-23",
+  "product_code": "CTR-N-JYRJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000081100",
-    "uid": "50010000009727",
-    "name": "Colors! 3D",
-    "formal_name": "Colors! 3D",
-    "description": "Colors! 3D is a simple yet robust painting application that combines ease of use and powerful painting tools. Based on modern painting techniques originally developed for professional drawing tablets, Colors! 3D is tailored for the Nintendo 3DS system and caters to everyone from serious artists to aimless doodlers. Whether you are looking to sketch, paint, or draw up your next plans for world domination, Colors! 3D is the perfect digital sketchbook.\n<br><br>\nCreate and view your own 3D paintings for the very first time<br>\nConnect to the online Colors! 3D gallery to share and celebrate your works with the world<br>\nPaint with a friend on a shared canvas using Nintendo 3DS Local Play<br>\nFor those who like to stay within the lines, Colors! 3D comes with an assortment of coloring pages<br>\n<br>\nUpdate Includes:<br>\nFollow your favorite artists in the gallery to make sure you don’t miss any of their paintings<br>\nCustomize your Nintendo 3DS button setup to streamline your painting flow<br>\nUse the new search-bar to easily find paintings of your favorite topics<br>\nFilter paintings in the gallery based on if they used a reference photo not – only want to see original works? No problem<br>\nSee what tools you and others used to create a painting – and find out who spent over 30 hours on a single work!<br>\nGet news directly in Colors! 3D about everything from gallery improvements to painting contests<br>\nMake your own gallery page more individual by customizing it with a message and a profile picture<br>\nTag your paintings with the new #tags system for other users to easily find them<br>\nAnd tons (and tons) of other additions and bug-fixes<br>\n",
-    "release_date_on_eshop": "2012-04-05",
-    "product_code": "CTR-N-JCRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [
-        "WIFI",
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "Online Interactions Not Rated by the ESRB\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000081100",
+  "uid": "50010000009727",
+  "name": "Colors! 3D",
+  "formal_name": "Colors! 3D",
+  "description": "Colors! 3D is a simple yet robust painting application that combines ease of use and powerful painting tools. Based on modern painting techniques originally developed for professional drawing tablets, Colors! 3D is tailored for the Nintendo 3DS system and caters to everyone from serious artists to aimless doodlers. Whether you are looking to sketch, paint, or draw up your next plans for world domination, Colors! 3D is the perfect digital sketchbook.\n<br><br>\nCreate and view your own 3D paintings for the very first time<br>\nConnect to the online Colors! 3D gallery to share and celebrate your works with the world<br>\nPaint with a friend on a shared canvas using Nintendo 3DS Local Play<br>\nFor those who like to stay within the lines, Colors! 3D comes with an assortment of coloring pages<br>\n<br>\nUpdate Includes:<br>\nFollow your favorite artists in the gallery to make sure you don’t miss any of their paintings<br>\nCustomize your Nintendo 3DS button setup to streamline your painting flow<br>\nUse the new search-bar to easily find paintings of your favorite topics<br>\nFilter paintings in the gallery based on if they used a reference photo not – only want to see original works? No problem<br>\nSee what tools you and others used to create a painting – and find out who spent over 30 hours on a single work!<br>\nGet news directly in Colors! 3D about everything from gallery improvements to painting contests<br>\nMake your own gallery page more individual by customizing it with a message and a profile picture<br>\nTag your paintings with the new #tags system for other users to easily find them<br>\nAnd tons (and tons) of other additions and bug-fixes<br>\n",
+  "release_date_on_eshop": "2012-04-05",
+  "product_code": "CTR-N-JCRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [
+    "WIFI",
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "Online Interactions Not Rated by the ESRB\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

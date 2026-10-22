@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000A4900",
-    "uid": "50010000016053",
-    "name": "Ninja Gaiden II™:\nThe Dark Sword of Chaos",
-    "formal_name": "Ninja Gaiden II™:\nThe Dark Sword of Chaos",
-    "description": "In this sequel to the original NES™\nNinja Gaiden, return to the role of\nRyu Hayabusa and embark on a\nmission to vanquish a deadly new\nenemy, Ashtar, and destroy the Sword\nof Chaos.\n<br/><br/>\nUse speed, agility and Ninjutsu\nfighting techniques to progress\nthrough multiple stages, battling\nenemies and defeating bosses.\nIncrease Ryu’s powers and recover\nstrength by finding items along the\nway. Ryu can now also create copies\nof himself that constantly follow him,\nrepeating his moves.",
-    "release_date_on_eshop": "2013-08-29",
-    "product_code": "CTR-N-TBKP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A4900",
+  "uid": "50010000016053",
+  "name": "Ninja Gaiden II™:\nThe Dark Sword of Chaos",
+  "formal_name": "Ninja Gaiden II™:\nThe Dark Sword of Chaos",
+  "description": "In this sequel to the original NES™\nNinja Gaiden, return to the role of\nRyu Hayabusa and embark on a\nmission to vanquish a deadly new\nenemy, Ashtar, and destroy the Sword\nof Chaos.\n<br/><br/>\nUse speed, agility and Ninjutsu\nfighting techniques to progress\nthrough multiple stages, battling\nenemies and defeating bosses.\nIncrease Ryu’s powers and recover\nstrength by finding items along the\nway. Ryu can now also create copies\nof himself that constantly follow him,\nrepeating his moves.",
+  "release_date_on_eshop": "2013-08-29",
+  "product_code": "CTR-N-TBKP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

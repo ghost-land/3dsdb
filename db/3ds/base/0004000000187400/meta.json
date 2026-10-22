@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000187400",
-    "uid": "50010000043216",
-    "name": "Worcle Worlds",
-    "formal_name": "Worcle Worlds",
-    "description": "Worcle - short for \"Words in a Circle\" - is a new puzzle game from Lightwood Games.\n<br><br>\nShoot balls into the circle to make words. Create words of three or more letters to clear the balls but watch out for the swirling vortex! Don't let the circle fill up or you'll get sucked in and it's game over.\n<br><br>\nClear the circle completely for bonus points or create cascades of words for high scoring multipliers.\n<br><br>\nJourney through 10 unique game worlds, each with their own rules and letter mixes.\n<br><br>\nTake on a friend in the brand new Battle Mode, using Local Play or Online Play.\n<br><br>\nCompete in online leaderboards that not only track your best score, but also your best words!",
-    "release_date_on_eshop": "2017-10-26",
-    "product_code": "CTR-N-KWLE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000187400",
+  "uid": "50010000043216",
+  "name": "Worcle Worlds",
+  "formal_name": "Worcle Worlds",
+  "description": "Worcle - short for \"Words in a Circle\" - is a new puzzle game from Lightwood Games.\n<br><br>\nShoot balls into the circle to make words. Create words of three or more letters to clear the balls but watch out for the swirling vortex! Don't let the circle fill up or you'll get sucked in and it's game over.\n<br><br>\nClear the circle completely for bonus points or create cascades of words for high scoring multipliers.\n<br><br>\nJourney through 10 unique game worlds, each with their own rules and letter mixes.\n<br><br>\nTake on a friend in the brand new Battle Mode, using Local Play or Online Play.\n<br><br>\nCompete in online leaderboards that not only track your best score, but also your best words!",
+  "release_date_on_eshop": "2017-10-26",
+  "product_code": "CTR-N-KWLE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F709800",
-    "uid": "50010000042541",
-    "name": "CUP CRITTERS",
-    "formal_name": "CUP CRITTERS",
-    "description": "円の縁に配置された2つのバケツ。\n<br>円が回転するのに合わせて、落ちないようにもう片方のバケツにクリーチャーを飛び移らせましょう。\n<br>集中して操作し、クリーチャーをできるだけ生かして、ハイスコアを目指しましょう。\n<br>シンプルなルールですが熱くなれるゲームです。\n<br>Wii U版『CUP CRITTERS』と同時発売です。",
-    "release_date_on_eshop": "2017-04-12",
-    "product_code": "KTR-N-CCRJ",
-    "platform_name": "New 3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル",
-        "トレーニング"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000F709800",
+  "uid": "50010000042541",
+  "name": "CUP CRITTERS",
+  "formal_name": "CUP CRITTERS",
+  "description": "円の縁に配置された2つのバケツ。\n<br>円が回転するのに合わせて、落ちないようにもう片方のバケツにクリーチャーを飛び移らせましょう。\n<br>集中して操作し、クリーチャーをできるだけ生かして、ハイスコアを目指しましょう。\n<br>シンプルなルールですが熱くなれるゲームです。\n<br>Wii U版『CUP CRITTERS』と同時発売です。",
+  "release_date_on_eshop": "2017-04-12",
+  "product_code": "KTR-N-CCRJ",
+  "platform_name": "New 3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル",
+    "トレーニング"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

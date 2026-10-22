@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B545845",
-    "uid": "50010000003572",
-    "name": "High Stakes: Texas Hold'Em",
-    "formal_name": "High Stakes: Texas Hold'Em",
-    "description": "Hudson proudly presents the definitive Texas Hold‘Em game on DSiWare with High Stakes Texas Hold‘Em! High Stakes allows players of any level to enjoy Texas Hold‘Em gameplay. The popular No-Limit rule set used in many tournaments is packed in, so anyone can play with the big boys! With the added functionality of DS Wireless Communications, players can compete with others to test their skills. It’s the core Texas Hold‘Em experience on your Nintendo DSi system; anytime, anywhere!",
-    "release_date_on_eshop": "2009-12-21",
-    "product_code": "TWL-N-KTXE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Sports",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B545845",
+  "uid": "50010000003572",
+  "name": "High Stakes: Texas Hold'Em",
+  "formal_name": "High Stakes: Texas Hold'Em",
+  "description": "Hudson proudly presents the definitive Texas Hold‘Em game on DSiWare with High Stakes Texas Hold‘Em! High Stakes allows players of any level to enjoy Texas Hold‘Em gameplay. The popular No-Limit rule set used in many tournaments is packed in, so anyone can play with the big boys! With the added functionality of DS Wireless Communications, players can compete with others to test their skills. It’s the core Texas Hold‘Em experience on your Nintendo DSi system; anytime, anywhere!",
+  "release_date_on_eshop": "2009-12-21",
+  "product_code": "TWL-N-KTXE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Sports",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

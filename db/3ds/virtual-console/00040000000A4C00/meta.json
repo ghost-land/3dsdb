@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A4C00",
-    "uid": "50010000015634",
-    "name": "Star Soldier",
-    "formal_name": "Star Soldier",
-    "description": "Take control of the starship Caesar\nand defeat the evil Star Brain and its\narmies in this classic NES™ shoot ‘em\nup.\n<br/><br/>\nStar Soldier spawned Hudson Soft’s\nlong-running series of Soldier titles.\nPilot your ship through 16 deadly\nstages across an enormous space\nstation, collecting power capsules to\nincrease your ship’s firepower, speed\nand shields.\n<br/><br/>\nBlast waves of enemies or fly under\nthe space station to avoid incoming\nfire. Conquer each stage to make your\nway to the final confrontation with\nStar Brain.",
-    "release_date_on_eshop": "2013-08-15",
-    "product_code": "CTR-N-TBLP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A4C00",
+  "uid": "50010000015634",
+  "name": "Star Soldier",
+  "formal_name": "Star Soldier",
+  "description": "Take control of the starship Caesar\nand defeat the evil Star Brain and its\narmies in this classic NES™ shoot ‘em\nup.\n<br/><br/>\nStar Soldier spawned Hudson Soft’s\nlong-running series of Soldier titles.\nPilot your ship through 16 deadly\nstages across an enormous space\nstation, collecting power capsules to\nincrease your ship’s firepower, speed\nand shields.\n<br/><br/>\nBlast waves of enemies or fly under\nthe space station to avoid incoming\nfire. Conquer each stage to make your\nway to the final confrontation with\nStar Brain.",
+  "release_date_on_eshop": "2013-08-15",
+  "product_code": "CTR-N-TBLP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

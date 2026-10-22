@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001C0A00",
-    "uid": "50010000043417",
-    "name": "マリオパーティ100 \nミニゲームコレクション",
-    "formal_name": "マリオパーティ100 \nミニゲームコレクション",
-    "description": "1998年にニンテンドウ64で発売された『マリオパーティ』からWii U『マリオパーティ10』までの10タイトルに収録された、700種類以上のミニゲームの中から、100種類を厳選!\n<br>ひとりで気ままに、みんなで激アツ、ソフト1本あれば4人まで遊べる!",
-    "release_date_on_eshop": "2017-12-28",
-    "product_code": "CTR-N-BHRJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "レース"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "ダウンロードプレイ対応",
-        "amiibo",
-        "New 3DS対応",
-        "3DS拡張スライドパッド"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C0A00",
+  "uid": "50010000043417",
+  "name": "マリオパーティ100 \nミニゲームコレクション",
+  "formal_name": "マリオパーティ100 \nミニゲームコレクション",
+  "description": "1998年にニンテンドウ64で発売された『マリオパーティ』からWii U『マリオパーティ10』までの10タイトルに収録された、700種類以上のミニゲームの中から、100種類を厳選!\n<br>ひとりで気ままに、みんなで激アツ、ソフト1本あれば4人まで遊べる!",
+  "release_date_on_eshop": "2017-12-28",
+  "product_code": "CTR-N-BHRJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "レース"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "ダウンロードプレイ対応",
+    "amiibo",
+    "New 3DS対応",
+    "3DS拡張スライドパッド"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

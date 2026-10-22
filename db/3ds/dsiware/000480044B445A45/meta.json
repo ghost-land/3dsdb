@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B445A45",
-    "uid": "50010000001781",
-    "name": "Trajectile™",
-    "formal_name": "Trajectile™",
-    "description": "Trajectile is a puzzle game that’s as much about firepower as it is about brainpower, requiring you to line up your shot and launch a flurry of missiles at enemy targets. Three types of missiles are at your disposal, each one with its own characteristics—but all of them can bounce off walls on their path to smash, blast, or drill through enemies and blocks. Along the way, you’ll find item blocks just waiting to be destroyed so that you can obtain special power-ups...and cause even more destruction. Be careful though, as missile type and position are predetermined and you get only a limited number of launches per stage. Complete multiple classes containing numerous individual stages, earning medals when you clear stages in fewer than the given number of turns. Are you ready to take aim at becoming a Trajectile master?",
-    "release_date_on_eshop": "2010-01-04",
-    "product_code": "TWL-N-KDZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445A45",
+  "uid": "50010000001781",
+  "name": "Trajectile™",
+  "formal_name": "Trajectile™",
+  "description": "Trajectile is a puzzle game that’s as much about firepower as it is about brainpower, requiring you to line up your shot and launch a flurry of missiles at enemy targets. Three types of missiles are at your disposal, each one with its own characteristics—but all of them can bounce off walls on their path to smash, blast, or drill through enemies and blocks. Along the way, you’ll find item blocks just waiting to be destroyed so that you can obtain special power-ups...and cause even more destruction. Be careful though, as missile type and position are predetermined and you get only a limited number of launches per stage. Complete multiple classes containing numerous individual stages, earning medals when you clear stages in fewer than the given number of turns. Are you ready to take aim at becoming a Trajectile master?",
+  "release_date_on_eshop": "2010-01-04",
+  "product_code": "TWL-N-KDZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

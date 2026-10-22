@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B435956",
-    "uid": "50010000002762",
-    "name": "Calculator",
-    "formal_name": "Calculator",
-    "description": "Calculator handles 135 measurement\nunits and constants of most types\nwhich ordinary people use every day,\nincluding length, weight, temperature,\nspeed, volume, area, and time.<br>\n<br>\nFeatures:<br>\n<br>\n- The basic and scientific calculators<br>\n<br>\n- Calculate with degrees or radians<br>\n<br>\n- Supports decimal, hexadecimal,\noctal, binary numbers<br>\n<br>\n- Percent button will behave just like\non a basic calculator<br>\n<br>\n- Memory buttons will also behave\njust like on a basic calculator<br>\n<br>\n- Database of 135 most popular\nunits and physical constants<br>\n<br>\n- Reverse direction of any\nconversion<br>\n<br>\n- You punch in digits and Calculator\ndoes the conversion on the fly",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KCYV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435956",
+  "uid": "50010000002762",
+  "name": "Calculator",
+  "formal_name": "Calculator",
+  "description": "Calculator handles 135 measurement\nunits and constants of most types\nwhich ordinary people use every day,\nincluding length, weight, temperature,\nspeed, volume, area, and time.<br>\n<br>\nFeatures:<br>\n<br>\n- The basic and scientific calculators<br>\n<br>\n- Calculate with degrees or radians<br>\n<br>\n- Supports decimal, hexadecimal,\noctal, binary numbers<br>\n<br>\n- Percent button will behave just like\non a basic calculator<br>\n<br>\n- Memory buttons will also behave\njust like on a basic calculator<br>\n<br>\n- Database of 135 most popular\nunits and physical constants<br>\n<br>\n- Reverse direction of any\nconversion<br>\n<br>\n- You punch in digits and Calculator\ndoes the conversion on the fly",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KCYV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

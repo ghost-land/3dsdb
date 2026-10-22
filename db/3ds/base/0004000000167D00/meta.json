@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000167D00",
-    "uid": "50010000032596",
-    "name": "Shizuku Memory",
-    "formal_name": "Shizuku Memory",
-    "description": "『Shizuku memory』は、水滴(Shizuku)を操作し、パズルを解いていく「純粋思考型パズル」です。\n<br>\n<br>『Shizuku』の続編にあたる本作では、さびれた家を背景に、記憶をたどる、パズルの旅に出ます。\n<br>\n<br>アクション要素無し、タイムリミット無しの、完全純粋思考型パズル。\n<br>\n<br>たまには、こんなゆっくりまったりなパズルで、まったりしましょう。",
-    "release_date_on_eshop": "2015-04-22",
-    "product_code": "CTR-N-JZDJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "0004000000167D00",
+  "uid": "50010000032596",
+  "name": "Shizuku Memory",
+  "formal_name": "Shizuku Memory",
+  "description": "『Shizuku memory』は、水滴(Shizuku)を操作し、パズルを解いていく「純粋思考型パズル」です。\n<br>\n<br>『Shizuku』の続編にあたる本作では、さびれた家を背景に、記憶をたどる、パズルの旅に出ます。\n<br>\n<br>アクション要素無し、タイムリミット無しの、完全純粋思考型パズル。\n<br>\n<br>たまには、こんなゆっくりまったりなパズルで、まったりしましょう。",
+  "release_date_on_eshop": "2015-04-22",
+  "product_code": "CTR-N-JZDJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

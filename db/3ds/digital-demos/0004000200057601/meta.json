@@ -1,36 +1,36 @@
 {
-    "tid": "0004000200057601",
-    "uid": "50010000010067",
-    "name": "RAYMAN® ORIGINS",
-    "formal_name": "RAYMAN® ORIGINS",
-    "description": "A Massive World: Rayman Origins includes over 60 levels of 2D platforming gameplay.\n<br><br>\nEpic Boss Fights: A giant pink monster with hundreds of eyes. A possessed, mountainous golem...and more!\n<br><br>\nVariety of Gameplay: Rayman Origins is a platformer at its core but also features many elements of action, adventure, shooter and beat-’em-up gameplay.\n<br><br>\nStreetPass Functionality: Taking advantage of StreetPass, you can share your progression, number of collectibles, time played, unlocked achievements, and avatar with others.\n<br><br>\nUnique Approach, Unique Game: Rayman Origins was created by Michel Ancel with a small team of artists and developers to produce not only high-quality graphics and gameplay, but a creative and unique experience.\n<br><br>\nRebirth of a Platforming Legend: It’s been 15 years since the first launch of Rayman. Rayman Origins brings back many of the classic characters, revived in their original 2D form, as well as a whole new world of characters and environments.",
-    "release_date_on_eshop": "2013-03-14",
-    "product_code": "CTR-N-ARME",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Comic Mischief",
-        "Mild Cartoon Violence",
-        "Suggestive Themes"
-    ]
+  "tid": "0004000200057601",
+  "uid": "50010000010067",
+  "name": "RAYMAN® ORIGINS",
+  "formal_name": "RAYMAN® ORIGINS",
+  "description": "A Massive World: Rayman Origins includes over 60 levels of 2D platforming gameplay.\n<br><br>\nEpic Boss Fights: A giant pink monster with hundreds of eyes. A possessed, mountainous golem...and more!\n<br><br>\nVariety of Gameplay: Rayman Origins is a platformer at its core but also features many elements of action, adventure, shooter and beat-’em-up gameplay.\n<br><br>\nStreetPass Functionality: Taking advantage of StreetPass, you can share your progression, number of collectibles, time played, unlocked achievements, and avatar with others.\n<br><br>\nUnique Approach, Unique Game: Rayman Origins was created by Michel Ancel with a small team of artists and developers to produce not only high-quality graphics and gameplay, but a creative and unique experience.\n<br><br>\nRebirth of a Platforming Legend: It’s been 15 years since the first launch of Rayman. Rayman Origins brings back many of the classic characters, revived in their original 2D form, as well as a whole new world of characters and environments.",
+  "release_date_on_eshop": "2013-03-14",
+  "product_code": "CTR-N-ARME",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Comic Mischief",
+    "Mild Cartoon Violence",
+    "Suggestive Themes"
+  ]
 }

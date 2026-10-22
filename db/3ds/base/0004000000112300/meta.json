@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000112300",
-    "uid": "50010000018974",
-    "name": "Cubit The Hardcore Platformer Robot",
-    "formal_name": "Cubit The Hardcore Platformer Robot",
-    "description": "Cubit The Hardcore Platformer Robot is an action-packed platform game, where music plays a very important role.\n<br><br>\nWith only one button to jump, you must help Cubit to go from platform to platform, while you avoid obstacles and enemies through the different scenes of the game.\n<br><br>\nPerhaps you think this makes this game not difficult, right? Well, you are right; this game is not difficult... this game is Hardcore!\n<br><br>\nChoose the path you want to do in each game and reach each of the 3 endings available!!\n<br><br>\nFeatures:<br>\nBeware: This videogame has guest characters from other videogames.<br>\n3 different endings!<br>\n2 game modes: for all types of gamers, as well as Hardcore gamers.<br>\nA soundtrack that will send you back to the dance floor.<br>\n24 challenges to enrol.<br>\nA videogame fully created by just one person!\n<br><br>\nWill you reach the end?",
-    "release_date_on_eshop": "2013-12-26",
-    "product_code": "CTR-N-JQ7E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000112300",
+  "uid": "50010000018974",
+  "name": "Cubit The Hardcore Platformer Robot",
+  "formal_name": "Cubit The Hardcore Platformer Robot",
+  "description": "Cubit The Hardcore Platformer Robot is an action-packed platform game, where music plays a very important role.\n<br><br>\nWith only one button to jump, you must help Cubit to go from platform to platform, while you avoid obstacles and enemies through the different scenes of the game.\n<br><br>\nPerhaps you think this makes this game not difficult, right? Well, you are right; this game is not difficult... this game is Hardcore!\n<br><br>\nChoose the path you want to do in each game and reach each of the 3 endings available!!\n<br><br>\nFeatures:<br>\nBeware: This videogame has guest characters from other videogames.<br>\n3 different endings!<br>\n2 game modes: for all types of gamers, as well as Hardcore gamers.<br>\nA soundtrack that will send you back to the dance floor.<br>\n24 challenges to enrol.<br>\nA videogame fully created by just one person!\n<br><br>\nWill you reach the end?",
+  "release_date_on_eshop": "2013-12-26",
+  "product_code": "CTR-N-JQ7E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4A5045",
-    "uid": "50010000012446",
-    "name": "Jump Trials",
-    "formal_name": "Jump Trials",
-    "description": "Jump Trials will test your control skills to the limit. Run and jump as fast as you can across an obstacle course of platforms to reach the goal within 10 seconds. Each stage is a different challenge with obstacles including spikes, moving platforms and conveyor belts. Fail to reach the goal within 10 seconds or touch a spike and it's game over. \n\nTest yourself over 100 stages of increasing difficulty in Trials Mode, clearing 10 stages at a time before moving up a grade to tackle more demanding stages.\n\nIn Challenge Mode you'll be tested to retrieve three medals before exiting each stage, still within just 10 seconds. You'll be awarded a bronze, silver or gold crown for each stage depending on how many medals you managed to collect. Do you have what it takes to get gold crowns on all 100 stages?",
-    "release_date_on_eshop": "2012-11-15",
-    "product_code": "TWL-N-KJPE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Racing",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4A5045",
+  "uid": "50010000012446",
+  "name": "Jump Trials",
+  "formal_name": "Jump Trials",
+  "description": "Jump Trials will test your control skills to the limit. Run and jump as fast as you can across an obstacle course of platforms to reach the goal within 10 seconds. Each stage is a different challenge with obstacles including spikes, moving platforms and conveyor belts. Fail to reach the goal within 10 seconds or touch a spike and it's game over. \n\nTest yourself over 100 stages of increasing difficulty in Trials Mode, clearing 10 stages at a time before moving up a grade to tackle more demanding stages.\n\nIn Challenge Mode you'll be tested to retrieve three medals before exiting each stage, still within just 10 seconds. You'll be awarded a bronze, silver or gold crown for each stage depending on how many medals you managed to collect. Do you have what it takes to get gold crowns on all 100 stages?",
+  "release_date_on_eshop": "2012-11-15",
+  "product_code": "TWL-N-KJPE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Racing",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

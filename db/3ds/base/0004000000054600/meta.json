@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000054600",
-    "uid": "50010000007997",
-    "name": "3D Classics:\nKirby's Adventure™",
-    "formal_name": "3D Classics: Kirby's Adventure™",
-    "description": "3D Classics: Kirby's Adventure offers you a chance to explore the world of Dream Land in a whole new way!\n<br><br>\nThe landscape comes to life as Kirby™ crosses land, sea, and sky in his quest to restore the Star Rod! After waking from a dreamless sleep, Kirby goes to investigate the Dream Spring only to find that its source of energy has been stolen by King Dedede! Broken and divided across seven worlds, Kirby will need to use his unique ability of stealing enemies' powers to battle his way and restore the pieces of the Star Rod! Without it, how can a hero fight another day if he can't get a good night's sleep?! Embark on this adventure as our beloved pink character tries to save the citizens of Dream Land from a lifetime of terrible nightmares!",
-    "release_date_on_eshop": "2011-11-17",
-    "product_code": "CTR-N-SAFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000054600",
+  "uid": "50010000007997",
+  "name": "3D Classics:\nKirby's Adventure™",
+  "formal_name": "3D Classics: Kirby's Adventure™",
+  "description": "3D Classics: Kirby's Adventure offers you a chance to explore the world of Dream Land in a whole new way!\n<br><br>\nThe landscape comes to life as Kirby™ crosses land, sea, and sky in his quest to restore the Star Rod! After waking from a dreamless sleep, Kirby goes to investigate the Dream Spring only to find that its source of energy has been stolen by King Dedede! Broken and divided across seven worlds, Kirby will need to use his unique ability of stealing enemies' powers to battle his way and restore the pieces of the Star Rod! Without it, how can a hero fight another day if he can't get a good night's sleep?! Embark on this adventure as our beloved pink character tries to save the citizens of Dream Land from a lifetime of terrible nightmares!",
+  "release_date_on_eshop": "2011-11-17",
+  "product_code": "CTR-N-SAFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

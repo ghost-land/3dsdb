@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000C2D00",
-    "uid": "50010000013391",
-    "name": "HarmoKnight™",
-    "formal_name": "HarmoKnight™",
-    "description": "GAME FREAK inc. brings all of the polish players have come to expect from their Pokémon franchise to a brand-new action-packed rhythm game! Use Tempo’s Music Note Staff to beat drums, crash cymbals, and smack enemies through more than 50 levels with unique boss fights.\n<br><br>\nOn your journey, you’ll team up with multiple characters like Lyra, who can slide under obstacles and shoot musical arrows, and Tyko, who can pound out powerful beats with his drums! More challenging speeds and unlockable stages await those locked onto the beat. Feel the music and find your rhythm to save Melodia!\n<br><br>\nA new rhythm-based action game from the makers of Pokémon!<br>\nJump, Hit, and Groove your way through 8 huge worlds<br>\nMore than 50 replayable levels in a digital package<br>\nBob your head to original music",
-    "release_date_on_eshop": "2013-03-28",
-    "product_code": "CTR-N-AQ7E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C2D00",
+  "uid": "50010000013391",
+  "name": "HarmoKnight™",
+  "formal_name": "HarmoKnight™",
+  "description": "GAME FREAK inc. brings all of the polish players have come to expect from their Pokémon franchise to a brand-new action-packed rhythm game! Use Tempo’s Music Note Staff to beat drums, crash cymbals, and smack enemies through more than 50 levels with unique boss fights.\n<br><br>\nOn your journey, you’ll team up with multiple characters like Lyra, who can slide under obstacles and shoot musical arrows, and Tyko, who can pound out powerful beats with his drums! More challenging speeds and unlockable stages await those locked onto the beat. Feel the music and find your rhythm to save Melodia!\n<br><br>\nA new rhythm-based action game from the makers of Pokémon!<br>\nJump, Hit, and Groove your way through 8 huge worlds<br>\nMore than 50 replayable levels in a digital package<br>\nBob your head to original music",
+  "release_date_on_eshop": "2013-03-28",
+  "product_code": "CTR-N-AQ7E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

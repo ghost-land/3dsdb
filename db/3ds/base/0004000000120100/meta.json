@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000120100",
-    "uid": "50010000020779",
-    "name": "3D ファンタジーゾーン\nオパオパブラザーズ",
-    "formal_name": "3D ファンタジーゾーン\nオパオパブラザーズ",
-    "description": "人気を博したファンタジーシューティングが、追加要素を加えて登場! 主人公オパオパは、倒した敵からコインを集め、ショップで武器やエンジンを買ってパワーアップします。新要素である、オパオパの弟「ウパウパ」モードでは、すべての武器は予算が続く限りいつでも使用･変更可能です。",
-    "release_date_on_eshop": "2014-03-19",
-    "product_code": "CTR-N-JF8J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シューティング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000120100",
+  "uid": "50010000020779",
+  "name": "3D ファンタジーゾーン\nオパオパブラザーズ",
+  "formal_name": "3D ファンタジーゾーン\nオパオパブラザーズ",
+  "description": "人気を博したファンタジーシューティングが、追加要素を加えて登場! 主人公オパオパは、倒した敵からコインを集め、ショップで武器やエンジンを買ってパワーアップします。新要素である、オパオパの弟「ウパウパ」モードでは、すべての武器は予算が続く限りいつでも使用･変更可能です。",
+  "release_date_on_eshop": "2014-03-19",
+  "product_code": "CTR-N-JF8J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シューティング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

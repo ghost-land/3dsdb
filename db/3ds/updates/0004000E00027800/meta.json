@@ -1,30 +1,30 @@
 {
-    "tid": "0004000E00027800",
-    "uid": "50010000015093",
-    "name": "StreetPass Mii Plaza\nVer. 5.0",
-    "formal_name": "StreetPass Mii Plaza \nUpdate Ver. 5.0",
-    "description": "StreetPass Mii Plaza is getting a makeover to make it even more fun and exciting.<br>\n<br>\nIf you cannot perform the update from StreetPass Mii Plaza, you can download the update data here.",
-    "release_date_on_eshop": "2016-09-01",
-    "product_code": "CTR-U-HMEE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "This is update data for StreetPass Mii Plaza for Nintendo 3DS.<br>\nNo icon will be displayed in the Nintendo 3DS system's HOME Menu after downloading this data.<br>\nThis data will be listed in the Nintendo 3DS Extra Data under Data Management in System Settings. Please do not delete it.",
-    "descriptors": [
-        "Mild Cartoon Violence"
-    ]
+  "tid": "0004000E00027800",
+  "uid": "50010000015093",
+  "name": "StreetPass Mii Plaza\nVer. 5.0",
+  "formal_name": "StreetPass Mii Plaza \nUpdate Ver. 5.0",
+  "description": "StreetPass Mii Plaza is getting a makeover to make it even more fun and exciting.<br>\n<br>\nIf you cannot perform the update from StreetPass Mii Plaza, you can download the update data here.",
+  "release_date_on_eshop": "2016-09-01",
+  "product_code": "CTR-U-HMEE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "This is update data for StreetPass Mii Plaza for Nintendo 3DS.<br>\nNo icon will be displayed in the Nintendo 3DS system's HOME Menu after downloading this data.<br>\nThis data will be listed in the Nintendo 3DS Extra Data under Data Management in System Settings. Please do not delete it.",
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ]
 }

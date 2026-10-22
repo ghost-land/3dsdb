@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001C9D00",
-    "uid": "50010000043755",
-    "name": "Battleminerz",
-    "formal_name": "Battleminerz",
-    "description": "Battleminerz is an open-world block game with infinite map size and support for all Nintendo 3DS™ systems. \n<br>\n<br>It features:\n<br>Single player Adventure, Creative and Horde Mode.\n<br>Multiplayer Adventure, Creative and Battle mode.\n<br>Internet with anybody, friends only or Local Play.\n<br>Internet Game Chat and messages.\n<br>Character customisation and texture packs.\n<br>New tools, items and weapons to craft.\n<br>Grow crops, ride animals, explore, build and survive!\n<br>\n<br>Become a Miner, Farmer or Adventurer. It's up to you!",
-    "release_date_on_eshop": "2017-12-21",
-    "product_code": "CTR-N-KBXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "First-Person Shooter"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Internet Required",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C9D00",
+  "uid": "50010000043755",
+  "name": "Battleminerz",
+  "formal_name": "Battleminerz",
+  "description": "Battleminerz is an open-world block game with infinite map size and support for all Nintendo 3DS™ systems. \n<br>\n<br>It features:\n<br>Single player Adventure, Creative and Horde Mode.\n<br>Multiplayer Adventure, Creative and Battle mode.\n<br>Internet with anybody, friends only or Local Play.\n<br>Internet Game Chat and messages.\n<br>Character customisation and texture packs.\n<br>New tools, items and weapons to craft.\n<br>Grow crops, ride animals, explore, build and survive!\n<br>\n<br>Become a Miner, Farmer or Adventurer. It's up to you!",
+  "release_date_on_eshop": "2017-12-21",
+  "product_code": "CTR-N-KBXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "First-Person Shooter"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Internet Required",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

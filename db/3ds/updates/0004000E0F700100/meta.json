@@ -1,31 +1,31 @@
 {
-    "tid": "0004000E0F700100",
-    "uid": "50010000032715",
-    "name": "Xenoblade Chronicles™ 3D\nUpdate Ver. 1.0",
-    "formal_name": "Xenoblade Chronicles™ 3D\nUpdate Ver. 1.0",
-    "description": "This is an update for the Xenoblade Chronicles 3D game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Xenoblade Chronicles 3D and a New Nintendo 3DS XL system. Users who purchased the digital version of the game are not required to download the update.\n<br><br>\nUpdate Details: \nFixed the issue in which the background music and certain sounds play in mono regardless of  hardware settings",
-    "release_date_on_eshop": "2015-04-10",
-    "product_code": "KTR-U-CAFE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E0F700100",
+  "uid": "50010000032715",
+  "name": "Xenoblade Chronicles™ 3D\nUpdate Ver. 1.0",
+  "formal_name": "Xenoblade Chronicles™ 3D\nUpdate Ver. 1.0",
+  "description": "This is an update for the Xenoblade Chronicles 3D game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Xenoblade Chronicles 3D and a New Nintendo 3DS XL system. Users who purchased the digital version of the game are not required to download the update.\n<br><br>\nUpdate Details: \nFixed the issue in which the background music and certain sounds play in mono regardless of  hardware settings",
+  "release_date_on_eshop": "2015-04-10",
+  "product_code": "KTR-U-CAFE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

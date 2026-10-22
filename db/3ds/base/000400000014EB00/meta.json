@@ -1,31 +1,31 @@
 {
-    "tid": "000400000014EB00",
-    "uid": "50010000031955",
-    "name": "LEGO® Ninjago™:\nShadow of Ronin™",
-    "formal_name": "LEGO® Ninjago™:\nShadow of Ronin™",
-    "description": "There is a new threat in Ninjago, and he goes by the name of Ronin. With help from his army of dark samurai, Ronin steals the Ninjas’ memories using an ancient weapon called the Obsidian Glaive. In LEGO® Ninjago™: Shadow of Ronin™, it is up to players to help the Ninjas regain their memories and reclaim their powers before Ronin completes his plan and releases an even greater evil on Ninjago. \n",
-    "release_date_on_eshop": "2015-03-24",
-    "product_code": "CTR-N-BLSE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000014EB00",
+  "uid": "50010000031955",
+  "name": "LEGO® Ninjago™:\nShadow of Ronin™",
+  "formal_name": "LEGO® Ninjago™:\nShadow of Ronin™",
+  "description": "There is a new threat in Ninjago, and he goes by the name of Ronin. With help from his army of dark samurai, Ronin steals the Ninjas’ memories using an ancient weapon called the Obsidian Glaive. In LEGO® Ninjago™: Shadow of Ronin™, it is up to players to help the Ninjas regain their memories and reclaim their powers before Ronin completes his plan and releases an even greater evil on Ninjago. \n",
+  "release_date_on_eshop": "2015-03-24",
+  "product_code": "CTR-N-BLSE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

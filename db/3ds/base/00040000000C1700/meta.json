@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000C1700",
-    "uid": "50010000016414",
-    "name": "AiRace Speed",
-    "formal_name": "AiRace Speed",
-    "description": "Let your Nintendo 3DS™ discover the\ntrue meaning of speed and adrenaline\nwith AiRace Speed.\n<br/><br/>\nTake the challenge and enjoy a new\ngaming experience:\n<br/><br/>\n• Fly extreme speeds across 22\nadrenaline-fuelled tracks\n<br/><br/>\n• Stunning environments packed with\nchallenging obstacles\n<br/><br/>\n• Take control of one of 5\nhigh-speed, futuristic jets\n<br/><br/>\n• High-performance graphics and\nimmersive 3D effects\n<br/><br/>\n• Compete in online leaderboards and\nunlock achievements\n<br/><br/>\n• Third game of the successful and\nhighly rated AiRace series",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-N-JARP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C1700",
+  "uid": "50010000016414",
+  "name": "AiRace Speed",
+  "formal_name": "AiRace Speed",
+  "description": "Let your Nintendo 3DS™ discover the\ntrue meaning of speed and adrenaline\nwith AiRace Speed.\n<br/><br/>\nTake the challenge and enjoy a new\ngaming experience:\n<br/><br/>\n• Fly extreme speeds across 22\nadrenaline-fuelled tracks\n<br/><br/>\n• Stunning environments packed with\nchallenging obstacles\n<br/><br/>\n• Take control of one of 5\nhigh-speed, futuristic jets\n<br/><br/>\n• High-performance graphics and\nimmersive 3D effects\n<br/><br/>\n• Compete in online leaderboards and\nunlock achievements\n<br/><br/>\n• Third game of the successful and\nhighly rated AiRace series",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-N-JARP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

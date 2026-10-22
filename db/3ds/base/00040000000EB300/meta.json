@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000EB300",
-    "uid": "50010000014854",
-    "name": "Dress To Play: Magic Bubbles!",
-    "formal_name": "Dress To Play: Magic Bubbles!",
-    "description": "In Dress To Play: Magic Bubbles!,\ndress to play and play to dress!\nCreate your character and design their\noutfit in the dressing room, just as\nyou like. When you are done, get\nready to set off on an adventure,\nwhere you will have to catch as many\nbubbles as possible from the magic\nwashing machine (which has many\nmagical powers).\n<br/><br/>\nThe more you play, the more prizes\nand clothes you will receive to dress\nyour character!",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "CTR-N-JA8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Arcade",
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EB300",
+  "uid": "50010000014854",
+  "name": "Dress To Play: Magic Bubbles!",
+  "formal_name": "Dress To Play: Magic Bubbles!",
+  "description": "In Dress To Play: Magic Bubbles!,\ndress to play and play to dress!\nCreate your character and design their\noutfit in the dressing room, just as\nyou like. When you are done, get\nready to set off on an adventure,\nwhere you will have to catch as many\nbubbles as possible from the magic\nwashing machine (which has many\nmagical powers).\n<br/><br/>\nThe more you play, the more prizes\nand clothes you will receive to dress\nyour character!",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "CTR-N-JA8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Arcade",
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

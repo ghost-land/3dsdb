@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000159B00",
-    "uid": "50010000034275",
-    "name": "LEGO® Jurassic World™ ",
-    "formal_name": "LEGO® Jurassic World™ ",
-    "description": "LEGO® Jurassic World™ is the first videogame to let players experience all four Jurassic films in humorous LEGO form. The thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar & Isla Sorna.\n<br><br>\nRelive key moments from all four Jurassic films: An adventure 65 million years in the making - now in classic LEGO brick fun!\n<br><br>\nWreak havoc as LEGO dinosaurs: Choose from 20 dinosaurs, including the friendly Triceratops, deadly Raptor, vicious Compy and even the mighty\nT. rex.\n<br><br>\nCustomize your own dinosaur collection: Collect LEGO amber and experiment with DNA to create completely original dinosaurs.\n<br><br>\nPopulate and explore Isla Nublar and Isla Sorna: Put your unique dinosaur creations in to paddocks as you complete special Free Play missions.",
-    "release_date_on_eshop": "2015-06-12",
-    "product_code": "CTR-N-BLJE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": [
-        "Cartoon Violence",
-        "Crude Humor"
-    ]
+  "tid": "0004000000159B00",
+  "uid": "50010000034275",
+  "name": "LEGO® Jurassic World™ ",
+  "formal_name": "LEGO® Jurassic World™ ",
+  "description": "LEGO® Jurassic World™ is the first videogame to let players experience all four Jurassic films in humorous LEGO form. The thrilling adventure recreates unforgettable scenes and action sequences from the films, allowing fans to play through key moments and giving them the opportunity to fully explore the expansive grounds of Isla Nublar & Isla Sorna.\n<br><br>\nRelive key moments from all four Jurassic films: An adventure 65 million years in the making - now in classic LEGO brick fun!\n<br><br>\nWreak havoc as LEGO dinosaurs: Choose from 20 dinosaurs, including the friendly Triceratops, deadly Raptor, vicious Compy and even the mighty\nT. rex.\n<br><br>\nCustomize your own dinosaur collection: Collect LEGO amber and experiment with DNA to create completely original dinosaurs.\n<br><br>\nPopulate and explore Isla Nublar and Isla Sorna: Put your unique dinosaur creations in to paddocks as you complete special Free Play missions.",
+  "release_date_on_eshop": "2015-06-12",
+  "product_code": "CTR-N-BLJE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": [
+    "Cartoon Violence",
+    "Crude Humor"
+  ]
 }

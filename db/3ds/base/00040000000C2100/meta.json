@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000C2100",
-    "uid": "50010000006918",
-    "name": "ラビラビ外伝 Witch's Cat\n(ウィッチズキャット)",
-    "formal_name": "ラビラビ外伝 Witch's Cat\n(ウィッチズキャット)",
-    "description": "ラビ×ラビの物語に外伝が登場。アリシアを操作して、女王が仕掛けた様々な罠が待ち受ける迷宮に挑みます。襲い掛かる罠を4つの魔法と変化を駆使して、アリシアをゴールまでたどり着かせます。三種のブロック、おばけ、襲い掛かる矢など新ギミックも登場する、不思議でちょっとセツナイ大冒険がはじまります。",
-    "release_date_on_eshop": "2011-06-29",
-    "product_code": "CTR-N-JBGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C2100",
+  "uid": "50010000006918",
+  "name": "ラビラビ外伝 Witch's Cat\n(ウィッチズキャット)",
+  "formal_name": "ラビラビ外伝 Witch's Cat\n(ウィッチズキャット)",
+  "description": "ラビ×ラビの物語に外伝が登場。アリシアを操作して、女王が仕掛けた様々な罠が待ち受ける迷宮に挑みます。襲い掛かる罠を4つの魔法と変化を駆使して、アリシアをゴールまでたどり着かせます。三種のブロック、おばけ、襲い掛かる矢など新ギミックも登場する、不思議でちょっとセツナイ大冒険がはじまります。",
+  "release_date_on_eshop": "2011-06-29",
+  "product_code": "CTR-N-JBGJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

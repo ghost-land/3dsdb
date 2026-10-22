@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B514545",
-    "uid": "50010000006081",
-    "name": "Slingo Quest",
-    "formal_name": "Slingo Quest",
-    "description": "Slingo Quest combines two classics, slots and bingo, in the ultimate puzzle game. Spin the traditional 5-reel slot machine, then match the numbers on your cards down, across or diagonal, and you’ve hit a Slingo! Create as many Slingos as you can in 20 spins with the help of fun power-ups in this tropical adventure. Fun game modes include Multi-Card Slingo, Seven by Seven Slingo, and Pirate's Fortune Slingo. Collect cool power-ups like Slingo Vision, Devil Protection, and Multipliers! Play through 50 fun levels of Slingo, collecting Slingo Stars and Stamps for big bonuses. Are you ready for the next Slingo challenge?",
-    "release_date_on_eshop": "2011-04-11",
-    "product_code": "TWL-N-KQEE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514545",
+  "uid": "50010000006081",
+  "name": "Slingo Quest",
+  "formal_name": "Slingo Quest",
+  "description": "Slingo Quest combines two classics, slots and bingo, in the ultimate puzzle game. Spin the traditional 5-reel slot machine, then match the numbers on your cards down, across or diagonal, and you’ve hit a Slingo! Create as many Slingos as you can in 20 spins with the help of fun power-ups in this tropical adventure. Fun game modes include Multi-Card Slingo, Seven by Seven Slingo, and Pirate's Fortune Slingo. Collect cool power-ups like Slingo Vision, Devil Protection, and Multipliers! Play through 50 fun levels of Slingo, collecting Slingo Stars and Stamps for big bonuses. Are you ready for the next Slingo challenge?",
+  "release_date_on_eshop": "2011-04-11",
+  "product_code": "TWL-N-KQEE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

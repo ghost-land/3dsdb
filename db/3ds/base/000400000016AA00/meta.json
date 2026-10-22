@@ -1,28 +1,28 @@
 {
-    "tid": "000400000016AA00",
-    "uid": "50010000035775",
-    "name": "Epic Word Search Collection",
-    "formal_name": "Epic Word Search Collection",
-    "description": "Each puzzle contains over 1,500 words, hidden in a grid that's much too large to fit on screen!\n<br><br>\nTo solve the word search you'll have to scroll around the puzzle looking for words. Use the +Control Pad or Circle Pad to move the grid and touch with the stylus to highlight words.\n<br><br>\nThis is a challenge like nothing you've ever seen before with many hours of gameplay in each enormous puzzle.\n<br><br>\nJump straight in and get solving right away with this fast-loading game. Switch between puzzles at any time and share your progress with other players using StreetPass.\n<br><br>\nEpic Word Search Collection contains five gigantic puzzles!\n<br><br>\nThe Epic Food Word Search - munch your way from breakfast to dessert.\n<br><br>\nThe Epic Movie Word Search - find words about sixteen classic movies.\n<br><br>\nThe Epic Rock Word Search - rock out to some classic anthems.\n<br><br>\nThe Epic Sports Word Search - football, baseball, fishing and more.\n<br><br>\nThe Epic TV Word Search - words from more than a dozen popular TV shows.",
-    "release_date_on_eshop": "2015-07-23",
-    "product_code": "CTR-N-KEWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000016AA00",
+  "uid": "50010000035775",
+  "name": "Epic Word Search Collection",
+  "formal_name": "Epic Word Search Collection",
+  "description": "Each puzzle contains over 1,500 words, hidden in a grid that's much too large to fit on screen!\n<br><br>\nTo solve the word search you'll have to scroll around the puzzle looking for words. Use the +Control Pad or Circle Pad to move the grid and touch with the stylus to highlight words.\n<br><br>\nThis is a challenge like nothing you've ever seen before with many hours of gameplay in each enormous puzzle.\n<br><br>\nJump straight in and get solving right away with this fast-loading game. Switch between puzzles at any time and share your progress with other players using StreetPass.\n<br><br>\nEpic Word Search Collection contains five gigantic puzzles!\n<br><br>\nThe Epic Food Word Search - munch your way from breakfast to dessert.\n<br><br>\nThe Epic Movie Word Search - find words about sixteen classic movies.\n<br><br>\nThe Epic Rock Word Search - rock out to some classic anthems.\n<br><br>\nThe Epic Sports Word Search - football, baseball, fishing and more.\n<br><br>\nThe Epic TV Word Search - words from more than a dozen popular TV shows.",
+  "release_date_on_eshop": "2015-07-23",
+  "product_code": "CTR-N-KEWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

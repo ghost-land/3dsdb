@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000044500",
-    "uid": "50010000000361",
-    "name": "Spongebob Squigglepants",
-    "formal_name": "Spongebob Squigglepants",
-    "description": "In SpongeBob’s most crazy, creative adventure yet, be prepared to laugh your SquigglePants off as you tilt, flick, tap and draw through more than 100 Nanogames set in six zany worlds. SpongeBob SquigglePants puts you in the driver’s seat for a dizzying series of lightening-speed Nanogames, giving you mere seconds to finish one before moving right on to the next. Within this rapid-fire succession of challenges, SpongeBob SquigglePants exposes players to never-before-seen SpongeBob art styles from the Nickelodeon vault. SpongeBob SquigglePants also lets players digitally draw, paint, color and choose from dozens of SpongeBob-themed stamps to create a masterpiece worthy of a place in Patchy’s own collection of SpongeBob art. The entire game is hosted by SpongeBob’s biggest fan, Patchy the Pirate, in a never-before-seen live action experience for an added level of under-the-sea silliness.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASGE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Comic Mischief"
-    ]
+  "tid": "0004000000044500",
+  "uid": "50010000000361",
+  "name": "Spongebob Squigglepants",
+  "formal_name": "Spongebob Squigglepants",
+  "description": "In SpongeBob’s most crazy, creative adventure yet, be prepared to laugh your SquigglePants off as you tilt, flick, tap and draw through more than 100 Nanogames set in six zany worlds. SpongeBob SquigglePants puts you in the driver’s seat for a dizzying series of lightening-speed Nanogames, giving you mere seconds to finish one before moving right on to the next. Within this rapid-fire succession of challenges, SpongeBob SquigglePants exposes players to never-before-seen SpongeBob art styles from the Nickelodeon vault. SpongeBob SquigglePants also lets players digitally draw, paint, color and choose from dozens of SpongeBob-themed stamps to create a masterpiece worthy of a place in Patchy’s own collection of SpongeBob art. The entire game is hosted by SpongeBob’s biggest fan, Patchy the Pirate, in a never-before-seen live action experience for an added level of under-the-sea silliness.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASGE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Comic Mischief"
+  ]
 }

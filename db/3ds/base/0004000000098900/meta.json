@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000098900",
-    "uid": "50010000014093",
-    "name": "Cave Story",
-    "formal_name": "Cave Story",
-    "description": "Cave Story takes you into a rare\nworld where a curious race of\ninnocent rabbit-like creatures, called\nMimiga, run free.\n<br/><br/>\nYou wake up in a dark cave with no\nmemory of who you are, where you\ncame from or why you're in such a\nplace. Uncovering Mimiga Village you\ndiscover that the once-carefree\nMimiga are in danger at the hands of\na maniacal scientist.\n<br/><br/>\nTheir only hope rest squarely on the\nshoulders of a quiet, amnesiac boy\nwho can't remember his own name.\nTake control and learn the origins of\nthis world’s power, stop the\ndelusional villain and save the Mimiga!",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-N-JD9P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000098900",
+  "uid": "50010000014093",
+  "name": "Cave Story",
+  "formal_name": "Cave Story",
+  "description": "Cave Story takes you into a rare\nworld where a curious race of\ninnocent rabbit-like creatures, called\nMimiga, run free.\n<br/><br/>\nYou wake up in a dark cave with no\nmemory of who you are, where you\ncame from or why you're in such a\nplace. Uncovering Mimiga Village you\ndiscover that the once-carefree\nMimiga are in danger at the hands of\na maniacal scientist.\n<br/><br/>\nTheir only hope rest squarely on the\nshoulders of a quiet, amnesiac boy\nwho can't remember his own name.\nTake control and learn the origins of\nthis world’s power, stop the\ndelusional villain and save the Mimiga!",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-N-JD9P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000088400",
-    "uid": "50010000012903",
-    "name": "Columns™ ",
-    "formal_name": "Columns™ ",
-    "description": "Drift back in time to a bygone\ncivilisation, the ancient world of\nPhoenicia. Play a game that\noriginated among the Phoenician\nmerchants. It's incredibly captivating,\nyet easy to pick up. You'll find\nyourself losing track of time!",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-GAEP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000088400",
+  "uid": "50010000012903",
+  "name": "Columns™ ",
+  "formal_name": "Columns™ ",
+  "description": "Drift back in time to a bygone\ncivilisation, the ancient world of\nPhoenicia. Play a game that\noriginated among the Phoenician\nmerchants. It's incredibly captivating,\nyet easy to pick up. You'll find\nyourself losing track of time!",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-GAEP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

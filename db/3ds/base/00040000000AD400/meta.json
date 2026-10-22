@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000AD400",
-    "uid": "50010000012432",
-    "name": "ぐるっとスプラッシュ!",
-    "formal_name": "ぐるっとスプラッシュ!",
-    "description": "ニンテンドー3DS本体を傾けたり、回したりして「水」のキャラクターを操作します。\n<br>3DSの傾きに合わせて流れる水の特性を利用して、しかけを解いたり、敵を倒したり。\n<br>冒険を進めていくと、水以外にも「氷」や「雲」に変身できるようになり、\n<br>特性やチカラを使い分ける奥深いパズルアクションを楽しめます。",
-    "release_date_on_eshop": "2012-12-19",
-    "product_code": "CTR-N-JA2J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000000AD400",
+  "uid": "50010000012432",
+  "name": "ぐるっとスプラッシュ!",
+  "formal_name": "ぐるっとスプラッシュ!",
+  "description": "ニンテンドー3DS本体を傾けたり、回したりして「水」のキャラクターを操作します。\n<br>3DSの傾きに合わせて流れる水の特性を利用して、しかけを解いたり、敵を倒したり。\n<br>冒険を進めていくと、水以外にも「氷」や「雲」に変身できるようになり、\n<br>特性やチカラを使い分ける奥深いパズルアクションを楽しめます。",
+  "release_date_on_eshop": "2012-12-19",
+  "product_code": "CTR-N-JA2J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

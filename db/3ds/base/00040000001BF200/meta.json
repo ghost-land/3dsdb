@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001BF200",
-    "uid": "50010000042899",
-    "name": "Anime Workshop",
-    "formal_name": "Anime Workshop",
-    "description": "Let's make animation easily with characters written by yourself!\n<br>\n<br>Character animation is more easy than Cartoon. Less time and effort!\n<br>You can post the animation you made on the internet and show it to your friends.\n<br>\n<br>Since the movement of a character can be reused as an object.\n<br>When making the next story, animation can be made quicker and easier.\n<br>\n<br>Let's shape your story!",
-    "release_date_on_eshop": "2018-03-01",
-    "product_code": "CTR-N-KTCP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "System Tool"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BF200",
+  "uid": "50010000042899",
+  "name": "Anime Workshop",
+  "formal_name": "Anime Workshop",
+  "description": "Let's make animation easily with characters written by yourself!\n<br>\n<br>Character animation is more easy than Cartoon. Less time and effort!\n<br>You can post the animation you made on the internet and show it to your friends.\n<br>\n<br>Since the movement of a character can be reused as an object.\n<br>When making the next story, animation can be made quicker and easier.\n<br>\n<br>Let's shape your story!",
+  "release_date_on_eshop": "2018-03-01",
+  "product_code": "CTR-N-KTCP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "System Tool"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

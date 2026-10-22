@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000AAC00",
-    "uid": "50010000016514",
-    "name": "Rage of the Gladiator",
-    "formal_name": "Rage of the Gladiator",
-    "description": "Rage of the Gladiator is a fantasy-based fighting game where you must fight for your life in the arena. Prove yourself by conquering all opponents! Amazing 3D graphics, animation, lighting, shadows, and special effects.\n<br><br>\nFull voice acting: Each boss has its own personality, and taunts you mercilessly!<br>\nInsane finishing moves: Summon a fiery meteor or savage tornado, or transform into a hulking colossus 10x your size!<br>\nCustomize your character and specialize in skill trees - Offense, Defense, or Magic - to gain new powers!<br>\nImprove your gear!<br>\nEpic music: Enjoy masterpieces of blood-pumping music by legendary composer Sean Beeson!<br>\nGreat replay value: Beat the game to unlock new difficulty levels, where bosses are much tougher with all-new abilities!",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-N-JRGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000AAC00",
+  "uid": "50010000016514",
+  "name": "Rage of the Gladiator",
+  "formal_name": "Rage of the Gladiator",
+  "description": "Rage of the Gladiator is a fantasy-based fighting game where you must fight for your life in the arena. Prove yourself by conquering all opponents! Amazing 3D graphics, animation, lighting, shadows, and special effects.\n<br><br>\nFull voice acting: Each boss has its own personality, and taunts you mercilessly!<br>\nInsane finishing moves: Summon a fiery meteor or savage tornado, or transform into a hulking colossus 10x your size!<br>\nCustomize your character and specialize in skill trees - Offense, Defense, or Magic - to gain new powers!<br>\nImprove your gear!<br>\nEpic music: Enjoy masterpieces of blood-pumping music by legendary composer Sean Beeson!<br>\nGreat replay value: Beat the game to unlock new difficulty levels, where bosses are much tougher with all-new abilities!",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-N-JRGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000400000009B900",
-    "uid": "50010000013494",
-    "name": "G-LOC™: Air Battle",
-    "formal_name": "G-LOC™: Air Battle",
-    "description": "Strap yourself in and take to the\nskies in G-LOC Air Battle. Dive, climb\nand bank as you outmanoeuvre enemy\npilots and blow them out of the sky\nwith your impressive arsenal. Gain\nexperience with every mission and\nequip yourself with more powerful\nweapons and armour in order to\ndestroy the Future World Army and\nbring peace back to the skies.\n<br/><br/>\nChallenge a friend via local\ntwo-player multiplayer!\n<br/><br/>\nTrade points earned for more\npowerful missiles, high calibre guns\nand armour upgrades.\n<br/><br/>\nNine different air, land and sea\nmissions.",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "CTR-N-GAPP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "Shooter"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009B900",
+  "uid": "50010000013494",
+  "name": "G-LOC™: Air Battle",
+  "formal_name": "G-LOC™: Air Battle",
+  "description": "Strap yourself in and take to the\nskies in G-LOC Air Battle. Dive, climb\nand bank as you outmanoeuvre enemy\npilots and blow them out of the sky\nwith your impressive arsenal. Gain\nexperience with every mission and\nequip yourself with more powerful\nweapons and armour in order to\ndestroy the Future World Army and\nbring peace back to the skies.\n<br/><br/>\nChallenge a friend via local\ntwo-player multiplayer!\n<br/><br/>\nTrade points earned for more\npowerful missiles, high calibre guns\nand armour upgrades.\n<br/><br/>\nNine different air, land and sea\nmissions.",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "CTR-N-GAPP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "Shooter"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

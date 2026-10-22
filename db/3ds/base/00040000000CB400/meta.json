@@ -1,39 +1,39 @@
 {
-    "tid": "00040000000CB400",
-    "uid": "50010000016454",
-    "name": "Sonic Lost World™",
-    "formal_name": "Sonic Lost World™",
-    "description": "In his latest plot to defeat Sonic and\n<br>rule the world, Dr. Eggman has\n<br>harnessed the power of six menacing\n<br>creatures known as the Deadly Six.\n<br>However, when the Deadly Six rise up\n<br>against their new master, Sonic must\n<br>unite with his arch nemesis Eggman\n<br>and explore the mystical Lost Hex in\n<br>order to take them on head-to-head.\n<br>Use Sonic’s new moves & Colour\n<br>Powers to speed across a variety of\n<br>unique terrains, racing inside, outside\n<br>and upside down in every level.",
-    "release_date_on_eshop": "2013-10-18",
-    "product_code": "CTR-P-ARVP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "WIFI",
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CB400",
+  "uid": "50010000016454",
+  "name": "Sonic Lost World™",
+  "formal_name": "Sonic Lost World™",
+  "description": "In his latest plot to defeat Sonic and\n<br>rule the world, Dr. Eggman has\n<br>harnessed the power of six menacing\n<br>creatures known as the Deadly Six.\n<br>However, when the Deadly Six rise up\n<br>against their new master, Sonic must\n<br>unite with his arch nemesis Eggman\n<br>and explore the mystical Lost Hex in\n<br>order to take them on head-to-head.\n<br>Use Sonic’s new moves & Colour\n<br>Powers to speed across a variety of\n<br>unique terrains, racing inside, outside\n<br>and upside down in every level.",
+  "release_date_on_eshop": "2013-10-18",
+  "product_code": "CTR-P-ARVP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "WIFI",
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

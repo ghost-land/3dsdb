@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B493750",
-    "uid": "50010000003981",
-    "name": "Music on:\nLearning Piano Vol. 2",
-    "formal_name": "Music on:\nLearning Piano Vol. 2",
-    "description": "The entire orchestra follows your\nperformance of 15 great classics.<br>\n<br>\nBy playing each day, your ability\nincreases and your memory improves\nwithout effort.<br>\n<br>\nEarn the bronze, silver and gold\nmedals for each song, completing all\ndifferent levels.<br>\n<br>\nA simplified music score is shown on\nthe upper screen and a full piano\nkeyboard on the Touch Screen,\nguiding beginners note by note on\ntheir first steps.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KI7P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B493750",
+  "uid": "50010000003981",
+  "name": "Music on:\nLearning Piano Vol. 2",
+  "formal_name": "Music on:\nLearning Piano Vol. 2",
+  "description": "The entire orchestra follows your\nperformance of 15 great classics.<br>\n<br>\nBy playing each day, your ability\nincreases and your memory improves\nwithout effort.<br>\n<br>\nEarn the bronze, silver and gold\nmedals for each song, completing all\ndifferent levels.<br>\n<br>\nA simplified music score is shown on\nthe upper screen and a full piano\nkeyboard on the Touch Screen,\nguiding beginners note by note on\ntheir first steps.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KI7P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000A9700",
-    "uid": "50010000012007",
-    "name": "Paper Mario™: Sticker Star",
-    "formal_name": "Paper Mario™: Sticker Star",
-    "description": "When an accident scatters stickers across the land, Mario™ sets off on an adventure to repair a torn world. Searching Forests, Deserts and Mountains, Mario collects stickers to solve puzzles and battle monsters. In a first for the series, there are no experience points, so finding power-ups to improve Mario’s abilities is more important than ever. Mixing sticker-based gameplay elements with the traditional action-battle system of the Paper Mario™ series delivers a new twist on a classic franchise. Flatten-out characters, roll out towns, and walk through living, breathing dioramas in a brand-new Paper Mario adventure on the Nintendo 3DS™ system!\n",
-    "release_date_on_eshop": "2012-11-11",
-    "product_code": "CTR-N-AG5E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Mild Cartoon Violence"
-    ]
+  "tid": "00040000000A9700",
+  "uid": "50010000012007",
+  "name": "Paper Mario™: Sticker Star",
+  "formal_name": "Paper Mario™: Sticker Star",
+  "description": "When an accident scatters stickers across the land, Mario™ sets off on an adventure to repair a torn world. Searching Forests, Deserts and Mountains, Mario collects stickers to solve puzzles and battle monsters. In a first for the series, there are no experience points, so finding power-ups to improve Mario’s abilities is more important than ever. Mixing sticker-based gameplay elements with the traditional action-battle system of the Paper Mario™ series delivers a new twist on a classic franchise. Flatten-out characters, roll out towns, and walk through living, breathing dioramas in a brand-new Paper Mario adventure on the Nintendo 3DS™ system!\n",
+  "release_date_on_eshop": "2012-11-11",
+  "product_code": "CTR-N-AG5E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ]
 }

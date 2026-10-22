@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A1300",
-    "uid": "50010000014438",
-    "name": "Mega Man™ 5",
-    "formal_name": "Mega Man™ 5",
-    "description": "Protoman has gone berserk!<br>\nDestroying half the city was not enough. Now, he has kidnapped Dr. Light and is holding him and the entire city hostage. Speeding to the rescue is Mega Man and his modified Mega Buster, but eight of Protoman's cybernetic soldiers plan to send Mega Man to the scrap heap for good!\n<br><br>\nFeel the weight of the world on your shoulders as you battle Gravity Man! Chip away at the rock-life defenses of Stone Man and bring him crumbling down! Hit the surf and sail up against the tidal power of Wave Man! Guide Mega Man through 13 action-packed stages and defeat all eight of Protoman's robots, then get ready for the fight that pits brother against brother in the battle of the century!",
-    "release_date_on_eshop": "2013-05-16",
-    "product_code": "CTR-N-TBEE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A1300",
+  "uid": "50010000014438",
+  "name": "Mega Man™ 5",
+  "formal_name": "Mega Man™ 5",
+  "description": "Protoman has gone berserk!<br>\nDestroying half the city was not enough. Now, he has kidnapped Dr. Light and is holding him and the entire city hostage. Speeding to the rescue is Mega Man and his modified Mega Buster, but eight of Protoman's cybernetic soldiers plan to send Mega Man to the scrap heap for good!\n<br><br>\nFeel the weight of the world on your shoulders as you battle Gravity Man! Chip away at the rock-life defenses of Stone Man and bring him crumbling down! Hit the surf and sail up against the tidal power of Wave Man! Guide Mega Man through 13 action-packed stages and defeat all eight of Protoman's robots, then get ready for the fight that pits brother against brother in the battle of the century!",
+  "release_date_on_eshop": "2013-05-16",
+  "product_code": "CTR-N-TBEE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

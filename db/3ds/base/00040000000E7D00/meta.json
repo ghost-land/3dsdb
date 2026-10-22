@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000E7D00",
-    "uid": "50010000014554",
-    "name": "Animal Hospital",
-    "formal_name": "Animal Hospital",
-    "description": "The sick animals need you!\n<br/><br/>\n- Live the dream life of a true\nveterinarian.\n<br/><br/>\n- Improve and expand your surgery\nto accommodate more patients.\n<br/><br/>\n- Dogs, cats, horses, birds… they all\nneed your care!",
-    "release_date_on_eshop": "2013-10-24",
-    "product_code": "CTR-P-AZFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E7D00",
+  "uid": "50010000014554",
+  "name": "Animal Hospital",
+  "formal_name": "Animal Hospital",
+  "description": "The sick animals need you!\n<br/><br/>\n- Live the dream life of a true\nveterinarian.\n<br/><br/>\n- Improve and expand your surgery\nto accommodate more patients.\n<br/><br/>\n- Dogs, cats, horses, birds… they all\nneed your care!",
+  "release_date_on_eshop": "2013-10-24",
+  "product_code": "CTR-P-AZFP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

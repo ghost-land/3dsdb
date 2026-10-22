@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000D3E00",
-    "uid": "50010000018953",
-    "name": "Mario Tennis™",
-    "formal_name": "Mario Tennis™",
-    "description": "The Game Boy™ Color version of\nMario Tennis is a winning mix of court\naction and RPG. Train your character\nfrom novice to pro as you rise through\nthe ranks of the Royal Tennis\nAcademy, before taking on the\nchampion himself: Mario!\n<br/><br/>\nBuild up your skills in Mario Tour\ncareer mode, jump right into the\naction with exhibition matches and\nrelax with minigames while playing as\nLuigi, Donkey Kong and more. There\nis even a dictionary to help you brush\nup on your tennis terminology!",
-    "release_date_on_eshop": "2014-01-02",
-    "product_code": "CTR-N-QAWP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D3E00",
+  "uid": "50010000018953",
+  "name": "Mario Tennis™",
+  "formal_name": "Mario Tennis™",
+  "description": "The Game Boy™ Color version of\nMario Tennis is a winning mix of court\naction and RPG. Train your character\nfrom novice to pro as you rise through\nthe ranks of the Royal Tennis\nAcademy, before taking on the\nchampion himself: Mario!\n<br/><br/>\nBuild up your skills in Mario Tour\ncareer mode, jump right into the\naction with exhibition matches and\nrelax with minigames while playing as\nLuigi, Donkey Kong and more. There\nis even a dictionary to help you brush\nup on your tennis terminology!",
+  "release_date_on_eshop": "2014-01-02",
+  "product_code": "CTR-N-QAWP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

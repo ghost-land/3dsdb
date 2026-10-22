@@ -1,38 +1,38 @@
 {
-    "tid": "0004000000132500",
-    "uid": "50010000029435",
-    "name": "Code Name: S.T.E.A.M. ",
-    "formal_name": "Code Name: S.T.E.A.M. ",
-    "description": "Code Name: S.T.E.A.M. is a new\nstrategy game for Nintendo 3DS and\n2DS from Intelligent Systems, known\nfor the Fire Emblem and Advance Wars\nseries. The game has a unique\natmosphere with a steampunk setting\nand comic book-style graphics.\n<br/><br/>\nThe player selects four members from\na team of agents, each with their own\nunique personalities – led by the 16th\npresident of the United States of\nAmerica, Abraham Lincoln – to fight\nback against aliens invading the\nplanet.\n<br/><br/>Visit amiibo.nintendo.eu for\ncompatible amiibo™ and the latest\ninformation. To use amiibo on\nNintendo 3DS, Nintendo 3DS XL and\nNintendo 2DS systems a\nNintendo 3DS NFC Reader/Writer is\nrequired. The Nintendo 3DS NFC\nReader/Writer will be available later\nthis year.",
-    "release_date_on_eshop": "2015-05-15",
-    "product_code": "CTR-N-AY6A",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Region Free",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000132500",
+  "uid": "50010000029435",
+  "name": "Code Name: S.T.E.A.M. ",
+  "formal_name": "Code Name: S.T.E.A.M. ",
+  "description": "Code Name: S.T.E.A.M. is a new\nstrategy game for Nintendo 3DS and\n2DS from Intelligent Systems, known\nfor the Fire Emblem and Advance Wars\nseries. The game has a unique\natmosphere with a steampunk setting\nand comic book-style graphics.\n<br/><br/>\nThe player selects four members from\na team of agents, each with their own\nunique personalities – led by the 16th\npresident of the United States of\nAmerica, Abraham Lincoln – to fight\nback against aliens invading the\nplanet.\n<br/><br/>Visit amiibo.nintendo.eu for\ncompatible amiibo™ and the latest\ninformation. To use amiibo on\nNintendo 3DS, Nintendo 3DS XL and\nNintendo 2DS systems a\nNintendo 3DS NFC Reader/Writer is\nrequired. The Nintendo 3DS NFC\nReader/Writer will be available later\nthis year.",
+  "release_date_on_eshop": "2015-05-15",
+  "product_code": "CTR-N-AY6A",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Region Free",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4D4756",
-    "uid": "50010000004361",
-    "name": "Mighty Flip Champs!™",
-    "formal_name": "Mighty Flip Champs!™",
-    "description": "Are you ready to become a Mighty\nFlip Champ? Take control of Alta, and\nPage Flip through a series of action\npacked mazes! The Touch Screen\nreflects a preview of the next chamber,\nand shows Alta's projected\ndestination within it. When it's time to\nflip, use Alta's Magical Warp Wand to\nreplace her world with the next one.\nWill she land safely on solid ground,\nor be crushed under it? By cycling\nendlessly through room after brain\nbusting room, you'll match wits with\nsome of the most devious traps in \npuzzle/platforming history!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KMGV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4756",
+  "uid": "50010000004361",
+  "name": "Mighty Flip Champs!™",
+  "formal_name": "Mighty Flip Champs!™",
+  "description": "Are you ready to become a Mighty\nFlip Champ? Take control of Alta, and\nPage Flip through a series of action\npacked mazes! The Touch Screen\nreflects a preview of the next chamber,\nand shows Alta's projected\ndestination within it. When it's time to\nflip, use Alta's Magical Warp Wand to\nreplace her world with the next one.\nWill she land safely on solid ground,\nor be crushed under it? By cycling\nendlessly through room after brain\nbusting room, you'll match wits with\nsome of the most devious traps in \npuzzle/platforming history!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KMGV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

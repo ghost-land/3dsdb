@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000069B00",
-    "uid": "50010000008942",
-    "name": "Prince of Persia",
-    "formal_name": "Prince of Persia",
-    "description": "The classic Prince of Persia is now\n<br>available for download! Relive this\n<br>classic platforming game that is often\n<br>heralded as a pioneer of the\n<br>platforming genre. This re-release is\n<br>faithful to the original game, complete\n<br>with the dashing acrobatics of the\n<br>Prince that made the original famous.\n<br>\n<br>Traverse sprawling levels, dodge\n<br>deadly traps like spikes and\n<br>guillotines, clash swords with palace\n<br>guards, before facing the evil Grand\n<br>Vizier and rescuing the princess. But\n<br>be quick: you only have one hour! The\n<br>sands of time are flowing...",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-QAGP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000069B00",
+  "uid": "50010000008942",
+  "name": "Prince of Persia",
+  "formal_name": "Prince of Persia",
+  "description": "The classic Prince of Persia is now\n<br>available for download! Relive this\n<br>classic platforming game that is often\n<br>heralded as a pioneer of the\n<br>platforming genre. This re-release is\n<br>faithful to the original game, complete\n<br>with the dashing acrobatics of the\n<br>Prince that made the original famous.\n<br>\n<br>Traverse sprawling levels, dodge\n<br>deadly traps like spikes and\n<br>guillotines, clash swords with palace\n<br>guards, before facing the evil Grand\n<br>Vizier and rescuing the princess. But\n<br>be quick: you only have one hour! The\n<br>sands of time are flowing...",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-QAGP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

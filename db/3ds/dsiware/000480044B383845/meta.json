@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B383845",
-    "uid": "50010000000963",
-    "name": "Music on: Learning Piano",
-    "formal_name": "Music on: Learning Piano",
-    "description": "Bravissimo! The entire orchestra follows your performance of 15 great classics. By playing each day, your ability may increase. Earn the bronze, silver and gold medals for each song, completing all different levels. A simplified music score is shown on the upper screen and a full piano keyboard on the touch screen, guiding beginners note by note on their first steps.\n\nSongs included: \n*The Entertainer (S. Joplin)\n*For Elise  (L. Beethoven)\n*In the hall of the mountain king (E. Grieg) \n*Ode to joy  (L. Beethoven)\n*Canon (J. Pachelbel)\n*Hungarian dance No. 5 (J. Brahms)\n*Radetzky march (J. Strauss I)\n*La traviata (G. Verdi)\n*Opus 10. 2. (L. Beethoven)\n*Musette in D major (J. S. Bach)\n*Wedding March  (F. Mendelssohn)\n*The blue Danube (J. Strauss II)\n*The infernal galop \"Can Can\" (J. Offenbach)\n*Brahm's Lullaby (J. Brahms)\n*Minuet in G major (J. S. Bach)",
-    "release_date_on_eshop": "2010-08-30",
-    "product_code": "TWL-N-K88E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B383845",
+  "uid": "50010000000963",
+  "name": "Music on: Learning Piano",
+  "formal_name": "Music on: Learning Piano",
+  "description": "Bravissimo! The entire orchestra follows your performance of 15 great classics. By playing each day, your ability may increase. Earn the bronze, silver and gold medals for each song, completing all different levels. A simplified music score is shown on the upper screen and a full piano keyboard on the touch screen, guiding beginners note by note on their first steps.\n\nSongs included: \n*The Entertainer (S. Joplin)\n*For Elise  (L. Beethoven)\n*In the hall of the mountain king (E. Grieg) \n*Ode to joy  (L. Beethoven)\n*Canon (J. Pachelbel)\n*Hungarian dance No. 5 (J. Brahms)\n*Radetzky march (J. Strauss I)\n*La traviata (G. Verdi)\n*Opus 10. 2. (L. Beethoven)\n*Musette in D major (J. S. Bach)\n*Wedding March  (F. Mendelssohn)\n*The blue Danube (J. Strauss II)\n*The infernal galop \"Can Can\" (J. Offenbach)\n*Brahm's Lullaby (J. Brahms)\n*Minuet in G major (J. S. Bach)",
+  "release_date_on_eshop": "2010-08-30",
+  "product_code": "TWL-N-K88E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

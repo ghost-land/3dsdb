@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F712A00",
-    "uid": "50010000047615",
-    "name": "Love Hero",
-    "formal_name": "Love Hero",
-    "description": "Hospital recovery begins. She will be treated soon.",
-    "release_date_on_eshop": "2019-03-14",
-    "product_code": "KTR-N-CEHP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F712A00",
+  "uid": "50010000047615",
+  "name": "Love Hero",
+  "formal_name": "Love Hero",
+  "description": "Hospital recovery begins. She will be treated soon.",
+  "release_date_on_eshop": "2019-03-14",
+  "product_code": "KTR-N-CEHP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B5A3645",
-    "uid": "50010000006904",
-    "name": "AfterZoom",
-    "formal_name": "AfterZoom",
-    "description": "Immerse yourself in a world of hidden creatures! Our planet is full of life. Besides all the creatures that can be seen with the naked eye, there are millions of microscopic creatures with amazing features. To discover them, AfterZoom turns the camera of your Nintendo DSi or Nintendo 3DS system into a virtual microscope.\n\nExplore your surroundings and discover new forms of life. Collect dozens of different species and take good care of them at the Specimens Bank. Mix the formulas you'll need to feed your organisms at the Chemical Lab. Battle your colonies against more powerful ones to win them over and complete your collection.\n\nAfterZoom, what's hiding among your Ravioli?",
-    "release_date_on_eshop": "2011-07-14",
-    "product_code": "TWL-N-KZ6E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A3645",
+  "uid": "50010000006904",
+  "name": "AfterZoom",
+  "formal_name": "AfterZoom",
+  "description": "Immerse yourself in a world of hidden creatures! Our planet is full of life. Besides all the creatures that can be seen with the naked eye, there are millions of microscopic creatures with amazing features. To discover them, AfterZoom turns the camera of your Nintendo DSi or Nintendo 3DS system into a virtual microscope.\n\nExplore your surroundings and discover new forms of life. Collect dozens of different species and take good care of them at the Specimens Bank. Mix the formulas you'll need to feed your organisms at the Chemical Lab. Battle your colonies against more powerful ones to win them over and complete your collection.\n\nAfterZoom, what's hiding among your Ravioli?",
+  "release_date_on_eshop": "2011-07-14",
+  "product_code": "TWL-N-KZ6E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

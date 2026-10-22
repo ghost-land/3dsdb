@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000070600",
-    "uid": "50010000007275",
-    "name": "Ice Climber™",
-    "formal_name": "Ice Climber™",
-    "description": "Original Release Date: October 1985\n\nAs Popo, players use a trusty mallet to work their way up the mountain. They chip away at the blocks overhead, then jump up through the resulting hole to the mountain's next level. Once Popo reaches the top level, he enters a fast-moving bonus stage in which he can pick up veggies and, hopefully, reach the summit for a big point payoff. \n\nOf course, not everyone's supportive of Popo's pastime. Toppies fill Popo's holes, so players must jump through the gaps quickly. It's easy to slip off some of the icy levels, as Polar Bears, Toppies, and other ferocious fauna don't want players up there. There are 32 challenging peaks to scale. How will you fare?",
-    "release_date_on_eshop": "2013-01-31",
-    "product_code": "CTR-N-TAME",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000070600",
+  "uid": "50010000007275",
+  "name": "Ice Climber™",
+  "formal_name": "Ice Climber™",
+  "description": "Original Release Date: October 1985\n\nAs Popo, players use a trusty mallet to work their way up the mountain. They chip away at the blocks overhead, then jump up through the resulting hole to the mountain's next level. Once Popo reaches the top level, he enters a fast-moving bonus stage in which he can pick up veggies and, hopefully, reach the summit for a big point payoff. \n\nOf course, not everyone's supportive of Popo's pastime. Toppies fill Popo's holes, so players must jump through the gaps quickly. It's easy to slip off some of the icy levels, as Polar Bears, Toppies, and other ferocious fauna don't want players up there. There are 32 challenging peaks to scale. How will you fare?",
+  "release_date_on_eshop": "2013-01-31",
+  "product_code": "CTR-N-TAME",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

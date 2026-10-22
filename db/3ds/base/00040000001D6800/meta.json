@@ -1,35 +1,35 @@
 {
-    "tid": "00040000001D6800",
-    "uid": "50010000046619",
-    "name": "YO-KAI WATCH™ 3",
-    "formal_name": "YO-KAI WATCH™ 3",
-    "description": "Bonus:\n<br>Download code for Blasters T Badge for YO-KAI WATCH 3 for Nintendo 3DS.\n<br>\n<br>Mischievous beings known as Yo-kai are everywhere, and it’s up to Nate and Hailey Anne to befriend, battle, and solve problems with them in YO-KAI WATCH™ 3!\n<br>\n<br>Follow two parallel stories and unravel the mysteries behind strange sightings while meeting over 600 Yo-kai and using the new 3x3 grid battle system to strategically dish out or dodge attacks.\n<br>\n<br>More Yo-kai, more mysteries! ’Merican Yo-kai have made their way to YO-KAI WATCH™ 3 and they’re rootin’ tootin’ troublemakers. Speaking of troublemakers, in BBQ, zombies rise from their graves and Nate must free the town during Zombie Night.",
-    "release_date_on_eshop": "2018-12-07",
-    "product_code": "CTR-P-ALZP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D6800",
+  "uid": "50010000046619",
+  "name": "YO-KAI WATCH™ 3",
+  "formal_name": "YO-KAI WATCH™ 3",
+  "description": "Bonus:\n<br>Download code for Blasters T Badge for YO-KAI WATCH 3 for Nintendo 3DS.\n<br>\n<br>Mischievous beings known as Yo-kai are everywhere, and it’s up to Nate and Hailey Anne to befriend, battle, and solve problems with them in YO-KAI WATCH™ 3!\n<br>\n<br>Follow two parallel stories and unravel the mysteries behind strange sightings while meeting over 600 Yo-kai and using the new 3x3 grid battle system to strategically dish out or dodge attacks.\n<br>\n<br>More Yo-kai, more mysteries! ’Merican Yo-kai have made their way to YO-KAI WATCH™ 3 and they’re rootin’ tootin’ troublemakers. Speaking of troublemakers, in BBQ, zombies rise from their graves and Nate must free the town during Zombie Night.",
+  "release_date_on_eshop": "2018-12-07",
+  "product_code": "CTR-P-ALZP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001D0000",
-    "uid": "50010000045215",
-    "name": "ザ・デッドヒートブレイカーズ\n体験版",
-    "formal_name": "ザ・デッドヒートブレイカーズ 体験版",
-    "description": "「紅い閃光」ことアルマジロの「ジロー」の爽快アクションと、フィールドに武器を設置して敵を迎撃（ディフェンス）する戦略性の、2つの要素をあわせ持つバトルレースタワーディフェンスゲーム、『ザ・デッドヒートブレイカーズ』の体験版です。",
-    "release_date_on_eshop": "2018-03-09",
-    "product_code": "CTR-N-BBRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Digital Demos",
-    "genres": [
-        "アクション",
-        "レース"
-    ],
-    "features": [
-        "3D映像対応",
-        "Mii"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D0000",
+  "uid": "50010000045215",
+  "name": "ザ・デッドヒートブレイカーズ\n体験版",
+  "formal_name": "ザ・デッドヒートブレイカーズ 体験版",
+  "description": "「紅い閃光」ことアルマジロの「ジロー」の爽快アクションと、フィールドに武器を設置して敵を迎撃（ディフェンス）する戦略性の、2つの要素をあわせ持つバトルレースタワーディフェンスゲーム、『ザ・デッドヒートブレイカーズ』の体験版です。",
+  "release_date_on_eshop": "2018-03-09",
+  "product_code": "CTR-N-BBRJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Digital Demos",
+  "genres": [
+    "アクション",
+    "レース"
+  ],
+  "features": [
+    "3D映像対応",
+    "Mii"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

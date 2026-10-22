@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000043F00",
-    "uid": "50010000008721",
-    "name": "フィッシング3D",
-    "formal_name": "フィッシング3D",
-    "description": "スポーツとして世界中で大人気のバスフィッシング。その醍醐味はポイントの探索やルアーセッティング、さらにはバスとの駆け引き、激しいバトルにある。\n<br>流木を覗き込みつつ、ルアーキャストで水面を波立たせる。奥に見える70(ナナマル)オーバーの巨影…。\n<br>今までにない3D立体表現による“本格バスフィッシングゲーム”がニンテンドー3DSで登場します!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFDJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "スポーツ",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000043F00",
+  "uid": "50010000008721",
+  "name": "フィッシング3D",
+  "formal_name": "フィッシング3D",
+  "description": "スポーツとして世界中で大人気のバスフィッシング。その醍醐味はポイントの探索やルアーセッティング、さらにはバスとの駆け引き、激しいバトルにある。\n<br>流木を覗き込みつつ、ルアーキャストで水面を波立たせる。奥に見える70(ナナマル)オーバーの巨影…。\n<br>今までにない3D立体表現による“本格バスフィッシングゲーム”がニンテンドー3DSで登場します!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFDJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "スポーツ",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

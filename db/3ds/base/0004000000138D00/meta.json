@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000138D00",
-    "uid": "50010000028335",
-    "name": "Pyramids 2",
-    "formal_name": "Pyramids 2",
-    "description": "The Pyramid master is back!.......\nEnjoy Gaming gives you 54 new\nlevels and 3 new pyramid worlds.\nNew, improved and varied gameplay,\nnew features and a built-in Editor to\ncreate your own levels to play and\nshare with other players. Masses of\ngameplay, masses of fun!\n<br/><br/>\nThe creation of new styles of levels\nwith more varied contents has made\nPyramids 2 a far more testing game\nthat has more variety than the original\nvery successful Pyramids.",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-JYHP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Arcade",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000138D00",
+  "uid": "50010000028335",
+  "name": "Pyramids 2",
+  "formal_name": "Pyramids 2",
+  "description": "The Pyramid master is back!.......\nEnjoy Gaming gives you 54 new\nlevels and 3 new pyramid worlds.\nNew, improved and varied gameplay,\nnew features and a built-in Editor to\ncreate your own levels to play and\nshare with other players. Masses of\ngameplay, masses of fun!\n<br/><br/>\nThe creation of new styles of levels\nwith more varied contents has made\nPyramids 2 a far more testing game\nthat has more variety than the original\nvery successful Pyramids.",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-JYHP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Arcade",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

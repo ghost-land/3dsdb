@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000110200",
-    "uid": "50010000028736",
-    "name": "Harvest Moon® 3 GBC",
-    "formal_name": "Harvest Moon® 3 GBC",
-    "description": "Years have passed since you made improvements to your grandfather's old farm and turned it into a successful business. Now a friend on a remote island has called for help to restore their own farm! Never one to turn down a fellow farmer in need, you're ready to tackle the unique challenges this opportunity will bring. Farming on the mainland is tough, but raising animals and harvesting crops offshore is going to be tougher! With different shops to explore, fun characters to encounter, and many tasks to do, there is plenty to keep you occupied on your tropical adventure. Maybe you'll even find a companion to share it with!",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-QA8E",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "RPG",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000110200",
+  "uid": "50010000028736",
+  "name": "Harvest Moon® 3 GBC",
+  "formal_name": "Harvest Moon® 3 GBC",
+  "description": "Years have passed since you made improvements to your grandfather's old farm and turned it into a successful business. Now a friend on a remote island has called for help to restore their own farm! Never one to turn down a fellow farmer in need, you're ready to tackle the unique challenges this opportunity will bring. Farming on the mainland is tough, but raising animals and harvesting crops offshore is going to be tougher! With different shops to explore, fun characters to encounter, and many tasks to do, there is plenty to keep you occupied on your tropical adventure. Maybe you'll even find a companion to share it with!",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-QA8E",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "RPG",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

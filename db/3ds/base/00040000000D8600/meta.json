@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000D8600",
-    "uid": "50010000017516",
-    "name": "@SIMPLE DLシリーズ Vol.22\nTHE 歩兵～戦場の犬たち～",
-    "formal_name": "@SIMPLE DLシリーズ Vol.22\nTHE 歩兵～戦場の犬たち～",
-    "description": "訓練を終えたばかりの一兵士となって、30種類のミッションを生き抜く男のミリタリー･アクション。\n<br>マシンガン、ライフル、ロケットランチャーなどさまざまな装備とアイテムを駆使し「ジャングル」「市街地」「丘」「草原」といった難所を乗り越えていく。\n<br>\n<br>ゲーム開始時、上官が理不尽かつ勝手に素晴らしい“あだ名”を付けてくれる。\n<br>今日から、そのあだ名で戦場を駆け巡れ!",
-    "release_date_on_eshop": "2013-11-06",
-    "product_code": "CTR-N-JH3J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング",
-        "シミュレーション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D8600",
+  "uid": "50010000017516",
+  "name": "@SIMPLE DLシリーズ Vol.22\nTHE 歩兵～戦場の犬たち～",
+  "formal_name": "@SIMPLE DLシリーズ Vol.22\nTHE 歩兵～戦場の犬たち～",
+  "description": "訓練を終えたばかりの一兵士となって、30種類のミッションを生き抜く男のミリタリー･アクション。\n<br>マシンガン、ライフル、ロケットランチャーなどさまざまな装備とアイテムを駆使し「ジャングル」「市街地」「丘」「草原」といった難所を乗り越えていく。\n<br>\n<br>ゲーム開始時、上官が理不尽かつ勝手に素晴らしい“あだ名”を付けてくれる。\n<br>今日から、そのあだ名で戦場を駆け巡れ!",
+  "release_date_on_eshop": "2013-11-06",
+  "product_code": "CTR-N-JH3J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング",
+    "シミュレーション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

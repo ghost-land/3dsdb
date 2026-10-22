@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B324E50",
-    "uid": "50010000012451",
-    "name": "Cake Ninja 2",
-    "formal_name": "Cake Ninja 2",
-    "description": "Cake Ninja 2 is the sequel to the\nvery popular casual game, Cake Ninja,\nwhich was among the TOP 20 of the\nbest-selling Nintendo DSiWare games\nin North America. Slide the stylus\nacross the screen to slice cakes into\nsmall pieces like a true Ninja warrior.<br>\n<br>\nKey Features:<br>\n<br>\n- Simple, addictive gameplay<br>\n<br>\n- Colourful 3D graphics<br>\n<br>\n- Precise slice recognition<br>\n<br>\n- 8 challenging game modes<br>\n<br>\n- A collection of bonuses<br>\n<br>\n- Unlockable achievements<br>\n<br>\n- Post your results online and have a\nchance to earn 100,000\nNintendo DSi Points in the contest",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K2NP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Party"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324E50",
+  "uid": "50010000012451",
+  "name": "Cake Ninja 2",
+  "formal_name": "Cake Ninja 2",
+  "description": "Cake Ninja 2 is the sequel to the\nvery popular casual game, Cake Ninja,\nwhich was among the TOP 20 of the\nbest-selling Nintendo DSiWare games\nin North America. Slide the stylus\nacross the screen to slice cakes into\nsmall pieces like a true Ninja warrior.<br>\n<br>\nKey Features:<br>\n<br>\n- Simple, addictive gameplay<br>\n<br>\n- Colourful 3D graphics<br>\n<br>\n- Precise slice recognition<br>\n<br>\n- 8 challenging game modes<br>\n<br>\n- A collection of bonuses<br>\n<br>\n- Unlockable achievements<br>\n<br>\n- Post your results online and have a\nchance to earn 100,000\nNintendo DSi Points in the contest",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K2NP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Party"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

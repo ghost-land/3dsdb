@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001C2000",
-    "uid": "50010000044655",
-    "name": "Kirby™ Battle Royale",
-    "formal_name": "Kirby™ Battle Royale",
-    "description": "Kirby is entering a tournament against his toughest rival yet…himself! 1-4 players can fight in local* or online** battles. Pick from 10+ abilities and 10 battle types to compete in countless matchups. Hoard treasure in Ore Express, knock out opponents in Slam Hockey, shoot missiles at Robo Bonkers, and more! There’s a single-player story mode too!\n<br>\n<br>As you uncover King Dedede’s nefarious plan, you’ll unlock abilities and battle types in the Cake Royale tournament. In this competition, you’ll learn the basics of battle while earning Boost Orbs that power up Kirby, as well as nostalgic headgear to wear in other modes, and even a new playable character. Then dive into battle! 4 players can enjoy battling together via local wireless*, Online Ranked mode, or with Download Play. Compete in 2-on-2 or Free-For-All battles. May the last Kirby standing win!",
-    "release_date_on_eshop": "2018-01-19",
-    "product_code": "CTR-N-AJ8E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "*Additional games and systems required for multiplayer mode. Sold separately.\n<br>\n<br>**Wireless Internet access required for online play. For more info, go to support.nintendo.com.\n<br>\n<br>Game in 2D.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit\nhttp://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "00040000001C2000",
+  "uid": "50010000044655",
+  "name": "Kirby™ Battle Royale",
+  "formal_name": "Kirby™ Battle Royale",
+  "description": "Kirby is entering a tournament against his toughest rival yet…himself! 1-4 players can fight in local* or online** battles. Pick from 10+ abilities and 10 battle types to compete in countless matchups. Hoard treasure in Ore Express, knock out opponents in Slam Hockey, shoot missiles at Robo Bonkers, and more! There’s a single-player story mode too!\n<br>\n<br>As you uncover King Dedede’s nefarious plan, you’ll unlock abilities and battle types in the Cake Royale tournament. In this competition, you’ll learn the basics of battle while earning Boost Orbs that power up Kirby, as well as nostalgic headgear to wear in other modes, and even a new playable character. Then dive into battle! 4 players can enjoy battling together via local wireless*, Online Ranked mode, or with Download Play. Compete in 2-on-2 or Free-For-All battles. May the last Kirby standing win!",
+  "release_date_on_eshop": "2018-01-19",
+  "product_code": "CTR-N-AJ8E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "*Additional games and systems required for multiplayer mode. Sold separately.\n<br>\n<br>**Wireless Internet access required for online play. For more info, go to support.nintendo.com.\n<br>\n<br>Game in 2D.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit\nhttp://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

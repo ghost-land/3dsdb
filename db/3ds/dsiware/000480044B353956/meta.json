@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B353956",
-    "uid": "50010000001581",
-    "name": "Metal Torrent™",
-    "formal_name": "Metal Torrent™",
-    "description": "Prepare yourself for one of the most\nintense shoot ‘em ups to hit Nintendo\nDSiWare. Your mission is simple: get\nthe highest score possible, across\neight phases of fierce\nvertical-scrolling action.<br>\n<br>\nChoose from two powerful craft: Red\nOrion and Blue Nova, tailored for\nnovice or experienced players. Both\nships have standard blasters for\nunlimited fire, as well as special\nweapons unique to each craft. Special\nweapons drain your energy gauge,\nthough, so think before you fire!<br>\n<br>\nCollect cubes dropped by destroyed\nenemies to refill your energy gauge\nand increase your score. Skilled pilots\ncan boost their scores even further by\ncollecting chains of consecutive cubes\nwithout missing any.<br>\n<br>\nOnce you've blasted your way to a\nscore you're proud of, you can use\nNintendo Wi-Fi Connection to upload\nit to the online leaderboards and\ncompare it with players across the\nworld. You can also view replays of\ntop-ranking players’ games and learn\nfrom the best!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K59V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B353956",
+  "uid": "50010000001581",
+  "name": "Metal Torrent™",
+  "formal_name": "Metal Torrent™",
+  "description": "Prepare yourself for one of the most\nintense shoot ‘em ups to hit Nintendo\nDSiWare. Your mission is simple: get\nthe highest score possible, across\neight phases of fierce\nvertical-scrolling action.<br>\n<br>\nChoose from two powerful craft: Red\nOrion and Blue Nova, tailored for\nnovice or experienced players. Both\nships have standard blasters for\nunlimited fire, as well as special\nweapons unique to each craft. Special\nweapons drain your energy gauge,\nthough, so think before you fire!<br>\n<br>\nCollect cubes dropped by destroyed\nenemies to refill your energy gauge\nand increase your score. Skilled pilots\ncan boost their scores even further by\ncollecting chains of consecutive cubes\nwithout missing any.<br>\n<br>\nOnce you've blasted your way to a\nscore you're proud of, you can use\nNintendo Wi-Fi Connection to upload\nit to the online leaderboards and\ncompare it with players across the\nworld. You can also view replays of\ntop-ranking players’ games and learn\nfrom the best!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K59V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

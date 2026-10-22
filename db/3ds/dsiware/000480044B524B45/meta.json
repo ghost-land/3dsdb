@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B524B45",
-    "uid": "50010000003401",
-    "name": "Rytmik",
-    "formal_name": "Rytmik",
-    "description": "Rytmik is an application for creating rhythmical and melodic themes and for composing whole songs. It contains more than 170 carefully selected sound samples of drums, cymbals, percussions, bass, and melodic instruments.\n\nWith Rytmik you can quickly and easily create the basic building block—an audio clip. It consists of musical notations for up to four instruments that you may transpose, select their location in the stereo field, and modify their volume, polyphony, and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music. Moreover you have a rhythm library with a varied collection of 16 pre-made compositions at your disposal that you may quickly compose your own pieces from.\n\nFor the best musical experience we recommend connecting headphones or a quality speaker system. You’ll become the king of the Friday party scene in no time…",
-    "release_date_on_eshop": "2010-08-23",
-    "product_code": "TWL-N-KRKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other",
-        "Music"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524B45",
+  "uid": "50010000003401",
+  "name": "Rytmik",
+  "formal_name": "Rytmik",
+  "description": "Rytmik is an application for creating rhythmical and melodic themes and for composing whole songs. It contains more than 170 carefully selected sound samples of drums, cymbals, percussions, bass, and melodic instruments.\n\nWith Rytmik you can quickly and easily create the basic building block—an audio clip. It consists of musical notations for up to four instruments that you may transpose, select their location in the stereo field, and modify their volume, polyphony, and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music. Moreover you have a rhythm library with a varied collection of 16 pre-made compositions at your disposal that you may quickly compose your own pieces from.\n\nFor the best musical experience we recommend connecting headphones or a quality speaker system. You’ll become the king of the Friday party scene in no time…",
+  "release_date_on_eshop": "2010-08-23",
+  "product_code": "TWL-N-KRKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other",
+    "Music"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

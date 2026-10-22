@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000154900",
-    "uid": "50010000030815",
-    "name": "Flap Flap",
-    "formal_name": "Flap Flap",
-    "description": "Deliciously diabolical!<br>\n- Summon up all your skill, precision\nand nerves of steel: Flap Flap won't\ngo easy on you!<br>\n- Bit of a lightweight? Then all the\nbonuses and special abilities will come\nin handy...<br>\n- Unfortunately, there are also\nenemies and obstacles to make things\ncomplicated, too!\n",
-    "release_date_on_eshop": "2015-02-19",
-    "product_code": "CTR-P-BFFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000154900",
+  "uid": "50010000030815",
+  "name": "Flap Flap",
+  "formal_name": "Flap Flap",
+  "description": "Deliciously diabolical!<br>\n- Summon up all your skill, precision\nand nerves of steel: Flap Flap won't\ngo easy on you!<br>\n- Bit of a lightweight? Then all the\nbonuses and special abilities will come\nin handy...<br>\n- Unfortunately, there are also\nenemies and obstacles to make things\ncomplicated, too!\n",
+  "release_date_on_eshop": "2015-02-19",
+  "product_code": "CTR-P-BFFP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

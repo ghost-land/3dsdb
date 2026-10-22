@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000F7F00",
-    "uid": "50010000017531",
-    "name": "Inazuma Eleven® 3:\nTeam Ogre Attacks!",
-    "formal_name": "Inazuma Eleven® 3:\n<br>Team Ogre Attacks!",
-    "description": "Lace up those boots and get ready to\n<br>take to the field in Inazuma Eleven 3:\n<br>Team Ogre Attacks on Nintendo 3DS\n<br>family systems! This time, Mark Evans\n<br>and the rest of the Inazuma National\n<br>team face the tall order of reigning\n<br>supreme in the Frontier International\n<br>Championships – and they also have\n<br>to deal with a futuristic enemy that\n<br>has travelled back in time to threaten\n<br>the very existence of football!\n<br>\n<br>80 years in the future, Mark Evans’\n<br>great-grandson Canon Evans\n<br>encounters Team Ogre, who plan to\n<br>travel back 80 years and defeat\n<br>Inazuma National on the football field\n<br>to change the course of history, which\n<br>in their evil minds means creating a\n<br>world without football! In order to foil\n<br>these potentially devastating plans,\n<br>Canon must come face to face with\n<br>Mark so that they can work together\n<br>to preserve the fate of the beautiful\n<br>game, all while ensuring that Inazuma\n<br>National remains on course to be\n<br>crowned the greatest football team in\n<br>the world.\n<br>\n<br>Goal! Dive in to Inazuma Eleven 3:\n<br>Team Ogre Attacks!, an exciting blend\n<br>of RPG action and football exclusive\n<br>to Nintendo 3DS!",
-    "release_date_on_eshop": "2014-02-14",
-    "product_code": "CTR-P-AXGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F7F00",
+  "uid": "50010000017531",
+  "name": "Inazuma Eleven® 3:\nTeam Ogre Attacks!",
+  "formal_name": "Inazuma Eleven® 3:\n<br>Team Ogre Attacks!",
+  "description": "Lace up those boots and get ready to\n<br>take to the field in Inazuma Eleven 3:\n<br>Team Ogre Attacks on Nintendo 3DS\n<br>family systems! This time, Mark Evans\n<br>and the rest of the Inazuma National\n<br>team face the tall order of reigning\n<br>supreme in the Frontier International\n<br>Championships – and they also have\n<br>to deal with a futuristic enemy that\n<br>has travelled back in time to threaten\n<br>the very existence of football!\n<br>\n<br>80 years in the future, Mark Evans’\n<br>great-grandson Canon Evans\n<br>encounters Team Ogre, who plan to\n<br>travel back 80 years and defeat\n<br>Inazuma National on the football field\n<br>to change the course of history, which\n<br>in their evil minds means creating a\n<br>world without football! In order to foil\n<br>these potentially devastating plans,\n<br>Canon must come face to face with\n<br>Mark so that they can work together\n<br>to preserve the fate of the beautiful\n<br>game, all while ensuring that Inazuma\n<br>National remains on course to be\n<br>crowned the greatest football team in\n<br>the world.\n<br>\n<br>Goal! Dive in to Inazuma Eleven 3:\n<br>Team Ogre Attacks!, an exciting blend\n<br>of RPG action and football exclusive\n<br>to Nintendo 3DS!",
+  "release_date_on_eshop": "2014-02-14",
+  "product_code": "CTR-P-AXGP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000BD100",
-    "uid": "50010000019253",
-    "name": "Mario Bros.™",
-    "formal_name": "Mario Bros.™",
-    "description": "Mario Bros. is a treasure trove of\ngaming history. The follow-up to the\nhit Donkey Kong™, it was not only the\nfirst time our hero was known as\nMario, it also introduced his brother\nLuigi, green pipes, coins and even\nmore now-familiar elements of the\nMario series.\n\nThe gameplay is simple yet\nchallenging: eliminate all the enemies\nin each level for a big score.\nHowever, Mario cannot jump on\nenemies from above so must hit them\nfrom below and finish them off with a\nkick. Add a second player as Luigi for\neven more fun!",
-    "release_date_on_eshop": "2014-01-09",
-    "product_code": "CTR-N-TB7P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BD100",
+  "uid": "50010000019253",
+  "name": "Mario Bros.™",
+  "formal_name": "Mario Bros.™",
+  "description": "Mario Bros. is a treasure trove of\ngaming history. The follow-up to the\nhit Donkey Kong™, it was not only the\nfirst time our hero was known as\nMario, it also introduced his brother\nLuigi, green pipes, coins and even\nmore now-familiar elements of the\nMario series.\n\nThe gameplay is simple yet\nchallenging: eliminate all the enemies\nin each level for a big score.\nHowever, Mario cannot jump on\nenemies from above so must hit them\nfrom below and finish them off with a\nkick. Add a second player as Luigi for\neven more fun!",
+  "release_date_on_eshop": "2014-01-09",
+  "product_code": "CTR-N-TB7P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

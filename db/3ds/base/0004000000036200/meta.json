@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000036200",
-    "uid": "50010000007473",
-    "name": "Pet Zombies",
-    "formal_name": "Pet Zombies",
-    "description": "There’s no better pet than an undead pet! Pet Zombies for the Nintendo 3DS system lets you reanimate your very own customizable zombies that you can play with, care for, or torment in a variety of environments where they can shamble, shuffle and lurch. Bond with your zombie by providing it food, toys and interaction, but be careful; if you neglect your zombie, you may find yourself minus a finger, or...a brain!\n<br><br>\nA pet sim spoof with a horrific twist! Raise your own pet zombie, each with its own personality, by managing special dietary preferences, bodily maintenance, and morbid activities needed to keep it happily undead.<br>\nSee cool, eye-popping, gory effects for things like thrown food, drinks, toys or brains with the stereoscopic 3D screen.<br>\nPlay with your zombies in various mini-games like “Zombie Launch”, “Luck of the Dead”, “Dumpster Dive”, and more!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-APZE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Animated Blood",
-        "Crude Humor",
-        "Fantasy Violence"
-    ]
+  "tid": "0004000000036200",
+  "uid": "50010000007473",
+  "name": "Pet Zombies",
+  "formal_name": "Pet Zombies",
+  "description": "There’s no better pet than an undead pet! Pet Zombies for the Nintendo 3DS system lets you reanimate your very own customizable zombies that you can play with, care for, or torment in a variety of environments where they can shamble, shuffle and lurch. Bond with your zombie by providing it food, toys and interaction, but be careful; if you neglect your zombie, you may find yourself minus a finger, or...a brain!\n<br><br>\nA pet sim spoof with a horrific twist! Raise your own pet zombie, each with its own personality, by managing special dietary preferences, bodily maintenance, and morbid activities needed to keep it happily undead.<br>\nSee cool, eye-popping, gory effects for things like thrown food, drinks, toys or brains with the stereoscopic 3D screen.<br>\nPlay with your zombies in various mini-games like “Zombie Launch”, “Luck of the Dead”, “Dumpster Dive”, and more!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-APZE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Animated Blood",
+    "Crude Humor",
+    "Fantasy Violence"
+  ]
 }

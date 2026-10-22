@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000B2B00",
-    "uid": "50010000021774",
-    "name": "Castlevania III: Dracula's Curse",
-    "formal_name": "Castlevania III: Dracula's Curse",
-    "description": "Fight back against Dracula in the\nthird exciting instalment of the highly\npopular Castlevania franchise! As with\nthe original ‘Castlevania’, the player’s\ngoal is to work their way through\ndeviously challenging levels, but this\ntime there's a difference - when the\nlevel ends, you can choose one of\ntwo paths to take for a completely\ndifferent experience!\n<br/><br/>\nThe most innovative feature of this\ngame lies with the spirit companions\nthat the player will meet through the\njourney. Besides the main character\nTrevor, who uses the traditional\nBelmont weapon, the Mystic Whip, as\nwell as a number of items, the player\ncan also strike up a spiritual\npartnership with any one of three\ndistinctive characters. These include\nSypha the imprisoned sorceress, Grant\nthe pirate, who is able to jump high\nand climb up walls, and Alucard, who\nis Dracula's son but has a bone to\npick with his father.\n<br/><br/>\nWith a range of diverse characters\nand paths available to choose from,\nthis game boasts incredible replay\nvalue, ensuring that each playthrough\nis a new experience!",
-    "release_date_on_eshop": "2014-04-17",
-    "product_code": "CTR-N-TBSP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B2B00",
+  "uid": "50010000021774",
+  "name": "Castlevania III: Dracula's Curse",
+  "formal_name": "Castlevania III: Dracula's Curse",
+  "description": "Fight back against Dracula in the\nthird exciting instalment of the highly\npopular Castlevania franchise! As with\nthe original ‘Castlevania’, the player’s\ngoal is to work their way through\ndeviously challenging levels, but this\ntime there's a difference - when the\nlevel ends, you can choose one of\ntwo paths to take for a completely\ndifferent experience!\n<br/><br/>\nThe most innovative feature of this\ngame lies with the spirit companions\nthat the player will meet through the\njourney. Besides the main character\nTrevor, who uses the traditional\nBelmont weapon, the Mystic Whip, as\nwell as a number of items, the player\ncan also strike up a spiritual\npartnership with any one of three\ndistinctive characters. These include\nSypha the imprisoned sorceress, Grant\nthe pirate, who is able to jump high\nand climb up walls, and Alucard, who\nis Dracula's son but has a bone to\npick with his father.\n<br/><br/>\nWith a range of diverse characters\nand paths available to choose from,\nthis game boasts incredible replay\nvalue, ensuring that each playthrough\nis a new experience!",
+  "release_date_on_eshop": "2014-04-17",
+  "product_code": "CTR-N-TBSP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

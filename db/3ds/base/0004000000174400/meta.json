@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000174400",
-    "uid": "50010000038755",
-    "name": "Pokémon™ Super\nMystery Dungeon",
-    "formal_name": "Pokémon™ Super\n<br>Mystery Dungeon",
-    "description": "Prepare yourself for a grand\n<br>adventure with Pokémon Super\n<br>Mystery Dungeon for Nintendo 3DS\n<br>family systems. Experience a world\n<br>like no other, where Pokémon speak,\n<br>and go on incredible adventures!\n<br>\n<br>Choose from 20 Pokémon that you\n<br>can become before heading out on a\n<br>journey to encounter all currently\n<br>known Pokémon, including Legendary\n<br>and Mythical Pokémon. With the help\n<br>of your trusty Pokémon partner, find\n<br>the cause of terrifying incidents that\n<br>include Pokémon being turned into\n<br>stone and put a stop to it!",
-    "release_date_on_eshop": "2016-02-19",
-    "product_code": "CTR-P-BPXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000174400",
+  "uid": "50010000038755",
+  "name": "Pokémon™ Super\nMystery Dungeon",
+  "formal_name": "Pokémon™ Super\n<br>Mystery Dungeon",
+  "description": "Prepare yourself for a grand\n<br>adventure with Pokémon Super\n<br>Mystery Dungeon for Nintendo 3DS\n<br>family systems. Experience a world\n<br>like no other, where Pokémon speak,\n<br>and go on incredible adventures!\n<br>\n<br>Choose from 20 Pokémon that you\n<br>can become before heading out on a\n<br>journey to encounter all currently\n<br>known Pokémon, including Legendary\n<br>and Mythical Pokémon. With the help\n<br>of your trusty Pokémon partner, find\n<br>the cause of terrifying incidents that\n<br>include Pokémon being turned into\n<br>stone and put a stop to it!",
+  "release_date_on_eshop": "2016-02-19",
+  "product_code": "CTR-P-BPXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

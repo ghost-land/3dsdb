@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000D7B00",
-    "uid": "50010000013638",
-    "name": "3D スーパーハングオン",
-    "formal_name": "3D スーパーハングオン",
-    "description": "名作レースゲーム『スーパーハングオン』が3D立体視に対応して登場。全世界4つのコースをターボ搭載のスーパーバイクで駆け抜けます。ジャイロセンサーを使ってプレイすれば、プレイに合わせてゲーム画面までもがハングオン! ゲームセンターの興奮が疑似再現されます。",
-    "release_date_on_eshop": "2013-03-27",
-    "product_code": "CTR-N-JHAJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D7B00",
+  "uid": "50010000013638",
+  "name": "3D スーパーハングオン",
+  "formal_name": "3D スーパーハングオン",
+  "description": "名作レースゲーム『スーパーハングオン』が3D立体視に対応して登場。全世界4つのコースをターボ搭載のスーパーバイクで駆け抜けます。ジャイロセンサーを使ってプレイすれば、プレイに合わせてゲーム画面までもがハングオン! ゲームセンターの興奮が疑似再現されます。",
+  "release_date_on_eshop": "2013-03-27",
+  "product_code": "CTR-N-JHAJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

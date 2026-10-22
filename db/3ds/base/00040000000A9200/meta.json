@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000A9200",
-    "uid": "50010000011646",
-    "name": "PICROSS e",
-    "formal_name": "PICROSS e",
-    "description": "This is the series of \"picture\ncrossword puzzles\" in which you use\nnumbers as hints to complete\nillustrations that Nintendo has been\ndeveloping as its own brand of game\nsoftware since 1995.<br>\n<br>\nAnyone can enjoy it with its simple\nand easy to understand rules.<br>\n<br>\nWith this version's newly implemented\nnavigation feature, the puzzles can be\nsolved more smoothly than ever.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JEXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A9200",
+  "uid": "50010000011646",
+  "name": "PICROSS e",
+  "formal_name": "PICROSS e",
+  "description": "This is the series of \"picture\ncrossword puzzles\" in which you use\nnumbers as hints to complete\nillustrations that Nintendo has been\ndeveloping as its own brand of game\nsoftware since 1995.<br>\n<br>\nAnyone can enjoy it with its simple\nand easy to understand rules.<br>\n<br>\nWith this version's newly implemented\nnavigation feature, the puzzles can be\nsolved more smoothly than ever.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JEXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

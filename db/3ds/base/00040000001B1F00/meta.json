@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001B1F00",
-    "uid": "50010000042318",
-    "name": "Sudoku Party",
-    "formal_name": "Sudoku Party",
-    "description": "Download Sudoku Party for free if you have already downloaded Sudoku Party on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>You've never played sudoku like this\n<br>before. Two players, one puzzle!\n<br>\n<br>There are 1,000 exclusive puzzles to\n<br>solve on your own, or co-operatively\n<br>with a friend.\n<br>\n<br>Or if you feel like getting competitive,\n<br>Party Mode lets you battle it out\n<br>against an opponent to see who can\n<br>think the quickest with unique\n<br>fast-action gameplay.\n<br>\n<br>Solve a square and your opponent\n<br>has only seconds to respond or the\n<br>point is yours. When your opponent\n<br>makes a move, you have to match it\n<br>quickly or lose the square for good.\n<br>\n<br>Can you keep up? Or will you choose\n<br>a different path, hoping to lock in\n<br>more squares simply by thinking\n<br>faster?\n<br>\n<br>Use Download Play to play with\n<br>nearby friends using only one copy of\n<br>the game, or go online to battle the\n<br>next available opponent.\n<br>\n<br>Sudoku Party features 1,000\n<br>exclusive puzzles designed by\n<br>Conceptis, the world's leading creator\n<br>of logic puzzles. They're all\n<br>professionally crafted, uniquely\n<br>solvable, beautifully symmetrical\n<br>puzzles, graded in four difficulty levels.",
-    "release_date_on_eshop": "2017-03-23",
-    "product_code": "CTR-N-KYBP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B1F00",
+  "uid": "50010000042318",
+  "name": "Sudoku Party",
+  "formal_name": "Sudoku Party",
+  "description": "Download Sudoku Party for free if you have already downloaded Sudoku Party on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>You've never played sudoku like this\n<br>before. Two players, one puzzle!\n<br>\n<br>There are 1,000 exclusive puzzles to\n<br>solve on your own, or co-operatively\n<br>with a friend.\n<br>\n<br>Or if you feel like getting competitive,\n<br>Party Mode lets you battle it out\n<br>against an opponent to see who can\n<br>think the quickest with unique\n<br>fast-action gameplay.\n<br>\n<br>Solve a square and your opponent\n<br>has only seconds to respond or the\n<br>point is yours. When your opponent\n<br>makes a move, you have to match it\n<br>quickly or lose the square for good.\n<br>\n<br>Can you keep up? Or will you choose\n<br>a different path, hoping to lock in\n<br>more squares simply by thinking\n<br>faster?\n<br>\n<br>Use Download Play to play with\n<br>nearby friends using only one copy of\n<br>the game, or go online to battle the\n<br>next available opponent.\n<br>\n<br>Sudoku Party features 1,000\n<br>exclusive puzzles designed by\n<br>Conceptis, the world's leading creator\n<br>of logic puzzles. They're all\n<br>professionally crafted, uniquely\n<br>solvable, beautifully symmetrical\n<br>puzzles, graded in four difficulty levels.",
+  "release_date_on_eshop": "2017-03-23",
+  "product_code": "CTR-N-KYBP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

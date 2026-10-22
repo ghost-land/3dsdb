@@ -1,28 +1,28 @@
 {
-    "tid": "000400000018AA00",
-    "uid": "50010000040056",
-    "name": "Doll Fashion Atelier",
-    "formal_name": "Doll Fashion Atelier",
-    "description": "Choose a doll from 5 different themes: Pretty, Gothic, Victorian, Princess or Antique, and dress it up in stunning clothing pieces! There are over 600 items available, including clothes, shoes, accessories, hairstyles, make-ups and more! Add a frame and a background, draw a doodle and take a photo with a camera on your Nintendo 3DS™. Show your doll collections by creating albums and saving them to your SD card or sharing them on Miiverse™.",
-    "release_date_on_eshop": "2016-04-07",
-    "product_code": "CTR-N-AULE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Simulation",
-        "Adventure",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000018AA00",
+  "uid": "50010000040056",
+  "name": "Doll Fashion Atelier",
+  "formal_name": "Doll Fashion Atelier",
+  "description": "Choose a doll from 5 different themes: Pretty, Gothic, Victorian, Princess or Antique, and dress it up in stunning clothing pieces! There are over 600 items available, including clothes, shoes, accessories, hairstyles, make-ups and more! Add a frame and a background, draw a doodle and take a photo with a camera on your Nintendo 3DS™. Show your doll collections by creating albums and saving them to your SD card or sharing them on Miiverse™.",
+  "release_date_on_eshop": "2016-04-07",
+  "product_code": "CTR-N-AULE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Adventure",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

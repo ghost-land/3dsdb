@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B414D45",
-    "uid": "50010000001022",
-    "name": "Paper Airplane Chase™",
-    "formal_name": "Paper Airplane Chase™",
-    "description": "In Paper Airplane Chase, glide your virtual paper plane through an increasingly tricky slalom course. Take it slow in Endless mode or zip through several Time Attack courses. The two-player Race mode allows friends to race each other using a single Nintendo DSi system.\n\n(Content available in English, French, and Spanish.)",
-    "release_date_on_eshop": "2009-04-27",
-    "product_code": "TWL-N-KAME",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game content was previously released as part of WarioWare, Inc.: Mega Microgame$ for Game Boy Advance.",
-    "descriptors": []
+  "tid": "000480044B414D45",
+  "uid": "50010000001022",
+  "name": "Paper Airplane Chase™",
+  "formal_name": "Paper Airplane Chase™",
+  "description": "In Paper Airplane Chase, glide your virtual paper plane through an increasingly tricky slalom course. Take it slow in Endless mode or zip through several Time Attack courses. The two-player Race mode allows friends to race each other using a single Nintendo DSi system.\n\n(Content available in English, French, and Spanish.)",
+  "release_date_on_eshop": "2009-04-27",
+  "product_code": "TWL-N-KAME",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game content was previously released as part of WarioWare, Inc.: Mega Microgame$ for Game Boy Advance.",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000177F00",
-    "uid": "50010000039416",
-    "name": "ロックマン\nクラシックス コレクション",
-    "formal_name": "ロックマン クラシックス コレクション",
-    "description": "カプコンの名作、8ビットのロックマンが『ロックマン クラシックス コレクション』として登場！ 6つの人気シリーズと『チャレンジ』モードを1本に収録。ミュージアム、データベースでは、当時の開発途中スケッチやコンセプトアートを掲載。",
-    "release_date_on_eshop": "2016-02-25",
-    "product_code": "CTR-N-BMMJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000177F00",
+  "uid": "50010000039416",
+  "name": "ロックマン\nクラシックス コレクション",
+  "formal_name": "ロックマン クラシックス コレクション",
+  "description": "カプコンの名作、8ビットのロックマンが『ロックマン クラシックス コレクション』として登場！ 6つの人気シリーズと『チャレンジ』モードを1本に収録。ミュージアム、データベースでは、当時の開発途中スケッチやコンセプトアートを掲載。",
+  "release_date_on_eshop": "2016-02-25",
+  "product_code": "CTR-N-BMMJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000DE000",
-    "uid": "50010000021833",
-    "name": "Mystery Case Files®\n<br>Return to Ravenhearst",
-    "formal_name": "Mystery Case Files®\n<br>Return to Ravenhearst",
-    "description": "Emma's soul is free. But her ghost has delivered a dire warning: evil still lurks in Ravenhearst Manor.\n<br>\n<br>Big Fish Games Studios takes you deep inside the cursed estate in Mystery Case Files: Return to Ravenhearst™, the thrilling sequel. Experience Ravenhearst's spectral halls as never before with new immersive adventure-style gameplay and an epic original soundtrack. Feel the floorboards creak as you move from room to room solving puzzles and seeking out clues in over 150 detailed scenes.\n<br>",
-    "release_date_on_eshop": "2014-04-24",
-    "product_code": "CTR-N-AR2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000DE000",
+  "uid": "50010000021833",
+  "name": "Mystery Case Files®\n<br>Return to Ravenhearst",
+  "formal_name": "Mystery Case Files®\n<br>Return to Ravenhearst",
+  "description": "Emma's soul is free. But her ghost has delivered a dire warning: evil still lurks in Ravenhearst Manor.\n<br>\n<br>Big Fish Games Studios takes you deep inside the cursed estate in Mystery Case Files: Return to Ravenhearst™, the thrilling sequel. Experience Ravenhearst's spectral halls as never before with new immersive adventure-style gameplay and an epic original soundtrack. Feel the floorboards creak as you move from room to room solving puzzles and seeking out clues in over 150 detailed scenes.\n<br>",
+  "release_date_on_eshop": "2014-04-24",
+  "product_code": "CTR-N-AR2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

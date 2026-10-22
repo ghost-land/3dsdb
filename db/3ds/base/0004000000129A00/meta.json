@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000129A00",
-    "uid": "50010000021453",
-    "name": "SKYPEACE",
-    "formal_name": "SKYPEACE",
-    "description": "『SKYPEACE』は次々と現れる敵を上手く避けつつ、ステージクリアを目指すハイスピードアクションゲームです。\n<br>\n<br>かんたん操作で大量のコインをゲットする爽快感!\n<br>連続コインゲットで発生するコンボをつないで、ハイスコアを目指しましょう。\n<br>\n<br>さらに、いろいろな条件で獲得できる「称号コレクション」でやりこみ要素も充実!\n<br>空を舞台に繰り広げられる爽快ハイスピードアクションをお楽しみください!!",
-    "release_date_on_eshop": "2014-04-09",
-    "product_code": "CTR-N-JKJJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000129A00",
+  "uid": "50010000021453",
+  "name": "SKYPEACE",
+  "formal_name": "SKYPEACE",
+  "description": "『SKYPEACE』は次々と現れる敵を上手く避けつつ、ステージクリアを目指すハイスピードアクションゲームです。\n<br>\n<br>かんたん操作で大量のコインをゲットする爽快感!\n<br>連続コインゲットで発生するコンボをつないで、ハイスコアを目指しましょう。\n<br>\n<br>さらに、いろいろな条件で獲得できる「称号コレクション」でやりこみ要素も充実!\n<br>空を舞台に繰り広げられる爽快ハイスピードアクションをお楽しみください!!",
+  "release_date_on_eshop": "2014-04-09",
+  "product_code": "CTR-N-JKJJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

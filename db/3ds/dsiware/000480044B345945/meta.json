@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B345945",
-    "uid": "50010000000901",
-    "name": "101 Shark Pets",
-    "formal_name": "101 Shark Pets",
-    "description": "Choose from over 101 baby sharks or simply adopt them all! Discover their personalities as you feed, clean and care for your new pets. Bring out your pet's talents by training your shark in a variety of fun and wacky activities. Enter your shark into pet shows and earn money to buy exciting upgrades including toys, food, clothes, accessories and more! The more tricks you teach and the more games you play, the more fun you'll have! You'll never be bored with so many new best friends to pamper, play with, and love!",
-    "release_date_on_eshop": "2010-07-05",
-    "product_code": "TWL-N-K4YE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B345945",
+  "uid": "50010000000901",
+  "name": "101 Shark Pets",
+  "formal_name": "101 Shark Pets",
+  "description": "Choose from over 101 baby sharks or simply adopt them all! Discover their personalities as you feed, clean and care for your new pets. Bring out your pet's talents by training your shark in a variety of fun and wacky activities. Enter your shark into pet shows and earn money to buy exciting upgrades including toys, food, clothes, accessories and more! The more tricks you teach and the more games you play, the more fun you'll have! You'll never be bored with so many new best friends to pamper, play with, and love!",
+  "release_date_on_eshop": "2010-07-05",
+  "product_code": "TWL-N-K4YE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

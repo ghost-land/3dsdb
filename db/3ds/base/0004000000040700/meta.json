@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000040700",
-    "uid": "50010000007494",
-    "name": "Ben 10™ Galactic Racing",
-    "formal_name": "Ben 10™ Galactic Racing",
-    "description": "• Fast-paced racing action set in the BEN 10 universe and based on the hit Cartoon Network TV show.<br>\n• Race in over 30 different karts in 25 exhilarating and challenging grand prix tracks spread across 5 environmental worlds from the BEN 10 universe.<br>\n• 15 characters for players to race as, including heroes like Ben, Kevin and 10 of Ben’s most popular alien forms.<br>\n• An “Ultimate” power move unleashes a super charged, race changing boost of speed and power themed to each character’s abilities.<br>\n• Drifting and mid-air stunts that both add to the excitement of the race and charge up character-specific attacks and defenses.<br>\n• Single-player and Multiplayer modes include: Single Race, Grand Prix Circuit, Time Trials, Short Circuit, and Arena Showdowns (multiplayer only).<br>",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ABNE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Racing",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Comic Mischief",
-        "Mild Cartoon Violence"
-    ]
+  "tid": "0004000000040700",
+  "uid": "50010000007494",
+  "name": "Ben 10™ Galactic Racing",
+  "formal_name": "Ben 10™ Galactic Racing",
+  "description": "• Fast-paced racing action set in the BEN 10 universe and based on the hit Cartoon Network TV show.<br>\n• Race in over 30 different karts in 25 exhilarating and challenging grand prix tracks spread across 5 environmental worlds from the BEN 10 universe.<br>\n• 15 characters for players to race as, including heroes like Ben, Kevin and 10 of Ben’s most popular alien forms.<br>\n• An “Ultimate” power move unleashes a super charged, race changing boost of speed and power themed to each character’s abilities.<br>\n• Drifting and mid-air stunts that both add to the excitement of the race and charge up character-specific attacks and defenses.<br>\n• Single-player and Multiplayer modes include: Single Race, Grand Prix Circuit, Time Trials, Short Circuit, and Arena Showdowns (multiplayer only).<br>",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ABNE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Racing",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Comic Mischief",
+    "Mild Cartoon Violence"
+  ]
 }

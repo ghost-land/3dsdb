@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000AAF00",
-    "uid": "50010000011826",
-    "name": "Heavy Fire: \nSpecial Operations 3D",
-    "formal_name": "Heavy Fire: Special Operations 3D",
-    "description": "Gear up and join an elite Special Forces unit in Heavy Fire: Special Operations 3D, an arcade-style on-rail shooter for Nintendo 3DS™. Choose from three character profiles, each with unique attributes, and use a combination of brains and brawn (but mostly brawn) to blast your way through a variety of dangerous ground, vehicle and air-based stages. And if you’re really feeling trigger-happy, you can earn additional points by blowing up the environment. Each victory sees your military rank rise, earning you increasingly powerful and upgradeable weapons. \nYou’ll need preternatural reflexes and a never-say-die spirit to restore peace in the ever-volatile Middle East. When the smoke clears, will you be a Special Operations legend? \n<br><br>\nFeatures: <br>\n- A destructible environment featuring exotic Middle Eastern locales <br>\n- Slug your way through six diverse, challenging levels <br>\n- Higher military ranks enable more powerful weaponry <br>\n- A game store bursting with all kinds of cool power-ups",
-    "release_date_on_eshop": "2012-09-13",
-    "product_code": "CTR-N-JHFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "First-Person Shooter",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000AAF00",
+  "uid": "50010000011826",
+  "name": "Heavy Fire: \nSpecial Operations 3D",
+  "formal_name": "Heavy Fire: Special Operations 3D",
+  "description": "Gear up and join an elite Special Forces unit in Heavy Fire: Special Operations 3D, an arcade-style on-rail shooter for Nintendo 3DS™. Choose from three character profiles, each with unique attributes, and use a combination of brains and brawn (but mostly brawn) to blast your way through a variety of dangerous ground, vehicle and air-based stages. And if you’re really feeling trigger-happy, you can earn additional points by blowing up the environment. Each victory sees your military rank rise, earning you increasingly powerful and upgradeable weapons. \nYou’ll need preternatural reflexes and a never-say-die spirit to restore peace in the ever-volatile Middle East. When the smoke clears, will you be a Special Operations legend? \n<br><br>\nFeatures: <br>\n- A destructible environment featuring exotic Middle Eastern locales <br>\n- Slug your way through six diverse, challenging levels <br>\n- Higher military ranks enable more powerful weaponry <br>\n- A game store bursting with all kinds of cool power-ups",
+  "release_date_on_eshop": "2012-09-13",
+  "product_code": "CTR-N-JHFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "First-Person Shooter",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

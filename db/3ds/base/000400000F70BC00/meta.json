@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F70BC00",
-    "uid": "50010000042545",
-    "name": "Ascent of Kings",
-    "formal_name": "Ascent of Kings",
-    "description": "The death of a King. An epic challenge to choose a new ruler. Will the youngest of four brothers turn out to be the strongest? Will a boy become King? The answer is up to you.\n<br>\n<br>Classic adventure-platformer gameplay.\n<br>\n<br>Explore and encounter strange creatures - some harmless, some not.\n<br>\n<br>Navigate dangerous passages and evade deadly traps.\n<br>\n<br>Seek out elemental shrines and receive upgraded abilities.",
-    "release_date_on_eshop": "2017-01-01",
-    "product_code": "KTR-N-CAME",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70BC00",
+  "uid": "50010000042545",
+  "name": "Ascent of Kings",
+  "formal_name": "Ascent of Kings",
+  "description": "The death of a King. An epic challenge to choose a new ruler. Will the youngest of four brothers turn out to be the strongest? Will a boy become King? The answer is up to you.\n<br>\n<br>Classic adventure-platformer gameplay.\n<br>\n<br>Explore and encounter strange creatures - some harmless, some not.\n<br>\n<br>Navigate dangerous passages and evade deadly traps.\n<br>\n<br>Seek out elemental shrines and receive upgraded abilities.",
+  "release_date_on_eshop": "2017-01-01",
+  "product_code": "KTR-N-CAME",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

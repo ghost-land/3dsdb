@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000169700",
-    "uid": "50010000033635",
-    "name": "My Zoo Vet Practice 3D",
-    "formal_name": "My Zoo Vet Practice 3D",
-    "description": "Be part of an unbelievably wild 3D experience!\n<br>Care for animals you love so much in the biggest zoo you can imagine. Examine elephants with the stethoscope, help giraffes with sore throats or perform dental treatments on lions – all in a fabulous 3D view!\n<br>\n<br>- Look after super cute animals from all over the world: Lion, Tiger, Polar Bear, Chimpanzee, Elephant, Giraffe, Orang-Utan, Seal and Penguin\n<br>- Use the interactive options of your Nintendo 3DS™: give medicine, palpate, take a listen with the stethoscope, care for wounds, rub with ointment, pull hurting teeth, take the temperature and much more\n<br>- Get in your off-road vehicle and drive to your patients the shortest way\n<br>- Take serious cases to specialized compounds for treatment, feeding, brushing and stroking\n<br>- Don’t forget to anesthetize lion, tiger and polar bear carefully, before examining them\n<br>- Learn all about the animals home regions Savannah, Rain Forest and the Polar Region\n<br>- Expand the compounds with climbing trees, shelters, troughs and toys\n<br>- Collect Nintendo Play Coins and exchange them for in-game currency",
-    "release_date_on_eshop": "2015-06-18",
-    "product_code": "CTR-P-ATXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Other",
-        "Adventure",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000169700",
+  "uid": "50010000033635",
+  "name": "My Zoo Vet Practice 3D",
+  "formal_name": "My Zoo Vet Practice 3D",
+  "description": "Be part of an unbelievably wild 3D experience!\n<br>Care for animals you love so much in the biggest zoo you can imagine. Examine elephants with the stethoscope, help giraffes with sore throats or perform dental treatments on lions – all in a fabulous 3D view!\n<br>\n<br>- Look after super cute animals from all over the world: Lion, Tiger, Polar Bear, Chimpanzee, Elephant, Giraffe, Orang-Utan, Seal and Penguin\n<br>- Use the interactive options of your Nintendo 3DS™: give medicine, palpate, take a listen with the stethoscope, care for wounds, rub with ointment, pull hurting teeth, take the temperature and much more\n<br>- Get in your off-road vehicle and drive to your patients the shortest way\n<br>- Take serious cases to specialized compounds for treatment, feeding, brushing and stroking\n<br>- Don’t forget to anesthetize lion, tiger and polar bear carefully, before examining them\n<br>- Learn all about the animals home regions Savannah, Rain Forest and the Polar Region\n<br>- Expand the compounds with climbing trees, shelters, troughs and toys\n<br>- Collect Nintendo Play Coins and exchange them for in-game currency",
+  "release_date_on_eshop": "2015-06-18",
+  "product_code": "CTR-P-ATXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Other",
+    "Adventure",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

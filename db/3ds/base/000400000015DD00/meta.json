@@ -1,27 +1,27 @@
 {
-    "tid": "000400000015DD00",
-    "uid": "50010000029795",
-    "name": "アイコンパズル タッピンゴ",
-    "formal_name": "アイコンパズル タッピンゴ",
-    "description": "「タッピンゴ」は、長さが決まったカラーブロックを、決まった長さだけ伸ばして、フィールドを埋めて、アイコンを作り上げる「アイコンパズル」です。\n<br>\n<br>イラストロジックのような「中毒性」がありつつ、タッチ→スライドでサクサクアイコンが完成していく、誰でも楽しめる1本です。",
-    "release_date_on_eshop": "2015-01-28",
-    "product_code": "CTR-N-JTPJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015DD00",
+  "uid": "50010000029795",
+  "name": "アイコンパズル タッピンゴ",
+  "formal_name": "アイコンパズル タッピンゴ",
+  "description": "「タッピンゴ」は、長さが決まったカラーブロックを、決まった長さだけ伸ばして、フィールドを埋めて、アイコンを作り上げる「アイコンパズル」です。\n<br>\n<br>イラストロジックのような「中毒性」がありつつ、タッチ→スライドでサクサクアイコンが完成していく、誰でも楽しめる1本です。",
+  "release_date_on_eshop": "2015-01-28",
+  "product_code": "CTR-N-JTPJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

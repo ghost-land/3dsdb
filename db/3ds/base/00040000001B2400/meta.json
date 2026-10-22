@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001B2400",
-    "uid": "50010000041996",
-    "name": "真・女神転生\nDEEP STRANGE JOURNEY",
-    "formal_name": "真・女神転生 DEEP STRANGE JOURNEY",
-    "description": "1992年に第一作『真・女神転生』を発売し、本年には25周年を迎える『真・女神転生』シリーズ。2009年に発売されシリーズ内でも屈指の名作と名高い『真・女神転生 STRANGE JOURNEY』が、遊びやすくリファインされ、そしてさまざまな追加要素を加え、ニンテンドー3DSで登場します。荒廃的な世界観と、多様な悪魔たち、そして迫られる人類の未来への選択。シリーズの持ち味をふんだんに生かしつつ、新キャラクター・アレックスが織りなす新たなストーリー。本作をプレイしていない方はもちろん、一度プレイされた方も十分にご満足いただける、ディープな悪魔体験をお届けいたします。",
-    "release_date_on_eshop": "2017-10-26",
-    "product_code": "CTR-N-AJ9J",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "インターネット対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "15"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001B2400",
+  "uid": "50010000041996",
+  "name": "真・女神転生\nDEEP STRANGE JOURNEY",
+  "formal_name": "真・女神転生 DEEP STRANGE JOURNEY",
+  "description": "1992年に第一作『真・女神転生』を発売し、本年には25周年を迎える『真・女神転生』シリーズ。2009年に発売されシリーズ内でも屈指の名作と名高い『真・女神転生 STRANGE JOURNEY』が、遊びやすくリファインされ、そしてさまざまな追加要素を加え、ニンテンドー3DSで登場します。荒廃的な世界観と、多様な悪魔たち、そして迫られる人類の未来への選択。シリーズの持ち味をふんだんに生かしつつ、新キャラクター・アレックスが織りなす新たなストーリー。本作をプレイしていない方はもちろん、一度プレイされた方も十分にご満足いただける、ディープな悪魔体験をお届けいたします。",
+  "release_date_on_eshop": "2017-10-26",
+  "product_code": "CTR-N-AJ9J",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "インターネット対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "15"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

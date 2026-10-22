@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000CD000",
-    "uid": "50010000014616",
-    "name": "Games Festival 1",
-    "formal_name": "Games Festival 1",
-    "description": "Hear ye! Hear ye! Hear ye! Gather\nround and join in the fun of the fair!\n<br/>\nAmusements for one and all, dart and\nballoon games, games of skill, and\neven the famous hook-a-duck!\n<br/>\nOn your own or with your friends, the\nonly thing missing is candyfloss!",
-    "release_date_on_eshop": "2013-10-03",
-    "product_code": "CTR-P-AAEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CD000",
+  "uid": "50010000014616",
+  "name": "Games Festival 1",
+  "formal_name": "Games Festival 1",
+  "description": "Hear ye! Hear ye! Hear ye! Gather\nround and join in the fun of the fair!\n<br/>\nAmusements for one and all, dart and\nballoon games, games of skill, and\neven the famous hook-a-duck!\n<br/>\nOn your own or with your friends, the\nonly thing missing is candyfloss!",
+  "release_date_on_eshop": "2013-10-03",
+  "product_code": "CTR-P-AAEP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

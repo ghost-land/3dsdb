@@ -1,33 +1,33 @@
 {
-    "tid": "000480044B363445",
-    "uid": "50010000000961",
-    "name": "Battle of Giants™: \nMutant Insects - Revenge",
-    "formal_name": "Battle of Giants™: \nMutant Insects - Revenge",
-    "description": "After the defeat of the Mutant King, the Mutant Queen rose up from the core of the Earth and forced the remaining giant insects into submission. Now it is your job to locate and free the Scorpion Champion, the only giant insect with the ability to defeat the Mutant Queen.  Complete 10 new missions, defeat your enemies and liberate the Scorpion Champion!\n\nCustomize your giant insect with tribal stripes, equip it with special powers and enhance your abilities. Challenge your friends to duels of supremacy on the Nintendo DS. Are you strong enough to win this Battle of Giants™?\n\n",
-    "release_date_on_eshop": "2010-06-28",
-    "product_code": "TWL-N-K64E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Fighting",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B363445",
+  "uid": "50010000000961",
+  "name": "Battle of Giants™: \nMutant Insects - Revenge",
+  "formal_name": "Battle of Giants™: \nMutant Insects - Revenge",
+  "description": "After the defeat of the Mutant King, the Mutant Queen rose up from the core of the Earth and forced the remaining giant insects into submission. Now it is your job to locate and free the Scorpion Champion, the only giant insect with the ability to defeat the Mutant Queen.  Complete 10 new missions, defeat your enemies and liberate the Scorpion Champion!\n\nCustomize your giant insect with tribal stripes, equip it with special powers and enhance your abilities. Challenge your friends to duels of supremacy on the Nintendo DS. Are you strong enough to win this Battle of Giants™?\n\n",
+  "release_date_on_eshop": "2010-06-28",
+  "product_code": "TWL-N-K64E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fighting",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

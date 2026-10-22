@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B435456",
-    "uid": "50010000002761",
-    "name": "Chess Challenge!",
-    "formal_name": "Chess Challenge!",
-    "description": "Patience will be key in order to score\nbig in Chess Challenge! Perfect your\nchess skills playing against the\ncomputer in multiple difficulty modes,\nor play against your friends in either\nshared or wireless play via DS\nWireless Communication.<br>\n<br>\nStart off practicing with some casual\ngames and work your way up in fully\nELO rated matches. You’ll even be\nable to track all of your gameplay\nstats - win, lose or draw! Chess\nChallenge! will keep both novice and\nexpert players glued to the screen for\nhours!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KCTV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Education",
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435456",
+  "uid": "50010000002761",
+  "name": "Chess Challenge!",
+  "formal_name": "Chess Challenge!",
+  "description": "Patience will be key in order to score\nbig in Chess Challenge! Perfect your\nchess skills playing against the\ncomputer in multiple difficulty modes,\nor play against your friends in either\nshared or wireless play via DS\nWireless Communication.<br>\n<br>\nStart off practicing with some casual\ngames and work your way up in fully\nELO rated matches. You’ll even be\nable to track all of your gameplay\nstats - win, lose or draw! Chess\nChallenge! will keep both novice and\nexpert players glued to the screen for\nhours!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KCTV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Education",
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

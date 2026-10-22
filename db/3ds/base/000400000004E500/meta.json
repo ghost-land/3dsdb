@@ -1,31 +1,31 @@
 {
-    "tid": "000400000004E500",
-    "uid": "50010000013755",
-    "name": "Real Heroes: Firefighter 3D",
-    "formal_name": "Real Heroes: Firefighter 3D",
-    "description": "Face the heat on the frontline as you assume the role of a rookie firefighter destined to become a hero on the Nintendo 3DS. Operate the tools of the trade. Aim jets of water, swing axes and prise open doors. Adding to the already intense drama is an impressive cast of voice actors. Become that rarest of commodities - a real hero!<BR>\n<BR>\nIn this first-person fire & rescue action game players will enter the soot-stained boots of an everyday hero as a newly graduated academy cadet getting their start in a big city fire station. Players must use the tools of the trade like the axe, hose and saw to battle raging blazes, tackle explosive environments and rescue survivors. ",
-    "release_date_on_eshop": "2013-04-04",
-    "product_code": "CTR-N-ARHZ",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Violent References"
-    ]
+  "tid": "000400000004E500",
+  "uid": "50010000013755",
+  "name": "Real Heroes: Firefighter 3D",
+  "formal_name": "Real Heroes: Firefighter 3D",
+  "description": "Face the heat on the frontline as you assume the role of a rookie firefighter destined to become a hero on the Nintendo 3DS. Operate the tools of the trade. Aim jets of water, swing axes and prise open doors. Adding to the already intense drama is an impressive cast of voice actors. Become that rarest of commodities - a real hero!<BR>\n<BR>\nIn this first-person fire & rescue action game players will enter the soot-stained boots of an everyday hero as a newly graduated academy cadet getting their start in a big city fire station. Players must use the tools of the trade like the axe, hose and saw to battle raging blazes, tackle explosive environments and rescue survivors. ",
+  "release_date_on_eshop": "2013-04-04",
+  "product_code": "CTR-N-ARHZ",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Violent References"
+  ]
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "000400000016F200",
-    "uid": "50010000034795",
-    "name": "SAMURAI WARRIORS:\n<br>Chronicles 3",
-    "formal_name": "SAMURAI WARRIORS: Chronicles 3",
-    "description": "Offers in-game purchases\n<br>\n<br>Switch between up to four playable characters in real time, and use the \"Hyper Attacks\" introduced in \"SAMURAI WARRIORS 4\" to make this the most strategically rich title in the series to date!\n<br><BR><BR>\n<br>The new \"Challenge Mode\" allows you to tackle a series of objectives, one after the other, with a time limit, and reach your final goal! You can even check your rankings against other warriors online!\n<br><BR><BR>\n<br>Weapon upgrades, custom parts and more make this a truly immersive title. ",
-    "release_date_on_eshop": "2015-06-30",
-    "product_code": "CTR-N-BC4E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Strategy"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>\n<br>In-game content available for purchase using stored account funds.\n<br>\n<br>Wireless broadband Internet access required for online play. For more info, go to support.nintendo.com.",
-    "descriptors": []
+  "tid": "000400000016F200",
+  "uid": "50010000034795",
+  "name": "SAMURAI WARRIORS:\n<br>Chronicles 3",
+  "formal_name": "SAMURAI WARRIORS: Chronicles 3",
+  "description": "Offers in-game purchases\n<br>\n<br>Switch between up to four playable characters in real time, and use the \"Hyper Attacks\" introduced in \"SAMURAI WARRIORS 4\" to make this the most strategically rich title in the series to date!\n<br><BR><BR>\n<br>The new \"Challenge Mode\" allows you to tackle a series of objectives, one after the other, with a time limit, and reach your final goal! You can even check your rankings against other warriors online!\n<br><BR><BR>\n<br>Weapon upgrades, custom parts and more make this a truly immersive title. ",
+  "release_date_on_eshop": "2015-06-30",
+  "product_code": "CTR-N-BC4E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>\n<br>In-game content available for purchase using stored account funds.\n<br>\n<br>Wireless broadband Internet access required for online play. For more info, go to support.nintendo.com.",
+  "descriptors": []
 }

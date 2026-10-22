@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000C5900",
-    "uid": "50010000015053",
-    "name": "Fishdom H2O: Hidden Odyssey",
-    "formal_name": "Fishdom H2O: Hidden Odyssey",
-    "description": "Help Jennifer, a young marine biologist, win the Best Aquarium Award. Dive to the bottom of the sea and find various hidden items in numerous eye-teasing locations. Get cash for them to buy cute sea creatures and beautiful ornaments to create three unique aquariums. Choose from tons of accessories and supplies to make the life of your exotic swimming pets fun and comfortable. Become a genuine aquarist, polish your design skills and win trophies in this dazzling hidden object spin-off of the original Fishdomâ„¢.\n<br><Br>\nUnderwater hidden object fun<Br>\nOver 1000 cool items to find<Br>\n3 themed aquariums in stereoscopic 3D<Br>\nInteractive and customizable environment<Br>\nTons of accessories and decorations<Br>",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "CTR-N-JF4E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C5900",
+  "uid": "50010000015053",
+  "name": "Fishdom H2O: Hidden Odyssey",
+  "formal_name": "Fishdom H2O: Hidden Odyssey",
+  "description": "Help Jennifer, a young marine biologist, win the Best Aquarium Award. Dive to the bottom of the sea and find various hidden items in numerous eye-teasing locations. Get cash for them to buy cute sea creatures and beautiful ornaments to create three unique aquariums. Choose from tons of accessories and supplies to make the life of your exotic swimming pets fun and comfortable. Become a genuine aquarist, polish your design skills and win trophies in this dazzling hidden object spin-off of the original Fishdomâ„¢.\n<br><Br>\nUnderwater hidden object fun<Br>\nOver 1000 cool items to find<Br>\n3 themed aquariums in stereoscopic 3D<Br>\nInteractive and customizable environment<Br>\nTons of accessories and decorations<Br>",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "CTR-N-JF4E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

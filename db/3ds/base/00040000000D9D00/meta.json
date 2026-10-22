@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000D9D00",
-    "uid": "50010000018515",
-    "name": "3D Altered Beast",
-    "formal_name": "3D Altered Beast",
-    "description": "Summoned from the dead by Zeus, shape shift into various beasts and fight off hordes of demons to rescue the captured Athena from the clutches of Neff.\n<br><br>\nTransform into a variety of beasts and fight off throngs of demons sent forth by the evil Neff. The mighty shape-shifting god will challenge you in various, hideous forms in each level, but you are armed to the teeth with transformative tricks of your own! \n<br><br>\nIn addition to its all-new 3D presentation, 3D Altered Beast also supports local multiplayer, and a Random Transformation Mode.",
-    "release_date_on_eshop": "2013-12-05",
-    "product_code": "CTR-N-JA7E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade",
-        "Fighting"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D9D00",
+  "uid": "50010000018515",
+  "name": "3D Altered Beast",
+  "formal_name": "3D Altered Beast",
+  "description": "Summoned from the dead by Zeus, shape shift into various beasts and fight off hordes of demons to rescue the captured Athena from the clutches of Neff.\n<br><br>\nTransform into a variety of beasts and fight off throngs of demons sent forth by the evil Neff. The mighty shape-shifting god will challenge you in various, hideous forms in each level, but you are armed to the teeth with transformative tricks of your own! \n<br><br>\nIn addition to its all-new 3D presentation, 3D Altered Beast also supports local multiplayer, and a Random Transformation Mode.",
+  "release_date_on_eshop": "2013-12-05",
+  "product_code": "CTR-N-JA7E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

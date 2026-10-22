@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000FC000",
-    "uid": "50010000015515",
-    "name": "Bike Rider DX",
-    "formal_name": "Bike Rider DX",
-    "description": "Enjoy a new kind of jump 'n run action, riding your bike on bumpy roads, crossing deep valleys and dodging all kinds of obstacles. Travel the globe to be the champion of the WORLD TOUR mode, or break the highscore in the endless GRAND PRIX mode and see how far you can go.\n<br><br>\nYou can use a variety of power-up items like the \"Air Ride\" and make use of fun gimmicks such as giant whirlwinds on your way through the stages! Will you be able to collect all gold coins and unlock the special bonus stages?\n<br><br>\nJust jump! - Everyone can quickly become familiar with the controls, while a large variety of stages and modes provide fun for both newcomers and experienced gamers!",
-    "release_date_on_eshop": "2013-08-01",
-    "product_code": "CTR-N-JCXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000FC000",
+  "uid": "50010000015515",
+  "name": "Bike Rider DX",
+  "formal_name": "Bike Rider DX",
+  "description": "Enjoy a new kind of jump 'n run action, riding your bike on bumpy roads, crossing deep valleys and dodging all kinds of obstacles. Travel the globe to be the champion of the WORLD TOUR mode, or break the highscore in the endless GRAND PRIX mode and see how far you can go.\n<br><br>\nYou can use a variety of power-up items like the \"Air Ride\" and make use of fun gimmicks such as giant whirlwinds on your way through the stages! Will you be able to collect all gold coins and unlock the special bonus stages?\n<br><br>\nJust jump! - Everyone can quickly become familiar with the controls, while a large variety of stages and modes provide fun for both newcomers and experienced gamers!",
+  "release_date_on_eshop": "2013-08-01",
+  "product_code": "CTR-N-JCXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

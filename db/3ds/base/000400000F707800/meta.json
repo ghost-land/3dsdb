@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F707800",
-    "uid": "50010000041706",
-    "name": "Pixel Hunter",
-    "formal_name": "Pixel Hunter",
-    "description": "Pixel Hunter is 3D side-scroller game, designed in Voxel and 8Bit style. The game is about a hunter, whose weapons were stolen by different animals. His only thought is to return them all. The main objective of the game is to go through the worlds such are:\n<br>\n<br>Forest\n<br>Mountain \n<br>Arctic\n<br>Volcano \n<br>Beach \n<br>\n<br>During your trip youâ€™ll meet with different enemies like: animals, birds, amphibians and fishes.  By the end of each level you have to fight with Boss, which will return you the stolen weapon.\n<br>\n<br>Features:\n<br>\n<br>Awesome 3D Voxel and 8bit graphics!\n<br>Perfect mix of retro and modern game styles!\n<br>5 worlds with various environments and unique soundtracks per each!\n<br>Epic fights with bosses at the end of each level!\n<br>Multiple gameplays within one game (side-scroller, runner, boss fights)!",
-    "release_date_on_eshop": "2016-10-06",
-    "product_code": "KTR-N-CAXE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F707800",
+  "uid": "50010000041706",
+  "name": "Pixel Hunter",
+  "formal_name": "Pixel Hunter",
+  "description": "Pixel Hunter is 3D side-scroller game, designed in Voxel and 8Bit style. The game is about a hunter, whose weapons were stolen by different animals. His only thought is to return them all. The main objective of the game is to go through the worlds such are:\n<br>\n<br>Forest\n<br>Mountain \n<br>Arctic\n<br>Volcano \n<br>Beach \n<br>\n<br>During your trip youâ€™ll meet with different enemies like: animals, birds, amphibians and fishes.  By the end of each level you have to fight with Boss, which will return you the stolen weapon.\n<br>\n<br>Features:\n<br>\n<br>Awesome 3D Voxel and 8bit graphics!\n<br>Perfect mix of retro and modern game styles!\n<br>5 worlds with various environments and unique soundtracks per each!\n<br>Epic fights with bosses at the end of each level!\n<br>Multiple gameplays within one game (side-scroller, runner, boss fights)!",
+  "release_date_on_eshop": "2016-10-06",
+  "product_code": "KTR-N-CAXE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

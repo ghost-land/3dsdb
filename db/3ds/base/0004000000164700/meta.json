@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000164700",
-    "uid": "50010000041422",
-    "name": "Sonic Boom™: Fire & Ice",
-    "formal_name": "Sonic Boom™: Fire & Ice",
-    "description": "Get Fired Up!\n<br>\n<br>Race through this epic new adventure as Sonic, Tails, Amy, Knuckles or Sticks to stop Dr. Eggman, and an all new adversary D-Fekt. Harness the power of fire and ice to blaze through obstacles, puzzles, and freeze enemies in their tracks. Utilize Sonic's speed, Tails' flight, Knuckles' strength, Sticks' Boomerang and Amy's hammer to explore, fight and race through an undiscovered land. Compete with your friends in 2 player bot racing and unlock 6 new tracks as you collect artifacts throughout the world. Battle bosses so huge they take up both screens. Play mini games filled with challenging puzzles and time trials including a new iteration of the popular Sea Fox.\n<br>\n<br>Supports 2 Players via Local Play",
-    "release_date_on_eshop": "2016-09-30",
-    "product_code": "CTR-P-BS6P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000164700",
+  "uid": "50010000041422",
+  "name": "Sonic Boom™: Fire & Ice",
+  "formal_name": "Sonic Boom™: Fire & Ice",
+  "description": "Get Fired Up!\n<br>\n<br>Race through this epic new adventure as Sonic, Tails, Amy, Knuckles or Sticks to stop Dr. Eggman, and an all new adversary D-Fekt. Harness the power of fire and ice to blaze through obstacles, puzzles, and freeze enemies in their tracks. Utilize Sonic's speed, Tails' flight, Knuckles' strength, Sticks' Boomerang and Amy's hammer to explore, fight and race through an undiscovered land. Compete with your friends in 2 player bot racing and unlock 6 new tracks as you collect artifacts throughout the world. Battle bosses so huge they take up both screens. Play mini games filled with challenging puzzles and time trials including a new iteration of the popular Sea Fox.\n<br>\n<br>Supports 2 Players via Local Play",
+  "release_date_on_eshop": "2016-09-30",
+  "product_code": "CTR-P-BS6P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

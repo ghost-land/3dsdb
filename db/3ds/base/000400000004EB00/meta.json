@@ -1,30 +1,30 @@
 {
-    "tid": "000400000004EB00",
-    "uid": "50010000006896",
-    "name": "MAHJONG CUB3D™",
-    "formal_name": "MAHJONG CUB3D™",
-    "description": "With 200 Mahjong matching puzzles delivered in full, vibrant 3D, MAHJONG CUB3D for Nintendo 3DS offers colorful, meditative, challenging puzzle gameplay that’s easy to pick up and impossible to set down! Cube Mode and Classic Mode offer a range of difficulty that’ll entertain all skill levels from beginner to veteran, and 2-player Vs. Mode offers players the opportunity to really test their skills against other puzzle masters using 3DS Download Play. This addictive 3D Mahjong matching game provides an abundance of fun, replayability and value!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASHE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": []
+  "tid": "000400000004EB00",
+  "uid": "50010000006896",
+  "name": "MAHJONG CUB3D™",
+  "formal_name": "MAHJONG CUB3D™",
+  "description": "With 200 Mahjong matching puzzles delivered in full, vibrant 3D, MAHJONG CUB3D for Nintendo 3DS offers colorful, meditative, challenging puzzle gameplay that’s easy to pick up and impossible to set down! Cube Mode and Classic Mode offer a range of difficulty that’ll entertain all skill levels from beginner to veteran, and 2-player Vs. Mode offers players the opportunity to really test their skills against other puzzle masters using 3DS Download Play. This addictive 3D Mahjong matching game provides an abundance of fun, replayability and value!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASHE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": []
 }

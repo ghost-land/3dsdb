@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001DFC00",
-    "uid": "50010000048857",
-    "name": "snake3d",
-    "formal_name": "snake3d",
-    "description": "Excellent snake in 3d.",
-    "release_date_on_eshop": "2020-10-01",
-    "product_code": "CTR-N-A7HE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001DFC00",
+  "uid": "50010000048857",
+  "name": "snake3d",
+  "formal_name": "snake3d",
+  "description": "Excellent snake in 3d.",
+  "release_date_on_eshop": "2020-10-01",
+  "product_code": "CTR-N-A7HE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

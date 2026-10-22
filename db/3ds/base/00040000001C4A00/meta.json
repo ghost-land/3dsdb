@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001C4A00",
-    "uid": "50010000042742",
-    "name": "Crollors Game Pack",
-    "formal_name": "Crollors Game Pack",
-    "description": "Crollors Game Pack is a collection of 4 games.\n<br>Every game has its own challenges and therefore something for everyone.\n<br>Enjoy hours of gameplay and try to beat each game's high score.\n<br>Play with your friends to see who is the best.\n<br>\n<br>The 3D feature can only be used on New Nintendo 3DS/New Nintendo 3DS XL.\n<br>This game does not have any multiplayer mode.",
-    "release_date_on_eshop": "2017-07-06",
-    "product_code": "CTR-N-KCGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "The 3D feature is only available when the game is started on a New Nintendo 3DS System.<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C4A00",
+  "uid": "50010000042742",
+  "name": "Crollors Game Pack",
+  "formal_name": "Crollors Game Pack",
+  "description": "Crollors Game Pack is a collection of 4 games.\n<br>Every game has its own challenges and therefore something for everyone.\n<br>Enjoy hours of gameplay and try to beat each game's high score.\n<br>Play with your friends to see who is the best.\n<br>\n<br>The 3D feature can only be used on New Nintendo 3DS/New Nintendo 3DS XL.\n<br>This game does not have any multiplayer mode.",
+  "release_date_on_eshop": "2017-07-06",
+  "product_code": "CTR-N-KCGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "The 3D feature is only available when the game is started on a New Nintendo 3DS System.<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

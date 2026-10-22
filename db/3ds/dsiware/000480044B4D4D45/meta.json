@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4D4D45",
-    "uid": "50010000002921",
-    "name": "Mixed Messages™",
-    "formal_name": "Mixed Messages™",
-    "description": "Mixed Messages is the hilarious party game of mixed-up miscommunication. Sketch a picture to capture your\nfriend's sentence, or try to figure out what in the world they've drawn! You might start with, “The quick brown fox jumps over the lazy dog,” and end up with, “A crazy surfer outruns flying sticks of dynamite while his fans cheer!” Two to twenty-one players take turns writing sentences and drawing pictures to pass along a message. This isn’t a game about winning and losing—it’s all about the funny miscommunications that happen along the way. You'll laugh when you see just how wacky things can get! Get together with your friends and mix it up!",
-    "release_date_on_eshop": "2009-04-13",
-    "product_code": "TWL-N-KMME",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game requires at least two players and is played by passing around a single Nintendo DSi system between players.",
-    "descriptors": []
+  "tid": "000480044B4D4D45",
+  "uid": "50010000002921",
+  "name": "Mixed Messages™",
+  "formal_name": "Mixed Messages™",
+  "description": "Mixed Messages is the hilarious party game of mixed-up miscommunication. Sketch a picture to capture your\nfriend's sentence, or try to figure out what in the world they've drawn! You might start with, “The quick brown fox jumps over the lazy dog,” and end up with, “A crazy surfer outruns flying sticks of dynamite while his fans cheer!” Two to twenty-one players take turns writing sentences and drawing pictures to pass along a message. This isn’t a game about winning and losing—it’s all about the funny miscommunications that happen along the way. You'll laugh when you see just how wacky things can get! Get together with your friends and mix it up!",
+  "release_date_on_eshop": "2009-04-13",
+  "product_code": "TWL-N-KMME",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game requires at least two players and is played by passing around a single Nintendo DSi system between players.",
+  "descriptors": []
 }

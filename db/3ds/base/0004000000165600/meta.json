@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000165600",
-    "uid": "50010000032335",
-    "name": "Azure Striker GUNVOLT",
-    "formal_name": "Azure Striker GUNVOLT",
-    "description": "Azure Striker GUNVOLT is a 2D\n<br>action/platforming game in the style of\n<br>the Japanese classics of yesteryear.\n<br>Great controls, crisp graphics, unique\n<br>play mechanics, epic boss battles —\n<br>it's all here, and better than you\n<br>remember!\n<br><br/><br/>\n<br>* Obliterate foes with the power of\n<br>lightning!\n<br><br/><br/>\n<br>Tag enemies with your weapon, then\n<br>shock them into oblivion with\n<br>Gunvolt's lethal \"Flashfield\"\n<br>technique! Advanced players can try\n<br>for bonuses and higher scores by\n<br>defeating two or more enemies at\n<br>once.\n<br><br/><br/>\n<br>* Gain power from Lumen's anthem!\n<br><br/><br/>\n<br>Lumen, aka the Muse, has the power\n<br>to revive Gunvolt if he falls in battle.\n<br>And if you rack up enough Kudos by\n<br>defeating enemies without taking\n<br>damage, she'll sing for you during\n<br>play, giving you an added boost!\n<br><br/><br/>\n<br>* Defeat the Sumeragi Seven!\n<br><br/><br/>\n<br>Powerful bosses and an intriguing\n<br>tale await. Will Gunvolt be able to put\n<br>a stop to the Sumeragi Group's\n<br>ambitions before it's too late? The\n<br>time to strike is now!",
-    "release_date_on_eshop": "2015-04-02",
-    "product_code": "CTR-N-JV7P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000165600",
+  "uid": "50010000032335",
+  "name": "Azure Striker GUNVOLT",
+  "formal_name": "Azure Striker GUNVOLT",
+  "description": "Azure Striker GUNVOLT is a 2D\n<br>action/platforming game in the style of\n<br>the Japanese classics of yesteryear.\n<br>Great controls, crisp graphics, unique\n<br>play mechanics, epic boss battles —\n<br>it's all here, and better than you\n<br>remember!\n<br><br/><br/>\n<br>* Obliterate foes with the power of\n<br>lightning!\n<br><br/><br/>\n<br>Tag enemies with your weapon, then\n<br>shock them into oblivion with\n<br>Gunvolt's lethal \"Flashfield\"\n<br>technique! Advanced players can try\n<br>for bonuses and higher scores by\n<br>defeating two or more enemies at\n<br>once.\n<br><br/><br/>\n<br>* Gain power from Lumen's anthem!\n<br><br/><br/>\n<br>Lumen, aka the Muse, has the power\n<br>to revive Gunvolt if he falls in battle.\n<br>And if you rack up enough Kudos by\n<br>defeating enemies without taking\n<br>damage, she'll sing for you during\n<br>play, giving you an added boost!\n<br><br/><br/>\n<br>* Defeat the Sumeragi Seven!\n<br><br/><br/>\n<br>Powerful bosses and an intriguing\n<br>tale await. Will Gunvolt be able to put\n<br>a stop to the Sumeragi Group's\n<br>ambitions before it's too late? The\n<br>time to strike is now!",
+  "release_date_on_eshop": "2015-04-02",
+  "product_code": "CTR-N-JV7P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

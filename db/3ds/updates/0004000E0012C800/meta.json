@@ -1,31 +1,31 @@
 {
-    "tid": "0004000E0012C800",
-    "uid": "50010000036775",
-    "name": "Mario vs. Donkey Kong™:\nTipping Stars Ver. 1.0.1",
-    "formal_name": "Mario vs. Donkey Kong™:\nTipping Stars Update Ver. 1.0.1",
-    "description": "This is an update for the Mario vs. Donkey Kong™: Tipping Stars game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Mario vs. Donkey Kong™: Tipping Stars.",
-    "release_date_on_eshop": "2015-09-01",
-    "product_code": "CTR-U-JYLE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E0012C800",
+  "uid": "50010000036775",
+  "name": "Mario vs. Donkey Kong™:\nTipping Stars Ver. 1.0.1",
+  "formal_name": "Mario vs. Donkey Kong™:\nTipping Stars Update Ver. 1.0.1",
+  "description": "This is an update for the Mario vs. Donkey Kong™: Tipping Stars game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Mario vs. Donkey Kong™: Tipping Stars.",
+  "release_date_on_eshop": "2015-09-01",
+  "product_code": "CTR-U-JYLE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

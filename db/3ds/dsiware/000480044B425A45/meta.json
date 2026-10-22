@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B425A45",
-    "uid": "50010000001642",
-    "name": "Blayzbloo: Super Melee Action Battle Royale",
-    "formal_name": "Blayzbloo: Super Melee Action Battle Royale",
-    "description": "Blayzbloo: Super Melee Action Battle Royale takes Ragna, Rachel, Jin, Noel, and Taokaka and pits them against one another in five stages of rumble and tumble brawling action to see who is the best around. There is also Free Battle mode to play to your heart's content. You can use items in battle as well, to pummel your opponent into oblivion. Drive attacks and special moves are also at your disposal, so use them when you can to finish your opponents off!\n\nDo you have what it takes to come out on top and become the best Blayzbloo brawler?\n",
-    "release_date_on_eshop": "2010-08-02",
-    "product_code": "TWL-N-KBZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B425A45",
+  "uid": "50010000001642",
+  "name": "Blayzbloo: Super Melee Action Battle Royale",
+  "formal_name": "Blayzbloo: Super Melee Action Battle Royale",
+  "description": "Blayzbloo: Super Melee Action Battle Royale takes Ragna, Rachel, Jin, Noel, and Taokaka and pits them against one another in five stages of rumble and tumble brawling action to see who is the best around. There is also Free Battle mode to play to your heart's content. You can use items in battle as well, to pummel your opponent into oblivion. Drive attacks and special moves are also at your disposal, so use them when you can to finish your opponents off!\n\nDo you have what it takes to come out on top and become the best Blayzbloo brawler?\n",
+  "release_date_on_eshop": "2010-08-02",
+  "product_code": "TWL-N-KBZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

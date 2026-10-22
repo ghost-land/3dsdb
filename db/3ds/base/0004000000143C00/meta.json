@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000143C00",
-    "uid": "50010000029195",
-    "name": "Painting Workshop",
-    "formal_name": "Painting Workshop",
-    "description": "Sparkling with tools, with Painting workshop you will have the possibility to have fun while making the best paintings.<br>\n<br>\nEasy to use for the younger ones too, make simple doodles/scribbles\nand have fun using the full-colored Stickers or other Pattern Tools.<br>\n<br>\nDon’t worry if it is your first painting software, lessons about the different tools are available inside the software in order for you to learn how to make the best use of them.<br>\n<br>\nUse a photo or image as background for your Canvas and edit it or just add some funny decorations!<br>\n24 Lessons about tools and interface.<br>\n<br>\n15 different palette’s design for you to paint in the best condition.\nCustomize your own colors but also your own Stickers and Roller Stamps!<br>\n<br>\nLayers, Undo & Redo commands, Shortcuts, Selection tool, etc.<br>\n<br>\nInterface fully controllable with the Stylus and a left-handed mode is also available!<br>\n<br>\nSave your creations on your SD Card and print or share them!",
-    "release_date_on_eshop": "2015-01-08",
-    "product_code": "CTR-N-KPSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.4.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000143C00",
+  "uid": "50010000029195",
+  "name": "Painting Workshop",
+  "formal_name": "Painting Workshop",
+  "description": "Sparkling with tools, with Painting workshop you will have the possibility to have fun while making the best paintings.<br>\n<br>\nEasy to use for the younger ones too, make simple doodles/scribbles\nand have fun using the full-colored Stickers or other Pattern Tools.<br>\n<br>\nDon’t worry if it is your first painting software, lessons about the different tools are available inside the software in order for you to learn how to make the best use of them.<br>\n<br>\nUse a photo or image as background for your Canvas and edit it or just add some funny decorations!<br>\n24 Lessons about tools and interface.<br>\n<br>\n15 different palette’s design for you to paint in the best condition.\nCustomize your own colors but also your own Stickers and Roller Stamps!<br>\n<br>\nLayers, Undo & Redo commands, Shortcuts, Selection tool, etc.<br>\n<br>\nInterface fully controllable with the Stylus and a left-handed mode is also available!<br>\n<br>\nSave your creations on your SD Card and print or share them!",
+  "release_date_on_eshop": "2015-01-08",
+  "product_code": "CTR-N-KPSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.4.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

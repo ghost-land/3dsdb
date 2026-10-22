@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000E5900",
-    "uid": "50010000038780",
-    "name": "The delusions of\nVon Sottendorff",
-    "formal_name": "The delusions of Von Sottendorff and his square mind",
-    "description": "Baron Von Sottendorff is an aristocrat in the early 20th century. He doesn't know it, but he is really living trapped in a grid drawing of his mansion, created by his own lunatic mind. The game has a new focus that combines the essence of gaming platforms with puzzles in a beautiful scenery created from artistic elements and references.\n<BR><BR>\nThe objective of the game is to free Baron Von Sottendorff from his own madness; to do this, you must overcome the challenges that appear along the way. As you solve the different levels, you receive objects that will help you unlock memories from his life. The more memories you get, the closer you are to regaining his sanity.\n<BR><BR>\nGo crazy and help the Baron get his sanity back! But be careful... the rooms of the mansion move about and it's easy to get lost in his world.",
-    "release_date_on_eshop": "2015-12-17",
-    "product_code": "CTR-N-JDHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000E5900",
+  "uid": "50010000038780",
+  "name": "The delusions of\nVon Sottendorff",
+  "formal_name": "The delusions of Von Sottendorff and his square mind",
+  "description": "Baron Von Sottendorff is an aristocrat in the early 20th century. He doesn't know it, but he is really living trapped in a grid drawing of his mansion, created by his own lunatic mind. The game has a new focus that combines the essence of gaming platforms with puzzles in a beautiful scenery created from artistic elements and references.\n<BR><BR>\nThe objective of the game is to free Baron Von Sottendorff from his own madness; to do this, you must overcome the challenges that appear along the way. As you solve the different levels, you receive objects that will help you unlock memories from his life. The more memories you get, the closer you are to regaining his sanity.\n<BR><BR>\nGo crazy and help the Baron get his sanity back! But be careful... the rooms of the mansion move about and it's easy to get lost in his world.",
+  "release_date_on_eshop": "2015-12-17",
+  "product_code": "CTR-N-JDHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

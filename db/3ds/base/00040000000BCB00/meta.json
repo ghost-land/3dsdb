@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000BCB00",
-    "uid": "50010000013031",
-    "name": "Tokyo Crash Mobs™",
-    "formal_name": "Tokyo Crash Mobs™",
-    "description": "All Grace and Savannah want is to make it in Tokyo, but what’s with all the scenesters, bomb balls, flower displays, and ninjas getting in their way?!\n<br><br>\nYou’ll need lightning-fast reflexes and an eye for strategy to succeed in this fast-paced puzzle game, where live-action video blends seamlessly with wacky digital graphics.\n<br><br>\nThrow and roll hapless bystanders into lines of people, trying to group three or more who wear the same color together so that they’ll form a clique and disappear. Form cliques and eliminate the lines you’re facing as fast as you can to progress through the game’s many stages.\n<br><br>\nWith two different play modes—Story Mode and Challenge Mode—this game’s got you covered whether you’re looking for quick gaming sessions or longer endurance challenges.",
-    "release_date_on_eshop": "2013-01-17",
-    "product_code": "CTR-N-JUEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BCB00",
+  "uid": "50010000013031",
+  "name": "Tokyo Crash Mobs™",
+  "formal_name": "Tokyo Crash Mobs™",
+  "description": "All Grace and Savannah want is to make it in Tokyo, but what’s with all the scenesters, bomb balls, flower displays, and ninjas getting in their way?!\n<br><br>\nYou’ll need lightning-fast reflexes and an eye for strategy to succeed in this fast-paced puzzle game, where live-action video blends seamlessly with wacky digital graphics.\n<br><br>\nThrow and roll hapless bystanders into lines of people, trying to group three or more who wear the same color together so that they’ll form a clique and disappear. Form cliques and eliminate the lines you’re facing as fast as you can to progress through the game’s many stages.\n<br><br>\nWith two different play modes—Story Mode and Challenge Mode—this game’s got you covered whether you’re looking for quick gaming sessions or longer endurance challenges.",
+  "release_date_on_eshop": "2013-01-17",
+  "product_code": "CTR-N-JUEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

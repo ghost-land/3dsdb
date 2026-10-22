@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B445645",
-    "uid": "50010000002081",
-    "name": "Dark Void™ Zero",
-    "formal_name": "Dark Void™ Zero",
-    "description": "As the ‘80s were drawing to a close, the developers at Capcom began work on a top secret project that aimed to set new standards for the platformer genre. That game was called “Dark Void”. Alas, Capcom suspended development on Dark Void as it began to evaluate the SNES™. Before long, the game was shelved and drifted, unnoticed, into the annals of gaming history. Dark Void became a legendary “lost project” at Capcom.\nNow, nearly twenty years later, Dark Void is back! To commemorate the game’s humble origins, Capcom has commissioned this recreation of the original 8-bit classic, now re-titled\n“Dark Void Zero”, on the Nintendo DSi system. You play Rusty, the first human born in the Void, who must take on the Watchers in a quest to stop their domination of Earth. With the aid of Nikola Tesla, and his state-of-the-art rocket pack, Rusty must take down the Watchers and their minions across three intense levels of action and intrigue.",
-    "release_date_on_eshop": "2010-01-18",
-    "product_code": "TWL-N-KDVE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445645",
+  "uid": "50010000002081",
+  "name": "Dark Void™ Zero",
+  "formal_name": "Dark Void™ Zero",
+  "description": "As the ‘80s were drawing to a close, the developers at Capcom began work on a top secret project that aimed to set new standards for the platformer genre. That game was called “Dark Void”. Alas, Capcom suspended development on Dark Void as it began to evaluate the SNES™. Before long, the game was shelved and drifted, unnoticed, into the annals of gaming history. Dark Void became a legendary “lost project” at Capcom.\nNow, nearly twenty years later, Dark Void is back! To commemorate the game’s humble origins, Capcom has commissioned this recreation of the original 8-bit classic, now re-titled\n“Dark Void Zero”, on the Nintendo DSi system. You play Rusty, the first human born in the Void, who must take on the Watchers in a quest to stop their domination of Earth. With the aid of Nikola Tesla, and his state-of-the-art rocket pack, Rusty must take down the Watchers and their minions across three intense levels of action and intrigue.",
+  "release_date_on_eshop": "2010-01-18",
+  "product_code": "TWL-N-KDVE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

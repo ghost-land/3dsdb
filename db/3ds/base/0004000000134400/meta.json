@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000134400",
-    "uid": "50010000027068",
-    "name": "ドラえいご のび太と妖精のふしぎコレクション",
-    "formal_name": "ドラえいご のび太と妖精のふしぎコレクション",
-    "description": "「妖精のふしぎコレクション」をのび太君といっしょに集める、ワクワク･ドキドキの冒険ストーリーが楽しめます。集めたコレクションは、英語で何度でも書いたり、聴いたりすることができます。",
-    "release_date_on_eshop": "2014-11-20",
-    "product_code": "CTR-N-BDEJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "学習",
-        "トレーニング"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "0004000000134400",
+  "uid": "50010000027068",
+  "name": "ドラえいご のび太と妖精のふしぎコレクション",
+  "formal_name": "ドラえいご のび太と妖精のふしぎコレクション",
+  "description": "「妖精のふしぎコレクション」をのび太君といっしょに集める、ワクワク･ドキドキの冒険ストーリーが楽しめます。集めたコレクションは、英語で何度でも書いたり、聴いたりすることができます。",
+  "release_date_on_eshop": "2014-11-20",
+  "product_code": "CTR-N-BDEJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "学習",
+    "トレーニング"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

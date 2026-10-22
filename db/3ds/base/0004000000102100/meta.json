@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000102100",
-    "uid": "50010000020193",
-    "name": "LEGO La Grande LEGO\nAventure Le Jeu Video",
-    "formal_name": "LEGO La Grande LEGO\nAventure Le Jeu Video",
-    "description": "Transformez l'ordinaire en\nextraordinaire et découvrez\nl'expérience de construction LEGO\nultime, dans le tout nouveau LEGO La\nGrande LEGO Aventure Le Jeu Video.\nPlongez dans le monde d'Emmet, un\ncitoyen tout à fait ordinaire et sans\nhistoire qui est pris par erreur pour\nune personne extraordinaire capable\nde sauver le monde. Guidez ce héros\nmalgré lui tout au long d'une aventure\népique, aux côtés de compagnons\ninconnus, pour tenter d'arrêter un\ntyran diabolique. Mais le pauvre\nEmmet est loin d'être préparé à un tel\nvoyage, et va vite se retrouver dans\ndes situations cocasses et\ninattendues.<br><br/>",
-    "release_date_on_eshop": "2014-02-27",
-    "product_code": "CTR-P-AFJF",
-    "platform_name": "Nintendo 3DS (carte/téléch.)",
-    "region": "France",
-    "genres": [
-        "Aventure"
-    ],
-    "features": [
-        "Affichage 3D"
-    ],
-    "languages": [
-        "Anglais",
-        "Espagnol",
-        "Français",
-        "Italien",
-        "Néerlandais"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": "*Ce jeu comporte\nune version française.",
-    "descriptors": []
+  "tid": "0004000000102100",
+  "uid": "50010000020193",
+  "name": "LEGO La Grande LEGO\nAventure Le Jeu Video",
+  "formal_name": "LEGO La Grande LEGO\nAventure Le Jeu Video",
+  "description": "Transformez l'ordinaire en\nextraordinaire et découvrez\nl'expérience de construction LEGO\nultime, dans le tout nouveau LEGO La\nGrande LEGO Aventure Le Jeu Video.\nPlongez dans le monde d'Emmet, un\ncitoyen tout à fait ordinaire et sans\nhistoire qui est pris par erreur pour\nune personne extraordinaire capable\nde sauver le monde. Guidez ce héros\nmalgré lui tout au long d'une aventure\népique, aux côtés de compagnons\ninconnus, pour tenter d'arrêter un\ntyran diabolique. Mais le pauvre\nEmmet est loin d'être préparé à un tel\nvoyage, et va vite se retrouver dans\ndes situations cocasses et\ninattendues.<br><br/>",
+  "release_date_on_eshop": "2014-02-27",
+  "product_code": "CTR-P-AFJF",
+  "platform_name": "Nintendo 3DS (carte/téléch.)",
+  "region": "France",
+  "genres": [
+    "Aventure"
+  ],
+  "features": [
+    "Affichage 3D"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": "*Ce jeu comporte\nune version française.",
+  "descriptors": []
 }

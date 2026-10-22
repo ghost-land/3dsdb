@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B454D45",
-    "uid": "50010000002203",
-    "name": "Elemental Masters",
-    "formal_name": "Elemental Masters",
-    "description": "In this fantasy card game, stand your ground in a quest full of magic and adventure, and experience a thrilling combination of strategy and a role-playing game.  Choose your character, build up your army in your card deck and fight the mystical creatures of Elendior. With thoughtful use of your cards, you will obtain the monsters of your enemy and support your attacks by using arcane spells and the rules of dark magic. Dive into this captivating story in the quest mode or duel with your friends in multiplayer mode. More than 100 creatures in over 15 map zones are waiting for you.",
-    "release_date_on_eshop": "2010-03-08",
-    "product_code": "TWL-N-KEME",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Adventure",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B454D45",
+  "uid": "50010000002203",
+  "name": "Elemental Masters",
+  "formal_name": "Elemental Masters",
+  "description": "In this fantasy card game, stand your ground in a quest full of magic and adventure, and experience a thrilling combination of strategy and a role-playing game.  Choose your character, build up your army in your card deck and fight the mystical creatures of Elendior. With thoughtful use of your cards, you will obtain the monsters of your enemy and support your attacks by using arcane spells and the rules of dark magic. Dive into this captivating story in the quest mode or duel with your friends in multiplayer mode. More than 100 creatures in over 15 map zones are waiting for you.",
+  "release_date_on_eshop": "2010-03-08",
+  "product_code": "TWL-N-KEME",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Adventure",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

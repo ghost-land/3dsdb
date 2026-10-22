@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F70A500",
-    "uid": "50010000042819",
-    "name": "6180 the moon",
-    "formal_name": "6180 the moon",
-    "description": "6180 the moon is a platformer game with a unique mechanic. It offers a fresh, unseen game play style by connecting both of upper and bottom screens. This allows in a mechanic with delightfully long jumps and no fear of slipping to death.\n<br>\n<br>In addition to the unique gameplay, 6180 the moon delivers a unique storyline. The Sun has gone. The Moon sets off on a journey to find the Sun. Along the journey will be hazardous courses and deep realizations.",
-    "release_date_on_eshop": "2017-06-29",
-    "product_code": "KTR-N-CB6E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Puzzle",
-        "Music"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70A500",
+  "uid": "50010000042819",
+  "name": "6180 the moon",
+  "formal_name": "6180 the moon",
+  "description": "6180 the moon is a platformer game with a unique mechanic. It offers a fresh, unseen game play style by connecting both of upper and bottom screens. This allows in a mechanic with delightfully long jumps and no fear of slipping to death.\n<br>\n<br>In addition to the unique gameplay, 6180 the moon delivers a unique storyline. The Sun has gone. The Moon sets off on a journey to find the Sun. Along the journey will be hazardous courses and deep realizations.",
+  "release_date_on_eshop": "2017-06-29",
+  "product_code": "KTR-N-CB6E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Puzzle",
+    "Music"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

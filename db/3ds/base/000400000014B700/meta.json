@@ -1,28 +1,28 @@
 {
-    "tid": "000400000014B700",
-    "uid": "50010000028155",
-    "name": "DOOORS",
-    "formal_name": "DOOORS",
-    "description": "2017年4月6日(木)18時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>このゲームの目的は閉じ込められた部屋から脱出すること。\n<br>脱出するには、画面をタッチしたり、ボタンを押したり、時にはニンテンドー3DS本体を傾けたり、直感的な閃きが必要な場合もあるでしょう。\n<br>知恵と閃きで部屋から脱出しましょう!",
-    "release_date_on_eshop": "2014-12-03",
-    "product_code": "CTR-N-KDRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014B700",
+  "uid": "50010000028155",
+  "name": "DOOORS",
+  "formal_name": "DOOORS",
+  "description": "2017年4月6日(木)18時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>このゲームの目的は閉じ込められた部屋から脱出すること。\n<br>脱出するには、画面をタッチしたり、ボタンを押したり、時にはニンテンドー3DS本体を傾けたり、直感的な閃きが必要な場合もあるでしょう。\n<br>知恵と閃きで部屋から脱出しましょう!",
+  "release_date_on_eshop": "2014-12-03",
+  "product_code": "CTR-N-KDRJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

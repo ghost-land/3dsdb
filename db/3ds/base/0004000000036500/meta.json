@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000036500",
-    "uid": "50010000000254",
-    "name": "The Sims™ 3",
-    "formal_name": "The Sims™ 3",
-    "description": "• First Complete Life Simulation from The Sims™, on the Nintendo 3DS™! Create any Sim you can imagine and control their lives.  Control multiple Sims within your household and enjoy life’s special moments as you interact with their world.<br>\n• Create Sims and give them unique personalities! Use the 3DS camera to capture your likeness and create your Sim.  Use your stylus to sculpt your Sims’ facial features. Choose their hair styles and clothing and dictate their personalities. Make them evil, romantic, or a mix of something completely different.<br>\n• Trade your Sims with your friends!  Through Nintendo StreetPass, trade your Sims with your 3DS friends!<br>\n• Unlock all-new Karma Powers. Wield the ultimate control over your Sims by interacting directly with the 3DS handheld.   Blow into the handheld to unleash tranquil butterflies on your Sims or shake to trigger money bags falling from the sky. ",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AS3E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Violence",
-        "Crude Humor",
-        "Sexual Themes"
-    ]
+  "tid": "0004000000036500",
+  "uid": "50010000000254",
+  "name": "The Sims™ 3",
+  "formal_name": "The Sims™ 3",
+  "description": "• First Complete Life Simulation from The Sims™, on the Nintendo 3DS™! Create any Sim you can imagine and control their lives.  Control multiple Sims within your household and enjoy life’s special moments as you interact with their world.<br>\n• Create Sims and give them unique personalities! Use the 3DS camera to capture your likeness and create your Sim.  Use your stylus to sculpt your Sims’ facial features. Choose their hair styles and clothing and dictate their personalities. Make them evil, romantic, or a mix of something completely different.<br>\n• Trade your Sims with your friends!  Through Nintendo StreetPass, trade your Sims with your 3DS friends!<br>\n• Unlock all-new Karma Powers. Wield the ultimate control over your Sims by interacting directly with the 3DS handheld.   Blow into the handheld to unleash tranquil butterflies on your Sims or shake to trigger money bags falling from the sky. ",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AS3E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Violence",
+    "Crude Humor",
+    "Sexual Themes"
+  ]
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000061200",
-    "uid": "50010000009129",
-    "name": "Nicktoons MLB® 3D",
-    "formal_name": "Nicktoons MLB® 3D",
-    "description": "Nicktoons MLB 3D goes yard with 27 top Nicktoons, 175 MLB® players and updated rosters, new Nicktoons Jimmy Neutron and Hiro Mightypaw, new ballparks and gameplay modes! Utilize DS Local Play for head-to-head 3D action! It’s an epic 3D baseball showdown as the animated All-Stars challenge top players from all 30\nMLB® clubs.\n<br><br>\n• Step up to the plate with 27 Nicktoons characters including SpongeBob SquarePants, ZIM, Ren Hoek, Katara, Danny Phantom, Patrick Star, GAZ, Dudley Puppy, Aang, Stimpy, Kitty Katswell and more!<br>\n• 175 MLB® players with updated rosters – even the brand new Miami Marlins uniform.<br>\n• New baseball experience – Flyballs and fastballs leap off the screen with enhanced 3D graphics.<br>\n• Utilize DS wireless capabilities for head-to-head 3D action.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ANKE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Strategy",
-        "Other",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000061200",
+  "uid": "50010000009129",
+  "name": "Nicktoons MLB® 3D",
+  "formal_name": "Nicktoons MLB® 3D",
+  "description": "Nicktoons MLB 3D goes yard with 27 top Nicktoons, 175 MLB® players and updated rosters, new Nicktoons Jimmy Neutron and Hiro Mightypaw, new ballparks and gameplay modes! Utilize DS Local Play for head-to-head 3D action! It’s an epic 3D baseball showdown as the animated All-Stars challenge top players from all 30\nMLB® clubs.\n<br><br>\n• Step up to the plate with 27 Nicktoons characters including SpongeBob SquarePants, ZIM, Ren Hoek, Katara, Danny Phantom, Patrick Star, GAZ, Dudley Puppy, Aang, Stimpy, Kitty Katswell and more!<br>\n• 175 MLB® players with updated rosters – even the brand new Miami Marlins uniform.<br>\n• New baseball experience – Flyballs and fastballs leap off the screen with enhanced 3D graphics.<br>\n• Utilize DS wireless capabilities for head-to-head 3D action.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ANKE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Strategy",
+    "Other",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

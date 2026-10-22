@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F70CB00",
-    "uid": "50010000044795",
-    "name": "Raining Coins",
-    "formal_name": "Raining Coins",
-    "description": "It's raining gold coins! Come, play & catch them! \n<br>\n<br>The skies have opened up but it’s not raining cats and dogs! It’s raining gold coins! Help poor Eve catch the gold coins and buy the toys she loves. Free super addictive family game fun for kids, teenagers and grownups. \n<br>\n<br>Super cute graphics & characters.\n<br>4 worlds & 80 exciting rounds to play.\n<br>Dress Eve up with skirts, costumes and accessories!\n<br>Get help if you need it.\n<br>Stereoscopic 3D supported.\n<br>Graphics change according to weather conditions.",
-    "release_date_on_eshop": "2018-01-18",
-    "product_code": "KTR-N-CCCE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70CB00",
+  "uid": "50010000044795",
+  "name": "Raining Coins",
+  "formal_name": "Raining Coins",
+  "description": "It's raining gold coins! Come, play & catch them! \n<br>\n<br>The skies have opened up but it’s not raining cats and dogs! It’s raining gold coins! Help poor Eve catch the gold coins and buy the toys she loves. Free super addictive family game fun for kids, teenagers and grownups. \n<br>\n<br>Super cute graphics & characters.\n<br>4 worlds & 80 exciting rounds to play.\n<br>Dress Eve up with skirts, costumes and accessories!\n<br>Get help if you need it.\n<br>Stereoscopic 3D supported.\n<br>Graphics change according to weather conditions.",
+  "release_date_on_eshop": "2018-01-18",
+  "product_code": "KTR-N-CCCE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000139300",
-    "uid": "50010000024135",
-    "name": "Siesta Fiesta",
-    "formal_name": "Siesta Fiesta",
-    "description": "Siesta Fiesta is a colorful action game where players take control of the snoozing Siesta as he’s taken on a one-of-a-kind tour of Fiestaville: home to the beloved Fiestas. Use Siesta’s bed to bounce, boost and rebound across the island’s 8 fun-filled regions.\n<br><br>\nSiesta Fiesta combines various elements of classic arcade gameplay to create a truly unique adventure. Use the ball-like Siesta to smash Piñata Blocks, activate Power-ups, battle bosses and trigger a host of whacky contraptions.\n<br><br>\nWith its intuitive gameplay and varied level design, Siesta Fiesta aims to appeal to both long-time gamers and newcomers alike.",
-    "release_date_on_eshop": "2014-07-24",
-    "product_code": "CTR-N-KSFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000139300",
+  "uid": "50010000024135",
+  "name": "Siesta Fiesta",
+  "formal_name": "Siesta Fiesta",
+  "description": "Siesta Fiesta is a colorful action game where players take control of the snoozing Siesta as he’s taken on a one-of-a-kind tour of Fiestaville: home to the beloved Fiestas. Use Siesta’s bed to bounce, boost and rebound across the island’s 8 fun-filled regions.\n<br><br>\nSiesta Fiesta combines various elements of classic arcade gameplay to create a truly unique adventure. Use the ball-like Siesta to smash Piñata Blocks, activate Power-ups, battle bosses and trigger a host of whacky contraptions.\n<br><br>\nWith its intuitive gameplay and varied level design, Siesta Fiesta aims to appeal to both long-time gamers and newcomers alike.",
+  "release_date_on_eshop": "2014-07-24",
+  "product_code": "CTR-N-KSFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

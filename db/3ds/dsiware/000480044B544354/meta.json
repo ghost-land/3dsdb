@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B544354",
-    "uid": "50010000006305",
-    "name": "Clubhouse Games™ Express: \nFamily Favorites",
-    "formal_name": "Clubhouse Games™ Express: \nFamily Favorites",
-    "description": "Choose from five family-friendly games in this Nintendo DSiWare version of the popular Clubhouse Games. Play classic card games like Hearts and Contract Bridge, connect bones to other bones in Dominoes, think strategically in the simple, but addictive Dots and Boxes, and move your pieces towards a common goal in Ludo. Play by yourself or use DS Download Play to host as many as seven friends.\n",
-    "release_date_on_eshop": "2009-09-07",
-    "product_code": "TWL-N-KTCT",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play",
-        "Supports Online Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game content was previously released as part of Clubhouse Games for Nintendo DS.",
-    "descriptors": []
+  "tid": "000480044B544354",
+  "uid": "50010000006305",
+  "name": "Clubhouse Games™ Express: \nFamily Favorites",
+  "formal_name": "Clubhouse Games™ Express: \nFamily Favorites",
+  "description": "Choose from five family-friendly games in this Nintendo DSiWare version of the popular Clubhouse Games. Play classic card games like Hearts and Contract Bridge, connect bones to other bones in Dominoes, think strategically in the simple, but addictive Dots and Boxes, and move your pieces towards a common goal in Ludo. Play by yourself or use DS Download Play to host as many as seven friends.\n",
+  "release_date_on_eshop": "2009-09-07",
+  "product_code": "TWL-N-KTCT",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play",
+    "Supports Online Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game content was previously released as part of Clubhouse Games for Nintendo DS.",
+  "descriptors": []
 }

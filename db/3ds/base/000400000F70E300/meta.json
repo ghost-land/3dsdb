@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F70E300",
-    "uid": "50010000043498",
-    "name": "36 Fragments of Midnight",
-    "formal_name": "36 Fragments of Midnight",
-    "description": "This time Midnight's friends lost of their Star Fragments!\n<br>\nYour task is to find them, and take them back, but it won't be easy. In this procedurally generated platform game, you have to avoid deadly lasers, circular saws and spikes to collect all the Fragments, to get their greatest gift. Do you have what it takes to collect all?",
-    "release_date_on_eshop": "2017-09-21",
-    "product_code": "KTR-N-CF3E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Adventure",
-        "Platformer",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nGame is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "000400000F70E300",
+  "uid": "50010000043498",
+  "name": "36 Fragments of Midnight",
+  "formal_name": "36 Fragments of Midnight",
+  "description": "This time Midnight's friends lost of their Star Fragments!\n<br>\nYour task is to find them, and take them back, but it won't be easy. In this procedurally generated platform game, you have to avoid deadly lasers, circular saws and spikes to collect all the Fragments, to get their greatest gift. Do you have what it takes to collect all?",
+  "release_date_on_eshop": "2017-09-21",
+  "product_code": "KTR-N-CF3E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Adventure",
+    "Platformer",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nGame is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

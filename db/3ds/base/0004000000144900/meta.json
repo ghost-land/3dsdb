@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000144900",
-    "uid": "50010000024636",
-    "name": "CUBIT\nワンボタン ランニング アクション",
-    "formal_name": "CUBIT\nワンボタン ランニング アクション",
-    "description": "『CUBIT ワンボタン ランニング アクション』は、横スクロールのシンプルなジャンプアクションゲームです。\n<br>\n<br>主人公CUBITをタイミング良くジャンプさせ、障害物や落とし穴を避けゴールへ導きましょう。",
-    "release_date_on_eshop": "2014-08-06",
-    "product_code": "CTR-N-JQ7J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "トレーニング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000144900",
+  "uid": "50010000024636",
+  "name": "CUBIT\nワンボタン ランニング アクション",
+  "formal_name": "CUBIT\nワンボタン ランニング アクション",
+  "description": "『CUBIT ワンボタン ランニング アクション』は、横スクロールのシンプルなジャンプアクションゲームです。\n<br>\n<br>主人公CUBITをタイミング良くジャンプさせ、障害物や落とし穴を避けゴールへ導きましょう。",
+  "release_date_on_eshop": "2014-08-06",
+  "product_code": "CTR-N-JQ7J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "トレーニング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,35 +1,35 @@
 {
-    "tid": "000400000007FC00",
-    "uid": "50010000008764",
-    "name": "Zen Pinball 3D",
-    "formal_name": "Zen Pinball 3D",
-    "description": "Zen Pinball 3D for Nintendo 3DS brings an incredible stereoscopic 3D experience to the acclaimed video game pinball series for the first time ever. Featuring four beautifully crafted, original tables, Zen Pinball 3D features the most advanced ball physics in a pinball video game to date, online leader boards ranking you against other players, in-game friend challenges, interactive 3D models, and more! Zen Pinball 3D for Nintendo 3DS is the definitive pinball experience on portable game systems.\n<br><br>\n• Earth Defense pits the player against hordes of hostile aliens as they try to take the planet by storm!<br>\n• Players will experience life as a novice sorcerer who must master the trade of summoning spectacular natural phenomena in Shaman.<br>\n• Travel back to the middle ages to the Kingdom of Camelot and become a Knight of the Round Table in Excalibur.<br>\n• Experience the unexplored jungles of El Dorado as you hunt for hidden treasures and uncover the mysteries of ancient civilization.",
-    "release_date_on_eshop": "2012-01-12",
-    "product_code": "CTR-N-JENE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Other",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000007FC00",
+  "uid": "50010000008764",
+  "name": "Zen Pinball 3D",
+  "formal_name": "Zen Pinball 3D",
+  "description": "Zen Pinball 3D for Nintendo 3DS brings an incredible stereoscopic 3D experience to the acclaimed video game pinball series for the first time ever. Featuring four beautifully crafted, original tables, Zen Pinball 3D features the most advanced ball physics in a pinball video game to date, online leader boards ranking you against other players, in-game friend challenges, interactive 3D models, and more! Zen Pinball 3D for Nintendo 3DS is the definitive pinball experience on portable game systems.\n<br><br>\n• Earth Defense pits the player against hordes of hostile aliens as they try to take the planet by storm!<br>\n• Players will experience life as a novice sorcerer who must master the trade of summoning spectacular natural phenomena in Shaman.<br>\n• Travel back to the middle ages to the Kingdom of Camelot and become a Knight of the Round Table in Excalibur.<br>\n• Experience the unexplored jungles of El Dorado as you hunt for hidden treasures and uncover the mysteries of ancient civilization.",
+  "release_date_on_eshop": "2012-01-12",
+  "product_code": "CTR-N-JENE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Other",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000CC600",
-    "uid": "50010000014013",
-    "name": "Dillon's Rolling Western™:\nThe Last Ranger",
-    "formal_name": "Dillon's Rolling Western™:\nThe Last Ranger",
-    "description": "Dillon, a rootin' tootin' cowboy\narmadillo, battled the fearsome,\nlivestock-munching Grocks in his first\nNintendo 3DS game in 2012, but now\ndanger has returned to the plains!\nDillon's Rolling Western: The Last\nRanger, available from\nNintendo eShop on Nintendo 3DS,\nbrings back fast-paced tower defence\naction in a Wild West-themed world.\nRecruit new rangers, outlaws and\ngunslingers to help Dillon on his quest\nto defend villages from the new Grock\ninvasion!",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-JGWP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CC600",
+  "uid": "50010000014013",
+  "name": "Dillon's Rolling Western™:\nThe Last Ranger",
+  "formal_name": "Dillon's Rolling Western™:\nThe Last Ranger",
+  "description": "Dillon, a rootin' tootin' cowboy\narmadillo, battled the fearsome,\nlivestock-munching Grocks in his first\nNintendo 3DS game in 2012, but now\ndanger has returned to the plains!\nDillon's Rolling Western: The Last\nRanger, available from\nNintendo eShop on Nintendo 3DS,\nbrings back fast-paced tower defence\naction in a Wild West-themed world.\nRecruit new rangers, outlaws and\ngunslingers to help Dillon on his quest\nto defend villages from the new Grock\ninvasion!",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-JGWP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000096F00",
-    "uid": "50010000010146",
-    "name": "The 3D Machine",
-    "formal_name": "The 3D Machine",
-    "description": "After an inventor makes a\nbreakthrough, he leaves his incapable\nassistant alone with his new wonder\ninvention, which leads to wealth,\nlove...and catastrophe!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-MAAP",
-    "platform_name": "Downloadable Video",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000096F00",
+  "uid": "50010000010146",
+  "name": "The 3D Machine",
+  "formal_name": "The 3D Machine",
+  "description": "After an inventor makes a\nbreakthrough, he leaves his incapable\nassistant alone with his new wonder\ninvention, which leads to wealth,\nlove...and catastrophe!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-MAAP",
+  "platform_name": "Downloadable Video",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

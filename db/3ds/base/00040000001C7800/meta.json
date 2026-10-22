@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001C7800",
-    "uid": "50010000043275",
-    "name": "Cube Creator DX",
-    "formal_name": "Cube Creator DX",
-    "description": "『Cube Creator DX』제품판은 패키지를 구입하여 즐겨 주십시오. \n\n큐브 세계를 다양하게 즐겨보자!\n\n다양한 큐브로 이뤄진 세계를 모험할 수 있는 서바이벌부터, 여러가지 큐브를 가지고 그림을 그리거나 건물, 세계, 스테이지 등 상상하는 모든 것을 자유롭게 만들 수 있는 크리에이티브까지!\n\n가까이 있는 친구부터 멀리 있는 유저까지 최대 4명까지 다함께 놀 수 있는 멀티플레이 대응!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-A9CK",
-    "platform_name": "닌텐도 3DS 패키지",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "어드벤처"
-    ],
-    "features": [
-        "인터넷 대응",
-        "3D 영상 대응",
-        "로컬 플레이 대응"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "제명:Cube Creator DX\n상호:ARC SYSTEM WORKS ASIA BRANCH\n이용등급:전체이용가\n등급분류번호:GC-DG-NV-170630-152\n등급분류 일자:2017.6.30\n제작・배급업신고번호:제2016-4호\n※ 대응 언어:한국어",
-    "descriptors": []
+  "tid": "00040000001C7800",
+  "uid": "50010000043275",
+  "name": "Cube Creator DX",
+  "formal_name": "Cube Creator DX",
+  "description": "『Cube Creator DX』제품판은 패키지를 구입하여 즐겨 주십시오. \n\n큐브 세계를 다양하게 즐겨보자!\n\n다양한 큐브로 이뤄진 세계를 모험할 수 있는 서바이벌부터, 여러가지 큐브를 가지고 그림을 그리거나 건물, 세계, 스테이지 등 상상하는 모든 것을 자유롭게 만들 수 있는 크리에이티브까지!\n\n가까이 있는 친구부터 멀리 있는 유저까지 최대 4명까지 다함께 놀 수 있는 멀티플레이 대응!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-A9CK",
+  "platform_name": "닌텐도 3DS 패키지",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "어드벤처"
+  ],
+  "features": [
+    "인터넷 대응",
+    "3D 영상 대응",
+    "로컬 플레이 대응"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "제명:Cube Creator DX\n상호:ARC SYSTEM WORKS ASIA BRANCH\n이용등급:전체이용가\n등급분류번호:GC-DG-NV-170630-152\n등급분류 일자:2017.6.30\n제작・배급업신고번호:제2016-4호\n※ 대응 언어:한국어",
+  "descriptors": []
 }

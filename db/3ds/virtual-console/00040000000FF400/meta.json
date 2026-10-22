@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000FF400",
-    "uid": "50010000026116",
-    "name": "Street Fighter 2010:\nThe Final Fight",
-    "formal_name": "Street Fighter 2010:\nThe Final Fight",
-    "description": "Ken from the Street Fighter™ series\nbecomes a bionic warrior, out to\navenge the death of his friend, in this\nspin-off side-scrolling shooter. Aliens\nhave stolen a superhuman serum so,\nwith his newly enhanced abilities, Ken\nmust battle across the planets to stop\nthem.\n<br/><br/>\nUse your weaponry and athletic skills\nto liberate each planet, and seek out\nspecific target enemies to clear the\nstage. Ken can backflip to evade\ndamage, which can be upgraded to\nperform a powerful kick. It's time to\ntake the fight from the streets and\ninto space!",
-    "release_date_on_eshop": "2014-10-02",
-    "product_code": "CTR-N-TDWP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FF400",
+  "uid": "50010000026116",
+  "name": "Street Fighter 2010:\nThe Final Fight",
+  "formal_name": "Street Fighter 2010:\nThe Final Fight",
+  "description": "Ken from the Street Fighter™ series\nbecomes a bionic warrior, out to\navenge the death of his friend, in this\nspin-off side-scrolling shooter. Aliens\nhave stolen a superhuman serum so,\nwith his newly enhanced abilities, Ken\nmust battle across the planets to stop\nthem.\n<br/><br/>\nUse your weaponry and athletic skills\nto liberate each planet, and seek out\nspecific target enemies to clear the\nstage. Ken can backflip to evade\ndamage, which can be upgraded to\nperform a powerful kick. It's time to\ntake the fight from the streets and\ninto space!",
+  "release_date_on_eshop": "2014-10-02",
+  "product_code": "CTR-N-TDWP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

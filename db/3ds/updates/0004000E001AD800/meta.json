@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E001AD800",
-    "uid": "50010000042817",
-    "name": "Elliot Quest\nUpdate Ver. 1.4",
-    "formal_name": "Elliot Quest\n<br>Update Ver. 1.4",
-    "description": "This is an update for the game card version of the Elliot Quest game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of Elliot Quest.",
-    "release_date_on_eshop": "2018-02-12",
-    "product_code": "CTR-U-KEQE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v4.8.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E001AD800",
+  "uid": "50010000042817",
+  "name": "Elliot Quest\nUpdate Ver. 1.4",
+  "formal_name": "Elliot Quest\n<br>Update Ver. 1.4",
+  "description": "This is an update for the game card version of the Elliot Quest game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of Elliot Quest.",
+  "release_date_on_eshop": "2018-02-12",
+  "product_code": "CTR-U-KEQE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v4.8.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

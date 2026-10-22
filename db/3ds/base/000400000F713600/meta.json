@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F713600",
-    "uid": "50010000048155",
-    "name": "Slime Slayer",
-    "formal_name": "Slime Slayer",
-    "description": "Grab your sword and become the Slime Slayer!  Rampage through a 3D world inspired by old school 8-Bit games.\n<br>\n<br>Slime Slayer is a FPS, procedurally generated, rougelike dungeon crawler in Pixel Prime 8-Bit 3D.\n<br>\n<br>Sing along with the trailer song:\n<br>Slime Slayer.  Slime Sla-a-a-a-yer!\n<br>First you find the sword,\n<br>Then you slay the slime,\n<br>Then you slay more slime!\n<br>When you slay - the last slime,\n<br>Find the exit - before you're out of time!\n<br>Or you're finished.\n<br>Slime Sla-a-a-a-yer!!!",
-    "release_date_on_eshop": "2019-10-10",
-    "product_code": "KTR-N-CA7E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "First-Person Shooter",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F713600",
+  "uid": "50010000048155",
+  "name": "Slime Slayer",
+  "formal_name": "Slime Slayer",
+  "description": "Grab your sword and become the Slime Slayer!  Rampage through a 3D world inspired by old school 8-Bit games.\n<br>\n<br>Slime Slayer is a FPS, procedurally generated, rougelike dungeon crawler in Pixel Prime 8-Bit 3D.\n<br>\n<br>Sing along with the trailer song:\n<br>Slime Slayer.  Slime Sla-a-a-a-yer!\n<br>First you find the sword,\n<br>Then you slay the slime,\n<br>Then you slay more slime!\n<br>When you slay - the last slime,\n<br>Find the exit - before you're out of time!\n<br>Or you're finished.\n<br>Slime Sla-a-a-a-yer!!!",
+  "release_date_on_eshop": "2019-10-10",
+  "product_code": "KTR-N-CA7E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "First-Person Shooter",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

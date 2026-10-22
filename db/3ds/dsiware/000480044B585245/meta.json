@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B585245",
-    "uid": "50010000011946",
-    "name": "Retro Pocket",
-    "formal_name": "Retro Pocket",
-    "description": "Retro Pocket™ is a fun and exciting video game that brings you back to the glory days of LED handhelds! Discover eight all-original LED-style games such as Kung Fu Hero, Whale Escape, Mind Your Head, Candy Factory and more! Retro Pocket™ features Game A and Game B modes in all eight games for extra gameplay variations and more high scores to obtain. Aside from the retro visuals, an all-original retro-game-inspired soundtrack awaits your ears as well! UFO Interactive Games would like to welcome you (back) into the wonderful world of Retro Pocket™!",
-    "release_date_on_eshop": "2012-09-20",
-    "product_code": "TWL-N-KXRE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Fighting",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585245",
+  "uid": "50010000011946",
+  "name": "Retro Pocket",
+  "formal_name": "Retro Pocket",
+  "description": "Retro Pocket™ is a fun and exciting video game that brings you back to the glory days of LED handhelds! Discover eight all-original LED-style games such as Kung Fu Hero, Whale Escape, Mind Your Head, Candy Factory and more! Retro Pocket™ features Game A and Game B modes in all eight games for extra gameplay variations and more high scores to obtain. Aside from the retro visuals, an all-original retro-game-inspired soundtrack awaits your ears as well! UFO Interactive Games would like to welcome you (back) into the wonderful world of Retro Pocket™!",
+  "release_date_on_eshop": "2012-09-20",
+  "product_code": "TWL-N-KXRE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Fighting",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

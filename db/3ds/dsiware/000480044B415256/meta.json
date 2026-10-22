@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B415256",
-    "uid": "50010000005785",
-    "name": "AiRace",
-    "formal_name": "AiRace",
-    "description": "AiRace - the first high-octane,\nadrenaline-fueled air, speed and stunt\ngame for Nintendo DSi. AiRace is not\nyour typical handheld racing game –\nit’s high-sky racing at its best. There\nare no limits to your flight with 360°\nmovement and unique steering with\nthe Nintendo DSi stylus. AiRace offers\nyou a chance to control one of nine\nplanes and compete against AI or\nhuman opponents in six exotic\nlocations. With great physics, plane\nupgrades, on-the-track power-ups and\nunique maps, AiRace offers a little bit\nmore than your average racing\nexperience.<br>\n<br>\nNow it’s time to leave your cars and\nswitch to aeroplanes.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KARV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415256",
+  "uid": "50010000005785",
+  "name": "AiRace",
+  "formal_name": "AiRace",
+  "description": "AiRace - the first high-octane,\nadrenaline-fueled air, speed and stunt\ngame for Nintendo DSi. AiRace is not\nyour typical handheld racing game –\nit’s high-sky racing at its best. There\nare no limits to your flight with 360°\nmovement and unique steering with\nthe Nintendo DSi stylus. AiRace offers\nyou a chance to control one of nine\nplanes and compete against AI or\nhuman opponents in six exotic\nlocations. With great physics, plane\nupgrades, on-the-track power-ups and\nunique maps, AiRace offers a little bit\nmore than your average racing\nexperience.<br>\n<br>\nNow it’s time to leave your cars and\nswitch to aeroplanes.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KARV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

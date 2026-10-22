@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4C5945",
-    "uid": "50010000003021",
-    "name": "Dragon's Lair® II: Time Warp",
-    "formal_name": "Dragon's Lair® II: Time Warp",
-    "description": "Princess Daphne has been spirited away to a wrinkle in time by the evil wizard, Mordroc, who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne’s finger in marriage and she will be lost forever in the Time Warp!\n\nDragon’s Lair II: Time Warp is a fully animated classic arcade game from legendary animator Don Bluth. You’ll make your way through time by using your Nintendo DSi system to move and wield your sword. Beware of your foes, as they are numerous! Only you can save Princess Daphne. Good luck adventurer. Your quest awaits!\n",
-    "release_date_on_eshop": "2010-12-20",
-    "product_code": "TWL-N-KLYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C5945",
+  "uid": "50010000003021",
+  "name": "Dragon's Lair® II: Time Warp",
+  "formal_name": "Dragon's Lair® II: Time Warp",
+  "description": "Princess Daphne has been spirited away to a wrinkle in time by the evil wizard, Mordroc, who plans to force her into marriage. Only you, Dirk the Daring, can save her. Transported by a bumbling old time machine, you begin the rescue mission. But you must hurry, for once the Casket of Doom has opened, Mordroc will place the Death Ring upon Daphne’s finger in marriage and she will be lost forever in the Time Warp!\n\nDragon’s Lair II: Time Warp is a fully animated classic arcade game from legendary animator Don Bluth. You’ll make your way through time by using your Nintendo DSi system to move and wield your sword. Beware of your foes, as they are numerous! Only you can save Princess Daphne. Good luck adventurer. Your quest awaits!\n",
+  "release_date_on_eshop": "2010-12-20",
+  "product_code": "TWL-N-KLYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000067200",
-    "uid": "50010000007934",
-    "name": "Balloon Kid™",
-    "formal_name": "Balloon Kid™",
-    "description": "In the little town of Pencilvania, there lived a brother and sister who loved to play with balloons! Alice and her younger brother, Jim, would spend countless days filling the skies with their balloons. One day, Jim filled all of\nhis balloons and tied them together to\nmake a beautiful balloon rainbow across the sky. But suddenly, a strong\nwind came and carried Jim away!\n\nAs Alice, you must save your brother from peril! Float through eight different\nstages, as you follow Jim's trail of balloons. Collect as many balloons as possible to earn bonuses! Test your piloting skills to avoid enemies, or let go of your balloons to face the enemies on ground! In Balloon Trip mode, compete for the highest score and move up the ranks!\n\nTake a big gulp of courage and give Alice a hand as she searches for her missing brother!",
-    "release_date_on_eshop": "1990-10",
-    "product_code": "CTR-N-RBEE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000067200",
+  "uid": "50010000007934",
+  "name": "Balloon Kid™",
+  "formal_name": "Balloon Kid™",
+  "description": "In the little town of Pencilvania, there lived a brother and sister who loved to play with balloons! Alice and her younger brother, Jim, would spend countless days filling the skies with their balloons. One day, Jim filled all of\nhis balloons and tied them together to\nmake a beautiful balloon rainbow across the sky. But suddenly, a strong\nwind came and carried Jim away!\n\nAs Alice, you must save your brother from peril! Float through eight different\nstages, as you follow Jim's trail of balloons. Collect as many balloons as possible to earn bonuses! Test your piloting skills to avoid enemies, or let go of your balloons to face the enemies on ground! In Balloon Trip mode, compete for the highest score and move up the ranks!\n\nTake a big gulp of courage and give Alice a hand as she searches for her missing brother!",
+  "release_date_on_eshop": "1990-10",
+  "product_code": "CTR-N-RBEE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

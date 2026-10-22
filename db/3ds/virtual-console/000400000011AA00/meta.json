@@ -1,28 +1,28 @@
 {
-    "tid": "000400000011AA00",
-    "uid": "50010000029715",
-    "name": "Lufia®: The Legend Returns",
-    "formal_name": "Lufia®: The Legend Returns",
-    "description": "After waking from a century long slumber on Doom Island, the powerful Sinistrals rise to lay a devastating claim on the world they want for their own. As the Sinistrals begin their attack on a small village, a young man is saved while his home and surroundings are destroyed. Wain, a descendant from a legendary hero, and Seena, a traveling fortune teller, must join forces to seek out warriors like themselves during their travels across the four main continents.\n<br><br>\nJoin a cast of 12 playable characters in this turn-based adventure filled with love, hope, terror, and revenge. Complete quests to open up new paths, level up by battling monstrous enemies, and gain new abilities by finding Ancient Texts hidden within dungeons and caves. Then, take the trial in surviving the 200 levels of the mystic but dangerous Ancient Cave. The thread of destiny guides you in your journey to becoming a legend!",
-    "release_date_on_eshop": "2015-01-15",
-    "product_code": "CTR-N-QBEE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000011AA00",
+  "uid": "50010000029715",
+  "name": "Lufia®: The Legend Returns",
+  "formal_name": "Lufia®: The Legend Returns",
+  "description": "After waking from a century long slumber on Doom Island, the powerful Sinistrals rise to lay a devastating claim on the world they want for their own. As the Sinistrals begin their attack on a small village, a young man is saved while his home and surroundings are destroyed. Wain, a descendant from a legendary hero, and Seena, a traveling fortune teller, must join forces to seek out warriors like themselves during their travels across the four main continents.\n<br><br>\nJoin a cast of 12 playable characters in this turn-based adventure filled with love, hope, terror, and revenge. Complete quests to open up new paths, level up by battling monstrous enemies, and gain new abilities by finding Ancient Texts hidden within dungeons and caves. Then, take the trial in surviving the 200 levels of the mystic but dangerous Ancient Cave. The thread of destiny guides you in your journey to becoming a legend!",
+  "release_date_on_eshop": "2015-01-15",
+  "product_code": "CTR-N-QBEE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "000400000F70CD00",
-    "uid": "50010000042983",
-    "name": "Fire Emblem Warriors™",
-    "formal_name": "Fire Emblem Warriors™",
-    "description": "Unleash the power of Fire Emblem heroes like never before!\n<br>\n<br>The fate of the Kingdom of Aytolis lies in the hands of two young twins, Rowan and Lianna. Entrusted with the mysterious Shield of Flames, Rowan and Lianna must band together with warriors from across the Fire Emblem universe to face countless adversaries and stop the Chaos Dragon.\n<br>\n<br>Combat swarms of foes on the battlefield with an array of incredible moves. Pair up warriors to perform devastating attacks, chain together amazing combos and overthrow the enemy’s strongholds.\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information.",
-    "release_date_on_eshop": "2017-10-20",
-    "product_code": "KTR-P-CFMP",
-    "platform_name": "New 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70CD00",
+  "uid": "50010000042983",
+  "name": "Fire Emblem Warriors™",
+  "formal_name": "Fire Emblem Warriors™",
+  "description": "Unleash the power of Fire Emblem heroes like never before!\n<br>\n<br>The fate of the Kingdom of Aytolis lies in the hands of two young twins, Rowan and Lianna. Entrusted with the mysterious Shield of Flames, Rowan and Lianna must band together with warriors from across the Fire Emblem universe to face countless adversaries and stop the Chaos Dragon.\n<br>\n<br>Combat swarms of foes on the battlefield with an array of incredible moves. Pair up warriors to perform devastating attacks, chain together amazing combos and overthrow the enemy’s strongholds.\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information.",
+  "release_date_on_eshop": "2017-10-20",
+  "product_code": "KTR-P-CFMP",
+  "platform_name": "New 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

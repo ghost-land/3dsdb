@@ -1,27 +1,27 @@
 {
-    "tid": "000400000010EE00",
-    "uid": "50010000017976",
-    "name": "ゲームざんまい",
-    "formal_name": "ゲームざんまい",
-    "description": "『ゲームざんまい』は、22種類のテーブルゲームが集まった贅沢なテーブルゲーム集です。\n<br>ジグソーパズルやナンバープレース、バックギャモンなど人気のゲームが盛りだくさん!\n<br>さあ、心ゆくまで遊びましょう!\n<br>\n<br>■収録ゲーム\n<br>ジグソーパズル\n<br>ルード\n<br>マインスイーパー\n<br>スライドパズル\n<br>神経衰弱\n<br>ナンバープレース\n<br>ドミノ\n<br>ダイスファイブ\n<br>間違い探し\n<br>パイプシフト\n<br>クロスサム\n<br>ダイヤモンドゲーム\n<br>シップエンカウンター\n<br>チェッカー\n<br>フリーセル\n<br>ナインメンズモリス\n<br>マッチ3\n<br>コードクラッカー\n<br>4 in a row\n<br>ペグソリティア\n<br>ビーノ\n<br>バックギャモン",
-    "release_date_on_eshop": "2013-11-27",
-    "product_code": "CTR-N-AD3J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010EE00",
+  "uid": "50010000017976",
+  "name": "ゲームざんまい",
+  "formal_name": "ゲームざんまい",
+  "description": "『ゲームざんまい』は、22種類のテーブルゲームが集まった贅沢なテーブルゲーム集です。\n<br>ジグソーパズルやナンバープレース、バックギャモンなど人気のゲームが盛りだくさん!\n<br>さあ、心ゆくまで遊びましょう!\n<br>\n<br>■収録ゲーム\n<br>ジグソーパズル\n<br>ルード\n<br>マインスイーパー\n<br>スライドパズル\n<br>神経衰弱\n<br>ナンバープレース\n<br>ドミノ\n<br>ダイスファイブ\n<br>間違い探し\n<br>パイプシフト\n<br>クロスサム\n<br>ダイヤモンドゲーム\n<br>シップエンカウンター\n<br>チェッカー\n<br>フリーセル\n<br>ナインメンズモリス\n<br>マッチ3\n<br>コードクラッカー\n<br>4 in a row\n<br>ペグソリティア\n<br>ビーノ\n<br>バックギャモン",
+  "release_date_on_eshop": "2013-11-27",
+  "product_code": "CTR-N-AD3J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

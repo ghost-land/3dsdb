@@ -1,39 +1,39 @@
 {
-    "tid": "00040000000D6500",
-    "uid": "50010000015533",
-    "name": "Funfair Party Games",
-    "formal_name": "Funfair Party Games",
-    "description": "Multiplayer fun at the fair with\nmovement control and eleven amazing\nattractions!\n<br/><br/>\nUse your Mii™ to play live multiplayer\ngames or master all the attractions in\nsingle player mode and beat the\ninternational high scores.\n<br/><br/>\nIn addition to classic control options,\nyou can move your Nintendo 3DS™ to\ntake aim at targets with your gun or\ncontrol the circle of hot wire in arcade\nmode. You can also throw darts,\nbasketballs and more by imitating the\nrealistic movement with the\nNintendo 3DS™.\n<br/><br/>\nSound crazy? That's because it is -\nand a ton of fun to boot!\n<br/><br/>\nThese attractions are waiting for you:\n<br/>\nBalloon Burst\n<br/>\nBasketball\n<br/>\nCamel Race\n<br/>\nDuck Fishing\n<br/>\nHot Wire\n<br/>\nClaw Crane\n<br/>\nBall-In-The-Glass\n<br/>\nHigh Striker\n<br/>\nCan Knockdown\n<br/>\nShooting Gallery\n<br/>\nBall Roll\n<br/><br/>\nFeatures:\n<br/>\n- Experience a new, totally rad\nmovement control system\n<br/>\n- 2 control options: Arcade\n(movement control) and Classic (with\nbuttons and stylus)\n<br/>\n- 4 game modes: Single Player,\nMultiplayer  - Local Game, Internet or\nHot-Seat\n<br/>\n- for up to 4 players",
-    "release_date_on_eshop": "2013-08-22",
-    "product_code": "CTR-N-AFNZ",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Sports",
-        "Party"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D6500",
+  "uid": "50010000015533",
+  "name": "Funfair Party Games",
+  "formal_name": "Funfair Party Games",
+  "description": "Multiplayer fun at the fair with\nmovement control and eleven amazing\nattractions!\n<br/><br/>\nUse your Mii™ to play live multiplayer\ngames or master all the attractions in\nsingle player mode and beat the\ninternational high scores.\n<br/><br/>\nIn addition to classic control options,\nyou can move your Nintendo 3DS™ to\ntake aim at targets with your gun or\ncontrol the circle of hot wire in arcade\nmode. You can also throw darts,\nbasketballs and more by imitating the\nrealistic movement with the\nNintendo 3DS™.\n<br/><br/>\nSound crazy? That's because it is -\nand a ton of fun to boot!\n<br/><br/>\nThese attractions are waiting for you:\n<br/>\nBalloon Burst\n<br/>\nBasketball\n<br/>\nCamel Race\n<br/>\nDuck Fishing\n<br/>\nHot Wire\n<br/>\nClaw Crane\n<br/>\nBall-In-The-Glass\n<br/>\nHigh Striker\n<br/>\nCan Knockdown\n<br/>\nShooting Gallery\n<br/>\nBall Roll\n<br/><br/>\nFeatures:\n<br/>\n- Experience a new, totally rad\nmovement control system\n<br/>\n- 2 control options: Arcade\n(movement control) and Classic (with\nbuttons and stylus)\n<br/>\n- 4 game modes: Single Player,\nMultiplayer  - Local Game, Internet or\nHot-Seat\n<br/>\n- for up to 4 players",
+  "release_date_on_eshop": "2013-08-22",
+  "product_code": "CTR-N-AFNZ",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Sports",
+    "Party"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

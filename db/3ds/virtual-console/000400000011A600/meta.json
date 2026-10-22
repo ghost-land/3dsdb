@@ -1,29 +1,29 @@
 {
-    "tid": "000400000011A600",
-    "uid": "50010000031316",
-    "name": "Donkey Kong Land III™",
-    "formal_name": "Donkey Kong Land III™",
-    "description": "Fame-and-fortune seekers have journeyed far and wide in search of the fabled Lost World. Eager to find it first, Donkey Kong and Diddy Kong set off to discover its entrance, unaware that Baron K. Roolenstein and his Kremling Krew are hot on their tail! Meanwhile, Dixie Kong is left behind to babysit her younger cousin, Kiddy Kong. But that won't stop her from answering the call of adventure!\n<BR><BR>\nHelp Dixie Kong and Kiddy Kong through 36 Kremling-infested levels, each containing their own secret areas and bonus levels! While Dixie Kong's Helicopter Spin is useful for hovering away from obstacles, Kiddy Kong's Somersault will allow you to roll over land and water! Animal friends are back to help, and there are plenty collectibles and items to find along the way. Help the adventuring duo be the first to uncover the entrance to the secret Lost World! ",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-N-RCKE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000011A600",
+  "uid": "50010000031316",
+  "name": "Donkey Kong Land III™",
+  "formal_name": "Donkey Kong Land III™",
+  "description": "Fame-and-fortune seekers have journeyed far and wide in search of the fabled Lost World. Eager to find it first, Donkey Kong and Diddy Kong set off to discover its entrance, unaware that Baron K. Roolenstein and his Kremling Krew are hot on their tail! Meanwhile, Dixie Kong is left behind to babysit her younger cousin, Kiddy Kong. But that won't stop her from answering the call of adventure!\n<BR><BR>\nHelp Dixie Kong and Kiddy Kong through 36 Kremling-infested levels, each containing their own secret areas and bonus levels! While Dixie Kong's Helicopter Spin is useful for hovering away from obstacles, Kiddy Kong's Somersault will allow you to roll over land and water! Animal friends are back to help, and there are plenty collectibles and items to find along the way. Help the adventuring duo be the first to uncover the entrance to the secret Lost World! ",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-N-RCKE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

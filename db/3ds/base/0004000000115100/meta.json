@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000115100",
-    "uid": "50010000020334",
-    "name": "WEAPON SHOP de OMASSE™ ",
-    "formal_name": "WEAPON SHOP de OMASSE™ ",
-    "description": "From the mind of comedian Yoshiyuki Hirai comes WEAPON SHOP de OMASSE, a humorous twist on the classic fantasy adventure.\n<br><br>\nYou are Yuhan, an apprentice in a weapon rental shop inside an RPG. It’s your job to forge and rent weapons to the seven misfit heroes and various NPCs that come your way. \n<br><br>\nWhy rental? Sure, there’s a risk that a hero will fail their quest and lose your weapon, but if they succeed, you’ll get your weapon back, get paid, and earn a returning customer. With the dreaded Evil Lord’s return looking nigh, it wouldn’t hurt to have more well-equipped heroes running around, either...\n<br><br>\nMatch your customer to a weapon and forge it to the rhythm! Tap your Nintendo 3DS in time with the music, balance the heat of your materials, and make sure that your hammer strikes true to create a weapon that really shines.\n<br><br>\nFollow your customers’ adventures on the “Grindcast,” a special feed built into each weapon that sends every encounter, discovery, and conversation it hears back to you!",
-    "release_date_on_eshop": "2014-02-20",
-    "product_code": "CTR-N-JBKE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000115100",
+  "uid": "50010000020334",
+  "name": "WEAPON SHOP de OMASSE™ ",
+  "formal_name": "WEAPON SHOP de OMASSE™ ",
+  "description": "From the mind of comedian Yoshiyuki Hirai comes WEAPON SHOP de OMASSE, a humorous twist on the classic fantasy adventure.\n<br><br>\nYou are Yuhan, an apprentice in a weapon rental shop inside an RPG. It’s your job to forge and rent weapons to the seven misfit heroes and various NPCs that come your way. \n<br><br>\nWhy rental? Sure, there’s a risk that a hero will fail their quest and lose your weapon, but if they succeed, you’ll get your weapon back, get paid, and earn a returning customer. With the dreaded Evil Lord’s return looking nigh, it wouldn’t hurt to have more well-equipped heroes running around, either...\n<br><br>\nMatch your customer to a weapon and forge it to the rhythm! Tap your Nintendo 3DS in time with the music, balance the heat of your materials, and make sure that your hammer strikes true to create a weapon that really shines.\n<br><br>\nFollow your customers’ adventures on the “Grindcast,” a special feed built into each weapon that sends every encounter, discovery, and conversation it hears back to you!",
+  "release_date_on_eshop": "2014-02-20",
+  "product_code": "CTR-N-JBKE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

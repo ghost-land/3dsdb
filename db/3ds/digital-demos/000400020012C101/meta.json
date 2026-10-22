@@ -1,31 +1,31 @@
 {
-    "tid": "000400020012C101",
-    "uid": "50010000029696",
-    "name": "Citizens of Earth",
-    "formal_name": "Citizens of Earth",
-    "description": "You've just been elected as Vice President of the World... So what now? Recruit your friends, your family, and everyone else around town to join your party and fight your battles!\n<br>\n<br>In this modern-day retro-RPG, you have returned home from the campaign trails for a little taxpayer-funded vacation... to find things have gone mad! Only YOU have the charisma it takes to delegate all the dirty work and save the world. So don't ask what you can do for your countrymen...Ask what your countrymen can do for you!",
-    "release_date_on_eshop": "2015-01-20",
-    "product_code": "CTR-N-JUYE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Fantasy Violence",
-        "Simulated Gambling",
-        "Tobacco Reference"
-    ]
+  "tid": "000400020012C101",
+  "uid": "50010000029696",
+  "name": "Citizens of Earth",
+  "formal_name": "Citizens of Earth",
+  "description": "You've just been elected as Vice President of the World... So what now? Recruit your friends, your family, and everyone else around town to join your party and fight your battles!\n<br>\n<br>In this modern-day retro-RPG, you have returned home from the campaign trails for a little taxpayer-funded vacation... to find things have gone mad! Only YOU have the charisma it takes to delegate all the dirty work and save the world. So don't ask what you can do for your countrymen...Ask what your countrymen can do for you!",
+  "release_date_on_eshop": "2015-01-20",
+  "product_code": "CTR-N-JUYE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence",
+    "Simulated Gambling",
+    "Tobacco Reference"
+  ]
 }

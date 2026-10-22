@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000A7500",
-    "uid": "50010000010874",
-    "name": "おきらくピンポン3D",
-    "formal_name": "おきらくピンポン3D",
-    "description": "『おきらく』シリーズに爽快ピンポンゲームが登場! \n<br>総勢8人のおきらく一家が6つのステージで卓球対決。\n<br>ドライブショットとカットショットを使い分け、体勢を崩した相手にスマッシュを連打すれば気分爽快。\n<br>本編に加え、3つのミニゲームとイラストギャラリー、30個のひみつの実績で、たっぷりと楽しめます。",
-    "release_date_on_eshop": "2012-07-18",
-    "product_code": "CTR-N-JPPJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "スポーツ",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A7500",
+  "uid": "50010000010874",
+  "name": "おきらくピンポン3D",
+  "formal_name": "おきらくピンポン3D",
+  "description": "『おきらく』シリーズに爽快ピンポンゲームが登場! \n<br>総勢8人のおきらく一家が6つのステージで卓球対決。\n<br>ドライブショットとカットショットを使い分け、体勢を崩した相手にスマッシュを連打すれば気分爽快。\n<br>本編に加え、3つのミニゲームとイラストギャラリー、30個のひみつの実績で、たっぷりと楽しめます。",
+  "release_date_on_eshop": "2012-07-18",
+  "product_code": "CTR-N-JPPJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "スポーツ",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

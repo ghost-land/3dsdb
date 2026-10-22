@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000BA300",
-    "uid": "50010000012850",
-    "name": "Nano Assault EX",
-    "formal_name": "Nano Assault EX",
-    "description": "Stop the deadly Nanostray virus in\nNano Assault EX. Experience a\nfast-paced action shooter, set within a\nvisually stunning cellular system that\nleaps off the screen in full 3D.\n<br/><br/>\nNano Assault EX features online\nrankings, support for Circle Pad Pro\nand full stereoscopic 3D graphics.",
-    "release_date_on_eshop": "2013-03-07",
-    "product_code": "CTR-N-JNAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BA300",
+  "uid": "50010000012850",
+  "name": "Nano Assault EX",
+  "formal_name": "Nano Assault EX",
+  "description": "Stop the deadly Nanostray virus in\nNano Assault EX. Experience a\nfast-paced action shooter, set within a\nvisually stunning cellular system that\nleaps off the screen in full 3D.\n<br/><br/>\nNano Assault EX features online\nrankings, support for Circle Pad Pro\nand full stereoscopic 3D graphics.",
+  "release_date_on_eshop": "2013-03-07",
+  "product_code": "CTR-N-JNAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000117C00",
-    "uid": "50010000022877",
-    "name": "Color Zen",
-    "formal_name": "Color Zen",
-    "description": "Color Zen is a new kind of puzzle\ngame. One that invites you to put\non your headphones, relax, and find\nyour way through an abstract world\nof colors and shapes.\n<br/><br/>\nWith simple, intuitive controls,\nthe game invites you to relax and\nimmerse yourself. There are no\npoints or penalties for failure;\njust an abstract world of color to\nmove through at your own pace.\nSo put on your headphones and find\nyour way, with Color Zen.\n<br/><br/>\nGame features:\n<br/><br/>\nMeditative puzzle-cracking flow:\njust match the colors to win the\nlevel\n<br/><br/>\nImmersive soundtrack keeps you\nin the groove\n<br/><br/>\n460 levels to solve\n<br/><br/>\nMusic by Steve Woodzell",
-    "release_date_on_eshop": "2014-06-05",
-    "product_code": "CTR-N-JZNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000117C00",
+  "uid": "50010000022877",
+  "name": "Color Zen",
+  "formal_name": "Color Zen",
+  "description": "Color Zen is a new kind of puzzle\ngame. One that invites you to put\non your headphones, relax, and find\nyour way through an abstract world\nof colors and shapes.\n<br/><br/>\nWith simple, intuitive controls,\nthe game invites you to relax and\nimmerse yourself. There are no\npoints or penalties for failure;\njust an abstract world of color to\nmove through at your own pace.\nSo put on your headphones and find\nyour way, with Color Zen.\n<br/><br/>\nGame features:\n<br/><br/>\nMeditative puzzle-cracking flow:\njust match the colors to win the\nlevel\n<br/><br/>\nImmersive soundtrack keeps you\nin the groove\n<br/><br/>\n460 levels to solve\n<br/><br/>\nMusic by Steve Woodzell",
+  "release_date_on_eshop": "2014-06-05",
+  "product_code": "CTR-N-JZNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

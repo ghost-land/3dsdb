@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000B5A00",
-    "uid": "50010000019774",
-    "name": "Life Force",
-    "formal_name": "Life Force",
-    "description": "Pilot the Vic Viper solo through six stages of intense action, alternating between horizontally and vertically scrolling environments, and take on wave after wave of enemies. Destroy particular enemies throughout the game—all of which takes place within the body of an enormous alien—to release power-up capsules and equip your ship with your choice of more powerful weapons, extra speed, and shields.\n<br><br>\nUtilize the power-ups carefully, though, as a fearsome guardian lurks at the end of each stage and won’t be easily defeated. You can go at it alone, or invite a friend to pilot the RoadBritish and assist in the challenge. Do you have what it takes to save your planet from the monstrous Zelos?",
-    "release_date_on_eshop": "2014-01-23",
-    "product_code": "CTR-N-TBZE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000B5A00",
+  "uid": "50010000019774",
+  "name": "Life Force",
+  "formal_name": "Life Force",
+  "description": "Pilot the Vic Viper solo through six stages of intense action, alternating between horizontally and vertically scrolling environments, and take on wave after wave of enemies. Destroy particular enemies throughout the game—all of which takes place within the body of an enormous alien—to release power-up capsules and equip your ship with your choice of more powerful weapons, extra speed, and shields.\n<br><br>\nUtilize the power-ups carefully, though, as a fearsome guardian lurks at the end of each stage and won’t be easily defeated. You can go at it alone, or invite a friend to pilot the RoadBritish and assist in the challenge. Do you have what it takes to save your planet from the monstrous Zelos?",
+  "release_date_on_eshop": "2014-01-23",
+  "product_code": "CTR-N-TBZE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

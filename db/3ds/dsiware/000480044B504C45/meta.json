@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B504C45",
-    "uid": "50010000007248",
-    "name": "Puzzle Rocks",
-    "formal_name": "Puzzle Rocks",
-    "description": "Take your time to find the best strategy, improve your moves, and make as many matches as possible during a single turn to improve your score.\n\nQuestion #1: How to keep your brain active?\nAnswer: Play Puzzle Rocks! Stop the falling stones!\n\nQuestion #2: Do you have what it takes to get through 36 various levels?\nAnswer: We will see.\n\nFeatures:\n- 36 different levels in four chapters, combining six different shapes with six colors in a brain-teaser\n- Match-3 style puzzle game on the touch screen\n- Switch match-3 and shape-match minigame anytime\n- Normal and time limit mode\n- Combos with explosive lighting and sound effects\n- Many hours of entertainment\n- Record of best scores for each level\n- Collect bronze, silver, and gold medal for each level",
-    "release_date_on_eshop": "2011-09-08",
-    "product_code": "TWL-N-KPLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504C45",
+  "uid": "50010000007248",
+  "name": "Puzzle Rocks",
+  "formal_name": "Puzzle Rocks",
+  "description": "Take your time to find the best strategy, improve your moves, and make as many matches as possible during a single turn to improve your score.\n\nQuestion #1: How to keep your brain active?\nAnswer: Play Puzzle Rocks! Stop the falling stones!\n\nQuestion #2: Do you have what it takes to get through 36 various levels?\nAnswer: We will see.\n\nFeatures:\n- 36 different levels in four chapters, combining six different shapes with six colors in a brain-teaser\n- Match-3 style puzzle game on the touch screen\n- Switch match-3 and shape-match minigame anytime\n- Normal and time limit mode\n- Combos with explosive lighting and sound effects\n- Many hours of entertainment\n- Record of best scores for each level\n- Collect bronze, silver, and gold medal for each level",
+  "release_date_on_eshop": "2011-09-08",
+  "product_code": "TWL-N-KPLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

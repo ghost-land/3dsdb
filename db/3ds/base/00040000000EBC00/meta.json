@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000EBC00",
-    "uid": "50010000016453",
-    "name": "Happy Circus",
-    "formal_name": "Happy Circus",
-    "description": "Happy Circus's roaming marquee has\nfinally arrived! Unfortunately, though,\nthe circus animals have lost all of\ntheir accessories :(\n<br/><br/>\nSo come and help Pierre and Julie\nfind their friends' favourite objects! In\nHappy Circus, have fun while learning\nand exploring its funny world via 4\neducational games. Young or old,\npractise in your native language or\ntake advantage of this adventure to\nlearn new ones!",
-    "release_date_on_eshop": "2013-09-26",
-    "product_code": "CTR-N-JH8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EBC00",
+  "uid": "50010000016453",
+  "name": "Happy Circus",
+  "formal_name": "Happy Circus",
+  "description": "Happy Circus's roaming marquee has\nfinally arrived! Unfortunately, though,\nthe circus animals have lost all of\ntheir accessories :(\n<br/><br/>\nSo come and help Pierre and Julie\nfind their friends' favourite objects! In\nHappy Circus, have fun while learning\nand exploring its funny world via 4\neducational games. Young or old,\npractise in your native language or\ntake advantage of this adventure to\nlearn new ones!",
+  "release_date_on_eshop": "2013-09-26",
+  "product_code": "CTR-N-JH8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

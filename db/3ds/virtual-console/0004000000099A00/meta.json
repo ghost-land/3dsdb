@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000099A00",
-    "uid": "50010000012529",
-    "name": "MEGA MAN™ 2",
-    "formal_name": "MEGA MAN™ 2",
-    "description": "Regarded as one of the greatest\naction games of all time, Mega Man 2\nimproves upon its already superb\npredecessor. With even more stages\nand Robot Masters, its sheer size and\nscope are enough to get gamers'\nhearts palpitating.\n\nThe year is 200X. Dr. Light’s\nsuper-robot, Mega Man, has\nsucceeded in defeating the nefarious\nDr. Wily and peace reigns over the\nplanet. However, Dr. Wily returns with\na new army of Robot Masters to\nchallenge our hero. Can Mega Man\nsave the world again?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TA5P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000099A00",
+  "uid": "50010000012529",
+  "name": "MEGA MAN™ 2",
+  "formal_name": "MEGA MAN™ 2",
+  "description": "Regarded as one of the greatest\naction games of all time, Mega Man 2\nimproves upon its already superb\npredecessor. With even more stages\nand Robot Masters, its sheer size and\nscope are enough to get gamers'\nhearts palpitating.\n\nThe year is 200X. Dr. Light’s\nsuper-robot, Mega Man, has\nsucceeded in defeating the nefarious\nDr. Wily and peace reigns over the\nplanet. However, Dr. Wily returns with\na new army of Robot Masters to\nchallenge our hero. Can Mega Man\nsave the world again?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TA5P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

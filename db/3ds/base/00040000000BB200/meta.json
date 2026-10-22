@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000BB200",
-    "uid": "50010000012586",
-    "name": "Dress To Play: Cute Witches!",
-    "formal_name": "Dress To Play: Cute Witches!",
-    "description": "In Dress To Play: Cute Witches! dress\nto play and play to dress!\n<br /><br/>\nMake a little witch and design her\noutfit in the dressing room. When you\nfinish, get ready to set off on an\nadventure as your character flies away\non her broomstick to a peaceful world\ninhabited by fantasy characters.\n<br /><br/>\nThe more you play, the more rewards\nand gifts you'll receive. You’ll also\nearn more items of clothing to dress\nyour little witches in!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JDPP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action",
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "WIFI",
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BB200",
+  "uid": "50010000012586",
+  "name": "Dress To Play: Cute Witches!",
+  "formal_name": "Dress To Play: Cute Witches!",
+  "description": "In Dress To Play: Cute Witches! dress\nto play and play to dress!\n<br /><br/>\nMake a little witch and design her\noutfit in the dressing room. When you\nfinish, get ready to set off on an\nadventure as your character flies away\non her broomstick to a peaceful world\ninhabited by fantasy characters.\n<br /><br/>\nThe more you play, the more rewards\nand gifts you'll receive. You’ll also\nearn more items of clothing to dress\nyour little witches in!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JDPP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "WIFI",
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

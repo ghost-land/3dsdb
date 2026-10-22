@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B533450",
-    "uid": "50010000006182",
-    "name": "Simply Sudoku",
-    "formal_name": "Simply Sudoku",
-    "description": "Simply Sudoku gives you exactly\nwhat you want: pure Sudoku on your\nDSi! The simple game design and\neasy, intuitive controls make it a game\nthat the whole family can enjoy. The\ngame has 50 puzzles in each level to\nguarantee hours of gameplay fun.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KS4P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B533450",
+  "uid": "50010000006182",
+  "name": "Simply Sudoku",
+  "formal_name": "Simply Sudoku",
+  "description": "Simply Sudoku gives you exactly\nwhat you want: pure Sudoku on your\nDSi! The simple game design and\neasy, intuitive controls make it a game\nthat the whole family can enjoy. The\ngame has 50 puzzles in each level to\nguarantee hours of gameplay fun.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KS4P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

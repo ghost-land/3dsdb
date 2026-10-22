@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000A9000",
-    "uid": "50010000012390",
-    "name": "Nintendo presents\nNew Style Boutique™",
-    "formal_name": "Nintendo presents\n<br>New Style Boutique™",
-    "description": "In Nintendo presents: New Style\n<br>Boutique, players take on the role of\n<br>a shop assistant and must work their\n<br>way up to eventually owning their own\n<br>boutique by giving customers advice\n<br>and putting a look together for them.\n<br>\n<br>There are thousands of items and\n<br>accessories to choose from, and\n<br>players can also get judged on the\n<br>looks they put together, great for\n<br>anybody wanting to unleash their inner\n<br>fashionista!\n<br>\n<br>Reach the top of the style stakes and\n<br>take the fashion world by storm!",
-    "release_date_on_eshop": "2012-11-16",
-    "product_code": "CTR-N-ACLP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A9000",
+  "uid": "50010000012390",
+  "name": "Nintendo presents\nNew Style Boutique™",
+  "formal_name": "Nintendo presents\n<br>New Style Boutique™",
+  "description": "In Nintendo presents: New Style\n<br>Boutique, players take on the role of\n<br>a shop assistant and must work their\n<br>way up to eventually owning their own\n<br>boutique by giving customers advice\n<br>and putting a look together for them.\n<br>\n<br>There are thousands of items and\n<br>accessories to choose from, and\n<br>players can also get judged on the\n<br>looks they put together, great for\n<br>anybody wanting to unleash their inner\n<br>fashionista!\n<br>\n<br>Reach the top of the style stakes and\n<br>take the fashion world by storm!",
+  "release_date_on_eshop": "2012-11-16",
+  "product_code": "CTR-N-ACLP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

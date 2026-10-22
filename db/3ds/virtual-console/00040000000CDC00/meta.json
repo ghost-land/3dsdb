@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000CDC00",
-    "uid": "50010000021913",
-    "name": "Clu Clu Land",
-    "formal_name": "Clu Clu Land",
-    "description": "Released in the early days of the\nNES, Clu Clu Land is a unique and\nfast-paced action-maze game!\nManoeuvre Bubbles around the levels\nby grabbing posts with her\noutstretched hands and swinging in\nyour chosen direction. To win, explore\nthe whole maze to uncover all of the\ngold bars!\n<br/><br/>\nBut beware! Spiky sea urchins can\npop Bubbles like a real bubble if she\ntouches them. Luckily, Bubbles can\ndefend herself with a sonic shockwave\nthat will stun her enemies!\n<br/><br/>\nClu Clu Land can be played solo or\nwith a friend in simultaneous\ntwo-player mode.",
-    "release_date_on_eshop": "2014-05-08",
-    "product_code": "CTR-N-TCRP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Arcade"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CDC00",
+  "uid": "50010000021913",
+  "name": "Clu Clu Land",
+  "formal_name": "Clu Clu Land",
+  "description": "Released in the early days of the\nNES, Clu Clu Land is a unique and\nfast-paced action-maze game!\nManoeuvre Bubbles around the levels\nby grabbing posts with her\noutstretched hands and swinging in\nyour chosen direction. To win, explore\nthe whole maze to uncover all of the\ngold bars!\n<br/><br/>\nBut beware! Spiky sea urchins can\npop Bubbles like a real bubble if she\ntouches them. Luckily, Bubbles can\ndefend herself with a sonic shockwave\nthat will stun her enemies!\n<br/><br/>\nClu Clu Land can be played solo or\nwith a friend in simultaneous\ntwo-player mode.",
+  "release_date_on_eshop": "2014-05-08",
+  "product_code": "CTR-N-TCRP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Arcade"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

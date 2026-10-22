@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000092C00",
-    "uid": "50010000011388",
-    "name": "行列ナゲループ",
-    "formal_name": "行列ナゲループ",
-    "description": "『行列ナゲループ』の目的はただひとつ。\n<br>長い列をなす「色ジャマ」たちを手当たり次第に消すことです。\n<br>列の間に割り込んで来たり、騒いで列を乱してみたり……\n<br>そんな「色ジャマ」たちをキレイに消すことができれば、気分もスッキリ爽快です。",
-    "release_date_on_eshop": "2012-08-08",
-    "product_code": "CTR-N-JUEJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000092C00",
+  "uid": "50010000011388",
+  "name": "行列ナゲループ",
+  "formal_name": "行列ナゲループ",
+  "description": "『行列ナゲループ』の目的はただひとつ。\n<br>長い列をなす「色ジャマ」たちを手当たり次第に消すことです。\n<br>列の間に割り込んで来たり、騒いで列を乱してみたり……\n<br>そんな「色ジャマ」たちをキレイに消すことができれば、気分もスッキリ爽快です。",
+  "release_date_on_eshop": "2012-08-08",
+  "product_code": "CTR-N-JUEJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

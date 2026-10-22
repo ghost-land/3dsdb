@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000112D00",
-    "uid": "50010000021255",
-    "name": "Yumi's Odd Odyssey™",
-    "formal_name": "Yumi's Odd Odyssey™",
-    "description": "You've never played a puzzle platformer quite like this! Using her fishing hook, Yumi must make her way through a variety of levels by running, jumping, and throwing her coveted fishing line! Yumi can use her fishing line to swing between platforms, lower herself down to other ledges, and even catapult herself great distances by stretching the line to its breaking point! Its unique mechanics are sure to excite even veteran gamers of the platforming genre!\n<br><br>\nMaster Yumi's fishing line to find secret items and hidden exits!\nUse the Ranking feature to see how your high score compares against other players worldwide!\nFight freaky fish and other bizarre enemies, including huge bosses!",
-    "release_date_on_eshop": "2014-03-20",
-    "product_code": "CTR-N-AUFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Adventure",
-        "Action",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000112D00",
+  "uid": "50010000021255",
+  "name": "Yumi's Odd Odyssey™",
+  "formal_name": "Yumi's Odd Odyssey™",
+  "description": "You've never played a puzzle platformer quite like this! Using her fishing hook, Yumi must make her way through a variety of levels by running, jumping, and throwing her coveted fishing line! Yumi can use her fishing line to swing between platforms, lower herself down to other ledges, and even catapult herself great distances by stretching the line to its breaking point! Its unique mechanics are sure to excite even veteran gamers of the platforming genre!\n<br><br>\nMaster Yumi's fishing line to find secret items and hidden exits!\nUse the Ranking feature to see how your high score compares against other players worldwide!\nFight freaky fish and other bizarre enemies, including huge bosses!",
+  "release_date_on_eshop": "2014-03-20",
+  "product_code": "CTR-N-AUFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Adventure",
+    "Action",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

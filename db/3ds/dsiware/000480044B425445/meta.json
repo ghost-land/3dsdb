@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B425445",
-    "uid": "50010000012569",
-    "name": "Invasion of the Alien Blobs!",
-    "formal_name": "Invasion of the Alien Blobs!",
-    "description": "A mysterious alien life form has appeared from outer space and is raging war against humanity! Use your Stylus to make a stand against the invasion by squashing the alien blobs one at a time! With just 10 seconds to deal with each attack wave, you have no time for sight-seeing as you travel the globe fighting off the blobs.\n<br><br>\nThe blobs come in various sizes and forms. Attack the larger blobs to break them up into multiple smaller blobs, and then squash the smaller blobs to kill them off. Infectious Blobs will infect other blobs, while Eater Blobs grow by eating other blobs. Metal blobs require multiple hits. You'll need to make good use of Slaughter Bombs and Hell Fire, capable of wiping out mass amounts of blobs at once, if you are to fend off the blob invasion and save the world!",
-    "release_date_on_eshop": "2012-11-29",
-    "product_code": "TWL-N-KBTE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B425445",
+  "uid": "50010000012569",
+  "name": "Invasion of the Alien Blobs!",
+  "formal_name": "Invasion of the Alien Blobs!",
+  "description": "A mysterious alien life form has appeared from outer space and is raging war against humanity! Use your Stylus to make a stand against the invasion by squashing the alien blobs one at a time! With just 10 seconds to deal with each attack wave, you have no time for sight-seeing as you travel the globe fighting off the blobs.\n<br><br>\nThe blobs come in various sizes and forms. Attack the larger blobs to break them up into multiple smaller blobs, and then squash the smaller blobs to kill them off. Infectious Blobs will infect other blobs, while Eater Blobs grow by eating other blobs. Metal blobs require multiple hits. You'll need to make good use of Slaughter Bombs and Hell Fire, capable of wiping out mass amounts of blobs at once, if you are to fend off the blob invasion and save the world!",
+  "release_date_on_eshop": "2012-11-29",
+  "product_code": "TWL-N-KBTE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

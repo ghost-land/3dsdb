@@ -1,35 +1,35 @@
 {
-    "tid": "000400000018F200",
-    "uid": "50010000041963",
-    "name": "Dragon Quest® VIII:\nJourney of the Cursed King",
-    "formal_name": "Dragon Quest® VIII:\n<br>Journey of the Cursed King",
-    "description": "The story begins when a jester, Dhoulmagus, comes to Castle Trodain and steals the King’s sceptre. He then uses its power to turn his majesty into a troll, the Princess into a horse, and the castle inhabitants into plants. The only one left unscathed from this attack is a castle guard who escaped the curse and must now step up to save the kingdom he’s sworn to protect.",
-    "release_date_on_eshop": "2017-01-20",
-    "product_code": "CTR-P-BQ8P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018F200",
+  "uid": "50010000041963",
+  "name": "Dragon Quest® VIII:\nJourney of the Cursed King",
+  "formal_name": "Dragon Quest® VIII:\n<br>Journey of the Cursed King",
+  "description": "The story begins when a jester, Dhoulmagus, comes to Castle Trodain and steals the King’s sceptre. He then uses its power to turn his majesty into a troll, the Princess into a horse, and the castle inhabitants into plants. The only one left unscathed from this attack is a castle guard who escaped the curse and must now step up to save the kingdom he’s sworn to protect.",
+  "release_date_on_eshop": "2017-01-20",
+  "product_code": "CTR-P-BQ8P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

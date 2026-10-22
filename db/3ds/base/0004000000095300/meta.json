@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000095300",
-    "uid": "50010000011349",
-    "name": "Dot Runner: Complete Edition",
-    "formal_name": "Dot Runner: Complete Edition",
-    "description": "What was sold in Japan as the Nintendo 3DS downloadable title \"Dot Eater\" has now been revamped for the overseas market with additional volume and the new name of \"Dot Runner: Complete Edition.\" 50 new stages have been added for an impressive total of 100 stages of content.\nIn this dot-eater action game, dots that appear in dungeons must be devoured within the time limits. There are two modes: Quest Mode, in which the player strategically moves through the maps as the story unfolds, and Speedrun, in which the player clears dot courses as quickly as possible, using skill and dexterity.\n<br><br>\nThere are two storylines, one set in the Year 3015, and one set in the Year 986.<br>\nRacing around the dungeons in 3D lets the player enjoy an exhilarating sense of speed, while flying sparks give the battle scenes extra punch.\n<br><br>\nWith war raging between the Chefs and the Yakkini-kus, can BOLT and his friends Brisket, Sparerib and Veggie finally defeat the boss of the Yakkini-ku Corps, Chop Suey?",
-    "release_date_on_eshop": "2012-07-26",
-    "product_code": "CTR-N-JDNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000095300",
+  "uid": "50010000011349",
+  "name": "Dot Runner: Complete Edition",
+  "formal_name": "Dot Runner: Complete Edition",
+  "description": "What was sold in Japan as the Nintendo 3DS downloadable title \"Dot Eater\" has now been revamped for the overseas market with additional volume and the new name of \"Dot Runner: Complete Edition.\" 50 new stages have been added for an impressive total of 100 stages of content.\nIn this dot-eater action game, dots that appear in dungeons must be devoured within the time limits. There are two modes: Quest Mode, in which the player strategically moves through the maps as the story unfolds, and Speedrun, in which the player clears dot courses as quickly as possible, using skill and dexterity.\n<br><br>\nThere are two storylines, one set in the Year 3015, and one set in the Year 986.<br>\nRacing around the dungeons in 3D lets the player enjoy an exhilarating sense of speed, while flying sparks give the battle scenes extra punch.\n<br><br>\nWith war raging between the Chefs and the Yakkini-kus, can BOLT and his friends Brisket, Sparerib and Veggie finally defeat the boss of the Yakkini-ku Corps, Chop Suey?",
+  "release_date_on_eshop": "2012-07-26",
+  "product_code": "CTR-N-JDNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

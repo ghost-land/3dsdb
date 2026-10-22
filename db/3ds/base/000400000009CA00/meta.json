@@ -1,33 +1,33 @@
 {
-    "tid": "000400000009CA00",
-    "uid": "50010000013421",
-    "name": "ATV Wild Ride 3D",
-    "formal_name": "ATV Wild Ride 3D",
-    "description": "Prepare yourself for extreme air and jaw-dropping showmanship in this nitro-charged, ATV racing experience! Travel the world visiting tracks in the USA, Thailand, England, Russia, Canada, and Mexico. Speed around 24 challenging courses hitting epic jumps and earning “Nitro” by unleashing dozens of wild tricks!\n<br>\n<br>Head-to-head competitions are won as much in the air as they are on the ground. Grip the handlebars and make sure to preload your jumps to get massive air. Once airborne, show the world your creative side. Trick quantity and quality matter here. The more original and fresh the tricks, the more “Nitro” you’ll earn.\n<br>\n<br>Throttle up your ATV, and get ready for a wild ride!",
-    "release_date_on_eshop": "2013-03-07",
-    "product_code": "CTR-N-JWRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Action",
-        "Sports",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009CA00",
+  "uid": "50010000013421",
+  "name": "ATV Wild Ride 3D",
+  "formal_name": "ATV Wild Ride 3D",
+  "description": "Prepare yourself for extreme air and jaw-dropping showmanship in this nitro-charged, ATV racing experience! Travel the world visiting tracks in the USA, Thailand, England, Russia, Canada, and Mexico. Speed around 24 challenging courses hitting epic jumps and earning “Nitro” by unleashing dozens of wild tricks!\n<br>\n<br>Head-to-head competitions are won as much in the air as they are on the ground. Grip the handlebars and make sure to preload your jumps to get massive air. Once airborne, show the world your creative side. Trick quantity and quality matter here. The more original and fresh the tricks, the more “Nitro” you’ll earn.\n<br>\n<br>Throttle up your ATV, and get ready for a wild ride!",
+  "release_date_on_eshop": "2013-03-07",
+  "product_code": "CTR-N-JWRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Action",
+    "Sports",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

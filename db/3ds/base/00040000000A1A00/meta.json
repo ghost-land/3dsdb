@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000A1A00",
-    "uid": "50010000012428",
-    "name": "おうちまいにち たまごっち",
-    "formal_name": "おうちまいにち たまごっち",
-    "description": "自分だけの「たまごっちハウス」で不思議なドール「たまドール」とくらす\"おうちせいかつ\"ゲーム。\n<br>お部屋では「おりょうり」や「おせんたく」、「おそうじ」などのミニゲームが遊べるよ!\n<br>大きなお庭では「つり」や「ガーデニング」もできちゃう!\n<br>ゲームでためたポイントでハウスをデコって、充実の\"おうちせいかつ\"を送ろう♪\n",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AQCJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A1A00",
+  "uid": "50010000012428",
+  "name": "おうちまいにち たまごっち",
+  "formal_name": "おうちまいにち たまごっち",
+  "description": "自分だけの「たまごっちハウス」で不思議なドール「たまドール」とくらす\"おうちせいかつ\"ゲーム。\n<br>お部屋では「おりょうり」や「おせんたく」、「おそうじ」などのミニゲームが遊べるよ!\n<br>大きなお庭では「つり」や「ガーデニング」もできちゃう!\n<br>ゲームでためたポイントでハウスをデコって、充実の\"おうちせいかつ\"を送ろう♪\n",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AQCJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

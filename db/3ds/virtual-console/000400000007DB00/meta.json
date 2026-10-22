@@ -1,27 +1,27 @@
 {
-    "tid": "000400000007DB00",
-    "uid": "50010000015513",
-    "name": "Kirby's Dream Land™ 2",
-    "formal_name": "Kirby's Dream Land™ 2",
-    "description": "Original Release Date: May 1995\n<br><br>\nKirby™ returns and has joined forces with new friends in this thrilling sequel!\n<br><br>\nThe Rainbow Bridges that connect the seven Rainbow Islands have disappeared! Help Kirby solve the mystery! Search through the different islands while battling King DeDeDe and his horde of evil minions.\n<br><br>\nAlong the way, meet Rick the Hamster, Kine the Fish, and Coo the Owl. Each possesses important abilities that can multiply the magnitude of Kirby's powers! Earn the mysterious Rainbow Sword, and prepare to face Kirby's most menacing rival ever--the evil Dark Matter!",
-    "release_date_on_eshop": "2013-08-01",
-    "product_code": "CTR-N-RBNE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000007DB00",
+  "uid": "50010000015513",
+  "name": "Kirby's Dream Land™ 2",
+  "formal_name": "Kirby's Dream Land™ 2",
+  "description": "Original Release Date: May 1995\n<br><br>\nKirby™ returns and has joined forces with new friends in this thrilling sequel!\n<br><br>\nThe Rainbow Bridges that connect the seven Rainbow Islands have disappeared! Help Kirby solve the mystery! Search through the different islands while battling King DeDeDe and his horde of evil minions.\n<br><br>\nAlong the way, meet Rick the Hamster, Kine the Fish, and Coo the Owl. Each possesses important abilities that can multiply the magnitude of Kirby's powers! Earn the mysterious Rainbow Sword, and prepare to face Kirby's most menacing rival ever--the evil Dark Matter!",
+  "release_date_on_eshop": "2013-08-01",
+  "product_code": "CTR-N-RBNE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001C7D00",
-    "uid": "50010000043041",
-    "name": "Parascientific Escape - Crossing at the Farthest Horizon",
-    "formal_name": "Parascientific Escape - Crossing at the Farthest Horizon",
-    "description": "The fusion of puzzle solving escape game and command selection adventure game - Parascientific Escape series Vol.3 - is here!\n<br>\n<br>Choose from the two previous protagonists: Kyosuke Ayana and Hitomi Akeneno, proceed with the separated stories on the stage of Latoua City, escape from three prisoned rooms!\n<br>\n<br>Months after the luxury cruise ship explosion case, the girl with two psychic powers, Hitomi Akeneno, has engaged in saving people with the psychic research facility, ZENA, is struggling to strengthen her abilities.\n<br>\n<br>At the same time, the detective with an artificial arm that has the ability to change the past time, Kyosuke Ayana, has just received the information that, Ritsu Kamiji, the person concerned with the serial killer case in Camellia Hills, would probably make some trouble in the small country of Eastern Europe, Witsarock. To stop the potential disaster, he set out for Witsarock.\n<br>\n<br>Now, the time of crossing the two stories, has arrived.",
-    "release_date_on_eshop": "2017-07-27",
-    "product_code": "CTR-N-KG9E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C7D00",
+  "uid": "50010000043041",
+  "name": "Parascientific Escape - Crossing at the Farthest Horizon",
+  "formal_name": "Parascientific Escape - Crossing at the Farthest Horizon",
+  "description": "The fusion of puzzle solving escape game and command selection adventure game - Parascientific Escape series Vol.3 - is here!\n<br>\n<br>Choose from the two previous protagonists: Kyosuke Ayana and Hitomi Akeneno, proceed with the separated stories on the stage of Latoua City, escape from three prisoned rooms!\n<br>\n<br>Months after the luxury cruise ship explosion case, the girl with two psychic powers, Hitomi Akeneno, has engaged in saving people with the psychic research facility, ZENA, is struggling to strengthen her abilities.\n<br>\n<br>At the same time, the detective with an artificial arm that has the ability to change the past time, Kyosuke Ayana, has just received the information that, Ritsu Kamiji, the person concerned with the serial killer case in Camellia Hills, would probably make some trouble in the small country of Eastern Europe, Witsarock. To stop the potential disaster, he set out for Witsarock.\n<br>\n<br>Now, the time of crossing the two stories, has arrived.",
+  "release_date_on_eshop": "2017-07-27",
+  "product_code": "CTR-N-KG9E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

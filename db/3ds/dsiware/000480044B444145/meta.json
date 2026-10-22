@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B444145",
-    "uid": "50010000034816",
-    "name": "G.G Series DRILLING ATTACK!!",
-    "formal_name": "G.G Series DRILLING ATTACK!!",
-    "description": "Run, jump and drill your way through a maze full of enemies and danger deep beneath the Earth's surface.  Many robotic enemies stand in the way of you and the goal to rid the subterranean world of these machines.  Transform and dash through breakable rock and make use of your ultimate power, the Drilling Attack!!  Keep an eye out for recovery items and the key card which unlocks the exit which you must get to in each stage.  Stay vigilant as a large boss will be waiting for you at the end of every few stages.\n",
-    "release_date_on_eshop": "2015-06-25",
-    "product_code": "TWL-N-KDAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B444145",
+  "uid": "50010000034816",
+  "name": "G.G Series DRILLING ATTACK!!",
+  "formal_name": "G.G Series DRILLING ATTACK!!",
+  "description": "Run, jump and drill your way through a maze full of enemies and danger deep beneath the Earth's surface.  Many robotic enemies stand in the way of you and the goal to rid the subterranean world of these machines.  Transform and dash through breakable rock and make use of your ultimate power, the Drilling Attack!!  Keep an eye out for recovery items and the key card which unlocks the exit which you must get to in each stage.  Stay vigilant as a large boss will be waiting for you at the end of every few stages.\n",
+  "release_date_on_eshop": "2015-06-25",
+  "product_code": "TWL-N-KDAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000042D00",
-    "uid": "50010000007662",
-    "name": "Golf",
-    "formal_name": "Golf",
-    "description": "Bogey, par, birdie, or eagle.<br>\n<br>\nThe score is up to you.<br>\n<br>\nGolf is 18 holes of realistic links\naction. Each hole has tricky hazards,\nso strategy is a must.<br>\n<br>\nRead the wind direction, check the\ndistance, select a club, adjust your\nswing and keep your eye on the ball.\nNow drive it home.<br>\n<br>\nFrom twisting fairways and hungry\nsand traps to big water hazards and\ndeceptive greens, Golf is packed with\nchallenges.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RALP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000042D00",
+  "uid": "50010000007662",
+  "name": "Golf",
+  "formal_name": "Golf",
+  "description": "Bogey, par, birdie, or eagle.<br>\n<br>\nThe score is up to you.<br>\n<br>\nGolf is 18 holes of realistic links\naction. Each hole has tricky hazards,\nso strategy is a must.<br>\n<br>\nRead the wind direction, check the\ndistance, select a club, adjust your\nswing and keep your eye on the ball.\nNow drive it home.<br>\n<br>\nFrom twisting fairways and hungry\nsand traps to big water hazards and\ndeceptive greens, Golf is packed with\nchallenges.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RALP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

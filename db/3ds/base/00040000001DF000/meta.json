@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DF000",
-    "uid": "50010000048918",
-    "name": "Mia's Picnic",
-    "formal_name": "Mia's Picnic",
-    "description": "Join Mia for her summer adventures as she picnic’s her way across her island home in this fast paced fruit collection game. Help her make her favorite recipes and try out some new ones.\n<br>Test your memory and skill as you race to collect the fruit she needs by selecting twisting and turning lines of matching fruit across the board. As you progress through the game Mia will ask for more varied ingredients for her picnic treats and you'll get to help out some of Mia’s friends too!\n<br>\n<br>With over 100 story led levels and wonderful original art depicting Mia’s Island this game is a real treat.",
-    "release_date_on_eshop": "2020-10-15",
-    "product_code": "CTR-N-A41P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DF000",
+  "uid": "50010000048918",
+  "name": "Mia's Picnic",
+  "formal_name": "Mia's Picnic",
+  "description": "Join Mia for her summer adventures as she picnic’s her way across her island home in this fast paced fruit collection game. Help her make her favorite recipes and try out some new ones.\n<br>Test your memory and skill as you race to collect the fruit she needs by selecting twisting and turning lines of matching fruit across the board. As you progress through the game Mia will ask for more varied ingredients for her picnic treats and you'll get to help out some of Mia’s friends too!\n<br>\n<br>With over 100 story led levels and wonderful original art depicting Mia’s Island this game is a real treat.",
+  "release_date_on_eshop": "2020-10-15",
+  "product_code": "CTR-N-A41P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

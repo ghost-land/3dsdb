@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E001A0300",
-    "uid": "50010000042128",
-    "name": "更新データ Ver. 1.05\nスーパーマリオメーカー for 3DS",
-    "formal_name": "更新データ Ver. 1.05\nスーパーマリオメーカー for ニンテンドー3DS",
-    "description": "ニンテンドー3DSソフト『スーパーマリオメーカー for ニンテンドー3DS』の更新データです。\n『スーパーマリオメーカー for ニンテンドー3DS』をお持ちのお客様は必ずダウンロードしてください。\n\n【Ver. 1.05】[2021.3.24配信]\n●すれちがい通信に関する問題を修正しました。\n\n",
-    "release_date_on_eshop": "2021-03-24",
-    "product_code": "CTR-U-AJHJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v8.9.0",
-    "disclaimer": "ニンテンドー3DSソフト『スーパーマリオメーカー for ニンテンドー3DS』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
-    "descriptors": []
+  "tid": "0004000E001A0300",
+  "uid": "50010000042128",
+  "name": "更新データ Ver. 1.05\nスーパーマリオメーカー for 3DS",
+  "formal_name": "更新データ Ver. 1.05\nスーパーマリオメーカー for ニンテンドー3DS",
+  "description": "ニンテンドー3DSソフト『スーパーマリオメーカー for ニンテンドー3DS』の更新データです。\n『スーパーマリオメーカー for ニンテンドー3DS』をお持ちのお客様は必ずダウンロードしてください。\n\n【Ver. 1.05】[2021.3.24配信]\n●すれちがい通信に関する問題を修正しました。\n\n",
+  "release_date_on_eshop": "2021-03-24",
+  "product_code": "CTR-U-AJHJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v8.9.0",
+  "disclaimer": "ニンテンドー3DSソフト『スーパーマリオメーカー for ニンテンドー3DS』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
+  "descriptors": []
 }

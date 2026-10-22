@@ -1,39 +1,39 @@
 {
-    "tid": "000400000017EB00",
-    "uid": "50010000039369",
-    "name": "Hyrule Warriors™ Legends",
-    "formal_name": "Hyrule Warriors™ Legends",
-    "description": "Bonus:\nDownload code for Legends Character Pack for Hyrule Warriors™ for Wii U.\n<br>\n<br>Cut down entire legions of enemies as fan-favourite The Legend of Zelda characters using powerful moves as Hyrule Warriors: Legends comes to Nintendo 3DS family systems. Control multiple characters to enhance your strategies and enjoy new story elements with playable characters from The Legend of Zelda: The Wind Waker, such as Tetra, the King of Hyrule, and more.\n<br>\n<br>Advance the story to unlock new playable characters, each with unique moves and weapon types. Collect Rupees and other useful items to upgrade weapons and craft Badges, which you can use to bolster each warrior’s abilities. Additional new features, such as the ability to switch between different characters on the fly, allow you to strategically position characters and defeat foes in new ways.\n<br>\n<br>Note: 3D images will only be displayed on New Nintendo 3DS and New Nintendo 3DS XL systems.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-03-24",
-    "product_code": "CTR-P-BZHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017EB00",
+  "uid": "50010000039369",
+  "name": "Hyrule Warriors™ Legends",
+  "formal_name": "Hyrule Warriors™ Legends",
+  "description": "Bonus:\nDownload code for Legends Character Pack for Hyrule Warriors™ for Wii U.\n<br>\n<br>Cut down entire legions of enemies as fan-favourite The Legend of Zelda characters using powerful moves as Hyrule Warriors: Legends comes to Nintendo 3DS family systems. Control multiple characters to enhance your strategies and enjoy new story elements with playable characters from The Legend of Zelda: The Wind Waker, such as Tetra, the King of Hyrule, and more.\n<br>\n<br>Advance the story to unlock new playable characters, each with unique moves and weapon types. Collect Rupees and other useful items to upgrade weapons and craft Badges, which you can use to bolster each warrior’s abilities. Additional new features, such as the ability to switch between different characters on the fly, allow you to strategically position characters and defeat foes in new ways.\n<br>\n<br>Note: 3D images will only be displayed on New Nintendo 3DS and New Nintendo 3DS XL systems.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-03-24",
+  "product_code": "CTR-P-BZHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

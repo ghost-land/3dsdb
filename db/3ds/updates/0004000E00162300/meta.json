@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00162300",
-    "uid": "50010000038795",
-    "name": "更新データ Ver. 2.0 パズドラ\nSUPER MARIO BROS. EDITION",
-    "formal_name": "更新データ Ver. 2.0 PUZZLE & DRAGONS\nSUPER MARIO BROS. EDITION",
-    "description": "ニンテンドー3DSソフト『PUZZLE & DRAGONS SUPER MARIO BROS. EDITION』の更新データです。\n\n■Ver.2.0 [2015.12.17配信]\n･新しいなかまが追加されました\n･スコアアタックが新しくなりました\n･インターナショナルランキングが追加されました\n･リプレイ機能が追加されました\n\n※更新データ (Ver. 2.0)を適用すると、セーブデータがSDカードに保存されます。また、以前のバージョンとは下記の通信ができなくなります。\n･すれちがい通信\n･フレンドリーカードの交換",
-    "release_date_on_eshop": "2015-12-17",
-    "product_code": "CTR-U-AZMJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.4.0",
-    "disclaimer": "ニンテンドー3DSソフト『PUZZLE & DRAGONS SUPER MARIO BROS. EDITION』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E00162300",
+  "uid": "50010000038795",
+  "name": "更新データ Ver. 2.0 パズドラ\nSUPER MARIO BROS. EDITION",
+  "formal_name": "更新データ Ver. 2.0 PUZZLE & DRAGONS\nSUPER MARIO BROS. EDITION",
+  "description": "ニンテンドー3DSソフト『PUZZLE & DRAGONS SUPER MARIO BROS. EDITION』の更新データです。\n\n■Ver.2.0 [2015.12.17配信]\n･新しいなかまが追加されました\n･スコアアタックが新しくなりました\n･インターナショナルランキングが追加されました\n･リプレイ機能が追加されました\n\n※更新データ (Ver. 2.0)を適用すると、セーブデータがSDカードに保存されます。また、以前のバージョンとは下記の通信ができなくなります。\n･すれちがい通信\n･フレンドリーカードの交換",
+  "release_date_on_eshop": "2015-12-17",
+  "product_code": "CTR-U-AZMJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.4.0",
+  "disclaimer": "ニンテンドー3DSソフト『PUZZLE & DRAGONS SUPER MARIO BROS. EDITION』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

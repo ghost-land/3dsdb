@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00132C00",
-    "uid": "50010000025435",
-    "name": "Siesta Fiesta - Update",
-    "formal_name": "Siesta Fiesta - Update",
-    "description": "Medal saving bug fixed.",
-    "release_date_on_eshop": "2014-08-26",
-    "product_code": "CTR-U-KSFP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00132C00",
+  "uid": "50010000025435",
+  "name": "Siesta Fiesta - Update",
+  "formal_name": "Siesta Fiesta - Update",
+  "description": "Medal saving bug fixed.",
+  "release_date_on_eshop": "2014-08-26",
+  "product_code": "CTR-U-KSFP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

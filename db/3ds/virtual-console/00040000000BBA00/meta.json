@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000BBA00",
-    "uid": "50010000013413",
-    "name": "Sonic the Hedgehog™",
-    "formal_name": "Sonic the Hedgehog™",
-    "description": "Get into gear with Sonic the\nHedgehog! Originally released for the\nGame Gear, play as Sonic as he\nspeeds through zones and frees\nanimals from their mechanical prisons\nwith his devastating spin attacks!\nBlaze through five super challenging\nzones and defeat all of Dr. Eggman’s\n(AKA Dr. Robotnik) machines in order\nto put an end to his evil schemes!\n<br/><br/>\nFeatures:\n<br/><br/>\n- Dash through five super\nchallenging zones with three acts in\neach zone.\n<br/><br/>\n- Soar through bonus levels\nbrimming with springs, bumpers,\nflippers and more.\n",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-GATP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BBA00",
+  "uid": "50010000013413",
+  "name": "Sonic the Hedgehog™",
+  "formal_name": "Sonic the Hedgehog™",
+  "description": "Get into gear with Sonic the\nHedgehog! Originally released for the\nGame Gear, play as Sonic as he\nspeeds through zones and frees\nanimals from their mechanical prisons\nwith his devastating spin attacks!\nBlaze through five super challenging\nzones and defeat all of Dr. Eggman’s\n(AKA Dr. Robotnik) machines in order\nto put an end to his evil schemes!\n<br/><br/>\nFeatures:\n<br/><br/>\n- Dash through five super\nchallenging zones with three acts in\neach zone.\n<br/><br/>\n- Soar through bonus levels\nbrimming with springs, bumpers,\nflippers and more.\n",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-GATP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

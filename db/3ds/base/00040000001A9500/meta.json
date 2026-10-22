@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001A9500",
-    "uid": "50010000042217",
-    "name": "Legna Tactica",
-    "formal_name": "Legna Tactica",
-    "description": "In the lands of Feyzum, where the Kingdom of Legna is drawn into the chaos of battle against the Empire of Izmoot, Leck and his friends Miana and Astar are engaged in field training as trainee soldiers. Suddenly, it is decided that they will accompany the Hero of the Kingdom of Legna, General Varrius, and the Azure Hawk Brigade which he leads, on a mission to suppress the bandits. However, they know nothing of the inescapable destiny that awaits them...\n<br>\n<br>Legna Tactica is a full-scale strategy RPG with an orthodox system where players can choose party members to join turn-based tactical battles on isometric grid.\n<br>Not only the game features multiple endings based on the player choices during the story, but also titles to achieve and engaging skill tree system to customize characters as you like!\n<br>\n<br>It is time to witness the fate of the lands of Feyzum!",
-    "release_date_on_eshop": "2017-02-02",
-    "product_code": "CTR-N-KR8E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001A9500",
+  "uid": "50010000042217",
+  "name": "Legna Tactica",
+  "formal_name": "Legna Tactica",
+  "description": "In the lands of Feyzum, where the Kingdom of Legna is drawn into the chaos of battle against the Empire of Izmoot, Leck and his friends Miana and Astar are engaged in field training as trainee soldiers. Suddenly, it is decided that they will accompany the Hero of the Kingdom of Legna, General Varrius, and the Azure Hawk Brigade which he leads, on a mission to suppress the bandits. However, they know nothing of the inescapable destiny that awaits them...\n<br>\n<br>Legna Tactica is a full-scale strategy RPG with an orthodox system where players can choose party members to join turn-based tactical battles on isometric grid.\n<br>Not only the game features multiple endings based on the player choices during the story, but also titles to achieve and engaging skill tree system to customize characters as you like!\n<br>\n<br>It is time to witness the fate of the lands of Feyzum!",
+  "release_date_on_eshop": "2017-02-02",
+  "product_code": "CTR-N-KR8E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

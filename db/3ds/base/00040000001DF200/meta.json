@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DF200",
-    "uid": "50010000048736",
-    "name": "Maze Breaker 3",
-    "formal_name": "Maze Breaker 3",
-    "description": "The goal of Maze Breaker 3 is to hit and break all the blocks to clear a level, while avoiding obstacles, and getting the highest score possible.",
-    "release_date_on_eshop": "2020-10-15",
-    "product_code": "CTR-N-K9MP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DF200",
+  "uid": "50010000048736",
+  "name": "Maze Breaker 3",
+  "formal_name": "Maze Breaker 3",
+  "description": "The goal of Maze Breaker 3 is to hit and break all the blocks to clear a level, while avoiding obstacles, and getting the highest score possible.",
+  "release_date_on_eshop": "2020-10-15",
+  "product_code": "CTR-N-K9MP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

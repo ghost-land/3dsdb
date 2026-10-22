@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000055400",
-    "uid": "50010000012015",
-    "name": "Rabbids® Rumble",
-    "formal_name": "Rabbids® Rumble",
-    "description": "Collect over 100 Delirious Rabbids: Capture and collect over a hundred Rabbids with unique and delirious combat abilities. Train your collection of Rabbids to make them stronger and test them in battles.\n<br><br>\nChallenge Your Friends: Play intense and hilarious one-on-one battles with your friends, mixing strategy and Rabbids’ humor.\n<br><br>\nPlay Hilarious Mini-Games: Interact with the Rabbids in new mini-games that will make them surging from your floor, flying around you or fighting on your kitchen table!\n<br><br>\nThe Battle Continues in the Street: Share scores, gain training bonuses, unlock new Rabbids and items with other players you cross thanks to the “Street Pass” feature.\n<br><br>\nComplete Your Collection with Spot Pass: With new, rare Rabbids, downloadable every week on your Nintendo 3DS™, complete your collection thanks to the “Spot Pass” feature.\n",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AR5E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Crude Humor",
-        "Mild Cartoon Violence"
-    ]
+  "tid": "0004000000055400",
+  "uid": "50010000012015",
+  "name": "Rabbids® Rumble",
+  "formal_name": "Rabbids® Rumble",
+  "description": "Collect over 100 Delirious Rabbids: Capture and collect over a hundred Rabbids with unique and delirious combat abilities. Train your collection of Rabbids to make them stronger and test them in battles.\n<br><br>\nChallenge Your Friends: Play intense and hilarious one-on-one battles with your friends, mixing strategy and Rabbids’ humor.\n<br><br>\nPlay Hilarious Mini-Games: Interact with the Rabbids in new mini-games that will make them surging from your floor, flying around you or fighting on your kitchen table!\n<br><br>\nThe Battle Continues in the Street: Share scores, gain training bonuses, unlock new Rabbids and items with other players you cross thanks to the “Street Pass” feature.\n<br><br>\nComplete Your Collection with Spot Pass: With new, rare Rabbids, downloadable every week on your Nintendo 3DS™, complete your collection thanks to the “Spot Pass” feature.\n",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AR5E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Crude Humor",
+    "Mild Cartoon Violence"
+  ]
 }

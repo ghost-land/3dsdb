@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B585445",
-    "uid": "50010000010361",
-    "name": "99Seconds",
-    "formal_name": "99Seconds",
-    "description": "99Seconds, a fun, retro-style video game, where you can modify time to avoid all kinds of dangers.\n\nAfter finishing off Black Eye, V-99 entered a mysterious zone called Bit 8, without knowing why V-99 could modify time, slow it down and even stop it. But everything became complicated with the appearance of the BLACK VECTORS: mysterious beings that aim to destroy any intruder who reaches Bit 8.\n\n*Control V-99, dodging, using SLOW DOWN to slow, stop and even go back in time!\n*Arcade mobility like in the classic arcade games!\n*Retro-style levels!\n*Incredible enemy patterns!",
-    "release_date_on_eshop": "2012-05-31",
-    "product_code": "TWL-N-KXTE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585445",
+  "uid": "50010000010361",
+  "name": "99Seconds",
+  "formal_name": "99Seconds",
+  "description": "99Seconds, a fun, retro-style video game, where you can modify time to avoid all kinds of dangers.\n\nAfter finishing off Black Eye, V-99 entered a mysterious zone called Bit 8, without knowing why V-99 could modify time, slow it down and even stop it. But everything became complicated with the appearance of the BLACK VECTORS: mysterious beings that aim to destroy any intruder who reaches Bit 8.\n\n*Control V-99, dodging, using SLOW DOWN to slow, stop and even go back in time!\n*Arcade mobility like in the classic arcade games!\n*Retro-style levels!\n*Incredible enemy patterns!",
+  "release_date_on_eshop": "2012-05-31",
+  "product_code": "TWL-N-KXTE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

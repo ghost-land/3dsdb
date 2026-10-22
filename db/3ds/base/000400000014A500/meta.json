@@ -1,34 +1,34 @@
 {
-    "tid": "000400000014A500",
-    "uid": "50010000026300",
-    "name": "Horse Vet 3D",
-    "formal_name": "Horse Vet 3D",
-    "description": "Experience the daily life of a\n<br>veterinarian – specialized in horses!\n<br>You examine the horses to determine\n<br>the nature of diseases or injuries.\n<br>Drive to emergencies and treat them\n<br>inpatient afterwards until they are\n<br>healthy again!\n<br>\n<br>- Diagnose and treat your patients\n<br>with thermometer, ultrasonics, blood\n<br>sample, forceps, syringe, bandages\n<br>and more\n<br>\n<br>- Enjoy thrilling outdoor adventures:\n<br>Ride out on your horse or get into\n<br>your car to reach emergencies on time\n<br>with the help of the gyroscope controls\n<br>\n<br>- Have fun with a variety of breeds\n<br>while longing, feeding, cleaning and\n<br>playing with them\n<br>\n<br>- Recapture escaped horses on your\n<br>practice area\n<br>\n<br>- Breed cute foals or buy and sell\n<br>horses\n<br>\n<br>- Expand your practice with different\n<br>buildings like stables and therapy\n<br>house\n<br>\n<br>- Visit the nearby town with its shop,\n<br>bank, academy and advertising agency\n<br>\n<br>- Collect Play Coins and change\n<br>them into ingame currency\n<br>\n<br>- 3D photo feature: Take a real 3D\n<br>photo of yourself and use it in the\n<br>game",
-    "release_date_on_eshop": "2014-11-27",
-    "product_code": "CTR-P-BP9P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Education",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014A500",
+  "uid": "50010000026300",
+  "name": "Horse Vet 3D",
+  "formal_name": "Horse Vet 3D",
+  "description": "Experience the daily life of a\n<br>veterinarian – specialized in horses!\n<br>You examine the horses to determine\n<br>the nature of diseases or injuries.\n<br>Drive to emergencies and treat them\n<br>inpatient afterwards until they are\n<br>healthy again!\n<br>\n<br>- Diagnose and treat your patients\n<br>with thermometer, ultrasonics, blood\n<br>sample, forceps, syringe, bandages\n<br>and more\n<br>\n<br>- Enjoy thrilling outdoor adventures:\n<br>Ride out on your horse or get into\n<br>your car to reach emergencies on time\n<br>with the help of the gyroscope controls\n<br>\n<br>- Have fun with a variety of breeds\n<br>while longing, feeding, cleaning and\n<br>playing with them\n<br>\n<br>- Recapture escaped horses on your\n<br>practice area\n<br>\n<br>- Breed cute foals or buy and sell\n<br>horses\n<br>\n<br>- Expand your practice with different\n<br>buildings like stables and therapy\n<br>house\n<br>\n<br>- Visit the nearby town with its shop,\n<br>bank, academy and advertising agency\n<br>\n<br>- Collect Play Coins and change\n<br>them into ingame currency\n<br>\n<br>- 3D photo feature: Take a real 3D\n<br>photo of yourself and use it in the\n<br>game",
+  "release_date_on_eshop": "2014-11-27",
+  "product_code": "CTR-P-BP9P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Education",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

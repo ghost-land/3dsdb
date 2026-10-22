@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B524856",
-    "uid": "50010000006122",
-    "name": "Music on:\nRetro Keyboard",
-    "formal_name": "Music on:\nRetro Keyboard",
-    "description": "Turn your Nintendo DSi into a full\nelectronic keyboard with a carefully\nchosen selection of sounds and\nrhythms from the mythic computers\nand consoles of the 80s.<br>\n<br>\nPerfect for retro-lovers!<br>\n<br>\nWhether you are already an expert or\nyou are taking your first steps, Retro\nKeyboard will help you capture your\ninspiration wherever you are.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KRHV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524856",
+  "uid": "50010000006122",
+  "name": "Music on:\nRetro Keyboard",
+  "formal_name": "Music on:\nRetro Keyboard",
+  "description": "Turn your Nintendo DSi into a full\nelectronic keyboard with a carefully\nchosen selection of sounds and\nrhythms from the mythic computers\nand consoles of the 80s.<br>\n<br>\nPerfect for retro-lovers!<br>\n<br>\nWhether you are already an expert or\nyou are taking your first steps, Retro\nKeyboard will help you capture your\ninspiration wherever you are.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KRHV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

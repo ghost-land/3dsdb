@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001D3100",
-    "uid": "50010000045397",
-    "name": "Sanrio characters Picross",
-    "formal_name": "Sanrio characters Picross",
-    "description": "This is a puzzle game using Sanrio characters. \n<br>Solve Picross puzzles to unveil pictures and get cute stickers to decorate your screen with! \n<br>Or use them on game backgrounds! \n<br>Enjoy Picross with your own background!",
-    "release_date_on_eshop": "2018-06-28",
-    "product_code": "CTR-N-LSCP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D3100",
+  "uid": "50010000045397",
+  "name": "Sanrio characters Picross",
+  "formal_name": "Sanrio characters Picross",
+  "description": "This is a puzzle game using Sanrio characters. \n<br>Solve Picross puzzles to unveil pictures and get cute stickers to decorate your screen with! \n<br>Or use them on game backgrounds! \n<br>Enjoy Picross with your own background!",
+  "release_date_on_eshop": "2018-06-28",
+  "product_code": "CTR-N-LSCP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

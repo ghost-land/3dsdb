@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000183800",
-    "uid": "50010000039355",
-    "name": "Bravely Second™: End Layer\nDemo",
-    "formal_name": "Bravely Second™: End Layer\nDemo",
-    "description": "This demo focusing on the Three\nCavaliers – Yew Geneolgia, Janne\nAngard, and Nikolai Nikolanikov – will\nact as a prelude to the adventure, and\neven allow players to unlock rewards\nin the full version of the game,\ndepending on their progress in the\ndemo.\n<br/><br/>\nThe Bravely Second™: End Layer\ndemo: The Ballad of the Three\nCavaliers can be completed multiple\ntimes, however only a completed save\nfile can be used to unlock rewards in\nthe full game.",
-    "release_date_on_eshop": "2016-02-11",
-    "product_code": "CTR-N-KHSZ",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Mii"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Sexual Innuendo"
-    ]
+  "tid": "0004000000183800",
+  "uid": "50010000039355",
+  "name": "Bravely Second™: End Layer\nDemo",
+  "formal_name": "Bravely Second™: End Layer\nDemo",
+  "description": "This demo focusing on the Three\nCavaliers – Yew Geneolgia, Janne\nAngard, and Nikolai Nikolanikov – will\nact as a prelude to the adventure, and\neven allow players to unlock rewards\nin the full version of the game,\ndepending on their progress in the\ndemo.\n<br/><br/>\nThe Bravely Second™: End Layer\ndemo: The Ballad of the Three\nCavaliers can be completed multiple\ntimes, however only a completed save\nfile can be used to unlock rewards in\nthe full game.",
+  "release_date_on_eshop": "2016-02-11",
+  "product_code": "CTR-N-KHSZ",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Mii"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Sexual Innuendo"
+  ]
 }

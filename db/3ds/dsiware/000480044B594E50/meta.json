@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B594E50",
-    "uid": "50010000012857",
-    "name": "Cake Ninja: XMAS",
-    "formal_name": "Cake Ninja: XMAS",
-    "description": "It is simple, fun and a very popular\ngame series!\n<br/><br/>\nSlide the stylus across the screen to\nslice snowballs into small pieces like a\ntrue Ninja warrior.\n<br/><br/>\nThe more snowballs you slice, the\nlonger you stay around, and the\nlonger you survive, the higher your\nscore. How long can you last?\n<br/><br/>\nKey Features:\n<br/><br/>\n- Simple, addictive gameplay\n<br/><br/>\n- Colourful 3D graphics\n<br/><br/>\n- Precise slice recognition\n<br/><br/>\n- 8 challenging game modes\n<br/><br/>\n- A collection of bonuses\n<br/><br/>\n- Unlockable achievements\n<br/><br/>\n- Post your results online and have a\nchance to earn 100,000 Nintendo DSi\nPoints in the contest",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KYNP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B594E50",
+  "uid": "50010000012857",
+  "name": "Cake Ninja: XMAS",
+  "formal_name": "Cake Ninja: XMAS",
+  "description": "It is simple, fun and a very popular\ngame series!\n<br/><br/>\nSlide the stylus across the screen to\nslice snowballs into small pieces like a\ntrue Ninja warrior.\n<br/><br/>\nThe more snowballs you slice, the\nlonger you stay around, and the\nlonger you survive, the higher your\nscore. How long can you last?\n<br/><br/>\nKey Features:\n<br/><br/>\n- Simple, addictive gameplay\n<br/><br/>\n- Colourful 3D graphics\n<br/><br/>\n- Precise slice recognition\n<br/><br/>\n- 8 challenging game modes\n<br/><br/>\n- A collection of bonuses\n<br/><br/>\n- Unlockable achievements\n<br/><br/>\n- Post your results online and have a\nchance to earn 100,000 Nintendo DSi\nPoints in the contest",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KYNP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

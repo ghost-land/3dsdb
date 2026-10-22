@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001A5B00",
-    "uid": "50010000040928",
-    "name": "ようこそ！ペットホテル",
-    "formal_name": "ようこそ！ペットホテル",
-    "description": "『ようこそ！ペットホテル』は、あなたが開業したペットが泊まるホテルで、\n<br>お客様からお預かりしたペット達のお世話をします。\n<br>さまざまなミニゲームを通してペットのお世話をしていくことで、\n<br>遊べるミニゲームが増えていきます。\n<br>さぁ、かわいいペット達があなたを待っています。\n<br>ペットのための一流ホテルを目指してみませんか？",
-    "release_date_on_eshop": "2016-08-03",
-    "product_code": "CTR-N-KP3J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A5B00",
+  "uid": "50010000040928",
+  "name": "ようこそ！ペットホテル",
+  "formal_name": "ようこそ！ペットホテル",
+  "description": "『ようこそ！ペットホテル』は、あなたが開業したペットが泊まるホテルで、\n<br>お客様からお預かりしたペット達のお世話をします。\n<br>さまざまなミニゲームを通してペットのお世話をしていくことで、\n<br>遊べるミニゲームが増えていきます。\n<br>さぁ、かわいいペット達があなたを待っています。\n<br>ペットのための一流ホテルを目指してみませんか？",
+  "release_date_on_eshop": "2016-08-03",
+  "product_code": "CTR-N-KP3J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

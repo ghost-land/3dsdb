@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000DC600",
-    "uid": "50010000014316",
-    "name": "ぬいぐるみのケーキ屋さん\n～魔法のパティシエール～",
-    "formal_name": "ぬいぐるみのケーキ屋さん\n～魔法のパティシエール～",
-    "description": "このゲームでは、魔法を使える主人公が命を吹き込んで、動いたり話したりできるようになったぬいぐるみたちと一緒の生活を楽しむことができます。\n<br>ぬいぐるみたちは主人公が店長となるケーキ屋さんの従業員として働いてくれたり、町の中でそれぞれの生活をしているので、その触れあいを存分に味わうことができます。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AWCJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DC600",
+  "uid": "50010000014316",
+  "name": "ぬいぐるみのケーキ屋さん\n～魔法のパティシエール～",
+  "formal_name": "ぬいぐるみのケーキ屋さん\n～魔法のパティシエール～",
+  "description": "このゲームでは、魔法を使える主人公が命を吹き込んで、動いたり話したりできるようになったぬいぐるみたちと一緒の生活を楽しむことができます。\n<br>ぬいぐるみたちは主人公が店長となるケーキ屋さんの従業員として働いてくれたり、町の中でそれぞれの生活をしているので、その触れあいを存分に味わうことができます。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AWCJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

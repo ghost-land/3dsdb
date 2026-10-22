@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000A8600",
-    "uid": "50010000011892",
-    "name": "Professor Layton\nand the Miracle Mask",
-    "formal_name": "Professor Layton\nand the Miracle Mask",
-    "description": "The fifth game in the series features\n150 brand new brainteasers and a\nnew set of three minigames courtesy\nof the Professor’s Trunk. Professor\nLayton and the Miracle Mask also\nboasts 365 additional Daily Puzzles\ndistributed via the Nintendo Network –\none puzzle a day for a whole year\nfrom the day of the game’s launch.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-AKKP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A8600",
+  "uid": "50010000011892",
+  "name": "Professor Layton\nand the Miracle Mask",
+  "formal_name": "Professor Layton\nand the Miracle Mask",
+  "description": "The fifth game in the series features\n150 brand new brainteasers and a\nnew set of three minigames courtesy\nof the Professor’s Trunk. Professor\nLayton and the Miracle Mask also\nboasts 365 additional Daily Puzzles\ndistributed via the Nintendo Network –\none puzzle a day for a whole year\nfrom the day of the game’s launch.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-AKKP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

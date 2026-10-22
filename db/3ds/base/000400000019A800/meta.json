@@ -1,29 +1,29 @@
 {
-    "tid": "000400000019A800",
-    "uid": "50010000040598",
-    "name": "Gunslugs",
-    "formal_name": "Gunslugs",
-    "description": "Gunslugs is a fast paced run and\njump game with procedurally\ngenerated levels and a rogue-like\npermadeath element. You get one life,\nand the only way you can extend that\nis by running into the Voodoo priest\nselling continue statues.\n<br>\nUnlock the roster of Gunslugs heroes\nas you go, and use them to advance\nyour way to the gates of Hell to\ndefeat the final boss.",
-    "release_date_on_eshop": "2016-06-16",
-    "product_code": "CTR-N-KGWP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019A800",
+  "uid": "50010000040598",
+  "name": "Gunslugs",
+  "formal_name": "Gunslugs",
+  "description": "Gunslugs is a fast paced run and\njump game with procedurally\ngenerated levels and a rogue-like\npermadeath element. You get one life,\nand the only way you can extend that\nis by running into the Voodoo priest\nselling continue statues.\n<br>\nUnlock the roster of Gunslugs heroes\nas you go, and use them to advance\nyour way to the gates of Hell to\ndefeat the final boss.",
+  "release_date_on_eshop": "2016-06-16",
+  "product_code": "CTR-N-KGWP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

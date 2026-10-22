@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001C5B00",
-    "uid": "50010000043455",
-    "name": "Squareboy vs Bullies:\nArena Edition",
-    "formal_name": "Squareboy vs Bullies:\n<br>Arena Edition",
-    "description": "Someone needs to teach those Bullies a lesson in pain, so why not let it be you?\n<br>\n<br>Squareboy vs Bullies is an old school beat 'em up by Rohan Narang that follows the titular Squareboy and his quest for Justice!\n<br>\n<br>For far too long the bullies have gone unpunished and with no one else to put them in their place, Squareboy finds himself standing up against them to do what is right, not just for himself, but for everyone the bullies victimized. Will you help Squareboy fight off the Bullies?\n<br>\n<br>Features:\n<br>Retro pixel art graphics and OST with 14 different chiptune tracks. \n<br>Fight in many different locations across Squareburg.\n<br>New Arena mode.\n<br>Never before seen Bullies.\n<br>New UI screen that takes advantage of the entire screen.",
-    "release_date_on_eshop": "2017-12-07",
-    "product_code": "CTR-N-KVCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Fighting",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C5B00",
+  "uid": "50010000043455",
+  "name": "Squareboy vs Bullies:\nArena Edition",
+  "formal_name": "Squareboy vs Bullies:\n<br>Arena Edition",
+  "description": "Someone needs to teach those Bullies a lesson in pain, so why not let it be you?\n<br>\n<br>Squareboy vs Bullies is an old school beat 'em up by Rohan Narang that follows the titular Squareboy and his quest for Justice!\n<br>\n<br>For far too long the bullies have gone unpunished and with no one else to put them in their place, Squareboy finds himself standing up against them to do what is right, not just for himself, but for everyone the bullies victimized. Will you help Squareboy fight off the Bullies?\n<br>\n<br>Features:\n<br>Retro pixel art graphics and OST with 14 different chiptune tracks. \n<br>Fight in many different locations across Squareburg.\n<br>New Arena mode.\n<br>Never before seen Bullies.\n<br>New UI screen that takes advantage of the entire screen.",
+  "release_date_on_eshop": "2017-12-07",
+  "product_code": "CTR-N-KVCE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Fighting",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

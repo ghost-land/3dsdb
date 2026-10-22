@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000F1600",
-    "uid": "50010000017793",
-    "name": "KORG M01D",
-    "formal_name": "KORG M01D",
-    "description": "The KORG M01D is a music workstation based on the KORG M1, the world’s first widely known synthesizer. The KORG M01D reproduces the M1’s unforgettable digital sounds of the 80s such as the “M1 piano”, still heard on many songs today.\n<br><br>\nWith 24 voice-polyphony, over 300 sounds and an easy to operate sequencer,the KORG M01D helps you play and create your music at any place, and at any time, in a palm-size package!\n<br><br>\nFurthermore, The standard MIDI file can be saved to an SD card so the KORG M01D can be used as a sketchpad. In addition, anyone can exchange song data using Nintendo 3DS Wi-Fi via StreetPass and the Internet.",
-    "release_date_on_eshop": "2013-11-07",
-    "product_code": "CTR-N-JKRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Music",
-        "Education",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F1600",
+  "uid": "50010000017793",
+  "name": "KORG M01D",
+  "formal_name": "KORG M01D",
+  "description": "The KORG M01D is a music workstation based on the KORG M1, the world’s first widely known synthesizer. The KORG M01D reproduces the M1’s unforgettable digital sounds of the 80s such as the “M1 piano”, still heard on many songs today.\n<br><br>\nWith 24 voice-polyphony, over 300 sounds and an easy to operate sequencer,the KORG M01D helps you play and create your music at any place, and at any time, in a palm-size package!\n<br><br>\nFurthermore, The standard MIDI file can be saved to an SD card so the KORG M01D can be used as a sketchpad. In addition, anyone can exchange song data using Nintendo 3DS Wi-Fi via StreetPass and the Internet.",
+  "release_date_on_eshop": "2013-11-07",
+  "product_code": "CTR-N-JKRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Music",
+    "Education",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

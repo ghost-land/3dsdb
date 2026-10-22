@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B494256",
-    "uid": "50010000003982",
-    "name": "Ikibago",
-    "formal_name": "Ikibago",
-    "description": "Play the role of a pirate and set out\nto discover the lost treasure of\nIkibago in this fascinating puzzle and\naction game!<br>\n<br>\nBarrels of different colours move from\nleft to right. Your objective is to align\nat least 3 barrels of the same colour\nin the same column before it\ndisappears from the screen.<br>\n<br>\nUse the stylus to switch the barrels\nwhile avoiding different traps! Bonuses\nare available - make sure to use them\ncarefully to complete the 121\nmissions of this game!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KIBV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B494256",
+  "uid": "50010000003982",
+  "name": "Ikibago",
+  "formal_name": "Ikibago",
+  "description": "Play the role of a pirate and set out\nto discover the lost treasure of\nIkibago in this fascinating puzzle and\naction game!<br>\n<br>\nBarrels of different colours move from\nleft to right. Your objective is to align\nat least 3 barrels of the same colour\nin the same column before it\ndisappears from the screen.<br>\n<br>\nUse the stylus to switch the barrels\nwhile avoiding different traps! Bonuses\nare available - make sure to use them\ncarefully to complete the 121\nmissions of this game!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KIBV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000050400",
-    "uid": "50010000008007",
-    "name": "Metroid™ II - Return of Samus™",
-    "formal_name": "Metroid™ II - Return of Samus™",
-    "description": "Bounty Hunter Samus Aran faces off against the Metroid scourge once again in this epic sequel to the NES™ classic, Metroid.\n<br><br>\nTake control! Guide Samus™ through cavernous corridors, ancient ruins, and\nalien traps. On the mysterious planet SR388, you'll find artifacts of a lost civilization that grant amazing powers. Cut through creatures in a buzz-saw blur! Roll through hidden tunnels and climb sheer walls! Fight to the heart of the planet and search for the merciless\nMetroid leaders. If you are a cunning explorer, you'll earn the best of several super endings. Enter this exciting Metroid sequel and experience\nthe thrills of this beloved series!",
-    "release_date_on_eshop": "1991-11",
-    "product_code": "CTR-N-RA4E",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000050400",
+  "uid": "50010000008007",
+  "name": "Metroid™ II - Return of Samus™",
+  "formal_name": "Metroid™ II - Return of Samus™",
+  "description": "Bounty Hunter Samus Aran faces off against the Metroid scourge once again in this epic sequel to the NES™ classic, Metroid.\n<br><br>\nTake control! Guide Samus™ through cavernous corridors, ancient ruins, and\nalien traps. On the mysterious planet SR388, you'll find artifacts of a lost civilization that grant amazing powers. Cut through creatures in a buzz-saw blur! Roll through hidden tunnels and climb sheer walls! Fight to the heart of the planet and search for the merciless\nMetroid leaders. If you are a cunning explorer, you'll earn the best of several super endings. Enter this exciting Metroid sequel and experience\nthe thrills of this beloved series!",
+  "release_date_on_eshop": "1991-11",
+  "product_code": "CTR-N-RA4E",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

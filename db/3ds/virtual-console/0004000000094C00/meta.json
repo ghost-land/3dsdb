@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000094C00",
-    "uid": "50010000011686",
-    "name": "Toki Tori",
-    "formal_name": "Toki Tori",
-    "description": "Original Release Date:  September 2001\nHe may be a small, yellow chicken, but Toki Tori is no coward!  He's the hero of this egg-cellent puzzle platformer in which he must rescue all of his kidnapped brothers and sisters, who are still in their fragile eggs.\nIn this Game Boy™ Color classic, you must keep Toki Tori safe by avoiding monsters and traps while working out how to collect all the eggs in each level before the timer runs out.\nLuckily, there are lots of items to aid Toki Tori's mission.  So what are you waiting for?  Time to get cracking!",
-    "release_date_on_eshop": "2012-08-30",
-    "product_code": "CTR-N-QARE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000094C00",
+  "uid": "50010000011686",
+  "name": "Toki Tori",
+  "formal_name": "Toki Tori",
+  "description": "Original Release Date:  September 2001\nHe may be a small, yellow chicken, but Toki Tori is no coward!  He's the hero of this egg-cellent puzzle platformer in which he must rescue all of his kidnapped brothers and sisters, who are still in their fragile eggs.\nIn this Game Boy™ Color classic, you must keep Toki Tori safe by avoiding monsters and traps while working out how to collect all the eggs in each level before the timer runs out.\nLuckily, there are lots of items to aid Toki Tori's mission.  So what are you waiting for?  Time to get cracking!",
+  "release_date_on_eshop": "2012-08-30",
+  "product_code": "CTR-N-QARE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

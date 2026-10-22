@@ -1,29 +1,29 @@
 {
-    "tid": "0004008C0009AC00",
-    "uid": "50010000010886",
-    "name": "Déco Photo 3D",
-    "formal_name": "Déco Photo 3D",
-    "description": "Amusez-vous à prendre des photos et\nfaites preuve d'imagination pour les\ndécorer !<br>\n<br>\nAvec Déco Photo 3D, réalisez de\nsuperbes clichés partout où vous allez\navec les appareils photo de votre\nNintendo 3DS. Personnalisez-les\nensuite avec des cadres, des décors\net des éléments déco de votre\ncréation avant de les partager avec\nvos amis (veuillez noter que les\nphotos prises avec ce logiciel ne\ns'afficheront pas en 3D).<br>\n<br>\nVous pouvez apparaître sur vos\nphotos aux côtés de vos amis grâce\nau retardateur, ou bien acheter du\ncontenu additionnel sur la boutique\ndéco pour exprimer toute votre\ncréativité !",
-    "release_date_on_eshop": "2012-07-12",
-    "product_code": "CTR-N-JCVF",
-    "platform_name": "Nintendo 3DS (téléchargement)",
-    "region": "France",
-    "genres": [
-        "Style de vie"
-    ],
-    "features": [
-        "Affichage 3D",
-        "SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "Français"
-    ],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0009AC00",
+  "uid": "50010000010886",
+  "name": "Déco Photo 3D",
+  "formal_name": "Déco Photo 3D",
+  "description": "Amusez-vous à prendre des photos et\nfaites preuve d'imagination pour les\ndécorer !<br>\n<br>\nAvec Déco Photo 3D, réalisez de\nsuperbes clichés partout où vous allez\navec les appareils photo de votre\nNintendo 3DS. Personnalisez-les\nensuite avec des cadres, des décors\net des éléments déco de votre\ncréation avant de les partager avec\nvos amis (veuillez noter que les\nphotos prises avec ce logiciel ne\ns'afficheront pas en 3D).<br>\n<br>\nVous pouvez apparaître sur vos\nphotos aux côtés de vos amis grâce\nau retardateur, ou bien acheter du\ncontenu additionnel sur la boutique\ndéco pour exprimer toute votre\ncréativité !",
+  "release_date_on_eshop": "2012-07-12",
+  "product_code": "CTR-N-JCVF",
+  "platform_name": "Nintendo 3DS (téléchargement)",
+  "region": "France",
+  "genres": [
+    "Style de vie"
+  ],
+  "features": [
+    "Affichage 3D",
+    "SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

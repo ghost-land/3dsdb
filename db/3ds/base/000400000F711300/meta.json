@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F711300",
-    "uid": "50010000045875",
-    "name": "Games for Toddlers 2",
-    "formal_name": "Games for Toddlers 2",
-    "description": "Each game is simple and uses only the touch screen. \n<br>\n<br>Egg Shakers: A simple and engaging rhythmic game. \n<br>\n<br>Pet Sitter: A simplified pet simulator featuring a cute cat.\n<br>\n<br>Kids Xylophone: The children's version of the iconic musical instrument.\n<br>\n<br>Wooden Blocks: The video game version of classic wooden stacking blocks.",
-    "release_date_on_eshop": "2018-06-07",
-    "product_code": "KTR-N-CFTE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F711300",
+  "uid": "50010000045875",
+  "name": "Games for Toddlers 2",
+  "formal_name": "Games for Toddlers 2",
+  "description": "Each game is simple and uses only the touch screen. \n<br>\n<br>Egg Shakers: A simple and engaging rhythmic game. \n<br>\n<br>Pet Sitter: A simplified pet simulator featuring a cute cat.\n<br>\n<br>Kids Xylophone: The children's version of the iconic musical instrument.\n<br>\n<br>Wooden Blocks: The video game version of classic wooden stacking blocks.",
+  "release_date_on_eshop": "2018-06-07",
+  "product_code": "KTR-N-CFTE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

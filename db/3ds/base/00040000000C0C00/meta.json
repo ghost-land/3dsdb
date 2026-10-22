@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000C0C00",
-    "uid": "50010000018233",
-    "name": "3D Space Harrier",
-    "formal_name": "3D Space Harrier",
-    "description": "As a resourceful, extra-terrestrial warrior, your mission is to save the peaceful Land of the Dragons from vicious creatures.\n<br><br>\nAided by the dragons, you must use every trick in the book and every skill at your command in order to stave off these alien invaders and save the day!\n<br><br>\nIn addition to its all-new 3D presentation, 3D Space Harrier also features touch control functionality and an Arcade Cabinet mode!\n<br><br>\nStarting November 28, SEGA® of America Inc. will be releasing eight highly-anticipated 3D remakes of iconic arcade classics for the Nintendo 3DS handheld system. This game is one of the titles available for download in Nintendo eShop. Check back for more. \n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
-    "release_date_on_eshop": "2013-11-28",
-    "product_code": "CTR-N-JSHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C0C00",
+  "uid": "50010000018233",
+  "name": "3D Space Harrier",
+  "formal_name": "3D Space Harrier",
+  "description": "As a resourceful, extra-terrestrial warrior, your mission is to save the peaceful Land of the Dragons from vicious creatures.\n<br><br>\nAided by the dragons, you must use every trick in the book and every skill at your command in order to stave off these alien invaders and save the day!\n<br><br>\nIn addition to its all-new 3D presentation, 3D Space Harrier also features touch control functionality and an Arcade Cabinet mode!\n<br><br>\nStarting November 28, SEGA® of America Inc. will be releasing eight highly-anticipated 3D remakes of iconic arcade classics for the Nintendo 3DS handheld system. This game is one of the titles available for download in Nintendo eShop. Check back for more. \n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
+  "release_date_on_eshop": "2013-11-28",
+  "product_code": "CTR-N-JSHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

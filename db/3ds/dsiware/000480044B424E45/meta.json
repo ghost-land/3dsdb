@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B424E45",
-    "uid": "50010000012862",
-    "name": "Galaxy Saver",
-    "formal_name": "Galaxy Saver",
-    "description": "Take on wave after wave of invading attacks as you protect the mothership from 360 degrees of enemy bombardment. Circle around the mothership to form a perimeter, blasting the incoming alien ships with guns and missiles as they swarm in from all directions. Blast everything in sight as the aliens attack with rush attacks, stealth attacks, swarms, and tracker beams, surrounding you from all directions.\n<br><br>Recruit partnership ships to help you fend off the invaders or team up with a friend using DS Wireless Communications. Hold off the hordes of aliens while your mothership recharges its warp drive in a series of steps that edge you closer to earth, where the final battle awaits.",
-    "release_date_on_eshop": "2013-01-03",
-    "product_code": "TWL-N-KBNE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B424E45",
+  "uid": "50010000012862",
+  "name": "Galaxy Saver",
+  "formal_name": "Galaxy Saver",
+  "description": "Take on wave after wave of invading attacks as you protect the mothership from 360 degrees of enemy bombardment. Circle around the mothership to form a perimeter, blasting the incoming alien ships with guns and missiles as they swarm in from all directions. Blast everything in sight as the aliens attack with rush attacks, stealth attacks, swarms, and tracker beams, surrounding you from all directions.\n<br><br>Recruit partnership ships to help you fend off the invaders or team up with a friend using DS Wireless Communications. Hold off the hordes of aliens while your mothership recharges its warp drive in a series of steps that edge you closer to earth, where the final battle awaits.",
+  "release_date_on_eshop": "2013-01-03",
+  "product_code": "TWL-N-KBNE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

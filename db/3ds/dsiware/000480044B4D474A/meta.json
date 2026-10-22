@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4D474A",
-    "uid": "50010000021973",
-    "name": "マイティー フリップ チャンプ",
-    "formal_name": "マイティー フリップ チャンプ",
-    "description": "日本国内でカルト的人気を誇るゲームクリエイター集団「WayForward」による頭脳派2Dパズルアクション。主人公「アルタ」の持つワープワンドの力をうまく使えば、ゴールにたどり着くことができるはずです。\n<br>ページをめくる（フリップする）かのようにステージの配置を切り替え、障害物を乗り越えていきましょう。",
-    "release_date_on_eshop": "2014-04-30",
-    "product_code": "TWL-N-KMGJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル",
-        "アドベンチャー"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D474A",
+  "uid": "50010000021973",
+  "name": "マイティー フリップ チャンプ",
+  "formal_name": "マイティー フリップ チャンプ",
+  "description": "日本国内でカルト的人気を誇るゲームクリエイター集団「WayForward」による頭脳派2Dパズルアクション。主人公「アルタ」の持つワープワンドの力をうまく使えば、ゴールにたどり着くことができるはずです。\n<br>ページをめくる（フリップする）かのようにステージの配置を切り替え、障害物を乗り越えていきましょう。",
+  "release_date_on_eshop": "2014-04-30",
+  "product_code": "TWL-N-KMGJ",
+  "platform_name": "ニンテンドーDSiウェア",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル",
+    "アドベンチャー"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

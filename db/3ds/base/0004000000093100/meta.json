@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000093100",
-    "uid": "50010000010379",
-    "name": "Samurai Sword Destiny™",
-    "formal_name": "Samurai Sword Destiny™",
-    "description": "You control a deadly female samurai,\nAkane, with a single goal in mind: to\nfind and bring her missing elder\nbrother home. On Akane’s quest, she\nwill encounter deadly ambushes,\nstorm enemy castle rooftops, and\nsquare off against seemingly\nindomitable opponents. With the help\nof dozens of upgrades available to\nenhance her fighting abilities, Akane\njust might have a fighting chance\nagainst the forces that stand in her\npath!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JSSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000093100",
+  "uid": "50010000010379",
+  "name": "Samurai Sword Destiny™",
+  "formal_name": "Samurai Sword Destiny™",
+  "description": "You control a deadly female samurai,\nAkane, with a single goal in mind: to\nfind and bring her missing elder\nbrother home. On Akane’s quest, she\nwill encounter deadly ambushes,\nstorm enemy castle rooftops, and\nsquare off against seemingly\nindomitable opponents. With the help\nof dozens of upgrades available to\nenhance her fighting abilities, Akane\njust might have a fighting chance\nagainst the forces that stand in her\npath!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JSSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

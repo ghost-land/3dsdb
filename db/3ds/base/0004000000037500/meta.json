@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000037500",
-    "uid": "50010000000206",
-    "name": "Tom Clancy's Ghost Recon®\nShadow Wars",
-    "formal_name": "Tom Clancy's Ghost Recon®\nShadow Wars",
-    "description": "As the commander of the Ghosts, the\nbest special operations fighting force\nin the world, your mission is to stop\nthe Russian ultranationalist Yuri\nTreskayev from coming to power, in\nTom Clancy's GHOST RECON\nSHADOW WARS on Nintendo 3DS™.\n<br/><br/>\nFrom the hot deserts of Kazakhstan\nto the villages of Ukraine and the\nfrozen lands of Siberia, you must\ndiscover and disable the secret\nSoviet-era “Dead Hand” bases which\nTreskayev is using to build an army of\ndrones. You will have access to full\nresources to build, train, and equip\nyour team, using the most recent\nhigh-tech weapons and armour.\n<br/><br/>\nExperience the critically-acclaimed\nGhost Recon series in a new way as\nyou discover rich and deep tactical\ngameplay never before seen in a\nGhost Recon game!",
-    "release_date_on_eshop": "2013-05-23",
-    "product_code": "CTR-P-AGRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.2.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000037500",
+  "uid": "50010000000206",
+  "name": "Tom Clancy's Ghost Recon®\nShadow Wars",
+  "formal_name": "Tom Clancy's Ghost Recon®\nShadow Wars",
+  "description": "As the commander of the Ghosts, the\nbest special operations fighting force\nin the world, your mission is to stop\nthe Russian ultranationalist Yuri\nTreskayev from coming to power, in\nTom Clancy's GHOST RECON\nSHADOW WARS on Nintendo 3DS™.\n<br/><br/>\nFrom the hot deserts of Kazakhstan\nto the villages of Ukraine and the\nfrozen lands of Siberia, you must\ndiscover and disable the secret\nSoviet-era “Dead Hand” bases which\nTreskayev is using to build an army of\ndrones. You will have access to full\nresources to build, train, and equip\nyour team, using the most recent\nhigh-tech weapons and armour.\n<br/><br/>\nExperience the critically-acclaimed\nGhost Recon series in a new way as\nyou discover rich and deep tactical\ngameplay never before seen in a\nGhost Recon game!",
+  "release_date_on_eshop": "2013-05-23",
+  "product_code": "CTR-P-AGRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.2.1",
+  "disclaimer": null,
+  "descriptors": []
 }

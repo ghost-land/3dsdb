@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B374850",
-    "uid": "50010000032295",
-    "name": "Titanic Mystery",
-    "formal_name": "Titanic Mystery",
-    "description": "Take a trip on the all-new RMS\nTitanic, the greatest, most luxurious\nocean liner ever built.\n<br/><br/>\nExactly 100 years after the original\nship sailed on its maiden voyage from\nSouthampton to New York, the\nall-new Titanic sets off on the same\nvoyage. Built with the same level of\nluxury and extravagance, but with\nmodern-day safety designs and\nup-to-date lifeboats.\n<br/><br/>\nBut, shortly after you set sail you\nfind out that someone on board has\nplans to blow the ship up. It is up to\nyou to find the bomb and unmask the\nculprit by solving a series of puzzles\nand riddles.\n<br/><br/>\n- Visit 30 locations from the\nluxurious RMS Titanic\n<br/><br/>\n- A huge variety of puzzles and mini\ngames\n<br/><br/>\n- A compelling story with various\ntasks and clues",
-    "release_date_on_eshop": "2015-03-26",
-    "product_code": "TWL-N-K7HP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B374850",
+  "uid": "50010000032295",
+  "name": "Titanic Mystery",
+  "formal_name": "Titanic Mystery",
+  "description": "Take a trip on the all-new RMS\nTitanic, the greatest, most luxurious\nocean liner ever built.\n<br/><br/>\nExactly 100 years after the original\nship sailed on its maiden voyage from\nSouthampton to New York, the\nall-new Titanic sets off on the same\nvoyage. Built with the same level of\nluxury and extravagance, but with\nmodern-day safety designs and\nup-to-date lifeboats.\n<br/><br/>\nBut, shortly after you set sail you\nfind out that someone on board has\nplans to blow the ship up. It is up to\nyou to find the bomb and unmask the\nculprit by solving a series of puzzles\nand riddles.\n<br/><br/>\n- Visit 30 locations from the\nluxurious RMS Titanic\n<br/><br/>\n- A huge variety of puzzles and mini\ngames\n<br/><br/>\n- A compelling story with various\ntasks and clues",
+  "release_date_on_eshop": "2015-03-26",
+  "product_code": "TWL-N-K7HP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

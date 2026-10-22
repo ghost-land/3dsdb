@@ -1,27 +1,27 @@
 {
-    "tid": "000400000018CB00",
-    "uid": "50010000039365",
-    "name": "Musicverse\nバーチャル キーボード",
-    "formal_name": "Musicverse バーチャル キーボード",
-    "description": "『Musicverse バーチャル キーボード』は、誰でも簡単に音楽を作れるソフトです。ピアノ、アコーディオン、マリンバ、オルガンなどから楽器を選び、レゲエ、サンバ、ロックなどのリズムを選び、コードとテンポを調整し、あなただけのオリジナル曲が完成します。また、コード、ピッチベンド、メトロノーム、変奏、クォンタイズ、等々の細かい設定ができますので、ビギナー（チュートリアル画面あり）からエキスパートの方まで、曲作りが楽しめます。\n<br>完成した曲はQRコードで、Twitter、FacebookなどのSNSやMiiverseで投稿、共有が可能です。またMiiverseからは、ほかのユーザーの曲をインポートしてお楽しみいただけます。",
-    "release_date_on_eshop": "2016-03-02",
-    "product_code": "CTR-N-KMKJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "音楽",
-        "コミュニケーション",
-        "学習"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>本ソフトの利用についてはエンドユーザー使用許諾について同意いただくことが条件となります。\n<br>エンドユーザー使用許諾については弊社ホームページ（www.rainyfrog.com/musicverse-terms）に掲載しているのでご確認ください。",
-    "descriptors": []
+  "tid": "000400000018CB00",
+  "uid": "50010000039365",
+  "name": "Musicverse\nバーチャル キーボード",
+  "formal_name": "Musicverse バーチャル キーボード",
+  "description": "『Musicverse バーチャル キーボード』は、誰でも簡単に音楽を作れるソフトです。ピアノ、アコーディオン、マリンバ、オルガンなどから楽器を選び、レゲエ、サンバ、ロックなどのリズムを選び、コードとテンポを調整し、あなただけのオリジナル曲が完成します。また、コード、ピッチベンド、メトロノーム、変奏、クォンタイズ、等々の細かい設定ができますので、ビギナー（チュートリアル画面あり）からエキスパートの方まで、曲作りが楽しめます。\n<br>完成した曲はQRコードで、Twitter、FacebookなどのSNSやMiiverseで投稿、共有が可能です。またMiiverseからは、ほかのユーザーの曲をインポートしてお楽しみいただけます。",
+  "release_date_on_eshop": "2016-03-02",
+  "product_code": "CTR-N-KMKJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "音楽",
+    "コミュニケーション",
+    "学習"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>本ソフトの利用についてはエンドユーザー使用許諾について同意いただくことが条件となります。\n<br>エンドユーザー使用許諾については弊社ホームページ（www.rainyfrog.com/musicverse-terms）に掲載しているのでご確認ください。",
+  "descriptors": []
 }

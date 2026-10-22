@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001D3500",
-    "uid": "50010000045595",
-    "name": "Dragon Lapis",
-    "formal_name": "Dragon Lapis",
-    "description": "A thousand years ago, a great battle ensued between two dragons, one gold and the other silver, where they were sealed away. Many centuries later, the Silver Dragon reawakens, and launches an assault on a frontier village.\n<br>\n<br>Lucas, a royal knight serving as a guard, little does he know he is, in fact, a descendant of the hero who once sealed the Gold and Silver Dragons in human form. Nonetheless, when the tragedy strikes, he soon sets out on an adventure to save the world!\n<br>\n<br>Make a return to the golden age of RPGs with 8-bit graphics and chiptunes. By unlocking growth plates, characters are able to strengthen parameters, learn skills, and increase job rank! Master multiple jobs and live an adventure full of challenges and dungeons to explore!",
-    "release_date_on_eshop": "2018-05-31",
-    "product_code": "CTR-N-LDRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D3500",
+  "uid": "50010000045595",
+  "name": "Dragon Lapis",
+  "formal_name": "Dragon Lapis",
+  "description": "A thousand years ago, a great battle ensued between two dragons, one gold and the other silver, where they were sealed away. Many centuries later, the Silver Dragon reawakens, and launches an assault on a frontier village.\n<br>\n<br>Lucas, a royal knight serving as a guard, little does he know he is, in fact, a descendant of the hero who once sealed the Gold and Silver Dragons in human form. Nonetheless, when the tragedy strikes, he soon sets out on an adventure to save the world!\n<br>\n<br>Make a return to the golden age of RPGs with 8-bit graphics and chiptunes. By unlocking growth plates, characters are able to strengthen parameters, learn skills, and increase job rank! Master multiple jobs and live an adventure full of challenges and dungeons to explore!",
+  "release_date_on_eshop": "2018-05-31",
+  "product_code": "CTR-N-LDRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

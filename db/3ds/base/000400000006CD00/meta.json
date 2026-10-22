@@ -1,33 +1,33 @@
 {
-    "tid": "000400000006CD00",
-    "uid": "50010000020553",
-    "name": "Jewel Quest Mysteries 3 -\nThe Seventh Gate",
-    "formal_name": "Jewel Quest Mysteries 3 -\nThe Seventh Gate",
-    "description": "Join Rupert and Emma in Jewel Quest\nMysteries as they traverse the ruins of\nancient Egypt! Mystery reigns and\nonly a keen eye can help you.\nDiscover hidden objects and secret\ngems while playing classic Jewel\nQuest as between level\nmini-games! Jewel Quest Mysteries\nCurse of the Emerald Tear",
-    "release_date_on_eshop": "2014-02-27",
-    "product_code": "CTR-P-AJQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006CD00",
+  "uid": "50010000020553",
+  "name": "Jewel Quest Mysteries 3 -\nThe Seventh Gate",
+  "formal_name": "Jewel Quest Mysteries 3 -\nThe Seventh Gate",
+  "description": "Join Rupert and Emma in Jewel Quest\nMysteries as they traverse the ruins of\nancient Egypt! Mystery reigns and\nonly a keen eye can help you.\nDiscover hidden objects and secret\ngems while playing classic Jewel\nQuest as between level\nmini-games! Jewel Quest Mysteries\nCurse of the Emerald Tear",
+  "release_date_on_eshop": "2014-02-27",
+  "product_code": "CTR-P-AJQP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

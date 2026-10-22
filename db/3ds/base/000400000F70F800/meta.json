@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70F800",
-    "uid": "50010000044479",
-    "name": "BLOK DROP CHAOS",
-    "formal_name": "BLOK DROP CHAOS",
-    "description": "In BLOK DROP CHAOS you must act quick to catch the fallen blocks. Collect the correct number of blocks and advance to the next level. Endless fun for everyone!",
-    "release_date_on_eshop": "2017-12-14",
-    "product_code": "KTR-N-CDCP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70F800",
+  "uid": "50010000044479",
+  "name": "BLOK DROP CHAOS",
+  "formal_name": "BLOK DROP CHAOS",
+  "description": "In BLOK DROP CHAOS you must act quick to catch the fallen blocks. Collect the correct number of blocks and advance to the next level. Endless fun for everyone!",
+  "release_date_on_eshop": "2017-12-14",
+  "product_code": "KTR-N-CDCP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

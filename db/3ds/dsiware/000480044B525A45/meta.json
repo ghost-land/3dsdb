@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B525A45",
-    "uid": "50010000003564",
-    "name": "Supermarket Mania®",
-    "formal_name": "Supermarket Mania®",
-    "description": "Supermarket Mania is a mesmerizing time management game. Running grocery stores can be a lot of fun! Help Nikki keep five stores stocked to the rafters with the provisions customers want. If you work fast and hard, you'll earn enough money to upgrade your establishments and show your adversary what a little hometown pluck can do!\n\nWith Supermarket Mania you get:\n- 50 Levels in Story Mode\n- Endless Shift Mode and extra bonuses\n- Five shops\n- Seven types of customers\n- Over a dozen products to sell\n- Over 20 upgrades for your shop",
-    "release_date_on_eshop": "2010-11-22",
-    "product_code": "TWL-N-KRZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525A45",
+  "uid": "50010000003564",
+  "name": "Supermarket Mania®",
+  "formal_name": "Supermarket Mania®",
+  "description": "Supermarket Mania is a mesmerizing time management game. Running grocery stores can be a lot of fun! Help Nikki keep five stores stocked to the rafters with the provisions customers want. If you work fast and hard, you'll earn enough money to upgrade your establishments and show your adversary what a little hometown pluck can do!\n\nWith Supermarket Mania you get:\n- 50 Levels in Story Mode\n- Endless Shift Mode and extra bonuses\n- Five shops\n- Seven types of customers\n- Over a dozen products to sell\n- Over 20 upgrades for your shop",
+  "release_date_on_eshop": "2010-11-22",
+  "product_code": "TWL-N-KRZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

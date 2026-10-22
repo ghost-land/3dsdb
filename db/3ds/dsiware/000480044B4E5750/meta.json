@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B4E5750",
-    "uid": "50010000011206",
-    "name": "3, 2, 1... WordsUp!",
-    "formal_name": "3, 2, 1... WordsUp!",
-    "description": "Show your command of the language\nin 3, 2, 1... WordsUp! Build the\nmaximum number of words with the\nsame combination of letters. Do it\nbefore time runs out or you will lose!\nChallenge yourself in this unique game\nof wit and skill. Practise your mental\nagility and your knowledge of the\nlanguage in 3, 2, 1... WordsUp!<br>\n<br>\nMain features:<br>\n<br>\n* Two challenging game modes.\n* Practise vocabulary in six\nlanguages: English, French, Spanish,\nItalian, German and Portuguese; the\nperfect complement to your language\ncourse!\n* Tens of thousands of words to\ndiscover.\n* Unlimited hours of play.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KNWP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4E5750",
+  "uid": "50010000011206",
+  "name": "3, 2, 1... WordsUp!",
+  "formal_name": "3, 2, 1... WordsUp!",
+  "description": "Show your command of the language\nin 3, 2, 1... WordsUp! Build the\nmaximum number of words with the\nsame combination of letters. Do it\nbefore time runs out or you will lose!\nChallenge yourself in this unique game\nof wit and skill. Practise your mental\nagility and your knowledge of the\nlanguage in 3, 2, 1... WordsUp!<br>\n<br>\nMain features:<br>\n<br>\n* Two challenging game modes.\n* Practise vocabulary in six\nlanguages: English, French, Spanish,\nItalian, German and Portuguese; the\nperfect complement to your language\ncourse!\n* Tens of thousands of words to\ndiscover.\n* Unlimited hours of play.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KNWP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

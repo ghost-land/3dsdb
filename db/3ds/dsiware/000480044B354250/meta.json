@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B354250",
-    "uid": "50010000014975",
-    "name": "Lost Treasures of Alexandria",
-    "formal_name": "Lost Treasures of Alexandria",
-    "description": "In “Lost Treasures of Alexandria” you\nplay Christine, an\narchaeologist/geologist who stumbles\nacross an unexplained archaeological\nsecret. Few are aware, and\nmainstream science seems to ignore\nthe fact, that some almost perfectly\nspherical metal spheres were found\nburied deep in various mines in Africa.\nThe spheres have three concentric\nrings etched around their\ncircumference, which appear to be\nneither natural nor man-made. So\nwhat are these anachronisms doing in\nrock strata dating back over a million\nyears? Is it possible that the first\ncivilisations could be millions of years\nold?",
-    "release_date_on_eshop": "2013-07-11",
-    "product_code": "TWL-N-K5BP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B354250",
+  "uid": "50010000014975",
+  "name": "Lost Treasures of Alexandria",
+  "formal_name": "Lost Treasures of Alexandria",
+  "description": "In “Lost Treasures of Alexandria” you\nplay Christine, an\narchaeologist/geologist who stumbles\nacross an unexplained archaeological\nsecret. Few are aware, and\nmainstream science seems to ignore\nthe fact, that some almost perfectly\nspherical metal spheres were found\nburied deep in various mines in Africa.\nThe spheres have three concentric\nrings etched around their\ncircumference, which appear to be\nneither natural nor man-made. So\nwhat are these anachronisms doing in\nrock strata dating back over a million\nyears? Is it possible that the first\ncivilisations could be millions of years\nold?",
+  "release_date_on_eshop": "2013-07-11",
+  "product_code": "TWL-N-K5BP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

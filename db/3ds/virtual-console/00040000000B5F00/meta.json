@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000B5F00",
-    "uid": "50010000018513",
-    "name": "Donkey Kong™ 3",
-    "formal_name": "Donkey Kong™ 3",
-    "description": "Based on the third game in the enormously popular arcade series, Donkey Kong 3 introduces an exterminator named Stanley as he desperately tries to protect the flowers in his greenhouse from Donkey Kong. Armed only with a can of bug spray, Stanley must force Donkey Kong higher and higher into the greenhouse rafters until Donkey Kong is off the screen and the next stage is reached. But not surprisingly, Donkey Kong isn’t going to move without a fight, so he sends wave after wave of bugs, bees, and other creatures toward Stanley.\n<BR><BR>\nNot only must Stanley repel the insects in order to save the flowers, but he’ll have to keep an eye out for projectiles thrown by Donkey Kong himself. If Stanley is good enough,\nhe’ll be able to grab a can of more powerful bug spray and really get Donkey Kong moving. It all adds up to frantic fun that anyone can enjoy!",
-    "release_date_on_eshop": "2013-12-05",
-    "product_code": "CTR-N-TB4E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000B5F00",
+  "uid": "50010000018513",
+  "name": "Donkey Kong™ 3",
+  "formal_name": "Donkey Kong™ 3",
+  "description": "Based on the third game in the enormously popular arcade series, Donkey Kong 3 introduces an exterminator named Stanley as he desperately tries to protect the flowers in his greenhouse from Donkey Kong. Armed only with a can of bug spray, Stanley must force Donkey Kong higher and higher into the greenhouse rafters until Donkey Kong is off the screen and the next stage is reached. But not surprisingly, Donkey Kong isn’t going to move without a fight, so he sends wave after wave of bugs, bees, and other creatures toward Stanley.\n<BR><BR>\nNot only must Stanley repel the insects in order to save the flowers, but he’ll have to keep an eye out for projectiles thrown by Donkey Kong himself. If Stanley is good enough,\nhe’ll be able to grab a can of more powerful bug spray and really get Donkey Kong moving. It all adds up to frantic fun that anyone can enjoy!",
+  "release_date_on_eshop": "2013-12-05",
+  "product_code": "CTR-N-TB4E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000BC300",
-    "uid": "50010000012533",
-    "name": "CRIMSON SHROUD™ ",
-    "formal_name": "CRIMSON SHROUD™ ",
-    "description": "LEVEL-5 and Yasumi Matsuno have\nbrought together the industry's most\nvenerated creators in the world of\nRPGs to take up the challenge and\nlend their support to the production of\nCRIMSON SHROUD.\n<br/><br/>\nA tribute to the table-top RPG,\ncrucial decisions hinge on the roll of a\ndie. Players roll dice in real time and\nchain skills together to earn bonus\ndice of greater and greater face value.\nUse your dice strategically though, or\nyour foes may yet get the best of you!\n<br/><br/>\nFollow the tale of a young \"Chaser\"\nnamed Giauque, as he and his team\nfind themselves drawn into the\nmystery of the Original Gift, the\nCrimson Shroud. A bold new\nadventure awaits!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JCZP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BC300",
+  "uid": "50010000012533",
+  "name": "CRIMSON SHROUD™ ",
+  "formal_name": "CRIMSON SHROUD™ ",
+  "description": "LEVEL-5 and Yasumi Matsuno have\nbrought together the industry's most\nvenerated creators in the world of\nRPGs to take up the challenge and\nlend their support to the production of\nCRIMSON SHROUD.\n<br/><br/>\nA tribute to the table-top RPG,\ncrucial decisions hinge on the roll of a\ndie. Players roll dice in real time and\nchain skills together to earn bonus\ndice of greater and greater face value.\nUse your dice strategically though, or\nyour foes may yet get the best of you!\n<br/><br/>\nFollow the tale of a young \"Chaser\"\nnamed Giauque, as he and his team\nfind themselves drawn into the\nmystery of the Original Gift, the\nCrimson Shroud. A bold new\nadventure awaits!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JCZP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B5A4845",
-    "uid": "50010000007842",
-    "name": "Halloween: Trick or Treat",
-    "formal_name": "Halloween: Trick or Treat",
-    "description": "Go “Trick or Treating” with Mike and\nSally in this fun packed, all-action\nHalloween game. Collect lots of\nTreats and even get Tricked along the\nway. Bump into Friendly Ghosts,\nWicked Witches, Scary Skulls &\nFlapping Bats! Explore the Haunted\nHouse of a nutty professor. Get\ntrapped in...then escape from a\nWitch’s House in the Pumpkin Forest.\nPlay the game over and over to get a\nhigher score than your family and\nfriends...but be careful you don’t get\nTricked too often...ha ha ha\nhaaaaaah!",
-    "release_date_on_eshop": "2011-10-27",
-    "product_code": "TWL-N-KZHP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4845",
+  "uid": "50010000007842",
+  "name": "Halloween: Trick or Treat",
+  "formal_name": "Halloween: Trick or Treat",
+  "description": "Go “Trick or Treating” with Mike and\nSally in this fun packed, all-action\nHalloween game. Collect lots of\nTreats and even get Tricked along the\nway. Bump into Friendly Ghosts,\nWicked Witches, Scary Skulls &\nFlapping Bats! Explore the Haunted\nHouse of a nutty professor. Get\ntrapped in...then escape from a\nWitch’s House in the Pumpkin Forest.\nPlay the game over and over to get a\nhigher score than your family and\nfriends...but be careful you don’t get\nTricked too often...ha ha ha\nhaaaaaah!",
+  "release_date_on_eshop": "2011-10-27",
+  "product_code": "TWL-N-KZHP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B555145",
-    "uid": "50010000012672",
-    "name": "Chuck E. Cheese's®\nAlien Defense Force",
-    "formal_name": "Chuck E. Cheese's®\nAlien Defense Force",
-    "description": "Chuck E. Cheese's® Alien Defense Force needs you! The evil king of Planet Cheese is trying to steal all of Earth's pizza, and heroes are needed to protect it! Do battle with the aliens with Chuck E. and his trusty water blaster or Mr. Munch and his water balloon.\n<br><br>\nFour menacing aliens guard the entrance to lair of the King of Planet Cheese. Those aliens will be no match for Chuck. E. and Mr Munch's mighty arsenal once the power of the splash combos are unleashed! Go forth cadet and save Earth's pizza!",
-    "release_date_on_eshop": "2012-12-13",
-    "product_code": "TWL-N-KUQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B555145",
+  "uid": "50010000012672",
+  "name": "Chuck E. Cheese's®\nAlien Defense Force",
+  "formal_name": "Chuck E. Cheese's®\nAlien Defense Force",
+  "description": "Chuck E. Cheese's® Alien Defense Force needs you! The evil king of Planet Cheese is trying to steal all of Earth's pizza, and heroes are needed to protect it! Do battle with the aliens with Chuck E. and his trusty water blaster or Mr. Munch and his water balloon.\n<br><br>\nFour menacing aliens guard the entrance to lair of the King of Planet Cheese. Those aliens will be no match for Chuck. E. and Mr Munch's mighty arsenal once the power of the splash combos are unleashed! Go forth cadet and save Earth's pizza!",
+  "release_date_on_eshop": "2012-12-13",
+  "product_code": "TWL-N-KUQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400000018F300",
-    "uid": "50010000040415",
-    "name": "Digger Dan DX",
-    "formal_name": "Digger Dan DX",
-    "description": "Digger Dan has found an old mine full of caves, still brimming with treasure. Can you guide him in the right direction by digging through the earth to collect the gems and nuggets of gold? Work out your path carefully as you push rocks out of the way or you could find Dan caught in one of the many traps.\n<br><br>\nAs you dig deeper and deeper through the 125 caves, you will uncover secret gems buried in the earth, unravel the mysteries of the wormholes which transport you around the level, blow holes in walls with the abandoned barrels full of TNT and collect pickaxes to release gems that are trapped in rock. \n<br><br>\nChallenge yourself to complete the cave, beat the timer and collect the hidden secret gem on every level.\n<br><br>\nFeatures:\nFour themed areas\nStereoscopic 3D layering\nHigh score tables for every level\n4 save slots\n60fps smooth action",
-    "release_date_on_eshop": "2016-05-19",
-    "product_code": "CTR-N-KGXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000018F300",
+  "uid": "50010000040415",
+  "name": "Digger Dan DX",
+  "formal_name": "Digger Dan DX",
+  "description": "Digger Dan has found an old mine full of caves, still brimming with treasure. Can you guide him in the right direction by digging through the earth to collect the gems and nuggets of gold? Work out your path carefully as you push rocks out of the way or you could find Dan caught in one of the many traps.\n<br><br>\nAs you dig deeper and deeper through the 125 caves, you will uncover secret gems buried in the earth, unravel the mysteries of the wormholes which transport you around the level, blow holes in walls with the abandoned barrels full of TNT and collect pickaxes to release gems that are trapped in rock. \n<br><br>\nChallenge yourself to complete the cave, beat the timer and collect the hidden secret gem on every level.\n<br><br>\nFeatures:\nFour themed areas\nStereoscopic 3D layering\nHigh score tables for every level\n4 save slots\n60fps smooth action",
+  "release_date_on_eshop": "2016-05-19",
+  "product_code": "CTR-N-KGXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

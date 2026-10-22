@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B524445",
-    "uid": "50010000003381",
-    "name": "Armada",
-    "formal_name": "Armada",
-    "description": "In Armada, you take command of a military aircraft carrier! It’s up to you to safely land and refuel fighters, bombers and medical helicopters. Avoid deadly collisions, battle turbulent weather conditions, and engage the enemy! With your reputation on the line and lives at stake, you’ll need quick thinking and smart strategies in order to protect and direct the military aircraft to safety. But beware—if you aren’t careful, enemies will surround your carrier and sabotage your mission. Take control and prove yourself a hero!\n\n",
-    "release_date_on_eshop": "2010-10-18",
-    "product_code": "TWL-N-KRDE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524445",
+  "uid": "50010000003381",
+  "name": "Armada",
+  "formal_name": "Armada",
+  "description": "In Armada, you take command of a military aircraft carrier! It’s up to you to safely land and refuel fighters, bombers and medical helicopters. Avoid deadly collisions, battle turbulent weather conditions, and engage the enemy! With your reputation on the line and lives at stake, you’ll need quick thinking and smart strategies in order to protect and direct the military aircraft to safety. But beware—if you aren’t careful, enemies will surround your carrier and sabotage your mission. Take control and prove yourself a hero!\n\n",
+  "release_date_on_eshop": "2010-10-18",
+  "product_code": "TWL-N-KRDE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

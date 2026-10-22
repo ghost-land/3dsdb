@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000DE200",
-    "uid": "50010000015696",
-    "name": "3D Shinobi III",
-    "formal_name": "3D Shinobi III\nReturn of the Ninja Master",
-    "description": "Joe Musashi’s sworn enemies, the\nNeo Zeed, have returned! Controlled\nby Shadow Master, a formidable ninja\ncloned from Joe’s own bloodline, the\nsyndicate holds the city captive with\nits vicious crime ring. Utilize deadly\nweapons and lethal ninja arts in order\nto stand against the hordes of\nbio-ninja and save your city!\n<br/><br/>\nIn addition to its all-new 3D\npresentation, 3D Shinobi III features a\nRound Select Mode and customizable\ninput setting which allows you to\nassign each action to specific buttons.",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JSNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DE200",
+  "uid": "50010000015696",
+  "name": "3D Shinobi III",
+  "formal_name": "3D Shinobi III\nReturn of the Ninja Master",
+  "description": "Joe Musashi’s sworn enemies, the\nNeo Zeed, have returned! Controlled\nby Shadow Master, a formidable ninja\ncloned from Joe’s own bloodline, the\nsyndicate holds the city captive with\nits vicious crime ring. Utilize deadly\nweapons and lethal ninja arts in order\nto stand against the hordes of\nbio-ninja and save your city!\n<br/><br/>\nIn addition to its all-new 3D\npresentation, 3D Shinobi III features a\nRound Select Mode and customizable\ninput setting which allows you to\nassign each action to specific buttons.",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JSNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

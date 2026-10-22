@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B585745",
-    "uid": "50010000008022",
-    "name": "Christmas Wonderland",
-    "formal_name": "Christmas Wonderland",
-    "description": "Christmas Wonderland is a hidden\nobject game featuring superbly\ndetailed screens with lots of\ninter-level games and puzzles.<br>\n<br>\nSanta and his team are working\nnon-stop to get everything ready- but\ntime is running out. Travel around a\nWonderland crammed full of objects,\nwith beautiful graphics and mini\npuzzles for all the family to enjoy.\nCan you help Santa find all the toys\nscattered around Wonderland and\ndeliver the presents in time for\nChristmas?<br>\n<br>\nObjects change with every\nplaythrough, increasing replayability\nand making this a game not to be\nmissed.",
-    "release_date_on_eshop": "2011-12-08",
-    "product_code": "TWL-N-KXWP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585745",
+  "uid": "50010000008022",
+  "name": "Christmas Wonderland",
+  "formal_name": "Christmas Wonderland",
+  "description": "Christmas Wonderland is a hidden\nobject game featuring superbly\ndetailed screens with lots of\ninter-level games and puzzles.<br>\n<br>\nSanta and his team are working\nnon-stop to get everything ready- but\ntime is running out. Travel around a\nWonderland crammed full of objects,\nwith beautiful graphics and mini\npuzzles for all the family to enjoy.\nCan you help Santa find all the toys\nscattered around Wonderland and\ndeliver the presents in time for\nChristmas?<br>\n<br>\nObjects change with every\nplaythrough, increasing replayability\nand making this a game not to be\nmissed.",
+  "release_date_on_eshop": "2011-12-08",
+  "product_code": "TWL-N-KXWP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001A2F00",
-    "uid": "50010000041467",
-    "name": "River City: Tokyo Rumble",
-    "formal_name": "River City: Tokyo Rumble",
-    "description": "Rumble in the Concrete Jungle!\n<br>\n<br>Follow the story of a hot-blooded high school student named Kunio and his good friends. When a nefarious gang moves into Tokyo to try to take it over, it's up to this self-proclaimed \"fighter for justice\" and his buddies to make sure the streets stay safe! Punch, kick, use weapons such as soccer balls, iron knuckles, chains, and even bicycles to knock some sense into those devious gang members.\n<br>\n<br>Take on jobs to earn extra cash, special moves, and more!\n<br>Take a break from the main story to fight in a 4-man Rumble or Dodgeball match!\n<br>Take on your friends using Local Play and Download Play!\n<br>Unlock new characters, stages, and songs as you progress through the game!",
-    "release_date_on_eshop": "2016-09-29",
-    "product_code": "CTR-N-AK2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting",
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A2F00",
+  "uid": "50010000041467",
+  "name": "River City: Tokyo Rumble",
+  "formal_name": "River City: Tokyo Rumble",
+  "description": "Rumble in the Concrete Jungle!\n<br>\n<br>Follow the story of a hot-blooded high school student named Kunio and his good friends. When a nefarious gang moves into Tokyo to try to take it over, it's up to this self-proclaimed \"fighter for justice\" and his buddies to make sure the streets stay safe! Punch, kick, use weapons such as soccer balls, iron knuckles, chains, and even bicycles to knock some sense into those devious gang members.\n<br>\n<br>Take on jobs to earn extra cash, special moves, and more!\n<br>Take a break from the main story to fight in a 4-man Rumble or Dodgeball match!\n<br>Take on your friends using Local Play and Download Play!\n<br>Unlock new characters, stages, and songs as you progress through the game!",
+  "release_date_on_eshop": "2016-09-29",
+  "product_code": "CTR-N-AK2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting",
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

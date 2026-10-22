@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B584550",
-    "uid": "50010000010876",
-    "name": "Escape the Virus:\nSwarm Survival",
-    "formal_name": "Escape the Virus:\nSwarm Survival",
-    "description": "Dodge, wind and jump to link all\npieces of DNA and build the longest\nchain ever while fighting off vicious\nviruses. Look at your surroundings\nand get one off bonuses such as a\nvaccine or a micro-world equivalent of\na rocket-launcher! Put your survival\nskills to the test in this\nreflex-awakening action featuring 2\nmodes of gameplay!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KXEP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Other",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584550",
+  "uid": "50010000010876",
+  "name": "Escape the Virus:\nSwarm Survival",
+  "formal_name": "Escape the Virus:\nSwarm Survival",
+  "description": "Dodge, wind and jump to link all\npieces of DNA and build the longest\nchain ever while fighting off vicious\nviruses. Look at your surroundings\nand get one off bonuses such as a\nvaccine or a micro-world equivalent of\na rocket-launcher! Put your survival\nskills to the test in this\nreflex-awakening action featuring 2\nmodes of gameplay!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KXEP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Other",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B324645",
-    "uid": "50010000012391",
-    "name": "Smart Girl's Playhouse® Mini",
-    "formal_name": "Smart Girl's Playhouse® Mini",
-    "description": "The award-winning Smart Girl’s Playhouse® series is back! This time on Smart Girl’s Playhouse® Mini, little gamers will be delighted by the all-new graphics and games rebuilt from the ground up! Choose from 6 fun games and activities such as Drawing, Find Differences, Dress-Up and more! These wholesome games will bring out your child’s talents and keep them occupied for hours. This title aims to give children and parents a great alternative to into the world of video games without inappropriate content.",
-    "release_date_on_eshop": "2012-11-08",
-    "product_code": "TWL-N-K2FE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324645",
+  "uid": "50010000012391",
+  "name": "Smart Girl's Playhouse® Mini",
+  "formal_name": "Smart Girl's Playhouse® Mini",
+  "description": "The award-winning Smart Girl’s Playhouse® series is back! This time on Smart Girl’s Playhouse® Mini, little gamers will be delighted by the all-new graphics and games rebuilt from the ground up! Choose from 6 fun games and activities such as Drawing, Find Differences, Dress-Up and more! These wholesome games will bring out your child’s talents and keep them occupied for hours. This title aims to give children and parents a great alternative to into the world of video games without inappropriate content.",
+  "release_date_on_eshop": "2012-11-08",
+  "product_code": "TWL-N-K2FE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

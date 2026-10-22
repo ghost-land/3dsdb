@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000103800",
-    "uid": "50010000017373",
-    "name": "@SIMPLE DLシリーズ Vol.18\nTHE 将棋",
-    "formal_name": "@SIMPLE DLシリーズ Vol.18\nTHE 将棋",
-    "description": "気軽に楽しめる「将棋」ゲームが『@SIMPLE DLシリーズ』に登場です。\n<br>\n<br>ゲームにはすぐに遊べるフリー対戦モードと4段階の強さのコンピュータと様々な条件で対局ができるレベルUPモードがあり、楽しみながら自分の実力を伸ばすことができます。\n<br>また棋譜の保存機能や2人での対戦機能も搭載し、1台のニンテンドー3DSを使って友達との対局を楽しむことが可能です。",
-    "release_date_on_eshop": "2013-10-30",
-    "product_code": "CTR-N-JDUJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000103800",
+  "uid": "50010000017373",
+  "name": "@SIMPLE DLシリーズ Vol.18\nTHE 将棋",
+  "formal_name": "@SIMPLE DLシリーズ Vol.18\nTHE 将棋",
+  "description": "気軽に楽しめる「将棋」ゲームが『@SIMPLE DLシリーズ』に登場です。\n<br>\n<br>ゲームにはすぐに遊べるフリー対戦モードと4段階の強さのコンピュータと様々な条件で対局ができるレベルUPモードがあり、楽しみながら自分の実力を伸ばすことができます。\n<br>また棋譜の保存機能や2人での対戦機能も搭載し、1台のニンテンドー3DSを使って友達との対局を楽しむことが可能です。",
+  "release_date_on_eshop": "2013-10-30",
+  "product_code": "CTR-N-JDUJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

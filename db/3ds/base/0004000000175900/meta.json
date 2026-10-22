@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000175900",
-    "uid": "50010000036496",
-    "name": "Cube Creator 3D",
-    "formal_name": "Cube Creator 3D",
-    "description": "Craft your own realm in stunning\nrandomly generated worlds in Cube\nCreator 3D. You can also gather\nresources, combine elements, explore\n& combat strange creatures to survive\nin this expansive, cubic domain.\n<br/><br/>\nCreative Mode allows you to explore\nworlds in true Stereoscopic 3D. The\ndual-screen presentation keeps your\nresource inventory free from cluttering\nthe gameplay screen. Easy-to-use\ntouchscreen controls make the\nopen-world gameplay better than\never. Break-through dynamic lighting\n& effects positions Cube Creator 3D a\ncube above the rest.\n<br/><br/>\nIn Survival Mode, players can\nexplore, craft, mine, & battle in forest,\ndesert, mountain, & tundra-themed\nworlds. To start, you must use only\nyour bare hands to gather resources\nto then craft tools & weapons, & to\nbuild protective shelters. Building\nbetter tools & weapons allows you to\nexplore caves, mine their precious\nores, & combat the many malicious\nmonsters. Craft, explore and conquer\nthese voxel worlds.",
-    "release_date_on_eshop": "2015-08-20",
-    "product_code": "CTR-N-KCCP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000175900",
+  "uid": "50010000036496",
+  "name": "Cube Creator 3D",
+  "formal_name": "Cube Creator 3D",
+  "description": "Craft your own realm in stunning\nrandomly generated worlds in Cube\nCreator 3D. You can also gather\nresources, combine elements, explore\n& combat strange creatures to survive\nin this expansive, cubic domain.\n<br/><br/>\nCreative Mode allows you to explore\nworlds in true Stereoscopic 3D. The\ndual-screen presentation keeps your\nresource inventory free from cluttering\nthe gameplay screen. Easy-to-use\ntouchscreen controls make the\nopen-world gameplay better than\never. Break-through dynamic lighting\n& effects positions Cube Creator 3D a\ncube above the rest.\n<br/><br/>\nIn Survival Mode, players can\nexplore, craft, mine, & battle in forest,\ndesert, mountain, & tundra-themed\nworlds. To start, you must use only\nyour bare hands to gather resources\nto then craft tools & weapons, & to\nbuild protective shelters. Building\nbetter tools & weapons allows you to\nexplore caves, mine their precious\nores, & combat the many malicious\nmonsters. Craft, explore and conquer\nthese voxel worlds.",
+  "release_date_on_eshop": "2015-08-20",
+  "product_code": "CTR-N-KCCP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

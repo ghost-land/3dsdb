@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000EB200",
-    "uid": "50010000016134",
-    "name": "Darts Up 3D",
-    "formal_name": "Darts Up 3D",
-    "description": "The ultimate darts game is now on Nintendo 3DS™.\n<br><br>\nDarts Up 3D is a fun game of darts in which you will have complete control over aiming thanks to the Nintendo 3DS™ motion sensor.<br>\nYou can play with your friends and family, up to a maximum of 4 Players, using the Mii characters to create your profile.<br>\nDarts Up 3D has several playing modes, including the famous 501.\n<br><br>\nFeatures of Darts Up 3D:\n<br><br>\nSend the full Darts Up 3D using the\n\"Download Play\" option.<br>\n4 Players on just one Nintendo 3DS™.<br>\nCreate your own profile using the Mii characters.<br>\nUse the motion sensor to aim and view the surroundings.<br>\nEntirely in 3D Stereoscopic.<br>\nThree playing modes, including 501!",
-    "release_date_on_eshop": "2013-09-05",
-    "product_code": "CTR-N-JD7E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Download Play",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000EB200",
+  "uid": "50010000016134",
+  "name": "Darts Up 3D",
+  "formal_name": "Darts Up 3D",
+  "description": "The ultimate darts game is now on Nintendo 3DS™.\n<br><br>\nDarts Up 3D is a fun game of darts in which you will have complete control over aiming thanks to the Nintendo 3DS™ motion sensor.<br>\nYou can play with your friends and family, up to a maximum of 4 Players, using the Mii characters to create your profile.<br>\nDarts Up 3D has several playing modes, including the famous 501.\n<br><br>\nFeatures of Darts Up 3D:\n<br><br>\nSend the full Darts Up 3D using the\n\"Download Play\" option.<br>\n4 Players on just one Nintendo 3DS™.<br>\nCreate your own profile using the Mii characters.<br>\nUse the motion sensor to aim and view the surroundings.<br>\nEntirely in 3D Stereoscopic.<br>\nThree playing modes, including 501!",
+  "release_date_on_eshop": "2013-09-05",
+  "product_code": "CTR-N-JD7E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Download Play",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B413645",
-    "uid": "50010000000982",
-    "name": "Space Ace®",
-    "formal_name": "Space Ace®",
-    "description": "In Space Ace you play as the heroic Ace who must stop the evil Commander Borf from taking over the Earth! Borf plans to reduce all of humankind to infants and take over the planet. Only two people have the courage and strength to stop Borf and save Earth: the beautiful Kimberly and the heroic Ace. But as they approach Borf's stronghold, Ace is hit by the Infanto Ray, changing him into a child, and Kimberly is kidnapped by the evil madman! \n\nSpace Ace is a fully animated classic arcade game from legendary animator Don Bluth. You’ll make your way through bizarre new worlds by using your Nintendo DSi system to move and fire your laser gun. Beware of your foes, as they are numerous! The fate of Earth is in your hands!",
-    "release_date_on_eshop": "2010-12-06",
-    "product_code": "TWL-N-KA6E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B413645",
+  "uid": "50010000000982",
+  "name": "Space Ace®",
+  "formal_name": "Space Ace®",
+  "description": "In Space Ace you play as the heroic Ace who must stop the evil Commander Borf from taking over the Earth! Borf plans to reduce all of humankind to infants and take over the planet. Only two people have the courage and strength to stop Borf and save Earth: the beautiful Kimberly and the heroic Ace. But as they approach Borf's stronghold, Ace is hit by the Infanto Ray, changing him into a child, and Kimberly is kidnapped by the evil madman! \n\nSpace Ace is a fully animated classic arcade game from legendary animator Don Bluth. You’ll make your way through bizarre new worlds by using your Nintendo DSi system to move and fire your laser gun. Beware of your foes, as they are numerous! The fate of Earth is in your hands!",
+  "release_date_on_eshop": "2010-12-06",
+  "product_code": "TWL-N-KA6E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

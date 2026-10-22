@@ -1,33 +1,33 @@
 {
-    "tid": "000400000019A500",
-    "uid": "50010000041178",
-    "name": "Stickman Super Athletics",
-    "formal_name": "Stickman Super Athletics",
-    "description": "Are you skilled? Are you competitive? Do you like to win?\n<br>\n<br>Prove this and much more in STICKMAN SUPER ATHLETICS!\n<br>\n<br>If you want to get high competition scores, improve your marks and be the best of your nation, or even the world, this is your game!\n<br>\n<br>Warm up your thumbs and your stylus! You won't get bored of participating in the different events until you are the best and win the gold medal!\n<br>\n<br>Features:\n<br>\n<br>An experience that will immerse you in the most-important sports event in the world.\n<br>8 game types to register your scores: Qualifying rounds, 100m, 110m hurdles, swimming, cycling, long jump, etc.\n<br>Compete against your friends and see who is the most skilled by uploading your score on to the online record leaderboards.\n<br>\n<br>Remember: where there is a will, there is a way! You only need to practice again and again: your goal is to be the best in the world!",
-    "release_date_on_eshop": "2016-08-04",
-    "product_code": "CTR-N-KABE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Users Interact"
-    ]
+  "tid": "000400000019A500",
+  "uid": "50010000041178",
+  "name": "Stickman Super Athletics",
+  "formal_name": "Stickman Super Athletics",
+  "description": "Are you skilled? Are you competitive? Do you like to win?\n<br>\n<br>Prove this and much more in STICKMAN SUPER ATHLETICS!\n<br>\n<br>If you want to get high competition scores, improve your marks and be the best of your nation, or even the world, this is your game!\n<br>\n<br>Warm up your thumbs and your stylus! You won't get bored of participating in the different events until you are the best and win the gold medal!\n<br>\n<br>Features:\n<br>\n<br>An experience that will immerse you in the most-important sports event in the world.\n<br>8 game types to register your scores: Qualifying rounds, 100m, 110m hurdles, swimming, cycling, long jump, etc.\n<br>Compete against your friends and see who is the most skilled by uploading your score on to the online record leaderboards.\n<br>\n<br>Remember: where there is a will, there is a way! You only need to practice again and again: your goal is to be the best in the world!",
+  "release_date_on_eshop": "2016-08-04",
+  "product_code": "CTR-N-KABE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Users Interact"
+  ]
 }

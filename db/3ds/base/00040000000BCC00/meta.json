@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000BCC00",
-    "uid": "50010000012531",
-    "name": "TOKYO CRASH MOBS™",
-    "formal_name": "TOKYO CRASH MOBS™",
-    "description": "Queues: an annoying fact of life or,\nas in Tokyo Crash Mobs, the\ninspiration for a new type of puzzle\ngame!\n<br/><br/>\nThis wacky action puzzler lets you\nindulge your queue-busting desires by\nthrowing or rolling people into\nqueues; match three of the same\ncolour together and they disappear -\nmoving you a step closer to the front.\n<br/><br/>\nPlay in Story Mode as would-be\nbargain hunters Grace and Savannah,\nor Team Battle using the\nNintendo 3DS gyro sensor to fend off\nshopaholic ninjas and UFOs!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JUEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BCC00",
+  "uid": "50010000012531",
+  "name": "TOKYO CRASH MOBS™",
+  "formal_name": "TOKYO CRASH MOBS™",
+  "description": "Queues: an annoying fact of life or,\nas in Tokyo Crash Mobs, the\ninspiration for a new type of puzzle\ngame!\n<br/><br/>\nThis wacky action puzzler lets you\nindulge your queue-busting desires by\nthrowing or rolling people into\nqueues; match three of the same\ncolour together and they disappear -\nmoving you a step closer to the front.\n<br/><br/>\nPlay in Story Mode as would-be\nbargain hunters Grace and Savannah,\nor Team Battle using the\nNintendo 3DS gyro sensor to fend off\nshopaholic ninjas and UFOs!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JUEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

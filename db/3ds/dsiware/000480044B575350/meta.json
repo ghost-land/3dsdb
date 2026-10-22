@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B575350",
-    "uid": "50010000006501",
-    "name": "Word Searcher",
-    "formal_name": "Word Searcher",
-    "description": "You’ll need a sharp eye and a quick\nmind to complete these 100 themed\nword search puzzles. Word Searcher\ncontains fun words from multiple\ncategories including anatomy, world\ncities and U.S Presidents. Packed\nwith a huge assortment of subjects to\nchoose from, there’s sure to be a\npuzzle anyone will enjoy. Help\nimprove your vocabulary, memory and\nproblem-solving skills with these\naddicting puzzles. Keep track of, and\ntry to beat your own play through\ntimes again and again as words are\nscrambled every time you play. Get\nyour thinking cap on and conquer all\n100 today!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KWSP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B575350",
+  "uid": "50010000006501",
+  "name": "Word Searcher",
+  "formal_name": "Word Searcher",
+  "description": "You’ll need a sharp eye and a quick\nmind to complete these 100 themed\nword search puzzles. Word Searcher\ncontains fun words from multiple\ncategories including anatomy, world\ncities and U.S Presidents. Packed\nwith a huge assortment of subjects to\nchoose from, there’s sure to be a\npuzzle anyone will enjoy. Help\nimprove your vocabulary, memory and\nproblem-solving skills with these\naddicting puzzles. Keep track of, and\ntry to beat your own play through\ntimes again and again as words are\nscrambled every time you play. Get\nyour thinking cap on and conquer all\n100 today!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KWSP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

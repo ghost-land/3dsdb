@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001BC300",
-    "uid": "50010000042406",
-    "name": "Blaster Master Zero",
-    "formal_name": "Blaster Master Zero",
-    "description": "Blaster Master Zero is an\n<br>action-exploration game done in an\n<br>8-bit top-down & side-view style that\n<br>hearkens back to the golden age of\n<br>the NES.\n<br>\n<br>Using the original 1988 NES title\n<br>\"Blaster Master\" from Sunsoft as a\n<br>base, Blaster Master Zero has many\n<br>new additions, such as new areas and\n<br>bosses, new gameplay elements such\n<br>as extra sub-weapons, improved\n<br>gameplay, a more robust scenario,\n<br>refined and expanded exploration\n<br>mechanics, and more.\n<br>\n<br>In the near future on Earth, a young\n<br>man named Jason Frudnick boards the\n<br>battle vehicle SOPHIA III and sets off\n<br>on an adventure in the subterranean\n<br>depths of the planet.\n<br>\n<br>On the side-view maps, take control\n<br>of SOPHIA III and explore your\n<br>surroundings as you search for the\n<br>entrance to the dungeon where the\n<br>area's boss lurks.\n<br>\n<br>Once you find the dungeon entrance,\n<br>exit SOPHIA III and make your way\n<br>inside as Jason and take on the\n<br>mutants inside in top-down mode.\n<br>\n<br>Defeat the mid-bosses and area\n<br>bosses to acquire new items,\n<br>sub-weapons, upgrades to SOPHIA III\n<br>and Jason's equipment, and new\n<br>abilities and move to the next area.\n<br>\n<br>What awaits Jason at the end of his\n<br>long adventure...?",
-    "release_date_on_eshop": "2017-03-09",
-    "product_code": "CTR-N-KZVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BC300",
+  "uid": "50010000042406",
+  "name": "Blaster Master Zero",
+  "formal_name": "Blaster Master Zero",
+  "description": "Blaster Master Zero is an\n<br>action-exploration game done in an\n<br>8-bit top-down & side-view style that\n<br>hearkens back to the golden age of\n<br>the NES.\n<br>\n<br>Using the original 1988 NES title\n<br>\"Blaster Master\" from Sunsoft as a\n<br>base, Blaster Master Zero has many\n<br>new additions, such as new areas and\n<br>bosses, new gameplay elements such\n<br>as extra sub-weapons, improved\n<br>gameplay, a more robust scenario,\n<br>refined and expanded exploration\n<br>mechanics, and more.\n<br>\n<br>In the near future on Earth, a young\n<br>man named Jason Frudnick boards the\n<br>battle vehicle SOPHIA III and sets off\n<br>on an adventure in the subterranean\n<br>depths of the planet.\n<br>\n<br>On the side-view maps, take control\n<br>of SOPHIA III and explore your\n<br>surroundings as you search for the\n<br>entrance to the dungeon where the\n<br>area's boss lurks.\n<br>\n<br>Once you find the dungeon entrance,\n<br>exit SOPHIA III and make your way\n<br>inside as Jason and take on the\n<br>mutants inside in top-down mode.\n<br>\n<br>Defeat the mid-bosses and area\n<br>bosses to acquire new items,\n<br>sub-weapons, upgrades to SOPHIA III\n<br>and Jason's equipment, and new\n<br>abilities and move to the next area.\n<br>\n<br>What awaits Jason at the end of his\n<br>long adventure...?",
+  "release_date_on_eshop": "2017-03-09",
+  "product_code": "CTR-N-KZVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

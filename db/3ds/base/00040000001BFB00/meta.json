@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001BFB00",
-    "uid": "50010000043255",
-    "name": "Metroid™: Samus Returns",
-    "formal_name": "Metroid™: Samus Returns",
-    "description": "Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1992 Game Boy adventure. \n<br>\n<br>This intense, side-scrolling action platformer has been completely remade with engaging and immersive 3D visuals and a rich, atmospheric colour palette.\n<br>\n<br>There are plenty of secrets to find – and if you uncover enough of them, you may even start to unravel the mystery of Planet SR388’s past.\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-09-15",
-    "product_code": "CTR-P-A9AP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BFB00",
+  "uid": "50010000043255",
+  "name": "Metroid™: Samus Returns",
+  "formal_name": "Metroid™: Samus Returns",
+  "description": "Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1992 Game Boy adventure. \n<br>\n<br>This intense, side-scrolling action platformer has been completely remade with engaging and immersive 3D visuals and a rich, atmospheric colour palette.\n<br>\n<br>There are plenty of secrets to find – and if you uncover enough of them, you may even start to unravel the mystery of Planet SR388’s past.\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-09-15",
+  "product_code": "CTR-P-A9AP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

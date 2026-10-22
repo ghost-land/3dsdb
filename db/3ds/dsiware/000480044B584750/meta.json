@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B584750",
-    "uid": "50010000011747",
-    "name": "Abyss",
-    "formal_name": "Abyss",
-    "description": "Earth, 3024.<br>\n<br>\nNatural resources are scarce and the\nsurvival of the human race is in\ndanger. Desperate to find new energy\nresources, the ASAN creates a\nbiomechanical robot called Nep2no\nthat is capable of withstanding\nextreme depths in the hope of finding\nnew energy sources.<br>\n<br>\nAfter many years of exploration, a\nnew energy source is found, code\nnamed \"Gaia\".<br>\n<br>\nYour mission will be to find the\n\"Gaia\" energy stones by exploring the\ndepths. To do so, you must control\nNep2no by counteracting gravity and\nthe surrounding darkness with the aid\nof a light that will go out little by\nlittle.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KXGP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Simulation",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584750",
+  "uid": "50010000011747",
+  "name": "Abyss",
+  "formal_name": "Abyss",
+  "description": "Earth, 3024.<br>\n<br>\nNatural resources are scarce and the\nsurvival of the human race is in\ndanger. Desperate to find new energy\nresources, the ASAN creates a\nbiomechanical robot called Nep2no\nthat is capable of withstanding\nextreme depths in the hope of finding\nnew energy sources.<br>\n<br>\nAfter many years of exploration, a\nnew energy source is found, code\nnamed \"Gaia\".<br>\n<br>\nYour mission will be to find the\n\"Gaia\" energy stones by exploring the\ndepths. To do so, you must control\nNep2no by counteracting gravity and\nthe surrounding darkness with the aid\nof a light that will go out little by\nlittle.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KXGP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Simulation",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

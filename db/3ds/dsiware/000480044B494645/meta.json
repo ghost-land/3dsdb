@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B494645",
-    "uid": "50010000002424",
-    "name": "Drift Street International",
-    "formal_name": "Drift Street International",
-    "description": "Drift Street International is the ultimate high-speed, white-knuckle street racing experience, exclusively for Nintendo DSiWare. Slide and boost your tuned performance car around challenging city streets, in high-intensity midnight races across the US, UK and Japan. Precise, responsive controls give you total control of your car – push yourself to the edge and own your opponents! Drift sideways through corners, building your nitrous meter to let you boost past your opponents on the next straightaway. Test your skills against challenging, aggressive AI drivers, or take on your friends in four-player head-to-head wireless races. Additionally, each track plays host to arcade-style checkpoint races and challenging speed trials in which you have to keep the speed close to the max or risk getting eliminated! Unmatched speed, smoothness and draw distance are only possible by taking full advantage of the expanded Nintendo DSi hardware.\n",
-    "release_date_on_eshop": "2010-03-22",
-    "product_code": "TWL-N-KIFE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B494645",
+  "uid": "50010000002424",
+  "name": "Drift Street International",
+  "formal_name": "Drift Street International",
+  "description": "Drift Street International is the ultimate high-speed, white-knuckle street racing experience, exclusively for Nintendo DSiWare. Slide and boost your tuned performance car around challenging city streets, in high-intensity midnight races across the US, UK and Japan. Precise, responsive controls give you total control of your car – push yourself to the edge and own your opponents! Drift sideways through corners, building your nitrous meter to let you boost past your opponents on the next straightaway. Test your skills against challenging, aggressive AI drivers, or take on your friends in four-player head-to-head wireless races. Additionally, each track plays host to arcade-style checkpoint races and challenging speed trials in which you have to keep the speed close to the max or risk getting eliminated! Unmatched speed, smoothness and draw distance are only possible by taking full advantage of the expanded Nintendo DSi hardware.\n",
+  "release_date_on_eshop": "2010-03-22",
+  "product_code": "TWL-N-KIFE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

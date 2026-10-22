@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B34494A",
-    "uid": "50010000013191",
-    "name": "ソリティア コレクション",
-    "formal_name": "ソリティア コレクション",
-    "description": "24種類のカードと30種類のペグのソリティアが遊べるボリューム満点のゲームです。\nカードソリティアは、クロンダイク、フリーセル、スパイダー、ピラミッド、ユーコンなど人気のあるトランプゲームが入っています。\n世界のいろいろなソリティアを遊んでみてください。",
-    "release_date_on_eshop": "2013-02-06",
-    "product_code": "TWL-N-K4IJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "テーブル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B34494A",
+  "uid": "50010000013191",
+  "name": "ソリティア コレクション",
+  "formal_name": "ソリティア コレクション",
+  "description": "24種類のカードと30種類のペグのソリティアが遊べるボリューム満点のゲームです。\nカードソリティアは、クロンダイク、フリーセル、スパイダー、ピラミッド、ユーコンなど人気のあるトランプゲームが入っています。\n世界のいろいろなソリティアを遊んでみてください。",
+  "release_date_on_eshop": "2013-02-06",
+  "product_code": "TWL-N-K4IJ",
+  "platform_name": "ニンテンドーDSiウェア",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "テーブル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F701900",
-    "uid": "50010000039742",
-    "name": "F-ZERO™",
-    "formal_name": "F-ZERO™",
-    "description": "In the year 2560, the greatest racing competition is the F-ZERO championship. Pilots from across the galaxy risk their lives in a high-speed battle of turbo-charged hovercraft.\n<br>\n<br>Taking full advantage of the Super Nintendo Entertainment System’s 'Mode 7™' effect, F-ZERO redefined racing games with its smooth, fast graphics and thrilling gameplay.\n<br>\n<br>It also featured one of the most famous soundtracks in video games, and introduced players to the likes of Captain Falcon and Samurai Goroh.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-03-17",
-    "product_code": "KTR-N-UAFE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Racing"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F701900",
+  "uid": "50010000039742",
+  "name": "F-ZERO™",
+  "formal_name": "F-ZERO™",
+  "description": "In the year 2560, the greatest racing competition is the F-ZERO championship. Pilots from across the galaxy risk their lives in a high-speed battle of turbo-charged hovercraft.\n<br>\n<br>Taking full advantage of the Super Nintendo Entertainment System’s 'Mode 7™' effect, F-ZERO redefined racing games with its smooth, fast graphics and thrilling gameplay.\n<br>\n<br>It also featured one of the most famous soundtracks in video games, and introduced players to the likes of Captain Falcon and Samurai Goroh.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-03-17",
+  "product_code": "KTR-N-UAFE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Racing"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

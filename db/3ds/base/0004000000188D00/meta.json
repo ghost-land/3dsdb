@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000188D00",
-    "uid": "50010000042408",
-    "name": "Mario Sports\nSuperstars",
-    "formal_name": "Mario Sports\n<br>Superstars",
-    "description": "Become a Superstar – it's Mario Sports time!\n<br>\n<br>Take to the field with an all-star line-up in Mario Sports Superstars, an action-packed selection of supercharged sports. Set your squad of Super Mario favourites on the road to superstardom in five of the world’s most popular sports, and compete with others nearby and online!\n<br>\n<br>Tear up the turf in 11-a-side Football matches, slug it out in Baseball, get on the green in Golf and own the court in Tennis. For something a bit different, saddle up and get ready for some fast-paced Horse Racing! These are full-scale sports, featuring layers of depth, strategy and real-world authenticity.\n<br>\n<br>Supports 6 Players online and 6 Players via Local Play<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-03-10",
-    "product_code": "CTR-P-AUNP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Party"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000188D00",
+  "uid": "50010000042408",
+  "name": "Mario Sports\nSuperstars",
+  "formal_name": "Mario Sports\n<br>Superstars",
+  "description": "Become a Superstar – it's Mario Sports time!\n<br>\n<br>Take to the field with an all-star line-up in Mario Sports Superstars, an action-packed selection of supercharged sports. Set your squad of Super Mario favourites on the road to superstardom in five of the world’s most popular sports, and compete with others nearby and online!\n<br>\n<br>Tear up the turf in 11-a-side Football matches, slug it out in Baseball, get on the green in Golf and own the court in Tennis. For something a bit different, saddle up and get ready for some fast-paced Horse Racing! These are full-scale sports, featuring layers of depth, strategy and real-world authenticity.\n<br>\n<br>Supports 6 Players online and 6 Players via Local Play<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-03-10",
+  "product_code": "CTR-P-AUNP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Party"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

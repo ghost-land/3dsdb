@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B344856",
-    "uid": "50010000006681",
-    "name": "Hero of Sparta",
-    "formal_name": "Hero of Sparta",
-    "description": "You are King Argos, a Spartan hero\nwho’s not afraid to defy the gods\nthemselves. Take up the maddest\nchallenge in this colossal, full 3D\nodyssey and face the most\nphenomenal mythical creatures!<br>\n<br>\nLet this epic action game take you\nfrom mythical lands to the depths of\nthe Underworld for hours of gaming\nand visual enjoyment. Collect and\nupgrade 4 mythic weapons, and\nunleash your hero’s special powers by\nperforming combos.<br>\n<br>\nIt's your chance to write your own\nlegend...if you can survive the\nadventure.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K4HV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B344856",
+  "uid": "50010000006681",
+  "name": "Hero of Sparta",
+  "formal_name": "Hero of Sparta",
+  "description": "You are King Argos, a Spartan hero\nwho’s not afraid to defy the gods\nthemselves. Take up the maddest\nchallenge in this colossal, full 3D\nodyssey and face the most\nphenomenal mythical creatures!<br>\n<br>\nLet this epic action game take you\nfrom mythical lands to the depths of\nthe Underworld for hours of gaming\nand visual enjoyment. Collect and\nupgrade 4 mythic weapons, and\nunleash your hero’s special powers by\nperforming combos.<br>\n<br>\nIt's your chance to write your own\nlegend...if you can survive the\nadventure.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K4HV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

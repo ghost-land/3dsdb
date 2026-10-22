@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000180000",
-    "uid": "50010000037635",
-    "name": "Gunslugs 2",
-    "formal_name": "Gunslugs 2",
-    "description": "The black duck army is back! They\nare sending signals into space, which\ncan't be good... In fact, the army has\nteamed up with aliens! You and the\ngunslug squad have to defeat the\nrisen army with all their might again\nbefore its too late. And of course the\nslugs have enough equipment to do\nthat. Flamethrowers, tanks, guns and\nmany more are at your disposal and\nready to kick some alien butt!      ",
-    "release_date_on_eshop": "2015-10-22",
-    "product_code": "CTR-N-KGVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000180000",
+  "uid": "50010000037635",
+  "name": "Gunslugs 2",
+  "formal_name": "Gunslugs 2",
+  "description": "The black duck army is back! They\nare sending signals into space, which\ncan't be good... In fact, the army has\nteamed up with aliens! You and the\ngunslug squad have to defeat the\nrisen army with all their might again\nbefore its too late. And of course the\nslugs have enough equipment to do\nthat. Flamethrowers, tanks, guns and\nmany more are at your disposal and\nready to kick some alien butt!      ",
+  "release_date_on_eshop": "2015-10-22",
+  "product_code": "CTR-N-KGVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

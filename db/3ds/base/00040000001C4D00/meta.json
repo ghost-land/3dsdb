@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001C4D00",
-    "uid": "50010000044435",
-    "name": "Mario Party™: The Top 100",
-    "formal_name": "Mario Party™: The Top 100",
-    "description": "For years, the Mario Party series brought us together around our home consoles... ever since the original launched on Nintendo 64. We partied like it was 1999... because it was. And now, the best minigames from all 10 home console titles are going portable.\n<br>\n<br>We’ve curated the top 100 minigames – the most ever in a single Mario Party title – to create the best one yet. The game supports Download Play for up to 4 people, so with just one Game Card, any of your friends with a Nintendo 3DS family system can join in too!\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-12-22",
-    "product_code": "CTR-P-BHRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C4D00",
+  "uid": "50010000044435",
+  "name": "Mario Party™: The Top 100",
+  "formal_name": "Mario Party™: The Top 100",
+  "description": "For years, the Mario Party series brought us together around our home consoles... ever since the original launched on Nintendo 64. We partied like it was 1999... because it was. And now, the best minigames from all 10 home console titles are going portable.\n<br>\n<br>We’ve curated the top 100 minigames – the most ever in a single Mario Party title – to create the best one yet. The game supports Download Play for up to 4 people, so with just one Game Card, any of your friends with a Nintendo 3DS family system can join in too!\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-12-22",
+  "product_code": "CTR-P-BHRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

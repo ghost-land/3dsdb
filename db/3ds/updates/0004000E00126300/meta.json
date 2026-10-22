@@ -1,33 +1,33 @@
 {
-    "tid": "0004000E00126300",
-    "uid": "50010000030695",
-    "name": "Monster Hunter™ 4 Ultimate\nUpdate Ver. 1.1",
-    "formal_name": "Monster Hunter™ 4 Ultimate\nUpdate Ver. 1.1",
-    "description": "This is update data required to access the \"Gift Area\" in \"Monster Hunter 4 Ultimate\", where you can download free items.\n<br><br>\nIn the event that update data (ver. 1.1) hasn't been downloaded, the \"Gift Area\" in \"Monster Hunter 4 Ultimate\" cannot be accessed.\n<br><br>\nAfter the download, talk to the housekeeper character in your house, select \"Downloadable Content\", and then \"Gift Area\". We ask that you please download update data (ver. 1.1), and apologize for any inconvenience.",
-    "release_date_on_eshop": "2015-03-12",
-    "product_code": "CTR-U-BFGE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E00126300",
+  "uid": "50010000030695",
+  "name": "Monster Hunter™ 4 Ultimate\nUpdate Ver. 1.1",
+  "formal_name": "Monster Hunter™ 4 Ultimate\nUpdate Ver. 1.1",
+  "description": "This is update data required to access the \"Gift Area\" in \"Monster Hunter 4 Ultimate\", where you can download free items.\n<br><br>\nIn the event that update data (ver. 1.1) hasn't been downloaded, the \"Gift Area\" in \"Monster Hunter 4 Ultimate\" cannot be accessed.\n<br><br>\nAfter the download, talk to the housekeeper character in your house, select \"Downloadable Content\", and then \"Gift Area\". We ask that you please download update data (ver. 1.1), and apologize for any inconvenience.",
+  "release_date_on_eshop": "2015-03-12",
+  "product_code": "CTR-U-BFGE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

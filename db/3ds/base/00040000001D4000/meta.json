@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001D4000",
-    "uid": "50010000045716",
-    "name": "Bloodstained:\nCurse of the Moon",
-    "formal_name": "Bloodstained:\n<br>Curse of the Moon",
-    "description": "Battle with swords and whips in this retro-style action game brought to you by game creator Koji Igarashi and Inti Creates!\n<br>\n<br>Play as Zangetsu, a demon slayer bearing a deep grudge, who must travel through perilous lands to defeat a powerful demon lurking in a dark castle. Zangetsu will meet fellow travelers along the way, who can join your journey as playable characters.\n<br>\n<br>Switching to these characters with their unique abilities will unlock new paths through the treacherous stages. Your choices in recruiting these adventurers will change the difficulty of the game, and may even affect the ending!\n<br>\n<br>*This game is the mini-game promised as a stretch goal of the 2015 Kickstarter campaign for \"Bloodstained: Ritual of the Night.\"",
-    "release_date_on_eshop": "2018-05-24",
-    "product_code": "CTR-N-BLME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D4000",
+  "uid": "50010000045716",
+  "name": "Bloodstained:\nCurse of the Moon",
+  "formal_name": "Bloodstained:\n<br>Curse of the Moon",
+  "description": "Battle with swords and whips in this retro-style action game brought to you by game creator Koji Igarashi and Inti Creates!\n<br>\n<br>Play as Zangetsu, a demon slayer bearing a deep grudge, who must travel through perilous lands to defeat a powerful demon lurking in a dark castle. Zangetsu will meet fellow travelers along the way, who can join your journey as playable characters.\n<br>\n<br>Switching to these characters with their unique abilities will unlock new paths through the treacherous stages. Your choices in recruiting these adventurers will change the difficulty of the game, and may even affect the ending!\n<br>\n<br>*This game is the mini-game promised as a stretch goal of the 2015 Kickstarter campaign for \"Bloodstained: Ritual of the Night.\"",
+  "release_date_on_eshop": "2018-05-24",
+  "product_code": "CTR-N-BLME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E00125500",
-    "uid": "50010000031416",
-    "name": "The Legend of Zelda™:\nMajora’s Mask 3D Update Ver. 1.1",
-    "formal_name": "The Legend of Zelda™:\nMajora’s Mask 3D Update Ver. 1.1",
-    "description": "This is an update for The Legend of Zelda™: Majora’s Mask 3D game. This download does not contain the full version of the title. In order to use this update, you must have the full version of The Legend of Zelda™: Majora’s Mask 3D.",
-    "release_date_on_eshop": "2015-02-27",
-    "product_code": "CTR-U-AJRE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E00125500",
+  "uid": "50010000031416",
+  "name": "The Legend of Zelda™:\nMajora’s Mask 3D Update Ver. 1.1",
+  "formal_name": "The Legend of Zelda™:\nMajora’s Mask 3D Update Ver. 1.1",
+  "description": "This is an update for The Legend of Zelda™: Majora’s Mask 3D game. This download does not contain the full version of the title. In order to use this update, you must have the full version of The Legend of Zelda™: Majora’s Mask 3D.",
+  "release_date_on_eshop": "2015-02-27",
+  "product_code": "CTR-U-AJRE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

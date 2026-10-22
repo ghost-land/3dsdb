@@ -1,34 +1,34 @@
 {
-    "tid": "000400000F708D00",
-    "uid": "50010000042356",
-    "name": "Runbow Pocket",
-    "formal_name": "Runbow Pocket",
-    "description": "Runbow Pocket is a fast, frantic game where you can conquer over 145 levels in Adventure and The Bowhemoth, or go head to head in Run, Arena, and King of the Hill online. The world changes with each swipe of colour, so you'll have to stay on your toes as platforms and obstacles disappear.",
-    "release_date_on_eshop": "2017-06-20",
-    "product_code": "KTR-N-CDRP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Racing"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F708D00",
+  "uid": "50010000042356",
+  "name": "Runbow Pocket",
+  "formal_name": "Runbow Pocket",
+  "description": "Runbow Pocket is a fast, frantic game where you can conquer over 145 levels in Adventure and The Bowhemoth, or go head to head in Run, Arena, and King of the Hill online. The world changes with each swipe of colour, so you'll have to stay on your toes as platforms and obstacles disappear.",
+  "release_date_on_eshop": "2017-06-20",
+  "product_code": "KTR-N-CDRP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Racing"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

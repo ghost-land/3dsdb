@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000ED700",
-    "uid": "50010000029235",
-    "name": "Classic Card Games",
-    "formal_name": "Classic Card Games",
-    "description": "\"Classic Card Games\" is a huge\ncollection of the finest card classics\nand casino games - right in your\npocket!\n<br/><br/>\nClassic card games include: Hearts,\nSpades, Euchre, Bridge, Gin Rummy,\nCanasta, Cribbage, Crazy Eights, Go\nFish, Romme, and Skat.\n<br/><br/>\nThe casino card games selection has:\nBlackJack, Texas Hold'em, Double\nFlop Hold'em, Omaha, 5-Card Draw,\n7 Card Stud, Pineapple, Crazy\nPineapple, and 5 unique versions of\nVideo Poker.\n<br/><br/>\nImmerse yourself in the game with\nunique 3D environments and\ncharacters. Change many of the\ngame's rules to your liking. An\nincredible complete card game\ncollection for endless fun!",
-    "release_date_on_eshop": "2015-01-08",
-    "product_code": "CTR-N-JCGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Simulation",
-        "Strategy",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000ED700",
+  "uid": "50010000029235",
+  "name": "Classic Card Games",
+  "formal_name": "Classic Card Games",
+  "description": "\"Classic Card Games\" is a huge\ncollection of the finest card classics\nand casino games - right in your\npocket!\n<br/><br/>\nClassic card games include: Hearts,\nSpades, Euchre, Bridge, Gin Rummy,\nCanasta, Cribbage, Crazy Eights, Go\nFish, Romme, and Skat.\n<br/><br/>\nThe casino card games selection has:\nBlackJack, Texas Hold'em, Double\nFlop Hold'em, Omaha, 5-Card Draw,\n7 Card Stud, Pineapple, Crazy\nPineapple, and 5 unique versions of\nVideo Poker.\n<br/><br/>\nImmerse yourself in the game with\nunique 3D environments and\ncharacters. Change many of the\ngame's rules to your liking. An\nincredible complete card game\ncollection for endless fun!",
+  "release_date_on_eshop": "2015-01-08",
+  "product_code": "CTR-N-JCGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Simulation",
+    "Strategy",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

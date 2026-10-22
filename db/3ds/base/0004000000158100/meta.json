@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000158100",
-    "uid": "50010000032695",
-    "name": "3D Fantasy Zone 2™",
-    "formal_name": "3D Fantasy Zone 2™",
-    "description": "Fantasy Zone II™, first released for the\n<br>SEGA Master System™ in 1987 as a\n<br>sequel to 1986’s Fantasy Zone™, is\n<br>the fan favorite scrolling shooter in\n<br>which players control a sentient\n<br>spaceship named Opa-Opa to fight\n<br>surreal invader enemies.\n<br>\n<br>3D Fantasy Zone II W™ upgrades all\n<br>visuals from SEGA's System-E to\n<br>System- 16 graphic standards and\n<br>combines stereoscopic 3D effects with\n<br>a host of additional features to deliver\n<br>cutting edge gameplay experience\n<br>with a classic feel.\n<br>\n<br>Additional features include:\n<br>\n<br>an all-new endless game mode that\n<br>takes place in the mysterious Link\n<br>Loop Land,\n<br>\n<br>the ability to save replays for later\n<br>viewing,\n<br>\n<br>a Stage Select feature that allows\n<br>players to save and resume progress\n<br>mid-game,\n<br>and adjustable difficulty settings.",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-N-JFCP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000158100",
+  "uid": "50010000032695",
+  "name": "3D Fantasy Zone 2™",
+  "formal_name": "3D Fantasy Zone 2™",
+  "description": "Fantasy Zone II™, first released for the\n<br>SEGA Master System™ in 1987 as a\n<br>sequel to 1986’s Fantasy Zone™, is\n<br>the fan favorite scrolling shooter in\n<br>which players control a sentient\n<br>spaceship named Opa-Opa to fight\n<br>surreal invader enemies.\n<br>\n<br>3D Fantasy Zone II W™ upgrades all\n<br>visuals from SEGA's System-E to\n<br>System- 16 graphic standards and\n<br>combines stereoscopic 3D effects with\n<br>a host of additional features to deliver\n<br>cutting edge gameplay experience\n<br>with a classic feel.\n<br>\n<br>Additional features include:\n<br>\n<br>an all-new endless game mode that\n<br>takes place in the mysterious Link\n<br>Loop Land,\n<br>\n<br>the ability to save replays for later\n<br>viewing,\n<br>\n<br>a Stage Select feature that allows\n<br>players to save and resume progress\n<br>mid-game,\n<br>and adjustable difficulty settings.",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-N-JFCP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

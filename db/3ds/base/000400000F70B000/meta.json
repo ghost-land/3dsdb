@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70B000",
-    "uid": "50010000042506",
-    "name": "FIFTEEN",
-    "formal_name": "FIFTEEN",
-    "description": "In FIFTEEN you must rearrange the blocks to display in order of 1 to 15. Using the touch screen you can manipulate the position of each block to accomplish the objective. Beginning order of the blocks is random and adds to the endless challenge!",
-    "release_date_on_eshop": "2017-03-30",
-    "product_code": "KTR-N-CFNP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70B000",
+  "uid": "50010000042506",
+  "name": "FIFTEEN",
+  "formal_name": "FIFTEEN",
+  "description": "In FIFTEEN you must rearrange the blocks to display in order of 1 to 15. Using the touch screen you can manipulate the position of each block to accomplish the objective. Beginning order of the blocks is random and adds to the endless challenge!",
+  "release_date_on_eshop": "2017-03-30",
+  "product_code": "KTR-N-CFNP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

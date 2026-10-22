@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B345A50",
-    "uid": "50010000001761",
-    "name": "101 Dolphin Pets",
-    "formal_name": "101 Dolphin Pets",
-    "description": "Choose from over 101 baby dolphins\nor simply adopt them all! Discover\ntheir personalities as you feed, clean\nand care for your new pets. Bring out\nyour pet's talents by training your\ndolphin in a variety of fun and wacky\nactivities. Enter your dolphin into pet\nshows and earn money to buy exciting\nupgrades including toys, food,\nclothes, accessories and more! The\nmore tricks you teach and the more\ngames you play, the more fun you'll\nhave! You'll never be bored with so\nmany new best friends to pamper, play\nwith and love!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K4ZP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B345A50",
+  "uid": "50010000001761",
+  "name": "101 Dolphin Pets",
+  "formal_name": "101 Dolphin Pets",
+  "description": "Choose from over 101 baby dolphins\nor simply adopt them all! Discover\ntheir personalities as you feed, clean\nand care for your new pets. Bring out\nyour pet's talents by training your\ndolphin in a variety of fun and wacky\nactivities. Enter your dolphin into pet\nshows and earn money to buy exciting\nupgrades including toys, food,\nclothes, accessories and more! The\nmore tricks you teach and the more\ngames you play, the more fun you'll\nhave! You'll never be bored with so\nmany new best friends to pamper, play\nwith and love!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K4ZP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000BC000",
-    "uid": "50010000012568",
-    "name": "AERO PORTER",
-    "formal_name": "AERO PORTER",
-    "description": "LEVEL-5 and Yoot Saito, from VIVARIUM Inc., team up to bring you AERO PORTER, an airport simulation and puzzle game that will have you sorting luggage, expanding your airport's operations, and avoiding security mishaps!\n<br><br>\nAs your airport gains passengers and prestige, you'll be faced with more and more planes to load and luggage to color code. And that's to say nothing of all the special requests and suspicious packages you'll have to deal with!\n<br><br>\nIt's your job to put your airport on the map to help it grow from a few sleepy regional terminals to a bustling international hub. Exchange aircraft with your friends via StreetPass, get those planes loaded, and check your luggage on time!",
-    "release_date_on_eshop": "2012-11-29",
-    "product_code": "CTR-N-JAPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Mii"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BC000",
+  "uid": "50010000012568",
+  "name": "AERO PORTER",
+  "formal_name": "AERO PORTER",
+  "description": "LEVEL-5 and Yoot Saito, from VIVARIUM Inc., team up to bring you AERO PORTER, an airport simulation and puzzle game that will have you sorting luggage, expanding your airport's operations, and avoiding security mishaps!\n<br><br>\nAs your airport gains passengers and prestige, you'll be faced with more and more planes to load and luggage to color code. And that's to say nothing of all the special requests and suspicious packages you'll have to deal with!\n<br><br>\nIt's your job to put your airport on the map to help it grow from a few sleepy regional terminals to a bustling international hub. Exchange aircraft with your friends via StreetPass, get those planes loaded, and check your luggage on time!",
+  "release_date_on_eshop": "2012-11-29",
+  "product_code": "CTR-N-JAPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Mii"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

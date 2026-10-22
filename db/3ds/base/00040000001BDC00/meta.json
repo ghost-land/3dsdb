@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001BDC00",
-    "uid": "50010000042447",
-    "name": "Kung Fu FIGHT!",
-    "formal_name": "Kung Fu FIGHT!",
-    "description": "Fight the bad guys, save the girl - you know the drill! Relentless old-school action as you run, jump and fight your way through your quest of rescue and revenge.\n<br>\n<br>Non-stop action!\n<br>Retro-styled, old school gameplay.\n<br>Battle through varied environments against unique enemies.\n<br>Multiple difficulty modes add challenge and replayability.",
-    "release_date_on_eshop": "2017-01-01",
-    "product_code": "CTR-N-KKFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "00040000001BDC00",
+  "uid": "50010000042447",
+  "name": "Kung Fu FIGHT!",
+  "formal_name": "Kung Fu FIGHT!",
+  "description": "Fight the bad guys, save the girl - you know the drill! Relentless old-school action as you run, jump and fight your way through your quest of rescue and revenge.\n<br>\n<br>Non-stop action!\n<br>Retro-styled, old school gameplay.\n<br>Battle through varied environments against unique enemies.\n<br>Multiple difficulty modes add challenge and replayability.",
+  "release_date_on_eshop": "2017-01-01",
+  "product_code": "CTR-N-KKFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

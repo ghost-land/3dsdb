@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000070A00",
-    "uid": "50010000007313",
-    "name": "Zelda II: The Adventure of Link",
-    "formal_name": "Zelda II: The Adventure of Link",
-    "description": "This direct sequel to the original The\nLegend of Zelda™ is famed for taking\nthe series in a new direction, while\nalso introducing elements that would\nbecome standard in future Zelda\ngames.<br>\n<br>\nIn Zelda II: The Adventure of Link,\nLink must seek the Triforce of Courage\nand awaken Princess Zelda from a\nsleeping spell. Meanwhile, Ganon’s\nminions are trying to resurrect their\nmaster.<br>\n<br>\nZelda II uses a side-scrolling view\nand overworld map, and features\nrole-playing aspects that are unique\nto the series.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TANP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000070A00",
+  "uid": "50010000007313",
+  "name": "Zelda II: The Adventure of Link",
+  "formal_name": "Zelda II: The Adventure of Link",
+  "description": "This direct sequel to the original The\nLegend of Zelda™ is famed for taking\nthe series in a new direction, while\nalso introducing elements that would\nbecome standard in future Zelda\ngames.<br>\n<br>\nIn Zelda II: The Adventure of Link,\nLink must seek the Triforce of Courage\nand awaken Princess Zelda from a\nsleeping spell. Meanwhile, Ganon’s\nminions are trying to resurrect their\nmaster.<br>\n<br>\nZelda II uses a side-scrolling view\nand overworld map, and features\nrole-playing aspects that are unique\nto the series.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TANP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

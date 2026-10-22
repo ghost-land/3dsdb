@@ -1,35 +1,35 @@
 {
-    "tid": "000400000005A500",
-    "uid": "50010000010211",
-    "name": "Rayman® Origins",
-    "formal_name": "Rayman® Origins",
-    "description": "Rayman is back! Jump into this\nall new adventure full of surprises\nand epic boss battles.\n<br/><br/>\n-Play as Rayman or Globox and\nexplore Rayman's magical universe\n<br/><br/>\n-Discover over 60 platforming levels\n<br/><br/>\n-Share your progress, unlocked\nachievements and more via\nStreetPass™",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-P-ARMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005A500",
+  "uid": "50010000010211",
+  "name": "Rayman® Origins",
+  "formal_name": "Rayman® Origins",
+  "description": "Rayman is back! Jump into this\nall new adventure full of surprises\nand epic boss battles.\n<br/><br/>\n-Play as Rayman or Globox and\nexplore Rayman's magical universe\n<br/><br/>\n-Discover over 60 platforming levels\n<br/><br/>\n-Share your progress, unlocked\nachievements and more via\nStreetPass™",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-P-ARMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

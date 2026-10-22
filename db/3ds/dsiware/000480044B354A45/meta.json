@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B354A45",
-    "uid": "50010000034355",
-    "name": "G.G Series THE HIDDEN\nNINJA KAGEMARU",
-    "formal_name": "G.G Series THE HIDDEN\nNINJA KAGEMARU",
-    "description": "The ninja is known for espionage and stealth rather than a frontal attack. Using your skills as the ninja Kagemaru, engage in a precarious game of hide and seek to infiltrate deep into a castle filled with evil samurai. Your mission is to retrieve the secrets on scrolls found throughout each stage before the time runs out, but don't get caught in the enemy's field of vision! In tight situations, Kagemaru can use the ninja's secret arts of Ninpo to subdue, distract, evade or even remain hidden in the open!",
-    "release_date_on_eshop": "2015-06-11",
-    "product_code": "TWL-N-K5JE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B354A45",
+  "uid": "50010000034355",
+  "name": "G.G Series THE HIDDEN\nNINJA KAGEMARU",
+  "formal_name": "G.G Series THE HIDDEN\nNINJA KAGEMARU",
+  "description": "The ninja is known for espionage and stealth rather than a frontal attack. Using your skills as the ninja Kagemaru, engage in a precarious game of hide and seek to infiltrate deep into a castle filled with evil samurai. Your mission is to retrieve the secrets on scrolls found throughout each stage before the time runs out, but don't get caught in the enemy's field of vision! In tight situations, Kagemaru can use the ninja's secret arts of Ninpo to subdue, distract, evade or even remain hidden in the open!",
+  "release_date_on_eshop": "2015-06-11",
+  "product_code": "TWL-N-K5JE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

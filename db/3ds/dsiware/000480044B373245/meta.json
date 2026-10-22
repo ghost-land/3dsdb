@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B373245",
-    "uid": "50010000000962",
-    "name": "True Swing Golf Express",
-    "formal_name": "True Swing Golf Express",
-    "description": "Tee off with power, drive with accuracy, and putt with precision! True Swing Golf Express is a realistic golf simulation that makes full use of the Touch Screen to offer in-depth control over your actions. Vary shot power, apply topspin or backspin, and more, all with a touch of your stylus. Beginners or experts alike can choose from two main modes. Round mode offers play across 3-, 9-, or 18-hole courses, each with varying difficulty levels and some in an exciting tournament setting. Challenge mode puts a unique spin on golf, with a wide selection of special tasks to complete. Completing these tasks in Challenge mode allows you to improve your character’s skills and unlock new courses in Round mode. The fairway awaits!",
-    "release_date_on_eshop": "2010-02-01",
-    "product_code": "TWL-N-K72E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game content was previously released as part of True Swing Golf for Nintendo DS.",
-    "descriptors": []
+  "tid": "000480044B373245",
+  "uid": "50010000000962",
+  "name": "True Swing Golf Express",
+  "formal_name": "True Swing Golf Express",
+  "description": "Tee off with power, drive with accuracy, and putt with precision! True Swing Golf Express is a realistic golf simulation that makes full use of the Touch Screen to offer in-depth control over your actions. Vary shot power, apply topspin or backspin, and more, all with a touch of your stylus. Beginners or experts alike can choose from two main modes. Round mode offers play across 3-, 9-, or 18-hole courses, each with varying difficulty levels and some in an exciting tournament setting. Challenge mode puts a unique spin on golf, with a wide selection of special tasks to complete. Completing these tasks in Challenge mode allows you to improve your character’s skills and unlock new courses in Round mode. The fairway awaits!",
+  "release_date_on_eshop": "2010-02-01",
+  "product_code": "TWL-N-K72E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game content was previously released as part of True Swing Golf for Nintendo DS.",
+  "descriptors": []
 }

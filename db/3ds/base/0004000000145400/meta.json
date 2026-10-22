@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000145400",
-    "uid": "50010000032415",
-    "name": "Fossil Fighters™ Frontier",
-    "formal_name": "Fossil Fighters™ Frontier",
-    "description": "Dig into Fossil Fighters: Frontier on Nintendo 3DS and 2DS! In this exciting RPG, players can hop into their vehicles and drive around exotic locations to excavate fossils, which transform into real-life dinosaurs known as Vivosaurs. Players battle their Vivosaur with wild Vivosaurs they encounter on digging adventures.",
-    "release_date_on_eshop": "2015-05-29",
-    "product_code": "CTR-P-AHRD",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000145400",
+  "uid": "50010000032415",
+  "name": "Fossil Fighters™ Frontier",
+  "formal_name": "Fossil Fighters™ Frontier",
+  "description": "Dig into Fossil Fighters: Frontier on Nintendo 3DS and 2DS! In this exciting RPG, players can hop into their vehicles and drive around exotic locations to excavate fossils, which transform into real-life dinosaurs known as Vivosaurs. Players battle their Vivosaur with wild Vivosaurs they encounter on digging adventures.",
+  "release_date_on_eshop": "2015-05-29",
+  "product_code": "CTR-P-AHRD",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

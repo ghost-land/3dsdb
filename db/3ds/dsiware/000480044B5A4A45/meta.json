@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B5A4A45",
-    "uid": "50010000034257",
-    "name": "G.G Series SHADOW ARMY",
-    "formal_name": "G.G Series SHADOW ARMY",
-    "description": "They've sent you, a lone special ops soldier, to infiltrate deep into enemy lines in order to take out an army of mercenaries in this top-down shooter. Use your arsenal of weapons to take out adversaries and proceed through the enemy base, utilizing cover of crates to avoid fire. Collect ammo and first aid kits you find along the way to keep your life gauge from reaching zero and to clear each stage before the time runs out or it's game over. When you do make it to the end of each stage a barrage of enemies will try to bring you down so don't let up your attack against the Shadow Army!",
-    "release_date_on_eshop": "2015-06-11",
-    "product_code": "TWL-N-KZJE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B5A4A45",
+  "uid": "50010000034257",
+  "name": "G.G Series SHADOW ARMY",
+  "formal_name": "G.G Series SHADOW ARMY",
+  "description": "They've sent you, a lone special ops soldier, to infiltrate deep into enemy lines in order to take out an army of mercenaries in this top-down shooter. Use your arsenal of weapons to take out adversaries and proceed through the enemy base, utilizing cover of crates to avoid fire. Collect ammo and first aid kits you find along the way to keep your life gauge from reaching zero and to clear each stage before the time runs out or it's game over. When you do make it to the end of each stage a barrage of enemies will try to bring you down so don't let up your attack against the Shadow Army!",
+  "release_date_on_eshop": "2015-06-11",
+  "product_code": "TWL-N-KZJE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

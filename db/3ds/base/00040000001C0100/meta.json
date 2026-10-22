@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001C0100",
-    "uid": "50010000042508",
-    "name": "Brave Dungeon",
-    "formal_name": "Brave Dungeon",
-    "description": "Syega are powerful crystals that grant humans the ability to use magic. Some crystals are so powerful they have to be contained in specially prepared vessels; these are known as Magic Items. Join intrepid adventurer Al as she explores the dangerous labyrinths of Belfer Island in search of powerful Magic Items. Along the way Al will join forces with strong allies and face even stronger enemies. Can Al conquer the imposing dungeon known as Godshill and find the ultimate Magic Item?\n<br> \n<br>Brave Dungeon is a dungeon crawling RPG adventure by indie games company INSIDE SYSTEM, creators of the Legend of Dark Witch series. Brave Dungeon features an easy to pick up combat system for new players. However, it also has many customization options, unique playable characters, and deep challenges for the completionist. A crafting system featuring materials dropped from enemies and treasure chests in dungeons allows you to customize your characters further. Class Changes allow the player to build their party the way they want, playing to one's own personal preferences and their characters' unique strengths.",
-    "release_date_on_eshop": "2017-03-30",
-    "product_code": "CTR-N-KBWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C0100",
+  "uid": "50010000042508",
+  "name": "Brave Dungeon",
+  "formal_name": "Brave Dungeon",
+  "description": "Syega are powerful crystals that grant humans the ability to use magic. Some crystals are so powerful they have to be contained in specially prepared vessels; these are known as Magic Items. Join intrepid adventurer Al as she explores the dangerous labyrinths of Belfer Island in search of powerful Magic Items. Along the way Al will join forces with strong allies and face even stronger enemies. Can Al conquer the imposing dungeon known as Godshill and find the ultimate Magic Item?\n<br> \n<br>Brave Dungeon is a dungeon crawling RPG adventure by indie games company INSIDE SYSTEM, creators of the Legend of Dark Witch series. Brave Dungeon features an easy to pick up combat system for new players. However, it also has many customization options, unique playable characters, and deep challenges for the completionist. A crafting system featuring materials dropped from enemies and treasure chests in dungeons allows you to customize your characters further. Class Changes allow the player to build their party the way they want, playing to one's own personal preferences and their characters' unique strengths.",
+  "release_date_on_eshop": "2017-03-30",
+  "product_code": "CTR-N-KBWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

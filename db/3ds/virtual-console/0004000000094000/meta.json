@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000094000",
-    "uid": "50010000012629",
-    "name": "Mighty Bomb Jack™",
-    "formal_name": "Mighty Bomb Jack™",
-    "description": "Original Release Date:  July 1987<br>\nThe hero of the game, Jack, must make his way through 16 levels of a pyramid in order to defeat the demon Belzebut and rescue the royal Pamera family.  Each level is split into two parts: an action zone and a Royal Palace room.  Action zones can be split up into several portions, and contain power-ups, such as money bags, Mighty Coins, and Mighty Drinks, usually hidden in treasure chests.  Mighty Coins allow Jack to change colors, and Mighty Drinks add 10 seconds to the game's timer.",
-    "release_date_on_eshop": "2012-12-06",
-    "product_code": "CTR-N-TAUE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000094000",
+  "uid": "50010000012629",
+  "name": "Mighty Bomb Jack™",
+  "formal_name": "Mighty Bomb Jack™",
+  "description": "Original Release Date:  July 1987<br>\nThe hero of the game, Jack, must make his way through 16 levels of a pyramid in order to defeat the demon Belzebut and rescue the royal Pamera family.  Each level is split into two parts: an action zone and a Royal Palace room.  Action zones can be split up into several portions, and contain power-ups, such as money bags, Mighty Coins, and Mighty Drinks, usually hidden in treasure chests.  Mighty Coins allow Jack to change colors, and Mighty Drinks add 10 seconds to the game's timer.",
+  "release_date_on_eshop": "2012-12-06",
+  "product_code": "CTR-N-TAUE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

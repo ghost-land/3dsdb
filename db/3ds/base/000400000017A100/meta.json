@@ -1,27 +1,27 @@
 {
-    "tid": "000400000017A100",
-    "uid": "50010000038757",
-    "name": "Radiohammer",
-    "formal_name": "Radiohammer",
-    "description": "Rock the beat with Radiohammer in this rhythm action romp developed by Arc System Works and Vinyl Lab! Play as the world’s most famous super DJs and protect the peace with the power of love and music! Drop the beat on the bad guys as you shuck and jive your way through hordes of the morally maligned! Time your strikes to make the world a safer, funkier place with your superior sonic skills and impeccable rhythm. Take down massive villains and fend off furious flashers with groovy tunes and masterful mixes.",
-    "release_date_on_eshop": "2015-12-10",
-    "product_code": "CTR-N-KRHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Music"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000017A100",
+  "uid": "50010000038757",
+  "name": "Radiohammer",
+  "formal_name": "Radiohammer",
+  "description": "Rock the beat with Radiohammer in this rhythm action romp developed by Arc System Works and Vinyl Lab! Play as the world’s most famous super DJs and protect the peace with the power of love and music! Drop the beat on the bad guys as you shuck and jive your way through hordes of the morally maligned! Time your strikes to make the world a safer, funkier place with your superior sonic skills and impeccable rhythm. Take down massive villains and fend off furious flashers with groovy tunes and masterful mixes.",
+  "release_date_on_eshop": "2015-12-10",
+  "product_code": "CTR-N-KRHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Music"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000088800",
-    "uid": "50010000009806",
-    "name": "Dragon Crystal™",
-    "formal_name": "Dragon Crystal™",
-    "description": "Imagine a glowing magic crystal. As\nyou gaze into it, an intense force pulls\nyou in and causes a blackout. You\npinch yourself. But you don't wake\nup. You're caught in a fantastic world\nof unearthly beauty and deadly\ndemons. Here, countless evil forces\nconfront you. Your only ally is your\nloyal pet dragon.<br>\n<br>\nBlaze a trail through the treacherous\nlabyrinths of four magic kingdoms -\ncollecting weapons, armour, magic\nbooks, potions, rods and rings as you\ngo. Fend off enormous insects,\nmonstrous centipedes and sneaky\nsand sharks.<br>\n<br>\nPass through 30 worlds in search of\nthe Magic Goblet. There's no way out\nof this musical nightmare...until you\nfind it.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-GABP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000088800",
+  "uid": "50010000009806",
+  "name": "Dragon Crystal™",
+  "formal_name": "Dragon Crystal™",
+  "description": "Imagine a glowing magic crystal. As\nyou gaze into it, an intense force pulls\nyou in and causes a blackout. You\npinch yourself. But you don't wake\nup. You're caught in a fantastic world\nof unearthly beauty and deadly\ndemons. Here, countless evil forces\nconfront you. Your only ally is your\nloyal pet dragon.<br>\n<br>\nBlaze a trail through the treacherous\nlabyrinths of four magic kingdoms -\ncollecting weapons, armour, magic\nbooks, potions, rods and rings as you\ngo. Fend off enormous insects,\nmonstrous centipedes and sneaky\nsand sharks.<br>\n<br>\nPass through 30 worlds in search of\nthe Magic Goblet. There's no way out\nof this musical nightmare...until you\nfind it.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-GABP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

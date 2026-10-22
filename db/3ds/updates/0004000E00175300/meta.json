@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E00175300",
-    "uid": "50010000041554",
-    "name": "Metroid™ Prime: Blast Ball:\nUpdate",
-    "formal_name": "Metroid™ Prime: Blast Ball:\n<br>Update",
-    "description": "An update for \"Metroid™ Prime: Blast Ball\" is now available from Nintendo eShop.\n<br>\n<br>All customers who own a copy of “Metroid™ Prime: Blast Ball” should download the update.\n<br>\n<br>This will update the software to Version 1.1.0 with the following amendments:\n<br>\n<br>- Various bugs have been fixed in order to provide a smoother gaming experience.\n<br>\n<br>• Once the update has been downloaded, it will be installed automatically.\n<br>\n<br>We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.",
-    "release_date_on_eshop": "2016-09-15",
-    "product_code": "CTR-U-JA5P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00175300",
+  "uid": "50010000041554",
+  "name": "Metroid™ Prime: Blast Ball:\nUpdate",
+  "formal_name": "Metroid™ Prime: Blast Ball:\n<br>Update",
+  "description": "An update for \"Metroid™ Prime: Blast Ball\" is now available from Nintendo eShop.\n<br>\n<br>All customers who own a copy of “Metroid™ Prime: Blast Ball” should download the update.\n<br>\n<br>This will update the software to Version 1.1.0 with the following amendments:\n<br>\n<br>- Various bugs have been fixed in order to provide a smoother gaming experience.\n<br>\n<br>• Once the update has been downloaded, it will be installed automatically.\n<br>\n<br>We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.",
+  "release_date_on_eshop": "2016-09-15",
+  "product_code": "CTR-U-JA5P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

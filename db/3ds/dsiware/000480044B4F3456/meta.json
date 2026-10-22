@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4F3456",
-    "uid": "50010000004624",
-    "name": "Oscar in\nMovieland",
-    "formal_name": "Oscar in\nMovieland",
-    "description": "The Legendary, Oscar in Movieland\nnow on DSiWare.Following his mega\nsuccessful Oscar in Toyland\nescapades, Oscar now plays the\nleading actor in sensational worlds of\nhit movies and TV shows. From Sci Fi\nto Cartoon, Western to War, Horror to\nJurassic and a zany Game show host,\nthis is a game not to be missed. Oscar\nin Movieland pushes the DSiWare to\nnew limits with eye popping graphics,\nparallax scrolling backgrounds and\nfabulous gameplay. This platformer is\npacked with hours of fun and non-stop\naction.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KO4V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4F3456",
+  "uid": "50010000004624",
+  "name": "Oscar in\nMovieland",
+  "formal_name": "Oscar in\nMovieland",
+  "description": "The Legendary, Oscar in Movieland\nnow on DSiWare.Following his mega\nsuccessful Oscar in Toyland\nescapades, Oscar now plays the\nleading actor in sensational worlds of\nhit movies and TV shows. From Sci Fi\nto Cartoon, Western to War, Horror to\nJurassic and a zany Game show host,\nthis is a game not to be missed. Oscar\nin Movieland pushes the DSiWare to\nnew limits with eye popping graphics,\nparallax scrolling backgrounds and\nfabulous gameplay. This platformer is\npacked with hours of fun and non-stop\naction.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KO4V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

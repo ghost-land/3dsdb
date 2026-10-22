@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B424D56",
-    "uid": "50010000002385",
-    "name": "Boom Boom Squaries",
-    "formal_name": "Boom Boom Squaries",
-    "description": "Furries are cute beings that enjoy\nrolling around in the sun all day long.\nBut stone-cold Squaries, hating\neverything that is round and fluffy,\nattack! Now it is up to you to create\nchain reactions that will pop the\ninvaders. Prove your skill in 4\ndifferent game modes: CLASSIC,\nCHALLENGE, TIME TRIAL and\nENDLESS. Use Squaries' special\nabilities like gravity, air blast and\nsplit to plan your blasts for maximum\nefficiency!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KBMV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B424D56",
+  "uid": "50010000002385",
+  "name": "Boom Boom Squaries",
+  "formal_name": "Boom Boom Squaries",
+  "description": "Furries are cute beings that enjoy\nrolling around in the sun all day long.\nBut stone-cold Squaries, hating\neverything that is round and fluffy,\nattack! Now it is up to you to create\nchain reactions that will pop the\ninvaders. Prove your skill in 4\ndifferent game modes: CLASSIC,\nCHALLENGE, TIME TRIAL and\nENDLESS. Use Squaries' special\nabilities like gravity, air blast and\nsplit to plan your blasts for maximum\nefficiency!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KBMV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

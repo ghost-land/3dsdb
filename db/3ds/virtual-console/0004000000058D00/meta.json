@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000058D00",
-    "uid": "50010000014623",
-    "name": "The Legend of Zelda™:\nOracle of Seasons",
-    "formal_name": "The Legend of Zelda™:\nOracle of Seasons",
-    "description": "Onox, the General of Darkness, has\nimprisoned the Oracle of Seasons to\ndrain life from the land. Link must\ncontrol the seasons themselves to\nturn the tide of evil!\n<br/><br/>\nChange seasons at will – like\nconjuring winter to cross rivers - to\nsolve puzzles and explore the land.\nBefriend animals to aid you, collect\nmysterious rings and conquer eight\ndungeons to recover the Essences of\nNature.\n<br/><br/>\nPlus - link with The Legend of\nZelda™: Oracle of Ages via\npasswords to conclude your quest.\nUnlock secrets in both games, carry\nover items and reveal the ultimate\nboss battle!",
-    "release_date_on_eshop": "2013-05-30",
-    "product_code": "CTR-N-QACP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000058D00",
+  "uid": "50010000014623",
+  "name": "The Legend of Zelda™:\nOracle of Seasons",
+  "formal_name": "The Legend of Zelda™:\nOracle of Seasons",
+  "description": "Onox, the General of Darkness, has\nimprisoned the Oracle of Seasons to\ndrain life from the land. Link must\ncontrol the seasons themselves to\nturn the tide of evil!\n<br/><br/>\nChange seasons at will – like\nconjuring winter to cross rivers - to\nsolve puzzles and explore the land.\nBefriend animals to aid you, collect\nmysterious rings and conquer eight\ndungeons to recover the Essences of\nNature.\n<br/><br/>\nPlus - link with The Legend of\nZelda™: Oracle of Ages via\npasswords to conclude your quest.\nUnlock secrets in both games, carry\nover items and reveal the ultimate\nboss battle!",
+  "release_date_on_eshop": "2013-05-30",
+  "product_code": "CTR-N-QACP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

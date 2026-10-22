@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B4E5945",
-    "uid": "50010000013293",
-    "name": "Moke Moke",
-    "formal_name": "Moke Moke",
-    "description": "Take control of a Moke forest creature and compete in a series of frantic 4 player head-to-head games to see who can collect the most treasure scattered throughout the forest. \n<br><br>\nFlap around the forest picking up treasure and taking it to the goal as fast as you can. The Moke who retrieves the most treasure before the time runs out is the winner. Use your attack to fend off other rival Moke and to also steal their treasure.\n<br><Br>\nAll games are played with four Moke at once with the CPU taking the role of the other Moke in Single Player. In Multiplayer, up to 4 friends can go head-to-head via DS Wireless Communications. \n<br><Br>\nChoose from a host of different game rules, levels and settings to create dozens of different game variations. Players can also compete in Battle Cup competitions that contain various mixes of game rules for each round.",
-    "release_date_on_eshop": "2013-02-14",
-    "product_code": "TWL-N-KNYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Multiplayer",
-        "Platformer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4E5945",
+  "uid": "50010000013293",
+  "name": "Moke Moke",
+  "formal_name": "Moke Moke",
+  "description": "Take control of a Moke forest creature and compete in a series of frantic 4 player head-to-head games to see who can collect the most treasure scattered throughout the forest. \n<br><br>\nFlap around the forest picking up treasure and taking it to the goal as fast as you can. The Moke who retrieves the most treasure before the time runs out is the winner. Use your attack to fend off other rival Moke and to also steal their treasure.\n<br><Br>\nAll games are played with four Moke at once with the CPU taking the role of the other Moke in Single Player. In Multiplayer, up to 4 friends can go head-to-head via DS Wireless Communications. \n<br><Br>\nChoose from a host of different game rules, levels and settings to create dozens of different game variations. Players can also compete in Battle Cup competitions that contain various mixes of game rules for each round.",
+  "release_date_on_eshop": "2013-02-14",
+  "product_code": "TWL-N-KNYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Multiplayer",
+    "Platformer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4D4845",
-    "uid": "50010000002861",
-    "name": "myPostcards™",
-    "formal_name": "myPostcards™",
-    "description": "Create your own postcards and send them to your friends! With myPostcards, you can take a picture, write a quick note on it, then save everything as a postcard. To do this, simply open your Nintendo DSi system, take a photo and go! You can even customize your postcards by changing the background using 32 themes to start with, plus unlockables and various collectible stamps. You can then create postcards for all occasions. Use the pen or pencil tools to write or draw, then erase what you do not like. And thanks to the five different inks, you'll have something to give color to your words and your drawings.",
-    "release_date_on_eshop": "2010-04-19",
-    "product_code": "TWL-N-KMHE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4845",
+  "uid": "50010000002861",
+  "name": "myPostcards™",
+  "formal_name": "myPostcards™",
+  "description": "Create your own postcards and send them to your friends! With myPostcards, you can take a picture, write a quick note on it, then save everything as a postcard. To do this, simply open your Nintendo DSi system, take a photo and go! You can even customize your postcards by changing the background using 32 themes to start with, plus unlockables and various collectible stamps. You can then create postcards for all occasions. Use the pen or pencil tools to write or draw, then erase what you do not like. And thanks to the five different inks, you'll have something to give color to your words and your drawings.",
+  "release_date_on_eshop": "2010-04-19",
+  "product_code": "TWL-N-KMHE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

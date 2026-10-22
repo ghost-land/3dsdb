@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001DDD00",
-    "uid": "50010000048715",
-    "name": "Little Sheep",
-    "formal_name": "Little Sheep",
-    "description": "Little Sheep is on a butterfly catching adventure!  Help our fluffy little hero explore the infinite gardens, outfox Foxster, and become the world's best butterfly catcher.\n<br>\n<br>This story driven quest explores the themes of grit, hard work, and perseverance in achieving your goals.",
-    "release_date_on_eshop": "2020-08-27",
-    "product_code": "CTR-N-K95E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001DDD00",
+  "uid": "50010000048715",
+  "name": "Little Sheep",
+  "formal_name": "Little Sheep",
+  "description": "Little Sheep is on a butterfly catching adventure!  Help our fluffy little hero explore the infinite gardens, outfox Foxster, and become the world's best butterfly catcher.\n<br>\n<br>This story driven quest explores the themes of grit, hard work, and perseverance in achieving your goals.",
+  "release_date_on_eshop": "2020-08-27",
+  "product_code": "CTR-N-K95E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

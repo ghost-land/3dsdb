@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000193D00",
-    "uid": "50010000039902",
-    "name": "Japanese Rail Sim 3D\nJourney in suburbs #1 Vol. 2",
-    "formal_name": "Japanese Rail Sim 3D\nJourney in suburbs #1 Vol. 2",
-    "description": "When you start, wherever you are becomes the driver's seat!\nAll aboard for a delightful train ride with simple controls!\n<br><br>\nA journey by local rail through Gifu prefecture, located in the center of the Japanese archipelago.\n<br><br>\nIn the second volume, you'll drive from Minoshi Station to Minami Kariyasu Station.\n<br><br>\nEnjoy powerful 3D visuals that give you a precious \"driver's view of the scenery,\" captured thanks to railway company cooperation!",
-    "release_date_on_eshop": "2016-03-24",
-    "product_code": "CTR-N-KJPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000193D00",
+  "uid": "50010000039902",
+  "name": "Japanese Rail Sim 3D\nJourney in suburbs #1 Vol. 2",
+  "formal_name": "Japanese Rail Sim 3D\nJourney in suburbs #1 Vol. 2",
+  "description": "When you start, wherever you are becomes the driver's seat!\nAll aboard for a delightful train ride with simple controls!\n<br><br>\nA journey by local rail through Gifu prefecture, located in the center of the Japanese archipelago.\n<br><br>\nIn the second volume, you'll drive from Minoshi Station to Minami Kariyasu Station.\n<br><br>\nEnjoy powerful 3D visuals that give you a precious \"driver's view of the scenery,\" captured thanks to railway company cooperation!",
+  "release_date_on_eshop": "2016-03-24",
+  "product_code": "CTR-N-KJPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

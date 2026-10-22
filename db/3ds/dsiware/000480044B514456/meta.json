@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B514456",
-    "uid": "50010000006062",
-    "name": "Music on: Drums",
-    "formal_name": "Music on: Drums",
-    "description": "The definitive beatbox for creating\nsongs and rhythms!<br>\n<br>\nWith a library of 160 sounds, use\nyour creative skills to assign them to\neach of the 8 tracks available per\npattern, activate or deactivate each of\nthe 16 steps that make up a track\nusing the buttons or the stylus, and\ncombine the 8 patterns to compose up\nto 64 songs.<br>\n<br>\nLike a professional DJ, create and\nplay in real time!<br>\n<br>\n\"Music on: Drums\" includes a\npre-recorded Song.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KQDV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514456",
+  "uid": "50010000006062",
+  "name": "Music on: Drums",
+  "formal_name": "Music on: Drums",
+  "description": "The definitive beatbox for creating\nsongs and rhythms!<br>\n<br>\nWith a library of 160 sounds, use\nyour creative skills to assign them to\neach of the 8 tracks available per\npattern, activate or deactivate each of\nthe 16 steps that make up a track\nusing the buttons or the stylus, and\ncombine the 8 patterns to compose up\nto 64 songs.<br>\n<br>\nLike a professional DJ, create and\nplay in real time!<br>\n<br>\n\"Music on: Drums\" includes a\npre-recorded Song.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KQDV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

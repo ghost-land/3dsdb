@@ -1,37 +1,37 @@
 {
-    "tid": "000400000012CB00",
-    "uid": "50010000027035",
-    "name": "Shovel Knight: Treasure Trove",
-    "formal_name": "Shovel Knight: Treasure Trove",
-    "description": "Shovel Knight: Treasure Trove is the full and complete edition of Shovel Knight, a sweeping classic action-adventure game series with awesome gameplay, memorable characters, and an 8-bit retro aesthetic! Run, jump, and battle as Shovel Knight, wielder of the Shovel Blade, in a quest for his lost beloved. Take down the nefarious knights of the Order of No Quarter and confront their menacing leader, The Enchantress.\n<br>\n<br>But that’s not everything! Shovel Knight: Treasure Trove also features four additional games all unto themselves! Take control of Plague Knight, Specter Knight, and King Knight on adventures of their own. Together, they form a grand and sweeping saga!\n<br>\n<br>With Shovel Knight: Treasure Trove, you get it all. Play with a friend in Shovel of Hope's cooperative campaign, test your mettle in full-featured challenge modes, and change the game with Body Swap mode. Uphold the virtues of Shovelry, earn relics and riches, and discover the true meaning of shovel justice!\n<br>\n<br>Includes:\n<br>Shovel Knight: Shovel of Hope – Steel your Shovel Blade and start digging through the adventure that started it all! Jump, battle foes, and discover treasures as you quest to defeat the Order of No Quarter and their vile leader, The Enchantress.\n<br>\n<br>Shovel Knight: Plague of Shadows – Prime your potions and become the maniacal alchemist Plague Knight in his adventure to brew the ultimate potion! Combine bomb parts to create custom combinations, discover new items, areas and bosses, and maybe even discover a bubbling romance.\n<br>\n<br>Shovel Knight: Specter of Torment – Summon your scythe in the prequel to Shovel Knight! Take control of Specter Knight to dash through completely redesigned levels by climbing walls, mastering a new arsenal of weapons, and slashing your foes to ribbons. Become the reaper, discover your melancholy past, and recruit the Order of No Quarter!\n<br>\n<br>Shovel Knight: King of Cards - Step into the gilded boots of King Knight in the biggest and most regal Shovel Knight game of them all! Leap, Shoulder Bash, gather new subjects, and strategize your way through this prequel in your quest to become King of Cards!<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2014-11-06",
-    "product_code": "CTR-N-JK8P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v7.7.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012CB00",
+  "uid": "50010000027035",
+  "name": "Shovel Knight: Treasure Trove",
+  "formal_name": "Shovel Knight: Treasure Trove",
+  "description": "Shovel Knight: Treasure Trove is the full and complete edition of Shovel Knight, a sweeping classic action-adventure game series with awesome gameplay, memorable characters, and an 8-bit retro aesthetic! Run, jump, and battle as Shovel Knight, wielder of the Shovel Blade, in a quest for his lost beloved. Take down the nefarious knights of the Order of No Quarter and confront their menacing leader, The Enchantress.\n<br>\n<br>But that’s not everything! Shovel Knight: Treasure Trove also features four additional games all unto themselves! Take control of Plague Knight, Specter Knight, and King Knight on adventures of their own. Together, they form a grand and sweeping saga!\n<br>\n<br>With Shovel Knight: Treasure Trove, you get it all. Play with a friend in Shovel of Hope's cooperative campaign, test your mettle in full-featured challenge modes, and change the game with Body Swap mode. Uphold the virtues of Shovelry, earn relics and riches, and discover the true meaning of shovel justice!\n<br>\n<br>Includes:\n<br>Shovel Knight: Shovel of Hope – Steel your Shovel Blade and start digging through the adventure that started it all! Jump, battle foes, and discover treasures as you quest to defeat the Order of No Quarter and their vile leader, The Enchantress.\n<br>\n<br>Shovel Knight: Plague of Shadows – Prime your potions and become the maniacal alchemist Plague Knight in his adventure to brew the ultimate potion! Combine bomb parts to create custom combinations, discover new items, areas and bosses, and maybe even discover a bubbling romance.\n<br>\n<br>Shovel Knight: Specter of Torment – Summon your scythe in the prequel to Shovel Knight! Take control of Specter Knight to dash through completely redesigned levels by climbing walls, mastering a new arsenal of weapons, and slashing your foes to ribbons. Become the reaper, discover your melancholy past, and recruit the Order of No Quarter!\n<br>\n<br>Shovel Knight: King of Cards - Step into the gilded boots of King Knight in the biggest and most regal Shovel Knight game of them all! Leap, Shoulder Bash, gather new subjects, and strategize your way through this prequel in your quest to become King of Cards!<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2014-11-06",
+  "product_code": "CTR-N-JK8P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v7.7.0",
+  "disclaimer": null,
+  "descriptors": []
 }

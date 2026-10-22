@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000158600",
-    "uid": "50010000031055",
-    "name": "Titan Attacks!",
-    "formal_name": "Titan Attacks!",
-    "description": "Single-handedly turn back the evil invading Titan army! Drive back the aliens across the Solar System, and finally defeat them on their homeworld in this modern remix of classic arcade shoot'em'ups.\n<BR><BR>\nTitan Attacks! has the same easy-to-learn but hard-to-master gameplay of classic arcade shooters, but is packed full of new features, new strategies, and stylish neo-retro visuals. \n<BR><BR>\nBATTLE swarms of alien fighters, bombers and giant boss motherships over 5 unique worlds and 100 levels of frantic action!\n<BR><BR>\nFIGHT the Titan Invasion across the Earth, the Moon, Mars, Saturn and finally Titan itself!\n<BR><BR>\nEARN bounty money and upgrade your ship with new weapons and powers!\n<BR><BR>\nDESTROY falling wrecks, dodge hurtling asteroids and capture escaping aliens - or blast them from the skies! \n<BR><BR>\nWIN prizes in sharp-shooter challenge stages and compete with other players for a place on the online leaderboards!",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-N-KTTE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Fighting"
-    ],
-    "features": [
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000158600",
+  "uid": "50010000031055",
+  "name": "Titan Attacks!",
+  "formal_name": "Titan Attacks!",
+  "description": "Single-handedly turn back the evil invading Titan army! Drive back the aliens across the Solar System, and finally defeat them on their homeworld in this modern remix of classic arcade shoot'em'ups.\n<BR><BR>\nTitan Attacks! has the same easy-to-learn but hard-to-master gameplay of classic arcade shooters, but is packed full of new features, new strategies, and stylish neo-retro visuals. \n<BR><BR>\nBATTLE swarms of alien fighters, bombers and giant boss motherships over 5 unique worlds and 100 levels of frantic action!\n<BR><BR>\nFIGHT the Titan Invasion across the Earth, the Moon, Mars, Saturn and finally Titan itself!\n<BR><BR>\nEARN bounty money and upgrade your ship with new weapons and powers!\n<BR><BR>\nDESTROY falling wrecks, dodge hurtling asteroids and capture escaping aliens - or blast them from the skies! \n<BR><BR>\nWIN prizes in sharp-shooter challenge stages and compete with other players for a place on the online leaderboards!",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-N-KTTE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Fighting"
+  ],
+  "features": [
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

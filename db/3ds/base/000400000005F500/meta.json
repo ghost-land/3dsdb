@@ -1,33 +1,33 @@
 {
-    "tid": "000400000005F500",
-    "uid": "50010000009042",
-    "name": "Gabrielle's Ghostly\nGroove 3D",
-    "formal_name": "Gabrielle's Ghostly\n<br>Groove 3D",
-    "description": "Terror Up the Dance Floor!\n<br><br/><br/>\n<br>Poor Gabrielle sneezed her soul right\n<br>out of her body, and only the ghouls\n<br>and ghosts of Monsterville can help!\n<br>She’ll need to bust out her best dance\n<br>moves to get herself back into her\n<br>body. It’s a spooktacular rhythm\n<br>adventure!\n<br><br/><br/>\n<br>Catchy tunes will have you tapping,\n<br>sliding, and flicking in time to the\n<br>music!\n<br><br/><br/>\n<br>Unlock chilling minigames!\n<br><br/><br/>\n<br>Earn tons of terror-ific outfits, items,\n<br>and more!",
-    "release_date_on_eshop": "2013-10-24",
-    "product_code": "CTR-P-AG3P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Platformer",
-        "Music",
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005F500",
+  "uid": "50010000009042",
+  "name": "Gabrielle's Ghostly\nGroove 3D",
+  "formal_name": "Gabrielle's Ghostly\n<br>Groove 3D",
+  "description": "Terror Up the Dance Floor!\n<br><br/><br/>\n<br>Poor Gabrielle sneezed her soul right\n<br>out of her body, and only the ghouls\n<br>and ghosts of Monsterville can help!\n<br>She’ll need to bust out her best dance\n<br>moves to get herself back into her\n<br>body. It’s a spooktacular rhythm\n<br>adventure!\n<br><br/><br/>\n<br>Catchy tunes will have you tapping,\n<br>sliding, and flicking in time to the\n<br>music!\n<br><br/><br/>\n<br>Unlock chilling minigames!\n<br><br/><br/>\n<br>Earn tons of terror-ific outfits, items,\n<br>and more!",
+  "release_date_on_eshop": "2013-10-24",
+  "product_code": "CTR-P-AG3P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Platformer",
+    "Music",
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

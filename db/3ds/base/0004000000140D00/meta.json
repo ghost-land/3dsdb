@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000140D00",
-    "uid": "50010000024515",
-    "name": "Outback Pet Rescue 3D",
-    "formal_name": "Outback Pet Rescue 3D",
-    "description": "Welcome to the Outback! It´s your job to nurture and love the wild animals of Australia and bring them back to health. Treat sick and injured animals on site or bring them back to your station. Take your Jeep and drive out to care for helpless animals on the spot. Find lost baby animals and care for them until you can return them to the wild.\n<br>\n<br>- Pack up for an exciting 3D adventure in Australia – the animals of the Outback need you!\n<br>\n<br>- Care for wild and exotic animals: Kangaroos, Koalas, Numbats, Wombats, Dingoes, Wild Horses and more!\n<br>\n<br>- A broad range of tasks is waiting for you: cure ill animals, rescue abandoned animal babies, pamper them and much more.\n<br>\n<br>- Use the money you earn to expand your animal station.\n<br>\n<br>- Collect Play Coins to change them into ingame currency.\n<br>\n<br>- Supports Circle Pad controls of your Nintendo 3DS™.",
-    "release_date_on_eshop": "2014-08-28",
-    "product_code": "CTR-P-BM4P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Education",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000140D00",
+  "uid": "50010000024515",
+  "name": "Outback Pet Rescue 3D",
+  "formal_name": "Outback Pet Rescue 3D",
+  "description": "Welcome to the Outback! It´s your job to nurture and love the wild animals of Australia and bring them back to health. Treat sick and injured animals on site or bring them back to your station. Take your Jeep and drive out to care for helpless animals on the spot. Find lost baby animals and care for them until you can return them to the wild.\n<br>\n<br>- Pack up for an exciting 3D adventure in Australia – the animals of the Outback need you!\n<br>\n<br>- Care for wild and exotic animals: Kangaroos, Koalas, Numbats, Wombats, Dingoes, Wild Horses and more!\n<br>\n<br>- A broad range of tasks is waiting for you: cure ill animals, rescue abandoned animal babies, pamper them and much more.\n<br>\n<br>- Use the money you earn to expand your animal station.\n<br>\n<br>- Collect Play Coins to change them into ingame currency.\n<br>\n<br>- Supports Circle Pad controls of your Nintendo 3DS™.",
+  "release_date_on_eshop": "2014-08-28",
+  "product_code": "CTR-P-BM4P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Education",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

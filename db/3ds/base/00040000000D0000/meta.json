@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000D0000",
-    "uid": "50010000014973",
-    "name": "路易吉洋樓２",
-    "formal_name": "路易吉洋樓２",
-    "description": "因為鬼怪大王害羞幽靈王破壞懸浮於溪谷的不可思議物體「暗月」，在「鬼怪溪谷」與鬼怪研究專家哎唷・喂博士維持著良好關係，一起生活著的鬼怪們突然變得狂暴。\n它們開始到處搗蛋。而被強迫四處調查事件的是瑪利歐的弟弟路易吉。\n路易吉能否捕捉愛搗蛋的鬼怪們，恢復「鬼怪溪谷」的和平!?",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AGGW",
-    "platform_name": "Nintendo 3DS 盒裝",
-    "region": "Taiwan",
-    "genres": [
-        "動作"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應下載遊戲"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D0000",
+  "uid": "50010000014973",
+  "name": "路易吉洋樓２",
+  "formal_name": "路易吉洋樓２",
+  "description": "因為鬼怪大王害羞幽靈王破壞懸浮於溪谷的不可思議物體「暗月」，在「鬼怪溪谷」與鬼怪研究專家哎唷・喂博士維持著良好關係，一起生活著的鬼怪們突然變得狂暴。\n它們開始到處搗蛋。而被強迫四處調查事件的是瑪利歐的弟弟路易吉。\n路易吉能否捕捉愛搗蛋的鬼怪們，恢復「鬼怪溪谷」的和平!?",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AGGW",
+  "platform_name": "Nintendo 3DS 盒裝",
+  "region": "Taiwan",
+  "genres": [
+    "動作"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應下載遊戲"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

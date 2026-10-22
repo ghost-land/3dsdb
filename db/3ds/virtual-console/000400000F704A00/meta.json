@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F704A00",
-    "uid": "50010000041346",
-    "name": "Mega Man™ X3",
-    "formal_name": "Mega Man™ X3",
-    "description": "Just when it seemed like a cure for the Reploids had been found, suddenly the once-peaceful robots are turning back into rogue Mavericks. As Maverick Hunters, Mega Man X and Zero spring into action.\n<br>\n<br>Mega Man X3 is the final chapter of the series on Super Nintendo. Play as Mega Man X or, for the first time, as Zero who has even more powerful weaponry. In addition to the classic run-and-gun gameplay, collect armour and new Enhancement Chips to upgrade your abilities further. Do you have the skills to fight this latest outbreak?\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-08-11",
-    "product_code": "KTR-N-UA5E",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F704A00",
+  "uid": "50010000041346",
+  "name": "Mega Man™ X3",
+  "formal_name": "Mega Man™ X3",
+  "description": "Just when it seemed like a cure for the Reploids had been found, suddenly the once-peaceful robots are turning back into rogue Mavericks. As Maverick Hunters, Mega Man X and Zero spring into action.\n<br>\n<br>Mega Man X3 is the final chapter of the series on Super Nintendo. Play as Mega Man X or, for the first time, as Zero who has even more powerful weaponry. In addition to the classic run-and-gun gameplay, collect armour and new Enhancement Chips to upgrade your abilities further. Do you have the skills to fight this latest outbreak?\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-08-11",
+  "product_code": "KTR-N-UA5E",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

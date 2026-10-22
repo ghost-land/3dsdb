@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4B5245",
-    "uid": "50010000010766",
-    "name": "Flip the Core",
-    "formal_name": "Flip the Core",
-    "description": "Before the Big Bang shaped the universe as we know it, a place existed with fewer dimensions than we have today. It is there that our hero's journey began. Carrying with him a special device that allowed him to flip between these flat dimensions...\n\nFlip the Core is an artistic and unique take on the classic Shoot 'em up genre and combines fast shooting action with strategic thinking. In this side-scrolling action game, you can literally flip your screen at will, changing walls into tunnels, a death trap into a passage way, move an enemy from one spot to the next...Unless you truly believe in dead ends...there are none.",
-    "release_date_on_eshop": "2012-06-28",
-    "product_code": "TWL-N-KKRE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B5245",
+  "uid": "50010000010766",
+  "name": "Flip the Core",
+  "formal_name": "Flip the Core",
+  "description": "Before the Big Bang shaped the universe as we know it, a place existed with fewer dimensions than we have today. It is there that our hero's journey began. Carrying with him a special device that allowed him to flip between these flat dimensions...\n\nFlip the Core is an artistic and unique take on the classic Shoot 'em up genre and combines fast shooting action with strategic thinking. In this side-scrolling action game, you can literally flip your screen at will, changing walls into tunnels, a death trap into a passage way, move an enemy from one spot to the next...Unless you truly believe in dead ends...there are none.",
+  "release_date_on_eshop": "2012-06-28",
+  "product_code": "TWL-N-KKRE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

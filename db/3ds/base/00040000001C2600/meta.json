@@ -1,35 +1,35 @@
 {
-    "tid": "00040000001C2600",
-    "uid": "50010000042960",
-    "name": "Nintendo presents: \n<br>New Style Boutique™ 3",
-    "formal_name": "Nintendo presents: \n<br>New Style Boutique™ 3 – Styling Star",
-    "description": "As an aspiring fashionista with big dreams, take charge of a struggling boutique, transform its fortunes and become the hottest, most influential stylist on the scene.\n<br>\n<br>Customers will swing by your stylish store to get advice on the hottest new fashions. Listen to their requests, then share your trendiest tips to help them find the perfect look. Whether it’s a dress for a date or a coat for a crucial job interview, you’ll need to pick out the right outfit for the right situation!\n<br>\n<br>Before you know it, you’ll be styling the stars of tomorrow! Work with Ethan, the founder of a top talent agency, to pioneer brave new looks for the rising stars of the music industry.\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-11-24",
-    "product_code": "CTR-P-AJBP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Simulation"
-    ],
-    "features": [
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C2600",
+  "uid": "50010000042960",
+  "name": "Nintendo presents: \n<br>New Style Boutique™ 3",
+  "formal_name": "Nintendo presents: \n<br>New Style Boutique™ 3 – Styling Star",
+  "description": "As an aspiring fashionista with big dreams, take charge of a struggling boutique, transform its fortunes and become the hottest, most influential stylist on the scene.\n<br>\n<br>Customers will swing by your stylish store to get advice on the hottest new fashions. Listen to their requests, then share your trendiest tips to help them find the perfect look. Whether it’s a dress for a date or a coat for a crucial job interview, you’ll need to pick out the right outfit for the right situation!\n<br>\n<br>Before you know it, you’ll be styling the stars of tomorrow! Work with Ethan, the founder of a top talent agency, to pioneer brave new looks for the rising stars of the music industry.\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-11-24",
+  "product_code": "CTR-P-AJBP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Simulation"
+  ],
+  "features": [
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

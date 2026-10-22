@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000195000",
-    "uid": "50010000039875",
-    "name": "RV-7 マイ・ドローン",
-    "formal_name": "RV-7 マイ・ドローン",
-    "description": "『RV-7 マイ・ドローン』は、ドローンを操作して災害救助や防衛などのミッションをこなしていくアクションゲームです。6つのフィールドに各6種のミッションがあり、合計36ステージを収録しております。",
-    "release_date_on_eshop": "2016-03-30",
-    "product_code": "CTR-N-KVRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000195000",
+  "uid": "50010000039875",
+  "name": "RV-7 マイ・ドローン",
+  "formal_name": "RV-7 マイ・ドローン",
+  "description": "『RV-7 マイ・ドローン』は、ドローンを操作して災害救助や防衛などのミッションをこなしていくアクションゲームです。6つのフィールドに各6種のミッションがあり、合計36ステージを収録しております。",
+  "release_date_on_eshop": "2016-03-30",
+  "product_code": "CTR-N-KVRJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000186E00",
-    "uid": "50010000041160",
-    "name": "Quest of Dungeons",
-    "formal_name": "Quest of Dungeons",
-    "description": "Download Quest of Dungeons on Nintendo 3DS™ for free if you have already downloaded Quest of Dungeons on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>Quest of Dungeons is a turn based dungeon crawler game, a roguelike featuring a good old 16-bit retro artistic look.\n<br>\n<br>An evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him.\n<br>\n<br>By playing as either a Warrior, a Wizard, a Assassin or a Shaman you have to traverse dungeons, defeat enemies and loot everything you can in order to survive. You can learn new skills in Tomes you find along the way and buy/sell items at shops.\n<br>The entire game is procedural so you won't find items/enemies in the same place each time you play.\n<br>\n<br>Features:\n<br>Procedural dungeons\n<br>Procedural weapons\n<br>Boss encounters\n<br>Quests\n<br>4 Difficulty levels\n<br>Permadeath - Once you die, game over man, game over!\n<br>Shop - buy and sell items/weapons\n<br>Leaderboards - compare your Adventure points with the community",
-    "release_date_on_eshop": "2016-09-29",
-    "product_code": "CTR-N-KQDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000186E00",
+  "uid": "50010000041160",
+  "name": "Quest of Dungeons",
+  "formal_name": "Quest of Dungeons",
+  "description": "Download Quest of Dungeons on Nintendo 3DS™ for free if you have already downloaded Quest of Dungeons on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>Quest of Dungeons is a turn based dungeon crawler game, a roguelike featuring a good old 16-bit retro artistic look.\n<br>\n<br>An evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him.\n<br>\n<br>By playing as either a Warrior, a Wizard, a Assassin or a Shaman you have to traverse dungeons, defeat enemies and loot everything you can in order to survive. You can learn new skills in Tomes you find along the way and buy/sell items at shops.\n<br>The entire game is procedural so you won't find items/enemies in the same place each time you play.\n<br>\n<br>Features:\n<br>Procedural dungeons\n<br>Procedural weapons\n<br>Boss encounters\n<br>Quests\n<br>4 Difficulty levels\n<br>Permadeath - Once you die, game over man, game over!\n<br>Shop - buy and sell items/weapons\n<br>Leaderboards - compare your Adventure points with the community",
+  "release_date_on_eshop": "2016-09-29",
+  "product_code": "CTR-N-KQDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

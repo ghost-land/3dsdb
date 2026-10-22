@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001BBA00",
-    "uid": "50010000042493",
-    "name": "ザ・ゲーム１５",
-    "formal_name": "ザ・ゲーム１５",
-    "description": "電車や車での移動の間や学校や仕事の休憩時間など、\n<br>気軽にミニゲームをプレイできます。\n<br>ニンテンドー3DSのように持ち運びができるハードで配信すること\n<br>によってどこでもゲームを楽しむことができます。\n<br>現代の忙しいライフスタイルにマッチするゲームを目指しています。\n<br>値段も低価格に設定し、ユーザーさまがお求めやすくしています。",
-    "release_date_on_eshop": "2017-04-26",
-    "product_code": "CTR-N-J5GJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001BBA00",
+  "uid": "50010000042493",
+  "name": "ザ・ゲーム１５",
+  "formal_name": "ザ・ゲーム１５",
+  "description": "電車や車での移動の間や学校や仕事の休憩時間など、\n<br>気軽にミニゲームをプレイできます。\n<br>ニンテンドー3DSのように持ち運びができるハードで配信すること\n<br>によってどこでもゲームを楽しむことができます。\n<br>現代の忙しいライフスタイルにマッチするゲームを目指しています。\n<br>値段も低価格に設定し、ユーザーさまがお求めやすくしています。",
+  "release_date_on_eshop": "2017-04-26",
+  "product_code": "CTR-N-J5GJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

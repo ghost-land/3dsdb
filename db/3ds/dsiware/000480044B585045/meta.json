@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B585045",
-    "uid": "50010000009763",
-    "name": "90's Pool",
-    "formal_name": "90's Pool",
-    "description": "Chalk up a victory with classic 90’s Pool, a fun and realistic pool simulator which will keep you playing for hours! Compete against a human opponent or the computer, or play on your own in a campaign containing 20 different trick shot missions. The simple user interface lets you easily, but accurately, control the angle, speed and spin of the shot with your stylus. Three different skill levels for the computer-controlled player are available for advanced players, as well as a realistic physics engine for a stunningly realistic simulation. Set up your shot, crack the cue ball into the pack and enjoy the entertaining gameplay! Hey, you might even improve your actual pool game.",
-    "release_date_on_eshop": "2012-03-29",
-    "product_code": "TWL-N-KXPE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Board Game",
-        "Sports",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585045",
+  "uid": "50010000009763",
+  "name": "90's Pool",
+  "formal_name": "90's Pool",
+  "description": "Chalk up a victory with classic 90’s Pool, a fun and realistic pool simulator which will keep you playing for hours! Compete against a human opponent or the computer, or play on your own in a campaign containing 20 different trick shot missions. The simple user interface lets you easily, but accurately, control the angle, speed and spin of the shot with your stylus. Three different skill levels for the computer-controlled player are available for advanced players, as well as a realistic physics engine for a stunningly realistic simulation. Set up your shot, crack the cue ball into the pack and enjoy the entertaining gameplay! Hey, you might even improve your actual pool game.",
+  "release_date_on_eshop": "2012-03-29",
+  "product_code": "TWL-N-KXPE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Board Game",
+    "Sports",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

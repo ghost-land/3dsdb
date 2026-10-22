@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B545254",
-    "uid": "50010000006362",
-    "name": "Clubhouse Games™ Express: Card Classics",
-    "formal_name": "Clubhouse Games™ Express: Card Classics",
-    "description": "Clubhouse Games comes to DSiWare with a collection of five fun card games in Clubhouse Games Express: Card Classics. Play familiar favorites like Blackjack and Five Card Draw or test your ability in the fast-paced Last Card, Last Card Plus, and President. DS Download Play allows players to host as many as seven friends.\n",
-    "release_date_on_eshop": "2009-04-27",
-    "product_code": "TWL-N-KTRT",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game content was previously released as part of Clubhouse Games for Nintendo DS.",
-    "descriptors": []
+  "tid": "000480044B545254",
+  "uid": "50010000006362",
+  "name": "Clubhouse Games™ Express: Card Classics",
+  "formal_name": "Clubhouse Games™ Express: Card Classics",
+  "description": "Clubhouse Games comes to DSiWare with a collection of five fun card games in Clubhouse Games Express: Card Classics. Play familiar favorites like Blackjack and Five Card Draw or test your ability in the fast-paced Last Card, Last Card Plus, and President. DS Download Play allows players to host as many as seven friends.\n",
+  "release_date_on_eshop": "2009-04-27",
+  "product_code": "TWL-N-KTRT",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game content was previously released as part of Clubhouse Games for Nintendo DS.",
+  "descriptors": []
 }

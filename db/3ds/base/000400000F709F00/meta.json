@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F709F00",
-    "uid": "50010000042525",
-    "name": "Pixel Hunter",
-    "formal_name": "Pixel Hunter",
-    "description": "Pixel hunter is 3D side-scroller game, designed in Voxel and 8Bit style. The game is about a hunter, whose weapons were stolen by different animals. His only thought is to return them all. The main objective of the game is to go through the worlds such are:\n<br>\n<br>- Forest\n<br>- Mountain \n<br>- Arctic\n<br>- Volcano \n<br>- Beach \n<br>\n<br>During your trip you’ll meet with different enemies like: animals, birds, amphibians and fishes.  By the end of each level you have to fight with Boss, which will return you the stolen weapon. You are controlling the character with simple, retro style joystick buttons which are right on the device screen.\n<br>\n<br>Features:\n<br>\n<br>- Awesome 3D Voxel and 8bit graphics!\n<br>- Perfect mix of retro and modern game styles!\n<br>- 5 worlds with various environments and unique soundtracks per each!\n<br>- Epic fights with bosses at the end of each level!\n<br>- Multiple gameplays within one game (side-scroller, runner, boss fights)!\n<br>\n<br>If you like old style games than Pixel Hunter is for you.",
-    "release_date_on_eshop": "2017-05-11",
-    "product_code": "KTR-N-CAXP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F709F00",
+  "uid": "50010000042525",
+  "name": "Pixel Hunter",
+  "formal_name": "Pixel Hunter",
+  "description": "Pixel hunter is 3D side-scroller game, designed in Voxel and 8Bit style. The game is about a hunter, whose weapons were stolen by different animals. His only thought is to return them all. The main objective of the game is to go through the worlds such are:\n<br>\n<br>- Forest\n<br>- Mountain \n<br>- Arctic\n<br>- Volcano \n<br>- Beach \n<br>\n<br>During your trip you’ll meet with different enemies like: animals, birds, amphibians and fishes.  By the end of each level you have to fight with Boss, which will return you the stolen weapon. You are controlling the character with simple, retro style joystick buttons which are right on the device screen.\n<br>\n<br>Features:\n<br>\n<br>- Awesome 3D Voxel and 8bit graphics!\n<br>- Perfect mix of retro and modern game styles!\n<br>- 5 worlds with various environments and unique soundtracks per each!\n<br>- Epic fights with bosses at the end of each level!\n<br>- Multiple gameplays within one game (side-scroller, runner, boss fights)!\n<br>\n<br>If you like old style games than Pixel Hunter is for you.",
+  "release_date_on_eshop": "2017-05-11",
+  "product_code": "KTR-N-CAXP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

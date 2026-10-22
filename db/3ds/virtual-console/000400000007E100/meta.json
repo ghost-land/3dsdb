@@ -1,26 +1,26 @@
 {
-    "tid": "000400000007E100",
-    "uid": "50010000012032",
-    "name": "Quarth®",
-    "formal_name": "Quarth®",
-    "description": "Original Release Date: December 1990\nQuarth is the blockbuster puzzle challenge guaranteed to knock your socks off at a maddening, mind-numbing pace.  With a rain of bionic block patterns descending upon you, you must race back and forth in your powerful Block-buster ship destroying the blocks before they blow you up.  Stay alive and rake in points for every block you wipe out.  If you chalk up enough points to qualify, you'll charge into bonus games where it's you against the clock and the unstoppable blocks of Quarth.",
-    "release_date_on_eshop": "1990-12-01",
-    "product_code": "CTR-N-RBQE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000007E100",
+  "uid": "50010000012032",
+  "name": "Quarth®",
+  "formal_name": "Quarth®",
+  "description": "Original Release Date: December 1990\nQuarth is the blockbuster puzzle challenge guaranteed to knock your socks off at a maddening, mind-numbing pace.  With a rain of bionic block patterns descending upon you, you must race back and forth in your powerful Block-buster ship destroying the blocks before they blow you up.  Stay alive and rake in points for every block you wipe out.  If you chalk up enough points to qualify, you'll charge into bonus games where it's you against the clock and the unstoppable blocks of Quarth.",
+  "release_date_on_eshop": "1990-12-01",
+  "product_code": "CTR-N-RBQE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

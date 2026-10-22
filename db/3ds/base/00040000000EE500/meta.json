@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000EE500",
-    "uid": "50010000016521",
-    "name": "Starry☆Sky～in Winter～3D",
-    "formal_name": "Starry☆Sky～in Winter～3D",
-    "description": "『スタスカ』の世界を立体的に表現したことで、物語への没入感が高まりました。\n<br>\n<br>また、物語中にキャラクター達が語る星座を図解でわかりやすく解説した「スター･ナビ」モードを搭載するなど、おまけ要素も充実しています。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AX7J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EE500",
+  "uid": "50010000016521",
+  "name": "Starry☆Sky～in Winter～3D",
+  "formal_name": "Starry☆Sky～in Winter～3D",
+  "description": "『スタスカ』の世界を立体的に表現したことで、物語への没入感が高まりました。\n<br>\n<br>また、物語中にキャラクター達が語る星座を図解でわかりやすく解説した「スター･ナビ」モードを搭載するなど、おまけ要素も充実しています。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AX7J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

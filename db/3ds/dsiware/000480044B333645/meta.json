@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B333645",
-    "uid": "50010000016833",
-    "name": "Jewel Quest 5 - The Sleepless Star",
-    "formal_name": "Jewel Quest 5 - The Sleepless Star",
-    "description": "Follow the travails of intrepid explorer, Percy Pack, in Jewel Quest: The Sleepless Star. On a quest for a jewel called the Sleepless Star, Pack discovers that the jewel has been stolen from a Native American village by an unscrupulous jewel collector! Along with Percy and a beautiful Algonquin named Yellow Feather, travel to exotic locations on two continents and overcome dangers at every turn, in an effort to recover the jewel.",
-    "release_date_on_eshop": "2013-10-03",
-    "product_code": "TWL-N-K36E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B333645",
+  "uid": "50010000016833",
+  "name": "Jewel Quest 5 - The Sleepless Star",
+  "formal_name": "Jewel Quest 5 - The Sleepless Star",
+  "description": "Follow the travails of intrepid explorer, Percy Pack, in Jewel Quest: The Sleepless Star. On a quest for a jewel called the Sleepless Star, Pack discovers that the jewel has been stolen from a Native American village by an unscrupulous jewel collector! Along with Percy and a beautiful Algonquin named Yellow Feather, travel to exotic locations on two continents and overcome dangers at every turn, in an effort to recover the jewel.",
+  "release_date_on_eshop": "2013-10-03",
+  "product_code": "TWL-N-K36E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

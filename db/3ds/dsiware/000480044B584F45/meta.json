@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B584F45",
-    "uid": "50010000012207",
-    "name": "18th Gate",
-    "formal_name": "18th Gate",
-    "description": "In the realm of oblivion, an abandoned palace hides many valuable treasures, but those who enter this place have no real hope of ever escaping.\nYou play as three different heroes. Journey through 18 different dungeon areas, facing various challenges, including random monsters, traps, limited turns, hidden paths, etc.\n\nGame Features:\n\n-Adventure through a dungeon with 18 different areas\n-Random enemies, traps, and bonus items\n-Play with 3 playable heroes at the same time, each with different abilities and skills",
-    "release_date_on_eshop": "2012-10-25",
-    "product_code": "TWL-N-KXOE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584F45",
+  "uid": "50010000012207",
+  "name": "18th Gate",
+  "formal_name": "18th Gate",
+  "description": "In the realm of oblivion, an abandoned palace hides many valuable treasures, but those who enter this place have no real hope of ever escaping.\nYou play as three different heroes. Journey through 18 different dungeon areas, facing various challenges, including random monsters, traps, limited turns, hidden paths, etc.\n\nGame Features:\n\n-Adventure through a dungeon with 18 different areas\n-Random enemies, traps, and bonus items\n-Play with 3 playable heroes at the same time, each with different abilities and skills",
+  "release_date_on_eshop": "2012-10-25",
+  "product_code": "TWL-N-KXOE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000138F00",
-    "uid": "50010000028315",
-    "name": "Phoenix Wright®:\nAce Attorney® Trilogy",
-    "formal_name": "Phoenix Wright®:\nAce Attorney® Trilogy",
-    "description": "Defend the innocent and save the day! Courtroom hero Phoenix Wright lays down the law this Winter in the digital release of Phoenix Wright®: Ace Attorney® Trilogy. Experience the original trilogy like never before in clear, high-resolution re-drawn graphics and immersive 3D visuals optimized for the Nintendo 3DS system.\n<br><br>\nJoin rookie lawyer Phoenix Wright through the early years of his career in his quest to find the truth behind all of the classic cases! Prepare for intense courtroom showdowns by investigating crime scenes, collecting evidence, and questioning witnesses. Use evidence and the testimonies of witnesses to your advantage as you battle for the innocence of your client. Nothing less of a full acquittal will do in this court of law. Find the contradictions in witnesses' testimony to expose the truth!",
-    "release_date_on_eshop": "2014-12-09",
-    "product_code": "CTR-N-BHDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Adventure",
-        "Simulation",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000138F00",
+  "uid": "50010000028315",
+  "name": "Phoenix Wright®:\nAce Attorney® Trilogy",
+  "formal_name": "Phoenix Wright®:\nAce Attorney® Trilogy",
+  "description": "Defend the innocent and save the day! Courtroom hero Phoenix Wright lays down the law this Winter in the digital release of Phoenix Wright®: Ace Attorney® Trilogy. Experience the original trilogy like never before in clear, high-resolution re-drawn graphics and immersive 3D visuals optimized for the Nintendo 3DS system.\n<br><br>\nJoin rookie lawyer Phoenix Wright through the early years of his career in his quest to find the truth behind all of the classic cases! Prepare for intense courtroom showdowns by investigating crime scenes, collecting evidence, and questioning witnesses. Use evidence and the testimonies of witnesses to your advantage as you battle for the innocence of your client. Nothing less of a full acquittal will do in this court of law. Find the contradictions in witnesses' testimony to expose the truth!",
+  "release_date_on_eshop": "2014-12-09",
+  "product_code": "CTR-N-BHDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Simulation",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000084E00",
-    "uid": "50010000013493",
-    "name": "Secrets of the Titanic\n1912-2012",
-    "formal_name": "Secrets of the Titanic\n1912-2012",
-    "description": "Join Eva and her family as they take\na cruise on a ship following the same\npath as the ill-fated Titanic. After\nwearing her grandmother’s necklace,\nEva starts to experience flashbacks\nand finds herself onboard the Titanic,\nnot as herself, but as her beloved\ngrandmother. Should she try and stop\nthe Titanic from colliding with the\niceberg and change the course of\nhistory forever? And, if she does\nprevent the disaster, what impact does\nit have on the future and ultimately\nthe safety of her own family! Test your\nhidden-object and logic skills in this\ntense and exciting adventure game!",
-    "release_date_on_eshop": "2013-09-12",
-    "product_code": "CTR-P-ASEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000084E00",
+  "uid": "50010000013493",
+  "name": "Secrets of the Titanic\n1912-2012",
+  "formal_name": "Secrets of the Titanic\n1912-2012",
+  "description": "Join Eva and her family as they take\na cruise on a ship following the same\npath as the ill-fated Titanic. After\nwearing her grandmother’s necklace,\nEva starts to experience flashbacks\nand finds herself onboard the Titanic,\nnot as herself, but as her beloved\ngrandmother. Should she try and stop\nthe Titanic from colliding with the\niceberg and change the course of\nhistory forever? And, if she does\nprevent the disaster, what impact does\nit have on the future and ultimately\nthe safety of her own family! Test your\nhidden-object and logic skills in this\ntense and exciting adventure game!",
+  "release_date_on_eshop": "2013-09-12",
+  "product_code": "CTR-P-ASEP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

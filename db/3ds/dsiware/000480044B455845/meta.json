@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B455845",
-    "uid": "50010000002205",
-    "name": "Extreme Hangman",
-    "formal_name": "Extreme Hangman",
-    "description": "There's never been a Hangman game like this before! The world's favorite time-killer game takes an absurdist twist of comical proportions. Taking place in various settings, the gamer's mission is to save the Hangman from his enemies by guessing the hidden word correctly. By guessing incorrectly, he is put one step closer to being shot, strangled, erased, or hanged by his enemies. Play single game or challenge your friend to a duel. Extreme Hangman features seven different settings with fun animations, over 2000 words in various categories, and three difficulty levels.\n\n",
-    "release_date_on_eshop": "2010-02-08",
-    "product_code": "TWL-N-KEXE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B455845",
+  "uid": "50010000002205",
+  "name": "Extreme Hangman",
+  "formal_name": "Extreme Hangman",
+  "description": "There's never been a Hangman game like this before! The world's favorite time-killer game takes an absurdist twist of comical proportions. Taking place in various settings, the gamer's mission is to save the Hangman from his enemies by guessing the hidden word correctly. By guessing incorrectly, he is put one step closer to being shot, strangled, erased, or hanged by his enemies. Play single game or challenge your friend to a duel. Extreme Hangman features seven different settings with fun animations, over 2000 words in various categories, and three difficulty levels.\n\n",
+  "release_date_on_eshop": "2010-02-08",
+  "product_code": "TWL-N-KEXE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

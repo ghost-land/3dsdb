@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B395750",
-    "uid": "50010000014917",
-    "name": "99Moves",
-    "formal_name": "99Moves",
-    "description": "99Moves, a retro arcade game where\nyou will have to survive with just 99\nMovements.\n<br/><br/>\nWith nowhere to head in the galaxy,\nall was lost as your energy was about\nto run out... gravity would chart the\ncourse of your destiny. Suddenly,\nV-99 has entered a zone which\nprovides energy, called Shaders... a\nnew opportunity to survive! However,\nit's not all good news, as you only\nhave 99 energy pulses to move\nthrough the Shaders zone!\n<br/><br/>\n* Control V-99, dodging and\nmanaging 99 Movements!\n<br/><br/>\n* Get high scores by obtaining V-99s\nand grazing the walls!\n<br/><br/>\n* Arcade mobility like in the classic\narcade games!\n<br/><br/>\n* Retro-style levels!\n<br/><br/>\n* Incredible enemy patterns!",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "TWL-N-K9WP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B395750",
+  "uid": "50010000014917",
+  "name": "99Moves",
+  "formal_name": "99Moves",
+  "description": "99Moves, a retro arcade game where\nyou will have to survive with just 99\nMovements.\n<br/><br/>\nWith nowhere to head in the galaxy,\nall was lost as your energy was about\nto run out... gravity would chart the\ncourse of your destiny. Suddenly,\nV-99 has entered a zone which\nprovides energy, called Shaders... a\nnew opportunity to survive! However,\nit's not all good news, as you only\nhave 99 energy pulses to move\nthrough the Shaders zone!\n<br/><br/>\n* Control V-99, dodging and\nmanaging 99 Movements!\n<br/><br/>\n* Get high scores by obtaining V-99s\nand grazing the walls!\n<br/><br/>\n* Arcade mobility like in the classic\narcade games!\n<br/><br/>\n* Retro-style levels!\n<br/><br/>\n* Incredible enemy patterns!",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "TWL-N-K9WP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

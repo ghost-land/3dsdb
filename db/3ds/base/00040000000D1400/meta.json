@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000D1400",
-    "uid": "50010000014576",
-    "name": "I Love My Pets",
-    "formal_name": "I Love My Pets",
-    "description": "Become the manager of a hotel for\ncats and dogs and take care of your\npets: take your puppy out for a walk\nin the park, teach them to jump over a\nskipping-rope, pet them, play frisbee\nwith them... Brush your cat, teach\nthem to hunt, train them for an\nobstacle course... and make them\npurr!\n<br/><br/>\nChoose between 16 breeds of cats\nand dogs: Dalmatian, Labrador,\nHusky, Siamese, tabby... and play\nhide-and-seek with your pet with the\nAR Card of your Nintendo 3DS™!",
-    "release_date_on_eshop": "2013-07-25",
-    "product_code": "CTR-P-AA6P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D1400",
+  "uid": "50010000014576",
+  "name": "I Love My Pets",
+  "formal_name": "I Love My Pets",
+  "description": "Become the manager of a hotel for\ncats and dogs and take care of your\npets: take your puppy out for a walk\nin the park, teach them to jump over a\nskipping-rope, pet them, play frisbee\nwith them... Brush your cat, teach\nthem to hunt, train them for an\nobstacle course... and make them\npurr!\n<br/><br/>\nChoose between 16 breeds of cats\nand dogs: Dalmatian, Labrador,\nHusky, Siamese, tabby... and play\nhide-and-seek with your pet with the\nAR Card of your Nintendo 3DS™!",
+  "release_date_on_eshop": "2013-07-25",
+  "product_code": "CTR-P-AA6P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

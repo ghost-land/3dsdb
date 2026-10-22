@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000EEA00",
-    "uid": "50010000014733",
-    "name": "ピクロスe3",
-    "formal_name": "ピクロスe3",
-    "description": "ナビゲーション機能を搭載した、『ピクロスｅ』シリーズの第3弾です。2列にまたがる大きな数字「メガ数字」のある「メガピクロス」を新たに搭載しています。\n<br>『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。シンプルかつ分かりやすいルールで、誰でも手軽に楽しめます。",
-    "release_date_on_eshop": "2013-06-12",
-    "product_code": "CTR-N-JETJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EEA00",
+  "uid": "50010000014733",
+  "name": "ピクロスe3",
+  "formal_name": "ピクロスe3",
+  "description": "ナビゲーション機能を搭載した、『ピクロスｅ』シリーズの第3弾です。2列にまたがる大きな数字「メガ数字」のある「メガピクロス」を新たに搭載しています。\n<br>『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。シンプルかつ分かりやすいルールで、誰でも手軽に楽しめます。",
+  "release_date_on_eshop": "2013-06-12",
+  "product_code": "CTR-N-JETJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

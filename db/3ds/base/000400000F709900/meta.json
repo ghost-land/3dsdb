@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F709900",
-    "uid": "50010000042542",
-    "name": "SHOOT THE BALL",
-    "formal_name": "SHOOT THE BALL",
-    "description": "ボールを外に向けてタッチして撃つだけの気軽なゲームです。\n<br>一見簡単に見えますが、先に進めていくほど難易度が上がります。\n<br>\n<br>Wii U版『SHOOT THE BALL』と同時発売です。",
-    "release_date_on_eshop": "2017-04-19",
-    "product_code": "KTR-N-CBAJ",
-    "platform_name": "New 3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル",
-        "トレーニング"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000F709900",
+  "uid": "50010000042542",
+  "name": "SHOOT THE BALL",
+  "formal_name": "SHOOT THE BALL",
+  "description": "ボールを外に向けてタッチして撃つだけの気軽なゲームです。\n<br>一見簡単に見えますが、先に進めていくほど難易度が上がります。\n<br>\n<br>Wii U版『SHOOT THE BALL』と同時発売です。",
+  "release_date_on_eshop": "2017-04-19",
+  "product_code": "KTR-N-CBAJ",
+  "platform_name": "New 3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル",
+    "トレーニング"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

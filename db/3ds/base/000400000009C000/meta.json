@@ -1,28 +1,28 @@
 {
-    "tid": "000400000009C000",
-    "uid": "50010000013426",
-    "name": "Shin Megami Tensei:\nDevil Survivor Overclocked",
-    "formal_name": "Shin Megami Tensei:\nDevil Survivor Overclocked",
-    "description": "One of 2009's best RPGs returns\nyou to Tokyo in the midst of a\nlockdown, the government's\ncold-blooded response to a demon\ninvasion. Armed only with a\nmysterious COMP, will you survive this\nchaos?\n<br/><br/>\nLive to see the brand new 8th Day\nchapter!\n<br/><br/>\nCollect and fuse demons to create\nmore powerful creatures\n<br/><br/>\nMany possible endings await in this\nhybrid of traditional and strategy RPG\n",
-    "release_date_on_eshop": "2013-10-10",
-    "product_code": "CTR-P-AMTP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009C000",
+  "uid": "50010000013426",
+  "name": "Shin Megami Tensei:\nDevil Survivor Overclocked",
+  "formal_name": "Shin Megami Tensei:\nDevil Survivor Overclocked",
+  "description": "One of 2009's best RPGs returns\nyou to Tokyo in the midst of a\nlockdown, the government's\ncold-blooded response to a demon\ninvasion. Armed only with a\nmysterious COMP, will you survive this\nchaos?\n<br/><br/>\nLive to see the brand new 8th Day\nchapter!\n<br/><br/>\nCollect and fuse demons to create\nmore powerful creatures\n<br/><br/>\nMany possible endings await in this\nhybrid of traditional and strategy RPG\n",
+  "release_date_on_eshop": "2013-10-10",
+  "product_code": "CTR-P-AMTP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

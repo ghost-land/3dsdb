@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B584945",
-    "uid": "50010000004788",
-    "name": "101 MiniGolf World",
-    "formal_name": "101 MiniGolf World",
-    "description": "101 MiniGolf World is one of the first ever “true 3D” miniature golf games for Nintendo DSiWare™! Your stylus becomes the putter for an incredibly fun minigolf experience! Play over 100 fun and challenging holes solo or with up to 8 friends on one system. What will be your record to finish all courses with the lowest number of strokes? The intuitive 3D Virtual Play eases the use of controls with just a stylus to sink putts as you send your ball flying through loops, pipes, arches, extreme ramps and mind-blowing obstacles! With a combination of real golf rules and wacky MiniGolf fun, it's the ultimate challenge for Nintendo DSiWare!",
-    "release_date_on_eshop": "2011-01-31",
-    "product_code": "TWL-N-KXIE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Sports",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584945",
+  "uid": "50010000004788",
+  "name": "101 MiniGolf World",
+  "formal_name": "101 MiniGolf World",
+  "description": "101 MiniGolf World is one of the first ever “true 3D” miniature golf games for Nintendo DSiWare™! Your stylus becomes the putter for an incredibly fun minigolf experience! Play over 100 fun and challenging holes solo or with up to 8 friends on one system. What will be your record to finish all courses with the lowest number of strokes? The intuitive 3D Virtual Play eases the use of controls with just a stylus to sink putts as you send your ball flying through loops, pipes, arches, extreme ramps and mind-blowing obstacles! With a combination of real golf rules and wacky MiniGolf fun, it's the ultimate challenge for Nintendo DSiWare!",
+  "release_date_on_eshop": "2011-01-31",
+  "product_code": "TWL-N-KXIE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Sports",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

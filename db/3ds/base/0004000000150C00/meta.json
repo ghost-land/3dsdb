@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000150C00",
-    "uid": "50010000028795",
-    "name": "Asterix The Mansions\nof the Gods",
-    "formal_name": "Asterix The Mansions of the Gods",
-    "description": "THE ONLY OFFICIAL ASTERIX: THE MANSIONS OF THE GODS GAME<br>\n<br>\nPlay as Asterix, Obelix and Dogmatix in a wild series of adventures inspired by the cult comic book. Roam freely through the Gaulish village, hunt wild boar, save the forest from Roman invaders and don’t forget to brew up enough magic potion to ensure victory, by Toutatis!<br>\n<br>\n16 game modes and 2 levels of difficulty, with all the iconic characters of the comic.\n",
-    "release_date_on_eshop": "2014-12-18",
-    "product_code": "CTR-N-BMNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000150C00",
+  "uid": "50010000028795",
+  "name": "Asterix The Mansions\nof the Gods",
+  "formal_name": "Asterix The Mansions of the Gods",
+  "description": "THE ONLY OFFICIAL ASTERIX: THE MANSIONS OF THE GODS GAME<br>\n<br>\nPlay as Asterix, Obelix and Dogmatix in a wild series of adventures inspired by the cult comic book. Roam freely through the Gaulish village, hunt wild boar, save the forest from Roman invaders and don’t forget to brew up enough magic potion to ensure victory, by Toutatis!<br>\n<br>\n16 game modes and 2 levels of difficulty, with all the iconic characters of the comic.\n",
+  "release_date_on_eshop": "2014-12-18",
+  "product_code": "CTR-N-BMNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

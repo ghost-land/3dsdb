@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4A4245",
-    "uid": "50010000007035",
-    "name": "Jewel Keepers: Easter Island",
-    "formal_name": "Jewel Keepers: Easter Island",
-    "description": "Welcome to Jewel Keepers: Easter Island, a challenging match-three arcade action game with mind-blowing visuals and engaging storyline! This game will keep you entertained for hours, as you travel across Easter Island and help to unveil its mysteries.\n\nOne day Professor “H”, the world-renowned expert on Easter Island, received a strange letter from the capital city Hanga Roa. It was a cry for help from somebody unknown. It said that something bad was going on the island. Without any hesitation, the professor, together with his assistant Joel and his granddaughter Ivie, rushed to the island, where many puzzles, mysteries and quests awaited them. Can you help him to reveal the greatest secret of Easter Island?\n\n• More than 20 levels spread all over Easter Island\n• Tons of different board shapes\n• Intriguing story about the mysteries of Easter Island",
-    "release_date_on_eshop": "2011-07-07",
-    "product_code": "TWL-N-KJBE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Adventure",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4A4245",
+  "uid": "50010000007035",
+  "name": "Jewel Keepers: Easter Island",
+  "formal_name": "Jewel Keepers: Easter Island",
+  "description": "Welcome to Jewel Keepers: Easter Island, a challenging match-three arcade action game with mind-blowing visuals and engaging storyline! This game will keep you entertained for hours, as you travel across Easter Island and help to unveil its mysteries.\n\nOne day Professor “H”, the world-renowned expert on Easter Island, received a strange letter from the capital city Hanga Roa. It was a cry for help from somebody unknown. It said that something bad was going on the island. Without any hesitation, the professor, together with his assistant Joel and his granddaughter Ivie, rushed to the island, where many puzzles, mysteries and quests awaited them. Can you help him to reveal the greatest secret of Easter Island?\n\n• More than 20 levels spread all over Easter Island\n• Tons of different board shapes\n• Intriguing story about the mysteries of Easter Island",
+  "release_date_on_eshop": "2011-07-07",
+  "product_code": "TWL-N-KJBE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

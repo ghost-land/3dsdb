@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001C1D00",
-    "uid": "50010000045416",
-    "name": "Sushi Striker™:\nThe Way of Sushido",
-    "formal_name": "Sushi Striker™:\n<br>The Way of Sushido",
-    "description": "The ultimate food fight!\n<br>\n<br>In the fast-paced world of conveyor-belt sushi fighting, match coloured plates of sushi to hurl tall stacks of plates at your opponent. The more matches you make, the taller the plate stack and the stronger your attacks will be.\n<br>\n<br>Defend your homeland from invading enemies in this puzzling action game so more people can enjoy delicious sushi in peace. May the best sushi striker reign supreme!\n<br>\n<br>Supports 2 Players online and 2 Players via Local Play",
-    "release_date_on_eshop": "2018-06-08",
-    "product_code": "CTR-P-AFWP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C1D00",
+  "uid": "50010000045416",
+  "name": "Sushi Striker™:\nThe Way of Sushido",
+  "formal_name": "Sushi Striker™:\n<br>The Way of Sushido",
+  "description": "The ultimate food fight!\n<br>\n<br>In the fast-paced world of conveyor-belt sushi fighting, match coloured plates of sushi to hurl tall stacks of plates at your opponent. The more matches you make, the taller the plate stack and the stronger your attacks will be.\n<br>\n<br>Defend your homeland from invading enemies in this puzzling action game so more people can enjoy delicious sushi in peace. May the best sushi striker reign supreme!\n<br>\n<br>Supports 2 Players online and 2 Players via Local Play",
+  "release_date_on_eshop": "2018-06-08",
+  "product_code": "CTR-P-AFWP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

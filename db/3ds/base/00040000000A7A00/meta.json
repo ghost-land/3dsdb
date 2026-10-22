@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A7A00",
-    "uid": "50010000011308",
-    "name": "@SIMPLE DLシリーズ Vol.4 THE\n密室からの脱出 南国のリゾート編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.4\nTHE 密室からの脱出\n～南国のリゾート編～",
-    "description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。今度の舞台は「南国のリゾート」。親戚のおじさんとリゾート地を訪れた主人公。ホテルのバス乗り場へ向かうはずが、なぜか客室から出られず閉じ込められてしまう。今作も、はじめて脱出ゲームをプレイする人に安心の「初心者モード」を搭載。",
-    "release_date_on_eshop": "2012-08-29",
-    "product_code": "CTR-N-JMRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A7A00",
+  "uid": "50010000011308",
+  "name": "@SIMPLE DLシリーズ Vol.4 THE\n密室からの脱出 南国のリゾート編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.4\nTHE 密室からの脱出\n～南国のリゾート編～",
+  "description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。今度の舞台は「南国のリゾート」。親戚のおじさんとリゾート地を訪れた主人公。ホテルのバス乗り場へ向かうはずが、なぜか客室から出られず閉じ込められてしまう。今作も、はじめて脱出ゲームをプレイする人に安心の「初心者モード」を搭載。",
+  "release_date_on_eshop": "2012-08-29",
+  "product_code": "CTR-N-JMRJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

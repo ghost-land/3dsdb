@@ -1,35 +1,35 @@
 {
-    "tid": "00040000001CB200",
-    "uid": "50010000046035",
-    "name": "Captain Toad™: \nTreasure Tracker",
-    "formal_name": "Captain Toad™: \n<br>Treasure Tracker",
-    "description": "Explore a variety of tricky sandbox-style levels inspired by Japanese box gardens called Hakoniwa in Captain Toad: Treasure Tracker!\n<br>\n<br>With 3D visuals and Touch Screen controls, it feels like there’s a box garden right in your hands!<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2018-07-13",
-    "product_code": "CTR-P-BZPP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CB200",
+  "uid": "50010000046035",
+  "name": "Captain Toad™: \nTreasure Tracker",
+  "formal_name": "Captain Toad™: \n<br>Treasure Tracker",
+  "description": "Explore a variety of tricky sandbox-style levels inspired by Japanese box gardens called Hakoniwa in Captain Toad: Treasure Tracker!\n<br>\n<br>With 3D visuals and Touch Screen controls, it feels like there’s a box garden right in your hands!<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2018-07-13",
+  "product_code": "CTR-P-BZPP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

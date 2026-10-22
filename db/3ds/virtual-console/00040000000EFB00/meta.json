@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000EFB00",
-    "uid": "50010000022058",
-    "name": "Mega Man™ V",
-    "formal_name": "Mega Man™ V",
-    "description": "After another of Dr. Wily's failed attempts at world domination, peace reigns on Earth once more. Or so it would seem...\n<br><br>\nDuring a peaceful stroll with his sister Roll, Mega Man is confronted by a powerful robot called Terra that drops from the sky! The enemy easily defeats Mega Man, then quickly dispatches an army of robots to conquer Earth.\n<br><br>\nWaking up in Dr. Light's laboratory, Mega Man is given a new and powerful weapon to defeat the alien invasion--the Mega Arm. Now equipped to take down his enemies, Mega Man sets off to restore peace once. Use the aid of weapon upgrades and companion assists as you blast your way through waves of robotic foes, and solve the mystery behind this alien attack!",
-    "release_date_on_eshop": "2014-05-22",
-    "product_code": "CTR-N-RCGE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000EFB00",
+  "uid": "50010000022058",
+  "name": "Mega Man™ V",
+  "formal_name": "Mega Man™ V",
+  "description": "After another of Dr. Wily's failed attempts at world domination, peace reigns on Earth once more. Or so it would seem...\n<br><br>\nDuring a peaceful stroll with his sister Roll, Mega Man is confronted by a powerful robot called Terra that drops from the sky! The enemy easily defeats Mega Man, then quickly dispatches an army of robots to conquer Earth.\n<br><br>\nWaking up in Dr. Light's laboratory, Mega Man is given a new and powerful weapon to defeat the alien invasion--the Mega Arm. Now equipped to take down his enemies, Mega Man sets off to restore peace once. Use the aid of weapon upgrades and companion assists as you blast your way through waves of robotic foes, and solve the mystery behind this alien attack!",
+  "release_date_on_eshop": "2014-05-22",
+  "product_code": "CTR-N-RCGE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000075F00",
-    "uid": "50010000009281",
-    "name": "BIT.TRIP SAGA",
-    "formal_name": "BIT.TRIP SAGA",
-    "description": "BIT.TRIP SAGA is a collection of all\n<br>six highly regarded games in the\n<br>BIT.TRIP series, combining retro\n<br>arcade action with smashing rhythm\n<br>gameplay. All six games document the\n<br>life of Commander Video as he\n<br>undertakes a journey of the soul. A\n<br>cult series remastered in stunning 3D,\n<br>perfect for the entire family.",
-    "release_date_on_eshop": "2013-04-25",
-    "product_code": "CTR-P-ABTP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Adventure",
-        "Music",
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000075F00",
+  "uid": "50010000009281",
+  "name": "BIT.TRIP SAGA",
+  "formal_name": "BIT.TRIP SAGA",
+  "description": "BIT.TRIP SAGA is a collection of all\n<br>six highly regarded games in the\n<br>BIT.TRIP series, combining retro\n<br>arcade action with smashing rhythm\n<br>gameplay. All six games document the\n<br>life of Commander Video as he\n<br>undertakes a journey of the soul. A\n<br>cult series remastered in stunning 3D,\n<br>perfect for the entire family.",
+  "release_date_on_eshop": "2013-04-25",
+  "product_code": "CTR-P-ABTP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Adventure",
+    "Music",
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

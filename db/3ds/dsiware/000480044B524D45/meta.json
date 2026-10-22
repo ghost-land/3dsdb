@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B524D45",
-    "uid": "50010000003402",
-    "name": "Rayman®",
-    "formal_name": "Rayman®",
-    "description": "The legendary first Rayman adventure is now available from the DSiWare service. Play as Rayman and try to save his amazing world from the evil Mr Dark! Discover a charming universe with colorful landscapes and meet funny characters who will help Rayman through his quest! Experiment with his abilities as you punch, hang or fly in the air and choose between two difficulty levels. Take advantage of new features in the Nintendo DSi version, such as the Nintendo DSi Camera, map selection on the Touch Screen, or playing against time to win bonuses!",
-    "release_date_on_eshop": "2009-12-07",
-    "product_code": "TWL-N-KRME",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B524D45",
+  "uid": "50010000003402",
+  "name": "Rayman®",
+  "formal_name": "Rayman®",
+  "description": "The legendary first Rayman adventure is now available from the DSiWare service. Play as Rayman and try to save his amazing world from the evil Mr Dark! Discover a charming universe with colorful landscapes and meet funny characters who will help Rayman through his quest! Experiment with his abilities as you punch, hang or fly in the air and choose between two difficulty levels. Take advantage of new features in the Nintendo DSi version, such as the Nintendo DSi Camera, map selection on the Touch Screen, or playing against time to win bonuses!",
+  "release_date_on_eshop": "2009-12-07",
+  "product_code": "TWL-N-KRME",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

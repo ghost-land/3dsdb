@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B484845",
-    "uid": "50010000003927",
-    "name": "Hospital Havoc",
-    "formal_name": "Hospital Havoc",
-    "description": "Do you have what it takes to run\nyour very own heart-pumping\nhospital? Help your doctor navigate\nthrough the havoc by admitting,\ndiagnosing, and treating some of the\nmost whacky patients ever\nencountered. A comically fun time\nmanagement and strategy game,\nHospital Havoc presents a challenging\ncampaign, with three levels of\ndifficulty to choose from, that include\n20 career levels, 19 possible\nillnesses, three-to-six bed conditions,\n11 challenging scenarios (including\nzombies!), continuous play, and a\nrousing replay ability. Personalize\nyour doctor and nurse and utilize\nvarious power-ups and medical\nmachines to help send those patients\nhome!",
-    "release_date_on_eshop": "2010-08-20",
-    "product_code": "TWL-N-KHHP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B484845",
+  "uid": "50010000003927",
+  "name": "Hospital Havoc",
+  "formal_name": "Hospital Havoc",
+  "description": "Do you have what it takes to run\nyour very own heart-pumping\nhospital? Help your doctor navigate\nthrough the havoc by admitting,\ndiagnosing, and treating some of the\nmost whacky patients ever\nencountered. A comically fun time\nmanagement and strategy game,\nHospital Havoc presents a challenging\ncampaign, with three levels of\ndifficulty to choose from, that include\n20 career levels, 19 possible\nillnesses, three-to-six bed conditions,\n11 challenging scenarios (including\nzombies!), continuous play, and a\nrousing replay ability. Personalize\nyour doctor and nurse and utilize\nvarious power-ups and medical\nmachines to help send those patients\nhome!",
+  "release_date_on_eshop": "2010-08-20",
+  "product_code": "TWL-N-KHHP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

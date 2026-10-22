@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B354145",
-    "uid": "50010000000985",
-    "name": "Rhythm Core Alpha",
-    "formal_name": "Rhythm Core Alpha",
-    "description": "Make music with your Nintendo DSi system! Rhythm Core Alpha is an advanced music creation system, designed for creating and performing live music in-front of an audience; an electronic music instrument designed for performing!\n\nRhythm Core Alpha makes it easy to build drum and instrument loops, and then allows you to play solos over them using the stylus. It automatically detects the key and scale of the music you have created, and allows you to change chords at the press of a button! All notes in the solo match the selected key and scale, so you can never hit a wrong note! Rhythm Core Alpha also includes a powerful pattern mode that allows you to set up chord changes and arrange your sequenced parts allowing you to build a whole song, or make sections that you can switch to as you desire. Hundreds of adjustable drum and instrument sounds are included. You can edit while the song is playing, so you really can build the song in front of the audience!",
-    "release_date_on_eshop": "2010-08-09",
-    "product_code": "TWL-N-K5AE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other",
-        "Music"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B354145",
+  "uid": "50010000000985",
+  "name": "Rhythm Core Alpha",
+  "formal_name": "Rhythm Core Alpha",
+  "description": "Make music with your Nintendo DSi system! Rhythm Core Alpha is an advanced music creation system, designed for creating and performing live music in-front of an audience; an electronic music instrument designed for performing!\n\nRhythm Core Alpha makes it easy to build drum and instrument loops, and then allows you to play solos over them using the stylus. It automatically detects the key and scale of the music you have created, and allows you to change chords at the press of a button! All notes in the solo match the selected key and scale, so you can never hit a wrong note! Rhythm Core Alpha also includes a powerful pattern mode that allows you to set up chord changes and arrange your sequenced parts allowing you to build a whole song, or make sections that you can switch to as you desire. Hundreds of adjustable drum and instrument sounds are included. You can edit while the song is playing, so you really can build the song in front of the audience!",
+  "release_date_on_eshop": "2010-08-09",
+  "product_code": "TWL-N-K5AE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other",
+    "Music"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

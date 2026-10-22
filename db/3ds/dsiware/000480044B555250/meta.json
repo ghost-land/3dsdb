@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B555250",
-    "uid": "50010000009907",
-    "name": "I Must Run!",
-    "formal_name": "I Must Run!",
-    "description": "I Must Run! is a skill-based action\nrunning game. Jump across gaps\nbetween prison buildings, run through\nan underground station, and test your\nreflexes in a deadly dash over building\nsite cranes. Reach the city centre and\nsave your wife. Remember, you have\nonly 24 hours. Let's hope your fitness\nlevels can cope, because you must\nrun! Once you have completed story\nmode, try to achieve the highest score\nin the never-ending run in six available\nlevels: Prison, Underground, Sewers,\nBuilding Site, Suburbs and Rooftops.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KURP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B555250",
+  "uid": "50010000009907",
+  "name": "I Must Run!",
+  "formal_name": "I Must Run!",
+  "description": "I Must Run! is a skill-based action\nrunning game. Jump across gaps\nbetween prison buildings, run through\nan underground station, and test your\nreflexes in a deadly dash over building\nsite cranes. Reach the city centre and\nsave your wife. Remember, you have\nonly 24 hours. Let's hope your fitness\nlevels can cope, because you must\nrun! Once you have completed story\nmode, try to achieve the highest score\nin the never-ending run in six available\nlevels: Prison, Underground, Sewers,\nBuilding Site, Suburbs and Rooftops.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KURP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

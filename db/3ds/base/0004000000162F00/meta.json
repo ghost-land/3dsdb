@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000162F00",
-    "uid": "50010000036855",
-    "name": "Chibi-Robo!™ Zip Lash",
-    "formal_name": "Chibi-Robo!™ Zip Lash",
-    "description": "In this 2D platforming adventure,\nplayers control a little robot called\nChibi-Robo as he travels the world to\nput a stop to an alien invasion. Using\nhis plug and cord or ‘Chibi-Plug’,\nplayers can attack enemies and, using\na variety of moves, get around each\nstage to find a variety of collectibles\nincluding real-world snacks to deliver\nto Chibi-Robo’s friends.\n<br/><br/> \nThe game features real snacks of\nthird parties and includes depictions\nof real snacks of third parties.\n<br/><br/>\n<br/><br/>\nVisit amiibo.nintendo.eu for\ncompatible amiibo™ and the latest\ninformation. To use amiibo on\nNintendo 3DS, Nintendo 3DS XL and\nNintendo 2DS systems a\nNintendo 3DS NFC Reader/Writer is\nrequired.",
-    "release_date_on_eshop": "2015-11-06",
-    "product_code": "CTR-P-BXLP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000162F00",
+  "uid": "50010000036855",
+  "name": "Chibi-Robo!™ Zip Lash",
+  "formal_name": "Chibi-Robo!™ Zip Lash",
+  "description": "In this 2D platforming adventure,\nplayers control a little robot called\nChibi-Robo as he travels the world to\nput a stop to an alien invasion. Using\nhis plug and cord or ‘Chibi-Plug’,\nplayers can attack enemies and, using\na variety of moves, get around each\nstage to find a variety of collectibles\nincluding real-world snacks to deliver\nto Chibi-Robo’s friends.\n<br/><br/> \nThe game features real snacks of\nthird parties and includes depictions\nof real snacks of third parties.\n<br/><br/>\n<br/><br/>\nVisit amiibo.nintendo.eu for\ncompatible amiibo™ and the latest\ninformation. To use amiibo on\nNintendo 3DS, Nintendo 3DS XL and\nNintendo 2DS systems a\nNintendo 3DS NFC Reader/Writer is\nrequired.",
+  "release_date_on_eshop": "2015-11-06",
+  "product_code": "CTR-P-BXLP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

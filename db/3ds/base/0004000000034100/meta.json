@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000034100",
-    "uid": "50010000000093",
-    "name": "上海3Dキューブ",
-    "formal_name": "上海3Dキューブ",
-    "description": "『上海』が、超立体3Dパズルゲームに生まれ変わりました! 裸眼立体視に完全対応! 驚きの3D映像で立体に積み込まれた麻雀牌の新感覚パズルゲームです。ダウンロードプレイに対応しているので、ソフト1枚ですぐに友だちと2人対戦プレイが可能! 従来の『上海』も収録しています!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASHJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応",
-        "ダウンロードプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000034100",
+  "uid": "50010000000093",
+  "name": "上海3Dキューブ",
+  "formal_name": "上海3Dキューブ",
+  "description": "『上海』が、超立体3Dパズルゲームに生まれ変わりました! 裸眼立体視に完全対応! 驚きの3D映像で立体に積み込まれた麻雀牌の新感覚パズルゲームです。ダウンロードプレイに対応しているので、ソフト1枚ですぐに友だちと2人対戦プレイが可能! 従来の『上海』も収録しています!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASHJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応",
+    "ダウンロードプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

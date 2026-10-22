@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001C3F00",
-    "uid": "50010000042825",
-    "name": "I am an air traffic controller\nAIRPORT HERO OSAKA-KIX",
-    "formal_name": "I am an air traffic controller\nAIRPORT HERO OSAKA-KIX",
-    "description": "The story takes place at Kansai International Airport (\"KIX\")\n<br>\n<br>KIX is one of the world's very few airports on the ocean, built on an artificial island!\n\n<br>KIX, with two runways, is a busy airport that operates 24 hours a day, full of international airplanes in the day, and as an airline hub for international cargo flights at night.\n\n<br>Your skills are challenged to operate smooth air traffic control at KIX packed with many airplanes!\n<br>\n<br>Challenge air traffic control with 2 game modes!\n<br>\n<br>Challenge air traffic control while enjoying dramatic story in \"Story Mode\" or score the target point to clear the stage in simple \"Operation Mode\"!\n<br>\n<br>\n<br>Story Mode\n<br>“Story mode” is best for your first try!\n\n<br>You can learn how to play while enjoying the dramatic storyline.\n\n<br>You are responsible for air traffic control at KIX with your reliable boss: Tsukasa Kamijo, and new trainees Asuka Kominato and Mamoru Ozora.\n\n<br>You must protect the safety of the sky while training the new boys, according to your boss’s advice.\n\n<br>Accurate decisions are needed under unexpected situations and special weather conditions, during air traffic control! In addition, you must follow up for the trainees’ inexperienced control!\n\n<br>With teamwork and flexible situation handling, succeed in difficult traffic control!\n<br>\n<br>\n<br>Operation Mode\n<br>“Operation Mode” is very simple!\n\n<br>Send specific orders to airplanes on the airport and in the air, support landing and takeoff for safe control!\n\n<br>If airplanes fall into danger of collision, the game is over.\n\n<br>Control real-time moving airplanes to aim the highest score!",
-    "release_date_on_eshop": "2017-06-15",
-    "product_code": "CTR-N-AKXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C3F00",
+  "uid": "50010000042825",
+  "name": "I am an air traffic controller\nAIRPORT HERO OSAKA-KIX",
+  "formal_name": "I am an air traffic controller\nAIRPORT HERO OSAKA-KIX",
+  "description": "The story takes place at Kansai International Airport (\"KIX\")\n<br>\n<br>KIX is one of the world's very few airports on the ocean, built on an artificial island!\n\n<br>KIX, with two runways, is a busy airport that operates 24 hours a day, full of international airplanes in the day, and as an airline hub for international cargo flights at night.\n\n<br>Your skills are challenged to operate smooth air traffic control at KIX packed with many airplanes!\n<br>\n<br>Challenge air traffic control with 2 game modes!\n<br>\n<br>Challenge air traffic control while enjoying dramatic story in \"Story Mode\" or score the target point to clear the stage in simple \"Operation Mode\"!\n<br>\n<br>\n<br>Story Mode\n<br>“Story mode” is best for your first try!\n\n<br>You can learn how to play while enjoying the dramatic storyline.\n\n<br>You are responsible for air traffic control at KIX with your reliable boss: Tsukasa Kamijo, and new trainees Asuka Kominato and Mamoru Ozora.\n\n<br>You must protect the safety of the sky while training the new boys, according to your boss’s advice.\n\n<br>Accurate decisions are needed under unexpected situations and special weather conditions, during air traffic control! In addition, you must follow up for the trainees’ inexperienced control!\n\n<br>With teamwork and flexible situation handling, succeed in difficult traffic control!\n<br>\n<br>\n<br>Operation Mode\n<br>“Operation Mode” is very simple!\n\n<br>Send specific orders to airplanes on the airport and in the air, support landing and takeoff for safe control!\n\n<br>If airplanes fall into danger of collision, the game is over.\n\n<br>Control real-time moving airplanes to aim the highest score!",
+  "release_date_on_eshop": "2017-06-15",
+  "product_code": "CTR-N-AKXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

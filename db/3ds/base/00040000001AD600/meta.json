@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001AD600",
-    "uid": "50010000042040",
-    "name": "PICROSS e7",
-    "formal_name": "PICROSS e7",
-    "description": "The 7th game in the Picross e series, with a Navigation Feature! \n<br>\n<br>The first game with 20x15-size Mega Picross puzzles.\n<br>\n<br>The new Mark function lets you leave indicators on squares you aren't sure about, without risking a penalty.\n<br>\n<br>Also, new Switch stylus controls allow you to switch input modes just by pressing the Circle Pad or +Control Pad once!\n<br>\n<br>Picross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images.\n<br>The rules are simple and easy to grasp. Anyone can do it!",
-    "release_date_on_eshop": "2016-12-22",
-    "product_code": "CTR-N-KPAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AD600",
+  "uid": "50010000042040",
+  "name": "PICROSS e7",
+  "formal_name": "PICROSS e7",
+  "description": "The 7th game in the Picross e series, with a Navigation Feature! \n<br>\n<br>The first game with 20x15-size Mega Picross puzzles.\n<br>\n<br>The new Mark function lets you leave indicators on squares you aren't sure about, without risking a penalty.\n<br>\n<br>Also, new Switch stylus controls allow you to switch input modes just by pressing the Circle Pad or +Control Pad once!\n<br>\n<br>Picross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images.\n<br>The rules are simple and easy to grasp. Anyone can do it!",
+  "release_date_on_eshop": "2016-12-22",
+  "product_code": "CTR-N-KPAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

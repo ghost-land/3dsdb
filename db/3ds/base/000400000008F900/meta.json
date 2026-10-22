@@ -1,28 +1,28 @@
 {
-    "tid": "000400000008F900",
-    "uid": "50010000012039",
-    "name": "薩爾達傳說 時之笛 3D",
-    "formal_name": "薩爾達傳說 時之笛 3D",
-    "description": "『薩爾達傳說 時之笛 3D』是描述想將世界佔為己有，並陷入混沌的盜賊王加儂多夫與勇者林克間的宿命決鬥的動作冒險遊戲。運用各式各樣的裝備與道具，解開迷宮裡的謎題，進而與強敵戰鬥並繼續前往冒險。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AQEW",
-    "platform_name": "Nintendo 3DS 盒裝",
-    "region": "Taiwan",
-    "genres": [
-        "動作",
-        "冒險"
-    ],
-    "features": [
-        "對應3D影像"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008F900",
+  "uid": "50010000012039",
+  "name": "薩爾達傳說 時之笛 3D",
+  "formal_name": "薩爾達傳說 時之笛 3D",
+  "description": "『薩爾達傳說 時之笛 3D』是描述想將世界佔為己有，並陷入混沌的盜賊王加儂多夫與勇者林克間的宿命決鬥的動作冒險遊戲。運用各式各樣的裝備與道具，解開迷宮裡的謎題，進而與強敵戰鬥並繼續前往冒險。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AQEW",
+  "platform_name": "Nintendo 3DS 盒裝",
+  "region": "Taiwan",
+  "genres": [
+    "動作",
+    "冒險"
+  ],
+  "features": [
+    "對應3D影像"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

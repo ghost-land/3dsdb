@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000146800",
-    "uid": "50010000024615",
-    "name": "Tangram Attack",
-    "formal_name": "Tangram Attack",
-    "description": "Tangram Attack is a fast-paced slicing game with fiendish puzzles to test your mental agility. Slice and slash your way through hundreds of brain twisting puzzles and earn prestigious badges. Complete missions with Master Tan at the Academy to earn your stripes and unlock three addictive gameplay modes with endless replayability. Choose from Zen, Blitz and the insanely frantic Arcade mode to become the ultimate mental warrior. ",
-    "release_date_on_eshop": "2014-07-31",
-    "product_code": "CTR-N-KTAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000146800",
+  "uid": "50010000024615",
+  "name": "Tangram Attack",
+  "formal_name": "Tangram Attack",
+  "description": "Tangram Attack is a fast-paced slicing game with fiendish puzzles to test your mental agility. Slice and slash your way through hundreds of brain twisting puzzles and earn prestigious badges. Complete missions with Master Tan at the Academy to earn your stripes and unlock three addictive gameplay modes with endless replayability. Choose from Zen, Blitz and the insanely frantic Arcade mode to become the ultimate mental warrior. ",
+  "release_date_on_eshop": "2014-07-31",
+  "product_code": "CTR-N-KTAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

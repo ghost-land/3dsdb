@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000DC500",
-    "uid": "50010000015553",
-    "name": "Deer Drive Legends",
-    "formal_name": "Deer Drive Legends",
-    "description": "Featuring more than 30 elusive\nanimals including woolly rhinos,\nwhite-tailed deer, wolves and Irish\nelk, Deer Drive Legends 3DS takes\nyou to the far corners of the earth to\nhunt some of the wildest animals\nrarely seen by the human eye -\nseveral even believed to be extinct.\nCaptured in rich 3D environments,\nthese animals are quick, deadly, and\neager to turn you into dinner! Engage\nin vicious boss battles against the\nfeared T-Rex, saber-toothed cats, and\nGastornis. With diverse weapons to\nchoose from like sniper rifles,\ncrossbows, and high-powered\nshotguns, Deer Drive Legends 3DS is\nthe ultimate hunting game you've been\nwaiting for!",
-    "release_date_on_eshop": "2013-08-08",
-    "product_code": "CTR-N-AD2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DC500",
+  "uid": "50010000015553",
+  "name": "Deer Drive Legends",
+  "formal_name": "Deer Drive Legends",
+  "description": "Featuring more than 30 elusive\nanimals including woolly rhinos,\nwhite-tailed deer, wolves and Irish\nelk, Deer Drive Legends 3DS takes\nyou to the far corners of the earth to\nhunt some of the wildest animals\nrarely seen by the human eye -\nseveral even believed to be extinct.\nCaptured in rich 3D environments,\nthese animals are quick, deadly, and\neager to turn you into dinner! Engage\nin vicious boss battles against the\nfeared T-Rex, saber-toothed cats, and\nGastornis. With diverse weapons to\nchoose from like sniper rifles,\ncrossbows, and high-powered\nshotguns, Deer Drive Legends 3DS is\nthe ultimate hunting game you've been\nwaiting for!",
+  "release_date_on_eshop": "2013-08-08",
+  "product_code": "CTR-N-AD2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000EF300",
-    "uid": "50010000024555",
-    "name": "Mega Man™ 2",
-    "formal_name": "Mega Man™ 2",
-    "description": "Dr. Wily is up to no good, once\nagain. This time he’s stolen an\nexperimental time travel device and\nzipped off to the future! Meanwhile,\nMega Man and his trusty sidekick,\nRush, are sent on a mysterious\nmission to investigate an underground\nlair.\n<br/><br/>\nJump and blast your way through a\nbarrage of maniacal enemies while\ncollecting a variety of weapons and\nitems to help fight more Robot\nMasters! Who is this stranger from the\nfuture called Quint? Can Mega Man\nreach Dr. Wily before time's up? So\nsuit up and let's go!",
-    "release_date_on_eshop": "2014-08-07",
-    "product_code": "CTR-N-RCDP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EF300",
+  "uid": "50010000024555",
+  "name": "Mega Man™ 2",
+  "formal_name": "Mega Man™ 2",
+  "description": "Dr. Wily is up to no good, once\nagain. This time he’s stolen an\nexperimental time travel device and\nzipped off to the future! Meanwhile,\nMega Man and his trusty sidekick,\nRush, are sent on a mysterious\nmission to investigate an underground\nlair.\n<br/><br/>\nJump and blast your way through a\nbarrage of maniacal enemies while\ncollecting a variety of weapons and\nitems to help fight more Robot\nMasters! Who is this stranger from the\nfuture called Quint? Can Mega Man\nreach Dr. Wily before time's up? So\nsuit up and let's go!",
+  "release_date_on_eshop": "2014-08-07",
+  "product_code": "CTR-N-RCDP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

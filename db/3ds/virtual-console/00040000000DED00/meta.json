@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000DED00",
-    "uid": "50010000022020",
-    "name": "Mach Rider",
-    "formal_name": "Mach Rider",
-    "description": "Earth, the year 2112. A lone\nmotorcycle warrior is all that stands\nbetween invaders and survivors. You\nare Mach Rider!\n<br/><br/>\nIn the main Fighting Course mode,\nrace through winding highways and\ntake out the enemies using your\nmachine guns or by barging them into\nobstacles. In Endurance Course, pit\nyour survival skills against the clock,\nor try Solo Course for an enemy-free\nride.\n<br/><br/>\nMach Rider also includes a Design\nmode, enabling you to create your\nown courses on which to race.",
-    "release_date_on_eshop": "2014-06-12",
-    "product_code": "CTR-N-TC8P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DED00",
+  "uid": "50010000022020",
+  "name": "Mach Rider",
+  "formal_name": "Mach Rider",
+  "description": "Earth, the year 2112. A lone\nmotorcycle warrior is all that stands\nbetween invaders and survivors. You\nare Mach Rider!\n<br/><br/>\nIn the main Fighting Course mode,\nrace through winding highways and\ntake out the enemies using your\nmachine guns or by barging them into\nobstacles. In Endurance Course, pit\nyour survival skills against the clock,\nor try Solo Course for an enemy-free\nride.\n<br/><br/>\nMach Rider also includes a Design\nmode, enabling you to create your\nown courses on which to race.",
+  "release_date_on_eshop": "2014-06-12",
+  "product_code": "CTR-N-TC8P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000B1000",
-    "uid": "50010000011985",
-    "name": "Heavy Fire:\nSpecial Operations 3D",
-    "formal_name": "Heavy Fire:\nSpecial Operations 3D",
-    "description": "Gear up and join an elite Special\nForces unit in Heavy Fire: Special\nOperations 3D, an arcade-style on-rail\nshooter for Nintendo 3DS™. Choose\nfrom three character profiles, each\nwith unique attributes, and use a\ncombination of brains and brawn (but\nmostly brawn) to blast your way\nthrough a variety of dangerous\nground, vehicle and air-based stages.\nAnd if you’re really feeling\ntrigger-happy, you can earn additional\npoints by blowing up the environment.\nEach victory sees your military rank\nrise, earning you increasingly powerful\nand upgradeable weapons.<br>\n<br>\nYou’ll need preternatural reflexes and\na never-say-die spirit to restore peace\nin the ever-volatile Middle East. When\nthe smoke clears, will you be a\nSpecial Operations legend?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JHFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Arcade",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B1000",
+  "uid": "50010000011985",
+  "name": "Heavy Fire:\nSpecial Operations 3D",
+  "formal_name": "Heavy Fire:\nSpecial Operations 3D",
+  "description": "Gear up and join an elite Special\nForces unit in Heavy Fire: Special\nOperations 3D, an arcade-style on-rail\nshooter for Nintendo 3DS™. Choose\nfrom three character profiles, each\nwith unique attributes, and use a\ncombination of brains and brawn (but\nmostly brawn) to blast your way\nthrough a variety of dangerous\nground, vehicle and air-based stages.\nAnd if you’re really feeling\ntrigger-happy, you can earn additional\npoints by blowing up the environment.\nEach victory sees your military rank\nrise, earning you increasingly powerful\nand upgradeable weapons.<br>\n<br>\nYou’ll need preternatural reflexes and\na never-say-die spirit to restore peace\nin the ever-volatile Middle East. When\nthe smoke clears, will you be a\nSpecial Operations legend?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JHFP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Arcade",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

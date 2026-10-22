@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000C9400",
-    "uid": "50010000014619",
-    "name": "@SIMPLE DLシリーズ Vol.13\nTHE タクシー 僕はカリスマ運転手",
-    "formal_name": "@SIMPLE DLシリーズ Vol.13\nTHE タクシー 僕はカリスマ運転手",
-    "description": "架空の街「虹色シティ」を舞台にしたタクシー･ドライブシミュレーション。\n<br>駅にほど近いタクシー営業所の運転手となったあなたは、評判の良い運転手を目指して毎日タクシーを運行させます。\n<br>\n<br>売り上げが良いと所長がタクシーをパワーアップし、お客さんの要望を聞いてあげるとタクシーの装飾パーツを得ることができます。\n<br>\n<br>売り上げノルマに関係なく自由に街を走るモードも選ぶことができ、気軽にタクシー運転手気分が楽しめるゲームとなっています。",
-    "release_date_on_eshop": "2013-06-12",
-    "product_code": "CTR-N-JTXJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション",
-        "レース"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C9400",
+  "uid": "50010000014619",
+  "name": "@SIMPLE DLシリーズ Vol.13\nTHE タクシー 僕はカリスマ運転手",
+  "formal_name": "@SIMPLE DLシリーズ Vol.13\nTHE タクシー 僕はカリスマ運転手",
+  "description": "架空の街「虹色シティ」を舞台にしたタクシー･ドライブシミュレーション。\n<br>駅にほど近いタクシー営業所の運転手となったあなたは、評判の良い運転手を目指して毎日タクシーを運行させます。\n<br>\n<br>売り上げが良いと所長がタクシーをパワーアップし、お客さんの要望を聞いてあげるとタクシーの装飾パーツを得ることができます。\n<br>\n<br>売り上げノルマに関係なく自由に街を走るモードも選ぶことができ、気軽にタクシー運転手気分が楽しめるゲームとなっています。",
+  "release_date_on_eshop": "2013-06-12",
+  "product_code": "CTR-N-JTXJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション",
+    "レース"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

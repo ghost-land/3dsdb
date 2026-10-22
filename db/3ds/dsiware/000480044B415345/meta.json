@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B415345",
-    "uid": "50010000001041",
-    "name": "Art Style™: ZENGAGE™",
-    "formal_name": "Art Style™: ZENGAGE™",
-    "description": "Do you dream of relaxing with a great puzzle game? Gameplay in Art Style: ZENGAGE revolves around sliding cells (squares) to match colors with cores (beads) located on the board. Clear each stage by matching all of the cores and cells. As you progress further into the game’s 100+ stages, you’ll encounter cells with special characteristics (such as ones that can’t be moved), which further add to the challenge. To truly master ZENGAGE though, you must keep your mind sharp and employ careful strategy to complete stages in as few moves as possible. By combining wistful graphics and mesmerizing sound, ZENGAGE creates a surreal world that should be experienced by all puzzle game fans.\n\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n",
-    "release_date_on_eshop": "2009-07-20",
-    "product_code": "TWL-N-KASE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415345",
+  "uid": "50010000001041",
+  "name": "Art Style™: ZENGAGE™",
+  "formal_name": "Art Style™: ZENGAGE™",
+  "description": "Do you dream of relaxing with a great puzzle game? Gameplay in Art Style: ZENGAGE revolves around sliding cells (squares) to match colors with cores (beads) located on the board. Clear each stage by matching all of the cores and cells. As you progress further into the game’s 100+ stages, you’ll encounter cells with special characteristics (such as ones that can’t be moved), which further add to the challenge. To truly master ZENGAGE though, you must keep your mind sharp and employ careful strategy to complete stages in as few moves as possible. By combining wistful graphics and mesmerizing sound, ZENGAGE creates a surreal world that should be experienced by all puzzle game fans.\n\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n",
+  "release_date_on_eshop": "2009-07-20",
+  "product_code": "TWL-N-KASE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

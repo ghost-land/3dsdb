@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000AE900",
-    "uid": "50010000019873",
-    "name": "ARC STYLE: Solitaire",
-    "formal_name": "ARC STYLE: Solitaire",
-    "description": "In ARC STYLE: Solitaire, you will be able to enjoy the most popular of all solitaire card games which can be played alone, Klondike, and the easy-to-understand game Monte Carlo, loved by young and old alike.\n<br><br>\nChoose whether you wish to play on the 3D screen or the Touch Screen, and enjoy solitaire with as much challenge or help as you'd like, thanks to helpful features like undo, hints, and the ability to save and return to your games later.\n<br><br>\nPlay to win because the more times you do, the more decks and backgrounds you will unlock to enjoy your ideal solitaire game! Some can even be gotten with play coins!",
-    "release_date_on_eshop": "2014-01-30",
-    "product_code": "CTR-N-JKME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000AE900",
+  "uid": "50010000019873",
+  "name": "ARC STYLE: Solitaire",
+  "formal_name": "ARC STYLE: Solitaire",
+  "description": "In ARC STYLE: Solitaire, you will be able to enjoy the most popular of all solitaire card games which can be played alone, Klondike, and the easy-to-understand game Monte Carlo, loved by young and old alike.\n<br><br>\nChoose whether you wish to play on the 3D screen or the Touch Screen, and enjoy solitaire with as much challenge or help as you'd like, thanks to helpful features like undo, hints, and the ability to save and return to your games later.\n<br><br>\nPlay to win because the more times you do, the more decks and backgrounds you will unlock to enjoy your ideal solitaire game! Some can even be gotten with play coins!",
+  "release_date_on_eshop": "2014-01-30",
+  "product_code": "CTR-N-JKME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000400000009A500",
-    "uid": "50010000012838",
-    "name": "Johnny Impossible™",
-    "formal_name": "Johnny Impossible™",
-    "description": "It's a MEGA CRISIS!\n<br><br>\nMr. Wang’s Gang is up to no good once again! Take control of Johnny, the super spy, and stop Mr. Wang’s Gang’s ambitious evil plans!\n<br><br>\nMr. Wang has a super-laser mounted on a satellite in space, aiming to destroy Solid City! In this exciting side-scrolling stealth platformer, find and use all the tools at Johnny’s disposal to infiltrate Mr. Wang’s facilities. Sneak past the security, avoid traps, and confront enemy robots to save the city from Mr. Wang’s crazy super-laser in outer space!  ",
-    "release_date_on_eshop": "2012-12-27",
-    "product_code": "CTR-N-JHNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009A500",
+  "uid": "50010000012838",
+  "name": "Johnny Impossible™",
+  "formal_name": "Johnny Impossible™",
+  "description": "It's a MEGA CRISIS!\n<br><br>\nMr. Wang’s Gang is up to no good once again! Take control of Johnny, the super spy, and stop Mr. Wang’s Gang’s ambitious evil plans!\n<br><br>\nMr. Wang has a super-laser mounted on a satellite in space, aiming to destroy Solid City! In this exciting side-scrolling stealth platformer, find and use all the tools at Johnny’s disposal to infiltrate Mr. Wang’s facilities. Sneak past the security, avoid traps, and confront enemy robots to save the city from Mr. Wang’s crazy super-laser in outer space!  ",
+  "release_date_on_eshop": "2012-12-27",
+  "product_code": "CTR-N-JHNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

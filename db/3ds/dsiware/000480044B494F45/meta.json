@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B494F45",
-    "uid": "50010000007681",
-    "name": "1001 BlockBusters",
-    "formal_name": "1001 BlockBusters",
-    "description": "Think you've seen the ultimate brick-breaking game? Think again! Enjoy classic gameplay, amazing graphics and surprising bonuses as you smash through 1001 levels of blockbusting excitement! Use the stylus to catch, bounce and bust balls through complex constructions in four eye-popping worlds: Stone Age, Ancient Greece, Candy World, and Fantasy Forest. Beat your best score by collecting wild power-ups, including weapons, magnetic paddles, shields and more. But watch out for hidden hazards and booby traps—unless you like extra-small paddles and crazy camera angles! With over a dozen bonuses, 300 kinds of blocks and 1001 incredible levels, 1001 BlockBusters is non-stop, no-holds-barred, action-packed fun!\n\nFeatures:\n- 1001 levels in four different worlds (Ancient Greece, Stone Age, Candy World and Fantasy Forest)\n- More than 15 power-ups and power-downs\n- Three shooter types\n- Eye-catching graphics\n- Three game modes\n- High score list",
-    "release_date_on_eshop": "2011-10-13",
-    "product_code": "TWL-N-KIOE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B494F45",
+  "uid": "50010000007681",
+  "name": "1001 BlockBusters",
+  "formal_name": "1001 BlockBusters",
+  "description": "Think you've seen the ultimate brick-breaking game? Think again! Enjoy classic gameplay, amazing graphics and surprising bonuses as you smash through 1001 levels of blockbusting excitement! Use the stylus to catch, bounce and bust balls through complex constructions in four eye-popping worlds: Stone Age, Ancient Greece, Candy World, and Fantasy Forest. Beat your best score by collecting wild power-ups, including weapons, magnetic paddles, shields and more. But watch out for hidden hazards and booby traps—unless you like extra-small paddles and crazy camera angles! With over a dozen bonuses, 300 kinds of blocks and 1001 incredible levels, 1001 BlockBusters is non-stop, no-holds-barred, action-packed fun!\n\nFeatures:\n- 1001 levels in four different worlds (Ancient Greece, Stone Age, Candy World and Fantasy Forest)\n- More than 15 power-ups and power-downs\n- Three shooter types\n- Eye-catching graphics\n- Three game modes\n- High score list",
+  "release_date_on_eshop": "2011-10-13",
+  "product_code": "TWL-N-KIOE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

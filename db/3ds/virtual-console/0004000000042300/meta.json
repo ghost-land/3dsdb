@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000042300",
-    "uid": "50010000007055",
-    "name": "Game & Watch™ Gallery",
-    "formal_name": "Game & Watch™ Gallery",
-    "description": "With this, the first of the Game & Watch Gallery series, you can enjoy four different games, both in their original and revised releases. Classic versions take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters and bring you to the present with improved play control and sound effects! In this release, you can enjoy these four titles:\n<br><br>\nManhole<br>\nDon't let pedestrians fall!\n<br><br>\nFire<br>\nRescue the jumpers!\n<br><br>\nOctopus<br>\nRetreive the sunken treasure!\n<br><br>\nOil Panic<br>\nCatch the dripping oil!",
-    "release_date_on_eshop": "1997-05",
-    "product_code": "CTR-N-RAKE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000042300",
+  "uid": "50010000007055",
+  "name": "Game & Watch™ Gallery",
+  "formal_name": "Game & Watch™ Gallery",
+  "description": "With this, the first of the Game & Watch Gallery series, you can enjoy four different games, both in their original and revised releases. Classic versions take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters and bring you to the present with improved play control and sound effects! In this release, you can enjoy these four titles:\n<br><br>\nManhole<br>\nDon't let pedestrians fall!\n<br><br>\nFire<br>\nRescue the jumpers!\n<br><br>\nOctopus<br>\nRetreive the sunken treasure!\n<br><br>\nOil Panic<br>\nCatch the dripping oil!",
+  "release_date_on_eshop": "1997-05",
+  "product_code": "CTR-N-RAKE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

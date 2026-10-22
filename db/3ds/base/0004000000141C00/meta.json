@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000141C00",
-    "uid": "50010000026956",
-    "name": "Shin Megami Tensei IV",
-    "formal_name": "Shin Megami Tensei IV",
-    "description": "The Eastern Kingdom of Mikado is a\ncity of the chosen, sitting on high and\nprotected all around by towering\nwalls. Yet its people are at risk from\nan ongoing demon threat that the\nplayer as a newly appointed Samurai\nis duty-bound to fight against.\nThroughout the player's journey, they\nmust choose their own path. The\nchoices will affect them, other NPCs,\nand the overall outcome of the story.\nDecisions the player makes\nthroughout the course of the story will\nhave lasting repercussions, as the fate\nof the world hangs in the balance.",
-    "release_date_on_eshop": "2014-10-30",
-    "product_code": "CTR-N-AMXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000141C00",
+  "uid": "50010000026956",
+  "name": "Shin Megami Tensei IV",
+  "formal_name": "Shin Megami Tensei IV",
+  "description": "The Eastern Kingdom of Mikado is a\ncity of the chosen, sitting on high and\nprotected all around by towering\nwalls. Yet its people are at risk from\nan ongoing demon threat that the\nplayer as a newly appointed Samurai\nis duty-bound to fight against.\nThroughout the player's journey, they\nmust choose their own path. The\nchoices will affect them, other NPCs,\nand the overall outcome of the story.\nDecisions the player makes\nthroughout the course of the story will\nhave lasting repercussions, as the fate\nof the world hangs in the balance.",
+  "release_date_on_eshop": "2014-10-30",
+  "product_code": "CTR-N-AMXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

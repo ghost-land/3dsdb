@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000E5E00",
-    "uid": "50010000018035",
-    "name": "My Exotic Farm",
-    "formal_name": "My Exotic Farm",
-    "description": "Play as a farmer in the savanna!\n<br/><br/>\nBuy new animals, feed them, care for\nthem and make your African farmyard\na happy one to unlock lots of\nbonuses. Cultivate your land to feed\nyour ostriches, and gather their eggs\nto sell at the market.\n<br/><br/>\nGiraffes, lions, elephants,\ncrocodiles… make your farm prosper\nlike a real farmer! Customise the\nname, size and colour of your farm\nand animals, and trade your animals\nwith those of your friends.",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-P-ABUP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E5E00",
+  "uid": "50010000018035",
+  "name": "My Exotic Farm",
+  "formal_name": "My Exotic Farm",
+  "description": "Play as a farmer in the savanna!\n<br/><br/>\nBuy new animals, feed them, care for\nthem and make your African farmyard\na happy one to unlock lots of\nbonuses. Cultivate your land to feed\nyour ostriches, and gather their eggs\nto sell at the market.\n<br/><br/>\nGiraffes, lions, elephants,\ncrocodiles… make your farm prosper\nlike a real farmer! Customise the\nname, size and colour of your farm\nand animals, and trade your animals\nwith those of your friends.",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-P-ABUP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

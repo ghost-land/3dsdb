@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000187900",
-    "uid": "50010000038555",
-    "name": "Toys VS Monsters",
-    "formal_name": "Toys VS Monsters",
-    "description": "子供部屋に攻めてきたモンスターたちを倒すため、おもちゃたちと一緒に立ち向かいましょう。\n<br>おもちゃたちの力を理解するのとおもちゃを動かすことができる電池の配置が勝利のカギ。戦略をしっかりと立ててモンスターたちを迎え撃ちましょう。",
-    "release_date_on_eshop": "2015-12-02",
-    "product_code": "CTR-N-KTMJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シミュレーション",
-        "テーブル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000187900",
+  "uid": "50010000038555",
+  "name": "Toys VS Monsters",
+  "formal_name": "Toys VS Monsters",
+  "description": "子供部屋に攻めてきたモンスターたちを倒すため、おもちゃたちと一緒に立ち向かいましょう。\n<br>おもちゃたちの力を理解するのとおもちゃを動かすことができる電池の配置が勝利のカギ。戦略をしっかりと立ててモンスターたちを迎え撃ちましょう。",
+  "release_date_on_eshop": "2015-12-02",
+  "product_code": "CTR-N-KTMJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シミュレーション",
+    "テーブル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

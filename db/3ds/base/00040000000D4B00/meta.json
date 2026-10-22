@@ -1,37 +1,37 @@
 {
-    "tid": "00040000000D4B00",
-    "uid": "50010000025035",
-    "name": "Disney Magical World",
-    "formal_name": "Disney Magical World",
-    "description": "Endless opportunities for creativity\nand customisation allow the\nimagination to run wild in Disney\nMagical World. With more than 1,000\nitems, players can hone their design\nskills to create hundreds of\npersonalised Disney-themed outfits,\naccessories and furniture. Aspiring\nrestaurateurs can design a café from\nits décor to its menu. As they foster\nits success through careful\nmanagement, players can earn\nvaluable in-game coins and even pique\nthe interest of favourite Disney\ncharacters to stop by for a meal. The\npersonal “My Room” retreat above the\ncafé offers another customisable\nopportunity with even more items and\nfurniture.\n<br/><br/>\nAfter creating a personalised avatar\nand a customised dream life, players\nembark on a 3D fantasy adventure\nfeaturing more than 60 iconic Disney\ncharacters across a main central plaza\nand its surrounding worlds inspired by\nAlice in Wonderland, Cinderella,\nAladdin and more. It’s all Disney, all\nthe time as players interact with\nbeloved characters, manage a café to\nearn in-game coins, set off on\nghost-hunting quests and even visit\nfriends’ towns via Local Play.",
-    "release_date_on_eshop": "2014-10-24",
-    "product_code": "CTR-P-AMQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Simulation"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D4B00",
+  "uid": "50010000025035",
+  "name": "Disney Magical World",
+  "formal_name": "Disney Magical World",
+  "description": "Endless opportunities for creativity\nand customisation allow the\nimagination to run wild in Disney\nMagical World. With more than 1,000\nitems, players can hone their design\nskills to create hundreds of\npersonalised Disney-themed outfits,\naccessories and furniture. Aspiring\nrestaurateurs can design a café from\nits décor to its menu. As they foster\nits success through careful\nmanagement, players can earn\nvaluable in-game coins and even pique\nthe interest of favourite Disney\ncharacters to stop by for a meal. The\npersonal “My Room” retreat above the\ncafé offers another customisable\nopportunity with even more items and\nfurniture.\n<br/><br/>\nAfter creating a personalised avatar\nand a customised dream life, players\nembark on a 3D fantasy adventure\nfeaturing more than 60 iconic Disney\ncharacters across a main central plaza\nand its surrounding worlds inspired by\nAlice in Wonderland, Cinderella,\nAladdin and more. It’s all Disney, all\nthe time as players interact with\nbeloved characters, manage a café to\nearn in-game coins, set off on\nghost-hunting quests and even visit\nfriends’ towns via Local Play.",
+  "release_date_on_eshop": "2014-10-24",
+  "product_code": "CTR-P-AMQP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Simulation"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

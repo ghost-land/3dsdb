@@ -1,39 +1,39 @@
 {
-    "tid": "000400000019AB00",
-    "uid": "50010000042084",
-    "name": "YO-KAI WATCH® 2:\nBony Spirits",
-    "formal_name": "YO-KAI WATCH® 2:\n<br>Bony Spirits",
-    "description": "If you purchase the downloadable version of YO-KAI WATCH 2: Bony Spirits, you can get a special in-game item that lets you encounter Robonyan F in the game and have a chance to befriend him.\n<br>\n<br>A sinister force has sparked a war between two Yo-kai factions, Bony Spirits and Fleshy Souls, causing chaos throughout the world. Befriend more than 350 new and returning Yo-kai, each with unique personalities, and team up with the heroic cat Yo-kai Hovernyan to travel back in time and save Springdale!\n<br>\n<br>Supports 2 Players online and 4 Players via Local Play",
-    "release_date_on_eshop": "2017-04-07",
-    "product_code": "CTR-P-BYGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019AB00",
+  "uid": "50010000042084",
+  "name": "YO-KAI WATCH® 2:\nBony Spirits",
+  "formal_name": "YO-KAI WATCH® 2:\n<br>Bony Spirits",
+  "description": "If you purchase the downloadable version of YO-KAI WATCH 2: Bony Spirits, you can get a special in-game item that lets you encounter Robonyan F in the game and have a chance to befriend him.\n<br>\n<br>A sinister force has sparked a war between two Yo-kai factions, Bony Spirits and Fleshy Souls, causing chaos throughout the world. Befriend more than 350 new and returning Yo-kai, each with unique personalities, and team up with the heroic cat Yo-kai Hovernyan to travel back in time and save Springdale!\n<br>\n<br>Supports 2 Players online and 4 Players via Local Play",
+  "release_date_on_eshop": "2017-04-07",
+  "product_code": "CTR-P-BYGP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

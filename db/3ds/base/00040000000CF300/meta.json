@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000CF300",
-    "uid": "50010000025356",
-    "name": "カスタムモンスターズ",
-    "formal_name": "カスタムモンスターズ",
-    "description": "『カスタムモンスターズ』は予言を実現しようとする者たちから学校を守り抜くタワーディフェンスゲームです。\n<br>一癖も二癖もあるモンスター「カスモン」を召喚し、迫りくる凶悪モンスターたちをやっつけましょう。",
-    "release_date_on_eshop": "2014-09-03",
-    "product_code": "CTR-N-JCMJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000000CF300",
+  "uid": "50010000025356",
+  "name": "カスタムモンスターズ",
+  "formal_name": "カスタムモンスターズ",
+  "description": "『カスタムモンスターズ』は予言を実現しようとする者たちから学校を守り抜くタワーディフェンスゲームです。\n<br>一癖も二癖もあるモンスター「カスモン」を召喚し、迫りくる凶悪モンスターたちをやっつけましょう。",
+  "release_date_on_eshop": "2014-09-03",
+  "product_code": "CTR-N-JCMJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

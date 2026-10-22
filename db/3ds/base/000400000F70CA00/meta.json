@@ -1,32 +1,32 @@
 {
-    "tid": "000400000F70CA00",
-    "uid": "50010000046095",
-    "name": "Zeus Quest Remastered",
-    "formal_name": "Zeus Quest Remastered",
-    "description": "Zeus Quests Remastered is a Greek mythology game with Sci-fi effect where Zeus the God of War is about to save the world from the explosion and for that, he will be travelling the time to fix the explosion and for that Zeus underwent many exciting places and natural scenes of ocean, rain, volcano etc. \n<br>\n<br>Zeus is a funny and wacky character and there are many funny slangs used in the game by Zeus while his travel which acts a livelihood on the game, also the game has multi-language options such that you can relate more to the game. Zeus Quests Remastered in short is a real quest game which has complete storyline defined one after other the sequences are well defined which keeps your hold on the game and maintains the excitement level.  \n<br>\n<br>Time travel storyline of the game uses the Sci-fi effect which adds the next level adventure value to the experience of playing. The main of Zeus is to travel time, fix the machine and save the world. For the major twists play the game and experience now.",
-    "release_date_on_eshop": "2018-07-05",
-    "product_code": "KTR-N-CFRE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.5.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70CA00",
+  "uid": "50010000046095",
+  "name": "Zeus Quest Remastered",
+  "formal_name": "Zeus Quest Remastered",
+  "description": "Zeus Quests Remastered is a Greek mythology game with Sci-fi effect where Zeus the God of War is about to save the world from the explosion and for that, he will be travelling the time to fix the explosion and for that Zeus underwent many exciting places and natural scenes of ocean, rain, volcano etc. \n<br>\n<br>Zeus is a funny and wacky character and there are many funny slangs used in the game by Zeus while his travel which acts a livelihood on the game, also the game has multi-language options such that you can relate more to the game. Zeus Quests Remastered in short is a real quest game which has complete storyline defined one after other the sequences are well defined which keeps your hold on the game and maintains the excitement level.  \n<br>\n<br>Time travel storyline of the game uses the Sci-fi effect which adds the next level adventure value to the experience of playing. The main of Zeus is to travel time, fix the machine and save the world. For the major twists play the game and experience now.",
+  "release_date_on_eshop": "2018-07-05",
+  "product_code": "KTR-N-CFRE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.5.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

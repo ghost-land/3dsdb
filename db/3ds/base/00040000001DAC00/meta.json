@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DAC00",
-    "uid": "50010000048255",
-    "name": "Mountain Peak Battle Mess",
-    "formal_name": "Mountain Peak Battle Mess",
-    "description": "High, high in the clouds, there is a small mountain. There are fierce battles. You are a warrior who must survive as long as possible. Everything depends on you.\n<br>-Endless game with permanent death.\n<br>-Get experience and upgrade your statuses.\n<br>-Funny and hard game.",
-    "release_date_on_eshop": "2019-10-24",
-    "product_code": "CTR-N-B7MP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DAC00",
+  "uid": "50010000048255",
+  "name": "Mountain Peak Battle Mess",
+  "formal_name": "Mountain Peak Battle Mess",
+  "description": "High, high in the clouds, there is a small mountain. There are fierce battles. You are a warrior who must survive as long as possible. Everything depends on you.\n<br>-Endless game with permanent death.\n<br>-Get experience and upgrade your statuses.\n<br>-Funny and hard game.",
+  "release_date_on_eshop": "2019-10-24",
+  "product_code": "CTR-N-B7MP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

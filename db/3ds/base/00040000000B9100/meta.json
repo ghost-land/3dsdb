@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000B9100",
-    "uid": "50010000013554",
-    "name": "瑪利歐網球 公開賽",
-    "formal_name": "瑪利歐網球 公開賽",
-    "description": "能簡單地操作出千變萬化的擊球並進行對決，任何人都可以享受『瑪利歐網球 公開賽』所帶來的網球快感。\n『瑪利歐網球 公開賽』能夠選擇與他人對戰或合作，也能夠利用瞬間交錯通訊，亦或是選擇自製的Mii等，展開以網球為中心的各種遊戲方式，享受大家一起同樂的樂趣。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AGAW",
-    "platform_name": "Nintendo 3DS 盒裝",
-    "region": "Taiwan",
-    "genres": [
-        "運動"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊",
-        "對應下載遊戲"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B9100",
+  "uid": "50010000013554",
+  "name": "瑪利歐網球 公開賽",
+  "formal_name": "瑪利歐網球 公開賽",
+  "description": "能簡單地操作出千變萬化的擊球並進行對決，任何人都可以享受『瑪利歐網球 公開賽』所帶來的網球快感。\n『瑪利歐網球 公開賽』能夠選擇與他人對戰或合作，也能夠利用瞬間交錯通訊，亦或是選擇自製的Mii等，展開以網球為中心的各種遊戲方式，享受大家一起同樂的樂趣。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AGAW",
+  "platform_name": "Nintendo 3DS 盒裝",
+  "region": "Taiwan",
+  "genres": [
+    "運動"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "對應下載遊戲"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

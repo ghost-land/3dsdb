@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000DB500",
-    "uid": "50010000015396",
-    "name": "3D Sonic the Hedgehog",
-    "formal_name": "3D Sonic the Hedgehog",
-    "description": "The evil scientist, Dr. Eggman (aka\n<br>Dr. Robotnik), has snatched the\n<br>animals of South Island, turning them\n<br>into robot slaves. Only one hero can\n<br>defeat Dr. Eggman and rescue the\n<br>animals from his vile clutches – it’s\n<br>the super-cool hedgehog with the blue\n<br>spiky hair, Sonic!\n<br/><br/>\n<br>Race at lightning speeds across\n<br>seven classic zones as Sonic the\n<br>Hedgehog. Run and spin through\n<br>loop-de-loops as you collect rings\n<br>and defeat enemies on your mission to\n<br>save the world!\n<br/><br/>\n<br>In addition to its all-new 3D\n<br>presentation, 3D Sonic The\n<br>Hedgehog™ now features Zone Select\n<br>and the classic Spin Dash move to\n<br>help you zoom through Zones and\n<br>take down Badniks!",
-    "release_date_on_eshop": "2013-12-05",
-    "product_code": "CTR-N-JHJP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DB500",
+  "uid": "50010000015396",
+  "name": "3D Sonic the Hedgehog",
+  "formal_name": "3D Sonic the Hedgehog",
+  "description": "The evil scientist, Dr. Eggman (aka\n<br>Dr. Robotnik), has snatched the\n<br>animals of South Island, turning them\n<br>into robot slaves. Only one hero can\n<br>defeat Dr. Eggman and rescue the\n<br>animals from his vile clutches – it’s\n<br>the super-cool hedgehog with the blue\n<br>spiky hair, Sonic!\n<br/><br/>\n<br>Race at lightning speeds across\n<br>seven classic zones as Sonic the\n<br>Hedgehog. Run and spin through\n<br>loop-de-loops as you collect rings\n<br>and defeat enemies on your mission to\n<br>save the world!\n<br/><br/>\n<br>In addition to its all-new 3D\n<br>presentation, 3D Sonic The\n<br>Hedgehog™ now features Zone Select\n<br>and the classic Spin Dash move to\n<br>help you zoom through Zones and\n<br>take down Badniks!",
+  "release_date_on_eshop": "2013-12-05",
+  "product_code": "CTR-N-JHJP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000175700",
-    "uid": "50010000037255",
-    "name": "Brave Tank Hero™",
-    "formal_name": "Brave Tank Hero™",
-    "description": "Paradise City has been invaded, and\nit's up to you, brave soldier, to help\ntake the city back! Complete over 50\naction-packed Missions in this 3D\naction tank game! You'll be able to\npower up your tank to take on the\nincreasingly difficult enemies! Don't\nforget to use your radar to plan\ntactical attacks against the enemy!\nYou can also replay Missions to get\nbetter rankings to help power up your\ntank! Choose from 3 different types of\ntanks to take on the enemy, including\nhuge and fearsome boss tanks! Defeat\nthe invading forces to return the\n\"Paradise\" back to Paradise City!\n<br/><br/>\nChoose from 3 different types of\ntanks!<br/>\nPower up your tank to take down\nharder enemies!<br/>\nTake on huge and fearsome boss\ntanks!",
-    "release_date_on_eshop": "2015-09-24",
-    "product_code": "CTR-N-JLTP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000175700",
+  "uid": "50010000037255",
+  "name": "Brave Tank Hero™",
+  "formal_name": "Brave Tank Hero™",
+  "description": "Paradise City has been invaded, and\nit's up to you, brave soldier, to help\ntake the city back! Complete over 50\naction-packed Missions in this 3D\naction tank game! You'll be able to\npower up your tank to take on the\nincreasingly difficult enemies! Don't\nforget to use your radar to plan\ntactical attacks against the enemy!\nYou can also replay Missions to get\nbetter rankings to help power up your\ntank! Choose from 3 different types of\ntanks to take on the enemy, including\nhuge and fearsome boss tanks! Defeat\nthe invading forces to return the\n\"Paradise\" back to Paradise City!\n<br/><br/>\nChoose from 3 different types of\ntanks!<br/>\nPower up your tank to take down\nharder enemies!<br/>\nTake on huge and fearsome boss\ntanks!",
+  "release_date_on_eshop": "2015-09-24",
+  "product_code": "CTR-N-JLTP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

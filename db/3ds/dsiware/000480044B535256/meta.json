@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B535256",
-    "uid": "50010000006246",
-    "name": "Aura-Aura Climber™",
-    "formal_name": "Aura-Aura Climber™",
-    "description": "Meet gaming's newest 'star'!\nAura-Aura has fallen from the sky and\nlanded on Earth, and only you can\nreturn him to his home in the heavens.<br>\n<br>\nUse Aura-Aura's grapple arm to\nswing from grapple points floating in\nthe clouds and reach the highest\npossible altitude before the timer runs\nout. You'll find a variety of helpful\nitems on your way up, such as grapple\narm extensions and bombs that blast\nyou upwards. Watch out for the many\nenemies and hazards, though, and try\nnot to fall; it's a long way down!<br>\n<br>\nThere are two play modes to choose\nfrom: Score Attack and Endless\nMode. In Score Attack, your aim is to\nreach each goal with as many points\nas possible. In Endless Mode, you\nhave to climb as high as you can\nwithin a set time limit.<br>\n<br>\nWith gameplay that's simple yet\nsatisfying, lots of medals to unlock\nand classic 'just one more go'\nreplayability, Aura-Aura Climber will\nbring you to new heights of fun!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KSRV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B535256",
+  "uid": "50010000006246",
+  "name": "Aura-Aura Climber™",
+  "formal_name": "Aura-Aura Climber™",
+  "description": "Meet gaming's newest 'star'!\nAura-Aura has fallen from the sky and\nlanded on Earth, and only you can\nreturn him to his home in the heavens.<br>\n<br>\nUse Aura-Aura's grapple arm to\nswing from grapple points floating in\nthe clouds and reach the highest\npossible altitude before the timer runs\nout. You'll find a variety of helpful\nitems on your way up, such as grapple\narm extensions and bombs that blast\nyou upwards. Watch out for the many\nenemies and hazards, though, and try\nnot to fall; it's a long way down!<br>\n<br>\nThere are two play modes to choose\nfrom: Score Attack and Endless\nMode. In Score Attack, your aim is to\nreach each goal with as many points\nas possible. In Endless Mode, you\nhave to climb as high as you can\nwithin a set time limit.<br>\n<br>\nWith gameplay that's simple yet\nsatisfying, lots of medals to unlock\nand classic 'just one more go'\nreplayability, Aura-Aura Climber will\nbring you to new heights of fun!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KSRV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

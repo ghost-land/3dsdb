@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000156C00",
-    "uid": "50010000026955",
-    "name": "昆虫モンスター ライト スーパーバトル",
-    "formal_name": "昆虫モンスター ライト スーパーバトル",
-    "description": "カブトやクワガタなど、現実の昆虫に似ている不思議な生き物を捕まえ、戦わせて勝敗を競う競技「昆虫モンスター」が流行している世界で、数々の大会に参加しながら少しずつ経験を積み、世界中のプレイヤーが参加している昆虫モンスターランキングのトップを目指します。",
-    "release_date_on_eshop": "2014-10-29",
-    "product_code": "CTR-N-KMUJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000156C00",
+  "uid": "50010000026955",
+  "name": "昆虫モンスター ライト スーパーバトル",
+  "formal_name": "昆虫モンスター ライト スーパーバトル",
+  "description": "カブトやクワガタなど、現実の昆虫に似ている不思議な生き物を捕まえ、戦わせて勝敗を競う競技「昆虫モンスター」が流行している世界で、数々の大会に参加しながら少しずつ経験を積み、世界中のプレイヤーが参加している昆虫モンスターランキングのトップを目指します。",
+  "release_date_on_eshop": "2014-10-29",
+  "product_code": "CTR-N-KMUJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

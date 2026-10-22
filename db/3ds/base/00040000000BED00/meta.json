@@ -1,36 +1,36 @@
 {
-    "tid": "00040000000BED00",
-    "uid": "50010000015393",
-    "name": "Carps & Dragons",
-    "formal_name": "Carps & Dragons",
-    "description": "In this colorful pond getting lunch is\nnot that hard for Jack and Walter, or\nis it? Look at those Carps just\njumping out of the water! Aren't they\na beautiful joy? But, what about the\nbig bad Dragon watching over them?\n<br/><br/>\nPlay solo or with friends to “Carps &\nDragons” frenetic action and solve all\nthe challenging puzzles.\n<br/><br/>\nSend your friends a Demo via the\nNintendo 3DS Download Play.",
-    "release_date_on_eshop": "2013-08-22",
-    "product_code": "CTR-N-JFAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "WIFI",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BED00",
+  "uid": "50010000015393",
+  "name": "Carps & Dragons",
+  "formal_name": "Carps & Dragons",
+  "description": "In this colorful pond getting lunch is\nnot that hard for Jack and Walter, or\nis it? Look at those Carps just\njumping out of the water! Aren't they\na beautiful joy? But, what about the\nbig bad Dragon watching over them?\n<br/><br/>\nPlay solo or with friends to “Carps &\nDragons” frenetic action and solve all\nthe challenging puzzles.\n<br/><br/>\nSend your friends a Demo via the\nNintendo 3DS Download Play.",
+  "release_date_on_eshop": "2013-08-22",
+  "product_code": "CTR-N-JFAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "WIFI",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

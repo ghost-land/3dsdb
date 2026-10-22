@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000057D00",
-    "uid": "50010000007964",
-    "name": "Wario Land:\nSuper Mario Land 3",
-    "formal_name": "Wario Land:\nSuper Mario Land 3",
-    "description": "Witness Wario’s world-famous debut\nas a playable character, in the first\ngame to bear the Wario Land name.<br>\n<br>\nIn Wario Land: Super Mario Land 3,\nthe greedy treasure seeker is on a\nquest to Kitchen Island where he\nplans to steal the pirates’ booty, to\nhelp him build a castle bigger than\nMario’s.<br>\n<br>\nUnlike Mario, Wario has some tough\nmoves at his disposal, like the body\nslam, and he can don different magic\nhats to turn him into Jet Wario, Bull\nWario and even Dragon Wario!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBAP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000057D00",
+  "uid": "50010000007964",
+  "name": "Wario Land:\nSuper Mario Land 3",
+  "formal_name": "Wario Land:\nSuper Mario Land 3",
+  "description": "Witness Wario’s world-famous debut\nas a playable character, in the first\ngame to bear the Wario Land name.<br>\n<br>\nIn Wario Land: Super Mario Land 3,\nthe greedy treasure seeker is on a\nquest to Kitchen Island where he\nplans to steal the pirates’ booty, to\nhelp him build a castle bigger than\nMario’s.<br>\n<br>\nUnlike Mario, Wario has some tough\nmoves at his disposal, like the body\nslam, and he can don different magic\nhats to turn him into Jet Wario, Bull\nWario and even Dragon Wario!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBAP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000C2E00",
-    "uid": "50010000013416",
-    "name": "HarmoKnight™",
-    "formal_name": "HarmoKnight™",
-    "description": "HarmoKnight combines side-scrolling\nplatforming with rhythm-action\ngameplay to create an exciting and\ncolourful experience. Each stage has a\nmusical track that must be used as a\nguide to perform specific moves such\nas hitting enemies, jumping gaps and\nstriking musical plants in the\nbackground. Thanks to the game’s\nintuitive two-button control system,\npicking up the basics is really simple…\nbut that doesn’t mean that saving\nPrincess Ariana from the Noizoids is\ngoing to be easy!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-AQ7P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Music"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C2E00",
+  "uid": "50010000013416",
+  "name": "HarmoKnight™",
+  "formal_name": "HarmoKnight™",
+  "description": "HarmoKnight combines side-scrolling\nplatforming with rhythm-action\ngameplay to create an exciting and\ncolourful experience. Each stage has a\nmusical track that must be used as a\nguide to perform specific moves such\nas hitting enemies, jumping gaps and\nstriking musical plants in the\nbackground. Thanks to the game’s\nintuitive two-button control system,\npicking up the basics is really simple…\nbut that doesn’t mean that saving\nPrincess Ariana from the Noizoids is\ngoing to be easy!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-AQ7P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Music"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

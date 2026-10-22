@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000155C00",
-    "uid": "50010000029115",
-    "name": "Gardening Mama:\nForest Friends",
-    "formal_name": "Gardening Mama:\nForest Friends",
-    "description": "In this colourful game for\nNintendo 3DS and 2DS, players have\nto plant, water and harvest beautiful\nflowers and tasty fruit and veg in their\nvery own garden! Players can deliver\ncrops and flowers to local shops to\nhelp them expand their business, and\ndecorate their garden with over 100\ndecorations!",
-    "release_date_on_eshop": "2015-03-06",
-    "product_code": "CTR-P-BGMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000155C00",
+  "uid": "50010000029115",
+  "name": "Gardening Mama:\nForest Friends",
+  "formal_name": "Gardening Mama:\nForest Friends",
+  "description": "In this colourful game for\nNintendo 3DS and 2DS, players have\nto plant, water and harvest beautiful\nflowers and tasty fruit and veg in their\nvery own garden! Players can deliver\ncrops and flowers to local shops to\nhelp them expand their business, and\ndecorate their garden with over 100\ndecorations!",
+  "release_date_on_eshop": "2015-03-06",
+  "product_code": "CTR-P-BGMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B324F50",
-    "uid": "50010000001301",
-    "name": "505 Tangram",
-    "formal_name": "505 Tangram",
-    "description": "Solve 505 Tangram puzzles from\ndifferent groups and become a\nTangram Master! Numerous challenges\nawait you!<br>\n<br>\nTangram is the puzzle for purists.\nAssemble 7 pieces of the puzzle\ncorrectly to create a preset shape.\nAnimals, humans, shapes or objects in\nfive books... can you complete them\nall?<br>\n<br>\nDownload the game now!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K2OP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324F50",
+  "uid": "50010000001301",
+  "name": "505 Tangram",
+  "formal_name": "505 Tangram",
+  "description": "Solve 505 Tangram puzzles from\ndifferent groups and become a\nTangram Master! Numerous challenges\nawait you!<br>\n<br>\nTangram is the puzzle for purists.\nAssemble 7 pieces of the puzzle\ncorrectly to create a preset shape.\nAnimals, humans, shapes or objects in\nfive books... can you complete them\nall?<br>\n<br>\nDownload the game now!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K2OP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

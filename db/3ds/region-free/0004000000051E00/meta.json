@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000051E00",
-    "uid": "50010000010264",
-    "name": "Pokédex™ 3D Pro",
-    "formal_name": "Pokédex™ 3D Pro",
-    "description": "Become the Pokémon master! Find\nout everything you want to know\nabout your favourite Pokémon and see\nthem in 3D with the new\nPokédex 3D Pro!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-AQ9A",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Region Free",
-    "genres": [
-        "System Tool",
-        "Study",
-        "Training"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000051E00",
+  "uid": "50010000010264",
+  "name": "Pokédex™ 3D Pro",
+  "formal_name": "Pokédex™ 3D Pro",
+  "description": "Become the Pokémon master! Find\nout everything you want to know\nabout your favourite Pokémon and see\nthem in 3D with the new\nPokédex 3D Pro!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-AQ9A",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Region Free",
+  "genres": [
+    "System Tool",
+    "Study",
+    "Training"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

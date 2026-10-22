@@ -1,30 +1,30 @@
 {
-    "tid": "0004000E0006CF00",
-    "uid": "50010000024897",
-    "name": "Jewel Quest\nThe Sapphire Dragon - Update",
-    "formal_name": "Jewel Quest\nThe Sapphire Dragon - Update",
-    "description": "This update fixes an issue that could\ncause the game to crash.",
-    "release_date_on_eshop": "2014-08-08",
-    "product_code": "CTR-U-AJ6P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0006CF00",
+  "uid": "50010000024897",
+  "name": "Jewel Quest\nThe Sapphire Dragon - Update",
+  "formal_name": "Jewel Quest\nThe Sapphire Dragon - Update",
+  "description": "This update fixes an issue that could\ncause the game to crash.",
+  "release_date_on_eshop": "2014-08-08",
+  "product_code": "CTR-U-AJ6P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

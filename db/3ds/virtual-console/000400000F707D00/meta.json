@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F707D00",
-    "uid": "50010000042196",
-    "name": "Castlevania® Dracula X",
-    "formal_name": "Castlevania® Dracula X",
-    "description": "Dracula has risen once again, summoning his dark minions, and capturing the girlfriend of Richter Belmont as bait to lure the hero to his doom.\n<br>\n<br>As Richter, descendent of the original slayer Simon Belmont, wield the legendary whip and do battle against the denizens of Dracula's castle. Wield powerful weapons and mystical power-ups and discover secret bonus levels as you venture through seven levels of hellish action. Make your mark in the Belmont lineage and turn Dracula to dust!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2017-01-26",
-    "product_code": "KTR-N-UBRE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F707D00",
+  "uid": "50010000042196",
+  "name": "Castlevania® Dracula X",
+  "formal_name": "Castlevania® Dracula X",
+  "description": "Dracula has risen once again, summoning his dark minions, and capturing the girlfriend of Richter Belmont as bait to lure the hero to his doom.\n<br>\n<br>As Richter, descendent of the original slayer Simon Belmont, wield the legendary whip and do battle against the denizens of Dracula's castle. Wield powerful weapons and mystical power-ups and discover secret bonus levels as you venture through seven levels of hellish action. Make your mark in the Belmont lineage and turn Dracula to dust!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2017-01-26",
+  "product_code": "KTR-N-UBRE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

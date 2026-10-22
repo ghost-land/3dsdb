@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000094800",
-    "uid": "50010000012506",
-    "name": "NINJA GAIDEN®",
-    "formal_name": "NINJA GAIDEN®",
-    "description": "Experience the original adventure of\nRyu Hayabusa, the shadow warrior, in\nthis acclaimed action-platformer from\nthe NES era.\n\nNinja Gaiden sees Ryu travel to\nAmerica to seek vengeance for his\nfather’s murder and uncover a plot\nthat threatens the world – as told\nthrough unique anime-style cutscenes.\n\nRun, crouch, jump and climb as you\nbattle through 20 challenging\nside-scrolling areas over six acts while\ndefeating gangs of thugs, evil ninjas\nand barbarian bosses with your deadly\nDragon Sword and Ninpo – ninja\nmagic.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TAXP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000094800",
+  "uid": "50010000012506",
+  "name": "NINJA GAIDEN®",
+  "formal_name": "NINJA GAIDEN®",
+  "description": "Experience the original adventure of\nRyu Hayabusa, the shadow warrior, in\nthis acclaimed action-platformer from\nthe NES era.\n\nNinja Gaiden sees Ryu travel to\nAmerica to seek vengeance for his\nfather’s murder and uncover a plot\nthat threatens the world – as told\nthrough unique anime-style cutscenes.\n\nRun, crouch, jump and climb as you\nbattle through 20 challenging\nside-scrolling areas over six acts while\ndefeating gangs of thugs, evil ninjas\nand barbarian bosses with your deadly\nDragon Sword and Ninpo – ninja\nmagic.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TAXP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

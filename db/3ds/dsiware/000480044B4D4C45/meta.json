@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4D4C45",
-    "uid": "50010000002901",
-    "name": "Don't Cross The Line",
-    "formal_name": "Don't Cross The Line",
-    "description": "Don't Cross The Line is a puzzle game where the player must connect lines to various boxes, from one identical box to another, without crossing the lines they drew in the process. There are roughly 50 stages in all. Depending on how quickly each stage is completed, the player will be awarded with either a bronze, silver, or gold award. To unlock further stages, the player must get a certain ranking in previous stages in order to move on. Can you outwit the puzzles at hand and receive gold awards all around? Remember, Don't Cross The Line!\n\n",
-    "release_date_on_eshop": "2010-06-07",
-    "product_code": "TWL-N-KMLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4C45",
+  "uid": "50010000002901",
+  "name": "Don't Cross The Line",
+  "formal_name": "Don't Cross The Line",
+  "description": "Don't Cross The Line is a puzzle game where the player must connect lines to various boxes, from one identical box to another, without crossing the lines they drew in the process. There are roughly 50 stages in all. Depending on how quickly each stage is completed, the player will be awarded with either a bronze, silver, or gold award. To unlock further stages, the player must get a certain ranking in previous stages in order to move on. Can you outwit the puzzles at hand and receive gold awards all around? Remember, Don't Cross The Line!\n\n",
+  "release_date_on_eshop": "2010-06-07",
+  "product_code": "TWL-N-KMLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

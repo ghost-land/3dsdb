@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000119E00",
-    "uid": "50010000027620",
-    "name": "Pokémon™ Puzzle Challenge",
-    "formal_name": "Pokémon™ Puzzle Challenge",
-    "description": "Journey to Johto for a different kind\nof Pokémon challenge, as you put\nyour puzzling skills to the test against\nthe toughest gym leaders! Classic\nPokémon like Pikachu, Chikorita,\nTotodile and Pichu will help you take\non challengers and rival Pokémon.\nUse your lightning-fast reflexes to\nclear blocks and form chains and\ncombos to rack up huge scores.\n<br/><br/>\nChoose from six thrilling modes\nincluding Marathon, Challenge, Time\nZone, Line Clear, Puzzle and the\ngripping Garbage! mode as you try to\nhang on for big points while blocks\nrain down.",
-    "release_date_on_eshop": "2014-11-27",
-    "product_code": "CTR-N-QBAP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000119E00",
+  "uid": "50010000027620",
+  "name": "Pokémon™ Puzzle Challenge",
+  "formal_name": "Pokémon™ Puzzle Challenge",
+  "description": "Journey to Johto for a different kind\nof Pokémon challenge, as you put\nyour puzzling skills to the test against\nthe toughest gym leaders! Classic\nPokémon like Pikachu, Chikorita,\nTotodile and Pichu will help you take\non challengers and rival Pokémon.\nUse your lightning-fast reflexes to\nclear blocks and form chains and\ncombos to rack up huge scores.\n<br/><br/>\nChoose from six thrilling modes\nincluding Marathon, Challenge, Time\nZone, Line Clear, Puzzle and the\ngripping Garbage! mode as you try to\nhang on for big points while blocks\nrain down.",
+  "release_date_on_eshop": "2014-11-27",
+  "product_code": "CTR-N-QBAP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

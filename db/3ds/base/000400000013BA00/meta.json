@@ -1,28 +1,28 @@
 {
-    "tid": "000400000013BA00",
-    "uid": "50010000024275",
-    "name": "@SIMPLE DLシリーズ Vol.31\nTHE 密室からの脱出 カラオケ編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.31\nTHE 密室からの脱出\n～延長必至のカラオケ編～",
-    "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。\n<br>今度の舞台は、熱唱してストレス発散! のカラオケルーム。\n<br>実在する店舗「カラオケパセラ」協力により、室内を忠実に再現しました。マイクやカラオケ機械、ハニートーストにまで仕掛けられた謎を解き、閉じ込められた部屋からの脱出を楽しもう。",
-    "release_date_on_eshop": "2014-07-30",
-    "product_code": "CTR-N-KRDJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000013BA00",
+  "uid": "50010000024275",
+  "name": "@SIMPLE DLシリーズ Vol.31\nTHE 密室からの脱出 カラオケ編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.31\nTHE 密室からの脱出\n～延長必至のカラオケ編～",
+  "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。\n<br>今度の舞台は、熱唱してストレス発散! のカラオケルーム。\n<br>実在する店舗「カラオケパセラ」協力により、室内を忠実に再現しました。マイクやカラオケ機械、ハニートーストにまで仕掛けられた謎を解き、閉じ込められた部屋からの脱出を楽しもう。",
+  "release_date_on_eshop": "2014-07-30",
+  "product_code": "CTR-N-KRDJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

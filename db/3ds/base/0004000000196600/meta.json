@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000196600",
-    "uid": "50010000040316",
-    "name": "WordsUp! Academy",
-    "formal_name": "WordsUp! Academy",
-    "description": "Download Words Up! Academy for\n<br>free if you have already downloaded\n<br>Words Up! Academy on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™\n<br>must be linked with the same Nintendo\n<br>Network ID.)\n<br>\n<br>\n<br>Becoming part of the Academy is not\n<br>easy; its most illustrious members are\n<br>waiting for you, ready to challenge\n<br>you in this extraordinary puzzle and\n<br>skills game. Prove your mastery of\n<br>language in WordsUp! Academy... and\n<br>dare to challenge them and get their\n<br>approval!\n<br>\n<br>Main features:\n<br>\n<br>• 6 game modes! From the\n<br>challenging main mode to the new\n<br>Relax mode, where you will have fun\n<br>discovering words calmly and without\n<br>any pressure... Even your mother will\n<br>love it!\n<br>\n<br>• It also includes the game modes of\n<br>its predecessor 3, 2, 1... WordsUp!\n<br>\n<br>• Practice vocabulary in six\n<br>languages: English, French, Spanish,\n<br>Italian, German and Portuguese; the\n<br>perfect complement to your language\n<br>course!\n<br>\n<br>• Tens of thousands of words to\n<br>discover.\n<br>\n<br>• Unlimited hours of play.\n<br>\n<br>• And so you can get challenged by\n<br>and with your friends, register your\n<br>high scores on the online leaderbords!\n<br>\n<br>Practice your mental agility and your\n<br>knowledge of the language in\n<br>WordsUp! Academy!",
-    "release_date_on_eshop": "2016-05-12",
-    "product_code": "CTR-N-KWAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000196600",
+  "uid": "50010000040316",
+  "name": "WordsUp! Academy",
+  "formal_name": "WordsUp! Academy",
+  "description": "Download Words Up! Academy for\n<br>free if you have already downloaded\n<br>Words Up! Academy on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™\n<br>must be linked with the same Nintendo\n<br>Network ID.)\n<br>\n<br>\n<br>Becoming part of the Academy is not\n<br>easy; its most illustrious members are\n<br>waiting for you, ready to challenge\n<br>you in this extraordinary puzzle and\n<br>skills game. Prove your mastery of\n<br>language in WordsUp! Academy... and\n<br>dare to challenge them and get their\n<br>approval!\n<br>\n<br>Main features:\n<br>\n<br>• 6 game modes! From the\n<br>challenging main mode to the new\n<br>Relax mode, where you will have fun\n<br>discovering words calmly and without\n<br>any pressure... Even your mother will\n<br>love it!\n<br>\n<br>• It also includes the game modes of\n<br>its predecessor 3, 2, 1... WordsUp!\n<br>\n<br>• Practice vocabulary in six\n<br>languages: English, French, Spanish,\n<br>Italian, German and Portuguese; the\n<br>perfect complement to your language\n<br>course!\n<br>\n<br>• Tens of thousands of words to\n<br>discover.\n<br>\n<br>• Unlimited hours of play.\n<br>\n<br>• And so you can get challenged by\n<br>and with your friends, register your\n<br>high scores on the online leaderbords!\n<br>\n<br>Practice your mental agility and your\n<br>knowledge of the language in\n<br>WordsUp! Academy!",
+  "release_date_on_eshop": "2016-05-12",
+  "product_code": "CTR-N-KWAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

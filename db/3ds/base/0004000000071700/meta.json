@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000071700",
-    "uid": "50010000009768",
-    "name": "BATTLESHIP®",
-    "formal_name": "BATTLESHIP®",
-    "description": "Your Fleet. Your Fight. OUR Fate.\n<br><br>\nTake command of a US Naval fleet to wage war against an unknown alien force. Secure the seas before it’s too late.\n<br><br>\nDefend and protect your Battleships.<br>\nPlay in DUEL! Mode to fire on your enemies!<br>\nCall on your fleet!<br>\nFire At Will!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ABSE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Violence"
-    ]
+  "tid": "0004000000071700",
+  "uid": "50010000009768",
+  "name": "BATTLESHIP®",
+  "formal_name": "BATTLESHIP®",
+  "description": "Your Fleet. Your Fight. OUR Fate.\n<br><br>\nTake command of a US Naval fleet to wage war against an unknown alien force. Secure the seas before it’s too late.\n<br><br>\nDefend and protect your Battleships.<br>\nPlay in DUEL! Mode to fire on your enemies!<br>\nCall on your fleet!<br>\nFire At Will!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ABSE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Violence"
+  ]
 }

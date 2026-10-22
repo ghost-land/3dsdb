@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000125400",
-    "uid": "50010000023775",
-    "name": "Toy Stunt Bike",
-    "formal_name": "Toy Stunt Bike",
-    "description": "Toy Stunt Bike is a 3D, action-packed, micro-sized motorbike trials game. Race your toy bike across sixty levels in a variety of household locations. Leap over toasters, make massive jumps onto garden chairs, use laptops as ramps and perform crazy stunts!\n<br><br>\nSilky smooth gameplay with full physics on the bike and rider.<br>\nSixty levels to race.<br>\nOnline leaderboards to compete worldwide.<br>\nAmazing bike crashes.<br>\n3D Stereoscopic display (or full screen anti-aliasing when viewing in 2D).",
-    "release_date_on_eshop": "2014-06-26",
-    "product_code": "CTR-N-JTVE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Racing",
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000125400",
+  "uid": "50010000023775",
+  "name": "Toy Stunt Bike",
+  "formal_name": "Toy Stunt Bike",
+  "description": "Toy Stunt Bike is a 3D, action-packed, micro-sized motorbike trials game. Race your toy bike across sixty levels in a variety of household locations. Leap over toasters, make massive jumps onto garden chairs, use laptops as ramps and perform crazy stunts!\n<br><br>\nSilky smooth gameplay with full physics on the bike and rider.<br>\nSixty levels to race.<br>\nOnline leaderboards to compete worldwide.<br>\nAmazing bike crashes.<br>\n3D Stereoscopic display (or full screen anti-aliasing when viewing in 2D).",
+  "release_date_on_eshop": "2014-06-26",
+  "product_code": "CTR-N-JTVE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Racing",
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

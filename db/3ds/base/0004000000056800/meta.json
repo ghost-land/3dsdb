@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000056800",
-    "uid": "50010000007045",
-    "name": "びっくり!とびだす!魔法のペン",
-    "formal_name": "びっくり!とびだす!魔法のペン",
-    "description": "描いたものがホンモノになる「魔法のペン」を使って、色々なものを描いて世界を広げて行くお絵かきアドベンチャー。タッチペンを「魔法のペン」に見立てて、街の人から依頼された絵をスクリーン上に描くと、描いたものが画面から飛び出す!気分は魔法使い!自分で描いたARカードでは現実世界にキャラが出現します。<br>\n",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AMPJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000056800",
+  "uid": "50010000007045",
+  "name": "びっくり!とびだす!魔法のペン",
+  "formal_name": "びっくり!とびだす!魔法のペン",
+  "description": "描いたものがホンモノになる「魔法のペン」を使って、色々なものを描いて世界を広げて行くお絵かきアドベンチャー。タッチペンを「魔法のペン」に見立てて、街の人から依頼された絵をスクリーン上に描くと、描いたものが画面から飛び出す!気分は魔法使い!自分で描いたARカードでは現実世界にキャラが出現します。<br>\n",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AMPJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

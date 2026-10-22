@@ -1,28 +1,28 @@
 {
-    "tid": "0004008C000B8B00",
-    "uid": "50010000023381",
-    "name": "ぐんまのやぼう\nfor ニンテンドー3DS",
-    "formal_name": "ぐんまのやぼう\nfor ニンテンドー3DS",
-    "description": "2017年4月6日(木)18時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>ぐんまのやぼうとは、地図上に現れる、ねぎ･こんにゃく･きゃべつといった特産品を収穫しG(GUNMA)を手に入れて、集めたG(GUNMA)を使って、ほかの地域を「せいあつ」して群馬県にしていくゲームです。\n<br>とてもわかりやすいしんぷるなげーむです。",
-    "release_date_on_eshop": "2014-06-25",
-    "product_code": "CTR-N-JVGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション",
-        "学習"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C000B8B00",
+  "uid": "50010000023381",
+  "name": "ぐんまのやぼう\nfor ニンテンドー3DS",
+  "formal_name": "ぐんまのやぼう\nfor ニンテンドー3DS",
+  "description": "2017年4月6日(木)18時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>ぐんまのやぼうとは、地図上に現れる、ねぎ･こんにゃく･きゃべつといった特産品を収穫しG(GUNMA)を手に入れて、集めたG(GUNMA)を使って、ほかの地域を「せいあつ」して群馬県にしていくゲームです。\n<br>とてもわかりやすいしんぷるなげーむです。",
+  "release_date_on_eshop": "2014-06-25",
+  "product_code": "CTR-N-JVGJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション",
+    "学習"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

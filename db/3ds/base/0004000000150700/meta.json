@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000150700",
-    "uid": "50010000039737",
-    "name": "The Hand of Panda",
-    "formal_name": "The Hand of Panda",
-    "description": "The Hand of Panda is a fast action, memory and reflex game inspired by the bonus rounds commonly found in famous fighting games. Learn to focus your chi into a single strike by breaking orbs and channel your power to blow away a variety of challenging materials. Find ways to increase your score, to achieve legendary combos and to avoid distraction by your Master as you time your strike and finish off each item before the timer reaches zero.\n<br><br>\nJourney with Panda, a unlikely character who is discovered by Master Koi, an old teacher who has ultimately mastery of \"The Hand\"; a legendary ability to break any item that crosses his path. With your teacher at your side, develop your smashing skills and climb the mystical pagodas that hold the worlds most difficult materials. Finish each tower to follow the story and ultimately discover a hidden truth.",
-    "release_date_on_eshop": "2016-03-03",
-    "product_code": "CTR-N-KPDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000150700",
+  "uid": "50010000039737",
+  "name": "The Hand of Panda",
+  "formal_name": "The Hand of Panda",
+  "description": "The Hand of Panda is a fast action, memory and reflex game inspired by the bonus rounds commonly found in famous fighting games. Learn to focus your chi into a single strike by breaking orbs and channel your power to blow away a variety of challenging materials. Find ways to increase your score, to achieve legendary combos and to avoid distraction by your Master as you time your strike and finish off each item before the timer reaches zero.\n<br><br>\nJourney with Panda, a unlikely character who is discovered by Master Koi, an old teacher who has ultimately mastery of \"The Hand\"; a legendary ability to break any item that crosses his path. With your teacher at your side, develop your smashing skills and climb the mystical pagodas that hold the worlds most difficult materials. Finish each tower to follow the story and ultimately discover a hidden truth.",
+  "release_date_on_eshop": "2016-03-03",
+  "product_code": "CTR-N-KPDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

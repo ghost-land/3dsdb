@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000164C00",
-    "uid": "50010000030575",
-    "name": "KAMI",
-    "formal_name": "KAMI",
-    "description": "『KAMI』は、いろんな模様に描かれたステージを、紙をめくり1つの色に整えていく、純粋思考型パズルゲームです。\n<br>\n<br>下画面のマス目をタッチすると、それに隣接したマスが続々と同じ色にめくれていきます。\n<br>\n<br>指定されたステップ数以内に、ステージを1つの色に整えることができれば、ステージクリアです。\n<br>\n<br>和風の紙をテーマにした世界観とサウンドで、めくるめく、紙(KAMI)のパズルをお楽しみください。",
-    "release_date_on_eshop": "2015-02-18",
-    "product_code": "CTR-N-KMZJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "0004000000164C00",
+  "uid": "50010000030575",
+  "name": "KAMI",
+  "formal_name": "KAMI",
+  "description": "『KAMI』は、いろんな模様に描かれたステージを、紙をめくり1つの色に整えていく、純粋思考型パズルゲームです。\n<br>\n<br>下画面のマス目をタッチすると、それに隣接したマスが続々と同じ色にめくれていきます。\n<br>\n<br>指定されたステップ数以内に、ステージを1つの色に整えることができれば、ステージクリアです。\n<br>\n<br>和風の紙をテーマにした世界観とサウンドで、めくるめく、紙(KAMI)のパズルをお楽しみください。",
+  "release_date_on_eshop": "2015-02-18",
+  "product_code": "CTR-N-KMZJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

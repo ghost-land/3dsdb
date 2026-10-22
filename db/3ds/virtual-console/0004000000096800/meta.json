@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000096800",
-    "uid": "50010000010787",
-    "name": "Sonic Labyrinth™",
-    "formal_name": "Sonic Labyrinth™",
-    "description": "Dr. Eggman (AKA Dr. Robotnik) has tricked Sonic into wearing a pair of magical sneakers that prevent him from running at super-sonic speeds. The only things that can remove these sluggish shoes and restore Sonic's speed are the Chaos Emeralds hidden within Dr. Eggman’s Super Labyrinth.\n<br><br>\nSpin through four labyrinth zones, each containing three regular stages and a Boss stage. Seek out square warp gates to find special items, and earn extra lives by grabbing 100 rings in Bonus stages. Find the Chaos Emeralds before time runs out!",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-GAFE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000096800",
+  "uid": "50010000010787",
+  "name": "Sonic Labyrinth™",
+  "formal_name": "Sonic Labyrinth™",
+  "description": "Dr. Eggman (AKA Dr. Robotnik) has tricked Sonic into wearing a pair of magical sneakers that prevent him from running at super-sonic speeds. The only things that can remove these sluggish shoes and restore Sonic's speed are the Chaos Emeralds hidden within Dr. Eggman’s Super Labyrinth.\n<br><br>\nSpin through four labyrinth zones, each containing three regular stages and a Boss stage. Seek out square warp gates to find special items, and earn extra lives by grabbing 100 rings in Bonus stages. Find the Chaos Emeralds before time runs out!",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-GAFE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

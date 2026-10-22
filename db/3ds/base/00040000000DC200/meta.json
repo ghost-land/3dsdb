@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000DC200",
-    "uid": "50010000015453",
-    "name": "3D Altered Beast",
-    "formal_name": "3D Altered Beast",
-    "description": "Summoned from the dead by Zeus,\nshape shift into various beasts and\nfight off hordes of demons to rescue\nthe captured Athena from the clutches\nof Neff.\n<br/><br/>\nTransform into a variety of beasts and\nfight off throngs of demons sent forth\nby the evil Neff. The mighty\nshape-shifting god will challenge you\nin various, hideous forms in each\nlevel, but you are armed to the teeth\nwith transformative tricks of your own!\n<br/><br/>\nIn addition to its all-new 3D\npresentation, 3D Altered Beast also\nsupports local multiplayer, and a\nRandom Transformation Mode.",
-    "release_date_on_eshop": "2013-12-05",
-    "product_code": "CTR-N-JA7P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DC200",
+  "uid": "50010000015453",
+  "name": "3D Altered Beast",
+  "formal_name": "3D Altered Beast",
+  "description": "Summoned from the dead by Zeus,\nshape shift into various beasts and\nfight off hordes of demons to rescue\nthe captured Athena from the clutches\nof Neff.\n<br/><br/>\nTransform into a variety of beasts and\nfight off throngs of demons sent forth\nby the evil Neff. The mighty\nshape-shifting god will challenge you\nin various, hideous forms in each\nlevel, but you are armed to the teeth\nwith transformative tricks of your own!\n<br/><br/>\nIn addition to its all-new 3D\npresentation, 3D Altered Beast also\nsupports local multiplayer, and a\nRandom Transformation Mode.",
+  "release_date_on_eshop": "2013-12-05",
+  "product_code": "CTR-N-JA7P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

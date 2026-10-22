@@ -1,38 +1,38 @@
 {
-    "tid": "00040000001CEC00",
-    "uid": "50010000044857",
-    "name": "YO-KAI WATCH BLASTERS®:\nRed Cat Corps",
-    "formal_name": "YO-KAI WATCH BLASTERS®:\n<br>Red Cat Corps",
-    "description": "Bonus:\n<br>Download code for Magic Bell for YO-KAI WATCH BLASTERS®: Red Cat Corps for Nintendo 3DS.\n<br>\n<br>Players can team up with up to three other friends either locally or online to fight towering Big Bosses, using skills and powerful Soultimate Moves. While previous YO-KAI WATCH games focused on turn-based battles, YO-KAI WATCH BLASTERS drops you into real-time skirmishes, in the first ever action RPG for the series. \n<br>\n<br>During these battles, you directly control your Yo-kai as you strategise with different skills and equipment to defeat huge bosses. By taking on various fast-paced missions, players will embark on a journey to meet, befriend and battle more than 400 new and returning Yo-kai.\n<br>\n<br>Each of the two versions of the game – YO-KAI WATCH BLASTERS: White Dog Squad or YO-KAI WATCH BLASTERS: Red Cat Corps – contains different Yo-kai, missions and bosses. By trading between the two, you can collect all the Yo-kai!",
-    "release_date_on_eshop": "2018-09-07",
-    "product_code": "CTR-P-BYAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CEC00",
+  "uid": "50010000044857",
+  "name": "YO-KAI WATCH BLASTERS®:\nRed Cat Corps",
+  "formal_name": "YO-KAI WATCH BLASTERS®:\n<br>Red Cat Corps",
+  "description": "Bonus:\n<br>Download code for Magic Bell for YO-KAI WATCH BLASTERS®: Red Cat Corps for Nintendo 3DS.\n<br>\n<br>Players can team up with up to three other friends either locally or online to fight towering Big Bosses, using skills and powerful Soultimate Moves. While previous YO-KAI WATCH games focused on turn-based battles, YO-KAI WATCH BLASTERS drops you into real-time skirmishes, in the first ever action RPG for the series. \n<br>\n<br>During these battles, you directly control your Yo-kai as you strategise with different skills and equipment to defeat huge bosses. By taking on various fast-paced missions, players will embark on a journey to meet, befriend and battle more than 400 new and returning Yo-kai.\n<br>\n<br>Each of the two versions of the game – YO-KAI WATCH BLASTERS: White Dog Squad or YO-KAI WATCH BLASTERS: Red Cat Corps – contains different Yo-kai, missions and bosses. By trading between the two, you can collect all the Yo-kai!",
+  "release_date_on_eshop": "2018-09-07",
+  "product_code": "CTR-P-BYAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

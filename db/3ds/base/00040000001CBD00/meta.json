@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001CBD00",
-    "uid": "50010000046535",
-    "name": "Jake Hunter Detective Story:\nGhost of the Dusk",
-    "formal_name": "Jake Hunter Detective Story:\n<br>Ghost of the Dusk",
-    "description": "A shaky lead about a stiff in a haunted house puts Jake Hunter on a perilous path of clues and dark secrets. When the owner of the home comes clean that the place is cursed and the body count starts rising, Jake realizes he’s facing a threat unlike any other. Experience a new chapter in the Jake Hunter saga, along with five additional hard-boiled tales of detectives, deductions, danger, death and of course, dames. Use all your skills: search crime scenes, interview suspects and uncover the truth.",
-    "release_date_on_eshop": "2018-09-28",
-    "product_code": "CTR-P-BG9P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CBD00",
+  "uid": "50010000046535",
+  "name": "Jake Hunter Detective Story:\nGhost of the Dusk",
+  "formal_name": "Jake Hunter Detective Story:\n<br>Ghost of the Dusk",
+  "description": "A shaky lead about a stiff in a haunted house puts Jake Hunter on a perilous path of clues and dark secrets. When the owner of the home comes clean that the place is cursed and the body count starts rising, Jake realizes he’s facing a threat unlike any other. Experience a new chapter in the Jake Hunter saga, along with five additional hard-boiled tales of detectives, deductions, danger, death and of course, dames. Use all your skills: search crime scenes, interview suspects and uncover the truth.",
+  "release_date_on_eshop": "2018-09-28",
+  "product_code": "CTR-P-BG9P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

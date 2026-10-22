@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B565345",
-    "uid": "50010000009501",
-    "name": "Aahh! Spot The Difference",
-    "formal_name": "Aahh! Spot The Difference",
-    "description": "Demonstrate your skills of observation in this engaging \"Spot The Difference\" game! Complete 40 challenging levels in four unique scenarios by spotting the differences between the upper and lower screens. But you must be quick, as most of the objects and the camera are constantly moving. You can also test your skills in three additional modes: Survival, Speed Attack and Time Attack. You will earn one star for finding the required number of differences, two stars will be awarded if you find more, and if you find all the differences in the level you will receive three stars. Good luck!",
-    "release_date_on_eshop": "2012-03-01",
-    "product_code": "TWL-N-KVSE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B565345",
+  "uid": "50010000009501",
+  "name": "Aahh! Spot The Difference",
+  "formal_name": "Aahh! Spot The Difference",
+  "description": "Demonstrate your skills of observation in this engaging \"Spot The Difference\" game! Complete 40 challenging levels in four unique scenarios by spotting the differences between the upper and lower screens. But you must be quick, as most of the objects and the camera are constantly moving. You can also test your skills in three additional modes: Survival, Speed Attack and Time Attack. You will earn one star for finding the required number of differences, two stars will be awarded if you find more, and if you find all the differences in the level you will receive three stars. Good luck!",
+  "release_date_on_eshop": "2012-03-01",
+  "product_code": "TWL-N-KVSE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

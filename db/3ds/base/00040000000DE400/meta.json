@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000DE400",
-    "uid": "50010000015694",
-    "name": "3D Streets of Rage",
-    "formal_name": "3D Streets of Rage",
-    "description": "In the grips of a vicious crime\nsyndicate, this once peaceful city has\nbecome a center of violence and\nmayhem.\n<br/><br/>\nAmidst this chaos, three young police\nofficers are determined to tackle the\nproblem head-on. Taking control of\none of three ex-officers, use their\nspecial hand-to-hand combat abilities\nto take down the syndicate and save\nthe city.\n<br/><br/>\nIn addition to its all-new 3D\npresentation, 3D Streets of Rage also\nfeatures Local Multiplayer and a\nSingle Hit KO mode to help you power\nthrough the city’s crime.",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JRAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DE400",
+  "uid": "50010000015694",
+  "name": "3D Streets of Rage",
+  "formal_name": "3D Streets of Rage",
+  "description": "In the grips of a vicious crime\nsyndicate, this once peaceful city has\nbecome a center of violence and\nmayhem.\n<br/><br/>\nAmidst this chaos, three young police\nofficers are determined to tackle the\nproblem head-on. Taking control of\none of three ex-officers, use their\nspecial hand-to-hand combat abilities\nto take down the syndicate and save\nthe city.\n<br/><br/>\nIn addition to its all-new 3D\npresentation, 3D Streets of Rage also\nfeatures Local Multiplayer and a\nSingle Hit KO mode to help you power\nthrough the city’s crime.",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JRAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,37 +1,37 @@
 {
-    "tid": "000400000004AD00",
-    "uid": "50010000007471",
-    "name": "Centipede: Infestation ",
-    "formal_name": "Centipede: Infestation ",
-    "description": "A post-apocalyptic, action-packed experience that features run-n-gun shooting style gameplay with tower defense-style objects, paying homage to the original Centipede while bringing the brand into the 21st century! Play as Max, the hero and bug slayer, who must defend Maisy, a girl whose gardens bring life back to the wasteland. Squash giant mutated centipedes, spiders, beetles, grubs, caterpillars, moths, and more. Explore an expansive all-new world with gardens, wastelands, marshlands and 3 other environments. Lay waste to these mutated bugs with weapons such as the Lightning Gun, Nuke Cannon, Flamethrower, and more. Use the bodies of dead bugs to craft new defenses and power-ups like turret guns and barricades, or just crush them with your mighty stomp!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ACPE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Animated Blood",
-        "Fantasy Violence"
-    ]
+  "tid": "000400000004AD00",
+  "uid": "50010000007471",
+  "name": "Centipede: Infestation ",
+  "formal_name": "Centipede: Infestation ",
+  "description": "A post-apocalyptic, action-packed experience that features run-n-gun shooting style gameplay with tower defense-style objects, paying homage to the original Centipede while bringing the brand into the 21st century! Play as Max, the hero and bug slayer, who must defend Maisy, a girl whose gardens bring life back to the wasteland. Squash giant mutated centipedes, spiders, beetles, grubs, caterpillars, moths, and more. Explore an expansive all-new world with gardens, wastelands, marshlands and 3 other environments. Lay waste to these mutated bugs with weapons such as the Lightning Gun, Nuke Cannon, Flamethrower, and more. Use the bodies of dead bugs to craft new defenses and power-ups like turret guns and barricades, or just crush them with your mighty stomp!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ACPE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Animated Blood",
+    "Fantasy Violence"
+  ]
 }

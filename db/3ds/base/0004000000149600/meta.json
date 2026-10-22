@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000149600",
-    "uid": "50010000029695",
-    "name": "WRC Official Game of the FIA\nWorld Rally Championship",
-    "formal_name": "WRC Official Game of the FIA\nWorld Rally Championship",
-    "description": "From icy roads in Sweden to desert sand in Mexico, experience the World Rally Championship for the first time on Nintendo 3DS. Test your precision and speed on over 60 Super Special Stages drawn from the official courses of the 2014-2015 season!\n<br><br>\nTrain in Single Stage mode and play as your favourite driver in Championship mode to unlock Super Special Stages and new, official racing cars!\nAll of the official content of the 2014-2015 WRC season: 13 rallies, 7 teams, 14 drivers, the 4 official manufacturers and all of the associated liveries.\nRealistic damage to your vehicle in real time.\nRepair your car between each special race and purchase new, more powerful vehicles.",
-    "release_date_on_eshop": "2015-01-15",
-    "product_code": "CTR-N-BWRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Simulation",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000149600",
+  "uid": "50010000029695",
+  "name": "WRC Official Game of the FIA\nWorld Rally Championship",
+  "formal_name": "WRC Official Game of the FIA\nWorld Rally Championship",
+  "description": "From icy roads in Sweden to desert sand in Mexico, experience the World Rally Championship for the first time on Nintendo 3DS. Test your precision and speed on over 60 Super Special Stages drawn from the official courses of the 2014-2015 season!\n<br><br>\nTrain in Single Stage mode and play as your favourite driver in Championship mode to unlock Super Special Stages and new, official racing cars!\nAll of the official content of the 2014-2015 WRC season: 13 rallies, 7 teams, 14 drivers, the 4 official manufacturers and all of the associated liveries.\nRealistic damage to your vehicle in real time.\nRepair your car between each special race and purchase new, more powerful vehicles.",
+  "release_date_on_eshop": "2015-01-15",
+  "product_code": "CTR-N-BWRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Simulation",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000070900",
-    "uid": "50010000007276",
-    "name": "Zelda II™ -\nThe Adventure of Link™",
-    "formal_name": "Zelda II™ - The Adventure of Link™",
-    "description": "Original Release Date: December 1988\n\nLink™ returns to Hyrule to search for the Triforce and to awaken Zelda™ from an endless sleep. Embark on a quest to find the Triforce of Courage and save Hyrule from ruin. Learn magic spells, talk to people in towns to get clues, collect items to increase your power and explore six palaces where the underlings of the evil Ganon await you. This sequel to the adventure classic uses a side-scrolling visual engine unique to the series for more technical combat, and it features more in-depth world roaming as Link encounters townsfolk while on his quest.",
-    "release_date_on_eshop": "2011-09-01",
-    "product_code": "CTR-N-TANE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000070900",
+  "uid": "50010000007276",
+  "name": "Zelda II™ -\nThe Adventure of Link™",
+  "formal_name": "Zelda II™ - The Adventure of Link™",
+  "description": "Original Release Date: December 1988\n\nLink™ returns to Hyrule to search for the Triforce and to awaken Zelda™ from an endless sleep. Embark on a quest to find the Triforce of Courage and save Hyrule from ruin. Learn magic spells, talk to people in towns to get clues, collect items to increase your power and explore six palaces where the underlings of the evil Ganon await you. This sequel to the adventure classic uses a side-scrolling visual engine unique to the series for more technical combat, and it features more in-depth world roaming as Link encounters townsfolk while on his quest.",
+  "release_date_on_eshop": "2011-09-01",
+  "product_code": "CTR-N-TANE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

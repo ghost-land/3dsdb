@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000DDE00",
-    "uid": "50010000021514",
-    "name": "Mystery Case Files Dire Grove",
-    "formal_name": "Mystery Case Files Dire Grove",
-    "description": "The Celtic legend of Dire Grove has been passed down from generation to generation for centuries.\n<br>\n<br>Considered a fairytale, its telling was common at campfires and as a bedtime story meant to frighten small children into staying in their beds through the night. However, a recently unearthed artifact in the United Kingdom corroborates the legend and so begins a journey of survival for a small band of graduate students in the secluded resort of Dire Grove.",
-    "release_date_on_eshop": "2014-04-03",
-    "product_code": "CTR-N-ADHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000DDE00",
+  "uid": "50010000021514",
+  "name": "Mystery Case Files Dire Grove",
+  "formal_name": "Mystery Case Files Dire Grove",
+  "description": "The Celtic legend of Dire Grove has been passed down from generation to generation for centuries.\n<br>\n<br>Considered a fairytale, its telling was common at campfires and as a bedtime story meant to frighten small children into staying in their beds through the night. However, a recently unearthed artifact in the United Kingdom corroborates the legend and so begins a journey of survival for a small band of graduate students in the secluded resort of Dire Grove.",
+  "release_date_on_eshop": "2014-04-03",
+  "product_code": "CTR-N-ADHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000118B00",
-    "uid": "50010000023975",
-    "name": "LEGO® Ninjago™:\nNindroids™",
-    "formal_name": "LEGO® Ninjago™:\nNindroids™",
-    "description": "The highly popular LEGO® Ninjago™\nvideogame franchise is back with\nhigh-kicking action and adventure!\nBased on the first five new episodes of\nthe animated TV series, “LEGO\nNinjago Rebooted,” players will battle\nand defend the New Ninjago City\nwhere the Ninjas face a technological\nthreat by the evil Overlord and his\nrobotic army of Nindroids. Using swift\ncombo attacks, unique fighting moves,\nspecial weapons and new vehicles, the\nNinjas must fight with all their might\nto save Ninjago.",
-    "release_date_on_eshop": "2014-08-01",
-    "product_code": "CTR-P-BLNP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "* Game contains\nEnglish voice over.",
-    "descriptors": []
+  "tid": "0004000000118B00",
+  "uid": "50010000023975",
+  "name": "LEGO® Ninjago™:\nNindroids™",
+  "formal_name": "LEGO® Ninjago™:\nNindroids™",
+  "description": "The highly popular LEGO® Ninjago™\nvideogame franchise is back with\nhigh-kicking action and adventure!\nBased on the first five new episodes of\nthe animated TV series, “LEGO\nNinjago Rebooted,” players will battle\nand defend the New Ninjago City\nwhere the Ninjas face a technological\nthreat by the evil Overlord and his\nrobotic army of Nindroids. Using swift\ncombo attacks, unique fighting moves,\nspecial weapons and new vehicles, the\nNinjas must fight with all their might\nto save Ninjago.",
+  "release_date_on_eshop": "2014-08-01",
+  "product_code": "CTR-P-BLNP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "* Game contains\nEnglish voice over.",
+  "descriptors": []
 }

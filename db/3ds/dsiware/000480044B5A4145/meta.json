@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B5A4145",
-    "uid": "50010000004767",
-    "name": "ZENONIA®",
-    "formal_name": "ZENONIA®",
-    "description": "With ZENONIA®, the return of classic RPG action has arrived! Get ready for the endless journey of Regret, who is on a mission to find the reason for the death of his father at the hands of a demon. Regret’s quest begins by choosing one of three classes: Paladin, Warrior, or Assassin. There are hundreds different types of weapons and armors to equip and customize. There are tons of items to refine or combine from five different item classes: normal, magic, rare, unique and epic. There are even more astonishing features like full skill trees which you can level up, along with stunning visual and sound effects.\n\nZENONIA features extensive playtime including numerous main and side quests with a good and evil storyline path to choose from. Anime style graphics and innovative real life systems such as a day/night cycle and hunger/weight system make ZENONIA a unique gaming experience for everybody!",
-    "release_date_on_eshop": "2010-09-27",
-    "product_code": "TWL-N-KZAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4145",
+  "uid": "50010000004767",
+  "name": "ZENONIA®",
+  "formal_name": "ZENONIA®",
+  "description": "With ZENONIA®, the return of classic RPG action has arrived! Get ready for the endless journey of Regret, who is on a mission to find the reason for the death of his father at the hands of a demon. Regret’s quest begins by choosing one of three classes: Paladin, Warrior, or Assassin. There are hundreds different types of weapons and armors to equip and customize. There are tons of items to refine or combine from five different item classes: normal, magic, rare, unique and epic. There are even more astonishing features like full skill trees which you can level up, along with stunning visual and sound effects.\n\nZENONIA features extensive playtime including numerous main and side quests with a good and evil storyline path to choose from. Anime style graphics and innovative real life systems such as a day/night cycle and hunger/weight system make ZENONIA a unique gaming experience for everybody!",
+  "release_date_on_eshop": "2010-09-27",
+  "product_code": "TWL-N-KZAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

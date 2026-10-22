@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000188900",
-    "uid": "50010000040220",
-    "name": "마리오&루이지 RPG \n페이퍼 마리오 MIX",
-    "formal_name": "마리오&루이지 RPG \n페이퍼 마리오 MIX",
-    "description": "신비로운 책에서 튀어나온 팔랑팔랑한 피치나 키노피오들을 원래의 세계로 돌려보내기 위해, 마리오와 루이지가 새로운 동료 \"페이퍼 마리오\"와 함께, 3인이 세계를 누빕니다. 마리오와 루이지가 힘을 합쳐서 모험하는 「마리오&루이지 RPG」시리즈의 타이틀 입니다.",
-    "release_date_on_eshop": "2016-05-26",
-    "product_code": "CTR-N-AYNK",
-    "platform_name": "3DS 카드/다운로드 소프트웨어",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "RPG",
-        "어드벤처"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "amiibo"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "제명:마리오&루이지 RPG \n     페이퍼 마리오 MIX\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160108-003\n<br>등급분류 일자:2016.01.08\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>자막:한국어",
-    "descriptors": []
+  "tid": "0004000000188900",
+  "uid": "50010000040220",
+  "name": "마리오&루이지 RPG \n페이퍼 마리오 MIX",
+  "formal_name": "마리오&루이지 RPG \n페이퍼 마리오 MIX",
+  "description": "신비로운 책에서 튀어나온 팔랑팔랑한 피치나 키노피오들을 원래의 세계로 돌려보내기 위해, 마리오와 루이지가 새로운 동료 \"페이퍼 마리오\"와 함께, 3인이 세계를 누빕니다. 마리오와 루이지가 힘을 합쳐서 모험하는 「마리오&루이지 RPG」시리즈의 타이틀 입니다.",
+  "release_date_on_eshop": "2016-05-26",
+  "product_code": "CTR-N-AYNK",
+  "platform_name": "3DS 카드/다운로드 소프트웨어",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "RPG",
+    "어드벤처"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "amiibo"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "제명:마리오&루이지 RPG \n     페이퍼 마리오 MIX\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160108-003\n<br>등급분류 일자:2016.01.08\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>자막:한국어",
+  "descriptors": []
 }

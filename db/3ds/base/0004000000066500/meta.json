@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000066500",
-    "uid": "50010000010382",
-    "name": "ARC STYLE: フリーセル",
-    "formal_name": "ARC STYLE: フリーセル",
-    "description": "『ARC STYLE: フリーセル』は、有名な1人遊び用トランプゲームの「フリーセル」と、簡単なルールで誰でも楽しめる「ピラミッド」が楽しめます。\n<br>\n<br>ゲーム画面は上画面でも下画面でもどちらでもプレイすることができ、一手戻しやヒント、中断セーブ機能などにより快適に楽しむことができるようになっています。\n<br>\n<br>また、ゲームをクリアしていくと使えるカードや背景のデザインが増えていくのでデザインのコレクションも楽しめます。中にはゲームコインと交換で入手できるものもあります。",
-    "release_date_on_eshop": "2012-05-30",
-    "product_code": "CTR-N-JFPJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000066500",
+  "uid": "50010000010382",
+  "name": "ARC STYLE: フリーセル",
+  "formal_name": "ARC STYLE: フリーセル",
+  "description": "『ARC STYLE: フリーセル』は、有名な1人遊び用トランプゲームの「フリーセル」と、簡単なルールで誰でも楽しめる「ピラミッド」が楽しめます。\n<br>\n<br>ゲーム画面は上画面でも下画面でもどちらでもプレイすることができ、一手戻しやヒント、中断セーブ機能などにより快適に楽しむことができるようになっています。\n<br>\n<br>また、ゲームをクリアしていくと使えるカードや背景のデザインが増えていくのでデザインのコレクションも楽しめます。中にはゲームコインと交換で入手できるものもあります。",
+  "release_date_on_eshop": "2012-05-30",
+  "product_code": "CTR-N-JFPJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

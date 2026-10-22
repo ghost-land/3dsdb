@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B4B3745",
-    "uid": "50010000003001",
-    "name": "Music on: Electronic Keyboard",
-    "formal_name": "Music on: Electronic Keyboard",
-    "description": "Music On is an electronic keyboard to take with you everywhere! Get creative and spend relaxing moments transforming your Nintendo DSi system into a complete electronic keyboard with a great variety of instruments and rhythms. This is the perfect way to have fun and impress your friends with your musical creations! If you are already an expert or if you are taking your first steps, Electronic Keyboard will help you capture your inspiration wherever you are.\n\nCharacteristics:\n*Automatic accompaniment function with chord recognition\n*Up to 8 user definable chords\n*5 different styles, each one with 4 variations\n*Independent drum, bass and chorus parts\n*6 octave keyboard (2 visible)\n*Pitch bend function\n*16 instruments\n*Integrated sequencer\n*Metronome\n*Recording and replay option",
-    "release_date_on_eshop": "2010-06-14",
-    "product_code": "TWL-N-KK7E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B3745",
+  "uid": "50010000003001",
+  "name": "Music on: Electronic Keyboard",
+  "formal_name": "Music on: Electronic Keyboard",
+  "description": "Music On is an electronic keyboard to take with you everywhere! Get creative and spend relaxing moments transforming your Nintendo DSi system into a complete electronic keyboard with a great variety of instruments and rhythms. This is the perfect way to have fun and impress your friends with your musical creations! If you are already an expert or if you are taking your first steps, Electronic Keyboard will help you capture your inspiration wherever you are.\n\nCharacteristics:\n*Automatic accompaniment function with chord recognition\n*Up to 8 user definable chords\n*5 different styles, each one with 4 variations\n*Independent drum, bass and chorus parts\n*6 octave keyboard (2 visible)\n*Pitch bend function\n*16 instruments\n*Integrated sequencer\n*Metronome\n*Recording and replay option",
+  "release_date_on_eshop": "2010-06-14",
+  "product_code": "TWL-N-KK7E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

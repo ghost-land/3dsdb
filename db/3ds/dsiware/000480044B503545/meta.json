@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B503545",
-    "uid": "50010000003294",
-    "name": "Petz® Catz® Family",
-    "formal_name": "Petz® Catz® Family",
-    "description": "Care for and bond with a whole family of adorable cats! Care for them, play fun games with them, and give them lots of love.\n\n• Care for adorable baby kittens: feed and pet them, and watch them grow.\n• Bond with your cats to discover their unique talents and personalities.\n• Teach them fun tricks like running through obstacle courses and walking down the runway.",
-    "release_date_on_eshop": "2011-01-10",
-    "product_code": "TWL-N-KP5E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503545",
+  "uid": "50010000003294",
+  "name": "Petz® Catz® Family",
+  "formal_name": "Petz® Catz® Family",
+  "description": "Care for and bond with a whole family of adorable cats! Care for them, play fun games with them, and give them lots of love.\n\n• Care for adorable baby kittens: feed and pet them, and watch them grow.\n• Bond with your cats to discover their unique talents and personalities.\n• Teach them fun tricks like running through obstacle courses and walking down the runway.",
+  "release_date_on_eshop": "2011-01-10",
+  "product_code": "TWL-N-KP5E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

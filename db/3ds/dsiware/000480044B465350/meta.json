@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B465350",
-    "uid": "50010000003565",
-    "name": "Flashlight",
-    "formal_name": "Flashlight",
-    "description": "When it is dark, people need a simple\nsource of light. Flashlight changes the\ndual screen of your Nintendo DSi into\na torch with added features. Change\nthe colour and intensity of the light.\nUse your Nintendo DSi to read under\nthe duvet or to get a serious source\nof light while taking night hikes.<br>\n<br>\nFlashlight will also be helpful if you\nare stranded. You can use the warning\nlight if your car breaks down, or the\nS.O.S. function if your plane has to\nland on a deserted island.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KFSP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B465350",
+  "uid": "50010000003565",
+  "name": "Flashlight",
+  "formal_name": "Flashlight",
+  "description": "When it is dark, people need a simple\nsource of light. Flashlight changes the\ndual screen of your Nintendo DSi into\na torch with added features. Change\nthe colour and intensity of the light.\nUse your Nintendo DSi to read under\nthe duvet or to get a serious source\nof light while taking night hikes.<br>\n<br>\nFlashlight will also be helpful if you\nare stranded. You can use the warning\nlight if your car breaks down, or the\nS.O.S. function if your plane has to\nland on a deserted island.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KFSP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000186A00",
-    "uid": "50010000039221",
-    "name": "PET INN 3D",
-    "formal_name": "PET INN 3D",
-    "description": "Become the manager of a hotel for cats and dogs and take care of your pets: take your puppies out for a walk in the park, teach them to jump over a skipping-rope, pet them, play frisbee with them…\n<br><br>\nBrush your cats, teach them to hunt, train them for an obstacle course… and make them purr! Choose between 16 breeds of cats and dogs: Dalmatian, Labrador, Husky, Siamese, Tabby…\n<br><br>\nFeatures:<br>\nImpressive care simulation in 3D!<br>\nCute and lovely fur shaded animals<br>\n16 different breeds<br>\n14 minigames",
-    "release_date_on_eshop": "2016-01-21",
-    "product_code": "CTR-N-KP3E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n\n",
-    "descriptors": []
+  "tid": "0004000000186A00",
+  "uid": "50010000039221",
+  "name": "PET INN 3D",
+  "formal_name": "PET INN 3D",
+  "description": "Become the manager of a hotel for cats and dogs and take care of your pets: take your puppies out for a walk in the park, teach them to jump over a skipping-rope, pet them, play frisbee with them…\n<br><br>\nBrush your cats, teach them to hunt, train them for an obstacle course… and make them purr! Choose between 16 breeds of cats and dogs: Dalmatian, Labrador, Husky, Siamese, Tabby…\n<br><br>\nFeatures:<br>\nImpressive care simulation in 3D!<br>\nCute and lovely fur shaded animals<br>\n16 different breeds<br>\n14 minigames",
+  "release_date_on_eshop": "2016-01-21",
+  "product_code": "CTR-N-KP3E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n\n",
+  "descriptors": []
 }

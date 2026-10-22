@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000166A00",
-    "uid": "50010000039979",
-    "name": "逆転裁判6",
-    "formal_name": "逆転裁判6",
-    "description": "『逆転裁判6』は、無実の依頼人を助ける弁護士として、法廷バトルを繰り広げる推理アドベンチャーです。\n<br>\n<br>神秘と霊媒の国《クライン王国》と《日本》の2国で成歩堂龍一と王泥喜法介が大活躍！\n<br>証人のウソを見破り、「ムジュン」する証言に証拠品をつきつけ、真実を見つけ出しましょう！",
-    "release_date_on_eshop": "2016-06-09",
-    "product_code": "CTR-N-BG6J",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "いつの間に通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000166A00",
+  "uid": "50010000039979",
+  "name": "逆転裁判6",
+  "formal_name": "逆転裁判6",
+  "description": "『逆転裁判6』は、無実の依頼人を助ける弁護士として、法廷バトルを繰り広げる推理アドベンチャーです。\n<br>\n<br>神秘と霊媒の国《クライン王国》と《日本》の2国で成歩堂龍一と王泥喜法介が大活躍！\n<br>証人のウソを見破り、「ムジュン」する証言に証拠品をつきつけ、真実を見つけ出しましょう！",
+  "release_date_on_eshop": "2016-06-09",
+  "product_code": "CTR-N-BG6J",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "いつの間に通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

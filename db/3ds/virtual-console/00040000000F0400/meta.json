@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000F0400",
-    "uid": "50010000025475",
-    "name": "Mega Man™ Xtreme",
-    "formal_name": "Mega Man™ Xtreme",
-    "description": "Many years ago, Mega Man X—a blue\nrobot possessing high intelligence, a\nkind personality and formidable\npower—was found and studied by Dr.\nCain. The scientist attempted to\ncreate more in the likeness of the\nrobot, calling them 'Reploids'.\nHowever, some of the Reploids began\nto malfunction, and these were called\n'Mavericks'. The 'Maverick Hunters', a\ngroup of capable Reploids like Mega\nMan X, Zero and Sigma, was\nassembled to fix the situation.\nHowever, one day, Sigma revolts and\nhacks into the Mother Computer,\ncausing the Mavericks to grow in\npower.\n<br/><br/>\nWith chaos brewing on the horizon,\nMega Man X must join forces with\nMiddy, a genius hacker, and his\npartner Zero to restore peace. Blast\nthrough the past, defeat strong\nrobotic enemies and obtain new\nabilities as you clean up crime in this\naction-packed platformer!",
-    "release_date_on_eshop": "2014-09-04",
-    "product_code": "CTR-N-QAZP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F0400",
+  "uid": "50010000025475",
+  "name": "Mega Man™ Xtreme",
+  "formal_name": "Mega Man™ Xtreme",
+  "description": "Many years ago, Mega Man X—a blue\nrobot possessing high intelligence, a\nkind personality and formidable\npower—was found and studied by Dr.\nCain. The scientist attempted to\ncreate more in the likeness of the\nrobot, calling them 'Reploids'.\nHowever, some of the Reploids began\nto malfunction, and these were called\n'Mavericks'. The 'Maverick Hunters', a\ngroup of capable Reploids like Mega\nMan X, Zero and Sigma, was\nassembled to fix the situation.\nHowever, one day, Sigma revolts and\nhacks into the Mother Computer,\ncausing the Mavericks to grow in\npower.\n<br/><br/>\nWith chaos brewing on the horizon,\nMega Man X must join forces with\nMiddy, a genius hacker, and his\npartner Zero to restore peace. Blast\nthrough the past, defeat strong\nrobotic enemies and obtain new\nabilities as you clean up crime in this\naction-packed platformer!",
+  "release_date_on_eshop": "2014-09-04",
+  "product_code": "CTR-N-QAZP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

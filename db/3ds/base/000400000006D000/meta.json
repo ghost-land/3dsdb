@@ -1,31 +1,31 @@
 {
-    "tid": "000400000006D000",
-    "uid": "50010000010606",
-    "name": "Azada",
-    "formal_name": "Azada",
-    "description": "Trapped in a haunted room by his\ngreat-uncle, the adventurous Titus has\nasked you to help release him from\nthe magical spell. To do this, you\nmust solve the most mysterious\npuzzles of AZADA. Crack the series of\npuzzles and fill in the missing pages of\nthe enchanted book to free Titus from\nhis prison.",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-P-AZDP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006D000",
+  "uid": "50010000010606",
+  "name": "Azada",
+  "formal_name": "Azada",
+  "description": "Trapped in a haunted room by his\ngreat-uncle, the adventurous Titus has\nasked you to help release him from\nthe magical spell. To do this, you\nmust solve the most mysterious\npuzzles of AZADA. Crack the series of\npuzzles and fill in the missing pages of\nthe enchanted book to free Titus from\nhis prison.",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-P-AZDP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

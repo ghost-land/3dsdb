@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00030800",
-    "uid": "50010000010363",
-    "name": "Mario Kart™ 7\nUpdate Ver. 1.2",
-    "formal_name": "Mario Kart™ 7\nUpdate Ver. 1.2",
-    "description": "This is an update for the Mario Kart™ 7 game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Mario Kart 7, which is sold separately. \n\nDownloading this update will resolve shortcut exploits in the following online multiplayer mode courses: \n- Wuhu Loop \n- Maka Wuhu\n- Bowser Castle 1 \n\nStarting 5/16/12, this update will be required for online multiplayer mode. You can still play single-player or local multiplayer without installing the update. \n\nOnce the download is complete, the update will be installed automatically. The update will be visible under System Settings > Data Management > Nintendo 3DS > Add-On Content. There will be no gift icon displayed on the HOME Menu after the download is complete. When Mario Kart 7 is launched, \"Ver. 1.2\" will appear above the Online Multiplayer icon if the update was successful. Deleting the update will require you to download it again to play multiplayer online.",
-    "release_date_on_eshop": "2012-05-15",
-    "product_code": "CTR-U-AMKE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v3.5.0",
-    "disclaimer": "This is an update for Mario Kart™ 7 to resolve shortcut exploits in online multiplayer mode. After downloading, confirmation of the update will be visible under System Settings > Data Management > Nintendo 3DS > Add-On Content. This update is required for online multiplayer mode. Deleting the update will require you to download it again to play multiplayer online. You can still play single-player or local multiplayer without installing the update.",
-    "descriptors": []
+  "tid": "0004000E00030800",
+  "uid": "50010000010363",
+  "name": "Mario Kart™ 7\nUpdate Ver. 1.2",
+  "formal_name": "Mario Kart™ 7\nUpdate Ver. 1.2",
+  "description": "This is an update for the Mario Kart™ 7 game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Mario Kart 7, which is sold separately. \n\nDownloading this update will resolve shortcut exploits in the following online multiplayer mode courses: \n- Wuhu Loop \n- Maka Wuhu\n- Bowser Castle 1 \n\nStarting 5/16/12, this update will be required for online multiplayer mode. You can still play single-player or local multiplayer without installing the update. \n\nOnce the download is complete, the update will be installed automatically. The update will be visible under System Settings > Data Management > Nintendo 3DS > Add-On Content. There will be no gift icon displayed on the HOME Menu after the download is complete. When Mario Kart 7 is launched, \"Ver. 1.2\" will appear above the Online Multiplayer icon if the update was successful. Deleting the update will require you to download it again to play multiplayer online.",
+  "release_date_on_eshop": "2012-05-15",
+  "product_code": "CTR-U-AMKE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v3.5.0",
+  "disclaimer": "This is an update for Mario Kart™ 7 to resolve shortcut exploits in online multiplayer mode. After downloading, confirmation of the update will be visible under System Settings > Data Management > Nintendo 3DS > Add-On Content. This update is required for online multiplayer mode. Deleting the update will require you to download it again to play multiplayer online. You can still play single-player or local multiplayer without installing the update.",
+  "descriptors": []
 }

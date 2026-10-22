@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000F8900",
-    "uid": "50010000027197",
-    "name": "Gargoyle's Quest™ II:\nThe Demon Darkness",
-    "formal_name": "Gargoyle's Quest™ II:\nThe Demon Darkness",
-    "description": "In the land of Etruria where monsters roam freely, one beast acts on his own to restore magic within the Ghost Realm. Join Firebrand the Gargoyle on his perilous journey to search for the origin of the mysterious dark beam of light that has destroyed his home. Explore the world and talk to fellow ghouls to acquire magical items that will boost your powers. Then take to battle and dodge magical assaults, deadly traps, and cunning opponents that will stop at nothing to protect their ghastly secret! See if you have what it takes to solve riddles while fighting for your very existence!",
-    "release_date_on_eshop": "2014-10-30",
-    "product_code": "CTR-N-TDNE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F8900",
+  "uid": "50010000027197",
+  "name": "Gargoyle's Quest™ II:\nThe Demon Darkness",
+  "formal_name": "Gargoyle's Quest™ II:\nThe Demon Darkness",
+  "description": "In the land of Etruria where monsters roam freely, one beast acts on his own to restore magic within the Ghost Realm. Join Firebrand the Gargoyle on his perilous journey to search for the origin of the mysterious dark beam of light that has destroyed his home. Explore the world and talk to fellow ghouls to acquire magical items that will boost your powers. Then take to battle and dodge magical assaults, deadly traps, and cunning opponents that will stop at nothing to protect their ghastly secret! See if you have what it takes to solve riddles while fighting for your very existence!",
+  "release_date_on_eshop": "2014-10-30",
+  "product_code": "CTR-N-TDNE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001AEB00",
-    "uid": "50010000041817",
-    "name": "Ping Pong Trick Shot",
-    "formal_name": "Ping Pong Trick Shot",
-    "description": "Test your ball throwing skills across a variety of challenges as you attempt to throw a ball into a cup on the other side of the screen.\n<br>Use the Circle Pad or Stylus to fling a ball at just the right trajectory and power to make it land inside the cup. Use items such as warp holes, trampolines and moving platforms to overcome seemingly impossible levels. Challenge your throwing skills across four game modes: Score Attack, Mission Mode Challenge Mode and Time Attack.\n<br>\n<br>Score Attack Mode\n<br>How many times out of 20 throws can you get the ball into the cup?\n<br>\n<br>Mission Mode\n<br>Challenge yourself to five random stages with specific bounce criteria.\n<br>\n<br>Challenge Mode\n<br>Can you complete all stages with 35 balls?\n<br>\n<br>Time Attack\n<br>How many times can you throw the ball into the cup in one minute?",
-    "release_date_on_eshop": "2016-10-20",
-    "product_code": "CTR-N-KP9P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AEB00",
+  "uid": "50010000041817",
+  "name": "Ping Pong Trick Shot",
+  "formal_name": "Ping Pong Trick Shot",
+  "description": "Test your ball throwing skills across a variety of challenges as you attempt to throw a ball into a cup on the other side of the screen.\n<br>Use the Circle Pad or Stylus to fling a ball at just the right trajectory and power to make it land inside the cup. Use items such as warp holes, trampolines and moving platforms to overcome seemingly impossible levels. Challenge your throwing skills across four game modes: Score Attack, Mission Mode Challenge Mode and Time Attack.\n<br>\n<br>Score Attack Mode\n<br>How many times out of 20 throws can you get the ball into the cup?\n<br>\n<br>Mission Mode\n<br>Challenge yourself to five random stages with specific bounce criteria.\n<br>\n<br>Challenge Mode\n<br>Can you complete all stages with 35 balls?\n<br>\n<br>Time Attack\n<br>How many times can you throw the ball into the cup in one minute?",
+  "release_date_on_eshop": "2016-10-20",
+  "product_code": "CTR-N-KP9P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

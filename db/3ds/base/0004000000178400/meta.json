@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000178400",
-    "uid": "50010000040015",
-    "name": "雷子-紺碧の章-",
-    "formal_name": "雷子-紺碧の章-",
-    "description": "2017年8月21日(月)19時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>古代中国春秋時代「呉越」を舞台にした物語のゲームとなります。\n<br>本作はシミュレーションゲームとなります。\n<br>いにしえの武将たちを操り勝ち進んでいくゲームとなります。",
-    "release_date_on_eshop": "2016-04-21",
-    "product_code": "CTR-N-ARPJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "17"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "0004000000178400",
+  "uid": "50010000040015",
+  "name": "雷子-紺碧の章-",
+  "formal_name": "雷子-紺碧の章-",
+  "description": "2017年8月21日(月)19時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>古代中国春秋時代「呉越」を舞台にした物語のゲームとなります。\n<br>本作はシミュレーションゲームとなります。\n<br>いにしえの武将たちを操り勝ち進んでいくゲームとなります。",
+  "release_date_on_eshop": "2016-04-21",
+  "product_code": "CTR-N-ARPJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "17"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

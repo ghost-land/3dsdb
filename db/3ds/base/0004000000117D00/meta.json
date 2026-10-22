@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000117D00",
-    "uid": "50010000040624",
-    "name": "Rubik's® Cube",
-    "formal_name": "Rubik's® Cube",
-    "description": "The official Rubik’s Cube game is\nhere!\n<br/><br/>\nPlay anywhere, anytime on the most\nauthentic digital representation of the\nRubik’s Cube available. Rubik's Cube\nis a 3-D combination puzzle invented\nin 1974 by Hungarian sculptor and\nprofessor of architecture Ernő Rubik.\n<br/><br/>\nGame Features:\n<br/>\n-Intuitive touch controls\n<br/>\n-Cube 2x2x2 and Cube 3x3x3\n<br/>\n-Solver\n<br/>\n-Camera Capture\n<br/>\n-Internet rankings\n<br/><br/>\nThe game is developed under the\nlicense of the Rubik's Brand Ltd.",
-    "release_date_on_eshop": "2016-06-23",
-    "product_code": "CTR-N-JLQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Simulation"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000117D00",
+  "uid": "50010000040624",
+  "name": "Rubik's® Cube",
+  "formal_name": "Rubik's® Cube",
+  "description": "The official Rubik’s Cube game is\nhere!\n<br/><br/>\nPlay anywhere, anytime on the most\nauthentic digital representation of the\nRubik’s Cube available. Rubik's Cube\nis a 3-D combination puzzle invented\nin 1974 by Hungarian sculptor and\nprofessor of architecture Ernő Rubik.\n<br/><br/>\nGame Features:\n<br/>\n-Intuitive touch controls\n<br/>\n-Cube 2x2x2 and Cube 3x3x3\n<br/>\n-Solver\n<br/>\n-Camera Capture\n<br/>\n-Internet rankings\n<br/><br/>\nThe game is developed under the\nlicense of the Rubik's Brand Ltd.",
+  "release_date_on_eshop": "2016-06-23",
+  "product_code": "CTR-N-JLQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Simulation"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

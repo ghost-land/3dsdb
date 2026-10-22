@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000055100",
-    "uid": "50010000007030",
-    "name": "3D Classics Xevious™",
-    "formal_name": "3D Classics Xevious™",
-    "description": "Strike deep behind enemy lines in the\nintense classic shooter, now revamped\nin 3D!<br>\n<br>\n3D Classics Xevious puts you in the\ncockpit of a state-of-the-art Solvalou\nstrike fighter on a daring mission to\ninfiltrate hostile airspace. You are\nhumanity's last hope of eradicating\nthe sinister XEVIOUS collective -\nshoot down wave after wave of enemy\nfighters, drop your deadly payload of\nguided bombs and take out the\ncolossal flying fortress to bring the\nXEVIOUS war machine to its knees!<br>\n<br>\nConsidered one of the forefathers of\nthe overhead vertical shooter, Xevious\ncan yet still dazzle with new 3D\nfeatures!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-SABP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000055100",
+  "uid": "50010000007030",
+  "name": "3D Classics Xevious™",
+  "formal_name": "3D Classics Xevious™",
+  "description": "Strike deep behind enemy lines in the\nintense classic shooter, now revamped\nin 3D!<br>\n<br>\n3D Classics Xevious puts you in the\ncockpit of a state-of-the-art Solvalou\nstrike fighter on a daring mission to\ninfiltrate hostile airspace. You are\nhumanity's last hope of eradicating\nthe sinister XEVIOUS collective -\nshoot down wave after wave of enemy\nfighters, drop your deadly payload of\nguided bombs and take out the\ncolossal flying fortress to bring the\nXEVIOUS war machine to its knees!<br>\n<br>\nConsidered one of the forefathers of\nthe overhead vertical shooter, Xevious\ncan yet still dazzle with new 3D\nfeatures!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-SABP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B444445",
-    "uid": "50010000001922",
-    "name": "DodoGo!",
-    "formal_name": "DodoGo!",
-    "description": "Adventure in the time of the dinosaurs. Save as many dodo eggs as possible by leading them to safety. The fascinating little eggs love rolling, jumping, and laughing together, blissfully ignorant of the dangers around them. Get creative with easy tools: build dynamic structures and modify the terrain with a simple touch of the stylus. Shape, brush, saw, dig and even use explosives! A touch-based game for everyone. Nearly 100 captivating missions, with bonus levels for a change of pace, and lots of surprises to discover!",
-    "release_date_on_eshop": "2010-04-26",
-    "product_code": "TWL-N-KDDE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B444445",
+  "uid": "50010000001922",
+  "name": "DodoGo!",
+  "formal_name": "DodoGo!",
+  "description": "Adventure in the time of the dinosaurs. Save as many dodo eggs as possible by leading them to safety. The fascinating little eggs love rolling, jumping, and laughing together, blissfully ignorant of the dangers around them. Get creative with easy tools: build dynamic structures and modify the terrain with a simple touch of the stylus. Shape, brush, saw, dig and even use explosives! A touch-based game for everyone. Nearly 100 captivating missions, with bonus levels for a change of pace, and lots of surprises to discover!",
+  "release_date_on_eshop": "2010-04-26",
+  "product_code": "TWL-N-KDDE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

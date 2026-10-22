@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B354850",
-    "uid": "50010000013834",
-    "name": "Ah! Heaven",
-    "formal_name": "Ah! Heaven",
-    "description": "Ah! Heaven, is a platform game\ndeveloped with an Eastern ink painting\nstyle.\n<br/><br/>\nYou play as a soul willing to ascend\nto heaven. Though heaven's gate is\nopen, God will not take you there,\nyou have to go by yourself. You will\nmeet all kinds of danger in your\njourney; can you get through it to\nmake your ascension?\n<br/><br/>\nFeatures:\n<br/><br/>\n- Unique Eastern ink painting style,\ndepicting various regions from across\nthe world.\n<br/><br/>\n- An exhilarating experience with\nsimple controls.\n<br/><br/>\n- 24 challenging stages; can you\nbeat them all in the fastest time\npossible?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K5HP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B354850",
+  "uid": "50010000013834",
+  "name": "Ah! Heaven",
+  "formal_name": "Ah! Heaven",
+  "description": "Ah! Heaven, is a platform game\ndeveloped with an Eastern ink painting\nstyle.\n<br/><br/>\nYou play as a soul willing to ascend\nto heaven. Though heaven's gate is\nopen, God will not take you there,\nyou have to go by yourself. You will\nmeet all kinds of danger in your\njourney; can you get through it to\nmake your ascension?\n<br/><br/>\nFeatures:\n<br/><br/>\n- Unique Eastern ink painting style,\ndepicting various regions from across\nthe world.\n<br/><br/>\n- An exhilarating experience with\nsimple controls.\n<br/><br/>\n- 24 challenging stages; can you\nbeat them all in the fastest time\npossible?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K5HP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

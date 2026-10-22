@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000079600",
-    "uid": "50010000017693",
-    "name": "Jett Rocket II:\nThe Wrath of Taikai",
-    "formal_name": "Jett Rocket II:\nThe Wrath of Taikai",
-    "description": "Jett Rocket returns! Your favorite\nplanetary inspector is back and in\ntrouble. His archrival Kaiser Taikai has\nto settle an old score with him.\n<br/><br/>\nExplore the home planet of the Power\nPlant Posse and ignite your trusty old\njet pack in this epic full-3D\naction-adventure!\n<br/><br/>\nJett Rocket II runs in full\nstereoscopic 3D at a super-smooth\n60 frames/sec.",
-    "release_date_on_eshop": "2013-11-13",
-    "product_code": "CTR-N-JRSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Adventure",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000079600",
+  "uid": "50010000017693",
+  "name": "Jett Rocket II:\nThe Wrath of Taikai",
+  "formal_name": "Jett Rocket II:\nThe Wrath of Taikai",
+  "description": "Jett Rocket returns! Your favorite\nplanetary inspector is back and in\ntrouble. His archrival Kaiser Taikai has\nto settle an old score with him.\n<br/><br/>\nExplore the home planet of the Power\nPlant Posse and ignite your trusty old\njet pack in this epic full-3D\naction-adventure!\n<br/><br/>\nJett Rocket II runs in full\nstereoscopic 3D at a super-smooth\n60 frames/sec.",
+  "release_date_on_eshop": "2013-11-13",
+  "product_code": "CTR-N-JRSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

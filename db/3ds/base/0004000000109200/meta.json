@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000109200",
-    "uid": "50010000025777",
-    "name": "Hello Kitty\nHappy Happy Family",
-    "formal_name": "Hello Kitty\nHappy Happy Family",
-    "description": "Play with Kitty and her entire family.\n<br/>\nLearn while having fun with 25\nentertaining workshops.\n<br/>\nCollect hundreds of images and\ndisguises for Kitty and Mimmy!\n",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-P-BHHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000109200",
+  "uid": "50010000025777",
+  "name": "Hello Kitty\nHappy Happy Family",
+  "formal_name": "Hello Kitty\nHappy Happy Family",
+  "description": "Play with Kitty and her entire family.\n<br/>\nLearn while having fun with 25\nentertaining workshops.\n<br/>\nCollect hundreds of images and\ndisguises for Kitty and Mimmy!\n",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-P-BHHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

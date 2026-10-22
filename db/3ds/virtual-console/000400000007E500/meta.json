@@ -1,26 +1,26 @@
 {
-    "tid": "000400000007E500",
-    "uid": "50010000010425",
-    "name": "MYSTICAL NINJA\nstarring GOEMON",
-    "formal_name": "MYSTICAL NINJA\nstarring GOEMON",
-    "description": "Join Goemon and his friends\nEbisumaru and Sasuke as they battle\nto save ancient Japan from the\nclutches of the evil Black Ship Gang,\nand rescue their fellow ninja Yae from\nthe gang's clutches!<br>\n<br>\nMYSTICAL NINJA starring GOEMON is\nan action role-playing game featuring\nthree different characters to control,\neach with unique skills. Visit towns\nand question the inhabitants for clues,\nbuy items to aid your quest, and solve\nbrain-teasing puzzles to seek out Yae\nand defeat the pirates.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBRP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007E500",
+  "uid": "50010000010425",
+  "name": "MYSTICAL NINJA\nstarring GOEMON",
+  "formal_name": "MYSTICAL NINJA\nstarring GOEMON",
+  "description": "Join Goemon and his friends\nEbisumaru and Sasuke as they battle\nto save ancient Japan from the\nclutches of the evil Black Ship Gang,\nand rescue their fellow ninja Yae from\nthe gang's clutches!<br>\n<br>\nMYSTICAL NINJA starring GOEMON is\nan action role-playing game featuring\nthree different characters to control,\neach with unique skills. Visit towns\nand question the inhabitants for clues,\nbuy items to aid your quest, and solve\nbrain-teasing puzzles to seek out Yae\nand defeat the pirates.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBRP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

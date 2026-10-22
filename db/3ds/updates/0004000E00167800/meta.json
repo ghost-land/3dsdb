@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E00167800",
-    "uid": "50010000040097",
-    "name": "YO-KAI WATCH©:\nUpdate",
-    "formal_name": "YO-KAI WATCH©:\n<br>Update",
-    "description": "An update for YO-KAI WATCH is now\n<br>available from Nintendo eShop. All\n<br>customers who own a copy of YO-KAI\n<br>WATCH should download the update.\n<br>This will update the software to\n<br>Version 1.1 with the following\n<br>amendments:\n<br><br/><br/>\n<br>- Various bugs have been fixed in\n<br>order to provide a smoother gaming\n<br>experience.\n<br><br/><br/>\n<br>• Once the update has been\n<br>downloaded, it will be installed\n<br>automatically.\n<br><br/><br/>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
-    "release_date_on_eshop": "2016-04-28",
-    "product_code": "CTR-U-AYWP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00167800",
+  "uid": "50010000040097",
+  "name": "YO-KAI WATCH©:\nUpdate",
+  "formal_name": "YO-KAI WATCH©:\n<br>Update",
+  "description": "An update for YO-KAI WATCH is now\n<br>available from Nintendo eShop. All\n<br>customers who own a copy of YO-KAI\n<br>WATCH should download the update.\n<br>This will update the software to\n<br>Version 1.1 with the following\n<br>amendments:\n<br><br/><br/>\n<br>- Various bugs have been fixed in\n<br>order to provide a smoother gaming\n<br>experience.\n<br><br/><br/>\n<br>• Once the update has been\n<br>downloaded, it will be installed\n<br>automatically.\n<br><br/><br/>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
+  "release_date_on_eshop": "2016-04-28",
+  "product_code": "CTR-U-AYWP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

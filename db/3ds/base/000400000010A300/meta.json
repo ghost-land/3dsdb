@@ -1,28 +1,28 @@
 {
-    "tid": "000400000010A300",
-    "uid": "50010000026675",
-    "name": "My Style Studio:\nHair Salon",
-    "formal_name": "My Style Studio:\nHair Salon",
-    "description": "Wash, color, cut, curl and style -\nmake any hair style you want!\n<br/><br/>\nChoose between five cute characters\nand cut and style them in whatever\nway you want. Use lots of different\ntools – from a simple scissors to a\ncurling iron and decorate the final\nlook with hats, glasses and other fun\naccessories.\n<br/><br/>\n<br/><br/>\n- realistic hair styling\n<br/><br/>\n- 5 cute characters\n<br/><br/>\n- 13 different tools\n<br/><br/>\n- lots of different accessories: hats,\nglasses and much more\n<br/><br/>\n- smooth and beautiful animations",
-    "release_date_on_eshop": "2014-10-23",
-    "product_code": "CTR-N-JZ2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Simulation",
-        "Party",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010A300",
+  "uid": "50010000026675",
+  "name": "My Style Studio:\nHair Salon",
+  "formal_name": "My Style Studio:\nHair Salon",
+  "description": "Wash, color, cut, curl and style -\nmake any hair style you want!\n<br/><br/>\nChoose between five cute characters\nand cut and style them in whatever\nway you want. Use lots of different\ntools – from a simple scissors to a\ncurling iron and decorate the final\nlook with hats, glasses and other fun\naccessories.\n<br/><br/>\n<br/><br/>\n- realistic hair styling\n<br/><br/>\n- 5 cute characters\n<br/><br/>\n- 13 different tools\n<br/><br/>\n- lots of different accessories: hats,\nglasses and much more\n<br/><br/>\n- smooth and beautiful animations",
+  "release_date_on_eshop": "2014-10-23",
+  "product_code": "CTR-N-JZ2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Simulation",
+    "Party",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B345745",
-    "uid": "50010000000882",
-    "name": "Super Swap",
-    "formal_name": "Super Swap",
-    "description": "Can't get enough of swapping puzzle games, but want something different? Swap till you drop with Super Swap, an exciting blend of arcade action and match-3 fun. Drag colorful blocks in one of four directions to connect three or more blocks and clear the board. As new blocks fall, you'll have to move fast to keep the stack from reaching the top! Experience plenty of twists and never-seen-before gameplay as you make combos, collect special power-ups and gain additional points in four different game modes. With so much fast and furious puzzling fun, you'll never want to stop the swapping!",
-    "release_date_on_eshop": "2010-06-21",
-    "product_code": "TWL-N-K4WE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B345745",
+  "uid": "50010000000882",
+  "name": "Super Swap",
+  "formal_name": "Super Swap",
+  "description": "Can't get enough of swapping puzzle games, but want something different? Swap till you drop with Super Swap, an exciting blend of arcade action and match-3 fun. Drag colorful blocks in one of four directions to connect three or more blocks and clear the board. As new blocks fall, you'll have to move fast to keep the stack from reaching the top! Experience plenty of twists and never-seen-before gameplay as you make combos, collect special power-ups and gain additional points in four different game modes. With so much fast and furious puzzling fun, you'll never want to stop the swapping!",
+  "release_date_on_eshop": "2010-06-21",
+  "product_code": "TWL-N-K4WE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000CB000",
-    "uid": "50010000019735",
-    "name": "Family Tennis",
-    "formal_name": "Family Tennis",
-    "description": "간단한 조작만으로도 상쾌, 통쾌, 경쾌한 테니스 게임을 즐길 수 있는 패밀리 테니스는 일반적인 단식, 복식 게임은 물론, 하면 할수록 도전하고 싶은 미니게임들까지 수록되어 즐길 거리도 풍부합니다.\n개성 넘치는 캐릭터들로 온 가족 모두가 함께 즐겨 보세요.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2014-01-29",
-    "product_code": "CTR-N-JK3K",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "스포츠"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "제명 : Family Tennis\n상호 : 게임뮤지엄\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131011-011\n등급분류 일자 : 2013.10.11.\n제작・배급업신고번호:  20091",
-    "descriptors": []
+  "tid": "00040000000CB000",
+  "uid": "50010000019735",
+  "name": "Family Tennis",
+  "formal_name": "Family Tennis",
+  "description": "간단한 조작만으로도 상쾌, 통쾌, 경쾌한 테니스 게임을 즐길 수 있는 패밀리 테니스는 일반적인 단식, 복식 게임은 물론, 하면 할수록 도전하고 싶은 미니게임들까지 수록되어 즐길 거리도 풍부합니다.\n개성 넘치는 캐릭터들로 온 가족 모두가 함께 즐겨 보세요.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2014-01-29",
+  "product_code": "CTR-N-JK3K",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "스포츠"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "제명 : Family Tennis\n상호 : 게임뮤지엄\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131011-011\n등급분류 일자 : 2013.10.11.\n제작・배급업신고번호:  20091",
+  "descriptors": []
 }

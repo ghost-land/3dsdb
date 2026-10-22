@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001AD400",
-    "uid": "50010000042229",
-    "name": "ハコボーイ！ ハコづめＢＯＸ",
-    "formal_name": "ハコボーイ！ ハコづめＢＯＸ",
-    "description": "ハコを出すことができる、四角い体の主人公「キュービィ」を操作して、さまざまな障害物を乗り越える『ハコボーイ！』シリーズがまとめて楽しめる、数量限定特別パッケージ。\n<br>シリーズ全3作を収録した特製パッケージソフトに加え、主人公「キュービィ」のamiibo、シリーズの全BGMを収録したサウンドトラック「ハコボーイ！ 音楽全集」がセットになっています。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BC2J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション"
-    ],
-    "features": [
-        "amiibo"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001AD400",
+  "uid": "50010000042229",
+  "name": "ハコボーイ！ ハコづめＢＯＸ",
+  "formal_name": "ハコボーイ！ ハコづめＢＯＸ",
+  "description": "ハコを出すことができる、四角い体の主人公「キュービィ」を操作して、さまざまな障害物を乗り越える『ハコボーイ！』シリーズがまとめて楽しめる、数量限定特別パッケージ。\n<br>シリーズ全3作を収録した特製パッケージソフトに加え、主人公「キュービィ」のamiibo、シリーズの全BGMを収録したサウンドトラック「ハコボーイ！ 音楽全集」がセットになっています。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BC2J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション"
+  ],
+  "features": [
+    "amiibo"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

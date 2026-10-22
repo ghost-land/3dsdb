@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000098C00",
-    "uid": "50010000010553",
-    "name": "プリプリ PRIMITIVE PRINCESS!",
-    "formal_name": "プリプリ PRIMITIVE PRINCESS!",
-    "description": "このソフトは、1990年に発売されたゲームボーイ用のアクションパズルゲームです。\nヌボーの塔は、恐ろしいモンスターや複雑なトラップのある禁断の塔です。冒険者トトムは、プリプリと結婚するため、ブロックを落下させたりつくったりできる不思議なハンマーを使って、迷路のようなヌボーの塔の最上階をめざします。\n",
-    "release_date_on_eshop": "2012-07-18",
-    "product_code": "CTR-N-RB9J",
-    "platform_name": "ゲームボーイ",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "このソフトは、原作のゲーム内容を、通信機能・拡張機能を除いてニンテンドー3DS上で再現したものです。原作とは、動作や表現等が異なる場合があります。あらかじめご了承ください。",
-    "descriptors": []
+  "tid": "0004000000098C00",
+  "uid": "50010000010553",
+  "name": "プリプリ PRIMITIVE PRINCESS!",
+  "formal_name": "プリプリ PRIMITIVE PRINCESS!",
+  "description": "このソフトは、1990年に発売されたゲームボーイ用のアクションパズルゲームです。\nヌボーの塔は、恐ろしいモンスターや複雑なトラップのある禁断の塔です。冒険者トトムは、プリプリと結婚するため、ブロックを落下させたりつくったりできる不思議なハンマーを使って、迷路のようなヌボーの塔の最上階をめざします。\n",
+  "release_date_on_eshop": "2012-07-18",
+  "product_code": "CTR-N-RB9J",
+  "platform_name": "ゲームボーイ",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "このソフトは、原作のゲーム内容を、通信機能・拡張機能を除いてニンテンドー3DS上で再現したものです。原作とは、動作や表現等が異なる場合があります。あらかじめご了承ください。",
+  "descriptors": []
 }

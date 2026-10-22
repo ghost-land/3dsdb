@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001B1900",
-    "uid": "50010000042358",
-    "name": "Chou2トーク",
-    "formal_name": "Chou2トーク",
-    "description": "『Chou2トーク(シュシュトーク)』は、登録したフレンドとチャットや電話ができるニンテンドー3DS専用のコミュニケーションアプリです。\n<br>お友達とお話しながら、みんなでお絵描きのような手書きチャットができちゃうよ！\n<br>今日の出来事や学校の話、遊びの約束、いろんな話題でお友達とチャットしましょう♪",
-    "release_date_on_eshop": "2017-08-09",
-    "product_code": "CTR-N-KCTJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "コミュニケーション"
-    ],
-    "features": [
-        "インターネット対応",
-        "インターネット専用",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.4.0",
-    "disclaimer": "シュシュトークでチャットや電話をして遊ぶには、インターネット環境が必要です\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001B1900",
+  "uid": "50010000042358",
+  "name": "Chou2トーク",
+  "formal_name": "Chou2トーク",
+  "description": "『Chou2トーク(シュシュトーク)』は、登録したフレンドとチャットや電話ができるニンテンドー3DS専用のコミュニケーションアプリです。\n<br>お友達とお話しながら、みんなでお絵描きのような手書きチャットができちゃうよ！\n<br>今日の出来事や学校の話、遊びの約束、いろんな話題でお友達とチャットしましょう♪",
+  "release_date_on_eshop": "2017-08-09",
+  "product_code": "CTR-N-KCTJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "コミュニケーション"
+  ],
+  "features": [
+    "インターネット対応",
+    "インターネット専用",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.4.0",
+  "disclaimer": "シュシュトークでチャットや電話をして遊ぶには、インターネット環境が必要です\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

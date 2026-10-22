@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000D0500",
-    "uid": "50010000015274",
-    "name": "Robot Rescue 3D",
-    "formal_name": "Robot Rescue 3D",
-    "description": "Guide trapped robots through treacherous passages, staying clear of paralyzing electrical circuits and sliding past sleeping mines! Interact with tiles to open doors and repaint your dopey robots different colors in order for them to escape through the right exit.\n<br><br>\nBe warned! Each and every robot shares linked controls generating totally synchronized movements for an even wackier escape plan! This latest edition to the Robot Rescue franchise brings together a MEGA pack containing levels from previous releases and additional, never before seen stages!\n<br><br>\nOver 120 perplexing and brain-bending levels to complete<br>\nUp to 30 robots trapped in one level at a time<br>\nMultitudes of obstacles, hindering an easy escape<br>\nA uniquely challenging puzzle for everyone!",
-    "release_date_on_eshop": "2013-07-18",
-    "product_code": "CTR-N-JRQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D0500",
+  "uid": "50010000015274",
+  "name": "Robot Rescue 3D",
+  "formal_name": "Robot Rescue 3D",
+  "description": "Guide trapped robots through treacherous passages, staying clear of paralyzing electrical circuits and sliding past sleeping mines! Interact with tiles to open doors and repaint your dopey robots different colors in order for them to escape through the right exit.\n<br><br>\nBe warned! Each and every robot shares linked controls generating totally synchronized movements for an even wackier escape plan! This latest edition to the Robot Rescue franchise brings together a MEGA pack containing levels from previous releases and additional, never before seen stages!\n<br><br>\nOver 120 perplexing and brain-bending levels to complete<br>\nUp to 30 robots trapped in one level at a time<br>\nMultitudes of obstacles, hindering an easy escape<br>\nA uniquely challenging puzzle for everyone!",
+  "release_date_on_eshop": "2013-07-18",
+  "product_code": "CTR-N-JRQE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

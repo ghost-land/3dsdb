@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B434F56",
-    "uid": "50010000002015",
-    "name": "Crystal Monsters",
-    "formal_name": "Crystal Monsters",
-    "description": "As a Neo-Seed with the power to see\nand train monsters, it's time to set off\non a journey to collect over 160\nmonsters and become the greatest\nMonster Breeder! Explore a vast\nworld, meet new friends and rivals and\nbattle with skill and strategy to win!\nMaster the 9 elemental types, train\nyour monsters through battle, teach\nthem new moves and team attacks\nand fuse them together to unlock their\ntrue potential. You can even customise\n3 of your favourite monsters using the\ninner camera.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KCOV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B434F56",
+  "uid": "50010000002015",
+  "name": "Crystal Monsters",
+  "formal_name": "Crystal Monsters",
+  "description": "As a Neo-Seed with the power to see\nand train monsters, it's time to set off\non a journey to collect over 160\nmonsters and become the greatest\nMonster Breeder! Explore a vast\nworld, meet new friends and rivals and\nbattle with skill and strategy to win!\nMaster the 9 elemental types, train\nyour monsters through battle, teach\nthem new moves and team attacks\nand fuse them together to unlock their\ntrue potential. You can even customise\n3 of your favourite monsters using the\ninner camera.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KCOV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

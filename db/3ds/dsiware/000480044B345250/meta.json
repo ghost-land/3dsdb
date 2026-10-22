@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B345250",
-    "uid": "50010000007781",
-    "name": "Furry Legends",
-    "formal_name": "Furry Legends",
-    "description": "Furry Legends is a fantasy adventure\ngame based on the same WiiWare\ngame. The environment and puzzles in\nFurry Legends are driven by real-time\nphysics, featuring moving bridges,\nfalling stones, rotating elevators, and\nmuch more. In the Furry Legends\nworld, everything is a bit crazy!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K4RP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Adventure",
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B345250",
+  "uid": "50010000007781",
+  "name": "Furry Legends",
+  "formal_name": "Furry Legends",
+  "description": "Furry Legends is a fantasy adventure\ngame based on the same WiiWare\ngame. The environment and puzzles in\nFurry Legends are driven by real-time\nphysics, featuring moving bridges,\nfalling stones, rotating elevators, and\nmuch more. In the Furry Legends\nworld, everything is a bit crazy!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K4RP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Adventure",
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

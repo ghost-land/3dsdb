@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000BBE00",
-    "uid": "50010000012194",
-    "name": "LIBERATION MAIDEN",
-    "formal_name": "LIBERATION MAIDEN™",
-    "description": "LEVEL-5 and Grasshopper \nManufacture's SUDA51 team up to bring you LIBERATION MAIDEN, a full-scale 3D shooter game on Nintendo eShop.\n<br><br>\nPlayers take the role of Shoko Ozora, who rides out on her Liberator, Kamui, to free the country of New Japan from invading forces. Shoko will face powerful opposition from an arsenal of ground forces, culminating in thrilling showdowns with the enemy's massive mechanical Conduit Spikes.\n<br><br>\nFeaturing breathtaking animation by bones, fully-voiced dialog, and contributions by an all-star cast of artists, designers and musicians who bring AAA production value to the downloadable space.",
-    "release_date_on_eshop": "2012-10-25",
-    "product_code": "CTR-N-JKSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BBE00",
+  "uid": "50010000012194",
+  "name": "LIBERATION MAIDEN",
+  "formal_name": "LIBERATION MAIDEN™",
+  "description": "LEVEL-5 and Grasshopper \nManufacture's SUDA51 team up to bring you LIBERATION MAIDEN, a full-scale 3D shooter game on Nintendo eShop.\n<br><br>\nPlayers take the role of Shoko Ozora, who rides out on her Liberator, Kamui, to free the country of New Japan from invading forces. Shoko will face powerful opposition from an arsenal of ground forces, culminating in thrilling showdowns with the enemy's massive mechanical Conduit Spikes.\n<br><br>\nFeaturing breathtaking animation by bones, fully-voiced dialog, and contributions by an all-star cast of artists, designers and musicians who bring AAA production value to the downloadable space.",
+  "release_date_on_eshop": "2012-10-25",
+  "product_code": "CTR-N-JKSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

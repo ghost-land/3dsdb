@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B345A45",
-    "uid": "50010000000984",
-    "name": "101 Dolphin Pets",
-    "formal_name": "101 Dolphin Pets",
-    "description": "Choose from over 101 baby dolphins or simply adopt them all! Discover their personalities as you feed, clean and care for your new pets. Bring out your pet's talents by training your dolphin in a variety of fun and wacky activities. Enter your dolphin into pet shows and earn money to buy exciting upgrades including toys, food, clothes, accessories and more! The more tricks you teach and the more games you play, the more fun you'll have! You'll never be bored with so many new best friends to pamper, play with, and love!",
-    "release_date_on_eshop": "2011-01-31",
-    "product_code": "TWL-N-K4ZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B345A45",
+  "uid": "50010000000984",
+  "name": "101 Dolphin Pets",
+  "formal_name": "101 Dolphin Pets",
+  "description": "Choose from over 101 baby dolphins or simply adopt them all! Discover their personalities as you feed, clean and care for your new pets. Bring out your pet's talents by training your dolphin in a variety of fun and wacky activities. Enter your dolphin into pet shows and earn money to buy exciting upgrades including toys, food, clothes, accessories and more! The more tricks you teach and the more games you play, the more fun you'll have! You'll never be bored with so many new best friends to pamper, play with, and love!",
+  "release_date_on_eshop": "2011-01-31",
+  "product_code": "TWL-N-K4ZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

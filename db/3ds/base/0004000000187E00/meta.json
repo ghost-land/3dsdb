@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000187E00",
-    "uid": "50010000041866",
-    "name": "Picross 3D™: Round 2",
-    "formal_name": "Picross 3D™: Round 2",
-    "description": "Solve 3D puzzles to find hidden objects in Picross 3D: Round 2!\n<br>\n<br>In this game, use the numbers on the blocks to work out which ones to paint and solve the puzzles. There are over 300 puzzles to beat. Can you uncover the object in each one?\n<br>\n<br>This time, blocks can be painted with two colours, so there are even more elaborate objects to discover. If you tap compatible amiibo (sold separately), you can even play puzzles based on Nintendo characters.\n<br>\n<br>Puzzles can have different solutions based on the difficulty setting you choose. If you’re confident in your skills, why not try puzzles on multiple difficulty settings?\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-12-02",
-    "product_code": "CTR-P-BBPP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000187E00",
+  "uid": "50010000041866",
+  "name": "Picross 3D™: Round 2",
+  "formal_name": "Picross 3D™: Round 2",
+  "description": "Solve 3D puzzles to find hidden objects in Picross 3D: Round 2!\n<br>\n<br>In this game, use the numbers on the blocks to work out which ones to paint and solve the puzzles. There are over 300 puzzles to beat. Can you uncover the object in each one?\n<br>\n<br>This time, blocks can be painted with two colours, so there are even more elaborate objects to discover. If you tap compatible amiibo (sold separately), you can even play puzzles based on Nintendo characters.\n<br>\n<br>Puzzles can have different solutions based on the difficulty setting you choose. If you’re confident in your skills, why not try puzzles on multiple difficulty settings?\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-12-02",
+  "product_code": "CTR-P-BBPP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

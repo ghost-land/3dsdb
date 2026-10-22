@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001B4F00",
-    "uid": "50010000042844",
-    "name": "Miitopia™",
-    "formal_name": "Miitopia™",
-    "description": "Have you ever wondered what it’d be like to go on an adventure with your best friend, your crush and…your teacher?! Miitopia makes it happen! The big question is – who will you take with you?\n<br>\n<br>Everyone in Miitopia is a Mii! Whether it’s the fearless hero, the beautiful Princess or even the evil Dark Lord, you decide who stars in this story. You could have your best mates join you in battle, dress Grandad up like a King, or turn Mum into the big baddy. The choice is yours!<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-07-28",
-    "product_code": "CTR-P-ADQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B4F00",
+  "uid": "50010000042844",
+  "name": "Miitopia™",
+  "formal_name": "Miitopia™",
+  "description": "Have you ever wondered what it’d be like to go on an adventure with your best friend, your crush and…your teacher?! Miitopia makes it happen! The big question is – who will you take with you?\n<br>\n<br>Everyone in Miitopia is a Mii! Whether it’s the fearless hero, the beautiful Princess or even the evil Dark Lord, you decide who stars in this story. You could have your best mates join you in battle, dress Grandad up like a King, or turn Mum into the big baddy. The choice is yours!<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-07-28",
+  "product_code": "CTR-P-ADQP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

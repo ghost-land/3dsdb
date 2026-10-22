@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000FED00",
-    "uid": "50010000020919",
-    "name": "Best of Board Games -\nMahjong",
-    "formal_name": "Best of Board Games -\nMahjong",
-    "description": "Rediscover all the pleasure of\nMahjong in this timeless classic!\n<br/>\nLearn how to play and test your\nabilities by solving 60 boards in\nAdventure mode, or play a single\ngame at your leisure in Free mode.\n<br/>\nStuck in a level? Use your bonus and\nmake the entire board simpler in a\nsplit second!\n<br/>\nDiscover the brand new Moving\nwalkway mode: finish the levels more\nquickly by using the extra tiles that\nscroll alongside the board.\n<br/>\nChoose classic or modern tiles and\nbecome a Mahjong pro!",
-    "release_date_on_eshop": "2015-02-05",
-    "product_code": "CTR-N-JPEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FED00",
+  "uid": "50010000020919",
+  "name": "Best of Board Games -\nMahjong",
+  "formal_name": "Best of Board Games -\nMahjong",
+  "description": "Rediscover all the pleasure of\nMahjong in this timeless classic!\n<br/>\nLearn how to play and test your\nabilities by solving 60 boards in\nAdventure mode, or play a single\ngame at your leisure in Free mode.\n<br/>\nStuck in a level? Use your bonus and\nmake the entire board simpler in a\nsplit second!\n<br/>\nDiscover the brand new Moving\nwalkway mode: finish the levels more\nquickly by using the extra tiles that\nscroll alongside the board.\n<br/>\nChoose classic or modern tiles and\nbecome a Mahjong pro!",
+  "release_date_on_eshop": "2015-02-05",
+  "product_code": "CTR-N-JPEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F702F00",
-    "uid": "50010000040455",
-    "name": "Donkey Kong Country 3:\nDixie Kong's Double Trouble™",
-    "formal_name": "Donkey Kong Country 3:\nDixie Kong's Double Trouble™",
-    "description": "Donkey Kong and Diddy have been captured by the Kremlings, so it's Dixie Kong and new sidekick Kiddy to the rescue!\n<br>\n<br>In the final part of the classic Donkey Kong Country trilogy, take control of Dixie and Kiddy, and use their unique abilities to traverse treacherous terrain, seek out elusive Banana Birds, and defeat the Kremlings' new master, KAOS.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-06-02",
-    "product_code": "KTR-N-UARE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F702F00",
+  "uid": "50010000040455",
+  "name": "Donkey Kong Country 3:\nDixie Kong's Double Trouble™",
+  "formal_name": "Donkey Kong Country 3:\nDixie Kong's Double Trouble™",
+  "description": "Donkey Kong and Diddy have been captured by the Kremlings, so it's Dixie Kong and new sidekick Kiddy to the rescue!\n<br>\n<br>In the final part of the classic Donkey Kong Country trilogy, take control of Dixie and Kiddy, and use their unique abilities to traverse treacherous terrain, seek out elusive Banana Birds, and defeat the Kremlings' new master, KAOS.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-06-02",
+  "product_code": "KTR-N-UARE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000107B00",
-    "uid": "50010000016893",
-    "name": "Escape From Zombie City",
-    "formal_name": "Escape From Zombie City",
-    "description": "The military sent in forces to suppress the zombie infested city, but they were wiped out. The government had no choice but to issue a large-scale bomb raid over the surrounding area.\n<br><br>\nThe time limit is morning.\nYou are a soldier that has been left behind.\nCan you make it out alive?!\n<br><br>\nUse any weapon you can get your hands on to keep the zombies off your back as you race to get out of the\ncity before the bombing raid hits. The clock is ticking from the start and each stage you pass takes you closer to dawn and the bombing raid. \n<br><br>\nFight your way through the city suburbs and underground parking areas heaving with the undead, rescuing any remaining civilians you find on the way. Use shotguns, magnums, grenades and flamethrowers in your fight to stay alive against a whole city of zombies.",
-    "release_date_on_eshop": "2013-10-10",
-    "product_code": "CTR-N-JZBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000107B00",
+  "uid": "50010000016893",
+  "name": "Escape From Zombie City",
+  "formal_name": "Escape From Zombie City",
+  "description": "The military sent in forces to suppress the zombie infested city, but they were wiped out. The government had no choice but to issue a large-scale bomb raid over the surrounding area.\n<br><br>\nThe time limit is morning.\nYou are a soldier that has been left behind.\nCan you make it out alive?!\n<br><br>\nUse any weapon you can get your hands on to keep the zombies off your back as you race to get out of the\ncity before the bombing raid hits. The clock is ticking from the start and each stage you pass takes you closer to dawn and the bombing raid. \n<br><br>\nFight your way through the city suburbs and underground parking areas heaving with the undead, rescuing any remaining civilians you find on the way. Use shotguns, magnums, grenades and flamethrowers in your fight to stay alive against a whole city of zombies.",
+  "release_date_on_eshop": "2013-10-10",
+  "product_code": "CTR-N-JZBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

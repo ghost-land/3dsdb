@@ -1,27 +1,27 @@
 {
-    "tid": "000400000015B400",
-    "uid": "50010000033135",
-    "name": "Excave II:\nWizard of the Underworld",
-    "formal_name": "Excave II:\n<br>Wizard of the Underworld",
-    "description": "Excave II : Wizard of the Underworld\n<br>is the exciting sequel to the Excave\n<br>Dungeon RPG.\n<br>\n<br>Bring back order to the Imperial City\n<br>by crushing a wide varied of\n<br>monstrous foes and discovering the\n<br>cause of chaos!\n<br>\n<br>Discover hundreds of weapons and\n<br>items as you embark on a quest which\n<br>is bigger, more varied and challenging\n<br>than ever before!",
-    "release_date_on_eshop": "2015-04-30",
-    "product_code": "CTR-N-JEJP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015B400",
+  "uid": "50010000033135",
+  "name": "Excave II:\nWizard of the Underworld",
+  "formal_name": "Excave II:\n<br>Wizard of the Underworld",
+  "description": "Excave II : Wizard of the Underworld\n<br>is the exciting sequel to the Excave\n<br>Dungeon RPG.\n<br>\n<br>Bring back order to the Imperial City\n<br>by crushing a wide varied of\n<br>monstrous foes and discovering the\n<br>cause of chaos!\n<br>\n<br>Discover hundreds of weapons and\n<br>items as you embark on a quest which\n<br>is bigger, more varied and challenging\n<br>than ever before!",
+  "release_date_on_eshop": "2015-04-30",
+  "product_code": "CTR-N-JEJP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

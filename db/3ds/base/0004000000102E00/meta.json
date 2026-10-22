@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000102E00",
-    "uid": "50010000019655",
-    "name": "ハマトラ\nLook at Smoking World",
-    "formal_name": "ハマトラ\nLook at Smoking World",
-    "description": "2015年11月27日(金)9時59分に、本ソフトの配信を終了いたしました。\n<br>\n<br>何故、人々は記憶を失ったのか。何故、彼らは「ミニマムホルダー」となったのか……。\n<br>アニメともコミックスとも違う、もう一つの『ハマトラ』がゲームに登場! \n<br>ゲームオリジナルキャラクターに加え、アニメのキャラクターも活躍!\n<br>\n<br>神戸の街を舞台に特殊能力「ミニマム」を駆使してミッションを解決していこう。\n<br>\n<br>「バトル」はターン制。敵のサイドや背後に陣取ったり、各キャラクターの得意とする攻撃方法を活用すると、敵により効果的にダメージを与えられる。多彩な攻撃で敵を撃破しよう!",
-    "release_date_on_eshop": "2014-07-17",
-    "product_code": "CTR-N-BATJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング",
-        "シミュレーション",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000102E00",
+  "uid": "50010000019655",
+  "name": "ハマトラ\nLook at Smoking World",
+  "formal_name": "ハマトラ\nLook at Smoking World",
+  "description": "2015年11月27日(金)9時59分に、本ソフトの配信を終了いたしました。\n<br>\n<br>何故、人々は記憶を失ったのか。何故、彼らは「ミニマムホルダー」となったのか……。\n<br>アニメともコミックスとも違う、もう一つの『ハマトラ』がゲームに登場! \n<br>ゲームオリジナルキャラクターに加え、アニメのキャラクターも活躍!\n<br>\n<br>神戸の街を舞台に特殊能力「ミニマム」を駆使してミッションを解決していこう。\n<br>\n<br>「バトル」はターン制。敵のサイドや背後に陣取ったり、各キャラクターの得意とする攻撃方法を活用すると、敵により効果的にダメージを与えられる。多彩な攻撃で敵を撃破しよう!",
+  "release_date_on_eshop": "2014-07-17",
+  "product_code": "CTR-N-BATJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング",
+    "シミュレーション",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

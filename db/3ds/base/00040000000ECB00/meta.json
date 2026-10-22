@@ -1,37 +1,37 @@
 {
-    "tid": "00040000000ECB00",
-    "uid": "50010000020933",
-    "name": "Skater Cat",
-    "formal_name": "Skater Cat",
-    "description": "Ride the streets with Ollie, the\nsleekest cat on the block and put\nyour reflexes to the test as you make\nspectacular tricks in the air to collect\nscrumptious treats and fleeing stray\ncats. Skate faster and faster as you\nlead the clowder and keep them keen\nwith a topped up supply of treats! The\naddition of StreetPass™ and SpotPass™\nwill allow you to exchange best times\nand ghost runs with other players and\nthe game makers themselves! With\nover 25 levels to complete, 90\nmedals to collect plus bonus in-game\nfeatures to unlock, you’ll be purring\nwith so much excitement!\n<br/><br/>\n- 3 worlds with over 25 levels to\ncomplete and 90 medals to collect!\n<br/><br/>\n- Exciting in-game bonuses to unlock\nincluding the ability to play as your\nMii™!\n<br/><br/>\n- StreetPass™ feature included to\nexchange best times and ghost runs\nfrom other Skater Cat players\n<br/><br/>\n- Receive news updates and\navailable ghost runs from the game\nmakers via SpotPass™\n<br/><br/>\n- An awesome pick up and play\naction game!",
-    "release_date_on_eshop": "2014-03-27",
-    "product_code": "CTR-N-JMYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000ECB00",
+  "uid": "50010000020933",
+  "name": "Skater Cat",
+  "formal_name": "Skater Cat",
+  "description": "Ride the streets with Ollie, the\nsleekest cat on the block and put\nyour reflexes to the test as you make\nspectacular tricks in the air to collect\nscrumptious treats and fleeing stray\ncats. Skate faster and faster as you\nlead the clowder and keep them keen\nwith a topped up supply of treats! The\naddition of StreetPass™ and SpotPass™\nwill allow you to exchange best times\nand ghost runs with other players and\nthe game makers themselves! With\nover 25 levels to complete, 90\nmedals to collect plus bonus in-game\nfeatures to unlock, you’ll be purring\nwith so much excitement!\n<br/><br/>\n- 3 worlds with over 25 levels to\ncomplete and 90 medals to collect!\n<br/><br/>\n- Exciting in-game bonuses to unlock\nincluding the ability to play as your\nMii™!\n<br/><br/>\n- StreetPass™ feature included to\nexchange best times and ghost runs\nfrom other Skater Cat players\n<br/><br/>\n- Receive news updates and\navailable ghost runs from the game\nmakers via SpotPass™\n<br/><br/>\n- An awesome pick up and play\naction game!",
+  "release_date_on_eshop": "2014-03-27",
+  "product_code": "CTR-N-JMYP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

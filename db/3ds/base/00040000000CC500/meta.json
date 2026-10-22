@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000CC500",
-    "uid": "50010000013427",
-    "name": "Dillon's Rolling Western™\nThe Last Ranger",
-    "formal_name": "Dillon's Rolling Western™\nThe Last Ranger",
-    "description": "Armadillo ranger Dillon is back, and this time he’s brought the cavalry. Join Dillon on new missions to protect each town. Gather supplies, fortify each town, and equip gun towers during the day. Recruit new allies by battling and defeating them throughout the game. As night falls, voracious grocks rise up from the underground.\n<br><br>\nThe only things standing between the decimation of the town and livestock are you, your hired gun, and the gun towers manned by locals. In addition to keeping villages safe from the waves of approaching enemies, Dillon must now also protect a train that moves throughout each of the game’s main stages. Get ready to roll!",
-    "release_date_on_eshop": "2013-04-11",
-    "product_code": "CTR-N-JGWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000CC500",
+  "uid": "50010000013427",
+  "name": "Dillon's Rolling Western™\nThe Last Ranger",
+  "formal_name": "Dillon's Rolling Western™\nThe Last Ranger",
+  "description": "Armadillo ranger Dillon is back, and this time he’s brought the cavalry. Join Dillon on new missions to protect each town. Gather supplies, fortify each town, and equip gun towers during the day. Recruit new allies by battling and defeating them throughout the game. As night falls, voracious grocks rise up from the underground.\n<br><br>\nThe only things standing between the decimation of the town and livestock are you, your hired gun, and the gun towers manned by locals. In addition to keeping villages safe from the waves of approaching enemies, Dillon must now also protect a train that moves throughout each of the game’s main stages. Get ready to roll!",
+  "release_date_on_eshop": "2013-04-11",
+  "product_code": "CTR-N-JGWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

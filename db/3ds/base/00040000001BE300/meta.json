@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001BE300",
-    "uid": "50010000042797",
-    "name": "River City: Knights of Justice",
-    "formal_name": "River City: Knights of Justice",
-    "description": "The magical land of Riverandia is in a state of turmoil! Several years have passed since the rainbow-colored Crystal Tower was suddenly enveloped in darkness. With the world plunged into horror and chaos, a legend began to spread amongst the people about a savior who would come to save the world. Then, one day, a lone knight appeared. His name: Alexander Valford.\n<br>\n<br>Kunio and his friends go medieval in River City: Knights of Justice! This unique entry to the River City series sees Kunio and his friends and foes transformed into heroes and villains that would be at home in any RPG! Use swords, staves, and even magic to bring peace back to Riverandia!\n<br>\n<br>Featuring:\n<br>•\tMultiple Allies!\n<br>•\tOver 100 Quests!\n<br>•\tMultiple Story Paths!",
-    "release_date_on_eshop": "2017-06-20",
-    "product_code": "CTR-N-JN4P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting",
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BE300",
+  "uid": "50010000042797",
+  "name": "River City: Knights of Justice",
+  "formal_name": "River City: Knights of Justice",
+  "description": "The magical land of Riverandia is in a state of turmoil! Several years have passed since the rainbow-colored Crystal Tower was suddenly enveloped in darkness. With the world plunged into horror and chaos, a legend began to spread amongst the people about a savior who would come to save the world. Then, one day, a lone knight appeared. His name: Alexander Valford.\n<br>\n<br>Kunio and his friends go medieval in River City: Knights of Justice! This unique entry to the River City series sees Kunio and his friends and foes transformed into heroes and villains that would be at home in any RPG! Use swords, staves, and even magic to bring peace back to Riverandia!\n<br>\n<br>Featuring:\n<br>•\tMultiple Allies!\n<br>•\tOver 100 Quests!\n<br>•\tMultiple Story Paths!",
+  "release_date_on_eshop": "2017-06-20",
+  "product_code": "CTR-N-JN4P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting",
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

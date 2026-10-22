@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B415045",
-    "uid": "50010000001024",
-    "name": "Art Style™: PiCTOBiTS™",
-    "formal_name": "Art Style™: PiCTOBiTS™",
-    "description": "Your goal in Art Style: PiCTOBiTS is simple: clear large blocks that fall from above (“megabits”) by combining them with “bits” (square blocks) of the same color. Add in the ability to pick up bits and place them anywhere on the Touch Screen, and you’ll quickly find that strategy is critical to your success. By clearing the bits, you gradually reveal each stage’s hidden game character—look for favorites from classic NES titles—and earn coins that can be spent to unlock DARK stages or to listen to the game’s soundtrack in MUSIC mode. This grand mix of familiar elements and new gameplay leads to the uniquely enjoyable experience that is PiCTOBiTS.\n<p>\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n",
-    "release_date_on_eshop": "2009-05-18",
-    "product_code": "TWL-N-KAPE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415045",
+  "uid": "50010000001024",
+  "name": "Art Style™: PiCTOBiTS™",
+  "formal_name": "Art Style™: PiCTOBiTS™",
+  "description": "Your goal in Art Style: PiCTOBiTS is simple: clear large blocks that fall from above (“megabits”) by combining them with “bits” (square blocks) of the same color. Add in the ability to pick up bits and place them anywhere on the Touch Screen, and you’ll quickly find that strategy is critical to your success. By clearing the bits, you gradually reveal each stage’s hidden game character—look for favorites from classic NES titles—and earn coins that can be spent to unlock DARK stages or to listen to the game’s soundtrack in MUSIC mode. This grand mix of familiar elements and new gameplay leads to the uniquely enjoyable experience that is PiCTOBiTS.\n<p>\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n",
+  "release_date_on_eshop": "2009-05-18",
+  "product_code": "TWL-N-KAPE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

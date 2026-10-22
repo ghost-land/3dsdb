@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000052A00",
-    "uid": "50010000006747",
-    "name": "3Dブロック崩し",
-    "formal_name": "3Dブロック崩し",
-    "description": "誰もが気軽に楽しめる、多彩で美麗なステージをそなえた、定番ゲームブロック崩し。立体視機能に対応し、これまでのブロック崩しとは一線を画す立体感がプレイヤーを待ち受けます。ブロックの特性を考え、アイテムを駆使して、全50ステージを制覇しよう。",
-    "release_date_on_eshop": "2011-06-07",
-    "product_code": "CTR-N-JB6J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000052A00",
+  "uid": "50010000006747",
+  "name": "3Dブロック崩し",
+  "formal_name": "3Dブロック崩し",
+  "description": "誰もが気軽に楽しめる、多彩で美麗なステージをそなえた、定番ゲームブロック崩し。立体視機能に対応し、これまでのブロック崩しとは一線を画す立体感がプレイヤーを待ち受けます。ブロックの特性を考え、アイテムを駆使して、全50ステージを制覇しよう。",
+  "release_date_on_eshop": "2011-06-07",
+  "product_code": "CTR-N-JB6J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

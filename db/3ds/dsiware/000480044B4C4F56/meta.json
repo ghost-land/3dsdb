@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4C4F56",
-    "uid": "50010000007148",
-    "name": "The Lost Town\nThe Dust",
-    "formal_name": "The Lost Town\nThe Dust",
-    "description": "In 2037 a remote little town in the\nSouth American Andes was cut off from\nthe outside world by a mudslide after\nheavy rains that had lasted a whole\nweek. And then the calamity occurred:\nthere was a massive explosion at the\nmilitary bio-chemical facility on the\noutskirts of the town during a power\noutage caused by the bad weather...\nOur heroine is Chilia, an expert\nweapons master. Her mission is to\ndefend the areas of the town where\ninnocent people who have not yet\nbeen infected are living. The armed\nforces have been notified, but for\nreasons that remain unexplained, it\nwill take them 7 days to arrive.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KLOV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4F56",
+  "uid": "50010000007148",
+  "name": "The Lost Town\nThe Dust",
+  "formal_name": "The Lost Town\nThe Dust",
+  "description": "In 2037 a remote little town in the\nSouth American Andes was cut off from\nthe outside world by a mudslide after\nheavy rains that had lasted a whole\nweek. And then the calamity occurred:\nthere was a massive explosion at the\nmilitary bio-chemical facility on the\noutskirts of the town during a power\noutage caused by the bad weather...\nOur heroine is Chilia, an expert\nweapons master. Her mission is to\ndefend the areas of the town where\ninnocent people who have not yet\nbeen infected are living. The armed\nforces have been notified, but for\nreasons that remain unexplained, it\nwill take them 7 days to arrive.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KLOV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

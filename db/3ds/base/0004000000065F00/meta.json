@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000065F00",
-    "uid": "50010000007755",
-    "name": "Shinobi 3D",
-    "formal_name": "Shinobi 3D",
-    "description": "9年の沈黙を破り、人気アクションシリーズ『Shinobi』ここに復活。八双飛び(2段ジャンプ)、八双手裏剣、忍術など、多彩な動きを駆使して進む『Shinobi』シリーズのアクション性はそのままに、3D立体視とジャイロセンサー操作などニンテンドー3DSならではの機能を最大限に活用した『Shinobi』 の新章が登場。                   ",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASVJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000065F00",
+  "uid": "50010000007755",
+  "name": "Shinobi 3D",
+  "formal_name": "Shinobi 3D",
+  "description": "9年の沈黙を破り、人気アクションシリーズ『Shinobi』ここに復活。八双飛び(2段ジャンプ)、八双手裏剣、忍術など、多彩な動きを駆使して進む『Shinobi』シリーズのアクション性はそのままに、3D立体視とジャイロセンサー操作などニンテンドー3DSならではの機能を最大限に活用した『Shinobi』 の新章が登場。                   ",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASVJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

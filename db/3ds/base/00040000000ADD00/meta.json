@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000ADD00",
-    "uid": "50010000011515",
-    "name": "ダンジョンRPG ピクダン2",
-    "formal_name": "ダンジョンRPG ピクダン2",
-    "description": "謎に満ち溢れたダンジョン「ピクダン」を冒険する3DダンジョンRPG。\n<br>弓使い、ムチ使い、魔法使いの3人の女の子からパートナーを選び、協力しながら、地下60階を目指します。\n<br>アクション性の高い戦闘を繰り広げる大きくて滑らかに動く敵と、バラエティーに富んだ謎が、あなたを待ち構えています。",
-    "release_date_on_eshop": "2012-08-22",
-    "product_code": "CTR-N-JPDJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000ADD00",
+  "uid": "50010000011515",
+  "name": "ダンジョンRPG ピクダン2",
+  "formal_name": "ダンジョンRPG ピクダン2",
+  "description": "謎に満ち溢れたダンジョン「ピクダン」を冒険する3DダンジョンRPG。\n<br>弓使い、ムチ使い、魔法使いの3人の女の子からパートナーを選び、協力しながら、地下60階を目指します。\n<br>アクション性の高い戦闘を繰り広げる大きくて滑らかに動く敵と、バラエティーに富んだ謎が、あなたを待ち構えています。",
+  "release_date_on_eshop": "2012-08-22",
+  "product_code": "CTR-N-JPDJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

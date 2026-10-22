@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F702000",
-    "uid": "50010000039758",
-    "name": "Donkey Kong Country™ 2: \nDiddy's Kong Quest™",
-    "formal_name": "Donkey Kong Country™ 2: \nDiddy's Kong Quest™",
-    "description": "Donkey Kong has been kidnapped by the evil Kaptain K. Rool, who is demanding DK's hard-earned banana hoard as a ransom! But there's no way the Kongs are going to give it up that easily!\n<br>\n<br>In this pirate-themed sequel to the hit Donkey Kong Country™, guide Diddy or Dixie Kong through eight wild worlds of comical action across the Kremling-infested Crocodile Isle.\n<br>\n<br>Discover new secrets, learn new abilities, meet new Kong family members, and take the reins of new animal buddies such as Squitter the Spider and Rattly the Rattlesnake.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-03-24",
-    "product_code": "KTR-N-UAJE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F702000",
+  "uid": "50010000039758",
+  "name": "Donkey Kong Country™ 2: \nDiddy's Kong Quest™",
+  "formal_name": "Donkey Kong Country™ 2: \nDiddy's Kong Quest™",
+  "description": "Donkey Kong has been kidnapped by the evil Kaptain K. Rool, who is demanding DK's hard-earned banana hoard as a ransom! But there's no way the Kongs are going to give it up that easily!\n<br>\n<br>In this pirate-themed sequel to the hit Donkey Kong Country™, guide Diddy or Dixie Kong through eight wild worlds of comical action across the Kremling-infested Crocodile Isle.\n<br>\n<br>Discover new secrets, learn new abilities, meet new Kong family members, and take the reins of new animal buddies such as Squitter the Spider and Rattly the Rattlesnake.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-03-24",
+  "product_code": "KTR-N-UAJE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

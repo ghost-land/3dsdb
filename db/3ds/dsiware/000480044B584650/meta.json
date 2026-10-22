@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B584650",
-    "uid": "50010000014170",
-    "name": "Color Commando",
-    "formal_name": "Color Commando",
-    "description": "Color Commando is a new and very\ncool puzzle platform game.\n<br/><br/>\nIn this game you get to hunt for\ntreasure! However, many evil color\nmonsters are blocking your path! Pick\nup color blobs and try to outsmart the\nmonsters!\n<br/><br/>\nIn each level, color monsters will\nblock your path and try to grab you!\nSo what can you do against this?\n<br/><br/>\nCollect paint blobs that are spread\nout over the level. You can use a paint\nblob to paint a big paint-spot on the\nworld. If a monster of the same colour\ncomes into contact with the\npaint-spot, the monster will dissolve\ninto the spot. When this happens the\nmonster cannot harm the player!\n<br/><br/>\nThe game starts out easy enough, but\nbefore you know it you are\nsurrounded by many different types of\ncolor monsters in all different colours!\n<br/><br/>\nThere are five worlds, each with four\nnormal levels and one star level. You\ncan unlock the star level by getting\nall the treasure in the other four\nlevels!\n",
-    "release_date_on_eshop": "2013-05-09",
-    "product_code": "TWL-N-KXFP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Puzzle",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584650",
+  "uid": "50010000014170",
+  "name": "Color Commando",
+  "formal_name": "Color Commando",
+  "description": "Color Commando is a new and very\ncool puzzle platform game.\n<br/><br/>\nIn this game you get to hunt for\ntreasure! However, many evil color\nmonsters are blocking your path! Pick\nup color blobs and try to outsmart the\nmonsters!\n<br/><br/>\nIn each level, color monsters will\nblock your path and try to grab you!\nSo what can you do against this?\n<br/><br/>\nCollect paint blobs that are spread\nout over the level. You can use a paint\nblob to paint a big paint-spot on the\nworld. If a monster of the same colour\ncomes into contact with the\npaint-spot, the monster will dissolve\ninto the spot. When this happens the\nmonster cannot harm the player!\n<br/><br/>\nThe game starts out easy enough, but\nbefore you know it you are\nsurrounded by many different types of\ncolor monsters in all different colours!\n<br/><br/>\nThere are five worlds, each with four\nnormal levels and one star level. You\ncan unlock the star level by getting\nall the treasure in the other four\nlevels!\n",
+  "release_date_on_eshop": "2013-05-09",
+  "product_code": "TWL-N-KXFP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Puzzle",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000040A00",
-    "uid": "50010000006766",
-    "name": "Super Mario Land™",
-    "formal_name": "Super Mario Land™",
-    "description": "Mario’s acclaimed Game Boy debut\nbrings the plucky plumber to new\nterritory: Sarasaland, where the evil\nspace monster Tatanga has hypnotised\nthe people and kidnapped Princess\nDaisy!<br>\n<br>\nWhile the gameplay will be at first\nfamiliar, with the winning blend of\nplatforming and power-ups, Super\nMario Land is unique for introducing\nvehicles for Mario to ride: the Sky\nPop aeroplane and Marine Pop\nsubmarine.<br>\n<br>\nYou’ll need all your skills on land, in\nthe sea and through the air, to\ntraverse the four diverse kingdoms of\nSarasaland in your quest to defeat the\ndastardly Tatanga and rescue Daisy.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAAP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000040A00",
+  "uid": "50010000006766",
+  "name": "Super Mario Land™",
+  "formal_name": "Super Mario Land™",
+  "description": "Mario’s acclaimed Game Boy debut\nbrings the plucky plumber to new\nterritory: Sarasaland, where the evil\nspace monster Tatanga has hypnotised\nthe people and kidnapped Princess\nDaisy!<br>\n<br>\nWhile the gameplay will be at first\nfamiliar, with the winning blend of\nplatforming and power-ups, Super\nMario Land is unique for introducing\nvehicles for Mario to ride: the Sky\nPop aeroplane and Marine Pop\nsubmarine.<br>\n<br>\nYou’ll need all your skills on land, in\nthe sea and through the air, to\ntraverse the four diverse kingdoms of\nSarasaland in your quest to defeat the\ndastardly Tatanga and rescue Daisy.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAAP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

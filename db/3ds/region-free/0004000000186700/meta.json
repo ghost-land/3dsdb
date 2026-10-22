@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000186700",
-    "uid": "50010000039656",
-    "name": "My Nintendo PICROSS\nTwilight Princess",
-    "formal_name": "My Nintendo™ PICROSS The\nLegend of Zelda™: Twilight Princess",
-    "description": "Gracias por elegir esta recompensa de My Nintendo.",
-    "release_date_on_eshop": "2016-12-01",
-    "product_code": "CTR-N-JHXA",
-    "platform_name": "Juego descargable",
-    "region": "AR",
-    "genres": [
-        "Rompecabezas"
-    ],
-    "features": [],
-    "languages": [
-        "Inglés"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "Para realizar la descarga de este programa quizá sea necesario reemplazar la tarjeta SD de la consola con una tarjeta SDHC o microSDHC compatible y que disponga de espacio suficiente.\nVisita la página support.nintendo.com para obtener más información sobre el almacenamiento de datos.\n",
-    "descriptors": []
+  "tid": "0004000000186700",
+  "uid": "50010000039656",
+  "name": "My Nintendo PICROSS\nTwilight Princess",
+  "formal_name": "My Nintendo™ PICROSS The\nLegend of Zelda™: Twilight Princess",
+  "description": "Gracias por elegir esta recompensa de My Nintendo.",
+  "release_date_on_eshop": "2016-12-01",
+  "product_code": "CTR-N-JHXA",
+  "platform_name": "Juego descargable",
+  "region": "AR",
+  "genres": [
+    "Rompecabezas"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "Para realizar la descarga de este programa quizá sea necesario reemplazar la tarjeta SD de la consola con una tarjeta SDHC o microSDHC compatible y que disponga de espacio suficiente.\nVisita la página support.nintendo.com para obtener más información sobre el almacenamiento de datos.\n",
+  "descriptors": []
 }

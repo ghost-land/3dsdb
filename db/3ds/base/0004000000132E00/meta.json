@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000132E00",
-    "uid": "50010000022915",
-    "name": "Atlantic Quest",
-    "formal_name": "Atlantic Quest",
-    "description": "Immerse yourself in the kingdom of\nthe seas and help free the ocean's\ninhabitants from an oil spill.\n<br/><br/>\nTraverse 120 exciting levels in the\npopular Match 3 style. Choose how to\nalign three identical objects with each\nother. You can swap objects, form\nchains or tap on groups. If you get\nstuck, four friends with special skills\nwill help you out: a clever clown fish,\na strong shark, a lively octopus and a\ncrap with an explosive hobby.\n<br/><br/>\nTake up the challenge and make the\nocean shine once more!\n<br/><br/>\n- 12 different scenarios in 120\nlevels\n<br/><br/>\n- always choose from three Match 3\nmechanisms\n<br/><br/>\n- nifty Power-Ups\n<br/><br/>\n- great graphics and elaborate\nanimations",
-    "release_date_on_eshop": "2014-06-12",
-    "product_code": "CTR-N-BAQZ",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000132E00",
+  "uid": "50010000022915",
+  "name": "Atlantic Quest",
+  "formal_name": "Atlantic Quest",
+  "description": "Immerse yourself in the kingdom of\nthe seas and help free the ocean's\ninhabitants from an oil spill.\n<br/><br/>\nTraverse 120 exciting levels in the\npopular Match 3 style. Choose how to\nalign three identical objects with each\nother. You can swap objects, form\nchains or tap on groups. If you get\nstuck, four friends with special skills\nwill help you out: a clever clown fish,\na strong shark, a lively octopus and a\ncrap with an explosive hobby.\n<br/><br/>\nTake up the challenge and make the\nocean shine once more!\n<br/><br/>\n- 12 different scenarios in 120\nlevels\n<br/><br/>\n- always choose from three Match 3\nmechanisms\n<br/><br/>\n- nifty Power-Ups\n<br/><br/>\n- great graphics and elaborate\nanimations",
+  "release_date_on_eshop": "2014-06-12",
+  "product_code": "CTR-N-BAQZ",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

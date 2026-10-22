@@ -1,39 +1,39 @@
 {
-    "tid": "000400000007C800",
-    "uid": "50010000009911",
-    "name": "MARIO TENNIS™ OPEN",
-    "formal_name": "MARIO TENNIS™ OPEN",
-    "description": "MARIO TENNIS OPEN on\n<br>Nintendo 3DS offers players tactical\n<br>tennis with depth like never before!\n<br>Use buttons, the Touch Screen or new\n<br>gyro controls - perfect for beginners!\n<br>Play online against friends or\n<br>challengers from your region and work\n<br>your way up the leaderboard to\n<br>become champion. Exchange data with\n<br>other users via StreetPass and\n<br>customise your player with any coins\n<br>you win.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-AGAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007C800",
+  "uid": "50010000009911",
+  "name": "MARIO TENNIS™ OPEN",
+  "formal_name": "MARIO TENNIS™ OPEN",
+  "description": "MARIO TENNIS OPEN on\n<br>Nintendo 3DS offers players tactical\n<br>tennis with depth like never before!\n<br>Use buttons, the Touch Screen or new\n<br>gyro controls - perfect for beginners!\n<br>Play online against friends or\n<br>challengers from your region and work\n<br>your way up the leaderboard to\n<br>become champion. Exchange data with\n<br>other users via StreetPass and\n<br>customise your player with any coins\n<br>you win.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-AGAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

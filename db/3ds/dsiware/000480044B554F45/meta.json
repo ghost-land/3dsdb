@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B554F45",
-    "uid": "50010000012202",
-    "name": "Puzzler World XL",
-    "formal_name": "Puzzler World XL",
-    "description": "THE BEST-SELLING PUZZLER WORLD IS BACK! Boasting over 1,800 different puzzles, with favorites like Sudoku, crosswords and unique offerings like Link-A-Pix and Pieceword, puzzle fans are sure to find a wealth of fun in this unprecedented collection. Mind-boggling puzzles include: Crosswords, Wordsearch, Fitword, Pieceword, Backwords, Silhouette, Hide and Seek,  Link-A-Pix, Sudoku, Hang-man, Add Up, Colour-In, Chain Letters, Picture Quiz, Jigsaw, Sum Up and Splitwords. Get your puzzle on!",
-    "release_date_on_eshop": "2012-10-18",
-    "product_code": "TWL-N-KUOE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B554F45",
+  "uid": "50010000012202",
+  "name": "Puzzler World XL",
+  "formal_name": "Puzzler World XL",
+  "description": "THE BEST-SELLING PUZZLER WORLD IS BACK! Boasting over 1,800 different puzzles, with favorites like Sudoku, crosswords and unique offerings like Link-A-Pix and Pieceword, puzzle fans are sure to find a wealth of fun in this unprecedented collection. Mind-boggling puzzles include: Crosswords, Wordsearch, Fitword, Pieceword, Backwords, Silhouette, Hide and Seek,  Link-A-Pix, Sudoku, Hang-man, Add Up, Colour-In, Chain Letters, Picture Quiz, Jigsaw, Sum Up and Splitwords. Get your puzzle on!",
+  "release_date_on_eshop": "2012-10-18",
+  "product_code": "TWL-N-KUOE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "000400000004D400",
-    "uid": "50010000007664",
-    "name": "ドッグスクール ラブリーパピー",
-    "formal_name": "ドッグスクール ラブリーパピー",
-    "description": "ドッグスクールに入ったあなたに、やんちゃな子犬たちが預けられます。\n<br>子犬と一緒に遊んで、教えて、お世話して、子犬と一緒に試験を受けて、カリスマトレーナーを目指しましょう。\n<br>ニンテンドー3DSを持ち歩いて子犬と散歩して、他のプレイヤーとトレーナー情報の交換をしたり、アイテムをもらえたりできます。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-APYJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "コミュニケーション",
-        "シミュレーション",
-        "その他"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004D400",
+  "uid": "50010000007664",
+  "name": "ドッグスクール ラブリーパピー",
+  "formal_name": "ドッグスクール ラブリーパピー",
+  "description": "ドッグスクールに入ったあなたに、やんちゃな子犬たちが預けられます。\n<br>子犬と一緒に遊んで、教えて、お世話して、子犬と一緒に試験を受けて、カリスマトレーナーを目指しましょう。\n<br>ニンテンドー3DSを持ち歩いて子犬と散歩して、他のプレイヤーとトレーナー情報の交換をしたり、アイテムをもらえたりできます。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-APYJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "コミュニケーション",
+    "シミュレーション",
+    "その他"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

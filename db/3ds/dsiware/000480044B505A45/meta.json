@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B505A45",
-    "uid": "50010000006042",
-    "name": "Puzzle Quest: Challenge of\nthe Warlords",
-    "formal_name": "Puzzle Quest: Challenge of\nthe Warlords",
-    "description": "Puzzle Quest: Challenge of the Warlords delivers classic puzzle-game action backed with an epic story of good versus evil. Enter the world of Etheria, a land quickly becoming swamped with evil. Help protect the kingdom of Bartonia from the undead invasion and seek out the source of these vile creatures to ensure the safety of your countrymen!\n\nChallenge your skills in single-player campaign mode or battle your friends via wireless multiplayer. Experience a puzzle game like nothing you have played before. Are you up to the challenge? Match gems and unleash devastating spells to defeat your opponents. Complete over 150 quests in the expansive and immersive story mode.",
-    "release_date_on_eshop": "2011-05-23",
-    "product_code": "TWL-N-KPZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "RPG",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B505A45",
+  "uid": "50010000006042",
+  "name": "Puzzle Quest: Challenge of\nthe Warlords",
+  "formal_name": "Puzzle Quest: Challenge of\nthe Warlords",
+  "description": "Puzzle Quest: Challenge of the Warlords delivers classic puzzle-game action backed with an epic story of good versus evil. Enter the world of Etheria, a land quickly becoming swamped with evil. Help protect the kingdom of Bartonia from the undead invasion and seek out the source of these vile creatures to ensure the safety of your countrymen!\n\nChallenge your skills in single-player campaign mode or battle your friends via wireless multiplayer. Experience a puzzle game like nothing you have played before. Are you up to the challenge? Match gems and unleash devastating spells to defeat your opponents. Complete over 150 quests in the expansive and immersive story mode.",
+  "release_date_on_eshop": "2011-05-23",
+  "product_code": "TWL-N-KPZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "RPG",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

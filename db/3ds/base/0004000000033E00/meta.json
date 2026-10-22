@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000033E00",
-    "uid": "50010000000218",
-    "name": "Madden NFL Football",
-    "formal_name": "Madden NFL Football",
-    "description": "Madden NFL Football on Nintendo\n3DS brings your favourite American\nFootball players and teams to life like\nnever before, in jaw-dropping 3D.\nThe action jumps off the screen as\nyou compete in traditional 11-on-11\ngames or high-flying five-on-five.\nWhether you’re a Madden NFL rookie\nor an All-Pro, three types of\nplaycalling options provide the right\namount of depth for every player.\nHarness the power of the Touch\nScreen and draw your own plays\nright on the field with the innovative\nCall Your Shots feature. Madden NFL\nFootball is the ultimate sports\nexperience for Nintendo 3DS.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AMDP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000033E00",
+  "uid": "50010000000218",
+  "name": "Madden NFL Football",
+  "formal_name": "Madden NFL Football",
+  "description": "Madden NFL Football on Nintendo\n3DS brings your favourite American\nFootball players and teams to life like\nnever before, in jaw-dropping 3D.\nThe action jumps off the screen as\nyou compete in traditional 11-on-11\ngames or high-flying five-on-five.\nWhether you’re a Madden NFL rookie\nor an All-Pro, three types of\nplaycalling options provide the right\namount of depth for every player.\nHarness the power of the Touch\nScreen and draw your own plays\nright on the field with the innovative\nCall Your Shots feature. Madden NFL\nFootball is the ultimate sports\nexperience for Nintendo 3DS.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AMDP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

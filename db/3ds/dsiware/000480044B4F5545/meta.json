@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4F5545",
-    "uid": "50010000008013",
-    "name": "Double Bloob",
-    "formal_name": "Double Bloob",
-    "description": "The planet needs you! Bloobs have invaded the Earth and took a little dolphin named Will as a hostage!\nDon’t let the Bloobs win!\n\nWe all love arcade games. Double Bloob is one of those you immediately fall in love with. The simple story of two siblings – Aen and Niua – who, with the help of Doctor Maybe's inventions, try to set the little dolphin free. This is just an excuse to have great fun\nwhile shooting hordes of Bloobs that fly out in the sky. The colorful 2D graphics enhance the gameplay and draw the player more into the story and the game world. In order to keep the player entertained, the game contains tons of weapons and power-ups. Complete eight different worlds and 48 levels to save Will from the evil\nBloobs.",
-    "release_date_on_eshop": "2011-12-01",
-    "product_code": "TWL-N-KOUE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.7.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4F5545",
+  "uid": "50010000008013",
+  "name": "Double Bloob",
+  "formal_name": "Double Bloob",
+  "description": "The planet needs you! Bloobs have invaded the Earth and took a little dolphin named Will as a hostage!\nDon’t let the Bloobs win!\n\nWe all love arcade games. Double Bloob is one of those you immediately fall in love with. The simple story of two siblings – Aen and Niua – who, with the help of Doctor Maybe's inventions, try to set the little dolphin free. This is just an excuse to have great fun\nwhile shooting hordes of Bloobs that fly out in the sky. The colorful 2D graphics enhance the gameplay and draw the player more into the story and the game world. In order to keep the player entertained, the game contains tons of weapons and power-ups. Complete eight different worlds and 48 levels to save Will from the evil\nBloobs.",
+  "release_date_on_eshop": "2011-12-01",
+  "product_code": "TWL-N-KOUE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.7.0",
+  "disclaimer": null,
+  "descriptors": []
 }

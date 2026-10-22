@@ -1,31 +1,31 @@
 {
-    "tid": "0004000E001B8700",
-    "uid": "50010000044015",
-    "name": "Minecraft: New Nintendo 3DS \nEdition Update Ver. 1.9",
-    "formal_name": "Minecraft: New Nintendo 3DS \n<br>Edition Update Ver. 1.9",
-    "description": "An update for “Minecraft: New Nintendo 3DS Edition” is now available from Nintendo eShop.\n<br>All customers who own a copy of “Minecraft: New Nintendo 3DS Edition” should download the update which includes a codebase update that brings additional features and content in close parity to the MCPE version 1.1.5, which includes the Woodland mansion and various bug fixes. Please make sure to apply this update for an improved experience on Minecraft: New Nintendo 3DS Edition.",
-    "release_date_on_eshop": "2019-01-15",
-    "product_code": "KTR-U-BD3E",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v9.12.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E001B8700",
+  "uid": "50010000044015",
+  "name": "Minecraft: New Nintendo 3DS \nEdition Update Ver. 1.9",
+  "formal_name": "Minecraft: New Nintendo 3DS \n<br>Edition Update Ver. 1.9",
+  "description": "An update for “Minecraft: New Nintendo 3DS Edition” is now available from Nintendo eShop.\n<br>All customers who own a copy of “Minecraft: New Nintendo 3DS Edition” should download the update which includes a codebase update that brings additional features and content in close parity to the MCPE version 1.1.5, which includes the Woodland mansion and various bug fixes. Please make sure to apply this update for an improved experience on Minecraft: New Nintendo 3DS Edition.",
+  "release_date_on_eshop": "2019-01-15",
+  "product_code": "KTR-U-BD3E",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v9.12.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001D0700",
-    "uid": "50010000045995",
-    "name": "Thorium Wars:\nAttack of the Skyfighter",
-    "formal_name": "Thorium Wars:\n<br>Attack of the Skyfighter",
-    "description": "Humanity thought that its victory in the war with the Thorions, a race of fearless war machines, would restore peace to the Earth. But a generation later, humanity's worst fear is realized: the Thorions have returned seeking revenge, and aiming to wipe out the human race in a quest to dominate the galaxy. \n<br>\n<br>It's up to you to go on the attack against the Thorions and defeat them in battle once more. Pilot your choice of three Skyfighters across alien worlds to protect human colonies and destroy Thorion forces. Blast away at hulking mechs, menacing gun turrets, and swarming drones. Push your dogfighting skills to their limits against the Thorion horde.",
-    "release_date_on_eshop": "2018-07-05",
-    "product_code": "CTR-N-JTZP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D0700",
+  "uid": "50010000045995",
+  "name": "Thorium Wars:\nAttack of the Skyfighter",
+  "formal_name": "Thorium Wars:\n<br>Attack of the Skyfighter",
+  "description": "Humanity thought that its victory in the war with the Thorions, a race of fearless war machines, would restore peace to the Earth. But a generation later, humanity's worst fear is realized: the Thorions have returned seeking revenge, and aiming to wipe out the human race in a quest to dominate the galaxy. \n<br>\n<br>It's up to you to go on the attack against the Thorions and defeat them in battle once more. Pilot your choice of three Skyfighters across alien worlds to protect human colonies and destroy Thorion forces. Blast away at hulking mechs, menacing gun turrets, and swarming drones. Push your dogfighting skills to their limits against the Thorion horde.",
+  "release_date_on_eshop": "2018-07-05",
+  "product_code": "CTR-N-JTZP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

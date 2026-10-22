@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F712F00",
-    "uid": "50010000047715",
-    "name": "ZARA the Fastest Fairy",
-    "formal_name": "ZARA the Fastest Fairy",
-    "description": "ZARA... ready your wings!\n<br>\n<br>Under the glow of the honey moon, fairies can reach their peak speeds.  Now is the time for you to prove that you are truly the fastest fairy!\n<br>\n<br>Fly through the fairy forest collecting \"bling\" to increase your speed.  \n<br>\n<br>Watch out for rocks, trees and the mystical creatures called \"Orbees!\"\n<br>\n<br>Unlock outfits and break speed records in style!",
-    "release_date_on_eshop": "2019-04-18",
-    "product_code": "KTR-N-CFJE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F712F00",
+  "uid": "50010000047715",
+  "name": "ZARA the Fastest Fairy",
+  "formal_name": "ZARA the Fastest Fairy",
+  "description": "ZARA... ready your wings!\n<br>\n<br>Under the glow of the honey moon, fairies can reach their peak speeds.  Now is the time for you to prove that you are truly the fastest fairy!\n<br>\n<br>Fly through the fairy forest collecting \"bling\" to increase your speed.  \n<br>\n<br>Watch out for rocks, trees and the mystical creatures called \"Orbees!\"\n<br>\n<br>Unlock outfits and break speed records in style!",
+  "release_date_on_eshop": "2019-04-18",
+  "product_code": "KTR-N-CFJE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

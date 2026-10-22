@@ -1,31 +1,31 @@
 {
-    "tid": "000400000018BC00",
-    "uid": "50010000040735",
-    "name": "The Battle Cats POP!",
-    "formal_name": "The Battle Cats POP!",
-    "description": "Rampage across the globe with weird 'n wild Cats in an exciting but straight-forward tower defense adventure!\n<br>\nCollect 100s of fightin' Cats to power up your army, take down bizarre and hilarious enemies and win glorious treasure!\n<br>\n<br>Super Simple Battle System\n<br>Just tap on the Cat you want to join the fight! Oh, and maybe fire the Cat Cannon once or twice. Take down the enemy base before the baddies can destroy yours!\n<br>\n<br>Super Simple Levelling System\n<br>Use the XP you get from clearing stages to train your Cats! Once they hit level 10, it's time to EVOLVE!\n<br>\n<br>Super Simple Fun!\n<br>Collect treasure sets to create powerful items and boost your powers! \n<br>Go to the Capsule Machine to collect rare and exotic Cats(?)!!\n<br>Battle your friends with the 3DS-exclusive Versus mode to unlock even more cool rewards!\n<br>\n<br>Perfect for Casual Play! Fun for all ages, anyone (and their cat too!) can enjoy the \"Battle Cats\"!",
-    "release_date_on_eshop": "2016-06-27",
-    "product_code": "CTR-N-KNSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Multiplayer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000018BC00",
+  "uid": "50010000040735",
+  "name": "The Battle Cats POP!",
+  "formal_name": "The Battle Cats POP!",
+  "description": "Rampage across the globe with weird 'n wild Cats in an exciting but straight-forward tower defense adventure!\n<br>\nCollect 100s of fightin' Cats to power up your army, take down bizarre and hilarious enemies and win glorious treasure!\n<br>\n<br>Super Simple Battle System\n<br>Just tap on the Cat you want to join the fight! Oh, and maybe fire the Cat Cannon once or twice. Take down the enemy base before the baddies can destroy yours!\n<br>\n<br>Super Simple Levelling System\n<br>Use the XP you get from clearing stages to train your Cats! Once they hit level 10, it's time to EVOLVE!\n<br>\n<br>Super Simple Fun!\n<br>Collect treasure sets to create powerful items and boost your powers! \n<br>Go to the Capsule Machine to collect rare and exotic Cats(?)!!\n<br>Battle your friends with the 3DS-exclusive Versus mode to unlock even more cool rewards!\n<br>\n<br>Perfect for Casual Play! Fun for all ages, anyone (and their cat too!) can enjoy the \"Battle Cats\"!",
+  "release_date_on_eshop": "2016-06-27",
+  "product_code": "CTR-N-KNSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Multiplayer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

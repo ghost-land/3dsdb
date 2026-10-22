@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000D9600",
-    "uid": "50010000014300",
-    "name": "THE STARSHIP DAMREY™",
-    "formal_name": "THE STARSHIP DAMREY™",
-    "description": "From two masters of suspense,\nKazuya Asano and Takemaru Abiko,\ncomes a new twist on the genre as\nplayers discover a fear born of\ninnocence.\n<br/><br/>\nYou awaken to discover that you are\ntrapped in a Cold Sleep capsule\naboard the titular Starship Damrey\nwith no memory of who you are or\nhow you got there.\n<br/><br/>\nWith no tutorials, explanations, or\nhints provided, the game was created\nwith the intent that self-discovery and\nexperimentation be an integral part of\nthe experience. An inconceivable truth\nawaits those willing to discover it.\n<br/><br/>\nDo you dare to hope? Or will despair\nclaim the final shreds of your mind?\nDiscover the mystery of the Starship\nDamrey to find out for yourself.",
-    "release_date_on_eshop": "2013-05-16",
-    "product_code": "CTR-N-JDMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D9600",
+  "uid": "50010000014300",
+  "name": "THE STARSHIP DAMREY™",
+  "formal_name": "THE STARSHIP DAMREY™",
+  "description": "From two masters of suspense,\nKazuya Asano and Takemaru Abiko,\ncomes a new twist on the genre as\nplayers discover a fear born of\ninnocence.\n<br/><br/>\nYou awaken to discover that you are\ntrapped in a Cold Sleep capsule\naboard the titular Starship Damrey\nwith no memory of who you are or\nhow you got there.\n<br/><br/>\nWith no tutorials, explanations, or\nhints provided, the game was created\nwith the intent that self-discovery and\nexperimentation be an integral part of\nthe experience. An inconceivable truth\nawaits those willing to discover it.\n<br/><br/>\nDo you dare to hope? Or will despair\nclaim the final shreds of your mind?\nDiscover the mystery of the Starship\nDamrey to find out for yourself.",
+  "release_date_on_eshop": "2013-05-16",
+  "product_code": "CTR-N-JDMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

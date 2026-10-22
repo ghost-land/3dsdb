@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000128A00",
-    "uid": "50010000024675",
-    "name": "3D サンダーブレード",
-    "formal_name": "3D サンダーブレード",
-    "description": "攻撃ヘリを操るセガ体感シリーズ第7作が、超パワーアップして登場。ヘリコプターならではの空を飛ぶ浮遊感は、3D立体視により大迫力で味わえます。アーケード筐体（きょうたい）再現、ジャイロセンサー操作などの追加設定はもちろんのこと、スペシャルモードでは新たに最終ステージが出現。真のボスとの戦いが待っています。\n<br>\n<br>※本作は、拡張スライドパッドに対応しています。",
-    "release_date_on_eshop": "2014-08-20",
-    "product_code": "CTR-N-JT7J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シューティング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000128A00",
+  "uid": "50010000024675",
+  "name": "3D サンダーブレード",
+  "formal_name": "3D サンダーブレード",
+  "description": "攻撃ヘリを操るセガ体感シリーズ第7作が、超パワーアップして登場。ヘリコプターならではの空を飛ぶ浮遊感は、3D立体視により大迫力で味わえます。アーケード筐体（きょうたい）再現、ジャイロセンサー操作などの追加設定はもちろんのこと、スペシャルモードでは新たに最終ステージが出現。真のボスとの戦いが待っています。\n<br>\n<br>※本作は、拡張スライドパッドに対応しています。",
+  "release_date_on_eshop": "2014-08-20",
+  "product_code": "CTR-N-JT7J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シューティング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

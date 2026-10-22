@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000065000",
-    "uid": "50010000008405",
-    "name": "Secret Mysteries in London",
-    "formal_name": "Secret Mysteries in London",
-    "description": "1920. When a politician is found\nmurdered in the park, the local police\nmake the unconventional decision to\nask Oscar Gaebelein, a young forensic\nscientist, for help.\n<br/><br/>\nMotivated by his desire to proof his\nvalue to the investigating team, Oscar\nthrows himself head first into the\ninvestigation. But soon, he and his\ncolleagues find out that this first\nmurder is only the beginning of a\nsinister bread crumb trail.",
-    "release_date_on_eshop": "2013-08-15",
-    "product_code": "CTR-P-ASXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000065000",
+  "uid": "50010000008405",
+  "name": "Secret Mysteries in London",
+  "formal_name": "Secret Mysteries in London",
+  "description": "1920. When a politician is found\nmurdered in the park, the local police\nmake the unconventional decision to\nask Oscar Gaebelein, a young forensic\nscientist, for help.\n<br/><br/>\nMotivated by his desire to proof his\nvalue to the investigating team, Oscar\nthrows himself head first into the\ninvestigation. But soon, he and his\ncolleagues find out that this first\nmurder is only the beginning of a\nsinister bread crumb trail.",
+  "release_date_on_eshop": "2013-08-15",
+  "product_code": "CTR-P-ASXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

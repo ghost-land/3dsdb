@@ -1,30 +1,30 @@
 {
-    "tid": "000400000016C500",
-    "uid": "50010000033176",
-    "name": "Puzzle & Dragons Z + Super\nMario Bros. Edition Demo",
-    "formal_name": "Puzzle & Dragons Z + Super\nMario Bros. Edition Special Demo",
-    "description": "In the Puzzle & Dragons Z + Super Mario Bros. Edition Special Demo, take on Bowser’s baddies by using the awesome power of the Orbs. Drag and match Orbs, or chain together combos to deal massive blows to your enemies. Choose between a team lead by Mario™ or Luigi™ and take it to the Koopa menace.\n<br><br>\nThe full version of the Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros.™ Edition game gives you two complete games on one cartridge. In Puzzle & Dragons Super Mario Bros. Edition, continue to use the power of the Orbs as you travel to different worlds. Assemble your own team of Mushroom Kingdom baddies, like Goombas or Koopa Troopas, and recruit much-loved Mario™ characters, including Toad™ and Yoshi™! Or in Puzzle & Dragons Z, battle the 5 powerful Sky Dragons to rebuild the world and customize your team with a plethora of monsters. Allies gained in both games have the chance to evolve into more advanced forms and learn powerful new skills.",
-    "release_date_on_eshop": "2015-04-30",
-    "product_code": "CTR-N-KPME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "Digital Demos",
-    "genres": [
-        "Puzzle",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000016C500",
+  "uid": "50010000033176",
+  "name": "Puzzle & Dragons Z + Super\nMario Bros. Edition Demo",
+  "formal_name": "Puzzle & Dragons Z + Super\nMario Bros. Edition Special Demo",
+  "description": "In the Puzzle & Dragons Z + Super Mario Bros. Edition Special Demo, take on Bowser’s baddies by using the awesome power of the Orbs. Drag and match Orbs, or chain together combos to deal massive blows to your enemies. Choose between a team lead by Mario™ or Luigi™ and take it to the Koopa menace.\n<br><br>\nThe full version of the Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros.™ Edition game gives you two complete games on one cartridge. In Puzzle & Dragons Super Mario Bros. Edition, continue to use the power of the Orbs as you travel to different worlds. Assemble your own team of Mushroom Kingdom baddies, like Goombas or Koopa Troopas, and recruit much-loved Mario™ characters, including Toad™ and Yoshi™! Or in Puzzle & Dragons Z, battle the 5 powerful Sky Dragons to rebuild the world and customize your team with a plethora of monsters. Allies gained in both games have the chance to evolve into more advanced forms and learn powerful new skills.",
+  "release_date_on_eshop": "2015-04-30",
+  "product_code": "CTR-N-KPME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "Digital Demos",
+  "genres": [
+    "Puzzle",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

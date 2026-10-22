@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4B4E45",
-    "uid": "50010000009025",
-    "name": "Flipper 2 -\nFlush the Goldfish",
-    "formal_name": "Flipper 2 - Flush the Goldfish",
-    "description": "The boy has been kidnapped by an evil monster and there is no time to waste! Flush has to act quickly in order to rescue his best friend and owner. Luckily, Flush has a super-secret robot suit...that will make things easier!",
-    "release_date_on_eshop": "2012-01-26",
-    "product_code": "TWL-N-KKNE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B4E45",
+  "uid": "50010000009025",
+  "name": "Flipper 2 -\nFlush the Goldfish",
+  "formal_name": "Flipper 2 - Flush the Goldfish",
+  "description": "The boy has been kidnapped by an evil monster and there is no time to waste! Flush has to act quickly in order to rescue his best friend and owner. Luckily, Flush has a super-secret robot suit...that will make things easier!",
+  "release_date_on_eshop": "2012-01-26",
+  "product_code": "TWL-N-KKNE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

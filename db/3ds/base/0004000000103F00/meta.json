@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000103F00",
-    "uid": "50010000021613",
-    "name": "@SIMPLE DLシリーズ Vol.26\nTHE テニス",
-    "formal_name": "@SIMPLE DLシリーズ Vol.26 THE テニス",
-    "description": "みんなで楽しめるテニスゲームが登場です。\n<br>ゲームでは8人のキャラクターと6つのコートで、シングル戦、ダブルス戦、勝ち抜き戦を楽しむことができます。\n<br>\n<br>ローカルプレイ･ダウンロードプレイ･ランキングといった通信機能や見た目が楽しいコートと衣装の追加コンテンツも充実。\n<br>\n<br>1人のプレイでも、家族や友達と対戦プレイでも楽しめることうけあいです。",
-    "release_date_on_eshop": "2014-04-16",
-    "product_code": "CTR-N-JS5J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "スポーツ",
-        "アクション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "ダウンロードプレイ対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000103F00",
+  "uid": "50010000021613",
+  "name": "@SIMPLE DLシリーズ Vol.26\nTHE テニス",
+  "formal_name": "@SIMPLE DLシリーズ Vol.26 THE テニス",
+  "description": "みんなで楽しめるテニスゲームが登場です。\n<br>ゲームでは8人のキャラクターと6つのコートで、シングル戦、ダブルス戦、勝ち抜き戦を楽しむことができます。\n<br>\n<br>ローカルプレイ･ダウンロードプレイ･ランキングといった通信機能や見た目が楽しいコートと衣装の追加コンテンツも充実。\n<br>\n<br>1人のプレイでも、家族や友達と対戦プレイでも楽しめることうけあいです。",
+  "release_date_on_eshop": "2014-04-16",
+  "product_code": "CTR-N-JS5J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "スポーツ",
+    "アクション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "ダウンロードプレイ対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

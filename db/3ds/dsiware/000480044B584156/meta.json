@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B584156",
-    "uid": "50010000009767",
-    "name": "Pirates Assault",
-    "formal_name": "Pirates Assault",
-    "description": "Enemies have come in search of your\ntreasure, Captain!<br>\n<br>\nPirates Assault is a tower defence\ngame that brings a little twist to the\ngenre. A treasure must be protected,\nand to accomplish that you have to\nbuild the best defence strategy. Even\nif some pieces of the treasure are\nstolen, they can be retrieved as long\nas the enemy that stole your treasure\nis on the screen and alive. If the\nenemy is sunk, that piece of treasure\ncan’t be recovered.<br>\n<br>\nGame features:<br>\n<br>\n- Use rum to buy weapons usable on\nland or sea, to protect your treasure!<br>\n<br>\n- Upgrade your weapons: rob rum\nships to gain currency.<br>\n<br>\n- Send your enemies straight to\nDavy Jones's locker by releasing\ngodlike destruction on them with a\ndevastating storm attack.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KXAV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584156",
+  "uid": "50010000009767",
+  "name": "Pirates Assault",
+  "formal_name": "Pirates Assault",
+  "description": "Enemies have come in search of your\ntreasure, Captain!<br>\n<br>\nPirates Assault is a tower defence\ngame that brings a little twist to the\ngenre. A treasure must be protected,\nand to accomplish that you have to\nbuild the best defence strategy. Even\nif some pieces of the treasure are\nstolen, they can be retrieved as long\nas the enemy that stole your treasure\nis on the screen and alive. If the\nenemy is sunk, that piece of treasure\ncan’t be recovered.<br>\n<br>\nGame features:<br>\n<br>\n- Use rum to buy weapons usable on\nland or sea, to protect your treasure!<br>\n<br>\n- Upgrade your weapons: rob rum\nships to gain currency.<br>\n<br>\n- Send your enemies straight to\nDavy Jones's locker by releasing\ngodlike destruction on them with a\ndevastating storm attack.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KXAV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

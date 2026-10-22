@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001D5A00",
-    "uid": "50010000048035",
-    "name": "Quarters, Please!",
-    "formal_name": "Quarters, Please!",
-    "description": "\"Quarters, Please!\" is a bustling arcade playground. Relax and watch the neighborhood kids enjoy playing, or kick them off and play the games yourself. Can you rise to the challenge and beat their high scores?\n<br>\n<br>Test your skills in five exciting arcade games inspired by retro classics:\n<br>\n<br>\"Nebula\" - Destroy wave after wave of dive-bombing insectoid aliens.\n<br>\"Dino Dig\" - Protect your underground lair by breathing fire on the invading ghost miners.\n<br>\"Bound 'n Bash\" - Drive, smash and jump your way through numerous challenging stages of fast-paced racing action.\n<br>\"Meteors\" - Blow those pesky space rocks into tiny bits.\n<br>\"Face Invaders\" - The alien horde descends. Shoot them all and protect your base!",
-    "release_date_on_eshop": "2019-09-05",
-    "product_code": "CTR-N-LQPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter",
-        "Racing"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "00040000001D5A00",
+  "uid": "50010000048035",
+  "name": "Quarters, Please!",
+  "formal_name": "Quarters, Please!",
+  "description": "\"Quarters, Please!\" is a bustling arcade playground. Relax and watch the neighborhood kids enjoy playing, or kick them off and play the games yourself. Can you rise to the challenge and beat their high scores?\n<br>\n<br>Test your skills in five exciting arcade games inspired by retro classics:\n<br>\n<br>\"Nebula\" - Destroy wave after wave of dive-bombing insectoid aliens.\n<br>\"Dino Dig\" - Protect your underground lair by breathing fire on the invading ghost miners.\n<br>\"Bound 'n Bash\" - Drive, smash and jump your way through numerous challenging stages of fast-paced racing action.\n<br>\"Meteors\" - Blow those pesky space rocks into tiny bits.\n<br>\"Face Invaders\" - The alien horde descends. Shoot them all and protect your base!",
+  "release_date_on_eshop": "2019-09-05",
+  "product_code": "CTR-N-LQPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter",
+    "Racing"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

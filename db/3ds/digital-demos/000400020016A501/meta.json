@@ -1,28 +1,28 @@
 {
-    "tid": "000400020016A501",
-    "uid": "50010000033515",
-    "name": "Samurai Defender",
-    "formal_name": "Samurai Defender",
-    "description": "Samurai Defender is a simple defense type action game set in the Warring States period of Japan.\n<BR><BR>\nDefend the castle from approaching enemies!\n<BR><BR>\nTap on an enemy soldier to aim at them. Your bowmen will take care of the rest.\n<BR><BR>\nEnemies will move towards your castle gate, so take aim and stop them from getting too close!\n<BR><BR>\nUse the coins you acquire to learn new schemes!\n<BR><BR>\nUse the schemes you learned to defeat lots of enemies!\n<BR><BR>\nDefend your castle more easily by leveling up your bowman and schemes, and enjoy the exhilaration of repelling waves of enemy attacks!",
-    "release_date_on_eshop": "2015-05-21",
-    "product_code": "CTR-N-JWXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Fantasy Violence"
-    ]
+  "tid": "000400020016A501",
+  "uid": "50010000033515",
+  "name": "Samurai Defender",
+  "formal_name": "Samurai Defender",
+  "description": "Samurai Defender is a simple defense type action game set in the Warring States period of Japan.\n<BR><BR>\nDefend the castle from approaching enemies!\n<BR><BR>\nTap on an enemy soldier to aim at them. Your bowmen will take care of the rest.\n<BR><BR>\nEnemies will move towards your castle gate, so take aim and stop them from getting too close!\n<BR><BR>\nUse the coins you acquire to learn new schemes!\n<BR><BR>\nUse the schemes you learned to defeat lots of enemies!\n<BR><BR>\nDefend your castle more easily by leveling up your bowman and schemes, and enjoy the exhilaration of repelling waves of enemy attacks!",
+  "release_date_on_eshop": "2015-05-21",
+  "product_code": "CTR-N-JWXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence"
+  ]
 }

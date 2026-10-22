@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000161100",
-    "uid": "50010000034915",
-    "name": "BIKE RIDER DX2: GALAXY",
-    "formal_name": "BIKE RIDER DX2: GALAXY",
-    "description": "BIKE RIDER DX2: GALAXY takes you\non a crazy ride to space, travelling 12\ndifferent planets based on the zodiac\nsigns in the GALAXY TOUR.\n<br/><br/>\nA set of power-up items will grant\nyou special abilities, like turning your\nlittle rider into a funky frog or letting\nyou freely fly around the stage, while\neach course is full of dangerous\ngimmicks such as lasers, spiked\nblocks or giant whirlwinds.\n<br/><br/>\nFurthermore, the GRAND PRIX mode\nlets you challenge players all over the\nworld in an endless random parcour\nfeaturing all gimmicks in the whole\ngame. And if that's not enough, a free\nto download SPECIAL STAGE will\nshoot you to the moon!",
-    "release_date_on_eshop": "2015-07-09",
-    "product_code": "CTR-N-JGYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Racing"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000161100",
+  "uid": "50010000034915",
+  "name": "BIKE RIDER DX2: GALAXY",
+  "formal_name": "BIKE RIDER DX2: GALAXY",
+  "description": "BIKE RIDER DX2: GALAXY takes you\non a crazy ride to space, travelling 12\ndifferent planets based on the zodiac\nsigns in the GALAXY TOUR.\n<br/><br/>\nA set of power-up items will grant\nyou special abilities, like turning your\nlittle rider into a funky frog or letting\nyou freely fly around the stage, while\neach course is full of dangerous\ngimmicks such as lasers, spiked\nblocks or giant whirlwinds.\n<br/><br/>\nFurthermore, the GRAND PRIX mode\nlets you challenge players all over the\nworld in an endless random parcour\nfeaturing all gimmicks in the whole\ngame. And if that's not enough, a free\nto download SPECIAL STAGE will\nshoot you to the moon!",
+  "release_date_on_eshop": "2015-07-09",
+  "product_code": "CTR-N-JGYP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Racing"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

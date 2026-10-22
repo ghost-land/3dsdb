@@ -1,34 +1,34 @@
 {
-    "tid": "000400000F70D900",
-    "uid": "50010000044016",
-    "name": "Frutakia 2",
-    "formal_name": "Frutakia 2",
-    "description": "Frutakia is back and better than ever! Match 3 or more cute animals and level up in the 3rd dimension! Go ahead and move any row up or down! We dare you to discover its ultra-addictive gameplay, play once and that’s it... Simple and smart gameplay, ideal for short periods of time. (E.g.: in buses, trains, queues, boss talking, etc.)\n<br>\n<br>GAME OBJECTIVE:\n<br>You must make clever groups of 3 or more cascade lines with the same animals in any direction!",
-    "release_date_on_eshop": "2017-11-02",
-    "product_code": "KTR-N-CFKP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70D900",
+  "uid": "50010000044016",
+  "name": "Frutakia 2",
+  "formal_name": "Frutakia 2",
+  "description": "Frutakia is back and better than ever! Match 3 or more cute animals and level up in the 3rd dimension! Go ahead and move any row up or down! We dare you to discover its ultra-addictive gameplay, play once and that’s it... Simple and smart gameplay, ideal for short periods of time. (E.g.: in buses, trains, queues, boss talking, etc.)\n<br>\n<br>GAME OBJECTIVE:\n<br>You must make clever groups of 3 or more cascade lines with the same animals in any direction!",
+  "release_date_on_eshop": "2017-11-02",
+  "product_code": "KTR-N-CFKP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

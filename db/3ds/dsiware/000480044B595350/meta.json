@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B595350",
-    "uid": "50010000006582",
-    "name": "Spot The Difference",
-    "formal_name": "Spot The Difference",
-    "description": "Two photos are displayed on both\nscreens.You must select the areas in\nthe main photo where you see a\ndifference and find all differences in a\nlimited time.<br>\n<br>\nIf you manage to discover the\ndifferences within the time limit, you\nwill be granted with Cups according to\nyour performance.<br>\n<br>\nThere are Bronze, Silver and Gold\nCups to win. The game features 160\ndifferent photos from established\nphotographers,<br>\n<br>\nwith more than a thousand different\ncombinations of differences to find in\nthe images.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KYSP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B595350",
+  "uid": "50010000006582",
+  "name": "Spot The Difference",
+  "formal_name": "Spot The Difference",
+  "description": "Two photos are displayed on both\nscreens.You must select the areas in\nthe main photo where you see a\ndifference and find all differences in a\nlimited time.<br>\n<br>\nIf you manage to discover the\ndifferences within the time limit, you\nwill be granted with Cups according to\nyour performance.<br>\n<br>\nThere are Bronze, Silver and Gold\nCups to win. The game features 160\ndifferent photos from established\nphotographers,<br>\n<br>\nwith more than a thousand different\ncombinations of differences to find in\nthe images.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KYSP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

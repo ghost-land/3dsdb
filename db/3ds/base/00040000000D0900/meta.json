@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000D0900",
-    "uid": "50010000022755",
-    "name": "Pokémon™ Art Academy™",
-    "formal_name": "Pokémon™ Art Academy™",
-    "description": "Grab your stylus and start your\n<br>Pokémon-drawing journey in Pokémon\n<br>Art Academy, only on Nintendo 3DS\n<br>family systems! This Pokémon-themed\n<br>iteration of the Art Academy series\n<br>offers budding illustrators and\n<br>Pokémon fans alike 40 lessons to\n<br>learn how to paint, sketch and draw\n<br>with beloved Pokémon characters.",
-    "release_date_on_eshop": "2014-07-04",
-    "product_code": "CTR-P-BPCP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Education"
-    ],
-    "features": [
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D0900",
+  "uid": "50010000022755",
+  "name": "Pokémon™ Art Academy™",
+  "formal_name": "Pokémon™ Art Academy™",
+  "description": "Grab your stylus and start your\n<br>Pokémon-drawing journey in Pokémon\n<br>Art Academy, only on Nintendo 3DS\n<br>family systems! This Pokémon-themed\n<br>iteration of the Art Academy series\n<br>offers budding illustrators and\n<br>Pokémon fans alike 40 lessons to\n<br>learn how to paint, sketch and draw\n<br>with beloved Pokémon characters.",
+  "release_date_on_eshop": "2014-07-04",
+  "product_code": "CTR-P-BPCP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Education"
+  ],
+  "features": [
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

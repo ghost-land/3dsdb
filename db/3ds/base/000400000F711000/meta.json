@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F711000",
-    "uid": "50010000045755",
-    "name": "UP UP BOT",
-    "formal_name": "UP UP BOT",
-    "description": "In UP UP BOT help your robot friend climb the platforms by tapping the screen. Be careful and watch out for bad robots trying to stop you from progressing even higher. Endless fun for everyone!",
-    "release_date_on_eshop": "2018-05-10",
-    "product_code": "KTR-N-CBQE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F711000",
+  "uid": "50010000045755",
+  "name": "UP UP BOT",
+  "formal_name": "UP UP BOT",
+  "description": "In UP UP BOT help your robot friend climb the platforms by tapping the screen. Be careful and watch out for bad robots trying to stop you from progressing even higher. Endless fun for everyone!",
+  "release_date_on_eshop": "2018-05-10",
+  "product_code": "KTR-N-CBQE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000131200",
-    "uid": "50010000026415",
-    "name": "Skylanders Trap Team™",
-    "formal_name": "Skylanders Trap Team™",
-    "description": "Villainous nightmare creatures have escaped from the Realm of Dreams and placed all of Skylands under a terrible sleep spell. You and the Skylanders now have the amazing ability to capture the villains and return them to Skylands to fight for you! Begin the ultimate 3D adventure as you explore Skylands in search of the escaped villains!\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BS9E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "RPG",
-        "Platformer"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "The included Portal of Power and at least two Skylanders Trap\nTeam™, Skylanders SWAP Force™, Skylanders Giants™ or\nSkylanders Spyro’s Adventure® figures are required to start the\nStory mode tutorial.",
-    "descriptors": [
-        "Cartoon Violence"
-    ]
+  "tid": "0004000000131200",
+  "uid": "50010000026415",
+  "name": "Skylanders Trap Team™",
+  "formal_name": "Skylanders Trap Team™",
+  "description": "Villainous nightmare creatures have escaped from the Realm of Dreams and placed all of Skylands under a terrible sleep spell. You and the Skylanders now have the amazing ability to capture the villains and return them to Skylands to fight for you! Begin the ultimate 3D adventure as you explore Skylands in search of the escaped villains!\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BS9E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Platformer"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "The included Portal of Power and at least two Skylanders Trap\nTeam™, Skylanders SWAP Force™, Skylanders Giants™ or\nSkylanders Spyro’s Adventure® figures are required to start the\nStory mode tutorial.",
+  "descriptors": [
+    "Cartoon Violence"
+  ]
 }

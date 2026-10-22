@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000112F00",
-    "uid": "50010000022025",
-    "name": "Inazuma Eleven® GO: Light",
-    "formal_name": "Inazuma Eleven® GO: Light",
-    "description": "Summon up your fighting spirit as\nRaimon Jr. High takes to the pitch\nagain! New footie stars, new moves\nand a whole new adventure’s kicking\noff in Inazuma Eleven GO: Light and\nInazuma Eleven GO: Shadow on\nNintendo 3DS family systems!\n<br/><br/>\nSo, if you’re a football fan and\nreckon you’ve got what it takes to put\ntogether the very best team from over\na thousand players, sign up with\nInazuma Eleven GO: Light or Inazuma\nEleven GO: Shadow today – game on!",
-    "release_date_on_eshop": "2014-06-13",
-    "product_code": "CTR-P-AE4P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000112F00",
+  "uid": "50010000022025",
+  "name": "Inazuma Eleven® GO: Light",
+  "formal_name": "Inazuma Eleven® GO: Light",
+  "description": "Summon up your fighting spirit as\nRaimon Jr. High takes to the pitch\nagain! New footie stars, new moves\nand a whole new adventure’s kicking\noff in Inazuma Eleven GO: Light and\nInazuma Eleven GO: Shadow on\nNintendo 3DS family systems!\n<br/><br/>\nSo, if you’re a football fan and\nreckon you’ve got what it takes to put\ntogether the very best team from over\na thousand players, sign up with\nInazuma Eleven GO: Light or Inazuma\nEleven GO: Shadow today – game on!",
+  "release_date_on_eshop": "2014-06-13",
+  "product_code": "CTR-P-AE4P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70F300",
-    "uid": "50010000043697",
-    "name": "Alter World",
-    "formal_name": "Alter World",
-    "description": "Inspired by Stephen King’s book - “The Dark Tower”, Alter World is a 2D platformer with interesting gameplay mechanics. Player can pass on an alternative universe anytime and use an alternative realms to move to another level.\n<br><br>\n100 unique and challenging levels.\n<br>10 different immersive worlds will conquer your heart! \n<br>Listen to your ego, and finish the game with several different endings!",
-    "release_date_on_eshop": "2018-04-05",
-    "product_code": "KTR-N-CAYE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Adventure",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70F300",
+  "uid": "50010000043697",
+  "name": "Alter World",
+  "formal_name": "Alter World",
+  "description": "Inspired by Stephen King’s book - “The Dark Tower”, Alter World is a 2D platformer with interesting gameplay mechanics. Player can pass on an alternative universe anytime and use an alternative realms to move to another level.\n<br><br>\n100 unique and challenging levels.\n<br>10 different immersive worlds will conquer your heart! \n<br>Listen to your ego, and finish the game with several different endings!",
+  "release_date_on_eshop": "2018-04-05",
+  "product_code": "KTR-N-CAYE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Adventure",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

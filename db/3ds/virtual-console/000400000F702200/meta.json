@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F702200",
-    "uid": "50010000039740",
-    "name": "Pilotwings™",
-    "formal_name": "Pilotwings™",
-    "description": "Welcome to Pilotwings Flight Club, where your career can really soar! This Super NES™ classic puts a fun new spin on flight simulation.\n<br>\n<br>Pilot a range of flying machines and advance through the ranks. Soar through the floating rings in a biplane. Perform a precision skydive on to a distant target. Catch the thermals on a hang-glider. You can even test the experimental Rocketbelt!\n<br>\n<br>The best graduates will be called on to pilot a helicopter in a daring rescue mission. With Pilotwings, the sky's the limit!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-04-14",
-    "product_code": "KTR-N-UAKE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Sports"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F702200",
+  "uid": "50010000039740",
+  "name": "Pilotwings™",
+  "formal_name": "Pilotwings™",
+  "description": "Welcome to Pilotwings Flight Club, where your career can really soar! This Super NES™ classic puts a fun new spin on flight simulation.\n<br>\n<br>Pilot a range of flying machines and advance through the ranks. Soar through the floating rings in a biplane. Perform a precision skydive on to a distant target. Catch the thermals on a hang-glider. You can even test the experimental Rocketbelt!\n<br>\n<br>The best graduates will be called on to pilot a helicopter in a daring rescue mission. With Pilotwings, the sky's the limit!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-04-14",
+  "product_code": "KTR-N-UAKE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Sports"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

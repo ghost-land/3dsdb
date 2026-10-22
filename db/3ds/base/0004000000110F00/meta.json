@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000110F00",
-    "uid": "50010000022519",
-    "name": "Castle Clout 3D",
-    "formal_name": "Castle Clout 3D",
-    "description": "Crush and destroy enemies with your\npowerful trebuchet in this vivid 3D\nversion of the popular Castle Clout\ngame! Only you can unite the empire\nacross the Forest, Frost, Desert,\nJungle and Burning Lands and save\nthe kingdom from the Darkness.\nBoulders, bombs and more blaze\nthrough the air to batter walls and\ntopple foes. Choose your weapon and\nammo, and release at the right angle\nto maximize the damage you inflict.\nTry not to duck as enemies and\nammunition fly out of the screen!\nEnjoy over 150 levels, and expand\nyour battle with the hot seat\nmultiplayer mode.",
-    "release_date_on_eshop": "2014-05-29",
-    "product_code": "CTR-N-JCUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000110F00",
+  "uid": "50010000022519",
+  "name": "Castle Clout 3D",
+  "formal_name": "Castle Clout 3D",
+  "description": "Crush and destroy enemies with your\npowerful trebuchet in this vivid 3D\nversion of the popular Castle Clout\ngame! Only you can unite the empire\nacross the Forest, Frost, Desert,\nJungle and Burning Lands and save\nthe kingdom from the Darkness.\nBoulders, bombs and more blaze\nthrough the air to batter walls and\ntopple foes. Choose your weapon and\nammo, and release at the right angle\nto maximize the damage you inflict.\nTry not to duck as enemies and\nammunition fly out of the screen!\nEnjoy over 150 levels, and expand\nyour battle with the hot seat\nmultiplayer mode.",
+  "release_date_on_eshop": "2014-05-29",
+  "product_code": "CTR-N-JCUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

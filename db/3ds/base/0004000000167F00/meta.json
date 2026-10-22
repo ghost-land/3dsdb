@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000167F00",
-    "uid": "50010000034235",
-    "name": "Comic Workshop 2",
-    "formal_name": "Comic Workshop 2",
-    "description": "Smoother, bigger and stronger than the previous title, Comic Workshop 2 brings you extra comfort and new functions to make even more amazing drawings!\n<br><br>\nSmoother?\nSetup your most comfy config with the new button mapping interface.\nThanks to a higher response time, drawing feels more natural!\n<br><br>\nBigger?\nNew Gradation and Saturated Linework tools to add amazing effects to your drawings!\nImproved Text tool, many more Stickers and Roller Stamps in full-color, a Clipboard is available to copy/paste between pages, a grid for precise drawings, a color lock option... and much more!\n<br><br>\nStronger?\nNew layer blending modes for amazing color mixing and a transparency lock available for backgrounds.\nPowerful transform settings for Copy-Cut-Paste, Stickers, Roller Stamps and Pictures!\n360°rotation and an aspect ratio lock for resizing without distorting.\nSave your drawings in better quality, preview your pages from the menu, use colors in storyboard mode, etc.",
-    "release_date_on_eshop": "2015-06-18",
-    "product_code": "CTR-N-KW2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000167F00",
+  "uid": "50010000034235",
+  "name": "Comic Workshop 2",
+  "formal_name": "Comic Workshop 2",
+  "description": "Smoother, bigger and stronger than the previous title, Comic Workshop 2 brings you extra comfort and new functions to make even more amazing drawings!\n<br><br>\nSmoother?\nSetup your most comfy config with the new button mapping interface.\nThanks to a higher response time, drawing feels more natural!\n<br><br>\nBigger?\nNew Gradation and Saturated Linework tools to add amazing effects to your drawings!\nImproved Text tool, many more Stickers and Roller Stamps in full-color, a Clipboard is available to copy/paste between pages, a grid for precise drawings, a color lock option... and much more!\n<br><br>\nStronger?\nNew layer blending modes for amazing color mixing and a transparency lock available for backgrounds.\nPowerful transform settings for Copy-Cut-Paste, Stickers, Roller Stamps and Pictures!\n360°rotation and an aspect ratio lock for resizing without distorting.\nSave your drawings in better quality, preview your pages from the menu, use colors in storyboard mode, etc.",
+  "release_date_on_eshop": "2015-06-18",
+  "product_code": "CTR-N-KW2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B584C50",
-    "uid": "50010000006541",
-    "name": "Telegraph Sudoku & Kakuro",
-    "formal_name": "Telegraph Sudoku & Kakuro",
-    "description": "Play 500 puzzles from the\n'Telegraph' like you've never played\nthem before! Sudoku, Kakuro,\nMini-Sudoku, Sudoku X and Jigsaw\nSudoku come in multiple levels of\ndifficulty, with a handy interface that\ntransfigures the classic pen-and-paper\nexperience.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KXLP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584C50",
+  "uid": "50010000006541",
+  "name": "Telegraph Sudoku & Kakuro",
+  "formal_name": "Telegraph Sudoku & Kakuro",
+  "description": "Play 500 puzzles from the\n'Telegraph' like you've never played\nthem before! Sudoku, Kakuro,\nMini-Sudoku, Sudoku X and Jigsaw\nSudoku come in multiple levels of\ndifficulty, with a handy interface that\ntransfigures the classic pen-and-paper\nexperience.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KXLP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

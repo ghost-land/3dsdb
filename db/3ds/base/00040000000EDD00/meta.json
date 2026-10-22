@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000EDD00",
-    "uid": "50010000014434",
-    "name": "Dillon's Rolling Western",
-    "formal_name": "Dillon's Rolling Western",
-    "description": " 태양과 모래바람...\n 피와 땀으로 일구어진 서부 개척지에 정체불명의 몬스터「바위 괴물」이 마을을 습격해 마을에서 기르는 가축들을 모조리 먹어 치웁니다.\n 해결사 딜론을 조작하여 몬스터를 쓰러뜨리고 마을을 지켜 주세요.\n",
-    "release_date_on_eshop": "2014-08-20",
-    "product_code": "CTR-N-JAMY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "시뮬레이션"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "제명 : Dillon's Rolling Western\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130424-002\n등급분류 일자 : 2013.04.24.\n제작・배급업신고번호: 게배 제2012-10호  ",
-    "descriptors": []
+  "tid": "00040000000EDD00",
+  "uid": "50010000014434",
+  "name": "Dillon's Rolling Western",
+  "formal_name": "Dillon's Rolling Western",
+  "description": " 태양과 모래바람...\n 피와 땀으로 일구어진 서부 개척지에 정체불명의 몬스터「바위 괴물」이 마을을 습격해 마을에서 기르는 가축들을 모조리 먹어 치웁니다.\n 해결사 딜론을 조작하여 몬스터를 쓰러뜨리고 마을을 지켜 주세요.\n",
+  "release_date_on_eshop": "2014-08-20",
+  "product_code": "CTR-N-JAMY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "시뮬레이션"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "제명 : Dillon's Rolling Western\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130424-002\n등급분류 일자 : 2013.04.24.\n제작・배급업신고번호: 게배 제2012-10호  ",
+  "descriptors": []
 }

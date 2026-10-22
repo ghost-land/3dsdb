@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001BB200",
-    "uid": "50010000043235",
-    "name": "Metroid™: Samus Returns",
-    "formal_name": "Metroid™: Samus Returns",
-    "description": "Best Handheld Game, The Game Awards 2017\n<br>\n<br>Explore a hostile alien planet as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in a masterful reimagining of her 1991 Game Boy™ adventure. This intense, side-scrolling action platformer revitalizes classic gameplay with stunning 3D visuals and a wide range of new content sure to please both new and veteran players.\n<br>\n<br>Metroid™ II: Return of Samus™ has been completely rebuilt, with reconstructed maps, gear upgrades, new abilities that use a special energy called “Aeion,” a powerful melee counterattack, and 360-degree aiming. A wealth of hidden paths, power-ups, and secrets await—find enough of them, and you may even start to unravel the mysteries of Planet SR388’s past. A touchscreen-enabled mapping system and informative menus help new players brave the depths of SR388 and track their artillery and inventory while immersing themselves in the haunting isolation, deep exploration, brutal environments, and fierce battles that hardcore Metroid fans demand.",
-    "release_date_on_eshop": "2017-09-15",
-    "product_code": "CTR-N-A9AE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "00040000001BB200",
+  "uid": "50010000043235",
+  "name": "Metroid™: Samus Returns",
+  "formal_name": "Metroid™: Samus Returns",
+  "description": "Best Handheld Game, The Game Awards 2017\n<br>\n<br>Explore a hostile alien planet as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in a masterful reimagining of her 1991 Game Boy™ adventure. This intense, side-scrolling action platformer revitalizes classic gameplay with stunning 3D visuals and a wide range of new content sure to please both new and veteran players.\n<br>\n<br>Metroid™ II: Return of Samus™ has been completely rebuilt, with reconstructed maps, gear upgrades, new abilities that use a special energy called “Aeion,” a powerful melee counterattack, and 360-degree aiming. A wealth of hidden paths, power-ups, and secrets await—find enough of them, and you may even start to unravel the mysteries of Planet SR388’s past. A touchscreen-enabled mapping system and informative menus help new players brave the depths of SR388 and track their artillery and inventory while immersing themselves in the haunting isolation, deep exploration, brutal environments, and fierce battles that hardcore Metroid fans demand.",
+  "release_date_on_eshop": "2017-09-15",
+  "product_code": "CTR-N-A9AE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "000400000007A300",
-    "uid": "50010000010424",
-    "name": "Harvest Moon:\nThe Tale of Two Towns",
-    "formal_name": "Harvest Moon:\nThe Tale of Two Towns",
-    "description": "Years ago, a tunnel connected the\nlivestock-loving Bluebell Village with\nthe crop-growing town of Konohana,\nbut boisterous bickering between the\nburgs created a cave-in and collapsed\nthe tunnel! Build a bustling farm,\nbefriend the villagers and maybe you\ncan find a way to bring these towns\ntogether once again!",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-P-AT2P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "WIFI",
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007A300",
+  "uid": "50010000010424",
+  "name": "Harvest Moon:\nThe Tale of Two Towns",
+  "formal_name": "Harvest Moon:\nThe Tale of Two Towns",
+  "description": "Years ago, a tunnel connected the\nlivestock-loving Bluebell Village with\nthe crop-growing town of Konohana,\nbut boisterous bickering between the\nburgs created a cave-in and collapsed\nthe tunnel! Build a bustling farm,\nbefriend the villagers and maybe you\ncan find a way to bring these towns\ntogether once again!",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-P-AT2P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "WIFI",
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B525645",
-    "uid": "50010000008822",
-    "name": "Hip Hop King: Rytmik Edition",
-    "formal_name": "Hip Hop King: Rytmik Edition",
-    "description": "Hip Hop King is an application for creating rhythmical and melodic themes and for composing whole songs. Its user interface blends the fast and well-arranged interface of classic drum machines with flexible pattern interface of popular trackers and with modern sound library. It contains more than 170 carefully selected sound samples of drums, percussions, bass, melodic instruments and gramophone scratches.\n\nWith Hip Hop King you can quickly and easily create the basic building block – an audio clip. It consists of musical notations for up to four instruments that you may transpose or select their location in the stereo field. You can also modify their volume, reverse, shuffle (rhythm twist), and polyphony (with extended polyphony handling), or use a chorus/widening stereo effect and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music.",
-    "release_date_on_eshop": "2012-01-12",
-    "product_code": "TWL-N-KRVE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525645",
+  "uid": "50010000008822",
+  "name": "Hip Hop King: Rytmik Edition",
+  "formal_name": "Hip Hop King: Rytmik Edition",
+  "description": "Hip Hop King is an application for creating rhythmical and melodic themes and for composing whole songs. Its user interface blends the fast and well-arranged interface of classic drum machines with flexible pattern interface of popular trackers and with modern sound library. It contains more than 170 carefully selected sound samples of drums, percussions, bass, melodic instruments and gramophone scratches.\n\nWith Hip Hop King you can quickly and easily create the basic building block – an audio clip. It consists of musical notations for up to four instruments that you may transpose or select their location in the stereo field. You can also modify their volume, reverse, shuffle (rhythm twist), and polyphony (with extended polyphony handling), or use a chorus/widening stereo effect and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music.",
+  "release_date_on_eshop": "2012-01-12",
+  "product_code": "TWL-N-KRVE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

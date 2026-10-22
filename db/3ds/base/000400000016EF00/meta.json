@@ -1,29 +1,29 @@
 {
-    "tid": "000400000016EF00",
-    "uid": "50010000036035",
-    "name": "PICROSS e6",
-    "formal_name": "PICROSS e6",
-    "description": "The 6th game in the Picross e series, with a Navigation Feature! \n<br><br>\nNew to this title, each puzzle can be played in either Picross or Mega Picross mode! \nEnjoy over 300 puzzles, including special puzzles. \nYou can also choose the fill animation for the puzzle screen.\n<br><br>\nPicross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images.\nThe rules are simple and easy to grasp. Anyone can do it!",
-    "release_date_on_eshop": "2015-08-06",
-    "product_code": "CTR-N-KP6E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000016EF00",
+  "uid": "50010000036035",
+  "name": "PICROSS e6",
+  "formal_name": "PICROSS e6",
+  "description": "The 6th game in the Picross e series, with a Navigation Feature! \n<br><br>\nNew to this title, each puzzle can be played in either Picross or Mega Picross mode! \nEnjoy over 300 puzzles, including special puzzles. \nYou can also choose the fill animation for the puzzle screen.\n<br><br>\nPicross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images.\nThe rules are simple and easy to grasp. Anyone can do it!",
+  "release_date_on_eshop": "2015-08-06",
+  "product_code": "CTR-N-KP6E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000116900",
-    "uid": "50010000021822",
-    "name": "Sayonara UmiharaKawase",
-    "formal_name": "Sayonara UmiharaKawase",
-    "description": "Use your elastic fishing hook to play!\n<br/><br/>\nFeaturing a girl armed with only with\nher backpack and trusty fishing hook,\nthis travelling sushi chef departs on a\njourney in a dream-like world filled\nwith fish and other wildlife gone awry.\n<br/><br/>\nYou will need to think how to get out\nof the stages like a puzzle game, and\nlearn to use the hook to get out\nASAP, action game-style. You will\nalso be able to `restart` from the\ncheckpoints, and `slow` to move\ncarefully and avoid failing. On top, if\nyou connect to the internet, you will\nsee your ranking among players in\nyour territory!",
-    "release_date_on_eshop": "2014-04-24",
-    "product_code": "CTR-N-AUFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000116900",
+  "uid": "50010000021822",
+  "name": "Sayonara UmiharaKawase",
+  "formal_name": "Sayonara UmiharaKawase",
+  "description": "Use your elastic fishing hook to play!\n<br/><br/>\nFeaturing a girl armed with only with\nher backpack and trusty fishing hook,\nthis travelling sushi chef departs on a\njourney in a dream-like world filled\nwith fish and other wildlife gone awry.\n<br/><br/>\nYou will need to think how to get out\nof the stages like a puzzle game, and\nlearn to use the hook to get out\nASAP, action game-style. You will\nalso be able to `restart` from the\ncheckpoints, and `slow` to move\ncarefully and avoid failing. On top, if\nyou connect to the internet, you will\nsee your ranking among players in\nyour territory!",
+  "release_date_on_eshop": "2014-04-24",
+  "product_code": "CTR-N-AUFP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

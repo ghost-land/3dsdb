@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000167800",
-    "uid": "50010000039359",
-    "name": "YO-KAI WATCH®",
-    "formal_name": "YO-KAI WATCH®",
-    "description": "YO-KAI WATCH is a game about the mysterious, sometimes cute, sometimes spooky and usually mischevious Yo-kai that secretly inhabit our world. They're hiding everywhere! Many of them are causing trouble in people's daily lives, so you need to assemble a team of six Yo-kai and call upon them when you need their help. Every Yo-kai has a unique personality and abilities, so it will take some strategy to form and change your team to address various problems and fight evil Yo-kai!",
-    "release_date_on_eshop": "2016-04-29",
-    "product_code": "CTR-P-AYWP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000167800",
+  "uid": "50010000039359",
+  "name": "YO-KAI WATCH®",
+  "formal_name": "YO-KAI WATCH®",
+  "description": "YO-KAI WATCH is a game about the mysterious, sometimes cute, sometimes spooky and usually mischevious Yo-kai that secretly inhabit our world. They're hiding everywhere! Many of them are causing trouble in people's daily lives, so you need to assemble a team of six Yo-kai and call upon them when you need their help. Every Yo-kai has a unique personality and abilities, so it will take some strategy to form and change your team to address various problems and fight evil Yo-kai!",
+  "release_date_on_eshop": "2016-04-29",
+  "product_code": "CTR-P-AYWP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

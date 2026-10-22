@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F711900",
-    "uid": "50010000046135",
-    "name": "PENGUIN HOP",
-    "formal_name": "PENGUIN HOP",
-    "description": "Ready to cool down? In PENGUIN HOP help your penguin friend hop from each ice landing, but be careful you don't fall in. How high of a score can you get? Endless fun for everyone!",
-    "release_date_on_eshop": "2018-07-05",
-    "product_code": "KTR-N-CBJE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Adventure",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F711900",
+  "uid": "50010000046135",
+  "name": "PENGUIN HOP",
+  "formal_name": "PENGUIN HOP",
+  "description": "Ready to cool down? In PENGUIN HOP help your penguin friend hop from each ice landing, but be careful you don't fall in. How high of a score can you get? Endless fun for everyone!",
+  "release_date_on_eshop": "2018-07-05",
+  "product_code": "KTR-N-CBJE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Adventure",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

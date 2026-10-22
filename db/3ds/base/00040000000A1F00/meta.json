@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A1F00",
-    "uid": "50010000012535",
-    "name": "AZITO 3D Tokyo",
-    "formal_name": "AZITO 3D Tokyo",
-    "description": "『AZITO 3D Tokyo』は、2011年11月3日に発売された『AZITO 3D』には収録されていないマップ「東京」が舞台の秘密基地作成シミュレーションゲームです。「アジト」初心者の方に安心なやさしいチュートリアルを実装しました。\n<br>\n<br>子供の頃に夢見た秘密基地を思うままに作り上げ、怪人やヒーロー、怪獣やロボットを開発し、基地の守りを強化してください。東京にちなんだ東京限定ヒーローや怪人などが登場し、あなたの秘密基地を守ります。\n",
-    "release_date_on_eshop": "2012-12-05",
-    "product_code": "CTR-N-JTYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A1F00",
+  "uid": "50010000012535",
+  "name": "AZITO 3D Tokyo",
+  "formal_name": "AZITO 3D Tokyo",
+  "description": "『AZITO 3D Tokyo』は、2011年11月3日に発売された『AZITO 3D』には収録されていないマップ「東京」が舞台の秘密基地作成シミュレーションゲームです。「アジト」初心者の方に安心なやさしいチュートリアルを実装しました。\n<br>\n<br>子供の頃に夢見た秘密基地を思うままに作り上げ、怪人やヒーロー、怪獣やロボットを開発し、基地の守りを強化してください。東京にちなんだ東京限定ヒーローや怪人などが登場し、あなたの秘密基地を守ります。\n",
+  "release_date_on_eshop": "2012-12-05",
+  "product_code": "CTR-N-JTYJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

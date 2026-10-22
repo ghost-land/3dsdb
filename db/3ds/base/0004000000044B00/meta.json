@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000044B00",
-    "uid": "50010000000482",
-    "name": "Petz Fantasy™ 3D",
-    "formal_name": "Petz Fantasy™ 3D",
-    "description": "In Petz Fantasy 3D, players will discover and take care of their fantasy pets in an immersive whimsical 3D environment full of floating islands, magical lands and snow-topped mountains. The game will allow players to nurture magical eggs that hatch into surprising pets, such as unicorns and red pandas, each with their own personality and magical powers. \n<br><br>\nEach fantasy pet will react to players in 3D just like real pets, by licking the screen when players pet them to jumping up and down when players give them their favorite food. Bonding with Petz has never been so realistic. Players can also teach their Fantasy Petz magical powers and even train them to transform into ordinary household objects to keep them a secret!",
-    "release_date_on_eshop": "2013-02-14",
-    "product_code": "CTR-N-APFE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000044B00",
+  "uid": "50010000000482",
+  "name": "Petz Fantasy™ 3D",
+  "formal_name": "Petz Fantasy™ 3D",
+  "description": "In Petz Fantasy 3D, players will discover and take care of their fantasy pets in an immersive whimsical 3D environment full of floating islands, magical lands and snow-topped mountains. The game will allow players to nurture magical eggs that hatch into surprising pets, such as unicorns and red pandas, each with their own personality and magical powers. \n<br><br>\nEach fantasy pet will react to players in 3D just like real pets, by licking the screen when players pet them to jumping up and down when players give them their favorite food. Bonding with Petz has never been so realistic. Players can also teach their Fantasy Petz magical powers and even train them to transform into ordinary household objects to keep them a secret!",
+  "release_date_on_eshop": "2013-02-14",
+  "product_code": "CTR-N-APFE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000D9F00",
-    "uid": "50010000018653",
-    "name": "3D Shinobi III: Return of the\nNinja Master",
-    "formal_name": "3D Shinobi III: Return of the\nNinja Master",
-    "description": "Joe Musashi’s sworn enemies, the Neo Zeed, have returned! Controlled by Shadow Master, a formidable ninja cloned from Joe’s own bloodline, the syndicate holds the city captive with its vicious crime ring. Utilize deadly weapons and lethal ninja arts in order to stand against the hordes of bio-ninja and save your city!\n<br><br>\nIn addition to its all-new 3D presentation, 3D Shinobi III features a Round Select Mode and customizable input setting which allows you to assign each action to specific buttons.",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JSNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D9F00",
+  "uid": "50010000018653",
+  "name": "3D Shinobi III: Return of the\nNinja Master",
+  "formal_name": "3D Shinobi III: Return of the\nNinja Master",
+  "description": "Joe Musashi’s sworn enemies, the Neo Zeed, have returned! Controlled by Shadow Master, a formidable ninja cloned from Joe’s own bloodline, the syndicate holds the city captive with its vicious crime ring. Utilize deadly weapons and lethal ninja arts in order to stand against the hordes of bio-ninja and save your city!\n<br><br>\nIn addition to its all-new 3D presentation, 3D Shinobi III features a Round Select Mode and customizable input setting which allows you to assign each action to specific buttons.",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JSNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

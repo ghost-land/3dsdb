@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B543245",
-    "uid": "50010000003807",
-    "name": "G.G Series HORIZONTAL BAR",
-    "formal_name": "G.G Series HORIZONTAL BAR",
-    "description": "Swing, jump, and spin in this gymnastics action game!\n\nThis is a new type of action game that will have you swinging and jumping from bar to bar, just like the parallel bars in gymnastics. The controls are simple. Grab onto a bar, add momentum to your swing by pressing left or right on the +Control Pad, and then jump and spin to the next bar by pressing the A Button. Gauge the force of your swings and the timing of your jumps just right to cross the course in the fastest time possible. Do you have what it takes to be a star gymnast?",
-    "release_date_on_eshop": "2011-03-07",
-    "product_code": "TWL-N-KT2E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B543245",
+  "uid": "50010000003807",
+  "name": "G.G Series HORIZONTAL BAR",
+  "formal_name": "G.G Series HORIZONTAL BAR",
+  "description": "Swing, jump, and spin in this gymnastics action game!\n\nThis is a new type of action game that will have you swinging and jumping from bar to bar, just like the parallel bars in gymnastics. The controls are simple. Grab onto a bar, add momentum to your swing by pressing left or right on the +Control Pad, and then jump and spin to the next bar by pressing the A Button. Gauge the force of your swings and the timing of your jumps just right to cross the course in the fastest time possible. Do you have what it takes to be a star gymnast?",
+  "release_date_on_eshop": "2011-03-07",
+  "product_code": "TWL-N-KT2E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

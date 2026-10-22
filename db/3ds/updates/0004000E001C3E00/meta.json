@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E001C3E00",
-    "uid": "50010000042995",
-    "name": "Mysterious Stars 3D:\nA Fairy Tale: Update",
-    "formal_name": "Mysterious Stars 3D:\n<br>A Fairy Tale: Update",
-    "description": "This bug has been fixed:\n<br>Â· Crash when trying to start a specific stage",
-    "release_date_on_eshop": "2017-07-13",
-    "product_code": "CTR-U-KFXP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001C3E00",
+  "uid": "50010000042995",
+  "name": "Mysterious Stars 3D:\nA Fairy Tale: Update",
+  "formal_name": "Mysterious Stars 3D:\n<br>A Fairy Tale: Update",
+  "description": "This bug has been fixed:\n<br>Â· Crash when trying to start a specific stage",
+  "release_date_on_eshop": "2017-07-13",
+  "product_code": "CTR-U-KFXP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

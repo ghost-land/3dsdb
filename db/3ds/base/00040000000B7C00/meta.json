@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000B7C00",
-    "uid": "50010000015705",
-    "name": "SteamWorld Dig",
-    "formal_name": "SteamWorld Dig",
-    "description": "10/10 - \"...an utterly phenomenal video game.\" - PocketGamer.co.uk\n9/10 - \"A totally unexpected love letter to bold concepts.\"\n- NintendoWorldReport.com\n9/10 - \"...super-fun, addictive and inspired gameified manual labour...\"\n- GamesBlip.com\n<br><br>\nSteamWorld Dig is a platform mining adventure. Take the role as Rusty, a lone mining steambot, as he arrives to an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below...\n<br><br>\nCarve a path through the earth, and explore a deep underground world full of secrets, treasure and terrors.\n<br><br>\nUncover the remnants of Human civilization, a degenerate race of dynamite-wielding troglodytes.\n<br><br>\nMeet the weird and interesting townsfolk of Tumbleton and help the community get back on its feet.\n<br><br>\nBeautiful, high-res graphics with dynamic lights and multiple parallaxed background layers.",
-    "release_date_on_eshop": "2013-08-08",
-    "product_code": "CTR-N-JSTE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000B7C00",
+  "uid": "50010000015705",
+  "name": "SteamWorld Dig",
+  "formal_name": "SteamWorld Dig",
+  "description": "10/10 - \"...an utterly phenomenal video game.\" - PocketGamer.co.uk\n9/10 - \"A totally unexpected love letter to bold concepts.\"\n- NintendoWorldReport.com\n9/10 - \"...super-fun, addictive and inspired gameified manual labour...\"\n- GamesBlip.com\n<br><br>\nSteamWorld Dig is a platform mining adventure. Take the role as Rusty, a lone mining steambot, as he arrives to an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below...\n<br><br>\nCarve a path through the earth, and explore a deep underground world full of secrets, treasure and terrors.\n<br><br>\nUncover the remnants of Human civilization, a degenerate race of dynamite-wielding troglodytes.\n<br><br>\nMeet the weird and interesting townsfolk of Tumbleton and help the community get back on its feet.\n<br><br>\nBeautiful, high-res graphics with dynamic lights and multiple parallaxed background layers.",
+  "release_date_on_eshop": "2013-08-08",
+  "product_code": "CTR-N-JSTE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

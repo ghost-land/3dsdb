@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000188000",
-    "uid": "50010000039297",
-    "name": "RV-7 My Drone",
-    "formal_name": "RV-7 My Drone",
-    "description": "At some point, on the news or in documentaries, we've all seen the different applications that these devices have, from humanitarian to military. Would you like to be part of that trend? Do you want to conduct rescue missions, run supplies, put out fires, build bridges, defend power plants, protect food convoys? Or would you like to take action, challenging an entire army of air/ground drones?\n<br><br>\nThe RV-7 is one of the most powerful and technologically advanced military-grade drones. The government green-lighted this project for global security.\nDo you want to control it? It's not easy to pilot, but it is very fun and exciting. You will have to solve all types of puzzles using the instant teleportation system.\n<br><br>\nFeatures\nProcedural generation where scenarios and enemies are generated randomly to make each experience unique.\nAchievements: complete each mission, but also earn award stars for each level to become the best drone pilot.",
-    "release_date_on_eshop": "2016-01-28",
-    "product_code": "CTR-N-KVRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000188000",
+  "uid": "50010000039297",
+  "name": "RV-7 My Drone",
+  "formal_name": "RV-7 My Drone",
+  "description": "At some point, on the news or in documentaries, we've all seen the different applications that these devices have, from humanitarian to military. Would you like to be part of that trend? Do you want to conduct rescue missions, run supplies, put out fires, build bridges, defend power plants, protect food convoys? Or would you like to take action, challenging an entire army of air/ground drones?\n<br><br>\nThe RV-7 is one of the most powerful and technologically advanced military-grade drones. The government green-lighted this project for global security.\nDo you want to control it? It's not easy to pilot, but it is very fun and exciting. You will have to solve all types of puzzles using the instant teleportation system.\n<br><br>\nFeatures\nProcedural generation where scenarios and enemies are generated randomly to make each experience unique.\nAchievements: complete each mission, but also earn award stars for each level to become the best drone pilot.",
+  "release_date_on_eshop": "2016-01-28",
+  "product_code": "CTR-N-KVRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

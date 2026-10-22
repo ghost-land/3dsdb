@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001C2B00",
-    "uid": "50010000043675",
-    "name": "メダロット クラシックス　クワガタVer.",
-    "formal_name": "メダロット クラシックス　クワガタVer.",
-    "description": "初代『メダロット』から『メダロット5』までの過去5作品を1本に収録。\n<br>面白さは発売当時のまま、いつでもセーブ＆ロード機能や、ロボトルスキップ・倍速機能など、より快適なプレイをサポートする新機能を搭載。\n<br>メダロットを自分好みにカスタマイズし、熱いロボットバトルを繰り広げろ！",
-    "release_date_on_eshop": "2017-12-21",
-    "product_code": "CTR-N-BKWJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "New 3DS対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※「倍速機能」は New 3DS / New 2DS でのみご利用いただけます。\n<br>本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001C2B00",
+  "uid": "50010000043675",
+  "name": "メダロット クラシックス　クワガタVer.",
+  "formal_name": "メダロット クラシックス　クワガタVer.",
+  "description": "初代『メダロット』から『メダロット5』までの過去5作品を1本に収録。\n<br>面白さは発売当時のまま、いつでもセーブ＆ロード機能や、ロボトルスキップ・倍速機能など、より快適なプレイをサポートする新機能を搭載。\n<br>メダロットを自分好みにカスタマイズし、熱いロボットバトルを繰り広げろ！",
+  "release_date_on_eshop": "2017-12-21",
+  "product_code": "CTR-N-BKWJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "New 3DS対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※「倍速機能」は New 3DS / New 2DS でのみご利用いただけます。\n<br>本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

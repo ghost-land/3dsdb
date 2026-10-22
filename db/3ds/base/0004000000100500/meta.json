@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000100500",
-    "uid": "50010000020393",
-    "name": "Professor Layton vs.\n<br>Phoenix Wright: Ace Attorney",
-    "formal_name": "Professor Layton™ vs.\n<br>Phoenix Wright™: Ace Attorney™",
-    "description": "The puzzle professor and the ace\n<br>attorney unite in Professor Layton vs.\n<br>Phoenix Wright: Ace Attorney, only on\n<br>Nintendo 3DS! Solve puzzles to\n<br>investigate as Professor Layton,\n<br>present evidence to the judge as\n<br>Phoenix Wright, and crack the\n<br>ultimate case!",
-    "release_date_on_eshop": "2014-03-28",
-    "product_code": "CTR-P-AVSP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000100500",
+  "uid": "50010000020393",
+  "name": "Professor Layton vs.\n<br>Phoenix Wright: Ace Attorney",
+  "formal_name": "Professor Layton™ vs.\n<br>Phoenix Wright™: Ace Attorney™",
+  "description": "The puzzle professor and the ace\n<br>attorney unite in Professor Layton vs.\n<br>Phoenix Wright: Ace Attorney, only on\n<br>Nintendo 3DS! Solve puzzles to\n<br>investigate as Professor Layton,\n<br>present evidence to the judge as\n<br>Phoenix Wright, and crack the\n<br>ultimate case!",
+  "release_date_on_eshop": "2014-03-28",
+  "product_code": "CTR-P-AVSP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

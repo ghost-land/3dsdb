@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B324550",
-    "uid": "50010000013291",
-    "name": "Easter Eggztravaganza",
-    "formal_name": "Easter Eggztravaganza",
-    "description": "Everywhere in this amazing Easter\nWonderland is crammed full of Easter\nEggs, bunnies, sweets and fabulous\ntoys. Mum takes Mike and Sally to\nget fresh laid eggs from the farm, then\nthey come home to paint them.\nMeanwhile, the Easter Bunny runs past\nand leaves eggs all over the backyard\nfor them to find. Next, the family go\ndowntown to the shopping centre,\nthen visit Auntie Janet’s house, before\ngoing to the nearby church for the\nultimate Mega Easter Egg Hunt. Play\ncaptivating mini games such as\nspot-the-difference, jigsaw puzzles\nand many more in an Easter\nEggztravaganza for all the family to\nenjoy.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K2EP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Adventure",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324550",
+  "uid": "50010000013291",
+  "name": "Easter Eggztravaganza",
+  "formal_name": "Easter Eggztravaganza",
+  "description": "Everywhere in this amazing Easter\nWonderland is crammed full of Easter\nEggs, bunnies, sweets and fabulous\ntoys. Mum takes Mike and Sally to\nget fresh laid eggs from the farm, then\nthey come home to paint them.\nMeanwhile, the Easter Bunny runs past\nand leaves eggs all over the backyard\nfor them to find. Next, the family go\ndowntown to the shopping centre,\nthen visit Auntie Janet’s house, before\ngoing to the nearby church for the\nultimate Mega Easter Egg Hunt. Play\ncaptivating mini games such as\nspot-the-difference, jigsaw puzzles\nand many more in an Easter\nEggztravaganza for all the family to\nenjoy.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K2EP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Adventure",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000126300",
-    "uid": "50010000028535",
-    "name": "Monster Hunter™ 4 Ultimate",
-    "formal_name": "Monster Hunter™ 4 Ultimate",
-    "description": "Offers in-game purchases\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.\n<br><br>\nIn Monster Hunter™ 4 Ultimate you'll embark on an epic journey, traveling across a vast world hunting larger than life beasts as you search for the source of a mysterious virus. Travel with a caravan of fellow hunters and merchants as you make your way across multiple locales, each with its own unique look and feel in the largest Monster Hunter™ ever!\n<br><br>\nThis grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Choose from 14 different weapon classes such as the Dual Blades or Gunlance, or try one of the new weapons classes, the agile Insect Glaive or the devastating Charge Blade. Craft hundreds of different armor sets, each with their own unique skills and stats as you become the ultimate hunter.\n<br><br>\nBut don't hunt alone! Form a party with up to three other friends locally or via the Nintendo Network to take on the fiercest foes together.",
-    "release_date_on_eshop": "2015-02-13",
-    "product_code": "CTR-N-BFGE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Fighting",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nIn-game content available for purchase using stored account funds.",
-    "descriptors": []
+  "tid": "0004000000126300",
+  "uid": "50010000028535",
+  "name": "Monster Hunter™ 4 Ultimate",
+  "formal_name": "Monster Hunter™ 4 Ultimate",
+  "description": "Offers in-game purchases\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.\n<br><br>\nIn Monster Hunter™ 4 Ultimate you'll embark on an epic journey, traveling across a vast world hunting larger than life beasts as you search for the source of a mysterious virus. Travel with a caravan of fellow hunters and merchants as you make your way across multiple locales, each with its own unique look and feel in the largest Monster Hunter™ ever!\n<br><br>\nThis grand adventure will include hundreds of quests to take on a variety of extraordinary creatures that yield valuable resources used for weapons and equipment. Choose from 14 different weapon classes such as the Dual Blades or Gunlance, or try one of the new weapons classes, the agile Insect Glaive or the devastating Charge Blade. Craft hundreds of different armor sets, each with their own unique skills and stats as you become the ultimate hunter.\n<br><br>\nBut don't hunt alone! Form a party with up to three other friends locally or via the Nintendo Network to take on the fiercest foes together.",
+  "release_date_on_eshop": "2015-02-13",
+  "product_code": "CTR-N-BFGE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Fighting",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nIn-game content available for purchase using stored account funds.",
+  "descriptors": []
 }

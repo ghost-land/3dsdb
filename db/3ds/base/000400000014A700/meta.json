@@ -1,28 +1,28 @@
 {
-    "tid": "000400000014A700",
-    "uid": "50010000028496",
-    "name": "Rune Factory 4",
-    "formal_name": "Rune Factory 4",
-    "description": "Dive deep into a brand new adventure\nin the Rune Factory series!\n<br/><br/>\nEstablish a new life in a new country,\ndeveloping relationships, cultivating\nthe land and adventuring with\ncomrades on an epic quest that begins\nwith a humble tumble. Designed for\nbeginners and series veterans alike!\n<br/><br/>\nPlan your battle strategies with a\nwide selection of weapons and items!\n<br/><br/>\nUse various weapons, skills and\nmagic to personalize your battle\ntactics against formidable monsters in\ntrap-laden dungeons. Recruit the local\ntownsfolk, befriend wild monsters and\ngrow stronger together!\n<br/><br/>\nPursue a passionate romance as a\nmale or female character!\n<br/><br/>\nChoose either a male or female hero\nand seek in-depth relationships with\nthe other townsfolk. Develop true\nbonds with a select candidate by\nsocializing and giving gifts, then\nspend time together as a couple to\ndeepen your romantic ties, ultimately\nleading to marriage and even the birth\nof an adorable child!",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-AR4Z",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014A700",
+  "uid": "50010000028496",
+  "name": "Rune Factory 4",
+  "formal_name": "Rune Factory 4",
+  "description": "Dive deep into a brand new adventure\nin the Rune Factory series!\n<br/><br/>\nEstablish a new life in a new country,\ndeveloping relationships, cultivating\nthe land and adventuring with\ncomrades on an epic quest that begins\nwith a humble tumble. Designed for\nbeginners and series veterans alike!\n<br/><br/>\nPlan your battle strategies with a\nwide selection of weapons and items!\n<br/><br/>\nUse various weapons, skills and\nmagic to personalize your battle\ntactics against formidable monsters in\ntrap-laden dungeons. Recruit the local\ntownsfolk, befriend wild monsters and\ngrow stronger together!\n<br/><br/>\nPursue a passionate romance as a\nmale or female character!\n<br/><br/>\nChoose either a male or female hero\nand seek in-depth relationships with\nthe other townsfolk. Develop true\nbonds with a select candidate by\nsocializing and giving gifts, then\nspend time together as a couple to\ndeepen your romantic ties, ultimately\nleading to marriage and even the birth\nof an adorable child!",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-AR4Z",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

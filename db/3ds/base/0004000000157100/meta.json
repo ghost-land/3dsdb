@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000157100",
-    "uid": "50010000027617",
-    "name": "101 Pony Pets 3D",
-    "formal_name": "101 Pony Pets 3D",
-    "description": "What's even more fun than a puppy\nfor a pet? Your very own pony! With\n101 Pony Pets 3D, you can have a\npony friend to care for, teach, play\nwith and love, all in amazing 3D.\nChoose from over 101 entertaining\nponiesâ€”or simply adopt them all!\n<br/><br/>\nPlay a game of fetch in the park or\nteach your pony to dance, jump and\nfly. Reward your pet with a treat after\neach trick! Enter your pony into pet\nshows to earn toys, food, clothing\nand furniture, then dress up your pet\nwith hats, glasses, shirts and more.\nWatch your pony up close and\npersonal, as you zoom in, zoom out,\ntilt and rotate in real 3D. Enjoy fun\nminigames as you take your pony to\nthe vet for checkups, give it a bath,\nromp in the yard and more.\n<br/><br/>\nYou'll never be bored with over 101\npony friends to groom, pamper, play\nwith and love!",
-    "release_date_on_eshop": "2014-11-20",
-    "product_code": "CTR-N-JHDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "RPG",
-        "Strategy",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000157100",
+  "uid": "50010000027617",
+  "name": "101 Pony Pets 3D",
+  "formal_name": "101 Pony Pets 3D",
+  "description": "What's even more fun than a puppy\nfor a pet? Your very own pony! With\n101 Pony Pets 3D, you can have a\npony friend to care for, teach, play\nwith and love, all in amazing 3D.\nChoose from over 101 entertaining\nponiesâ€”or simply adopt them all!\n<br/><br/>\nPlay a game of fetch in the park or\nteach your pony to dance, jump and\nfly. Reward your pet with a treat after\neach trick! Enter your pony into pet\nshows to earn toys, food, clothing\nand furniture, then dress up your pet\nwith hats, glasses, shirts and more.\nWatch your pony up close and\npersonal, as you zoom in, zoom out,\ntilt and rotate in real 3D. Enjoy fun\nminigames as you take your pony to\nthe vet for checkups, give it a bath,\nromp in the yard and more.\n<br/><br/>\nYou'll never be bored with over 101\npony friends to groom, pamper, play\nwith and love!",
+  "release_date_on_eshop": "2014-11-20",
+  "product_code": "CTR-N-JHDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "RPG",
+    "Strategy",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400000004A100",
-    "uid": "50010000007157",
-    "name": "Cave Story 3D",
-    "formal_name": "Cave Story 3D",
-    "description": "Cave Story 3D is a side scrolling action adventure game inspired by the fan-favorite 2D original. Now in a full 3D world, Cave Story takes the proven 2D action and exploration into stereoscopic awesomeness.\n<br><br>\nYou wake up in a cave with no idea who you are or where you came from, but you know you must help a cute race of rabbit-like creatures beat the crap out of some crusty old doctor. As you advance through the game, you’ll learn the origin of the Mimiga world and even your own. Like the critically acclaimed Pixel masterpiece, Cave Story 3D is a combination of high-speed shooting action scenes with heavy emphasis on platforming, exploration, and light puzzle solving, as well as a deep storyline. Also you can experience the original indie hit with exclusive \"paper\" 2D pixel mode!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ACVE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Fantasy Violence"
-    ]
+  "tid": "000400000004A100",
+  "uid": "50010000007157",
+  "name": "Cave Story 3D",
+  "formal_name": "Cave Story 3D",
+  "description": "Cave Story 3D is a side scrolling action adventure game inspired by the fan-favorite 2D original. Now in a full 3D world, Cave Story takes the proven 2D action and exploration into stereoscopic awesomeness.\n<br><br>\nYou wake up in a cave with no idea who you are or where you came from, but you know you must help a cute race of rabbit-like creatures beat the crap out of some crusty old doctor. As you advance through the game, you’ll learn the origin of the Mimiga world and even your own. Like the critically acclaimed Pixel masterpiece, Cave Story 3D is a combination of high-speed shooting action scenes with heavy emphasis on platforming, exploration, and light puzzle solving, as well as a deep storyline. Also you can experience the original indie hit with exclusive \"paper\" 2D pixel mode!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ACVE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence"
+  ]
 }

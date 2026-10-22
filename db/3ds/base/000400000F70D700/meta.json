@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F70D700",
-    "uid": "50010000044017",
-    "name": "RTO",
-    "formal_name": "RTO",
-    "description": "The enemy has struck. They approach rapidly. Your team is outnumbered and low on ammo. It’s only a matter of time until it’s all over.\n<br>Take control of a six man team and fight your way through multiple levels with the odds against you.\n<br>RTO is a side scrolling FPS survival horror game with permadeath.",
-    "release_date_on_eshop": "2017-11-09",
-    "product_code": "KTR-N-CCTP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "First-Person Shooter",
-        "Shooter",
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70D700",
+  "uid": "50010000044017",
+  "name": "RTO",
+  "formal_name": "RTO",
+  "description": "The enemy has struck. They approach rapidly. Your team is outnumbered and low on ammo. It’s only a matter of time until it’s all over.\n<br>Take control of a six man team and fight your way through multiple levels with the odds against you.\n<br>RTO is a side scrolling FPS survival horror game with permadeath.",
+  "release_date_on_eshop": "2017-11-09",
+  "product_code": "KTR-N-CCTP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "First-Person Shooter",
+    "Shooter",
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

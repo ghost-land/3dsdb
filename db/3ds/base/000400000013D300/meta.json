@@ -1,28 +1,28 @@
 {
-    "tid": "000400000013D300",
-    "uid": "50010000037355",
-    "name": "1001 Spikes",
-    "formal_name": "1001 Spikes",
-    "description": "Jim Hawkins, the world-renowned\narchaeologist, has gone missing while\nexploring the frozen reaches of\nAntarctica.",
-    "release_date_on_eshop": "2015-10-01",
-    "product_code": "CTR-N-JSKP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000013D300",
+  "uid": "50010000037355",
+  "name": "1001 Spikes",
+  "formal_name": "1001 Spikes",
+  "description": "Jim Hawkins, the world-renowned\narchaeologist, has gone missing while\nexploring the frozen reaches of\nAntarctica.",
+  "release_date_on_eshop": "2015-10-01",
+  "product_code": "CTR-N-JSKP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

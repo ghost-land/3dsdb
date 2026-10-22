@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000097900",
-    "uid": "50010000011608",
-    "name": "Shifting World",
-    "formal_name": "Shifting World",
-    "description": "IS THE FLOOR THE ROOF, OR THE\n<br>ROOF THE FLOOR?\n<br><br/><br/>\n<br>Shift the world from black to white\n<br>and back again to find your way out.\n<br><br/><br/>\n<br>From the best-selling SHIFT series.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-ASZP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000097900",
+  "uid": "50010000011608",
+  "name": "Shifting World",
+  "formal_name": "Shifting World",
+  "description": "IS THE FLOOR THE ROOF, OR THE\n<br>ROOF THE FLOOR?\n<br><br/><br/>\n<br>Shift the world from black to white\n<br>and back again to find your way out.\n<br><br/><br/>\n<br>From the best-selling SHIFT series.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-ASZP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

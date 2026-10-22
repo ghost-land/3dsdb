@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001AB900",
-    "uid": "50010000042130",
-    "name": "Team Kirby Clash Deluxe™",
-    "formal_name": "Team Kirby Clash Deluxe™",
-    "description": "The peaceful Dream Kingdom is under attack from a sudden onslaught of enemies! Combine the might of four puffball heroes and embark on daring quests for up to four players via Local Play, or with computer-controlled team-mates. \n<br>\n<br>Equip Team Kirby with powerful weapons and armour, master each of the unique fighting roles, and restore peace to the Dream Kingdom by defeating infamous foes from the Kirby universe! Can you become the ultimate heroes?\n<br>\n<br>Supports 4 Players via Local Play",
-    "release_date_on_eshop": "2017-04-13",
-    "product_code": "CTR-N-JLKP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AB900",
+  "uid": "50010000042130",
+  "name": "Team Kirby Clash Deluxe™",
+  "formal_name": "Team Kirby Clash Deluxe™",
+  "description": "The peaceful Dream Kingdom is under attack from a sudden onslaught of enemies! Combine the might of four puffball heroes and embark on daring quests for up to four players via Local Play, or with computer-controlled team-mates. \n<br>\n<br>Equip Team Kirby with powerful weapons and armour, master each of the unique fighting roles, and restore peace to the Dream Kingdom by defeating infamous foes from the Kirby universe! Can you become the ultimate heroes?\n<br>\n<br>Supports 4 Players via Local Play",
+  "release_date_on_eshop": "2017-04-13",
+  "product_code": "CTR-N-JLKP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000C5800",
-    "uid": "50010000017593",
-    "name": "Angry Bunnies",
-    "formal_name": "Angry Bunnies",
-    "description": "Angry Bunnies is challenging physics-based demolition, with addictive gameplay set in 3D Stereoscopic scenery. There are 150 fun levels to enjoy, perfectly suited for short bursts of gaming. Each level requires logic and force to solve.\n<br><br>\nGame Features:<br>\n3D stereoscopic experience<br>\n150 streamlined levels<br>\nChallenging physics-based demolition<br>\nComical characters with special abilities<br>\nHours of gameplay and replay value",
-    "release_date_on_eshop": "2013-10-31",
-    "product_code": "CTR-N-JANE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C5800",
+  "uid": "50010000017593",
+  "name": "Angry Bunnies",
+  "formal_name": "Angry Bunnies",
+  "description": "Angry Bunnies is challenging physics-based demolition, with addictive gameplay set in 3D Stereoscopic scenery. There are 150 fun levels to enjoy, perfectly suited for short bursts of gaming. Each level requires logic and force to solve.\n<br><br>\nGame Features:<br>\n3D stereoscopic experience<br>\n150 streamlined levels<br>\nChallenging physics-based demolition<br>\nComical characters with special abilities<br>\nHours of gameplay and replay value",
+  "release_date_on_eshop": "2013-10-31",
+  "product_code": "CTR-N-JANE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

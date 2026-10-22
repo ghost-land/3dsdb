@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B545745",
-    "uid": "50010000003571",
-    "name": "Thorium Wars™",
-    "formal_name": "Thorium Wars™",
-    "description": "In Thorium Wars, stop the Thorions—a super species of Thorium-based machines—from destroying mankind. Blast through waves of Thorions by controlling an arsenal of tanks, skyfighters, hovercrafts, gunboats, and starfighters with either the standard or Touch Screen controls. In twelve exciting missions, navigate through a variety of combat environments viewing 360 degrees of the battlefield, fully rendered in 3-D. Toggle between first and third person views as you destroy the terrifying army of Thorium beasts, ranging from swarms of Redeye Drones to the bone-crushing Manticore Walker. Take control of the outcome in this extreme man vs. machine battle as Thorium Wars proves to be the ultimate test for the survival of the fittest.",
-    "release_date_on_eshop": "2009-10-05",
-    "product_code": "TWL-N-KTWE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B545745",
+  "uid": "50010000003571",
+  "name": "Thorium Wars™",
+  "formal_name": "Thorium Wars™",
+  "description": "In Thorium Wars, stop the Thorions—a super species of Thorium-based machines—from destroying mankind. Blast through waves of Thorions by controlling an arsenal of tanks, skyfighters, hovercrafts, gunboats, and starfighters with either the standard or Touch Screen controls. In twelve exciting missions, navigate through a variety of combat environments viewing 360 degrees of the battlefield, fully rendered in 3-D. Toggle between first and third person views as you destroy the terrifying army of Thorium beasts, ranging from swarms of Redeye Drones to the bone-crushing Manticore Walker. Take control of the outcome in this extreme man vs. machine battle as Thorium Wars proves to be the ultimate test for the survival of the fittest.",
+  "release_date_on_eshop": "2009-10-05",
+  "product_code": "TWL-N-KTWE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

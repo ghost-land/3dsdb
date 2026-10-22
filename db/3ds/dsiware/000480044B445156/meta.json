@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B445156",
-    "uid": "50010000003164",
-    "name": "DRAGON QUEST® WARS™",
-    "formal_name": "DRAGON QUEST® WARS™",
-    "description": "Take control of a squad of monsters\nfrom the Dragon Quest series and\nwage war!While the rules are simple,\nstrategy is the key to victory.\nFeatures single-player and DS\nWireless Play.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KDQV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445156",
+  "uid": "50010000003164",
+  "name": "DRAGON QUEST® WARS™",
+  "formal_name": "DRAGON QUEST® WARS™",
+  "description": "Take control of a squad of monsters\nfrom the Dragon Quest series and\nwage war!While the rules are simple,\nstrategy is the key to victory.\nFeatures single-player and DS\nWireless Play.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KDQV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

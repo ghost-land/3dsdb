@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B354745",
-    "uid": "50010000034835",
-    "name": "G.G Series SCORE ATTACKER",
-    "formal_name": "G.G Series SCORE ATTACKER",
-    "description": "Control your fighter craft through space to destroy enemy ships in this top down action shooter! Avoid shots from enemies while collecting E boxes that the enemies drop to charge your \"α\" Cannon which fires an extremely powerful sphere of energy and \"β\" Blast which absorbs any enemy projectiles nearby. At the end of each stage a barrage of powerful enemies will try to stop you. Depending on how high your score is in each stage, the level of difficulty will increase. Propel yourself forward as the Score Attacker!",
-    "release_date_on_eshop": "2015-07-16",
-    "product_code": "TWL-N-K5GE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B354745",
+  "uid": "50010000034835",
+  "name": "G.G Series SCORE ATTACKER",
+  "formal_name": "G.G Series SCORE ATTACKER",
+  "description": "Control your fighter craft through space to destroy enemy ships in this top down action shooter! Avoid shots from enemies while collecting E boxes that the enemies drop to charge your \"α\" Cannon which fires an extremely powerful sphere of energy and \"β\" Blast which absorbs any enemy projectiles nearby. At the end of each stage a barrage of powerful enemies will try to stop you. Depending on how high your score is in each stage, the level of difficulty will increase. Propel yourself forward as the Score Attacker!",
+  "release_date_on_eshop": "2015-07-16",
+  "product_code": "TWL-N-K5GE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

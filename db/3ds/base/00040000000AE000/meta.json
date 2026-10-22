@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000AE000",
-    "uid": "50010000012044",
-    "name": "Fluidity: Spin Cycle ",
-    "formal_name": "Fluidity: Spin Cycle ",
-    "description": "Tilt, turn, and even completely rotate your \nNintendo 3DS™ system  360 degrees to maneuver a puddle of water named Eddy through a mazelike magical world filled with tricky tunnels and crazy contraptions. Change from liquid to a block of ice or a steam cloud to solve fun, gravity-defying puzzles and defeat Goop monsters as you try to rescue the Rainbow Spirits trapped in the pages of a magical book. Each state of water provides the player with different abilities that must be mastered. Levels are designed to be enjoyed over and over while racing the clock to collect all the hidden water pickups and puzzle pieces and maximize your star rating. Each chapter of the book covers a different era, from the lost age of dinosaurs to the modern world—and beyond!\n",
-    "release_date_on_eshop": "2012-12-27",
-    "product_code": "CTR-N-JA2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000AE000",
+  "uid": "50010000012044",
+  "name": "Fluidity: Spin Cycle ",
+  "formal_name": "Fluidity: Spin Cycle ",
+  "description": "Tilt, turn, and even completely rotate your \nNintendo 3DS™ system  360 degrees to maneuver a puddle of water named Eddy through a mazelike magical world filled with tricky tunnels and crazy contraptions. Change from liquid to a block of ice or a steam cloud to solve fun, gravity-defying puzzles and defeat Goop monsters as you try to rescue the Rainbow Spirits trapped in the pages of a magical book. Each state of water provides the player with different abilities that must be mastered. Levels are designed to be enjoyed over and over while racing the clock to collect all the hidden water pickups and puzzle pieces and maximize your star rating. Each chapter of the book covers a different era, from the lost age of dinosaurs to the modern world—and beyond!\n",
+  "release_date_on_eshop": "2012-12-27",
+  "product_code": "CTR-N-JA2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

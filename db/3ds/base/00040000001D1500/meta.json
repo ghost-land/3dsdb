@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001D1500",
-    "uid": "50010000047195",
-    "name": "Mario & Luigi: Bowser’s Inside \nStory + Bowser Jr.’s Journey",
-    "formal_name": "Mario & Luigi: Bowser’s Inside \n<br>Story + Bowser Jr.’s Journey",
-    "description": "Nintendo DS classic, Mario & Luigi: Bowser’s Inside Story, is back for more gut-busting adventures in Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey.\n<br>\n<br>Mario and Luigi have been tasked with finding a cure for the blorbs, a disease threatening all life in the Mushroom Kingdom. But, thanks to Fawful, both brothers have been devoured by Bowser!\n<br>\n<br>And so, their journey takes them deep into the belly of the beast, leaving Bowser to scour the kingdom for the cure. The only way forward is to change between the Bros. and Bowser.\n<br>\n<br>The big bad will even beef up for monstrous boss battles fit for a king! Take ‘em down in this action-packed RPG, and find out what happens behind the scenes in the untold story of Bowser Jr.",
-    "release_date_on_eshop": "2019-01-25",
-    "product_code": "CTR-P-A3RP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D1500",
+  "uid": "50010000047195",
+  "name": "Mario & Luigi: Bowser’s Inside \nStory + Bowser Jr.’s Journey",
+  "formal_name": "Mario & Luigi: Bowser’s Inside \n<br>Story + Bowser Jr.’s Journey",
+  "description": "Nintendo DS classic, Mario & Luigi: Bowser’s Inside Story, is back for more gut-busting adventures in Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey.\n<br>\n<br>Mario and Luigi have been tasked with finding a cure for the blorbs, a disease threatening all life in the Mushroom Kingdom. But, thanks to Fawful, both brothers have been devoured by Bowser!\n<br>\n<br>And so, their journey takes them deep into the belly of the beast, leaving Bowser to scour the kingdom for the cure. The only way forward is to change between the Bros. and Bowser.\n<br>\n<br>The big bad will even beef up for monstrous boss battles fit for a king! Take ‘em down in this action-packed RPG, and find out what happens behind the scenes in the untold story of Bowser Jr.",
+  "release_date_on_eshop": "2019-01-25",
+  "product_code": "CTR-P-A3RP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

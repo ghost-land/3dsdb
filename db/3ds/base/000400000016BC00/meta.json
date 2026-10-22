@@ -1,28 +1,28 @@
 {
-    "tid": "000400000016BC00",
-    "uid": "50010000039795",
-    "name": "ハローキティの\nキラキラわくわくレース",
-    "formal_name": "ハローキティのキラキラわくわくレース",
-    "description": "ハローキティと一緒に手軽に遊べるレースゲームが登場！\n<br>車、飛行機、船と、さまざまな場所でサンリオのキャラクターたちがかわいいレースを繰り広げます。\n<br>カップケーキやリンゴを集めたりタイムアタックに挑戦したりと、レースだけではない楽しさもたくさんつまったゲームです。",
-    "release_date_on_eshop": "2016-03-23",
-    "product_code": "CTR-N-BKYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース",
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016BC00",
+  "uid": "50010000039795",
+  "name": "ハローキティの\nキラキラわくわくレース",
+  "formal_name": "ハローキティのキラキラわくわくレース",
+  "description": "ハローキティと一緒に手軽に遊べるレースゲームが登場！\n<br>車、飛行機、船と、さまざまな場所でサンリオのキャラクターたちがかわいいレースを繰り広げます。\n<br>カップケーキやリンゴを集めたりタイムアタックに挑戦したりと、レースだけではない楽しさもたくさんつまったゲームです。",
+  "release_date_on_eshop": "2016-03-23",
+  "product_code": "CTR-N-BKYJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース",
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E001A4600",
-    "uid": "50010000042497",
-    "name": "Urban Trial Freestyle 2:\nUpdate",
-    "formal_name": "Urban Trial Freestyle 2:\n<br>Update",
-    "description": "- Corrected position of the stunts and adjusted scoring in Stunt Mode\n<br>- Reworked Decors and the Camera in the Level Editor\n<br>- Tweaked difficulty of the Challenge Tracks\n<br>- Minor bug fixes",
-    "release_date_on_eshop": "2017-03-17",
-    "product_code": "CTR-U-KTHP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001A4600",
+  "uid": "50010000042497",
+  "name": "Urban Trial Freestyle 2:\nUpdate",
+  "formal_name": "Urban Trial Freestyle 2:\n<br>Update",
+  "description": "- Corrected position of the stunts and adjusted scoring in Stunt Mode\n<br>- Reworked Decors and the Camera in the Level Editor\n<br>- Tweaked difficulty of the Challenge Tracks\n<br>- Minor bug fixes",
+  "release_date_on_eshop": "2017-03-17",
+  "product_code": "CTR-U-KTHP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

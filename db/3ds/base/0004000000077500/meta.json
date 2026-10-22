@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000077500",
-    "uid": "50010000009125",
-    "name": "ラブプラスTOOLS",
-    "formal_name": "ラブプラスTOOLS",
-    "description": "『ラブプラスTOOLS』では『ラブプラス』『ラブプラス＋』から『NEWラブプラス』へセーブデータを引継ぐことができます。\n<br>\n<br>ARマーカーを使ってカノジョと写真撮影ができるARカメラが楽しめます。\n<br>ARマーカーはNEWラブプラス公式サイト等で配信する予定です。\n<br>\n<br>撮影した写真はアルバムで閲覧することもできます。",
-    "release_date_on_eshop": "2012-02-13",
-    "product_code": "CTR-N-JLPJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "15"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000077500",
+  "uid": "50010000009125",
+  "name": "ラブプラスTOOLS",
+  "formal_name": "ラブプラスTOOLS",
+  "description": "『ラブプラスTOOLS』では『ラブプラス』『ラブプラス＋』から『NEWラブプラス』へセーブデータを引継ぐことができます。\n<br>\n<br>ARマーカーを使ってカノジョと写真撮影ができるARカメラが楽しめます。\n<br>ARマーカーはNEWラブプラス公式サイト等で配信する予定です。\n<br>\n<br>撮影した写真はアルバムで閲覧することもできます。",
+  "release_date_on_eshop": "2012-02-13",
+  "product_code": "CTR-N-JLPJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "15"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

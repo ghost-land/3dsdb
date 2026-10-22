@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000AC900",
-    "uid": "50010000014297",
-    "name": "クマ･トモ",
-    "formal_name": "クマ･トモ",
-    "description": "おしゃべりするクマのぬいぐるみが、親友になっちゃうゲームです。\n<br>\n<br>あなたのことを教えてあげるほど、どんどん仲良くなって、なんでも話せる友達に。あなたと仲良くなっていくと、クマからも料理を作ったり、プレゼントをくれたりします。\n<br>\n<br>癒して、癒されて、365日ずっと一緒に楽しめる、クマとの友達生活をはじめてみませんか?",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-N-AKMJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "コミュニケーション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AC900",
+  "uid": "50010000014297",
+  "name": "クマ･トモ",
+  "formal_name": "クマ･トモ",
+  "description": "おしゃべりするクマのぬいぐるみが、親友になっちゃうゲームです。\n<br>\n<br>あなたのことを教えてあげるほど、どんどん仲良くなって、なんでも話せる友達に。あなたと仲良くなっていくと、クマからも料理を作ったり、プレゼントをくれたりします。\n<br>\n<br>癒して、癒されて、365日ずっと一緒に楽しめる、クマとの友達生活をはじめてみませんか?",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-N-AKMJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "コミュニケーション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "0004008C001BD500",
-    "uid": "50010000042487",
-    "name": "RPG Maker Fes",
-    "formal_name": "RPG Maker Fes",
-    "description": "Ready to become a game developer? RPG Maker Fes makes it easy to develop any RPG you can imagine without any programming knowledge! Simple but powerful tools let you bring to life the amazing stories in your head! Customize characters, stories, combat and more to become the next great developer! Then, share your creations and play other users' games with RPG Maker Player! What story will you share?",
-    "release_date_on_eshop": "2017-06-27",
-    "product_code": "CTR-P-BRPE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Alcohol Reference",
-        "Fantasy Violence",
-        "Mild Suggestive Themes",
-        "Online Interactions Not Rated by the ESRB"
-    ]
+  "tid": "0004008C001BD500",
+  "uid": "50010000042487",
+  "name": "RPG Maker Fes",
+  "formal_name": "RPG Maker Fes",
+  "description": "Ready to become a game developer? RPG Maker Fes makes it easy to develop any RPG you can imagine without any programming knowledge! Simple but powerful tools let you bring to life the amazing stories in your head! Customize characters, stories, combat and more to become the next great developer! Then, share your creations and play other users' games with RPG Maker Player! What story will you share?",
+  "release_date_on_eshop": "2017-06-27",
+  "product_code": "CTR-P-BRPE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Alcohol Reference",
+    "Fantasy Violence",
+    "Mild Suggestive Themes",
+    "Online Interactions Not Rated by the ESRB"
+  ]
 }

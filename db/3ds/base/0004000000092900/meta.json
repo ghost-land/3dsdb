@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000092900",
-    "uid": "50010000011648",
-    "name": "Hitori by Nikoli",
-    "formal_name": "Hitori by Nikoli",
-    "description": "With the Nikoli puzzle series, you can enjoy high-quality Sudoku-like puzzles, created by Nikoli, who gave the world-famous Sudoku puzzle its name. The Nintendo 3DS allows for the realization of simple and easy-to-play operability.<br>\n\"Hitori by Nikoli\" contains 50 Hitori puzzles. \"Hitori\" is a puzzle in which you fill in any unnecessary numbers, making sure that the same number doesn't appear twice in the same line. Once you get the hang of it, you can feel the joy of figuring out the many various gimmicks thought up by the creator. This is a puzzle for real connoisseurs. To ensure your long-term enjoyment, we've prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode, puzzles are generated at random. Please enjoy this high-quality \"Hitori\" game.",
-    "release_date_on_eshop": "2012-09-27",
-    "product_code": "CTR-N-JHTE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000092900",
+  "uid": "50010000011648",
+  "name": "Hitori by Nikoli",
+  "formal_name": "Hitori by Nikoli",
+  "description": "With the Nikoli puzzle series, you can enjoy high-quality Sudoku-like puzzles, created by Nikoli, who gave the world-famous Sudoku puzzle its name. The Nintendo 3DS allows for the realization of simple and easy-to-play operability.<br>\n\"Hitori by Nikoli\" contains 50 Hitori puzzles. \"Hitori\" is a puzzle in which you fill in any unnecessary numbers, making sure that the same number doesn't appear twice in the same line. Once you get the hang of it, you can feel the joy of figuring out the many various gimmicks thought up by the creator. This is a puzzle for real connoisseurs. To ensure your long-term enjoyment, we've prepared both a \"Stage Clear\" mode and a \"Random\" mode. In \"Stage Clear\" mode, you progress by clearing puzzles one by one, and in \"Random\" mode, puzzles are generated at random. Please enjoy this high-quality \"Hitori\" game.",
+  "release_date_on_eshop": "2012-09-27",
+  "product_code": "CTR-N-JHTE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

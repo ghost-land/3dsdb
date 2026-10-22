@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001B5300",
-    "uid": "50010000042637",
-    "name": "BYE-BYE BOXBOY!™",
-    "formal_name": "BYE-BYE BOXBOY!™",
-    "description": "Wait... a box is the last defense against annihilation?! Well, fear not — Qbby is no ordinary box. Using his four startling new powers, you must solve hundreds of puzzles across 18 deadly worlds. Create boxes to climb, hover, warp, and bomb your way to salvation! Whether you're a newcomer or an old vet, thinking outside the box has never been more fun.",
-    "release_date_on_eshop": "2017-04-12",
-    "product_code": "CTR-N-KCKE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Tap a Kirby™ series amiibo™ figure to receive a costume based on the tapped character.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "00040000001B5300",
+  "uid": "50010000042637",
+  "name": "BYE-BYE BOXBOY!™",
+  "formal_name": "BYE-BYE BOXBOY!™",
+  "description": "Wait... a box is the last defense against annihilation?! Well, fear not — Qbby is no ordinary box. Using his four startling new powers, you must solve hundreds of puzzles across 18 deadly worlds. Create boxes to climb, hover, warp, and bomb your way to salvation! Whether you're a newcomer or an old vet, thinking outside the box has never been more fun.",
+  "release_date_on_eshop": "2017-04-12",
+  "product_code": "CTR-N-KCKE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Tap a Kirby™ series amiibo™ figure to receive a costume based on the tapped character.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

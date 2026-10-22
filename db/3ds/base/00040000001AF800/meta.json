@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001AF800",
-    "uid": "50010000042957",
-    "name": "Hey! Pikmin™",
-    "formal_name": "Hey! Pikmin™",
-    "description": "The brave space explorer Captain Olimar needs to collect a whopping 30,000 Sparklium Seeds to repair his trusty ship, but he won’t be able to do it alone. Thankfully, the plucky little Pikmin are more than willing to pitch in!\n<br>\n<br>No task is too great for these wonderfully brave creatures. Just tap on the Touch Screen in the direction you’d like to throw them – don’t worry, they don’t mind! – and watch as your colourful new friends get to work right away! The action unfolds on both the upper and lower screens, making enemies, and the fascinating world they inhabit, appear larger-than-life.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-07-28",
-    "product_code": "CTR-P-BRCP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AF800",
+  "uid": "50010000042957",
+  "name": "Hey! Pikmin™",
+  "formal_name": "Hey! Pikmin™",
+  "description": "The brave space explorer Captain Olimar needs to collect a whopping 30,000 Sparklium Seeds to repair his trusty ship, but he won’t be able to do it alone. Thankfully, the plucky little Pikmin are more than willing to pitch in!\n<br>\n<br>No task is too great for these wonderfully brave creatures. Just tap on the Touch Screen in the direction you’d like to throw them – don’t worry, they don’t mind! – and watch as your colourful new friends get to work right away! The action unfolds on both the upper and lower screens, making enemies, and the fascinating world they inhabit, appear larger-than-life.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-07-28",
+  "product_code": "CTR-P-BRCP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

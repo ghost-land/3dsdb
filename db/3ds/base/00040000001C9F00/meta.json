@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001C9F00",
-    "uid": "50010000043056",
-    "name": "Little Adventure on the Prairie",
-    "formal_name": "Little Adventure on the Prairie",
-    "description": "A short and fun platforming adventure game. Venture through 12 levels of pure slaughter and mindlessly try to kill all the monsters that are facing you.\n<br>Want to finish the last level from the first time without dying? Try using the different items throughout the levels to overcome all the monsters and obstacles easier.",
-    "release_date_on_eshop": "2017-08-17",
-    "product_code": "CTR-N-LAPP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C9F00",
+  "uid": "50010000043056",
+  "name": "Little Adventure on the Prairie",
+  "formal_name": "Little Adventure on the Prairie",
+  "description": "A short and fun platforming adventure game. Venture through 12 levels of pure slaughter and mindlessly try to kill all the monsters that are facing you.\n<br>Want to finish the last level from the first time without dying? Try using the different items throughout the levels to overcome all the monsters and obstacles easier.",
+  "release_date_on_eshop": "2017-08-17",
+  "product_code": "CTR-N-LAPP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

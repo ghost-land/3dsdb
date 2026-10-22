@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001D1900",
-    "uid": "50010000046175",
-    "name": "Luigi’s Mansion™",
-    "formal_name": "Luigi’s Mansion™",
-    "description": "G-g-ghosts! Time to suck those suckers up because Luigi is back in the first portable version of this spooky classic. After winning a mansion in a contest he didn’t enter, he must beat its many bosses and puzzles. Follow a map on the touchscreen, shine a flashlight, blow fire, shoot water, stun ghosts, and trap them…before Mario is trapped forever! All this ghost-catching tomfoolery pays off! As you suck ‘em up with your Poltergust 3000, you could also rake in millions in hidden, in-game riches for our hard-luck hero. Make sure to search every area using the Game Boy Horror’s map on your touchscreen and activate its Boo Radar to track down every Boo in the mansion or spot ghosts’ weak points. After beating and capturing boss ghosts, you can select their portraits from the gallery to best your own score in tense rematches—a new feature in the Nintendo 3DS version!",
-    "release_date_on_eshop": "2018-10-11",
-    "product_code": "CTR-N-BGNE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Local Play",
-        "Supports Download Play",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.<br><br>Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>amiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "00040000001D1900",
+  "uid": "50010000046175",
+  "name": "Luigi’s Mansion™",
+  "formal_name": "Luigi’s Mansion™",
+  "description": "G-g-ghosts! Time to suck those suckers up because Luigi is back in the first portable version of this spooky classic. After winning a mansion in a contest he didn’t enter, he must beat its many bosses and puzzles. Follow a map on the touchscreen, shine a flashlight, blow fire, shoot water, stun ghosts, and trap them…before Mario is trapped forever! All this ghost-catching tomfoolery pays off! As you suck ‘em up with your Poltergust 3000, you could also rake in millions in hidden, in-game riches for our hard-luck hero. Make sure to search every area using the Game Boy Horror’s map on your touchscreen and activate its Boo Radar to track down every Boo in the mansion or spot ghosts’ weak points. After beating and capturing boss ghosts, you can select their portraits from the gallery to best your own score in tense rematches—a new feature in the Nintendo 3DS version!",
+  "release_date_on_eshop": "2018-10-11",
+  "product_code": "CTR-N-BGNE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Local Play",
+    "Supports Download Play",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.<br><br>Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>amiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

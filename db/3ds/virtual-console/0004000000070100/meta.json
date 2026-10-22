@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000070100",
-    "uid": "50010000007310",
-    "name": "Donkey Kong Jr.™",
-    "formal_name": "Donkey Kong Jr.™",
-    "description": "Donkey Kong has finally been\ncaptured by Mario! In this unique\nrole-reversal platformer, you play as\nDK's son, Junior, and must save dad\nfrom Mario's clutches.\n\nSwing and climb your way across\nvines and chains to grab the keys that\nunlock Donkey Kong's cage, avoiding\nnasty critters like Snapjaws and\nNitpickers.\n\nIt's a game all about speed and high\nscores - so get swinging and rack up\nthose points - but don't forget to\nrescue DK!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TAKP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000070100",
+  "uid": "50010000007310",
+  "name": "Donkey Kong Jr.™",
+  "formal_name": "Donkey Kong Jr.™",
+  "description": "Donkey Kong has finally been\ncaptured by Mario! In this unique\nrole-reversal platformer, you play as\nDK's son, Junior, and must save dad\nfrom Mario's clutches.\n\nSwing and climb your way across\nvines and chains to grab the keys that\nunlock Donkey Kong's cage, avoiding\nnasty critters like Snapjaws and\nNitpickers.\n\nIt's a game all about speed and high\nscores - so get swinging and rack up\nthose points - but don't forget to\nrescue DK!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TAKP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

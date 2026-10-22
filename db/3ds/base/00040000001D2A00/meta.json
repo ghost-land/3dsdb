@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001D2A00",
-    "uid": "50010000045395",
-    "name": "サンリオキャラクターズピクロス",
-    "formal_name": "サンリオキャラクターズピクロス",
-    "description": "『サンリオキャラクターズピクロス』は『サンリオキャラクターズ』を題材にしたパズルゲーム。\n<br>ピクロスをクリアしてイラストを完成させると可愛いシールが手に入るよ！\n<br>集めたシールで画面を可愛くデコしよう！\n<br>\n<br>台紙はデコしてゲーム中の背景に設定できるよ！\n<br>自分だけのオリジナルの背景でピクロスを楽しんでね！",
-    "release_date_on_eshop": "2018-04-25",
-    "product_code": "CTR-N-LSCJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001D2A00",
+  "uid": "50010000045395",
+  "name": "サンリオキャラクターズピクロス",
+  "formal_name": "サンリオキャラクターズピクロス",
+  "description": "『サンリオキャラクターズピクロス』は『サンリオキャラクターズ』を題材にしたパズルゲーム。\n<br>ピクロスをクリアしてイラストを完成させると可愛いシールが手に入るよ！\n<br>集めたシールで画面を可愛くデコしよう！\n<br>\n<br>台紙はデコしてゲーム中の背景に設定できるよ！\n<br>自分だけのオリジナルの背景でピクロスを楽しんでね！",
+  "release_date_on_eshop": "2018-04-25",
+  "product_code": "CTR-N-LSCJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

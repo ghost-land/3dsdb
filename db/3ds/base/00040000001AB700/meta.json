@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001AB700",
-    "uid": "50010000041872",
-    "name": "Crollors Game Pack",
-    "formal_name": "Crollors Game Pack",
-    "description": "Crollors Game Pack is a collection of 4 games.\n<br>Every game has its own challenges and therefore something for everyone.\n<br>Enjoy hours of gameplay and try to beat each game's high score.\n<br>Play with your friends to see who is the best.\n<br>\n<br>The 3D feature can only be used on New Nintendo 3DS/New Nintendo 3DS XL.\n<br>This game does not have any multiplayer mode.",
-    "release_date_on_eshop": "2016-12-08",
-    "product_code": "CTR-N-KCGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AB700",
+  "uid": "50010000041872",
+  "name": "Crollors Game Pack",
+  "formal_name": "Crollors Game Pack",
+  "description": "Crollors Game Pack is a collection of 4 games.\n<br>Every game has its own challenges and therefore something for everyone.\n<br>Enjoy hours of gameplay and try to beat each game's high score.\n<br>Play with your friends to see who is the best.\n<br>\n<br>The 3D feature can only be used on New Nintendo 3DS/New Nintendo 3DS XL.\n<br>This game does not have any multiplayer mode.",
+  "release_date_on_eshop": "2016-12-08",
+  "product_code": "CTR-N-KCGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000400000014EE00",
-    "uid": "50010000026635",
-    "name": "The Legend of Dark Witch",
-    "formal_name": "The Legend of Dark Witch",
-    "description": "Syega Crystals gave their powers to the people of the world, but somebody has stolen all of them...<BR>\n<br><BR>\n<br>After all the Syega crystals are missing, the world plunges into darkness. As the dark witch Zizou, you must retrieve the missing Syega Crystals.<BR>\n<br><BR>\n<br>The Legend of Dark Witch is a 2D platform action game. Zizou can learn new attacks by defeating bosses. She will need every one of those attacks if she is going to save the world.<BR>\n<br><BR>\n<br>Other Features:<BR>\n<br><BR>\n<br>A magical world beautifully depicted through in-game graphics.<BR>\n<br>Diverse levels that provide a fair challenge.<BR>\n<br>Additional bonuses that reward those who replay the game.<BR>\n<br>3 difficulty modes.",
-    "release_date_on_eshop": "2014-10-16",
-    "product_code": "CTR-N-KC2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000014EE00",
+  "uid": "50010000026635",
+  "name": "The Legend of Dark Witch",
+  "formal_name": "The Legend of Dark Witch",
+  "description": "Syega Crystals gave their powers to the people of the world, but somebody has stolen all of them...<BR>\n<br><BR>\n<br>After all the Syega crystals are missing, the world plunges into darkness. As the dark witch Zizou, you must retrieve the missing Syega Crystals.<BR>\n<br><BR>\n<br>The Legend of Dark Witch is a 2D platform action game. Zizou can learn new attacks by defeating bosses. She will need every one of those attacks if she is going to save the world.<BR>\n<br><BR>\n<br>Other Features:<BR>\n<br><BR>\n<br>A magical world beautifully depicted through in-game graphics.<BR>\n<br>Diverse levels that provide a fair challenge.<BR>\n<br>Additional bonuses that reward those who replay the game.<BR>\n<br>3 difficulty modes.",
+  "release_date_on_eshop": "2014-10-16",
+  "product_code": "CTR-N-KC2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

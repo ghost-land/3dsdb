@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A6600",
-    "uid": "50010000015094",
-    "name": "Spelunker™",
-    "formal_name": "Spelunker™",
-    "description": "The underground pyramid awaits!\nGrab your oxygen tank, bombs and\nflares and explore uncharted caves in\nsearch of the legendary pyramid and\nits vast treasures.\n<br/><br/>\nSwing from ropes and ladders, make\nuse of mining carts and boats, collect\njewels, sacks of money and more as\nyou navigate the hazardous terrain.\nYou must keep your wits about you,\nas the caves hold many dangers.\nScalding steam vents, venomous bats\nand the avenging spirits of old\nspelunkers lurk in every corner of this\nmassive labyrinth!",
-    "release_date_on_eshop": "2013-07-18",
-    "product_code": "CTR-N-TBNP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A6600",
+  "uid": "50010000015094",
+  "name": "Spelunker™",
+  "formal_name": "Spelunker™",
+  "description": "The underground pyramid awaits!\nGrab your oxygen tank, bombs and\nflares and explore uncharted caves in\nsearch of the legendary pyramid and\nits vast treasures.\n<br/><br/>\nSwing from ropes and ladders, make\nuse of mining carts and boats, collect\njewels, sacks of money and more as\nyou navigate the hazardous terrain.\nYou must keep your wits about you,\nas the caves hold many dangers.\nScalding steam vents, venomous bats\nand the avenging spirits of old\nspelunkers lurk in every corner of this\nmassive labyrinth!",
+  "release_date_on_eshop": "2013-07-18",
+  "product_code": "CTR-N-TBNP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

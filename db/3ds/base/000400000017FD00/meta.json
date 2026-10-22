@@ -1,28 +1,28 @@
 {
-    "tid": "000400000017FD00",
-    "uid": "50010000042220",
-    "name": "Minecraft:\nNew Nintendo 3DS Edition",
-    "formal_name": "Minecraft: New Nintendo 3DS Edition",
-    "description": "このゲームは、Newニンテンドー3DSシリーズでのみお楽しみいただけます。\n<br>ランダム生成された世界を探検して、簡素な小屋から豪華絢爛な城まで、さまざまなものを作りましょう。クリエイティブモードで無限の資源を使って自由に遊ぶのか、サバイバルモードで地中深く掘り進み、武器や防具を作って危険なMobと戦うのかは、あなた次第。\n<br>・『Minecraft』では、想像力しだいで無限の遊び方があります。あなただけの世界を作り上げ、探検しましょう。\n<br>・5つのスキンパックと2つのテクスチャパックが同梱されています。ゲームの見た目をカスタマイズしてみましょう!\n<br>・タッチスクリーンで、地図の確認や持ち物の整理をしてみましょう!",
-    "release_date_on_eshop": "2017-09-14",
-    "product_code": "KTR-N-BD3J",
-    "platform_name": "New 3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー",
-        "ストラテジー",
-        "シミュレーション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.3.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000017FD00",
+  "uid": "50010000042220",
+  "name": "Minecraft:\nNew Nintendo 3DS Edition",
+  "formal_name": "Minecraft: New Nintendo 3DS Edition",
+  "description": "このゲームは、Newニンテンドー3DSシリーズでのみお楽しみいただけます。\n<br>ランダム生成された世界を探検して、簡素な小屋から豪華絢爛な城まで、さまざまなものを作りましょう。クリエイティブモードで無限の資源を使って自由に遊ぶのか、サバイバルモードで地中深く掘り進み、武器や防具を作って危険なMobと戦うのかは、あなた次第。\n<br>・『Minecraft』では、想像力しだいで無限の遊び方があります。あなただけの世界を作り上げ、探検しましょう。\n<br>・5つのスキンパックと2つのテクスチャパックが同梱されています。ゲームの見た目をカスタマイズしてみましょう!\n<br>・タッチスクリーンで、地図の確認や持ち物の整理をしてみましょう!",
+  "release_date_on_eshop": "2017-09-14",
+  "product_code": "KTR-N-BD3J",
+  "platform_name": "New 3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー",
+    "ストラテジー",
+    "シミュレーション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.3.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

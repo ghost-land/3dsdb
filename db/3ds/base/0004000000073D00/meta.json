@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000073D00",
-    "uid": "50010000009021",
-    "name": "Carnival Wild West 3D",
-    "formal_name": "Carnival Wild West 3D",
-    "description": "With games like ‘Outlaw Wrangler’,\n‘Git the Gold’ and ‘Nugget Falls’, find\nout if you’re the fastest Quick Draw in\ntown! Jump-off-the-screen 3D prizes\nguarantee you’ll have a rootin’ tootin’\ngood time!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AW2P",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "WIFI",
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000073D00",
+  "uid": "50010000009021",
+  "name": "Carnival Wild West 3D",
+  "formal_name": "Carnival Wild West 3D",
+  "description": "With games like ‘Outlaw Wrangler’,\n‘Git the Gold’ and ‘Nugget Falls’, find\nout if you’re the fastest Quick Draw in\ntown! Jump-off-the-screen 3D prizes\nguarantee you’ll have a rootin’ tootin’\ngood time!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AW2P",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "WIFI",
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

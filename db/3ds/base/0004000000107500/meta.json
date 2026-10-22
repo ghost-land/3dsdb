@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000107500",
-    "uid": "50010000018053",
-    "name": "Ohno Odyssey",
-    "formal_name": "Ohno Odyssey",
-    "description": "Ohno Odyssey is a physics-based, action-puzzle game that challenges players to guide the Ohno aliens through 35 gravity-defying stages as they roll on rails, jump and smash through obstacles, and zoom their way to the escape pod for safety.\n<br><br>\nThe Ohnos, a group of aliens whose malfunctioning mothership has caused them to crash-land on Earth, are strewn about the planet; they need to be located and rescued before they are discovered. The path to the escape pod is filled with obstacles that each player must circumvent using the tools provided in each thrilling level. The Ohnos can be shot out of cannons, dipped in oil, and even set on fire to break through barriers – all in order to safely guide them back to the mothership.\n<br><br>\nOhno Odyssey is an extremely fun and challenging interactive action-puzzle game involving strategy and planning over 35 increasingly elaborate stages. The stellar action will be nearly impossible to put down!",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-N-JRJE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000107500",
+  "uid": "50010000018053",
+  "name": "Ohno Odyssey",
+  "formal_name": "Ohno Odyssey",
+  "description": "Ohno Odyssey is a physics-based, action-puzzle game that challenges players to guide the Ohno aliens through 35 gravity-defying stages as they roll on rails, jump and smash through obstacles, and zoom their way to the escape pod for safety.\n<br><br>\nThe Ohnos, a group of aliens whose malfunctioning mothership has caused them to crash-land on Earth, are strewn about the planet; they need to be located and rescued before they are discovered. The path to the escape pod is filled with obstacles that each player must circumvent using the tools provided in each thrilling level. The Ohnos can be shot out of cannons, dipped in oil, and even set on fire to break through barriers – all in order to safely guide them back to the mothership.\n<br><br>\nOhno Odyssey is an extremely fun and challenging interactive action-puzzle game involving strategy and planning over 35 increasingly elaborate stages. The stellar action will be nearly impossible to put down!",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-N-JRJE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

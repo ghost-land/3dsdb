@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000103900",
-    "uid": "50010000017375",
-    "name": "@SIMPLE DLシリーズ Vol.20\nTHE カード",
-    "formal_name": "@SIMPLE DLシリーズVol.20\nTHE カード\n～大富豪 ポーカー ブラックジャック～",
-    "description": "大富豪、ポーカー、ブラックジャック、人気のある3種類のトランプゲームが楽しめるゲームの登場です。\n<br>すぐに楽しめるフリーモードの他にチップを使ってスリリングな駆け引きを楽しめるBETモードを搭載。\n<br>5段階のレートでコンピュータとの対戦が楽しめます。 ",
-    "release_date_on_eshop": "2013-10-30",
-    "product_code": "CTR-N-JDWJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000103900",
+  "uid": "50010000017375",
+  "name": "@SIMPLE DLシリーズ Vol.20\nTHE カード",
+  "formal_name": "@SIMPLE DLシリーズVol.20\nTHE カード\n～大富豪 ポーカー ブラックジャック～",
+  "description": "大富豪、ポーカー、ブラックジャック、人気のある3種類のトランプゲームが楽しめるゲームの登場です。\n<br>すぐに楽しめるフリーモードの他にチップを使ってスリリングな駆け引きを楽しめるBETモードを搭載。\n<br>5段階のレートでコンピュータとの対戦が楽しめます。 ",
+  "release_date_on_eshop": "2013-10-30",
+  "product_code": "CTR-N-JDWJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

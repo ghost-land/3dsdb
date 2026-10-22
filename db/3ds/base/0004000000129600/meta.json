@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000129600",
-    "uid": "50010000023036",
-    "name": "AiRace Xeno",
-    "formal_name": "AiRace Xeno",
-    "description": "After the success of its predecessors,\nAiRace Xeno brings back the speed\nand adrenaline to your\nNintendo 3DS™!\n<br/><br/>\nTake the challenge in a surprising\nenvironment and brand new levels.\n<br/><br/>\n• Fly extreme speeds across 13\nadrenaline-fuelled tracks<br/>\n• Stunning environments packed with\nchallenging obstacles<br/>\n• Take control of one of 3\nhigh-speed, futuristic jets<br/>\n• High-performance graphics and\nimmersive 3D effects<br/>\n• Compete in online leaderboards and\nunlock achievements",
-    "release_date_on_eshop": "2014-06-12",
-    "product_code": "CTR-N-JYSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000129600",
+  "uid": "50010000023036",
+  "name": "AiRace Xeno",
+  "formal_name": "AiRace Xeno",
+  "description": "After the success of its predecessors,\nAiRace Xeno brings back the speed\nand adrenaline to your\nNintendo 3DS™!\n<br/><br/>\nTake the challenge in a surprising\nenvironment and brand new levels.\n<br/><br/>\n• Fly extreme speeds across 13\nadrenaline-fuelled tracks<br/>\n• Stunning environments packed with\nchallenging obstacles<br/>\n• Take control of one of 3\nhigh-speed, futuristic jets<br/>\n• High-performance graphics and\nimmersive 3D effects<br/>\n• Compete in online leaderboards and\nunlock achievements",
+  "release_date_on_eshop": "2014-06-12",
+  "product_code": "CTR-N-JYSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

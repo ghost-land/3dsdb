@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B4C4E50",
-    "uid": "50010000008008",
-    "name": "Bloons® TD",
-    "formal_name": "Bloons® TD",
-    "description": "It is time, once again, to achieve\ntotal Bloon popping satisfaction, this\ntime in the form of classic TD. With a\nwhole army of dart monkeys and a\nmultitude of towers at your disposal\ncan you pop all of the Bloons ®\nbefore they escape? Bloons ® TD\nDSi ™ features all of your favourite\ntowers and upgrades including the\nalmighty Super Monkey! Can you\nbattle your way through 50\nchallenging levels taking place over\n15 exciting tracks and unlock all of\nthe gold medals to become the TD\nmaster? Good luck!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KLNP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.5.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4E50",
+  "uid": "50010000008008",
+  "name": "Bloons® TD",
+  "formal_name": "Bloons® TD",
+  "description": "It is time, once again, to achieve\ntotal Bloon popping satisfaction, this\ntime in the form of classic TD. With a\nwhole army of dart monkeys and a\nmultitude of towers at your disposal\ncan you pop all of the Bloons ®\nbefore they escape? Bloons ® TD\nDSi ™ features all of your favourite\ntowers and upgrades including the\nalmighty Super Monkey! Can you\nbattle your way through 50\nchallenging levels taking place over\n15 exciting tracks and unlock all of\nthe gold medals to become the TD\nmaster? Good luck!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KLNP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.5.0",
+  "disclaimer": null,
+  "descriptors": []
 }

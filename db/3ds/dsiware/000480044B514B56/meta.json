@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B514B56",
-    "uid": "50010000010880",
-    "name": "Ace Mathician",
-    "formal_name": "Ace Mathician",
-    "description": "Ever wondered why you needed to\nlearn maths in school?　<br>\n<br>\nThe answer is simple; to change the\nworld! And that’s exactly what you\nget to do in this game!　<br>\n<br>\nYou play as a cute Koala named Ace\nwho loves fruit! Unfortunately, a few\ndelicious pieces of fruit are just out of\nreach and you need to change the\npositions of the platforms to get to\nthe fruit!　<br>\n<br>\nYou can change the positions of the\nplatform by entering a maths formula.　<br>\n<br>\nThere’s no right or wrong answer,\nevery formula the player can come up\nwith will have an effect on the world!\nSuddenly maths becomes as fun as\ndrawing!　<br>\n<br>\nThere are many possible ways to\nfinish a level... be creative!　<br>\n<br>\nLater levels will feature enemies and\ntraps keeping the game challenging\nand while you’re at it, you can collect\nstars for a better score!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KQKV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514B56",
+  "uid": "50010000010880",
+  "name": "Ace Mathician",
+  "formal_name": "Ace Mathician",
+  "description": "Ever wondered why you needed to\nlearn maths in school?　<br>\n<br>\nThe answer is simple; to change the\nworld! And that’s exactly what you\nget to do in this game!　<br>\n<br>\nYou play as a cute Koala named Ace\nwho loves fruit! Unfortunately, a few\ndelicious pieces of fruit are just out of\nreach and you need to change the\npositions of the platforms to get to\nthe fruit!　<br>\n<br>\nYou can change the positions of the\nplatform by entering a maths formula.　<br>\n<br>\nThere’s no right or wrong answer,\nevery formula the player can come up\nwith will have an effect on the world!\nSuddenly maths becomes as fun as\ndrawing!　<br>\n<br>\nThere are many possible ways to\nfinish a level... be creative!　<br>\n<br>\nLater levels will feature enemies and\ntraps keeping the game challenging\nand while you’re at it, you can collect\nstars for a better score!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KQKV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

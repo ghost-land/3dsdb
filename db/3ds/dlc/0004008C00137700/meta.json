@@ -1,36 +1,36 @@
 {
-    "tid": "0004008C00137700",
-    "uid": "50010000032637",
-    "name": "Puzzle & Dragons Z",
-    "formal_name": "Puzzle & Dragons Z + Puzzle &\nDragons: Super Mario Bros. Edition",
-    "description": "In this colourful puzzle game, the\nplayer is a Dragon Tamer who\nexplores dungeons, battling enemies\nby matching three or more Orbs of the\nsame type within a grid. RPG-type\nelements add a strategic layer, while\nthe player can recruit defeated\nmonsters, then improve their attributes\nusing experience points and Chips.\nThis pack also includes a Super Mario\nBros. Edition, featuring a streamlined\nversion of the game starring Mario and\nLuigi!",
-    "release_date_on_eshop": "2015-05-08",
-    "product_code": "CTR-P-AZGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00137700",
+  "uid": "50010000032637",
+  "name": "Puzzle & Dragons Z",
+  "formal_name": "Puzzle & Dragons Z + Puzzle &\nDragons: Super Mario Bros. Edition",
+  "description": "In this colourful puzzle game, the\nplayer is a Dragon Tamer who\nexplores dungeons, battling enemies\nby matching three or more Orbs of the\nsame type within a grid. RPG-type\nelements add a strategic layer, while\nthe player can recruit defeated\nmonsters, then improve their attributes\nusing experience points and Chips.\nThis pack also includes a Super Mario\nBros. Edition, featuring a streamlined\nversion of the game starring Mario and\nLuigi!",
+  "release_date_on_eshop": "2015-05-08",
+  "product_code": "CTR-P-AZGP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

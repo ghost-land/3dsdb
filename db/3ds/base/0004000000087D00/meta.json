@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000087D00",
-    "uid": "50010000010066",
-    "name": "Madagascar 3: \nThe Video Game",
-    "formal_name": "Madagascar 3: The Video Game",
-    "description": "In Madagascar 3: The Video Game, players of all ages will get to experience the adventures of Alex the Lion, Marty the Zebra, Gloria the Hippo, Melman the Giraffe and all of their friends as they try to find their way home through the perfect cover: a traveling circus. Travel across Europe and promote the circus by completing zany missions and putting on an amazing mini-game based show to take the gang back to the states!<br>\nTravel, adventure and explore in the exciting and worldly European locations of Madagascar 3!<br>\nMultiple Playable Characters: All the Madagascar favorites are back – Alex, Marty, Melman and Gloria. Also featuring all new show-stopping characters from Madagascar 3!<br>\nAction-adventure, platforming and mini-game circus fun for Madagascar fans of all ages! Explore iconic locations around Europe & perform show-stopping circus acts, Madagascar style!\n",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AMCE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Cartoon Violence"
-    ]
+  "tid": "0004000000087D00",
+  "uid": "50010000010066",
+  "name": "Madagascar 3: \nThe Video Game",
+  "formal_name": "Madagascar 3: The Video Game",
+  "description": "In Madagascar 3: The Video Game, players of all ages will get to experience the adventures of Alex the Lion, Marty the Zebra, Gloria the Hippo, Melman the Giraffe and all of their friends as they try to find their way home through the perfect cover: a traveling circus. Travel across Europe and promote the circus by completing zany missions and putting on an amazing mini-game based show to take the gang back to the states!<br>\nTravel, adventure and explore in the exciting and worldly European locations of Madagascar 3!<br>\nMultiple Playable Characters: All the Madagascar favorites are back – Alex, Marty, Melman and Gloria. Also featuring all new show-stopping characters from Madagascar 3!<br>\nAction-adventure, platforming and mini-game circus fun for Madagascar fans of all ages! Explore iconic locations around Europe & perform show-stopping circus acts, Madagascar style!\n",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AMCE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ]
 }

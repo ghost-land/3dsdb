@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000077E00",
-    "uid": "50010000009102",
-    "name": "電波人間のRPG",
-    "formal_name": "電波人間のRPG",
-    "description": "日常の電波のまわりを漂う電波人間たち。\n<br>彼らを探し、捕え、チームを組んで冒険させる、新しいロールプレイングゲームです。\n<br>\n<br>電波人間たちは、電波の縄張りごとに違います。\n<br>現実のいろいろな場所からいろいろな特技を持った電波人間を集め、魔王にさらわれた大事な人をとりもどす冒険に出かけましょう。",
-    "release_date_on_eshop": "2012-02-08",
-    "product_code": "CTR-N-JD8J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000077E00",
+  "uid": "50010000009102",
+  "name": "電波人間のRPG",
+  "formal_name": "電波人間のRPG",
+  "description": "日常の電波のまわりを漂う電波人間たち。\n<br>彼らを探し、捕え、チームを組んで冒険させる、新しいロールプレイングゲームです。\n<br>\n<br>電波人間たちは、電波の縄張りごとに違います。\n<br>現実のいろいろな場所からいろいろな特技を持った電波人間を集め、魔王にさらわれた大事な人をとりもどす冒険に出かけましょう。",
+  "release_date_on_eshop": "2012-02-08",
+  "product_code": "CTR-N-JD8J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

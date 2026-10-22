@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000B6D00",
-    "uid": "50010000017796",
-    "name": "燐光のランツェ",
-    "formal_name": "燐光のランツェ",
-    "description": "高速移動や上空での戦闘などに有効な飛行形態。\n<br>クイックな動きで1対1の戦いに特化した格闘形態。\n<br>その2つをうまく使い分けて戦うドッグファイトアクションゲームです。\n<br>\n<br>敵は巨大戦艦や、強力なライバルなども登場します。\n<br>そんな時はサブユニットを付け替え、プレイヤーの基本性能をカスタマイズ!\n<br>強力な敵を討て!",
-    "release_date_on_eshop": "2013-12-04",
-    "product_code": "CTR-N-JRZJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B6D00",
+  "uid": "50010000017796",
+  "name": "燐光のランツェ",
+  "formal_name": "燐光のランツェ",
+  "description": "高速移動や上空での戦闘などに有効な飛行形態。\n<br>クイックな動きで1対1の戦いに特化した格闘形態。\n<br>その2つをうまく使い分けて戦うドッグファイトアクションゲームです。\n<br>\n<br>敵は巨大戦艦や、強力なライバルなども登場します。\n<br>そんな時はサブユニットを付け替え、プレイヤーの基本性能をカスタマイズ!\n<br>強力な敵を討て!",
+  "release_date_on_eshop": "2013-12-04",
+  "product_code": "CTR-N-JRZJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

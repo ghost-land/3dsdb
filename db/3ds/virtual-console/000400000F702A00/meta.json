@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F702A00",
-    "uid": "50010000040737",
-    "name": "Super Ghouls'n Ghosts™",
-    "formal_name": "Super Ghouls'n Ghosts™",
-    "description": "The third game in the legendary Ghosts’n Goblins series, Super Ghouls’n Ghosts follows brave Sir Arthur’s quest through demon-infested lands to rescue the kidnapped princess.\n<br>\n<br>Battle through deadly stages and beat each level’s boss to progress. But watch out: if Arthur is injured his armour breaks, leaving him only in his boxer shorts!\n<br>\n<br>Originally developed exclusively for Super NES™, this supremely challenging platformer won critical acclaim and became an instant bestseller.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-10-20",
-    "product_code": "KTR-N-UAPE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F702A00",
+  "uid": "50010000040737",
+  "name": "Super Ghouls'n Ghosts™",
+  "formal_name": "Super Ghouls'n Ghosts™",
+  "description": "The third game in the legendary Ghosts’n Goblins series, Super Ghouls’n Ghosts follows brave Sir Arthur’s quest through demon-infested lands to rescue the kidnapped princess.\n<br>\n<br>Battle through deadly stages and beat each level’s boss to progress. But watch out: if Arthur is injured his armour breaks, leaving him only in his boxer shorts!\n<br>\n<br>Originally developed exclusively for Super NES™, this supremely challenging platformer won critical acclaim and became an instant bestseller.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-10-20",
+  "product_code": "KTR-N-UAPE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

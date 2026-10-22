@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F712E00",
-    "uid": "50010000047755",
-    "name": "ZARA the Fastest Fairy",
-    "formal_name": "ZARA the Fastest Fairy",
-    "description": "ZARA... ready your wings!\n<br>\n<br>Under the glow of the honey moon, fairies can reach their peak speeds.  Now is the time for you to prove that you are truly the fastest fairy!\n<br>\n<br>Fly through the fairy forest collecting \"bling\" to increase your speed.  \n<br>\n<br>Watch out for rocks, trees and the mystical creatures called \"Orbees!\"\n<br>\n<br>Unlock outfits and break speed records in style!",
-    "release_date_on_eshop": "2019-05-02",
-    "product_code": "KTR-N-CFJP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F712E00",
+  "uid": "50010000047755",
+  "name": "ZARA the Fastest Fairy",
+  "formal_name": "ZARA the Fastest Fairy",
+  "description": "ZARA... ready your wings!\n<br>\n<br>Under the glow of the honey moon, fairies can reach their peak speeds.  Now is the time for you to prove that you are truly the fastest fairy!\n<br>\n<br>Fly through the fairy forest collecting \"bling\" to increase your speed.  \n<br>\n<br>Watch out for rocks, trees and the mystical creatures called \"Orbees!\"\n<br>\n<br>Unlock outfits and break speed records in style!",
+  "release_date_on_eshop": "2019-05-02",
+  "product_code": "KTR-N-CFJP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

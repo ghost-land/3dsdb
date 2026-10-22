@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B594956",
-    "uid": "50010000006581",
-    "name": "myDiary™",
-    "formal_name": "myDiary™",
-    "description": "myDiary allows you to keep your\nown, personal diary on your Nintendo\nDSi. Just pop open your Nintendo\nDSi, tap on a day and write a note!\nSet alarms for important events. You\ncan even lock your notes away from\nprying eyes.<br>\n<br>\nTry keeping track of important dates,\nto do lists and more!<br>\n<br>\nYou can even personalize myDiary\nwith 12 different unlockable themes\nand ink colours.<br>\n<br>\nUse the pencil to make your notes or\ndoodles and then erase the bits you\ndon't like. myDiary will help you\norganize your life.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KYIV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B594956",
+  "uid": "50010000006581",
+  "name": "myDiary™",
+  "formal_name": "myDiary™",
+  "description": "myDiary allows you to keep your\nown, personal diary on your Nintendo\nDSi. Just pop open your Nintendo\nDSi, tap on a day and write a note!\nSet alarms for important events. You\ncan even lock your notes away from\nprying eyes.<br>\n<br>\nTry keeping track of important dates,\nto do lists and more!<br>\n<br>\nYou can even personalize myDiary\nwith 12 different unlockable themes\nand ink colours.<br>\n<br>\nUse the pencil to make your notes or\ndoodles and then erase the bits you\ndon't like. myDiary will help you\norganize your life.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KYIV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

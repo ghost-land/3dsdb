@@ -1,40 +1,40 @@
 {
-    "tid": "0004000000031100",
-    "uid": "50010000000202",
-    "name": "French Bulldog &\nNew Friends",
-    "formal_name": "nintendogs™ + cats\n<br>French Bulldog & New Friends",
-    "description": "nintendogs puppies are back in the\n<br>palm of your hand on the Nintendo\n<br>3DS system, with even cuter and\n<br>more expressive puppies and, for the\n<br>first time, kittens!",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-P-ADBP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "WIFI",
-        "Supports Internet Play",
-        "Internet Required",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000031100",
+  "uid": "50010000000202",
+  "name": "French Bulldog &\nNew Friends",
+  "formal_name": "nintendogs™ + cats\n<br>French Bulldog & New Friends",
+  "description": "nintendogs puppies are back in the\n<br>palm of your hand on the Nintendo\n<br>3DS system, with even cuter and\n<br>more expressive puppies and, for the\n<br>first time, kittens!",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-P-ADBP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "WIFI",
+    "Supports Internet Play",
+    "Internet Required",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

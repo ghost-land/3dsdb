@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000061F00",
-    "uid": "50010000010166",
-    "name": "Deer Drive Legends",
-    "formal_name": "Deer Drive Legends",
-    "description": "Featuring more than 30 elusive animals including woolly rhinos, white-tailed deer, wolves and Irish elk, Deer Drive Legends takes you to the far corners of the earth to hunt some of the wildest animals rarely seen by the human eye - several even believed to be extinct. Captured in rich, 3D environments, these animals are quick, deadly, and eager to turn you into dinner! Engage in vicious boss battles against the feared T-Rex, saber-tooted cats, and Gastornis. With diverse weapons to choose from like sniper rifles, crossbows, and high-powered shotguns, Deer Drive Legends is the ultimate hunting game youâ€™ve been waiting for!",
-    "release_date_on_eshop": "2013-01-17",
-    "product_code": "CTR-N-AD2E",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Shooter",
-        "First-Person Shooter",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.1",
-    "disclaimer": "VIEWING OF 3D IMAGES BY CHILDREN 6 AND UNDER MAY CAUSE VISION DAMAGE. USE THE PARENTAL CONTROL FEATURE\nTO RESTRICT THE DISPLAY OF 3D IMAGES FOR CHILDREN 6 AND UNDER. IF YOU HAVE EPILEPSY OR HAVE HAD SEIZURES OR OTHER UNUSUAL REACTIONS TO FLASHING LIGHTS OR PATTERNS, CONSULT A DOCTOR BEFORE PLAYING VIDEO GAMES.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000061F00",
+  "uid": "50010000010166",
+  "name": "Deer Drive Legends",
+  "formal_name": "Deer Drive Legends",
+  "description": "Featuring more than 30 elusive animals including woolly rhinos, white-tailed deer, wolves and Irish elk, Deer Drive Legends takes you to the far corners of the earth to hunt some of the wildest animals rarely seen by the human eye - several even believed to be extinct. Captured in rich, 3D environments, these animals are quick, deadly, and eager to turn you into dinner! Engage in vicious boss battles against the feared T-Rex, saber-tooted cats, and Gastornis. With diverse weapons to choose from like sniper rifles, crossbows, and high-powered shotguns, Deer Drive Legends is the ultimate hunting game youâ€™ve been waiting for!",
+  "release_date_on_eshop": "2013-01-17",
+  "product_code": "CTR-N-AD2E",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Shooter",
+    "First-Person Shooter",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.1",
+  "disclaimer": "VIEWING OF 3D IMAGES BY CHILDREN 6 AND UNDER MAY CAUSE VISION DAMAGE. USE THE PARENTAL CONTROL FEATURE\nTO RESTRICT THE DISPLAY OF 3D IMAGES FOR CHILDREN 6 AND UNDER. IF YOU HAVE EPILEPSY OR HAVE HAD SEIZURES OR OTHER UNUSUAL REACTIONS TO FLASHING LIGHTS OR PATTERNS, CONSULT A DOCTOR BEFORE PLAYING VIDEO GAMES.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

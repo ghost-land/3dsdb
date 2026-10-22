@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000D6800",
-    "uid": "50010000028855",
-    "name": "League of Heroes",
-    "formal_name": "League of Heroes",
-    "description": "Become a true hero and save the villagers of Frognest!\n<br><br>\nA NEVER-ENDING STORY\nHack, slash and pummel your way through the endless Frognest Forest!\n<br><br>\nGEAR UP AND CUSTOMIZE YOUR CHARACTER\nKit out your character with numerous armor and weaponry options – then design the best strategy to defeat your enemies!\n<br><br>\nEVOLVE AS YOUR ADVENTURE UNFOLDS\nEarn experience, discover treasure and unlock a slew of cool items, including magic!\n<br><br>\nCOMPLETE QUESTS\nComplete 60+ daunting quests and earn valuable silver coins!\n<br><br>\nBEAUTIFUL HAND-DRAWN GRAPHICS AND ANIMATIONS\nImmerse yourself in spectacular 2D visuals and awesome animations!\n<br><br>\nPERSONALIZED, WEATHER EFFECTS\nIn League of Heroes, you can enjoy changing weather and time-of-day effects! You’ll experience thunderstorms, cloudy skies, fog, nighttime and much more!",
-    "release_date_on_eshop": "2014-12-18",
-    "product_code": "CTR-N-JLHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D6800",
+  "uid": "50010000028855",
+  "name": "League of Heroes",
+  "formal_name": "League of Heroes",
+  "description": "Become a true hero and save the villagers of Frognest!\n<br><br>\nA NEVER-ENDING STORY\nHack, slash and pummel your way through the endless Frognest Forest!\n<br><br>\nGEAR UP AND CUSTOMIZE YOUR CHARACTER\nKit out your character with numerous armor and weaponry options – then design the best strategy to defeat your enemies!\n<br><br>\nEVOLVE AS YOUR ADVENTURE UNFOLDS\nEarn experience, discover treasure and unlock a slew of cool items, including magic!\n<br><br>\nCOMPLETE QUESTS\nComplete 60+ daunting quests and earn valuable silver coins!\n<br><br>\nBEAUTIFUL HAND-DRAWN GRAPHICS AND ANIMATIONS\nImmerse yourself in spectacular 2D visuals and awesome animations!\n<br><br>\nPERSONALIZED, WEATHER EFFECTS\nIn League of Heroes, you can enjoy changing weather and time-of-day effects! You’ll experience thunderstorms, cloudy skies, fog, nighttime and much more!",
+  "release_date_on_eshop": "2014-12-18",
+  "product_code": "CTR-N-JLHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

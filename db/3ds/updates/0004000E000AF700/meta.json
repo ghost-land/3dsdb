@@ -1,31 +1,31 @@
 {
-    "tid": "0004000E000AF700",
-    "uid": "50010000014833",
-    "name": "LEGO®  Legends of CHIMA:\nLaval's Journey Update",
-    "formal_name": "LEGO®  Legends of CHIMA:\nLaval's Journey Update",
-    "description": "Minor game play tweaks and bug\nfixes\n",
-    "release_date_on_eshop": "2013-06-19",
-    "product_code": "CTR-U-APRP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000AF700",
+  "uid": "50010000014833",
+  "name": "LEGO®  Legends of CHIMA:\nLaval's Journey Update",
+  "formal_name": "LEGO®  Legends of CHIMA:\nLaval's Journey Update",
+  "description": "Minor game play tweaks and bug\nfixes\n",
+  "release_date_on_eshop": "2013-06-19",
+  "product_code": "CTR-U-APRP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

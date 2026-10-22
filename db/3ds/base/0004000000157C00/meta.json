@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000157C00",
-    "uid": "50010000038616",
-    "name": "SteamWorld Heist",
-    "formal_name": "SteamWorld Heist",
-    "description": "Now available: DLC and more\n<br>languages (French, Italian, German,\n<br>Spanish and Russian)!\n<br>\n<br>10/10 - Daily Mirror: \"A work of art”\n<br>\n<br>9/10 - Nintendo Life: \"Excellent\"\n<br>\n<br>8.8/10 - IGN: \"SteamWorld Heist\n<br>stole my heart\" \n<br>\n<br>From the makers of SteamWorld Dig:\n<br>\n<br>In SteamWorld Heist, you command a\n<br>robot squad in a series of epic tactical\n<br>shootouts. It's turn-based strategy\n<br>with a twist: You manually aim the\n<br>guns of your crewmates, allowing for\n<br>insane skill shots and bullet-bouncing\n<br>action!\n<br>\n<br>As the captain of a steam-driven\n<br>pirate crew you will board, loot and\n<br>shoot your way through enemy\n<br>spaceships. Overcome the challenges\n<br>of the vast frontier by upgrading your\n<br>recruits with unique abilities,\n<br>weapons - and even stylish hats! \n<br>\n<br>Key features\n<br>\n<br>Strategy focused on skill rather than\n<br>chance\n<br>\n<br>Procedurally generated levels\n<br>\n<br>15-20 hours of playtime, followed by\n<br>New Game+\n<br>\n<br>Kind to newcomers, deep and\n<br>challenging for veterans\n<br>\n<br>Expand the game with DLC\n<br>\n<br>Soundtrack by Steam Powered Giraffe",
-    "release_date_on_eshop": "2015-12-10",
-    "product_code": "CTR-N-JY5P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action",
-        "Strategy",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000157C00",
+  "uid": "50010000038616",
+  "name": "SteamWorld Heist",
+  "formal_name": "SteamWorld Heist",
+  "description": "Now available: DLC and more\n<br>languages (French, Italian, German,\n<br>Spanish and Russian)!\n<br>\n<br>10/10 - Daily Mirror: \"A work of art”\n<br>\n<br>9/10 - Nintendo Life: \"Excellent\"\n<br>\n<br>8.8/10 - IGN: \"SteamWorld Heist\n<br>stole my heart\" \n<br>\n<br>From the makers of SteamWorld Dig:\n<br>\n<br>In SteamWorld Heist, you command a\n<br>robot squad in a series of epic tactical\n<br>shootouts. It's turn-based strategy\n<br>with a twist: You manually aim the\n<br>guns of your crewmates, allowing for\n<br>insane skill shots and bullet-bouncing\n<br>action!\n<br>\n<br>As the captain of a steam-driven\n<br>pirate crew you will board, loot and\n<br>shoot your way through enemy\n<br>spaceships. Overcome the challenges\n<br>of the vast frontier by upgrading your\n<br>recruits with unique abilities,\n<br>weapons - and even stylish hats! \n<br>\n<br>Key features\n<br>\n<br>Strategy focused on skill rather than\n<br>chance\n<br>\n<br>Procedurally generated levels\n<br>\n<br>15-20 hours of playtime, followed by\n<br>New Game+\n<br>\n<br>Kind to newcomers, deep and\n<br>challenging for veterans\n<br>\n<br>Expand the game with DLC\n<br>\n<br>Soundtrack by Steam Powered Giraffe",
+  "release_date_on_eshop": "2015-12-10",
+  "product_code": "CTR-N-JY5P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Strategy",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

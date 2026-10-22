@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000BB100",
-    "uid": "50010000013423",
-    "name": "Viking Invasion 2 -\nTower Defense",
-    "formal_name": "Viking Invasion 2 -\nTower Defense",
-    "description": "After the success of the first game,\nfollow the whacky new adventures of\nOlaf the Viking and his group in this\ncartoon-style fantasy Tower Defense.\nBuild your towers at the most\nstrategic locations to block the\nadvance of the Viking units. To\ncounter the drakkars, Valkyries and\neven the god Odin, unlock new\nbuildings and upgrade your defences!\n<br/><br/>\nNote: This game differs from the\nretail version of Viking Invasion 2 -\nTower Defense and contains 12 maps\nand the Story mode.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JVYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BB100",
+  "uid": "50010000013423",
+  "name": "Viking Invasion 2 -\nTower Defense",
+  "formal_name": "Viking Invasion 2 -\nTower Defense",
+  "description": "After the success of the first game,\nfollow the whacky new adventures of\nOlaf the Viking and his group in this\ncartoon-style fantasy Tower Defense.\nBuild your towers at the most\nstrategic locations to block the\nadvance of the Viking units. To\ncounter the drakkars, Valkyries and\neven the god Odin, unlock new\nbuildings and upgrade your defences!\n<br/><br/>\nNote: This game differs from the\nretail version of Viking Invasion 2 -\nTower Defense and contains 12 maps\nand the Story mode.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JVYP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

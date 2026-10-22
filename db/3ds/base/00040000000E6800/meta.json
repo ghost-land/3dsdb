@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000E6800",
-    "uid": "50010000016516",
-    "name": "Star Wars Pinball",
-    "formal_name": "Star Wars Pinball",
-    "description": "Feel the power of the Force in Star Wars Pinball! Set in a galaxy far, far away, each of the tables in this brand new pack lets you interact with the most iconic characters, and relive the greatest moments of the Star Wars universe: Star Wars: Episode V The Empire Strikes Back, Star Wars: The Clone Wars, and Boba Fett. May the Force be with you!\n<br><br>\nInfluence the Balance of the Force! Join either the Light Side or Dark Side and take part in the epic struggle by simply posting scores for your chosen side!\n<br><br>\nFull list of features:<br>\nThree brand new tables: Star Wars: Episode V The Empire Strikes Back, Boba Fett, and The Clone Wars<br>\nCompete against other players to achieve the highest ForceScore™, and team up with your friends to increase your TeamScore™<br>\nHotseat multiplayer mode<br>\nNew tables released regularly through the Nintendo eShop",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-N-JSWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "Online Interactions Not Rated by the ESRB\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000E6800",
+  "uid": "50010000016516",
+  "name": "Star Wars Pinball",
+  "formal_name": "Star Wars Pinball",
+  "description": "Feel the power of the Force in Star Wars Pinball! Set in a galaxy far, far away, each of the tables in this brand new pack lets you interact with the most iconic characters, and relive the greatest moments of the Star Wars universe: Star Wars: Episode V The Empire Strikes Back, Star Wars: The Clone Wars, and Boba Fett. May the Force be with you!\n<br><br>\nInfluence the Balance of the Force! Join either the Light Side or Dark Side and take part in the epic struggle by simply posting scores for your chosen side!\n<br><br>\nFull list of features:<br>\nThree brand new tables: Star Wars: Episode V The Empire Strikes Back, Boba Fett, and The Clone Wars<br>\nCompete against other players to achieve the highest ForceScore™, and team up with your friends to increase your TeamScore™<br>\nHotseat multiplayer mode<br>\nNew tables released regularly through the Nintendo eShop",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-N-JSWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "Online Interactions Not Rated by the ESRB\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

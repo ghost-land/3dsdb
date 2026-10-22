@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000156D00",
-    "uid": "50010000028966",
-    "name": "トイスタントバイク",
-    "formal_name": "トイスタントバイク",
-    "description": "おもちゃのミニチュアバイクを操縦し、家の中でバイクスタントを楽しみましょう。巨大なソファーやトイレを越えて、ウィリーなどのアクロバットな技を流れるように繰り出し、ハイスコアを狙いましょう。また、世界中のプレイヤーとタイムを競えるランキングにも参加できます。",
-    "release_date_on_eshop": "2014-12-24",
-    "product_code": "CTR-N-JTVJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース",
-        "スポーツ",
-        "アクション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000156D00",
+  "uid": "50010000028966",
+  "name": "トイスタントバイク",
+  "formal_name": "トイスタントバイク",
+  "description": "おもちゃのミニチュアバイクを操縦し、家の中でバイクスタントを楽しみましょう。巨大なソファーやトイレを越えて、ウィリーなどのアクロバットな技を流れるように繰り出し、ハイスコアを狙いましょう。また、世界中のプレイヤーとタイムを競えるランキングにも参加できます。",
+  "release_date_on_eshop": "2014-12-24",
+  "product_code": "CTR-N-JTVJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース",
+    "スポーツ",
+    "アクション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,42 +1,42 @@
 {
-    "tid": "0004000000030700",
-    "uid": "50010000007914",
-    "name": "Mario Kart™ 7",
-    "formal_name": "Mario Kart™ 7",
-    "description": "Mario Kart 7 brings Mushroom\n<br>Kingdom racing fun into glorious 3D -\n<br>and that's just the beginning, as new\n<br>courses, strategic new abilities and\n<br>customisable karts bring the racing\n<br>excitement to new heights.\n<br>\n<br>Up to 8 players can enjoy local\n<br>wireless races or race together online.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-AMKP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Party"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v2.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000030700",
+  "uid": "50010000007914",
+  "name": "Mario Kart™ 7",
+  "formal_name": "Mario Kart™ 7",
+  "description": "Mario Kart 7 brings Mushroom\n<br>Kingdom racing fun into glorious 3D -\n<br>and that's just the beginning, as new\n<br>courses, strategic new abilities and\n<br>customisable karts bring the racing\n<br>excitement to new heights.\n<br>\n<br>Up to 8 players can enjoy local\n<br>wireless races or race together online.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-AMKP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Party"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

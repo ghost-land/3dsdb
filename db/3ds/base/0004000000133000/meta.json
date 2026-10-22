@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000133000",
-    "uid": "50010000026438",
-    "name": "Safari Quest",
-    "formal_name": "Safari Quest",
-    "description": "The director of her university, Peter\nFalk, has sent the young biologist\nJane on a quest to Africa. Her job?\nTrack down a rare white lion and\nstudy the strange and mysterious\nanimal.\n<br/><br/>\nJane is thrilled – out of the lab and\ninto excitement at last! Soon, she\nfinds herself on a plane bound for\nmatch 3 adventures in Africa. Joining\nher are her animal friends Chippy the\nape, Leo the lion, Heppo the hippo\nand Blacky the Zebra. The hunt for\nthe white lion is more difficult than\nthey had ever imagined – but Jane has\nan ace up her sleeve. She can change\nthe match 3 mode whenever she\nwants, playfully solving even the most\ndevilish puzzles.\n<br/><br/>\nArmed with her journal and camera,\nshe is set to record everything that\nhappens. Thanks to her tablet PC,\nhelp from her boss is always just a tap\naway.\n<br/><br/>\nAre you ready for the adventure of a\nlifetime?\n<br/><br/>\n- 100 challenging levels\n<br/><br/>\n- Freely selectable match 3 modes\n<br/><br/>\n- Your friends help you on your quest\n<br/><br/>\n- Fast-paced match 3 gameplay\n<br/><br/>\n- Easy to get started – hard to stop!",
-    "release_date_on_eshop": "2014-10-16",
-    "product_code": "CTR-N-BSQZ",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000133000",
+  "uid": "50010000026438",
+  "name": "Safari Quest",
+  "formal_name": "Safari Quest",
+  "description": "The director of her university, Peter\nFalk, has sent the young biologist\nJane on a quest to Africa. Her job?\nTrack down a rare white lion and\nstudy the strange and mysterious\nanimal.\n<br/><br/>\nJane is thrilled – out of the lab and\ninto excitement at last! Soon, she\nfinds herself on a plane bound for\nmatch 3 adventures in Africa. Joining\nher are her animal friends Chippy the\nape, Leo the lion, Heppo the hippo\nand Blacky the Zebra. The hunt for\nthe white lion is more difficult than\nthey had ever imagined – but Jane has\nan ace up her sleeve. She can change\nthe match 3 mode whenever she\nwants, playfully solving even the most\ndevilish puzzles.\n<br/><br/>\nArmed with her journal and camera,\nshe is set to record everything that\nhappens. Thanks to her tablet PC,\nhelp from her boss is always just a tap\naway.\n<br/><br/>\nAre you ready for the adventure of a\nlifetime?\n<br/><br/>\n- 100 challenging levels\n<br/><br/>\n- Freely selectable match 3 modes\n<br/><br/>\n- Your friends help you on your quest\n<br/><br/>\n- Fast-paced match 3 gameplay\n<br/><br/>\n- Easy to get started – hard to stop!",
+  "release_date_on_eshop": "2014-10-16",
+  "product_code": "CTR-N-BSQZ",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

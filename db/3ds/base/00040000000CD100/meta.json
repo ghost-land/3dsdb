@@ -1,36 +1,36 @@
 {
-    "tid": "00040000000CD100",
-    "uid": "50010000015098",
-    "name": "Games Festival 2",
-    "formal_name": "Games Festival 2",
-    "description": "Games Festival is back and better\nthan ever!\n<br/><br/>\nIncredible and fun attractions for\nyoung and old, bowling, skeet\nshooting, games of skill and the\nfamous Whack-a-mole!\n<br/><br/>\nOn your own or with your friends, the\nonly thing missing is candyfloss!",
-    "release_date_on_eshop": "2013-10-17",
-    "product_code": "CTR-P-AAFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CD100",
+  "uid": "50010000015098",
+  "name": "Games Festival 2",
+  "formal_name": "Games Festival 2",
+  "description": "Games Festival is back and better\nthan ever!\n<br/><br/>\nIncredible and fun attractions for\nyoung and old, bowling, skeet\nshooting, games of skill and the\nfamous Whack-a-mole!\n<br/><br/>\nOn your own or with your friends, the\nonly thing missing is candyfloss!",
+  "release_date_on_eshop": "2013-10-17",
+  "product_code": "CTR-P-AAFP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

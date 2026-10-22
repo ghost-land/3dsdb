@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000136E00",
-    "uid": "50010000029555",
-    "name": "Citizens of Earth",
-    "formal_name": "Citizens of Earth",
-    "description": "You've just been elected as Vice\nPresident of the World... So what\nnow? Recruit your friends, your\nfamily, and everyone else around town\nto join your party and fight your\nbattles!\n<br/><br/>\nIn this modern-day retro-RPG, you\nhave returned home from the\ncampaign trails for a little\ntaxpayer-funded vacation... to find\nthings have gone mad! Only YOU have\nthe charisma it takes to delegate all\nthe dirty work and save the world. So\ndon't ask what you can do for your\ncountrymen...Ask what your\ncountrymen can do for you!",
-    "release_date_on_eshop": "2015-01-22",
-    "product_code": "CTR-N-JUYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000136E00",
+  "uid": "50010000029555",
+  "name": "Citizens of Earth",
+  "formal_name": "Citizens of Earth",
+  "description": "You've just been elected as Vice\nPresident of the World... So what\nnow? Recruit your friends, your\nfamily, and everyone else around town\nto join your party and fight your\nbattles!\n<br/><br/>\nIn this modern-day retro-RPG, you\nhave returned home from the\ncampaign trails for a little\ntaxpayer-funded vacation... to find\nthings have gone mad! Only YOU have\nthe charisma it takes to delegate all\nthe dirty work and save the world. So\ndon't ask what you can do for your\ncountrymen...Ask what your\ncountrymen can do for you!",
+  "release_date_on_eshop": "2015-01-22",
+  "product_code": "CTR-N-JUYP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

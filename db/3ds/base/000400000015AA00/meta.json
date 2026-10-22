@@ -1,28 +1,28 @@
 {
-    "tid": "000400000015AA00",
-    "uid": "50010000029175",
-    "name": "PUZZLEBOX setup",
-    "formal_name": "PUZZLEBOX setup",
-    "description": "In PUZZLEBOX setup you hold the Nintendo 3DS™ system upside-down. Use the stylus to select a colored tile on the Touch Screen which is then on the upper side. If you release the color the tile falls down in the selected column.<BR>\n<BR>\nLet the matching tiles fall down into the glass bottle on the 3D Screen to copy a painting or to complete a setup.<BR>\n<BR>\nShare High Scores in Miiverse™",
-    "release_date_on_eshop": "2014-12-25",
-    "product_code": "CTR-N-KPBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000015AA00",
+  "uid": "50010000029175",
+  "name": "PUZZLEBOX setup",
+  "formal_name": "PUZZLEBOX setup",
+  "description": "In PUZZLEBOX setup you hold the Nintendo 3DS™ system upside-down. Use the stylus to select a colored tile on the Touch Screen which is then on the upper side. If you release the color the tile falls down in the selected column.<BR>\n<BR>\nLet the matching tiles fall down into the glass bottle on the 3D Screen to copy a painting or to complete a setup.<BR>\n<BR>\nShare High Scores in Miiverse™",
+  "release_date_on_eshop": "2014-12-25",
+  "product_code": "CTR-N-KPBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

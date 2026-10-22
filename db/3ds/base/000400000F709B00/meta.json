@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F709B00",
-    "uid": "50010000042620",
-    "name": "Galaxy Blaster",
-    "formal_name": "Galaxy Blaster",
-    "description": "タッチスクリーンをタッチして前方からくる敵を倒すシューティングゲームですが、ただ連射をすれば良いと言うわけではないシンプルなのに奥が深いゲームです。\n<br>弾丸数に制限はありませんが、敵に当たらずに３発敵陣側（奥側）に当たるとその時点でゲームオーバーになります。無駄打ちせず器用に敵を殲滅していく必要があります。",
-    "release_date_on_eshop": "2017-05-10",
-    "product_code": "KTR-N-CBGJ",
-    "platform_name": "New 3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シューティング",
-        "トレーニング",
-        "アクション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000F709B00",
+  "uid": "50010000042620",
+  "name": "Galaxy Blaster",
+  "formal_name": "Galaxy Blaster",
+  "description": "タッチスクリーンをタッチして前方からくる敵を倒すシューティングゲームですが、ただ連射をすれば良いと言うわけではないシンプルなのに奥が深いゲームです。\n<br>弾丸数に制限はありませんが、敵に当たらずに３発敵陣側（奥側）に当たるとその時点でゲームオーバーになります。無駄打ちせず器用に敵を殲滅していく必要があります。",
+  "release_date_on_eshop": "2017-05-10",
+  "product_code": "KTR-N-CBGJ",
+  "platform_name": "New 3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シューティング",
+    "トレーニング",
+    "アクション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

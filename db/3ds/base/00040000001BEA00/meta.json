@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001BEA00",
-    "uid": "50010000042457",
-    "name": "Ice Station Z",
-    "formal_name": "Ice Station Z",
-    "description": "食べ物や飲み物、医療品や武器、弾薬や衣服、燃料や道具を、さまよい歩いて見つけ出せ。\n<br>シェルターや車両を探せ。\n<br>生存に役に立ちそうな場所を見つけ、昼夜を通して生き残れ。\n<br>シングルプレイ、ローカル&インターネットでのマルチプレイで遊べます（誰とでも、ゲームチャットも楽しめます）。\n<br>友達と、もしくは1人で物資を調達し、魚を釣れ、動物を狩れ、明日命があるかは君次第だ。",
-    "release_date_on_eshop": "2017-04-05",
-    "product_code": "CTR-N-KZSJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "Nintendo Network",
-        "New 3DS対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BEA00",
+  "uid": "50010000042457",
+  "name": "Ice Station Z",
+  "formal_name": "Ice Station Z",
+  "description": "食べ物や飲み物、医療品や武器、弾薬や衣服、燃料や道具を、さまよい歩いて見つけ出せ。\n<br>シェルターや車両を探せ。\n<br>生存に役に立ちそうな場所を見つけ、昼夜を通して生き残れ。\n<br>シングルプレイ、ローカル&インターネットでのマルチプレイで遊べます（誰とでも、ゲームチャットも楽しめます）。\n<br>友達と、もしくは1人で物資を調達し、魚を釣れ、動物を狩れ、明日命があるかは君次第だ。",
+  "release_date_on_eshop": "2017-04-05",
+  "product_code": "CTR-N-KZSJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "Nintendo Network",
+    "New 3DS対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

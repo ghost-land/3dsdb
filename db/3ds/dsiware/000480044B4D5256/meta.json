@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B4D5256",
-    "uid": "50010000004462",
-    "name": "My Farm",
-    "formal_name": "My Farm",
-    "description": "My Farm is a breeding simulation\ngame! At the beginning, all you own is\nan empty field, a few pennies and a\nsingle little hen... You need to feed\nthe hen and take care of it!<br>\n<br>\nThen your hen will lay eggs which\ncan then be sold. And with this\nmoney, you can buy new animals at\nthe Farmers’ Market and purchase\nequipment from the Shopkeeper.<br>\n<br>\nLittle by little as your farm builds up,\nyou will unlock certain bonuses (wind\nturbine, rooster, guard dog, tractor,\netc.). And you will be able to\nexchange your animals with your\nfriends who play My Farm or My\nExotic Farm!<br>\n<br>\n• 6 kinds of animals to customize;\n• Take care of your animals (food,\ncleaning, disease, etc.);\n• Many farm improvements to buy and\nbonuses to collect;\n• Exchange of animals and products\nwith other players.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KMRV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "WIFI"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D5256",
+  "uid": "50010000004462",
+  "name": "My Farm",
+  "formal_name": "My Farm",
+  "description": "My Farm is a breeding simulation\ngame! At the beginning, all you own is\nan empty field, a few pennies and a\nsingle little hen... You need to feed\nthe hen and take care of it!<br>\n<br>\nThen your hen will lay eggs which\ncan then be sold. And with this\nmoney, you can buy new animals at\nthe Farmers’ Market and purchase\nequipment from the Shopkeeper.<br>\n<br>\nLittle by little as your farm builds up,\nyou will unlock certain bonuses (wind\nturbine, rooster, guard dog, tractor,\netc.). And you will be able to\nexchange your animals with your\nfriends who play My Farm or My\nExotic Farm!<br>\n<br>\n• 6 kinds of animals to customize;\n• Take care of your animals (food,\ncleaning, disease, etc.);\n• Many farm improvements to buy and\nbonuses to collect;\n• Exchange of animals and products\nwith other players.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KMRV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "WIFI"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

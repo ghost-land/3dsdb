@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B583545",
-    "uid": "50010000012863",
-    "name": "Snowboard Xtreme",
-    "formal_name": "Snowboard Xtreme",
-    "description": "Plough through the snow in extremely dangerous settings!\n\nSnowboard Xtreme offers a race against the clock through a stage filled with dangers \nin which you will need a lot of skill, because time is not on your side. \n\nTo do so, try to take full advantage of the terrain. You also earn extra time \nby passing through the flags correctly.\n\nBeat your friends and family on the Ranking and reach \nNumber 1.\n\nArcade game.\nLearn to use the snowboard.\nRanking to compete against friends.",
-    "release_date_on_eshop": "2013-01-03",
-    "product_code": "TWL-N-KX5E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Arcade",
-        "Simulation",
-        "Racing"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B583545",
+  "uid": "50010000012863",
+  "name": "Snowboard Xtreme",
+  "formal_name": "Snowboard Xtreme",
+  "description": "Plough through the snow in extremely dangerous settings!\n\nSnowboard Xtreme offers a race against the clock through a stage filled with dangers \nin which you will need a lot of skill, because time is not on your side. \n\nTo do so, try to take full advantage of the terrain. You also earn extra time \nby passing through the flags correctly.\n\nBeat your friends and family on the Ranking and reach \nNumber 1.\n\nArcade game.\nLearn to use the snowboard.\nRanking to compete against friends.",
+  "release_date_on_eshop": "2013-01-03",
+  "product_code": "TWL-N-KX5E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Arcade",
+    "Simulation",
+    "Racing"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

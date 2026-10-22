@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A0E00",
-    "uid": "50010000013831",
-    "name": "Mega Man™ 3",
-    "formal_name": "Mega Man™ 3",
-    "description": "Has Mega Man’s nemesis Dr Wily\nfinally changed his ways? Only time\nwill tell, as Mega Man must deal with\na new threat: eight fiendish robot\nmasters lurking in eight new\nchallenging stages of platform-shooter\nperfection!\n<br/><br/>\nThis NES™ classic expanded upon the\nhit formula with two game-changing\nadditions. Mega Man can now slide as\nwell as run; giving him unprecedented\nmanoeuvrability.\n<br/><br/>\nHe also has a new sidekick, Rush the\nrobot dog, who brings new abilities,\nlike a jet or submarine, aiding Mega\nMan in his mission.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-TBCP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A0E00",
+  "uid": "50010000013831",
+  "name": "Mega Man™ 3",
+  "formal_name": "Mega Man™ 3",
+  "description": "Has Mega Man’s nemesis Dr Wily\nfinally changed his ways? Only time\nwill tell, as Mega Man must deal with\na new threat: eight fiendish robot\nmasters lurking in eight new\nchallenging stages of platform-shooter\nperfection!\n<br/><br/>\nThis NES™ classic expanded upon the\nhit formula with two game-changing\nadditions. Mega Man can now slide as\nwell as run; giving him unprecedented\nmanoeuvrability.\n<br/><br/>\nHe also has a new sidekick, Rush the\nrobot dog, who brings new abilities,\nlike a jet or submarine, aiding Mega\nMan in his mission.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-TBCP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

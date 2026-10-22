@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B514145",
-    "uid": "50010000003180",
-    "name": "Arctic Escape",
-    "formal_name": "Arctic Escape",
-    "description": "Take control of a bunch of penguins always getting into all sorts of trouble all the time! They were abducted from Antarctica by a cunning scientist and now they need your help to go back home. Lead them safely through over 100 frosty levels by placing commands such as walking, jumping or waiting. Without you they have no chance of survival so guide them to avoid broken ice areas, falling cages, wolves and other dangerous obstacles. This special top-down view puzzle is easy to pick up but impossible to put down! \n",
-    "release_date_on_eshop": "2011-02-21",
-    "product_code": "TWL-N-KQAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514145",
+  "uid": "50010000003180",
+  "name": "Arctic Escape",
+  "formal_name": "Arctic Escape",
+  "description": "Take control of a bunch of penguins always getting into all sorts of trouble all the time! They were abducted from Antarctica by a cunning scientist and now they need your help to go back home. Lead them safely through over 100 frosty levels by placing commands such as walking, jumping or waiting. Without you they have no chance of survival so guide them to avoid broken ice areas, falling cages, wolves and other dangerous obstacles. This special top-down view puzzle is easy to pick up but impossible to put down! \n",
+  "release_date_on_eshop": "2011-02-21",
+  "product_code": "TWL-N-KQAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

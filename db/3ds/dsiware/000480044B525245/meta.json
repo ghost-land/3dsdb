@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B525245",
-    "uid": "50010000012050",
-    "name": "Robot Rescue 2",
-    "formal_name": "Robot Rescue 2",
-    "description": "If you’re tired of “brain-bending logic games” that your kid brother can solve, it’s time for Robot Rescue 2! The rules may be simple, but finding success? Not so much. Your mission: navigate a cadre of codependent robots through an evil computer labyrinth brimming with deadly traps. Additionally, at certain points you’ll need to repaint your robots by stepping on a special tile in order to change their color. Only then will they be able to access the right exit or passage. Oh, and did we mention that the robots share linked controls? Moving one moves them all! Bust out your best thinking cap: it’ll take patience, planning and nerves of titanium to see your robots safely home!\n\n- 60 levels of diabolical deviousness with increasing difficulty! \n- Tons of hostile traps: mines, electrical circuits, glue stains, teleports and clone machines! Plus, robot repainting required! \n- The rules are simple. The solutions aren’t!\n- An absorbing, cerebral workout not for the faint of heart!",
-    "release_date_on_eshop": "2012-10-11",
-    "product_code": "TWL-N-KRRE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525245",
+  "uid": "50010000012050",
+  "name": "Robot Rescue 2",
+  "formal_name": "Robot Rescue 2",
+  "description": "If you’re tired of “brain-bending logic games” that your kid brother can solve, it’s time for Robot Rescue 2! The rules may be simple, but finding success? Not so much. Your mission: navigate a cadre of codependent robots through an evil computer labyrinth brimming with deadly traps. Additionally, at certain points you’ll need to repaint your robots by stepping on a special tile in order to change their color. Only then will they be able to access the right exit or passage. Oh, and did we mention that the robots share linked controls? Moving one moves them all! Bust out your best thinking cap: it’ll take patience, planning and nerves of titanium to see your robots safely home!\n\n- 60 levels of diabolical deviousness with increasing difficulty! \n- Tons of hostile traps: mines, electrical circuits, glue stains, teleports and clone machines! Plus, robot repainting required! \n- The rules are simple. The solutions aren’t!\n- An absorbing, cerebral workout not for the faint of heart!",
+  "release_date_on_eshop": "2012-10-11",
+  "product_code": "TWL-N-KRRE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

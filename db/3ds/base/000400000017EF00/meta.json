@@ -1,33 +1,33 @@
 {
-    "tid": "000400000017EF00",
-    "uid": "50010000040720",
-    "name": "LEGO® Star Wars™:\nDas Erwachen der Macht",
-    "formal_name": "LEGO® Star Wars™:\nDas Erwachen der Macht",
-    "description": "LEGO® Star Wars™: Das Erwachen\nder Macht ist die triumphale\nRückkehr des bestverkauften LEGO®\nVideospiel-Franchise und lässt die\nFans den neuen Star Wars™-Filmerfolg\nwie nie zuvor als Spiel erleben. Die\nSpieler erleben die epischen Abenteuer\ndes Films auf humorvolle Art und\nWeise erneut, wie es nur in einem\nLEGO® Spiel möglich ist. Alle\nHandlungsstränge von Star Wars™:\nDas Erwachen der Macht werden im\ncleveren LEGO® Stil neu erzählt. Das\nSpiel enthält zudem exklusive,\nspielbare Inhalte, durch die die Spieler\nAbenteuer erleben, die zwischen Star\nWars™: Die Rückkehr der Jedi-Ritter™\nund Star Wars™: Das Erwachen der\nMacht stattfinden. So erhalten sie\nweitere Einsichten in den neuen Film\nund seine Charaktere.",
-    "release_date_on_eshop": "2016-06-28",
-    "product_code": "CTR-P-BLWD",
-    "platform_name": "Nintendo 3DS (Karte/Download)",
-    "region": "Germany",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "3D-Darstellung wird verwendet"
-    ],
-    "languages": [
-        "Englisch",
-        "Spanisch",
-        "Französisch",
-        "Deutsch",
-        "Italienisch",
-        "Niederländisch"
-    ],
-    "rating_system": {
-        "name": "USK",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": "*Spiel enthält deutsche\nSprachausgabe.",
-    "descriptors": []
+  "tid": "000400000017EF00",
+  "uid": "50010000040720",
+  "name": "LEGO® Star Wars™:\nDas Erwachen der Macht",
+  "formal_name": "LEGO® Star Wars™:\nDas Erwachen der Macht",
+  "description": "LEGO® Star Wars™: Das Erwachen\nder Macht ist die triumphale\nRückkehr des bestverkauften LEGO®\nVideospiel-Franchise und lässt die\nFans den neuen Star Wars™-Filmerfolg\nwie nie zuvor als Spiel erleben. Die\nSpieler erleben die epischen Abenteuer\ndes Films auf humorvolle Art und\nWeise erneut, wie es nur in einem\nLEGO® Spiel möglich ist. Alle\nHandlungsstränge von Star Wars™:\nDas Erwachen der Macht werden im\ncleveren LEGO® Stil neu erzählt. Das\nSpiel enthält zudem exklusive,\nspielbare Inhalte, durch die die Spieler\nAbenteuer erleben, die zwischen Star\nWars™: Die Rückkehr der Jedi-Ritter™\nund Star Wars™: Das Erwachen der\nMacht stattfinden. So erhalten sie\nweitere Einsichten in den neuen Film\nund seine Charaktere.",
+  "release_date_on_eshop": "2016-06-28",
+  "product_code": "CTR-P-BLWD",
+  "platform_name": "Nintendo 3DS (Karte/Download)",
+  "region": "Germany",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "3D-Darstellung wird verwendet"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "USK",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": "*Spiel enthält deutsche\nSprachausgabe.",
+  "descriptors": []
 }

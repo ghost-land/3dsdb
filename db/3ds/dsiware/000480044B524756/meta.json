@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B524756",
-    "uid": "50010000006121",
-    "name": "Tales in a Box:\nHidden shapes in perspective!™",
-    "formal_name": "Tales in a Box:\nHidden shapes in perspective!™",
-    "description": "In Tales in a Box, discover a new\nslant on hidden-object games! Via\nclever use of the Nintendo DSi\nsystem’s inner camera, you can peer\n‘into’ the screen, tilting your head to\nview a scene from different angles,\ncreating an impression of real depth.<br>\n<br>\nJourney through a fairy-tale world\npopulated by characters from famous\nfolk stories, and search each themed\ndiorama by looking around from all\nangles to find hidden letters and\nobjects.<br>\n<br>\nAs you collect letters and objects,\nyou will meet new characters and form\nwords that will open new stages with\neven more hidden items to find. Some\nstages contain secret pictures, testing\nyour observation skills even further.<br>\n<br>\nPlayers of all ages will be amazed by\nthis unique visual spectacle, where a\nsimple-looking picture can reveal a\nwhole world of stories, if you just\nknow where to look!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KRGV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B524756",
+  "uid": "50010000006121",
+  "name": "Tales in a Box:\nHidden shapes in perspective!™",
+  "formal_name": "Tales in a Box:\nHidden shapes in perspective!™",
+  "description": "In Tales in a Box, discover a new\nslant on hidden-object games! Via\nclever use of the Nintendo DSi\nsystem’s inner camera, you can peer\n‘into’ the screen, tilting your head to\nview a scene from different angles,\ncreating an impression of real depth.<br>\n<br>\nJourney through a fairy-tale world\npopulated by characters from famous\nfolk stories, and search each themed\ndiorama by looking around from all\nangles to find hidden letters and\nobjects.<br>\n<br>\nAs you collect letters and objects,\nyou will meet new characters and form\nwords that will open new stages with\neven more hidden items to find. Some\nstages contain secret pictures, testing\nyour observation skills even further.<br>\n<br>\nPlayers of all ages will be amazed by\nthis unique visual spectacle, where a\nsimple-looking picture can reveal a\nwhole world of stories, if you just\nknow where to look!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KRGV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

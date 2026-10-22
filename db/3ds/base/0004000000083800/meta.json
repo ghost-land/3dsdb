@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000083800",
-    "uid": "50010000009846",
-    "name": "Ketzal's Corridors™",
-    "formal_name": "Ketzal's Corridors™",
-    "description": "Use speed, skill, and lightning-fast reflexes to save the spirit world from destruction in this engaging, action-packed puzzle game in which a variety of compelling spatial challenges await! Rotate and maneuver block-shaped Guardians to explore sacred shrines and climb towers that reach high above the clouds. Face adrenaline-fueled races against the clock, cerebral shape-matching missions, and mazes that you’ll need a sharp memory to escape. The evil god Koruptal has brought chaos and destruction to the spirit world, and it’s up to you to put things right!\n<br><br>\nThree player-vs.-player modes and 96 replayable, fast-paced, 3D single-player stages offer a wealth of puzzle-packed excitement, only available on the Nintendo 3DS system!",
-    "release_date_on_eshop": "2012-04-12",
-    "product_code": "CTR-N-JELE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000083800",
+  "uid": "50010000009846",
+  "name": "Ketzal's Corridors™",
+  "formal_name": "Ketzal's Corridors™",
+  "description": "Use speed, skill, and lightning-fast reflexes to save the spirit world from destruction in this engaging, action-packed puzzle game in which a variety of compelling spatial challenges await! Rotate and maneuver block-shaped Guardians to explore sacred shrines and climb towers that reach high above the clouds. Face adrenaline-fueled races against the clock, cerebral shape-matching missions, and mazes that you’ll need a sharp memory to escape. The evil god Koruptal has brought chaos and destruction to the spirit world, and it’s up to you to put things right!\n<br><br>\nThree player-vs.-player modes and 96 replayable, fast-paced, 3D single-player stages offer a wealth of puzzle-packed excitement, only available on the Nintendo 3DS system!",
+  "release_date_on_eshop": "2012-04-12",
+  "product_code": "CTR-N-JELE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

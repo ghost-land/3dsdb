@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000042500",
-    "uid": "50010000007042",
-    "name": "Game & Watch™ Gallery",
-    "formal_name": "Game & Watch™ Gallery",
-    "description": "Game & Watch Gallery is a revival\nof the classics: four masterpieces\nfrom the Game & Watch series!<br>\n<br>\nManhole:\nKeep up with the moving pedestrians\nand do not allow them to fall into\nuncovered manholes.<br>\n<br>\nFire:\nThe building is on fire! Can you safely\nbounce the escapees to the\nambulance?<br>\n<br>\nOctopus:\nAvoid the tentacles and dive\ndown to the treasure stowed in the\nchest.<br>\n<br>\nOil Panic:\nThe pipes are leaking! Catch the\ndripping oil and find a way to get\nrid of it.<br>\n<br>\nBesides the Classic Mode, all games\ncan be played in the exciting Modern\nMode that combines the simple\nmovements of the original games with\nnew graphics featuring your favourite\nNintendo characters!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAKP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000042500",
+  "uid": "50010000007042",
+  "name": "Game & Watch™ Gallery",
+  "formal_name": "Game & Watch™ Gallery",
+  "description": "Game & Watch Gallery is a revival\nof the classics: four masterpieces\nfrom the Game & Watch series!<br>\n<br>\nManhole:\nKeep up with the moving pedestrians\nand do not allow them to fall into\nuncovered manholes.<br>\n<br>\nFire:\nThe building is on fire! Can you safely\nbounce the escapees to the\nambulance?<br>\n<br>\nOctopus:\nAvoid the tentacles and dive\ndown to the treasure stowed in the\nchest.<br>\n<br>\nOil Panic:\nThe pipes are leaking! Catch the\ndripping oil and find a way to get\nrid of it.<br>\n<br>\nBesides the Classic Mode, all games\ncan be played in the exciting Modern\nMode that combines the simple\nmovements of the original games with\nnew graphics featuring your favourite\nNintendo characters!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAKP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

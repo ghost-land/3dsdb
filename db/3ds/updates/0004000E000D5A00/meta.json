@@ -1,27 +1,27 @@
 {
-    "tid": "0004000E000D5A00",
-    "uid": "50010000016233",
-    "name": "Mario & Luigi™: Dream Team\nUpdate",
-    "formal_name": "Mario & Luigi™: Dream Team Update",
-    "description": "Updated data for Nintendo 3DS title Mario & Luigi™: Dream Team.\n<br><br>\nIf you own Mario & Luigi™: Dream Team, you should download this update.\n<br><br>\nUpdate Content:\n<br><br>\nFixes a bug that occurs on Mount Pajamaja where the Massifs use a spin jump to break icicles. This bug makes it impossible to proceed past this point if the player takes certain actions.\n<br><br>\nFixes a bug that prevents the player from finishing the final battle with Antasma.\n<br><br>\nFixes other issues so that the game plays as intended.",
-    "release_date_on_eshop": "2013-09-03",
-    "product_code": "CTR-U-AYME",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "Updated data for Nintendo 3DS title Mario & Luigi™: Dream Team.\n<br><br>\nAfter the download, the icon for this data won't appear on the Nintendo 3DS HOME Menu. The data will instead appear in System Settings under Extra Data, so please don't delete it.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E000D5A00",
+  "uid": "50010000016233",
+  "name": "Mario & Luigi™: Dream Team\nUpdate",
+  "formal_name": "Mario & Luigi™: Dream Team Update",
+  "description": "Updated data for Nintendo 3DS title Mario & Luigi™: Dream Team.\n<br><br>\nIf you own Mario & Luigi™: Dream Team, you should download this update.\n<br><br>\nUpdate Content:\n<br><br>\nFixes a bug that occurs on Mount Pajamaja where the Massifs use a spin jump to break icicles. This bug makes it impossible to proceed past this point if the player takes certain actions.\n<br><br>\nFixes a bug that prevents the player from finishing the final battle with Antasma.\n<br><br>\nFixes other issues so that the game plays as intended.",
+  "release_date_on_eshop": "2013-09-03",
+  "product_code": "CTR-U-AYME",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "Updated data for Nintendo 3DS title Mario & Luigi™: Dream Team.\n<br><br>\nAfter the download, the icon for this data won't appear on the Nintendo 3DS HOME Menu. The data will instead appear in System Settings under Extra Data, so please don't delete it.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,35 +1,35 @@
 {
-    "tid": "000480044B514250",
-    "uid": "50010000009181",
-    "name": "Box Pusher",
-    "formal_name": "Box Pusher",
-    "description": "Push! In this classic puzzle game you\nplay a warehouse worker who has to\nmove boxes to the correct locations.\nSounds easy?<br>\n<br>\nProve you have the brain power to\nsolve over 250 missions and master\nall situations with the correct\nstrategy.<br>\n<br>\nFunny animations, zoomable playing\narea and unlimited undo will help you\nwith these brain-teasers.<br>\n<br>\nPlay with friends in multiplayer or\nmake and exchange your own levels.\nThis puzzler will captivate you.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KQBP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Education",
-        "Board Game"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514250",
+  "uid": "50010000009181",
+  "name": "Box Pusher",
+  "formal_name": "Box Pusher",
+  "description": "Push! In this classic puzzle game you\nplay a warehouse worker who has to\nmove boxes to the correct locations.\nSounds easy?<br>\n<br>\nProve you have the brain power to\nsolve over 250 missions and master\nall situations with the correct\nstrategy.<br>\n<br>\nFunny animations, zoomable playing\narea and unlimited undo will help you\nwith these brain-teasers.<br>\n<br>\nPlay with friends in multiplayer or\nmake and exchange your own levels.\nThis puzzler will captivate you.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KQBP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Education",
+    "Board Game"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

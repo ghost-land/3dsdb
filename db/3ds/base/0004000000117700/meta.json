@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000117700",
-    "uid": "50010000018739",
-    "name": "101 Penguin Pets 3D",
-    "formal_name": "101 Penguin Pets 3D",
-    "description": "There's nothing better than a pet\npenguin! With 101 Penguin Pets 3D,\nyou can have your very own penguin\nfriend to pamper, play with and love,\nall in amazing 3D. Teach your penguin\nto breakdance, dress it up in hilarious\nclothes, and enjoy fun minigames as\nyou take your penguin to the vet, give\nit a bath, go skiing and more. You'll\nnever be bored with over 101 penguin\nfriends to groom, pamper, play with\nand love!",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JP8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Lifestyle",
-        "Puzzle",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000117700",
+  "uid": "50010000018739",
+  "name": "101 Penguin Pets 3D",
+  "formal_name": "101 Penguin Pets 3D",
+  "description": "There's nothing better than a pet\npenguin! With 101 Penguin Pets 3D,\nyou can have your very own penguin\nfriend to pamper, play with and love,\nall in amazing 3D. Teach your penguin\nto breakdance, dress it up in hilarious\nclothes, and enjoy fun minigames as\nyou take your penguin to the vet, give\nit a bath, go skiing and more. You'll\nnever be bored with over 101 penguin\nfriends to groom, pamper, play with\nand love!",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JP8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Lifestyle",
+    "Puzzle",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

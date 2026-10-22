@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000107900",
-    "uid": "50010000017954",
-    "name": "Word Wizard 3D",
-    "formal_name": "Word Wizard 3D",
-    "description": "WORD WIZARD 3D Is a collection of classic word games. The player is invited to create, compose and find words in addictive and absorbing gameplay. Levels of difficulty naturally increase as the players advance through the game making it suitable for all ages.",
-    "release_date_on_eshop": "2013-11-14",
-    "product_code": "CTR-N-AWWZ",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Strategy",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000107900",
+  "uid": "50010000017954",
+  "name": "Word Wizard 3D",
+  "formal_name": "Word Wizard 3D",
+  "description": "WORD WIZARD 3D Is a collection of classic word games. The player is invited to create, compose and find words in addictive and absorbing gameplay. Levels of difficulty naturally increase as the players advance through the game making it suitable for all ages.",
+  "release_date_on_eshop": "2013-11-14",
+  "product_code": "CTR-N-AWWZ",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Strategy",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

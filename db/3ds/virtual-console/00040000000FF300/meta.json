@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000FF300",
-    "uid": "50010000025635",
-    "name": "Street Fighter 2010:\nThe Final Fight",
-    "formal_name": "Street Fighter 2010: The Final Fight",
-    "description": "Retirement has never been so short lived for this fighter.\n<br><br>\nIt has been 25 years since Ken left the glory days of his fighting career. Since then, he has been working with his friend Troy to create \"Cyboplasm\"–an innovative formula that can turn ordinary humans into superbeings of incredible strength. But one day, Ken arrives at their lab to find the formula stolen and a pile of jelly where he should have found Troy...\n<br><br>\nNavigate across the galaxy as Ken follows the trail of his friend's murderer. Jump, climb, and fight your way past monstrous enemies as you complete the objective for each stage. Just like in his days in the Street Fighter world, Ken can punch and kick his way through danger, but he can also fire power shots from a distance. Will Ken be able to find justice at the end of his journey?",
-    "release_date_on_eshop": "2014-09-04",
-    "product_code": "CTR-N-TDWE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000FF300",
+  "uid": "50010000025635",
+  "name": "Street Fighter 2010:\nThe Final Fight",
+  "formal_name": "Street Fighter 2010: The Final Fight",
+  "description": "Retirement has never been so short lived for this fighter.\n<br><br>\nIt has been 25 years since Ken left the glory days of his fighting career. Since then, he has been working with his friend Troy to create \"Cyboplasm\"–an innovative formula that can turn ordinary humans into superbeings of incredible strength. But one day, Ken arrives at their lab to find the formula stolen and a pile of jelly where he should have found Troy...\n<br><br>\nNavigate across the galaxy as Ken follows the trail of his friend's murderer. Jump, climb, and fight your way past monstrous enemies as you complete the objective for each stage. Just like in his days in the Street Fighter world, Ken can punch and kick his way through danger, but he can also fire power shots from a distance. Will Ken be able to find justice at the end of his journey?",
+  "release_date_on_eshop": "2014-09-04",
+  "product_code": "CTR-N-TDWE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000099900",
-    "uid": "50010000013231",
-    "name": "Mega Man™ 2",
-    "formal_name": "Mega Man™ 2",
-    "description": "Original Release Date:  June 1989\n<br><br>\nMega Man 2 is widely regarded by fans as one of the greatest action games of all time. With even more stages and Robot Master bosses than the previous installment, its sheer size and scope is enough to get any action gamer's heart palpitating.\n<br><br>\nThe year is 200X. Dr. Light's super robot, Mega Man, had succeeded in smashing the evil ambition of the nefarious Dr. Wily, and peace reigns over the planet. However, Dr. Wily proves to be a hard man to keep down, and has returned with a new army of Robot Masters in tow to challenge our hero. Can Mega Man save the world again?",
-    "release_date_on_eshop": "2013-02-07",
-    "product_code": "CTR-N-TA5E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000099900",
+  "uid": "50010000013231",
+  "name": "Mega Man™ 2",
+  "formal_name": "Mega Man™ 2",
+  "description": "Original Release Date:  June 1989\n<br><br>\nMega Man 2 is widely regarded by fans as one of the greatest action games of all time. With even more stages and Robot Master bosses than the previous installment, its sheer size and scope is enough to get any action gamer's heart palpitating.\n<br><br>\nThe year is 200X. Dr. Light's super robot, Mega Man, had succeeded in smashing the evil ambition of the nefarious Dr. Wily, and peace reigns over the planet. However, Dr. Wily proves to be a hard man to keep down, and has returned with a new army of Robot Masters in tow to challenge our hero. Can Mega Man save the world again?",
+  "release_date_on_eshop": "2013-02-07",
+  "product_code": "CTR-N-TA5E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

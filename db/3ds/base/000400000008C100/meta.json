@@ -1,29 +1,29 @@
 {
-    "tid": "000400000008C100",
-    "uid": "50010000011188",
-    "name": "3D Solitaire",
-    "formal_name": "3D Solitaire",
-    "description": "3D Solitaire for the Nintendo 3DS brings the classic game of Solitaire to beautiful stereoscopic 3D environments. Featuring easy pick-up-and-play action, 3D Solitaire stacks the deck in three beautiful 3D environments! Players can unlock a user photo mode allowing them to use their own pictures as backgrounds for the game for a more customized look.\n<br><br>\n3D Solitaire can be played on the top screen in brilliant 3D or on the touch screen with the stylus for a more hands-on approach. Unlock rewards and play in two different modes for a fun solitaire experience fit for all ages and skill levels.",
-    "release_date_on_eshop": "2012-08-02",
-    "product_code": "CTR-N-JSLE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000008C100",
+  "uid": "50010000011188",
+  "name": "3D Solitaire",
+  "formal_name": "3D Solitaire",
+  "description": "3D Solitaire for the Nintendo 3DS brings the classic game of Solitaire to beautiful stereoscopic 3D environments. Featuring easy pick-up-and-play action, 3D Solitaire stacks the deck in three beautiful 3D environments! Players can unlock a user photo mode allowing them to use their own pictures as backgrounds for the game for a more customized look.\n<br><br>\n3D Solitaire can be played on the top screen in brilliant 3D or on the touch screen with the stylus for a more hands-on approach. Unlock rewards and play in two different modes for a fun solitaire experience fit for all ages and skill levels.",
+  "release_date_on_eshop": "2012-08-02",
+  "product_code": "CTR-N-JSLE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

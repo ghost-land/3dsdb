@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000ED400",
-    "uid": "50010000015534",
-    "name": "SteamWorld Dig",
-    "formal_name": "SteamWorld Dig",
-    "description": "10/10 - \"...an utterly phenomenal\nvideo game.\" - PocketGamer.co.uk\n \n9/10 - \"A totally unexpected love\nletter to bold concepts.\" -\nNintendoWorldReport.com\n \n9/10 - \"...super-fun, addictive and\ninspired gameified manual labour...\" -\nGamesBlip.com\n\nSteamWorld Dig is a platform mining\nadventure. Take the role as Rusty, a\nlone mining steambot, as he arrives to\nan old mining town in great need. Dig\nyour way through the old earth,\ngaining riches while uncovering the\nancient threat that lurks below...\n<br/><br/>\n* Explore an underground world full\nof secrets, treasure and terrors.\n<br/><br/>\n* Uncover the remnants of Human\ncivilization, a degenerate race of\ndynamite-wielding troglodytes.\n<br/><br/>\n* High-res graphics with dynamic\nlights and parallaxed background\nlayers.",
-    "release_date_on_eshop": "2013-08-07",
-    "product_code": "CTR-N-JSTP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000ED400",
+  "uid": "50010000015534",
+  "name": "SteamWorld Dig",
+  "formal_name": "SteamWorld Dig",
+  "description": "10/10 - \"...an utterly phenomenal\nvideo game.\" - PocketGamer.co.uk\n \n9/10 - \"A totally unexpected love\nletter to bold concepts.\" -\nNintendoWorldReport.com\n \n9/10 - \"...super-fun, addictive and\ninspired gameified manual labour...\" -\nGamesBlip.com\n\nSteamWorld Dig is a platform mining\nadventure. Take the role as Rusty, a\nlone mining steambot, as he arrives to\nan old mining town in great need. Dig\nyour way through the old earth,\ngaining riches while uncovering the\nancient threat that lurks below...\n<br/><br/>\n* Explore an underground world full\nof secrets, treasure and terrors.\n<br/><br/>\n* Uncover the remnants of Human\ncivilization, a degenerate race of\ndynamite-wielding troglodytes.\n<br/><br/>\n* High-res graphics with dynamic\nlights and parallaxed background\nlayers.",
+  "release_date_on_eshop": "2013-08-07",
+  "product_code": "CTR-N-JSTP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

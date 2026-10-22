@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4B5650",
-    "uid": "50010000009022",
-    "name": "Successfully Learning\nMathematics Year 3",
-    "formal_name": "Successfully Learning\nMathematics Year 3",
-    "description": "In \"Successfully Learning:\nMathematics, Year 3\", pupils will\nsolve exciting maths problems with the\nlittle vampire Freddy to learn maths in\na playful way. The little vampire\nFreddy motivates the children and\nhelps with tips.<br>\n<br>\nAll problems are based on the current\ncurriculum for maths.<br>\n<br>\nYou can play \"Successfully Learning:\nMathematics, Year 3\" in German,\nEnglish, Spanish, French, Italian and\nTurkish.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KKVP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B5650",
+  "uid": "50010000009022",
+  "name": "Successfully Learning\nMathematics Year 3",
+  "formal_name": "Successfully Learning\nMathematics Year 3",
+  "description": "In \"Successfully Learning:\nMathematics, Year 3\", pupils will\nsolve exciting maths problems with the\nlittle vampire Freddy to learn maths in\na playful way. The little vampire\nFreddy motivates the children and\nhelps with tips.<br>\n<br>\nAll problems are based on the current\ncurriculum for maths.<br>\n<br>\nYou can play \"Successfully Learning:\nMathematics, Year 3\" in German,\nEnglish, Spanish, French, Italian and\nTurkish.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KKVP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

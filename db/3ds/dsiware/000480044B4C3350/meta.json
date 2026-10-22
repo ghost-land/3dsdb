@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B4C3350",
-    "uid": "50010000007198",
-    "name": "My Asian Farm",
-    "formal_name": "My Asian Farm",
-    "description": "My Asian Farm is a breeding simulation\ngame! At the beginning, all you own is\nan empty field, a few yuans and a\nsingle little hen. You need to feed the\nhen and take care of it!<br>\n<br>\nThen your hen will lay eggs which can\nthen be sold and with this money, you\ncan buy new animals at the\nFarmers’ Market and purchase\nequipment from the Shopkeeper.<br>\n<br>\nLittle by little as your farm builds up,\nyou will unlock certain bonuses\n(a pagoda, a rickshaw, a guard dog,\netc.) and you will be able to exchange\nyour animals with your friends who\nplay My Farm, My Exotic Farm,\nMy Asian farm or My Australian Farm!<br>\n<br>\n• 6 kinds of animals to customise\n• Take care of your animals (feed,\nclean, protect, etc.)\n• Many farm improvements to buy and\nbonuses to collect\n• Exchange of animals with other\nplayers<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KL3P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Lifestyle"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C3350",
+  "uid": "50010000007198",
+  "name": "My Asian Farm",
+  "formal_name": "My Asian Farm",
+  "description": "My Asian Farm is a breeding simulation\ngame! At the beginning, all you own is\nan empty field, a few yuans and a\nsingle little hen. You need to feed the\nhen and take care of it!<br>\n<br>\nThen your hen will lay eggs which can\nthen be sold and with this money, you\ncan buy new animals at the\nFarmers’ Market and purchase\nequipment from the Shopkeeper.<br>\n<br>\nLittle by little as your farm builds up,\nyou will unlock certain bonuses\n(a pagoda, a rickshaw, a guard dog,\netc.) and you will be able to exchange\nyour animals with your friends who\nplay My Farm, My Exotic Farm,\nMy Asian farm or My Australian Farm!<br>\n<br>\n• 6 kinds of animals to customise\n• Take care of your animals (feed,\nclean, protect, etc.)\n• Many farm improvements to buy and\nbonuses to collect\n• Exchange of animals with other\nplayers<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KL3P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Lifestyle"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

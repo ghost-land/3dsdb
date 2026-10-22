@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000138C00",
-    "uid": "50010000023522",
-    "name": "Me & My Pets 3D",
-    "formal_name": "Me & My Pets 3D",
-    "description": "All your favorite pets are happily waiting for you!\n<br>\n<br>Pamper them, offer them a comfortable home and entertain them with funny minigames.\n<br>\n<br>- Care for dogs, cats, horses, rabbits, guinea pigs, birds and fishes!\n<br>\n<br>- Have fun in minigames like feeding, playing, stroking, brushing, grooming or going for a walk.\n<br>\n<br>- Enjoy exciting horse rides on the back of a Haflinger, Arabian & Co. using the amazing gyroscope controls of your Nintendo 3DS™.\n<br>\n<br>- Upgrade your compounds and keep an eye on the individual needs of each animal.\n<br>\n<br>- Visit the store and buy food, medicine, toys or accessories for your pets.\n<br>\n<br>- Collect Play Coins and spend them in the pet store.\n<br>\n<br>- Earn stars by mastering your tasks very well and change them into great ingame extras.\n<br>\n<br>- Supports Circle Pad controls of your Nintendo 3DS™.\n<br>\n<br>- 3D photo feature: Take a real 3D photo of yourself and use it in the game.",
-    "release_date_on_eshop": "2014-08-14",
-    "product_code": "CTR-P-BM3P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Education",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000138C00",
+  "uid": "50010000023522",
+  "name": "Me & My Pets 3D",
+  "formal_name": "Me & My Pets 3D",
+  "description": "All your favorite pets are happily waiting for you!\n<br>\n<br>Pamper them, offer them a comfortable home and entertain them with funny minigames.\n<br>\n<br>- Care for dogs, cats, horses, rabbits, guinea pigs, birds and fishes!\n<br>\n<br>- Have fun in minigames like feeding, playing, stroking, brushing, grooming or going for a walk.\n<br>\n<br>- Enjoy exciting horse rides on the back of a Haflinger, Arabian & Co. using the amazing gyroscope controls of your Nintendo 3DS™.\n<br>\n<br>- Upgrade your compounds and keep an eye on the individual needs of each animal.\n<br>\n<br>- Visit the store and buy food, medicine, toys or accessories for your pets.\n<br>\n<br>- Collect Play Coins and spend them in the pet store.\n<br>\n<br>- Earn stars by mastering your tasks very well and change them into great ingame extras.\n<br>\n<br>- Supports Circle Pad controls of your Nintendo 3DS™.\n<br>\n<br>- 3D photo feature: Take a real 3D photo of yourself and use it in the game.",
+  "release_date_on_eshop": "2014-08-14",
+  "product_code": "CTR-P-BM3P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Education",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

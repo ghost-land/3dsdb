@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000E5A00",
-    "uid": "50010000015097",
-    "name": "Robot Rescue 3D",
-    "formal_name": "Robot Rescue 3D",
-    "description": "Guide trapped robots through\ntreacherous passages, staying clear of\nparalyzing electrical circuits and\nsliding past sleeping mines! Interact\nwith tiles to open doors and repaint\nyour dopey robots different colors in\norder for them to escape through the\nright exit. Be warned! Each and every\nrobot shares linked controls\ngenerating totally synchronized\nmovements for an even wackier\nescape plan! This latest edition to the\nRobot Rescue franchise brings\ntogether a MEGA pack containing\nlevels from previous releases and\nadditional, never before seen stages!\n<br/><br/>\n• Over 120 perplexing and\nbrain-bending levels to complete\n<br/><br/>\n• Up to 30 robots trapped in one\nlevel at a time\n<br/><br/>\n• Multitudes of obstacles, hindering\nan easy escape\n<br/><br/>\n• A uniquely challenging puzzle for\neveryone!",
-    "release_date_on_eshop": "2013-07-18",
-    "product_code": "CTR-N-JRQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E5A00",
+  "uid": "50010000015097",
+  "name": "Robot Rescue 3D",
+  "formal_name": "Robot Rescue 3D",
+  "description": "Guide trapped robots through\ntreacherous passages, staying clear of\nparalyzing electrical circuits and\nsliding past sleeping mines! Interact\nwith tiles to open doors and repaint\nyour dopey robots different colors in\norder for them to escape through the\nright exit. Be warned! Each and every\nrobot shares linked controls\ngenerating totally synchronized\nmovements for an even wackier\nescape plan! This latest edition to the\nRobot Rescue franchise brings\ntogether a MEGA pack containing\nlevels from previous releases and\nadditional, never before seen stages!\n<br/><br/>\n• Over 120 perplexing and\nbrain-bending levels to complete\n<br/><br/>\n• Up to 30 robots trapped in one\nlevel at a time\n<br/><br/>\n• Multitudes of obstacles, hindering\nan easy escape\n<br/><br/>\n• A uniquely challenging puzzle for\neveryone!",
+  "release_date_on_eshop": "2013-07-18",
+  "product_code": "CTR-N-JRQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

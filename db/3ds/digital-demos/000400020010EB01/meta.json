@@ -1,28 +1,28 @@
 {
-    "tid": "000400020010EB01",
-    "uid": "50010000019554",
-    "name": "Etrian Odyssey™ Untold:\nThe Millennium Girl",
-    "formal_name": "Etrian Odyssey™ Untold:\nThe Millennium Girl",
-    "description": "Etria is a land that has long\nwelcomed explorers, yet even they\nwill discover stories untold. In Story\nmode, you will encounter the mystery\nof the maiden who has lived a\nthousand years.\n<br/><br/>\nShould you brave Classic mode,\nyou'll experience the beautifully\nupgraded version of the original Etrian\nadventure, with new 3D graphics and\ngameplay improvements.",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-P-BSKP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": "Warning: Viewing of 3D images by\nchildren 6 and under may cause vision\ndamage. Use the parental control\nfeature to restrict the display of 3D\nimages for children 6 and under.\n<br/><br/>\nWarning: If you have epilepsy or have\nhad seizures or other unusual\nreactions to flashing lights or\npatterns, consult a doctor before\nplaying video games.",
-    "descriptors": []
+  "tid": "000400020010EB01",
+  "uid": "50010000019554",
+  "name": "Etrian Odyssey™ Untold:\nThe Millennium Girl",
+  "formal_name": "Etrian Odyssey™ Untold:\nThe Millennium Girl",
+  "description": "Etria is a land that has long\nwelcomed explorers, yet even they\nwill discover stories untold. In Story\nmode, you will encounter the mystery\nof the maiden who has lived a\nthousand years.\n<br/><br/>\nShould you brave Classic mode,\nyou'll experience the beautifully\nupgraded version of the original Etrian\nadventure, with new 3D graphics and\ngameplay improvements.",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-P-BSKP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": "Warning: Viewing of 3D images by\nchildren 6 and under may cause vision\ndamage. Use the parental control\nfeature to restrict the display of 3D\nimages for children 6 and under.\n<br/><br/>\nWarning: If you have epilepsy or have\nhad seizures or other unusual\nreactions to flashing lights or\npatterns, consult a doctor before\nplaying video games.",
+  "descriptors": []
 }

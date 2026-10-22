@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000038300",
-    "uid": "50010000000249",
-    "name": "LEGO® Star Wars® III:\nThe Clone Wars™",
-    "formal_name": "LEGO® Star Wars® III:\nThe Clone Wars™",
-    "description": "The beloved and critically acclaimed LEGO® Star Wars™ franchise is back. The third sequel, LEGO® Star Wars III: The Clone Wars™, combines the epic stories and iconic characters from the Star Wars universe and hit animated TV series Star Wars: The Clone Wars™ with all-new gameplay features.\n<br><br>\nPlayers will enjoy brand new game mechanics allowing them to create, control, and explore in a galaxy far, far away like never before.  Promising breathtaking visuals as well as new characters and levels, the game also features the signature tongue-in-cheek humor from the LEGO universe.  With more than 10 story-based missions and lots of bonus content spanning the entire Clone Wars era, LEGO Star Wars III: The Clone Wars will allow fans to endlessly explore and laugh their way through the Star Wars galaxy in the most humorous, accessible, and action-packed LEGO game to date.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ALGE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Comic Mischief",
-        "Cartoon Violence"
-    ]
+  "tid": "0004000000038300",
+  "uid": "50010000000249",
+  "name": "LEGO® Star Wars® III:\nThe Clone Wars™",
+  "formal_name": "LEGO® Star Wars® III:\nThe Clone Wars™",
+  "description": "The beloved and critically acclaimed LEGO® Star Wars™ franchise is back. The third sequel, LEGO® Star Wars III: The Clone Wars™, combines the epic stories and iconic characters from the Star Wars universe and hit animated TV series Star Wars: The Clone Wars™ with all-new gameplay features.\n<br><br>\nPlayers will enjoy brand new game mechanics allowing them to create, control, and explore in a galaxy far, far away like never before.  Promising breathtaking visuals as well as new characters and levels, the game also features the signature tongue-in-cheek humor from the LEGO universe.  With more than 10 story-based missions and lots of bonus content spanning the entire Clone Wars era, LEGO Star Wars III: The Clone Wars will allow fans to endlessly explore and laugh their way through the Star Wars galaxy in the most humorous, accessible, and action-packed LEGO game to date.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ALGE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Comic Mischief",
+    "Cartoon Violence"
+  ]
 }

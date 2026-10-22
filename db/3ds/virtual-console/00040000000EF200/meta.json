@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000EF200",
-    "uid": "50010000022055",
-    "name": "Mega Man II™",
-    "formal_name": "Mega Man II™",
-    "description": "Dr. Wily is up to no good and this time he has stolen the experimental Time Skimmer that allows him to travel years into the future. Meanwhile, Mega Man and his trusty side-kick, Rush, are sent on a mission to investigate an underground lair. At arrival, the duo immediately come face-to-face with a group of Robot Masters!\n<br><br>\nJump and blast your way through a barrage of maniacal robotic monsters while collecting a variety of weapons and items to help fight more Robot Masters!\n<br><br\nWho is this stranger from the future called Quint? Can Mega Man reach Dr. Wily before time's up? Suit up, power up, and let's go!",
-    "release_date_on_eshop": "2014-05-08",
-    "product_code": "CTR-N-RCDE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000EF200",
+  "uid": "50010000022055",
+  "name": "Mega Man II™",
+  "formal_name": "Mega Man II™",
+  "description": "Dr. Wily is up to no good and this time he has stolen the experimental Time Skimmer that allows him to travel years into the future. Meanwhile, Mega Man and his trusty side-kick, Rush, are sent on a mission to investigate an underground lair. At arrival, the duo immediately come face-to-face with a group of Robot Masters!\n<br><br>\nJump and blast your way through a barrage of maniacal robotic monsters while collecting a variety of weapons and items to help fight more Robot Masters!\n<br><br\nWho is this stranger from the future called Quint? Can Mega Man reach Dr. Wily before time's up? Suit up, power up, and let's go!",
+  "release_date_on_eshop": "2014-05-08",
+  "product_code": "CTR-N-RCDE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

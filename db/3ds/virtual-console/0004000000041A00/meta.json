@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000041A00",
-    "uid": "50010000007499",
-    "name": "Super Mario Land™ 2:\n6 Golden Coins™",
-    "formal_name": "Super Mario Land™ 2: 6 Golden Coins™",
-    "description": "In his greatest Game Boy adventure, Mario faces off against his evil rival Wario, who has captured Mario Land and turned it into his private playground. To toss Wario off his ill-gotten throne, Mario must search all-new worlds for the six golden coins that unlock the gate to Mario's castle. A mob of monsters, old and new, seek to stop him. Along the way, through six zones, Mario can nab Power Mushrooms, Super Stars and Fire Flowers for extra power. And if he eats the Magic Carrot, he'll turn into a high-flying hare!",
-    "release_date_on_eshop": "1992-11",
-    "product_code": "CTR-N-RAGE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000041A00",
+  "uid": "50010000007499",
+  "name": "Super Mario Land™ 2:\n6 Golden Coins™",
+  "formal_name": "Super Mario Land™ 2: 6 Golden Coins™",
+  "description": "In his greatest Game Boy adventure, Mario faces off against his evil rival Wario, who has captured Mario Land and turned it into his private playground. To toss Wario off his ill-gotten throne, Mario must search all-new worlds for the six golden coins that unlock the gate to Mario's castle. A mob of monsters, old and new, seek to stop him. Along the way, through six zones, Mario can nab Power Mushrooms, Super Stars and Fire Flowers for extra power. And if he eats the Magic Carrot, he'll turn into a high-flying hare!",
+  "release_date_on_eshop": "1992-11",
+  "product_code": "CTR-N-RAGE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

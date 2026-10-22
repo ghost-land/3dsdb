@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000070700",
-    "uid": "50010000007312",
-    "name": "Ice Climber™",
-    "formal_name": "Ice Climber™",
-    "description": "Conquer treacherous peaks, leap\nacross icy chasms and swat\nsnow-dwelling beasts – solo or with a\nfriend – in this NES™ classic.\n<br/><br/>\nUse your hammer to bash blocks and\nto defend yourself from the wildlife as\nyou head towards the summit. Make it\nthrough all eight floors to reach the\nbonus stage and grab as many\nvegetables as you can before hitching\na lift on a friendly condor.\n<br/><br/>\nIn two player mode, either work\ntogether to reach the mountaintop or\ncompete to see who can get the glory\nfirst!",
-    "release_date_on_eshop": "2013-05-02",
-    "product_code": "CTR-N-TAMP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000070700",
+  "uid": "50010000007312",
+  "name": "Ice Climber™",
+  "formal_name": "Ice Climber™",
+  "description": "Conquer treacherous peaks, leap\nacross icy chasms and swat\nsnow-dwelling beasts – solo or with a\nfriend – in this NES™ classic.\n<br/><br/>\nUse your hammer to bash blocks and\nto defend yourself from the wildlife as\nyou head towards the summit. Make it\nthrough all eight floors to reach the\nbonus stage and grab as many\nvegetables as you can before hitching\na lift on a friendly condor.\n<br/><br/>\nIn two player mode, either work\ntogether to reach the mountaintop or\ncompete to see who can get the glory\nfirst!",
+  "release_date_on_eshop": "2013-05-02",
+  "product_code": "CTR-N-TAMP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

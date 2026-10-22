@@ -1,33 +1,33 @@
 {
-    "tid": "000400000012A900",
-    "uid": "50010000027455",
-    "name": "LEGO® BATMAN™ 3:\nJenseits von Gotham",
-    "formal_name": "LEGO® BATMAN™ 3:\nJenseits von Gotham",
-    "description": "Das weltberühmte LEGO\nBatman-Videospiel-Franchise kehrt in\neinem weiteren actiongeladenen\nBestseller-Abenteuer zurück! In LEGO\nBatman™ 3: Jenseits von Gotham\nschließt sich der Dunkle Ritter mit\nweiteren Superhelden des DC\nComics-Universums zusammen und\nstartet ins All, um den verschlagenen\nBrainiac daran zu hindern, die Erde zu\nvernichten. Mit der Macht der Ringe\nder Lanterns, schrumpft Brainiac\nganze Welten, um sie seiner\nSammlung miniaturisierter Städte aus\ndem gesamten Universum\nhinzuzufügen. Daher müssen sich die\ngrößten Superhelden und\nverschlagensten Schurken\nzusammentun, um zu verschiedenen\nLantern-Welten zu reisen, deren Ringe\nsammeln und Brainiac stoppen, bevor\nes zu spät ist.",
-    "release_date_on_eshop": "2014-11-13",
-    "product_code": "CTR-P-BTMZ",
-    "platform_name": "Nintendo 3DS (Karte/Download)",
-    "region": "Germany",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "3D-Darstellung wird verwendet"
-    ],
-    "languages": [
-        "Englisch",
-        "Spanisch",
-        "Französisch",
-        "Deutsch",
-        "Italienisch",
-        "Niederländisch"
-    ],
-    "rating_system": {
-        "name": "USK",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "*Spiel enthält\ndeutsche Sprachausgabe.",
-    "descriptors": []
+  "tid": "000400000012A900",
+  "uid": "50010000027455",
+  "name": "LEGO® BATMAN™ 3:\nJenseits von Gotham",
+  "formal_name": "LEGO® BATMAN™ 3:\nJenseits von Gotham",
+  "description": "Das weltberühmte LEGO\nBatman-Videospiel-Franchise kehrt in\neinem weiteren actiongeladenen\nBestseller-Abenteuer zurück! In LEGO\nBatman™ 3: Jenseits von Gotham\nschließt sich der Dunkle Ritter mit\nweiteren Superhelden des DC\nComics-Universums zusammen und\nstartet ins All, um den verschlagenen\nBrainiac daran zu hindern, die Erde zu\nvernichten. Mit der Macht der Ringe\nder Lanterns, schrumpft Brainiac\nganze Welten, um sie seiner\nSammlung miniaturisierter Städte aus\ndem gesamten Universum\nhinzuzufügen. Daher müssen sich die\ngrößten Superhelden und\nverschlagensten Schurken\nzusammentun, um zu verschiedenen\nLantern-Welten zu reisen, deren Ringe\nsammeln und Brainiac stoppen, bevor\nes zu spät ist.",
+  "release_date_on_eshop": "2014-11-13",
+  "product_code": "CTR-P-BTMZ",
+  "platform_name": "Nintendo 3DS (Karte/Download)",
+  "region": "Germany",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "3D-Darstellung wird verwendet"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "USK",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "*Spiel enthält\ndeutsche Sprachausgabe.",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001BCB00",
-    "uid": "50010000042795",
-    "name": "Drone Fight",
-    "formal_name": "Drone Fight",
-    "description": "\"Drone Fight\" is a racing game where you operate unmanned aircraft (drones) as they soar through the lands and skies!\n<br>\n<br>Choose from one of four different drones as you aim to fly through treacherous courses faster than anyone has done so before!\n<br>\n<br>There are two different kinds of game modes. Either face off against the CPU and aim to come in first place, or take on Time Attack mode and aim to shave every second you can off your best time!\n<br>\n<br>When racing against the CPU you can use a whole host of unique items to get the advantage. In Time Attack mode, you can compare your score with other players!",
-    "release_date_on_eshop": "2017-06-01",
-    "product_code": "CTR-N-KR9P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BCB00",
+  "uid": "50010000042795",
+  "name": "Drone Fight",
+  "formal_name": "Drone Fight",
+  "description": "\"Drone Fight\" is a racing game where you operate unmanned aircraft (drones) as they soar through the lands and skies!\n<br>\n<br>Choose from one of four different drones as you aim to fly through treacherous courses faster than anyone has done so before!\n<br>\n<br>There are two different kinds of game modes. Either face off against the CPU and aim to come in first place, or take on Time Attack mode and aim to shave every second you can off your best time!\n<br>\n<br>When racing against the CPU you can use a whole host of unique items to get the advantage. In Time Attack mode, you can compare your score with other players!",
+  "release_date_on_eshop": "2017-06-01",
+  "product_code": "CTR-N-KR9P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

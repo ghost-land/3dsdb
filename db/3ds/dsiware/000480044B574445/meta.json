@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B574445",
-    "uid": "50010000004182",
-    "name": "Photo Clock",
-    "formal_name": "Photo Clock",
-    "description": "Photo Clock allows you to enjoy the photos taken with your Nintendo DSi Camera application in a brand-new way. Watch your images appear on the top screen of your Nintendo DSi system according to your chosen display settings (specific photos or all photos; in order or randomly shown). Select from either an analog or digital clock, utilizing the system’s internal clock or offsetting the time however you like. Program up to three alarms (with snooze functionality for those that need it) and assign them a preset ring or use a sound created in Nintendo DSi Sound. Experience all the enjoyment of a photo album while still guaranteeing that you won’t lose track of the time!",
-    "release_date_on_eshop": "2009-05-25",
-    "product_code": "TWL-N-KWDE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B574445",
+  "uid": "50010000004182",
+  "name": "Photo Clock",
+  "formal_name": "Photo Clock",
+  "description": "Photo Clock allows you to enjoy the photos taken with your Nintendo DSi Camera application in a brand-new way. Watch your images appear on the top screen of your Nintendo DSi system according to your chosen display settings (specific photos or all photos; in order or randomly shown). Select from either an analog or digital clock, utilizing the system’s internal clock or offsetting the time however you like. Program up to three alarms (with snooze functionality for those that need it) and assign them a preset ring or use a sound created in Nintendo DSi Sound. Experience all the enjoyment of a photo album while still guaranteeing that you won’t lose track of the time!",
+  "release_date_on_eshop": "2009-05-25",
+  "product_code": "TWL-N-KWDE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

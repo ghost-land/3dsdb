@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000182300",
-    "uid": "50010000037775",
-    "name": "The Legend of Zelda™:\nTri Force Heroes Demo",
-    "formal_name": "The Legend of Zelda™:\nTri Force Heroes Demo",
-    "description": "Connect! Co-operate! Conquer!\n\nBuddy up with two other heroes locally or online (when available) to triumph over enemies and puzzles as a dynamic trio in this exclusive multiplayer demo for The Legend of Zelda™: Tri Force Heroes!\n\nYou need to team up with two other friends in local co-op multiplayer to enjoy this demo.\nEach player needs a copy of the demo, then you can play together using Local Play.\n\nAt the moment, there are no online multiplayer sessions available. We apologise for the inconvenience.",
-    "release_date_on_eshop": "2015-10-30",
-    "product_code": "CTR-N-KALP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000182300",
+  "uid": "50010000037775",
+  "name": "The Legend of Zelda™:\nTri Force Heroes Demo",
+  "formal_name": "The Legend of Zelda™:\nTri Force Heroes Demo",
+  "description": "Connect! Co-operate! Conquer!\n\nBuddy up with two other heroes locally or online (when available) to triumph over enemies and puzzles as a dynamic trio in this exclusive multiplayer demo for The Legend of Zelda™: Tri Force Heroes!\n\nYou need to team up with two other friends in local co-op multiplayer to enjoy this demo.\nEach player needs a copy of the demo, then you can play together using Local Play.\n\nAt the moment, there are no online multiplayer sessions available. We apologise for the inconvenience.",
+  "release_date_on_eshop": "2015-10-30",
+  "product_code": "CTR-N-KALP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

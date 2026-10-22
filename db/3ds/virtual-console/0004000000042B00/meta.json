@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000042B00",
-    "uid": "50010000007236",
-    "name": "Golf",
-    "formal_name": "Golf",
-    "description": "This re-release of the 1990 Game\nBoy™ classic brings you 36 holes of realistic links action. That's two full courses, with hazards that change every time you play!\n<br><br>\nEach hole has tricky hazards, so strategy is a must. Read the wind direction, check the distance, select a club, adjust your swing, and keep your\neye on the ball. Then, drive it home. A\nscorecard will keep track of your points for each hole. Aim to beat your current best score! From twisting fairways and hungry sandtraps, to big water hazards and deceptive greens, Golf is packed with challenges.",
-    "release_date_on_eshop": "1990-02",
-    "product_code": "CTR-N-RALE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000042B00",
+  "uid": "50010000007236",
+  "name": "Golf",
+  "formal_name": "Golf",
+  "description": "This re-release of the 1990 Game\nBoy™ classic brings you 36 holes of realistic links action. That's two full courses, with hazards that change every time you play!\n<br><br>\nEach hole has tricky hazards, so strategy is a must. Read the wind direction, check the distance, select a club, adjust your swing, and keep your\neye on the ball. Then, drive it home. A\nscorecard will keep track of your points for each hole. Aim to beat your current best score! From twisting fairways and hungry sandtraps, to big water hazards and deceptive greens, Golf is packed with challenges.",
+  "release_date_on_eshop": "1990-02",
+  "product_code": "CTR-N-RALE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

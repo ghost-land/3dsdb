@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F703300",
-    "uid": "50010000041339",
-    "name": "Mega Man™ X2",
-    "formal_name": "Mega Man™ X2",
-    "description": "In the action classic Mega Man X2, X must lead a fight against a new threat: Maverick Reploid rebels known as X-Hunters, plus eight new and deadlier Mavericks!\n<br>\n<br>Fortunately, Dr Light has supplied state of the art upgrades. Seek out the capsules to equip X with a Double Charge Shot, Body Armour and more. X can also ride in vehicles like the Mobile Attack Armour and Mobile Attack Cycle.\n<br>\n<br>And of course, X can use the abilities of defeated Mavericks, to turn the enemies' weapons against them!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-08-11",
-    "product_code": "KTR-N-UATE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F703300",
+  "uid": "50010000041339",
+  "name": "Mega Man™ X2",
+  "formal_name": "Mega Man™ X2",
+  "description": "In the action classic Mega Man X2, X must lead a fight against a new threat: Maverick Reploid rebels known as X-Hunters, plus eight new and deadlier Mavericks!\n<br>\n<br>Fortunately, Dr Light has supplied state of the art upgrades. Seek out the capsules to equip X with a Double Charge Shot, Body Armour and more. X can also ride in vehicles like the Mobile Attack Armour and Mobile Attack Cycle.\n<br>\n<br>And of course, X can use the abilities of defeated Mavericks, to turn the enemies' weapons against them!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-08-11",
+  "product_code": "KTR-N-UATE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

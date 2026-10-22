@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000194100",
-    "uid": "50010000040957",
-    "name": "Adventure Labyrinth Story",
-    "formal_name": "Adventure Labyrinth Story",
-    "description": "Adventure Labyrinth Story is a rogue-like RPG that challenges the unknown dungeon. To bring back the legendary treasure, you need to enter the depth of the dungeon, find weapon and shield, use magic rod and potion to fight against monster and raise your level.\n<br>\n<br>Every time the dungeon you enter is different in structure. The obtainable items and encounterable monsters also change. You can challenge it again and again even it is cleared.\n<br>\n<br>If you are defeated, the obtained items will be all lost. The level will reset to 1. \n<br>\n<br>The ingredients you collect from the dungeon can be cooked in the bar to make food, which can grant positive effect and EXP for the next adventure.\n<br>\n<br>Fully use the items to deal with the monsters, find rare treasure to reveal the mystery of the labyrinth!",
-    "release_date_on_eshop": "2016-07-21",
-    "product_code": "CTR-N-KFNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000194100",
+  "uid": "50010000040957",
+  "name": "Adventure Labyrinth Story",
+  "formal_name": "Adventure Labyrinth Story",
+  "description": "Adventure Labyrinth Story is a rogue-like RPG that challenges the unknown dungeon. To bring back the legendary treasure, you need to enter the depth of the dungeon, find weapon and shield, use magic rod and potion to fight against monster and raise your level.\n<br>\n<br>Every time the dungeon you enter is different in structure. The obtainable items and encounterable monsters also change. You can challenge it again and again even it is cleared.\n<br>\n<br>If you are defeated, the obtained items will be all lost. The level will reset to 1. \n<br>\n<br>The ingredients you collect from the dungeon can be cooked in the bar to make food, which can grant positive effect and EXP for the next adventure.\n<br>\n<br>Fully use the items to deal with the monsters, find rare treasure to reveal the mystery of the labyrinth!",
+  "release_date_on_eshop": "2016-07-21",
+  "product_code": "CTR-N-KFNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

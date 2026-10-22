@@ -1,25 +1,25 @@
 {
-    "tid": "00040002001C9901",
-    "uid": "50010000043044",
-    "name": "お絵かきパズル Pic-a-Pix",
-    "formal_name": "お絵かきパズル Pic-a-Pix",
-    "description": "パズルの周りの数にあわせ、各行（横と縦）に同じマスの数を、\n<br>同じ色で塗っていきます。パズルが完成すると素敵な絵が出現します。\n<br>\n<br>どのマスを何色で塗るか？ ヒント機能もついていますので、楽しく遊べます。\n<br>\n<br>飲食物や日用品、乗り物など、さまざまなジャンルの絵を150枚収録。\n<br>パズルサイズは、5×5から、20×20までを用意しています。\n<br>\n<br>時間制限はありませんので、じっくり遊べます。",
-    "release_date_on_eshop": "2017-09-06",
-    "product_code": "CTR-N-K9PJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040002001C9901",
+  "uid": "50010000043044",
+  "name": "お絵かきパズル Pic-a-Pix",
+  "formal_name": "お絵かきパズル Pic-a-Pix",
+  "description": "パズルの周りの数にあわせ、各行（横と縦）に同じマスの数を、\n<br>同じ色で塗っていきます。パズルが完成すると素敵な絵が出現します。\n<br>\n<br>どのマスを何色で塗るか？ ヒント機能もついていますので、楽しく遊べます。\n<br>\n<br>飲食物や日用品、乗り物など、さまざまなジャンルの絵を150枚収録。\n<br>パズルサイズは、5×5から、20×20までを用意しています。\n<br>\n<br>時間制限はありませんので、じっくり遊べます。",
+  "release_date_on_eshop": "2017-09-06",
+  "product_code": "CTR-N-K9PJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

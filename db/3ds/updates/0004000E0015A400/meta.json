@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E0015A400",
-    "uid": "50010000033755",
-    "name": "OlliOlli Update Ver. 1.1.0",
-    "formal_name": "OlliOlli Update Ver. 1.1.0",
-    "description": "This is an update for the OlliOlli game. This download does not contain the full version of the title. In order to use this update, you must have the full version of OlliOlli.",
-    "release_date_on_eshop": "2016-07-01",
-    "product_code": "CTR-U-KLLE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E0015A400",
+  "uid": "50010000033755",
+  "name": "OlliOlli Update Ver. 1.1.0",
+  "formal_name": "OlliOlli Update Ver. 1.1.0",
+  "description": "This is an update for the OlliOlli game. This download does not contain the full version of the title. In order to use this update, you must have the full version of OlliOlli.",
+  "release_date_on_eshop": "2016-07-01",
+  "product_code": "CTR-U-KLLE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

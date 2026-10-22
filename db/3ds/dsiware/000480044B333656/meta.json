@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B333656",
-    "uid": "50010000014636",
-    "name": "Jewel Quest 5 -\nThe Sleepless Star ",
-    "formal_name": "Jewel Quest 5 -\nThe Sleepless Star ",
-    "description": "Follow the travails of intrepid\nexplorer, Percy Pack, in Jewel Quest:\nThe Sleepless Star. On a quest for a\njewel called the Sleepless Star, Pack\ndiscovers that the jewel has been\nstolen from a Native American village\nby an unscrupulous jewel collector!\nAlong with Percy and a beautiful\nAlgonquin named Yellow Feather,\ntravel to exotic locations on two\ncontinents and overcome dangers at\nevery turn, in an effort to recover the\njewel.",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "TWL-N-K36V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B333656",
+  "uid": "50010000014636",
+  "name": "Jewel Quest 5 -\nThe Sleepless Star ",
+  "formal_name": "Jewel Quest 5 -\nThe Sleepless Star ",
+  "description": "Follow the travails of intrepid\nexplorer, Percy Pack, in Jewel Quest:\nThe Sleepless Star. On a quest for a\njewel called the Sleepless Star, Pack\ndiscovers that the jewel has been\nstolen from a Native American village\nby an unscrupulous jewel collector!\nAlong with Percy and a beautiful\nAlgonquin named Yellow Feather,\ntravel to exotic locations on two\ncontinents and overcome dangers at\nevery turn, in an effort to recover the\njewel.",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "TWL-N-K36V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

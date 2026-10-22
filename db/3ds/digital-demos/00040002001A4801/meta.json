@@ -1,34 +1,34 @@
 {
-    "tid": "00040002001A4801",
-    "uid": "50010000042800",
-    "name": "Ever Oasis™",
-    "formal_name": "Ever Oasis™",
-    "description": "The desert’s last safe haven is a lone oasis you call home. So draw a line in the sand and fight to protect it! As you explore the desert and solve puzzling dungeons, you’ll gather resources to build up your oasis with the water spirit Esna. Allies will join your cause, so equip them with weapons, and use their skills to slay towering bosses.\n<br>\n<br>The Ever Oasis™ game is a new action-adventure RPG grown from the ground up by Koichi Ishii, creator of the Mana series and producer at GREZZO, the studio that rebuilt multiple The Legend of Zelda™ games for the Nintendo 3DS™ family of systems. Their team has crafted puzzles and traps too perilous for one hero to solve. So recruit a party of allies and level up their stats to learn new battle skills. Then return to your oasis and restore it: choose which shops to build, stock their inventories, collect a share of the profits, and keep villagers happy by fulfilling requests. Before long your oasis will blossom into a beacon of hope for all walks of life in the desert. Don’t let them down.",
-    "release_date_on_eshop": "2017-06-23",
-    "product_code": "CTR-N-BAGE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Action",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Fantasy Violence"
-    ]
+  "tid": "00040002001A4801",
+  "uid": "50010000042800",
+  "name": "Ever Oasis™",
+  "formal_name": "Ever Oasis™",
+  "description": "The desert’s last safe haven is a lone oasis you call home. So draw a line in the sand and fight to protect it! As you explore the desert and solve puzzling dungeons, you’ll gather resources to build up your oasis with the water spirit Esna. Allies will join your cause, so equip them with weapons, and use their skills to slay towering bosses.\n<br>\n<br>The Ever Oasis™ game is a new action-adventure RPG grown from the ground up by Koichi Ishii, creator of the Mana series and producer at GREZZO, the studio that rebuilt multiple The Legend of Zelda™ games for the Nintendo 3DS™ family of systems. Their team has crafted puzzles and traps too perilous for one hero to solve. So recruit a party of allies and level up their stats to learn new battle skills. Then return to your oasis and restore it: choose which shops to build, stock their inventories, collect a share of the profits, and keep villagers happy by fulfilling requests. Before long your oasis will blossom into a beacon of hope for all walks of life in the desert. Don’t let them down.",
+  "release_date_on_eshop": "2017-06-23",
+  "product_code": "CTR-N-BAGE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Action",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence"
+  ]
 }

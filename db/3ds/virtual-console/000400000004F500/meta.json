@@ -1,27 +1,27 @@
 {
-    "tid": "000400000004F500",
-    "uid": "50010000007232",
-    "name": "GARGOYLE'S QUEST",
-    "formal_name": "GARGOYLE'S QUEST",
-    "description": "The fascinating epic adventure from\nthe Game Boy era makes a comeback\non the Nintendo 3DS!<br>\n<br>\nYou are the Gargoyle Firebrand, the\nproud guardian of the Ghoul Realm.\nThe Destroyers have returned to wipe\nour your planet… and they take no \nprisoners!<br>\n<br>\nUse your breath of fire and your flying\nability to combat the enemy. Fight\nheroically, and you'll recover stolen\nmagic items that will strengthen you\nfor your many battles.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAXP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004F500",
+  "uid": "50010000007232",
+  "name": "GARGOYLE'S QUEST",
+  "formal_name": "GARGOYLE'S QUEST",
+  "description": "The fascinating epic adventure from\nthe Game Boy era makes a comeback\non the Nintendo 3DS!<br>\n<br>\nYou are the Gargoyle Firebrand, the\nproud guardian of the Ghoul Realm.\nThe Destroyers have returned to wipe\nour your planet… and they take no \nprisoners!<br>\n<br>\nUse your breath of fire and your flying\nability to combat the enemy. Fight\nheroically, and you'll recover stolen\nmagic items that will strengthen you\nfor your many battles.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAXP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

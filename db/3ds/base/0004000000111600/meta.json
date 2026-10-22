@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000111600",
-    "uid": "50010000021438",
-    "name": "Maple Story 運命の少女",
-    "formal_name": "Maple Story 運命の少女",
-    "description": "オンラインゲーム『メイプルストーリー』をベースに、ニンテンドー3DSのために作られた完全オリジナルMAP&書きおろしストーリー!\n<br>キャラメイクや着せ替えが楽しめるかわいいアバターが盛りだくさん!\n<br>アイテム収集、チャレンジ課題、戦場でのバトルなどやりこみ要素満載!\n<br>メイプルワールドを脅かす、謎の黒い影の正体とは!?",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BMPJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "ロールプレイング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000111600",
+  "uid": "50010000021438",
+  "name": "Maple Story 運命の少女",
+  "formal_name": "Maple Story 運命の少女",
+  "description": "オンラインゲーム『メイプルストーリー』をベースに、ニンテンドー3DSのために作られた完全オリジナルMAP&書きおろしストーリー!\n<br>キャラメイクや着せ替えが楽しめるかわいいアバターが盛りだくさん!\n<br>アイテム収集、チャレンジ課題、戦場でのバトルなどやりこみ要素満載!\n<br>メイプルワールドを脅かす、謎の黒い影の正体とは!?",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BMPJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "ロールプレイング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

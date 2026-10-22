@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001D4500",
-    "uid": "50010000046155",
-    "name": "WarioWare™ Gold Demo",
-    "formal_name": "WarioWare™ Gold Demo",
-    "description": "Try the free demo now!\n<br>\n<br>The latest in the WarioWare series is coming to Nintendo 3DS family systems! Which means, there’s a new way to play Wario’s strangely satisfying microgames.\n<br>\n<br>With classics and new additions, there are 300 microgames to enjoy, making this the biggest entry in the series! Press buttons, tilt the system, use the Touch Screen and microphone, and dig that crazy action while it’s hot!\n<br>\n<br>This game also supports Japanese",
-    "release_date_on_eshop": "2018-07-05",
-    "product_code": "CTR-N-BWXA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "Action",
-        "Party"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Very mild violence",
-        "Very mild crude humour"
-    ]
+  "tid": "00040000001D4500",
+  "uid": "50010000046155",
+  "name": "WarioWare™ Gold Demo",
+  "formal_name": "WarioWare™ Gold Demo",
+  "description": "Try the free demo now!\n<br>\n<br>The latest in the WarioWare series is coming to Nintendo 3DS family systems! Which means, there’s a new way to play Wario’s strangely satisfying microgames.\n<br>\n<br>With classics and new additions, there are 300 microgames to enjoy, making this the biggest entry in the series! Press buttons, tilt the system, use the Touch Screen and microphone, and dig that crazy action while it’s hot!\n<br>\n<br>This game also supports Japanese",
+  "release_date_on_eshop": "2018-07-05",
+  "product_code": "CTR-N-BWXA",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "Action",
+    "Party"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Very mild violence",
+    "Very mild crude humour"
+  ]
 }

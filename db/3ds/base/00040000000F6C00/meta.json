@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000F6C00",
-    "uid": "50010000017459",
-    "name": "遊戯王ZEXAL\n激突!デュエルカーニバル!",
-    "formal_name": "遊戯王ZEXAL\n激突!デュエルカーニバル!",
-    "description": "本格的なデュエルが楽しめる対戦型カードゲームがニンテンドー3DSに登場!　アニメ『遊戯王ZEXAL』に登場した40人以上のキャラクターが参戦するワールドデュエルカーニバルで優勝を目指せ!",
-    "release_date_on_eshop": "2014-06-20",
-    "product_code": "CTR-N-AYXJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "ソフトの内容は2013年12月5日発売のパッケージ版と同じです。\nデータ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-    "descriptors": []
+  "tid": "00040000000F6C00",
+  "uid": "50010000017459",
+  "name": "遊戯王ZEXAL\n激突!デュエルカーニバル!",
+  "formal_name": "遊戯王ZEXAL\n激突!デュエルカーニバル!",
+  "description": "本格的なデュエルが楽しめる対戦型カードゲームがニンテンドー3DSに登場!　アニメ『遊戯王ZEXAL』に登場した40人以上のキャラクターが参戦するワールドデュエルカーニバルで優勝を目指せ!",
+  "release_date_on_eshop": "2014-06-20",
+  "product_code": "CTR-N-AYXJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "ソフトの内容は2013年12月5日発売のパッケージ版と同じです。\nデータ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+  "descriptors": []
 }

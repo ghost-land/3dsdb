@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F704C00",
-    "uid": "50010000041456",
-    "name": "Final Fight 2™",
-    "formal_name": "Final Fight 2™",
-    "description": "The Mad Gear Gang has returned,\n<br>and they’re out for revenge! They've\n<br>kidnapped Guy's master, Genryusai,\n<br>and his daughter, Rena, who is also\n<br>Guy's fiancée. Join Haggar and\n<br>newcomers Maki and Carlos to take\n<br>down the Mad Gear Gang once and\n<br>for all!\n<br>\n<br>Take control of any of the three\n<br>heroes and make use of their unique\n<br>abilities in a fast-paced adventure\n<br>which will take you to all locations of\n<br>the globe. And you're not alone,\n<br>either - you can also have a friend\n<br>join the fight to bring an end to the\n<br>Mad Gear Gang!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-09-08",
-    "product_code": "KTR-N-UA6E",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F704C00",
+  "uid": "50010000041456",
+  "name": "Final Fight 2™",
+  "formal_name": "Final Fight 2™",
+  "description": "The Mad Gear Gang has returned,\n<br>and they’re out for revenge! They've\n<br>kidnapped Guy's master, Genryusai,\n<br>and his daughter, Rena, who is also\n<br>Guy's fiancée. Join Haggar and\n<br>newcomers Maki and Carlos to take\n<br>down the Mad Gear Gang once and\n<br>for all!\n<br>\n<br>Take control of any of the three\n<br>heroes and make use of their unique\n<br>abilities in a fast-paced adventure\n<br>which will take you to all locations of\n<br>the globe. And you're not alone,\n<br>either - you can also have a friend\n<br>join the fight to bring an end to the\n<br>Mad Gear Gang!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-09-08",
+  "product_code": "KTR-N-UA6E",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

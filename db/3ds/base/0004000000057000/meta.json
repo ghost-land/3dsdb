@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000057000",
-    "uid": "50010000011626",
-    "name": "Monster 4x4 3D",
-    "formal_name": "Monster 4x4 3D",
-    "description": "Live a Monster Truck experience in 3D and feel the power of fully customizable, large, aggressive, and loud vehicles that destroy and change the game environment – enabling you to deliver true Monster Truck mayhem.                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AM4E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Violence"
-    ]
+  "tid": "0004000000057000",
+  "uid": "50010000011626",
+  "name": "Monster 4x4 3D",
+  "formal_name": "Monster 4x4 3D",
+  "description": "Live a Monster Truck experience in 3D and feel the power of fully customizable, large, aggressive, and loud vehicles that destroy and change the game environment – enabling you to deliver true Monster Truck mayhem.                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AM4E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Violence"
+  ]
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000040500",
-    "uid": "50010000007077",
-    "name": "Thor™: God of Thunder",
-    "formal_name": "Thor™: God of Thunder",
-    "description": "Control the powers of the storm as Thor wields his legendary hammer Mjölnir to save Asgard from legions of titanic enemies in his first standalone video game adventure. Using powerful melee combos, lethal hammer throws, godlike elemental powers, and a robust grappling system, go toe-to-toe with a 25 foot tall, 12-ton Ice Troll for a truly heart-pumping experience. Storm across four different Norse worlds, facing monstrous enemies lifted from the pages of the comics while mastering the elemental powers of lightning, thunder, and wind to vanquish hordes of deadly foes.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AGTE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Animated Blood",
-        "Fantasy Violence"
-    ]
+  "tid": "0004000000040500",
+  "uid": "50010000007077",
+  "name": "Thor™: God of Thunder",
+  "formal_name": "Thor™: God of Thunder",
+  "description": "Control the powers of the storm as Thor wields his legendary hammer Mjölnir to save Asgard from legions of titanic enemies in his first standalone video game adventure. Using powerful melee combos, lethal hammer throws, godlike elemental powers, and a robust grappling system, go toe-to-toe with a 25 foot tall, 12-ton Ice Troll for a truly heart-pumping experience. Storm across four different Norse worlds, facing monstrous enemies lifted from the pages of the comics while mastering the elemental powers of lightning, thunder, and wind to vanquish hordes of deadly foes.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AGTE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Animated Blood",
+    "Fantasy Violence"
+  ]
 }

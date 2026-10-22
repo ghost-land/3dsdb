@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000176300",
-    "uid": "50010000038715",
-    "name": "The Magic Hammer",
-    "formal_name": "The Magic Hammer",
-    "description": "Every Hammer needs a hero.\n<br/><br/>\nThe Magic Hammer is an open-world\naction RPG where you embark on an\nepic adventure with your Hammer!\n<br/><br/>\nCustomize your character, explore\ntowns, battle in boneyards and roam\nthe open world in thirdperson.\n<br/><br/>\nLevel up to unlock new magical\npowers, travel to different realms,\ntame animals and take on greater\nenemies!\n<br/><br/>\nPlay the entire Story Mode co-op\nwith a friend using Local Play or\nInternet.\n<br/><br/>\nThe Magic Hammer also features a\ncreative mode that can be played\nsingle player or co-op.",
-    "release_date_on_eshop": "2015-12-10",
-    "product_code": "CTR-N-KHMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000176300",
+  "uid": "50010000038715",
+  "name": "The Magic Hammer",
+  "formal_name": "The Magic Hammer",
+  "description": "Every Hammer needs a hero.\n<br/><br/>\nThe Magic Hammer is an open-world\naction RPG where you embark on an\nepic adventure with your Hammer!\n<br/><br/>\nCustomize your character, explore\ntowns, battle in boneyards and roam\nthe open world in thirdperson.\n<br/><br/>\nLevel up to unlock new magical\npowers, travel to different realms,\ntame animals and take on greater\nenemies!\n<br/><br/>\nPlay the entire Story Mode co-op\nwith a friend using Local Play or\nInternet.\n<br/><br/>\nThe Magic Hammer also features a\ncreative mode that can be played\nsingle player or co-op.",
+  "release_date_on_eshop": "2015-12-10",
+  "product_code": "CTR-N-KHMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001DB700",
-    "uid": "50010000048495",
-    "name": "Quarters, Please! Vol. 2",
-    "formal_name": "Quarters, Please! Vol. 2",
-    "description": "The \"Quarters, Please!\" arcade playground is back, with five new, exciting arcade games inspired by retro classics. Relax and watch the neighborhood kids enjoy playing, or kick them off and play the games yourself!\n<br>\n<br>Rise to the challenge and test your skills in:\n<br>\n<br>\"Guardian\" - Fight aliens and protect your astronauts stranded across the planetary surface!\n<br>\"Decipod\" - Defend your garden from an infestation of creepy crawlies. \n<br>\"Badger\" - Lead your badgers back to their dens, dodging traffic and navigating a rushing river.\n<br>\"Space Attack\" - Your planet is under missile attack. You must save your cities!\n<br>\"Karate Battle\" - Run, jump and fight your way through a fortress full of enemies.",
-    "release_date_on_eshop": "2020-02-06",
-    "product_code": "CTR-N-A67E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001DB700",
+  "uid": "50010000048495",
+  "name": "Quarters, Please! Vol. 2",
+  "formal_name": "Quarters, Please! Vol. 2",
+  "description": "The \"Quarters, Please!\" arcade playground is back, with five new, exciting arcade games inspired by retro classics. Relax and watch the neighborhood kids enjoy playing, or kick them off and play the games yourself!\n<br>\n<br>Rise to the challenge and test your skills in:\n<br>\n<br>\"Guardian\" - Fight aliens and protect your astronauts stranded across the planetary surface!\n<br>\"Decipod\" - Defend your garden from an infestation of creepy crawlies. \n<br>\"Badger\" - Lead your badgers back to their dens, dodging traffic and navigating a rushing river.\n<br>\"Space Attack\" - Your planet is under missile attack. You must save your cities!\n<br>\"Karate Battle\" - Run, jump and fight your way through a fortress full of enemies.",
+  "release_date_on_eshop": "2020-02-06",
+  "product_code": "CTR-N-A67E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

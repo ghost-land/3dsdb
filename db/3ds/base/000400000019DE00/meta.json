@@ -1,30 +1,30 @@
 {
-    "tid": "000400000019DE00",
-    "uid": "50010000041345",
-    "name": "Pixel Paint",
-    "formal_name": "Pixel Paint",
-    "description": "Create your very own pixel art with ease and post it to Miiverse™ or save it to the SD Card for use on social networks etc!\n<br>\n<br>Pixel art is a picture created pixel by pixel such as retro games and many recent indie games. Base your creation off an old game, or create something entirely new! \n<br>\n<br>Features\n<br>- Smooth, easy controls, drawing dot-by-dot using the Nintendo 3DS™ stylus\n<br>- 8 color palettes including some of the greatest retro systems\n<br>- 5 canvas sizes for pixel art of all sizes\n<br>- Change brush size and shape\n<br>- Cut/copy/paste/erase\n<br>- Color picker, fill color, and replace color\n<br>- Shape tool to easily create circles, triangles and squares\n<br>- Export your drawings to the SD Card for use on computer or anywhere!\n<br>- When your pixel art is complete, share it with the world by posting to Miiverse™!",
-    "release_date_on_eshop": "2016-08-25",
-    "product_code": "CTR-N-KPJP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Utility",
-        "Education",
-        "Other",
-        "Communication"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019DE00",
+  "uid": "50010000041345",
+  "name": "Pixel Paint",
+  "formal_name": "Pixel Paint",
+  "description": "Create your very own pixel art with ease and post it to Miiverse™ or save it to the SD Card for use on social networks etc!\n<br>\n<br>Pixel art is a picture created pixel by pixel such as retro games and many recent indie games. Base your creation off an old game, or create something entirely new! \n<br>\n<br>Features\n<br>- Smooth, easy controls, drawing dot-by-dot using the Nintendo 3DS™ stylus\n<br>- 8 color palettes including some of the greatest retro systems\n<br>- 5 canvas sizes for pixel art of all sizes\n<br>- Change brush size and shape\n<br>- Cut/copy/paste/erase\n<br>- Color picker, fill color, and replace color\n<br>- Shape tool to easily create circles, triangles and squares\n<br>- Export your drawings to the SD Card for use on computer or anywhere!\n<br>- When your pixel art is complete, share it with the world by posting to Miiverse™!",
+  "release_date_on_eshop": "2016-08-25",
+  "product_code": "CTR-N-KPJP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Utility",
+    "Education",
+    "Other",
+    "Communication"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000E001BD500",
-    "uid": "50010000042917",
-    "name": "RPG Maker Fes\nUpdate Ver. 1.1.5",
-    "formal_name": "RPG Maker Fes\n<br>Update Ver. 1.1.5",
-    "description": "This is an update for the game card version of the RPG Maker Fes game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of RPG Maker Fes.",
-    "release_date_on_eshop": "2018-07-06",
-    "product_code": "CTR-U-BRPE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v2.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E001BD500",
+  "uid": "50010000042917",
+  "name": "RPG Maker Fes\nUpdate Ver. 1.1.5",
+  "formal_name": "RPG Maker Fes\n<br>Update Ver. 1.1.5",
+  "description": "This is an update for the game card version of the RPG Maker Fes game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of RPG Maker Fes.",
+  "release_date_on_eshop": "2018-07-06",
+  "product_code": "CTR-U-BRPE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v2.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

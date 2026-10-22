@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001AEC00",
-    "uid": "50010000041800",
-    "name": "Collide-a-Ball",
-    "formal_name": "Collide-a-Ball",
-    "description": "Set up a course to make two balls meet at the same place and time in this unique puzzle game. \n<br>A red and blue ball start from different places in the stage. Position and rotate objects such as slopes and acceleration panels to prepare the path for the balls to travel so they meet at the goal flag at the same time. Once you've set the scene hit Start to trigger the two balls rolling. Can you make the two balls collide at the goal flag at the same time?\n<br>Collide-a-Ball includes three game modes: Free Play, Wait and Go! and Single Ball.\n<br>\n<br>Free Play\n<br>Position objects to make the two balls meet at the goal flag at the same time.\n<br>\n<br>Wait and Go!\n<br>Judge the time delay needed between two balls to make them meet at the goal flag at the same time.\n<br>\n<br>Single Ball\n<br>Position objects around the stage to make one ball stop exactly on the goal flag.",
-    "release_date_on_eshop": "2016-11-03",
-    "product_code": "CTR-N-KDEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AEC00",
+  "uid": "50010000041800",
+  "name": "Collide-a-Ball",
+  "formal_name": "Collide-a-Ball",
+  "description": "Set up a course to make two balls meet at the same place and time in this unique puzzle game. \n<br>A red and blue ball start from different places in the stage. Position and rotate objects such as slopes and acceleration panels to prepare the path for the balls to travel so they meet at the goal flag at the same time. Once you've set the scene hit Start to trigger the two balls rolling. Can you make the two balls collide at the goal flag at the same time?\n<br>Collide-a-Ball includes three game modes: Free Play, Wait and Go! and Single Ball.\n<br>\n<br>Free Play\n<br>Position objects to make the two balls meet at the goal flag at the same time.\n<br>\n<br>Wait and Go!\n<br>Judge the time delay needed between two balls to make them meet at the goal flag at the same time.\n<br>\n<br>Single Ball\n<br>Position objects around the stage to make one ball stop exactly on the goal flag.",
+  "release_date_on_eshop": "2016-11-03",
+  "product_code": "CTR-N-KDEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000013C100",
-    "uid": "50010000028675",
-    "name": "Hazumi",
-    "formal_name": "Hazumi",
-    "description": "Hazumi is a game of action and puzzle-solving where you control a colored ball. Your goal in each level is to destroy all crystal blocks. You can only remove a block if it matches the color of the ball. Deadly traps and labyrinths will stand in your way, so use cunning and nimbleness to your advantage!\n<br><br>\nWith over 100 exciting puzzles, a level editor, intuitive controls, beautiful pixel art graphics and immensely addictive gameplay, Hazumi will keep you entertained for days as you collect stars to unlock more challenges!",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-KHZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000013C100",
+  "uid": "50010000028675",
+  "name": "Hazumi",
+  "formal_name": "Hazumi",
+  "description": "Hazumi is a game of action and puzzle-solving where you control a colored ball. Your goal in each level is to destroy all crystal blocks. You can only remove a block if it matches the color of the ball. Deadly traps and labyrinths will stand in your way, so use cunning and nimbleness to your advantage!\n<br><br>\nWith over 100 exciting puzzles, a level editor, intuitive controls, beautiful pixel art graphics and immensely addictive gameplay, Hazumi will keep you entertained for days as you collect stars to unlock more challenges!",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-KHZE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

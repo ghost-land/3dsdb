@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000186D00",
-    "uid": "50010000041660",
-    "name": "Quest of Dungeons",
-    "formal_name": "Quest of Dungeons",
-    "description": "Purchase this game at full price through Nintendo eShop and get a free digital version of Quest of Dungeons for Wii U. The same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.\n<br><br>\nOffer applies to US, Canada, and Mexico only\n<br><br>\nQuest of Dungeons is a turn based dungeon crawler game, a roguelike featuring a good old 16-bit retro artistic look. \n<br>\n<br>An evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him. \n<br>\n<br>By playing as either a Warrior, a Wizard, a Assassin or a Shaman you have to traverse dungeons, defeat enemies and loot everything you can in order to survive. You can learn new skills in Tomes you find along the way and buy/sell items at shops. \n<br>The entire game is procedural so you won't find items/enemies in the same place each time you play. \n<br>\n<br>Features:\n<br>Procedural dungeons \n<br>Procedural weapons \n<br>Boss encounters \n<br>Quests \n<br>4 Difficulty levels \n<br>Permadeath - Once you die, game over man, game over! \n<br>Shop - buy and sell items/weapons \n<br>Leaderboards - compare your Adventure points with the community",
-    "release_date_on_eshop": "2016-09-29",
-    "product_code": "CTR-N-KQDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>\nThe same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.",
-    "descriptors": []
+  "tid": "0004000000186D00",
+  "uid": "50010000041660",
+  "name": "Quest of Dungeons",
+  "formal_name": "Quest of Dungeons",
+  "description": "Purchase this game at full price through Nintendo eShop and get a free digital version of Quest of Dungeons for Wii U. The same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.\n<br><br>\nOffer applies to US, Canada, and Mexico only\n<br><br>\nQuest of Dungeons is a turn based dungeon crawler game, a roguelike featuring a good old 16-bit retro artistic look. \n<br>\n<br>An evil Dark Lord has stolen all the light, so your mission is to enter his lair and defeat him. \n<br>\n<br>By playing as either a Warrior, a Wizard, a Assassin or a Shaman you have to traverse dungeons, defeat enemies and loot everything you can in order to survive. You can learn new skills in Tomes you find along the way and buy/sell items at shops. \n<br>The entire game is procedural so you won't find items/enemies in the same place each time you play. \n<br>\n<br>Features:\n<br>Procedural dungeons \n<br>Procedural weapons \n<br>Boss encounters \n<br>Quests \n<br>4 Difficulty levels \n<br>Permadeath - Once you die, game over man, game over! \n<br>Shop - buy and sell items/weapons \n<br>Leaderboards - compare your Adventure points with the community",
+  "release_date_on_eshop": "2016-09-29",
+  "product_code": "CTR-N-KQDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>\nThe same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.",
+  "descriptors": []
 }

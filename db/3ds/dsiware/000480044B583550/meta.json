@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B583550",
-    "uid": "50010000012899",
-    "name": "Snowboard Xtreme",
-    "formal_name": "Snowboard Xtreme",
-    "description": "Snowboard Xtreme offers a race\nagainst the clock through a stage\nfilled with dangers, in which you will\nneed a lot of skill because time is not\non your side. Try to take full\nadvantage of the terrain, and earn\nextra time by passing through the\nflags correctly.\n<br/><br/>\nBeat your friends and family on the\nlocal ranking and reach number one.\nDo not hesitate to take control of our\ncharacter Dundee the Mad Crocodile.\n<br/><br/>\nGood luck!!!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KX5P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Racing",
-        "Simulation",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B583550",
+  "uid": "50010000012899",
+  "name": "Snowboard Xtreme",
+  "formal_name": "Snowboard Xtreme",
+  "description": "Snowboard Xtreme offers a race\nagainst the clock through a stage\nfilled with dangers, in which you will\nneed a lot of skill because time is not\non your side. Try to take full\nadvantage of the terrain, and earn\nextra time by passing through the\nflags correctly.\n<br/><br/>\nBeat your friends and family on the\nlocal ranking and reach number one.\nDo not hesitate to take control of our\ncharacter Dundee the Mad Crocodile.\n<br/><br/>\nGood luck!!!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KX5P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Racing",
+    "Simulation",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

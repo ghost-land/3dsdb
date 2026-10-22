@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000161C00",
-    "uid": "50010000033075",
-    "name": "Heart Beaten",
-    "formal_name": "Heart Beaten",
-    "description": "What if someone loves you, but your only desire is to get away from them as fast as you can?\nHeart Beaten: the Anti-Valentine, a game in which you battle against the advances of an unwanted lover.\n<br><br>\nCrush their heart in a series of 15 epic challenges: Take to the skies in a spaceship, drive a car, or take on the role of a shotokan karate master! All in the name of crushing someone whose only desire is to make you feel loved!\n",
-    "release_date_on_eshop": "2015-04-30",
-    "product_code": "CTR-N-KHBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000161C00",
+  "uid": "50010000033075",
+  "name": "Heart Beaten",
+  "formal_name": "Heart Beaten",
+  "description": "What if someone loves you, but your only desire is to get away from them as fast as you can?\nHeart Beaten: the Anti-Valentine, a game in which you battle against the advances of an unwanted lover.\n<br><br>\nCrush their heart in a series of 15 epic challenges: Take to the skies in a spaceship, drive a car, or take on the role of a shotokan karate master! All in the name of crushing someone whose only desire is to make you feel loved!\n",
+  "release_date_on_eshop": "2015-04-30",
+  "product_code": "CTR-N-KHBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

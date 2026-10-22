@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B574745",
-    "uid": "50010000004221",
-    "name": "Animal Crossing™ Calculator",
-    "formal_name": "Animal Crossing™ Calculator",
-    "description": "Need to figure out what you owe Tom Nook or the amount in your savings account? Animal Crossing Calculator features the full functionality of a traditional calculator, including a Memory key and the ability to display up to 13 digits, and adds a layer of atmosphere unique to Animal Crossing. Use the Unit Converter to turn one unit of measure into another (such as length, weight, volume, age, and others), or track the history of calculations you’ve performed with ease. Listen to the Animalese pronunciation of numbers when you press them and watch for a favorite Animal Crossing character to appear when your result meets certain criteria. Look no further for a fun, but practical, way to experience the charm of Animal Crossing!",
-    "release_date_on_eshop": "2009-05-04",
-    "product_code": "TWL-N-KWGE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B574745",
+  "uid": "50010000004221",
+  "name": "Animal Crossing™ Calculator",
+  "formal_name": "Animal Crossing™ Calculator",
+  "description": "Need to figure out what you owe Tom Nook or the amount in your savings account? Animal Crossing Calculator features the full functionality of a traditional calculator, including a Memory key and the ability to display up to 13 digits, and adds a layer of atmosphere unique to Animal Crossing. Use the Unit Converter to turn one unit of measure into another (such as length, weight, volume, age, and others), or track the history of calculations you’ve performed with ease. Listen to the Animalese pronunciation of numbers when you press them and watch for a favorite Animal Crossing character to appear when your result meets certain criteria. Look no further for a fun, but practical, way to experience the charm of Animal Crossing!",
+  "release_date_on_eshop": "2009-05-04",
+  "product_code": "TWL-N-KWGE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

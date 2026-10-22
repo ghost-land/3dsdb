@@ -1,27 +1,27 @@
 {
-    "tid": "000400000007E400",
-    "uid": "50010000011906",
-    "name": "MYSTICAL NINJA starring\nGOEMON",
-    "formal_name": "MYSTICAL NINJA starring GOEMON",
-    "description": "Original Release Date:  April 1998                                        A mysterious group of pirates called \"The Black Ship Gang,\" appear in the Great Edo Harbor, and begin wreaking havoc across the land.  Join Goemon and his friends Ebisumaru and Sasuke as they battle to save ancient Japan from the clutches of the evil gang, and rescue their fellow ninja Yae from the gang's clutches.  MYSTICAL NINJA starring GOEMON is an action role-playing game featuring three different characters to control, each with unique skills.  Fight your way from Karakuri Castle, through bustling villages, all the way to Skull Island.  Visit towns and question the inhabitants for clues, buy items to aid your quest, and solve brain-teasing puzzles to seek out Yae and defeat the pirates.",
-    "release_date_on_eshop": "2012-09-13",
-    "product_code": "CTR-N-RBRE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000007E400",
+  "uid": "50010000011906",
+  "name": "MYSTICAL NINJA starring\nGOEMON",
+  "formal_name": "MYSTICAL NINJA starring GOEMON",
+  "description": "Original Release Date:  April 1998                                        A mysterious group of pirates called \"The Black Ship Gang,\" appear in the Great Edo Harbor, and begin wreaking havoc across the land.  Join Goemon and his friends Ebisumaru and Sasuke as they battle to save ancient Japan from the clutches of the evil gang, and rescue their fellow ninja Yae from the gang's clutches.  MYSTICAL NINJA starring GOEMON is an action role-playing game featuring three different characters to control, each with unique skills.  Fight your way from Karakuri Castle, through bustling villages, all the way to Skull Island.  Visit towns and question the inhabitants for clues, buy items to aid your quest, and solve brain-teasing puzzles to seek out Yae and defeat the pirates.",
+  "release_date_on_eshop": "2012-09-13",
+  "product_code": "CTR-N-RBRE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

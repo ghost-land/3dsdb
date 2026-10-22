@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001B1700",
-    "uid": "50010000041812",
-    "name": "好きなMiiで見る Miitopia\n(ミートピア) 予告編",
-    "formal_name": "好きなMiiで見る Miitopia\n(ミートピア) 予告編",
-    "description": "ムービーなのに、知り合いを配役できる『好きなMiiで見る Miitopia(ミートピア) 予告編』をニンテンドーeショップで無料配信中。配役一つで印象ががらっと変わるMiitopiaの世界を、自分だけの予告編でご覧いただけます。スクリーンショットを撮って、4コママンガのように複数枚つなげることもできます。お気に入りができたら、ニンテンドー3DS画像投稿ツールでシェアしてみましょう。",
-    "release_date_on_eshop": "2016-11-02",
-    "product_code": "CTR-N-ANUJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "その他"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "いつの間に通信対応",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B1700",
+  "uid": "50010000041812",
+  "name": "好きなMiiで見る Miitopia\n(ミートピア) 予告編",
+  "formal_name": "好きなMiiで見る Miitopia\n(ミートピア) 予告編",
+  "description": "ムービーなのに、知り合いを配役できる『好きなMiiで見る Miitopia(ミートピア) 予告編』をニンテンドーeショップで無料配信中。配役一つで印象ががらっと変わるMiitopiaの世界を、自分だけの予告編でご覧いただけます。スクリーンショットを撮って、4コママンガのように複数枚つなげることもできます。お気に入りができたら、ニンテンドー3DS画像投稿ツールでシェアしてみましょう。",
+  "release_date_on_eshop": "2016-11-02",
+  "product_code": "CTR-N-ANUJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "その他"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "いつの間に通信対応",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

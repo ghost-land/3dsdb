@@ -1,27 +1,27 @@
 {
-    "tid": "000400000011A100",
-    "uid": "50010000024000",
-    "name": "Pokémon™ Trading Card Game",
-    "formal_name": "Pokémon™ Trading Card Game",
-    "description": "Based on the incredibly popular Pokémon™ Trading Card Game, this Game Boy™ Color version was a hit with gamers and card collectors alike. \n<br>\n<br>Explore the game world to find opponents and gather info. Learn how to build and manage decks, win battles to receive booster packs, then take on the eight Club Masters. Your goal: to impress the Grand Masters enough to inherit their Legendary Pokémon Cards!\n<br>\n<br>Includes more than 200 Pokémon Trading Cards based on the original decks, plus new cards exclusive to this game.",
-    "release_date_on_eshop": "2014-07-10",
-    "product_code": "CTR-N-QBBP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000011A100",
+  "uid": "50010000024000",
+  "name": "Pokémon™ Trading Card Game",
+  "formal_name": "Pokémon™ Trading Card Game",
+  "description": "Based on the incredibly popular Pokémon™ Trading Card Game, this Game Boy™ Color version was a hit with gamers and card collectors alike. \n<br>\n<br>Explore the game world to find opponents and gather info. Learn how to build and manage decks, win battles to receive booster packs, then take on the eight Club Masters. Your goal: to impress the Grand Masters enough to inherit their Legendary Pokémon Cards!\n<br>\n<br>Includes more than 200 Pokémon Trading Cards based on the original decks, plus new cards exclusive to this game.",
+  "release_date_on_eshop": "2014-07-10",
+  "product_code": "CTR-N-QBBP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

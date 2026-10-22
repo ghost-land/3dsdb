@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000084600",
-    "uid": "50010000008442",
-    "name": "ピクロスe2",
-    "formal_name": "ピクロスe2",
-    "description": "ナビゲーション機能を搭載し、より快適に楽しめるようになったピクロス「ピクロスe」の続編です。本作では、前作同様150問の新規問題に加え「ミクロス」というまったく新しい遊びを提供します。\n<br>『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。シンプルかつ分かりやすいルールで、誰でも手軽に楽しめます。",
-    "release_date_on_eshop": "2011-12-28",
-    "product_code": "CTR-N-JP2J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000084600",
+  "uid": "50010000008442",
+  "name": "ピクロスe2",
+  "formal_name": "ピクロスe2",
+  "description": "ナビゲーション機能を搭載し、より快適に楽しめるようになったピクロス「ピクロスe」の続編です。本作では、前作同様150問の新規問題に加え「ミクロス」というまったく新しい遊びを提供します。\n<br>『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。シンプルかつ分かりやすいルールで、誰でも手軽に楽しめます。",
+  "release_date_on_eshop": "2011-12-28",
+  "product_code": "CTR-N-JP2J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

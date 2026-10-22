@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000113100",
-    "uid": "50010000025115",
-    "name": "Fantasy Life™",
-    "formal_name": "Fantasy Life™",
-    "description": "Embark on the adventure of your\ndream life as you craft, cast, fish,\nmine, battle and explore like never\nbefore!\n<br/><br/>\nWith the innovative Life system, your\nchoices don’t just upgrade characters\n– they help shape your journey!\nExplore a huge fantasy landscape\nbeside surly, dark paladins, slick\npirate captains, regal princesses, and\nothers who share your taste for the\nunknown.\n<br/><br/>\nChange to one of 12 Life classes at\nvirtually any time to access different\nabilities: for instance, the combat\nclass has fierce fighters, while the\ncrafter class is skilled at making\nstronger weapons and tools. If you’re\nnot in the mood for battle, switch to a\ngatherer class and spend some time\nas a lumberjack or a fisherman – it's\nyour adventure to play your way!\n<br/><br/>\nRobust open world with distinct areas\nto explore",
-    "release_date_on_eshop": "2014-09-26",
-    "product_code": "CTR-P-AFLP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000113100",
+  "uid": "50010000025115",
+  "name": "Fantasy Life™",
+  "formal_name": "Fantasy Life™",
+  "description": "Embark on the adventure of your\ndream life as you craft, cast, fish,\nmine, battle and explore like never\nbefore!\n<br/><br/>\nWith the innovative Life system, your\nchoices don’t just upgrade characters\n– they help shape your journey!\nExplore a huge fantasy landscape\nbeside surly, dark paladins, slick\npirate captains, regal princesses, and\nothers who share your taste for the\nunknown.\n<br/><br/>\nChange to one of 12 Life classes at\nvirtually any time to access different\nabilities: for instance, the combat\nclass has fierce fighters, while the\ncrafter class is skilled at making\nstronger weapons and tools. If you’re\nnot in the mood for battle, switch to a\ngatherer class and spend some time\nas a lumberjack or a fisherman – it's\nyour adventure to play your way!\n<br/><br/>\nRobust open world with distinct areas\nto explore",
+  "release_date_on_eshop": "2014-09-26",
+  "product_code": "CTR-P-AFLP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

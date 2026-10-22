@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000099200",
-    "uid": "50010000024535",
-    "name": "Blaster Master",
-    "formal_name": "Blaster Master",
-    "description": "Jason, in search of his pet frog named Fred, has fallen down a manhole into a world of danger.  Mutant-sized creatures of which the likes he never imagined, await him at every turn. In order to survive, Jason must pair up with an armored combat vehicle codenamed SOPHIA. It's panic or perish as you blast through an endless maze of tunnels, seeking secret passages for an escape. Destroy the Plutonium Boss and his mutant cronies before these warlords destroy the Earth. Load up your arsenal, and get ready for the final encounter!",
-    "release_date_on_eshop": "2014-07-24",
-    "product_code": "CTR-N-TA3E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000099200",
+  "uid": "50010000024535",
+  "name": "Blaster Master",
+  "formal_name": "Blaster Master",
+  "description": "Jason, in search of his pet frog named Fred, has fallen down a manhole into a world of danger.  Mutant-sized creatures of which the likes he never imagined, await him at every turn. In order to survive, Jason must pair up with an armored combat vehicle codenamed SOPHIA. It's panic or perish as you blast through an endless maze of tunnels, seeking secret passages for an escape. Destroy the Plutonium Boss and his mutant cronies before these warlords destroy the Earth. Load up your arsenal, and get ready for the final encounter!",
+  "release_date_on_eshop": "2014-07-24",
+  "product_code": "CTR-N-TA3E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

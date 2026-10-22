@@ -1,28 +1,28 @@
 {
-    "tid": "000400000013E900",
-    "uid": "50010000024915",
-    "name": "Gothic Masquerade",
-    "formal_name": "Gothic Masquerade",
-    "description": "Are you ready to enter the hidden haunts of the Gothic Masquerade? Shadows stretch through moonlit gardens and menace hangs over empty hallways. Can you find all the missing items before time runs out? Search ghostly rooms, mysterious landscapes and more as you seek and find hidden objects in four different haunted locations!\n<br><br>\nDelve into detailed indoor and outdoor scenes filled with over 1000 carefully placed items, plus enjoy a challenging sliding tile puzzle and spot-the-difference game for each spooky site. As you solve each new scene, you'll unlock more of the supernatural hidden object hunt.\n<br><br>\nOver 1000 hidden objects<br>\nScenes set in mysterious museum, haunted hotel, ghostly garden and cryptic castle<br>\nCasual and Timed Modes<br>\nFun seek and find gameplay<br>\nIncludes bonus sliding tile puzzles",
-    "release_date_on_eshop": "2014-08-14",
-    "product_code": "CTR-N-KGME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000013E900",
+  "uid": "50010000024915",
+  "name": "Gothic Masquerade",
+  "formal_name": "Gothic Masquerade",
+  "description": "Are you ready to enter the hidden haunts of the Gothic Masquerade? Shadows stretch through moonlit gardens and menace hangs over empty hallways. Can you find all the missing items before time runs out? Search ghostly rooms, mysterious landscapes and more as you seek and find hidden objects in four different haunted locations!\n<br><br>\nDelve into detailed indoor and outdoor scenes filled with over 1000 carefully placed items, plus enjoy a challenging sliding tile puzzle and spot-the-difference game for each spooky site. As you solve each new scene, you'll unlock more of the supernatural hidden object hunt.\n<br><br>\nOver 1000 hidden objects<br>\nScenes set in mysterious museum, haunted hotel, ghostly garden and cryptic castle<br>\nCasual and Timed Modes<br>\nFun seek and find gameplay<br>\nIncludes bonus sliding tile puzzles",
+  "release_date_on_eshop": "2014-08-14",
+  "product_code": "CTR-N-KGME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

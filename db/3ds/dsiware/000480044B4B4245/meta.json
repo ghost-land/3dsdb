@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B4B4245",
-    "uid": "50010000008482",
-    "name": "Doodle Fit",
-    "formal_name": "Doodle Fit",
-    "description": "Doodle Fit, the best-selling puzzle game, is finally here! Your task is simple: fit the given sets of blocks into given shapes. Drag the blocks inside and outside in search of the layout that covers the whole shape. A level is complete when all blocks have been used and there's no more space free in the shape. The game features over one hundred different levels with a variety of unique shapes to play with. There are almost 550 solutions in total, which means you can enjoy near unlimited replayability.",
-    "release_date_on_eshop": "2011-12-22",
-    "product_code": "TWL-N-KKBE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B4245",
+  "uid": "50010000008482",
+  "name": "Doodle Fit",
+  "formal_name": "Doodle Fit",
+  "description": "Doodle Fit, the best-selling puzzle game, is finally here! Your task is simple: fit the given sets of blocks into given shapes. Drag the blocks inside and outside in search of the layout that covers the whole shape. A level is complete when all blocks have been used and there's no more space free in the shape. The game features over one hundred different levels with a variety of unique shapes to play with. There are almost 550 solutions in total, which means you can enjoy near unlimited replayability.",
+  "release_date_on_eshop": "2011-12-22",
+  "product_code": "TWL-N-KKBE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

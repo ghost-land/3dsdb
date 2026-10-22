@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000061400",
-    "uid": "50010000007871",
-    "name": "Carnival Games®\nWild West 3D",
-    "formal_name": "Carnival Games® Wild West 3D",
-    "description": "Step right up to a high noon showdown of 3D Carnival Games® action in the Wild West! With 25 games and attractions like Outlaw Wrangler, Git the Gold and Nugget Falls, find out if you're the fastest Quick Draw in town with motion-compatible controls! Use StreetPass™ to access Bonus Slots, gussy up characters in western wearables and win jump-off-the-screen 3D prizes!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AW2E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Cartoon Violence",
-        "Simulated Gambling"
-    ]
+  "tid": "0004000000061400",
+  "uid": "50010000007871",
+  "name": "Carnival Games®\nWild West 3D",
+  "formal_name": "Carnival Games® Wild West 3D",
+  "description": "Step right up to a high noon showdown of 3D Carnival Games® action in the Wild West! With 25 games and attractions like Outlaw Wrangler, Git the Gold and Nugget Falls, find out if you're the fastest Quick Draw in town with motion-compatible controls! Use StreetPass™ to access Bonus Slots, gussy up characters in western wearables and win jump-off-the-screen 3D prizes!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AW2E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Simulated Gambling"
+  ]
 }

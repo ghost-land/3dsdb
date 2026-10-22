@@ -1,39 +1,39 @@
 {
-    "tid": "0004000000051800",
-    "uid": "50010000008422",
-    "name": "Nintendo Letter Box",
-    "formal_name": "Nintendo Letter Box",
-    "description": "Share messages and more with your\nfriends in a fun, new way with\nNintendo Letter Box.\n<br/><br/>\nThis free software allows you to send\nand receive messages via StreetPass.\nWrite a greeting or make a drawing, in\n2D or 3D, and your friends will see\nthe message animate as if it is being\nre-created before their eyes!\n<br/><br/>\nYou can also share photos and sound\neffects from your Nintendo 3DS, and\nyou can even use Play Coins to\nunlock new stationery designs.",
-    "release_date_on_eshop": "2011-12-22",
-    "product_code": "CTR-N-JFRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Communication",
-        "System Tool",
-        "Utility",
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v3.3.0",
-    "disclaimer": "Please note that the feature to send\nmessages via SpotPass™ in 'Letter\nBox' has been stopped.\n<br/><br/>\nWe greatly appreciate your\nunderstanding.",
-    "descriptors": []
+  "tid": "0004000000051800",
+  "uid": "50010000008422",
+  "name": "Nintendo Letter Box",
+  "formal_name": "Nintendo Letter Box",
+  "description": "Share messages and more with your\nfriends in a fun, new way with\nNintendo Letter Box.\n<br/><br/>\nThis free software allows you to send\nand receive messages via StreetPass.\nWrite a greeting or make a drawing, in\n2D or 3D, and your friends will see\nthe message animate as if it is being\nre-created before their eyes!\n<br/><br/>\nYou can also share photos and sound\neffects from your Nintendo 3DS, and\nyou can even use Play Coins to\nunlock new stationery designs.",
+  "release_date_on_eshop": "2011-12-22",
+  "product_code": "CTR-N-JFRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Communication",
+    "System Tool",
+    "Utility",
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v3.3.0",
+  "disclaimer": "Please note that the feature to send\nmessages via SpotPass™ in 'Letter\nBox' has been stopped.\n<br/><br/>\nWe greatly appreciate your\nunderstanding.",
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "000400000013D700",
-    "uid": "50010000026437",
-    "name": "I Love My Little Boy",
-    "formal_name": "I Love My Little Boy",
-    "description": "Look after your baby however you\nwant!\n<br/>\nFeed, dress, bathe and play with your\nlittle angel.\n\n",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-P-BLBP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000013D700",
+  "uid": "50010000026437",
+  "name": "I Love My Little Boy",
+  "formal_name": "I Love My Little Boy",
+  "description": "Look after your baby however you\nwant!\n<br/>\nFeed, dress, bathe and play with your\nlittle angel.\n\n",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-P-BLBP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E0015C000",
-    "uid": "50010000030615",
-    "name": "ACE COMBAT ASSAULT HORIZON LEGACY+ Update",
-    "formal_name": "ACE COMBAT ASSAULT HORIZON LEGACY+ Update Ver. 2.1.0",
-    "description": "Added amiibo support.\n<br><br>\nUsing the appropriate amiibo will unlock that amiibo’s aircraft and additional equipment (a cockpit item).",
-    "release_date_on_eshop": "2015-09-24",
-    "product_code": "CTR-U-BCRE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v2.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E0015C000",
+  "uid": "50010000030615",
+  "name": "ACE COMBAT ASSAULT HORIZON LEGACY+ Update",
+  "formal_name": "ACE COMBAT ASSAULT HORIZON LEGACY+ Update Ver. 2.1.0",
+  "description": "Added amiibo support.\n<br><br>\nUsing the appropriate amiibo will unlock that amiibo’s aircraft and additional equipment (a cockpit item).",
+  "release_date_on_eshop": "2015-09-24",
+  "product_code": "CTR-U-BCRE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v2.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

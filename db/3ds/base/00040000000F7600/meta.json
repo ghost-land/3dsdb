@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000F7600",
-    "uid": "50010000017558",
-    "name": "Chibi-Robo!™ Let’s Go, Photo!",
-    "formal_name": "Chibi-Robo!™ Let’s Go, Photo!",
-    "description": "The Curator dreams of immortalising\nreal-world objects as NostalJunk to\nput on display, and it’s your job as\nChibi-Robo to help him fill his\nExhibition rooms with your very own\nphotographs! Using your\nNintendo 3DS or 2DS cameras, line\nup in-game shapes with real-life\nobjects, take a snap, then watch them\nbe transformed into the coveted\nNostalJunk!\n<br/><br/>\nExplore the human world as the\nhelpful robot hero and see things from\na new – and Chibi – perspective, as\nyou meet a cast of colourful and\nhilarious characters, including a\nsushi-slinging squid, a high-flying\nsuper hero, and an eccentric pair of\nchefs. Solve their problems and clean\nup the world to earn Happy points to\nbuy Silhouette films for your camera.\nThe more happiness you spread, the\nfaster you can realise The Curator’s\ndream of having as many NostalJunk\naficionados admire his exhibits as\npossible.\n<br/><br/>\nLook out for NostalJunk Contests and\nwin exclusive costumes for Chibi-Robo\nto flaunt in-game: starting at launch,\nSpotPass contests will take place for\na limited time, and players can submit\ntheir prized photos as NostalJunk to\nNintendo!",
-    "release_date_on_eshop": "2014-07-03",
-    "product_code": "CTR-N-JPMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F7600",
+  "uid": "50010000017558",
+  "name": "Chibi-Robo!™ Let’s Go, Photo!",
+  "formal_name": "Chibi-Robo!™ Let’s Go, Photo!",
+  "description": "The Curator dreams of immortalising\nreal-world objects as NostalJunk to\nput on display, and it’s your job as\nChibi-Robo to help him fill his\nExhibition rooms with your very own\nphotographs! Using your\nNintendo 3DS or 2DS cameras, line\nup in-game shapes with real-life\nobjects, take a snap, then watch them\nbe transformed into the coveted\nNostalJunk!\n<br/><br/>\nExplore the human world as the\nhelpful robot hero and see things from\na new – and Chibi – perspective, as\nyou meet a cast of colourful and\nhilarious characters, including a\nsushi-slinging squid, a high-flying\nsuper hero, and an eccentric pair of\nchefs. Solve their problems and clean\nup the world to earn Happy points to\nbuy Silhouette films for your camera.\nThe more happiness you spread, the\nfaster you can realise The Curator’s\ndream of having as many NostalJunk\naficionados admire his exhibits as\npossible.\n<br/><br/>\nLook out for NostalJunk Contests and\nwin exclusive costumes for Chibi-Robo\nto flaunt in-game: starting at launch,\nSpotPass contests will take place for\na limited time, and players can submit\ntheir prized photos as NostalJunk to\nNintendo!",
+  "release_date_on_eshop": "2014-07-03",
+  "product_code": "CTR-N-JPMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

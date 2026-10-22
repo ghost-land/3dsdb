@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000AF200",
-    "uid": "50010000012389",
-    "name": "Samurai G™",
-    "formal_name": "Samurai G™",
-    "description": "Become the Shining Samurai of\nlegend! Samurai G™ is a non-stop\naction game that will challenge\nplayers of all levels! As Tetsuo, you\nmust collect as much of Tengu’s Gold\nas possible before the evil Warlord\nFuma’s assassins do. Tengu’s Gold is\nrumoured to possess the power of\nTengu, the harbinger of war himself!\nActivate Golden Mode to harness the\npower of Tengu’s Gold and see why\nthis power must not fall into the\nwrong hands! Defeat Fuma’s assassins\nand avoid deadly traps on your quest\nto becoming the Shining Samurai!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JSGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AF200",
+  "uid": "50010000012389",
+  "name": "Samurai G™",
+  "formal_name": "Samurai G™",
+  "description": "Become the Shining Samurai of\nlegend! Samurai G™ is a non-stop\naction game that will challenge\nplayers of all levels! As Tetsuo, you\nmust collect as much of Tengu’s Gold\nas possible before the evil Warlord\nFuma’s assassins do. Tengu’s Gold is\nrumoured to possess the power of\nTengu, the harbinger of war himself!\nActivate Golden Mode to harness the\npower of Tengu’s Gold and see why\nthis power must not fall into the\nwrong hands! Defeat Fuma’s assassins\nand avoid deadly traps on your quest\nto becoming the Shining Samurai!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JSGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001A4900",
-    "uid": "50010000042884",
-    "name": "Ever Oasis™",
-    "formal_name": "Ever Oasis™",
-    "description": "Long ago, the world was ensnared in Chaos – a dark force that threatened civilisations across the land. In order to shelter the people from harm, a prosperous oasis was built, but a powerful beast soon appeared in the skies above and rained down destruction, leaving nothing but ruin.\n<br>\n<br>Now, as a chosen Seedling and descendant of those ill-fated people, it’s down to you to pioneer a new oasis, secure a peaceful existence for those who inhabit the land, and banish the evil Chaos once and for all.\n<br>\n<br>Travel beyond the safety of your oasis and into a sprawling desert ruled by Chaos. Unearth and explore puzzle-filled dungeons, and forge new allegiances along the way!",
-    "release_date_on_eshop": "2017-06-23",
-    "product_code": "CTR-P-BAGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A4900",
+  "uid": "50010000042884",
+  "name": "Ever Oasis™",
+  "formal_name": "Ever Oasis™",
+  "description": "Long ago, the world was ensnared in Chaos – a dark force that threatened civilisations across the land. In order to shelter the people from harm, a prosperous oasis was built, but a powerful beast soon appeared in the skies above and rained down destruction, leaving nothing but ruin.\n<br>\n<br>Now, as a chosen Seedling and descendant of those ill-fated people, it’s down to you to pioneer a new oasis, secure a peaceful existence for those who inhabit the land, and banish the evil Chaos once and for all.\n<br>\n<br>Travel beyond the safety of your oasis and into a sprawling desert ruled by Chaos. Unearth and explore puzzle-filled dungeons, and forge new allegiances along the way!",
+  "release_date_on_eshop": "2017-06-23",
+  "product_code": "CTR-P-BAGP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

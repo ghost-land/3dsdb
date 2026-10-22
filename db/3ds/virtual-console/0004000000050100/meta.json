@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000050100",
-    "uid": "50010000031335",
-    "name": "Donkey Kong Land™",
-    "formal_name": "Donkey Kong Land™",
-    "description": "Cranky Kong doesn't think Donkey Kong has proven himself to be a hero yet. So, he decides to work out a deal with the closest villain that he knows. K. Rool and his baddies have hidden bananas in new places across Donkey Kong Island in another attempt to outwit the best-friend duo. And the only response is for Donkey Kong and Diddy Kong to go off on another adventure! With over 30 levels plus tons of hidden secrets, swing, roll, jump, and barrel blast through worlds swarming with returning and original enemies. Creep along a mysterious pirate ship, trudge through fierce snow, swim in an unbelievable aquatic temple, and start some crazy capers in the sky. There will also be some animal friends waiting to help out. Cranky Kong is off his rocker if he thinks Donkey Kong won't step up to the challenge. ",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-N-RA3E",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000050100",
+  "uid": "50010000031335",
+  "name": "Donkey Kong Land™",
+  "formal_name": "Donkey Kong Land™",
+  "description": "Cranky Kong doesn't think Donkey Kong has proven himself to be a hero yet. So, he decides to work out a deal with the closest villain that he knows. K. Rool and his baddies have hidden bananas in new places across Donkey Kong Island in another attempt to outwit the best-friend duo. And the only response is for Donkey Kong and Diddy Kong to go off on another adventure! With over 30 levels plus tons of hidden secrets, swing, roll, jump, and barrel blast through worlds swarming with returning and original enemies. Creep along a mysterious pirate ship, trudge through fierce snow, swim in an unbelievable aquatic temple, and start some crazy capers in the sky. There will also be some animal friends waiting to help out. Cranky Kong is off his rocker if he thinks Donkey Kong won't step up to the challenge. ",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-N-RA3E",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

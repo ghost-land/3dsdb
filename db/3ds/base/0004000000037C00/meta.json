@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000037C00",
-    "uid": "50010000000205",
-    "name": "PES 2011 3D",
-    "formal_name": "Pro Evolution Soccer 2011 3D",
-    "description": "PES 2011 3D boosts your\nexperience of the Beautiful Game not\njust to a new level, but into a\ncompletely new dimension! Revel in\nPES 2011 3D’s big game\natmosphere, its stunning 3D visuals\nand perfect gameplay. Enjoy the many\nGame Modes it offers, including the\nabsorbing Master League mode and\nthe world’s most prestigious club\nfootball tournament: the UEFA\nChampions League.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AEEP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000037C00",
+  "uid": "50010000000205",
+  "name": "PES 2011 3D",
+  "formal_name": "Pro Evolution Soccer 2011 3D",
+  "description": "PES 2011 3D boosts your\nexperience of the Beautiful Game not\njust to a new level, but into a\ncompletely new dimension! Revel in\nPES 2011 3D’s big game\natmosphere, its stunning 3D visuals\nand perfect gameplay. Enjoy the many\nGame Modes it offers, including the\nabsorbing Master League mode and\nthe world’s most prestigious club\nfootball tournament: the UEFA\nChampions League.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AEEP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000400000004F100",
-    "uid": "50010000007380",
-    "name": "Mega Man™:\nDr. Wily's Revenge",
-    "formal_name": "Mega Man™: Dr. Wily's Revenge",
-    "description": "Dr. Wily is at it again! Fresh from his defeat at the hands of Mega Man, the mad scientist Dr. Wily has revived his Robot Masters and even constructed a new “Mega Man Killer” named Enker, all in his quest for global domination. Now, only Mega Man can save the world from destruction! Featuring content from the original Mega Man and Mega Man 2, play as Capcom’s iconic cybernetic superhero in his first portable adventure, as you fight through four stages in order to send Dr. Wily and his eight evil creations back to the trash heap!",
-    "release_date_on_eshop": "2011-09-15",
-    "product_code": "CTR-N-RAWE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000004F100",
+  "uid": "50010000007380",
+  "name": "Mega Man™:\nDr. Wily's Revenge",
+  "formal_name": "Mega Man™: Dr. Wily's Revenge",
+  "description": "Dr. Wily is at it again! Fresh from his defeat at the hands of Mega Man, the mad scientist Dr. Wily has revived his Robot Masters and even constructed a new “Mega Man Killer” named Enker, all in his quest for global domination. Now, only Mega Man can save the world from destruction! Featuring content from the original Mega Man and Mega Man 2, play as Capcom’s iconic cybernetic superhero in his first portable adventure, as you fight through four stages in order to send Dr. Wily and his eight evil creations back to the trash heap!",
+  "release_date_on_eshop": "2011-09-15",
+  "product_code": "CTR-N-RAWE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B493645",
-    "uid": "50010000002012",
-    "name": "16 Shot! SHOOTING WATCH",
-    "formal_name": "16 Shot! SHOOTING WATCH",
-    "description": "Challenging fun and excitement in just ten seconds! Back in the 8-bit glory days, Hudson's own \"Master Higgins\" a.k.a. Takahashi Meijin, made a splash in the gaming world with his astonishing trigger finger speed of 16 shots per second. Can YOU break the Master's record?\n\nWhat's more, there's a graph analysis feature that breaks down your stats and indicates your weak spots. Use it effectively to improve your trigger finger performance!\n\nIf you get a high score, you can leave your customized signature using the Touch Screen. Get your family and friends to compete for some serious rapid-fire fun!",
-    "release_date_on_eshop": "2010-06-14",
-    "product_code": "TWL-N-KI6E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B493645",
+  "uid": "50010000002012",
+  "name": "16 Shot! SHOOTING WATCH",
+  "formal_name": "16 Shot! SHOOTING WATCH",
+  "description": "Challenging fun and excitement in just ten seconds! Back in the 8-bit glory days, Hudson's own \"Master Higgins\" a.k.a. Takahashi Meijin, made a splash in the gaming world with his astonishing trigger finger speed of 16 shots per second. Can YOU break the Master's record?\n\nWhat's more, there's a graph analysis feature that breaks down your stats and indicates your weak spots. Use it effectively to improve your trigger finger performance!\n\nIf you get a high score, you can leave your customized signature using the Touch Screen. Get your family and friends to compete for some serious rapid-fire fun!",
+  "release_date_on_eshop": "2010-06-14",
+  "product_code": "TWL-N-KI6E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

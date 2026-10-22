@@ -1,29 +1,29 @@
 {
-    "tid": "000400000015B900",
-    "uid": "50010000036495",
-    "name": "3D Gunstar Heroes",
-    "formal_name": "3D Gunstar Heroes",
-    "description": "Treasure’s visually stunning side\n<br>scrolling shooter, Gunstar Heroes is\n<br>now re-mastered in 3D! Take\n<br>advantage of Gunslinger Mode by\n<br>choosing between FREE and FIXED\n<br>shot modes on the fly and cycling\n<br>through all your weapons. However,\n<br>firepower can only take you so far! Go\n<br>the distance and make it to the\n<br>long-awaited boss battles with double\n<br>life with the new Mega Life Mode.\n<br>Take on the enemies alone or with a\n<br>friend using two-player co-op via local\n<br>wireless and prevent the world from\n<br>destruction.",
-    "release_date_on_eshop": "2015-08-20",
-    "product_code": "CTR-N-KGHP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015B900",
+  "uid": "50010000036495",
+  "name": "3D Gunstar Heroes",
+  "formal_name": "3D Gunstar Heroes",
+  "description": "Treasure’s visually stunning side\n<br>scrolling shooter, Gunstar Heroes is\n<br>now re-mastered in 3D! Take\n<br>advantage of Gunslinger Mode by\n<br>choosing between FREE and FIXED\n<br>shot modes on the fly and cycling\n<br>through all your weapons. However,\n<br>firepower can only take you so far! Go\n<br>the distance and make it to the\n<br>long-awaited boss battles with double\n<br>life with the new Mega Life Mode.\n<br>Take on the enemies alone or with a\n<br>friend using two-player co-op via local\n<br>wireless and prevent the world from\n<br>destruction.",
+  "release_date_on_eshop": "2015-08-20",
+  "product_code": "CTR-N-KGHP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

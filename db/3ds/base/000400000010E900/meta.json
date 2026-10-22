@@ -1,32 +1,32 @@
 {
-    "tid": "000400000010E900",
-    "uid": "50010000022575",
-    "name": "Squids Odyssey",
-    "formal_name": "Squids Odyssey",
-    "description": "Squids Odyssey is a unique mix of action strategy and RPG: build your team of Squid heroes for epic turn-based battles against corrupted crabs and shrimps!\n<br><br>\nSteev, Vahine and the rest of the Squids are in danger! An infectious black ooze is corrupting their world. The band of unlikely heroes need to fight back to save their  underwater kingdom! \n<br><br>\nSquids Odyssey is not just about gorgeous cartoon art, jaunty music and humorous storytelling, the battles also provide a deep challenge as strategy and skill are required to use the environment, the Squids’ strengths, and enemies’ weaknesses to victory!\n<br><br>\nFeatures:<br>\nRecruit a unique team of Squids in four different classes: shooters, scouts, troopers and healers<br>\nCustomize your party with special ability-boosting and crazy looking helmets<br>\nAn epic story with giant turtle rides and heroic boss battles<br>\nDiscover the Squids' legendary  world through gorgeous levels<br>\nMore than 15 hours of gameplay, 90+ levels and 15 Squids, plus the Pro Mode!",
-    "release_date_on_eshop": "2014-07-03",
-    "product_code": "CTR-N-JCJE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Strategy",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000010E900",
+  "uid": "50010000022575",
+  "name": "Squids Odyssey",
+  "formal_name": "Squids Odyssey",
+  "description": "Squids Odyssey is a unique mix of action strategy and RPG: build your team of Squid heroes for epic turn-based battles against corrupted crabs and shrimps!\n<br><br>\nSteev, Vahine and the rest of the Squids are in danger! An infectious black ooze is corrupting their world. The band of unlikely heroes need to fight back to save their  underwater kingdom! \n<br><br>\nSquids Odyssey is not just about gorgeous cartoon art, jaunty music and humorous storytelling, the battles also provide a deep challenge as strategy and skill are required to use the environment, the Squids’ strengths, and enemies’ weaknesses to victory!\n<br><br>\nFeatures:<br>\nRecruit a unique team of Squids in four different classes: shooters, scouts, troopers and healers<br>\nCustomize your party with special ability-boosting and crazy looking helmets<br>\nAn epic story with giant turtle rides and heroic boss battles<br>\nDiscover the Squids' legendary  world through gorgeous levels<br>\nMore than 15 hours of gameplay, 90+ levels and 15 Squids, plus the Pro Mode!",
+  "release_date_on_eshop": "2014-07-03",
+  "product_code": "CTR-N-JCJE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Strategy",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

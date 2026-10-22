@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000161500",
-    "uid": "50010000032696",
-    "name": "Heart Beaten",
-    "formal_name": "Heart Beaten",
-    "description": "What if someone loves you, but your\n<br>only desire is to get away from them\n<br>as fast as you can?\n<br>\n<br>Heart Beaten: the Anti-Valentine, a\n<br>game in which you battle against the\n<br>advances of an unwanted lover.\n<br> \n<br>Crush their heart in a series of 15\n<br>epic challenges: Take to the skies in a\n<br>spaceship, drive a car, or take on the\n<br>role of a shotokan karate master! All\n<br>in the name of crushing someone\n<br>whose only desire is to make you feel\n<br>loved!\n<br> \n<br>This game is the Anti-Valentine!\n<br>Crush your admirer’s hearts in a series\n<br>of epic challenges! From piloting a\n<br>Plane over the Bikini Atoll to being a\n<br>chef wielding a super-powered\n<br>blender, there are countless ways for\n<br>you to defeat your lovers affections\n<br>and destroy their heart.",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-N-KHBP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000161500",
+  "uid": "50010000032696",
+  "name": "Heart Beaten",
+  "formal_name": "Heart Beaten",
+  "description": "What if someone loves you, but your\n<br>only desire is to get away from them\n<br>as fast as you can?\n<br>\n<br>Heart Beaten: the Anti-Valentine, a\n<br>game in which you battle against the\n<br>advances of an unwanted lover.\n<br> \n<br>Crush their heart in a series of 15\n<br>epic challenges: Take to the skies in a\n<br>spaceship, drive a car, or take on the\n<br>role of a shotokan karate master! All\n<br>in the name of crushing someone\n<br>whose only desire is to make you feel\n<br>loved!\n<br> \n<br>This game is the Anti-Valentine!\n<br>Crush your admirer’s hearts in a series\n<br>of epic challenges! From piloting a\n<br>Plane over the Bikini Atoll to being a\n<br>chef wielding a super-powered\n<br>blender, there are countless ways for\n<br>you to defeat your lovers affections\n<br>and destroy their heart.",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-N-KHBP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

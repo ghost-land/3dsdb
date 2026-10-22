@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001BC900",
-    "uid": "50010000042482",
-    "name": "FIRE EMBLEM Echoes 另一位英雄王 (中日版)",
-    "formal_name": "FIRE EMBLEM Echoes 另一位英雄王 (中日版)",
-    "description": "瓦倫西亞陸地分為南北兩部分的利蓋爾帝國以及索菲亞王國。為陷入混亂局面的兩國而擔憂，少年阿雷武和少女賽莉卡挺身抗爭追求和平。\n<br>\n<br>1992年發售的第2系列作『ファイアーエムブレム 外伝』的重制作品。從2位主角的角度描寫戰亂，系列初期代表作在Nintendo 3DS重現，比以往更戲劇性和更易操作。",
-    "release_date_on_eshop": "2017-04-20",
-    "product_code": "CTR-P-AJJW",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "角色扮演",
-        "模擬"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊",
-        "amiibo"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "00040000001BC900",
+  "uid": "50010000042482",
+  "name": "FIRE EMBLEM Echoes 另一位英雄王 (中日版)",
+  "formal_name": "FIRE EMBLEM Echoes 另一位英雄王 (中日版)",
+  "description": "瓦倫西亞陸地分為南北兩部分的利蓋爾帝國以及索菲亞王國。為陷入混亂局面的兩國而擔憂，少年阿雷武和少女賽莉卡挺身抗爭追求和平。\n<br>\n<br>1992年發售的第2系列作『ファイアーエムブレム 外伝』的重制作品。從2位主角的角度描寫戰亂，系列初期代表作在Nintendo 3DS重現，比以往更戲劇性和更易操作。",
+  "release_date_on_eshop": "2017-04-20",
+  "product_code": "CTR-P-AJJW",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "角色扮演",
+    "模擬"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "amiibo"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "諮詢處：general@nintendo.com.hk",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000400000016BF00",
-    "uid": "50010000032877",
-    "name": "퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션 체험판",
-    "formal_name": "퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션 체험판",
-    "description": "「퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션」의 체험판입니다. \n돌연 버섯왕국에 나타난 드롭.\n그 힘을 악용해 피치공주를 납치한 쿠파와 부하들. 드롭의 힘을 빌려 피치공주를 구하자!\n\n※ 「퍼즐앤드래곤 Z」는 체험판에서는 플레이할 수 없습니다.",
-    "release_date_on_eshop": "2015-05-01",
-    "product_code": "CTR-N-KPMK",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Digital Demos",
-    "genres": [
-        "퍼즐",
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016BF00",
+  "uid": "50010000032877",
+  "name": "퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션 체험판",
+  "formal_name": "퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션 체험판",
+  "description": "「퍼즐앤드래곤 Z + 퍼즐앤드래곤 슈퍼 마리오브라더스 에디션」의 체험판입니다. \n돌연 버섯왕국에 나타난 드롭.\n그 힘을 악용해 피치공주를 납치한 쿠파와 부하들. 드롭의 힘을 빌려 피치공주를 구하자!\n\n※ 「퍼즐앤드래곤 Z」는 체험판에서는 플레이할 수 없습니다.",
+  "release_date_on_eshop": "2015-05-01",
+  "product_code": "CTR-N-KPMK",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Digital Demos",
+  "genres": [
+    "퍼즐",
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

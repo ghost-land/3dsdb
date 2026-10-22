@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000123500",
-    "uid": "50010000029375",
-    "name": "Best of Mahjong",
-    "formal_name": "Best of Mahjong",
-    "description": "Relax your mind with the ancient game of tiles.\n<br><br>\nBest of Mahjong features 404 layouts of  the traditional tile-matching game in 3D, each with millions of different shuffles to play. The game's style and interface has been designed for easy and intuitive operation with the stylus or +Control Pad. The graphics can be customized with fabulous tile-sets and backgrounds.\n<br><br>\nSit back, relax and enjoy the endless challenge with this Mahjong game collection.",
-    "release_date_on_eshop": "2015-01-15",
-    "product_code": "CTR-N-JVME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000123500",
+  "uid": "50010000029375",
+  "name": "Best of Mahjong",
+  "formal_name": "Best of Mahjong",
+  "description": "Relax your mind with the ancient game of tiles.\n<br><br>\nBest of Mahjong features 404 layouts of  the traditional tile-matching game in 3D, each with millions of different shuffles to play. The game's style and interface has been designed for easy and intuitive operation with the stylus or +Control Pad. The graphics can be customized with fabulous tile-sets and backgrounds.\n<br><br>\nSit back, relax and enjoy the endless challenge with this Mahjong game collection.",
+  "release_date_on_eshop": "2015-01-15",
+  "product_code": "CTR-N-JVME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

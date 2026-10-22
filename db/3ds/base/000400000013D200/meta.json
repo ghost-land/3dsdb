@@ -1,29 +1,29 @@
 {
-    "tid": "000400000013D200",
-    "uid": "50010000026577",
-    "name": "Ninja Battle Heroes",
-    "formal_name": "Ninja Battle Heroes",
-    "description": "Grab your katana and a ninja throwing stars and embark on a journey that will take you across Japan in your mission to find the missing Yukimura and his Beast Brigade!\n<br><br>\nUse your katana to slash through enemies coming at you front and back as you make your way through cities, forests and across water falls. Take out enemies in the distance with ninja throwing stars before they shoot or charge towards you.\n<br><br>\nAbsorb Spirit from each enemy you defeat and use it to summon powerful heroes that you've rescued on your journey. Make use of their powers including firewalls, ice pillars, cyclones, quakes and even flight as you come face to face with greater and greater foes on your journey to find the missing Beast Brigade!",
-    "release_date_on_eshop": "2014-10-09",
-    "product_code": "CTR-N-JNNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000013D200",
+  "uid": "50010000026577",
+  "name": "Ninja Battle Heroes",
+  "formal_name": "Ninja Battle Heroes",
+  "description": "Grab your katana and a ninja throwing stars and embark on a journey that will take you across Japan in your mission to find the missing Yukimura and his Beast Brigade!\n<br><br>\nUse your katana to slash through enemies coming at you front and back as you make your way through cities, forests and across water falls. Take out enemies in the distance with ninja throwing stars before they shoot or charge towards you.\n<br><br>\nAbsorb Spirit from each enemy you defeat and use it to summon powerful heroes that you've rescued on your journey. Make use of their powers including firewalls, ice pillars, cyclones, quakes and even flight as you come face to face with greater and greater foes on your journey to find the missing Beast Brigade!",
+  "release_date_on_eshop": "2014-10-09",
+  "product_code": "CTR-N-JNNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

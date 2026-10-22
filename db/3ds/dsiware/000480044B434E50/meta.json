@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B434E50",
-    "uid": "50010000002701",
-    "name": "Castle Conqueror\n(English Version)",
-    "formal_name": "Castle Conqueror\n(English Version)",
-    "description": "Castle Conqueror is a real-time\nstrategy game for casual gamers. You\nplay a commander who must resist the\nenemy empire and save the lives of\nthe people. Lead your soldiers into\nbattle, seize the enemy’s castle and\nwin victories until you destroy the\nempire on the mainland!<br>\n<br>\nThere are 5 chapters in total, each\ncontaining 10 stages. The male and\nfemale commander use different\neffective cards. The Gold cards you\nreceive after winning a stage can be\nused to upgrade your attributes or to\nbuy items.<br>\n<br>\nIn-game text will be in English.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KCNP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B434E50",
+  "uid": "50010000002701",
+  "name": "Castle Conqueror\n(English Version)",
+  "formal_name": "Castle Conqueror\n(English Version)",
+  "description": "Castle Conqueror is a real-time\nstrategy game for casual gamers. You\nplay a commander who must resist the\nenemy empire and save the lives of\nthe people. Lead your soldiers into\nbattle, seize the enemy’s castle and\nwin victories until you destroy the\nempire on the mainland!<br>\n<br>\nThere are 5 chapters in total, each\ncontaining 10 stages. The male and\nfemale commander use different\neffective cards. The Gold cards you\nreceive after winning a stage can be\nused to upgrade your attributes or to\nbuy items.<br>\n<br>\nIn-game text will be in English.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KCNP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

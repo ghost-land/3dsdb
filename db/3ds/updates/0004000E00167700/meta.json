@@ -1,33 +1,33 @@
 {
-    "tid": "0004000E00167700",
-    "uid": "50010000038335",
-    "name": "YO-KAI WATCH™ Update\nVer. 1.2",
-    "formal_name": "YO-KAI WATCH™ Update\nVer. 1.2",
-    "description": "This is an update for the YO-KAI WATCH™ game. This download does not contain the full version of the title. In order to use this update, you must have the full version of YO-KAI WATCH™.\n<br><br>\nYou can play your YO-KAI WATCH in Spanish or French if you download this patch from Nintendo eShop. Install the patch on your system, and set your system language to Spanish or French. It will change in-game text and character voices to your set language. *This patch is not compatible with YO-KAI WATCH eShop demo.",
-    "release_date_on_eshop": "2016-02-25",
-    "product_code": "CTR-U-AYWE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v2.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E00167700",
+  "uid": "50010000038335",
+  "name": "YO-KAI WATCH™ Update\nVer. 1.2",
+  "formal_name": "YO-KAI WATCH™ Update\nVer. 1.2",
+  "description": "This is an update for the YO-KAI WATCH™ game. This download does not contain the full version of the title. In order to use this update, you must have the full version of YO-KAI WATCH™.\n<br><br>\nYou can play your YO-KAI WATCH in Spanish or French if you download this patch from Nintendo eShop. Install the patch on your system, and set your system language to Spanish or French. It will change in-game text and character voices to your set language. *This patch is not compatible with YO-KAI WATCH eShop demo.",
+  "release_date_on_eshop": "2016-02-25",
+  "product_code": "CTR-U-AYWE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v2.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

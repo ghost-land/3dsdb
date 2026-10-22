@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000DEC00",
-    "uid": "50010000021634",
-    "name": "Mach Rider™",
-    "formal_name": "Mach Rider™",
-    "description": "Take to high speeds in a desperate race to save the planet!\n<br><br>\nIt's the year 2112. Earth has been invaded by the forces of evil. Battle the invaders as you race from sector to sector on your motorcycle, searching for survivors. Feel the incredible sense of speed as you zip past evil Quadrunners and zigzag between treacherous rocks, oil spills and other obstacles on the course. For a different challenge, create your own course in Design Mode, using the various twists, turns and straightaways the game has to offer. Remember, you are Earth's only hope—you are Mach Rider.",
-    "release_date_on_eshop": "2014-04-10",
-    "product_code": "CTR-N-TC8E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Racing",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000DEC00",
+  "uid": "50010000021634",
+  "name": "Mach Rider™",
+  "formal_name": "Mach Rider™",
+  "description": "Take to high speeds in a desperate race to save the planet!\n<br><br>\nIt's the year 2112. Earth has been invaded by the forces of evil. Battle the invaders as you race from sector to sector on your motorcycle, searching for survivors. Feel the incredible sense of speed as you zip past evil Quadrunners and zigzag between treacherous rocks, oil spills and other obstacles on the course. For a different challenge, create your own course in Design Mode, using the various twists, turns and straightaways the game has to offer. Remember, you are Earth's only hope—you are Mach Rider.",
+  "release_date_on_eshop": "2014-04-10",
+  "product_code": "CTR-N-TC8E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Racing",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

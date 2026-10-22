@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000C0D00",
-    "uid": "50010000018276",
-    "name": "3D Super Hang-On",
-    "formal_name": "3D Super Hang-On",
-    "description": "Gear up for ultimate speed in Super Hang-On.\n<br><Br>\nTour through 48 challenging tracks on four continents and discover the rush of true arcade game play as you blaze through checkpoints in a race to beat the clock and your competitors. Experience the thrill of street bike racing and earn your place at the top of the scoreboards in this must-have classic.\n<br><Br>\nIn addition to its all-new 3D presentation, 3D Super Hang-On also features Tilt Controls and a Moving Cabinet mode!\n<br><Br>\nStarting November 28, SEGA® of America Inc. will be releasing eight highly-anticipated 3D remakes of iconic arcade classics for the Nintendo 3DS handheld system.  This game is one of the titles available for download in the Nintendo eShop.  Check back for more.",
-    "release_date_on_eshop": "2013-11-28",
-    "product_code": "CTR-N-JHAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Racing",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C0D00",
+  "uid": "50010000018276",
+  "name": "3D Super Hang-On",
+  "formal_name": "3D Super Hang-On",
+  "description": "Gear up for ultimate speed in Super Hang-On.\n<br><Br>\nTour through 48 challenging tracks on four continents and discover the rush of true arcade game play as you blaze through checkpoints in a race to beat the clock and your competitors. Experience the thrill of street bike racing and earn your place at the top of the scoreboards in this must-have classic.\n<br><Br>\nIn addition to its all-new 3D presentation, 3D Super Hang-On also features Tilt Controls and a Moving Cabinet mode!\n<br><Br>\nStarting November 28, SEGA® of America Inc. will be releasing eight highly-anticipated 3D remakes of iconic arcade classics for the Nintendo 3DS handheld system.  This game is one of the titles available for download in the Nintendo eShop.  Check back for more.",
+  "release_date_on_eshop": "2013-11-28",
+  "product_code": "CTR-N-JHAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Racing",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

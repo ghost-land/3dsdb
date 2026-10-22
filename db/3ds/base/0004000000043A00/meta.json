@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000043A00",
-    "uid": "50010000007076",
-    "name": "Captain America™:\nSuper Soldier",
-    "formal_name": "Captain America™: Super Soldier",
-    "description": "Become Captain America, the ultimate Super-Soldier, as you face the Red Skull’s army in this gripping original third-person action adventure set in the darkest days of World War II. Wield Captain America’s legendary shield to take out enemies at a distance, interact with your environment, and deflect incoming fire back at foes as you traverse Hydra’s massive castle to save the world from Cap’s villainous archenemies.\n<br><br>\nUsing a highly athletic combat system, spectacular shield attacks, melee combos, and fluid platforming, infiltrate a mysterious castle complex and battle the cunning scientist Arnim Zola, the Hydra Army, and a host of evil enemies under the Red Skull’s control. Move freely through castle battlegrounds that serve as both an acrobatic playground for Captain America’s superhuman abilities and a house of mystery with enemies and danger at every turn.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ACAE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Violence"
-    ]
+  "tid": "0004000000043A00",
+  "uid": "50010000007076",
+  "name": "Captain America™:\nSuper Soldier",
+  "formal_name": "Captain America™: Super Soldier",
+  "description": "Become Captain America, the ultimate Super-Soldier, as you face the Red Skull’s army in this gripping original third-person action adventure set in the darkest days of World War II. Wield Captain America’s legendary shield to take out enemies at a distance, interact with your environment, and deflect incoming fire back at foes as you traverse Hydra’s massive castle to save the world from Cap’s villainous archenemies.\n<br><br>\nUsing a highly athletic combat system, spectacular shield attacks, melee combos, and fluid platforming, infiltrate a mysterious castle complex and battle the cunning scientist Arnim Zola, the Hydra Army, and a host of evil enemies under the Red Skull’s control. Move freely through castle battlegrounds that serve as both an acrobatic playground for Captain America’s superhuman abilities and a house of mystery with enemies and danger at every turn.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ACAE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Violence"
+  ]
 }

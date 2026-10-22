@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000164600",
-    "uid": "50010000032056",
-    "name": "Pokémon Rumble World",
-    "formal_name": "Pokémon Rumble World",
-    "description": "Wind up for an exciting adventure\nwith Toy Pokémon in Pokémon\nRumble World, available from\nNintendo eShop for Nintendo 3DS\nfamily systems. In this action-packed\ntitle, battle through a variety of\nenvironments to collect more than\n700 Toy Pokémon, and explore the\nkingdom of toys as your Mii!\n<br/><br/>\nThe ruler of the kingdom of toys has\nsent you on an adventure to track\ndown as many Toy Pokémon as you\ncan. Catch hot-air balloons to\ndifferent areas to find all kinds of Toy\nPokémon, including Pokémon from\nPokémon Red and Pokémon Blue right\nthrough to Pokémon Omega Ruby and\nPokémon Alpha Sapphire – some can\neven Mega Evolve! Where you go\ndepends on the type of hot-air balloon\nyou use, and you never know exactly\nwhere you’ll land in an area!",
-    "release_date_on_eshop": "2015-04-08",
-    "product_code": "CTR-N-KCFA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Region Free",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "In-Game Purchases",
-    "descriptors": []
+  "tid": "0004000000164600",
+  "uid": "50010000032056",
+  "name": "Pokémon Rumble World",
+  "formal_name": "Pokémon Rumble World",
+  "description": "Wind up for an exciting adventure\nwith Toy Pokémon in Pokémon\nRumble World, available from\nNintendo eShop for Nintendo 3DS\nfamily systems. In this action-packed\ntitle, battle through a variety of\nenvironments to collect more than\n700 Toy Pokémon, and explore the\nkingdom of toys as your Mii!\n<br/><br/>\nThe ruler of the kingdom of toys has\nsent you on an adventure to track\ndown as many Toy Pokémon as you\ncan. Catch hot-air balloons to\ndifferent areas to find all kinds of Toy\nPokémon, including Pokémon from\nPokémon Red and Pokémon Blue right\nthrough to Pokémon Omega Ruby and\nPokémon Alpha Sapphire – some can\neven Mega Evolve! Where you go\ndepends on the type of hot-air balloon\nyou use, and you never know exactly\nwhere you’ll land in an area!",
+  "release_date_on_eshop": "2015-04-08",
+  "product_code": "CTR-N-KCFA",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Region Free",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "In-Game Purchases",
+  "descriptors": []
 }

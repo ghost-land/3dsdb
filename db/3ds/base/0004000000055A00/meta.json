@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000055A00",
-    "uid": "50010000011979",
-    "name": "The Cube",
-    "formal_name": "The Cube",
-    "description": "Have you got what it takes to beat\n<br>The Cube?\n<br><br/><br/>\n<br>If you’re a fan of the TV show, you\n<br>know that the aim of the game is to\n<br>win seven consecutive challenges\n<br>chosen by The Cube in order to walk\n<br>away with the maximum prize of\n<br>£250,000. Money ratings shown are\n<br>illustrative only. No cash prizes are\n<br>offered for playing this game.\n<br><br/><br/>\n<br>It’s the same on your\n<br>Nintendo 3DS™, although there are a\n<br>couple of extra challenges and new\n<br>ways to play. You can even challenge\n<br>friends and family to see if anyone has\n<br>what it takes. And because you‘re\n<br>playing for fun not real cash, you can\n<br>play as many times as you like.",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-P-ACZP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000055A00",
+  "uid": "50010000011979",
+  "name": "The Cube",
+  "formal_name": "The Cube",
+  "description": "Have you got what it takes to beat\n<br>The Cube?\n<br><br/><br/>\n<br>If you’re a fan of the TV show, you\n<br>know that the aim of the game is to\n<br>win seven consecutive challenges\n<br>chosen by The Cube in order to walk\n<br>away with the maximum prize of\n<br>£250,000. Money ratings shown are\n<br>illustrative only. No cash prizes are\n<br>offered for playing this game.\n<br><br/><br/>\n<br>It’s the same on your\n<br>Nintendo 3DS™, although there are a\n<br>couple of extra challenges and new\n<br>ways to play. You can even challenge\n<br>friends and family to see if anyone has\n<br>what it takes. And because you‘re\n<br>playing for fun not real cash, you can\n<br>play as many times as you like.",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-P-ACZP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

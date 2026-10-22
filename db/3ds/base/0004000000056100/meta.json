@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000056100",
-    "uid": "50010000007742",
-    "name": "Frogger 3D",
-    "formal_name": "Frogger 3D",
-    "description": "Frogger is back, and he's bringing a\nwhole new dimension with him! Just in\ntime for his 30th anniversary, Frogger\nis back, crossing streets, taking\nnames and coming at you in 3D! The\nexcitement of Frogger's timeless\nrun-and-dodge gameplay is coming to\na Nintendo 3DS near you, with fun\nnew graphics, novel level twists, and\nnew friends to help Frogger make it\nacross the way!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFRP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "WIFI",
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000056100",
+  "uid": "50010000007742",
+  "name": "Frogger 3D",
+  "formal_name": "Frogger 3D",
+  "description": "Frogger is back, and he's bringing a\nwhole new dimension with him! Just in\ntime for his 30th anniversary, Frogger\nis back, crossing streets, taking\nnames and coming at you in 3D! The\nexcitement of Frogger's timeless\nrun-and-dodge gameplay is coming to\na Nintendo 3DS near you, with fun\nnew graphics, novel level twists, and\nnew friends to help Frogger make it\nacross the way!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFRP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "WIFI",
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

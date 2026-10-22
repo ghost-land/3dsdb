@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000125600",
-    "uid": "50010000027775",
-    "name": "The Legend of Zelda™:\nMajora's Mask 3D",
-    "formal_name": "The Legend of Zelda™:\n<br>Majora's Mask 3D",
-    "description": "Race against time and save a\n<br>doomed land in The Legend of Zelda:\n<br>Majora’s Mask 3D. In this full\n<br>remaster of the fan favourite\n<br>Nintendo 64 title, which includes\n<br>refreshed visuals and features while\n<br>remaining true to the original title,\n<br>embark on an engrossing, spooky\n<br>quest through a mysterious world.\n<br><br/><br/>\n<br>Join Link as he seeks to save the\n<br>land of Termina from a crushing fate –\n<br>in three days, the moon will crash\n<br>down and destroy everything and\n<br>everyone in its path. By using the\n<br>magical Ocarina of Time, Link must\n<br>travel through time, re-living the same\n<br>three days over and over again, to\n<br>prevent calamity and save the world.\n<br>Explore every corner of Termina and\n<br>delve into dangerous dungeons,\n<br>across treacherous mountains,\n<br>poisonous swamps, an eerie desert\n<br>and a vast ocean, on your mission to\n<br>stop Skull Kid!",
-    "release_date_on_eshop": "2015-02-13",
-    "product_code": "CTR-P-AJRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000125600",
+  "uid": "50010000027775",
+  "name": "The Legend of Zelda™:\nMajora's Mask 3D",
+  "formal_name": "The Legend of Zelda™:\n<br>Majora's Mask 3D",
+  "description": "Race against time and save a\n<br>doomed land in The Legend of Zelda:\n<br>Majora’s Mask 3D. In this full\n<br>remaster of the fan favourite\n<br>Nintendo 64 title, which includes\n<br>refreshed visuals and features while\n<br>remaining true to the original title,\n<br>embark on an engrossing, spooky\n<br>quest through a mysterious world.\n<br><br/><br/>\n<br>Join Link as he seeks to save the\n<br>land of Termina from a crushing fate –\n<br>in three days, the moon will crash\n<br>down and destroy everything and\n<br>everyone in its path. By using the\n<br>magical Ocarina of Time, Link must\n<br>travel through time, re-living the same\n<br>three days over and over again, to\n<br>prevent calamity and save the world.\n<br>Explore every corner of Termina and\n<br>delve into dangerous dungeons,\n<br>across treacherous mountains,\n<br>poisonous swamps, an eerie desert\n<br>and a vast ocean, on your mission to\n<br>stop Skull Kid!",
+  "release_date_on_eshop": "2015-02-13",
+  "product_code": "CTR-P-AJRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

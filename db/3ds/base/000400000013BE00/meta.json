@@ -1,39 +1,39 @@
 {
-    "tid": "000400000013BE00",
-    "uid": "50010000025195",
-    "name": "Skylanders Trap Team™",
-    "formal_name": "Skylanders Trap Team™",
-    "description": "Villainous nightmare creatures have\nescaped from the Realm of Dreams\nand placed all of Skylands under a\nterrible sleep spell. You and the\nSkylanders now have the amazing\nability to capture the villains and\nreturn them to Skylands to fight for\nyou! Begin the ultimate 3D adventure\nas you explore Skylands in search of\nthe escaped villains!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BS9P",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Internet Required",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "The included Portal of Power and at\nleast two Skylanders Trap Team™,\nSkylanders SWAP Force™, Skylanders\nGiants™ or Skylanders Spyro’s\nAdventure® figures are required to\nstart the Story mode tutorial.",
-    "descriptors": []
+  "tid": "000400000013BE00",
+  "uid": "50010000025195",
+  "name": "Skylanders Trap Team™",
+  "formal_name": "Skylanders Trap Team™",
+  "description": "Villainous nightmare creatures have\nescaped from the Realm of Dreams\nand placed all of Skylands under a\nterrible sleep spell. You and the\nSkylanders now have the amazing\nability to capture the villains and\nreturn them to Skylands to fight for\nyou! Begin the ultimate 3D adventure\nas you explore Skylands in search of\nthe escaped villains!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BS9P",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer",
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Internet Required",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "The included Portal of Power and at\nleast two Skylanders Trap Team™,\nSkylanders SWAP Force™, Skylanders\nGiants™ or Skylanders Spyro’s\nAdventure® figures are required to\nstart the Story mode tutorial.",
+  "descriptors": []
 }

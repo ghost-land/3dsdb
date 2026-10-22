@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000168300",
-    "uid": "50010000039282",
-    "name": "LEGO® Marvel Vengadores",
-    "formal_name": "LEGO® Marvel Vengadores",
-    "description": "LEGO Marvel, una de las franquicias\nde más éxito, vuelve con una nueva\naventura llena de superhéroes. Únete\nal equipo de LEGO® Marvel\nVengadores y disfruta del primer\njuego para consolas con los\npersonajes e historias de la película\nde Los Vengadores y su secuela, Los\nVengadores: La era de Ultrón. Juega\ncomo tus superhéroes favoritos en una\ngran aventura para salvar el planeta.",
-    "release_date_on_eshop": "2016-01-29",
-    "product_code": "CTR-P-ALEX",
-    "platform_name": "Nintendo 3DS (tarjeta/descarga)",
-    "region": "Spain",
-    "genres": [
-        "Acción",
-        "Aventura"
-    ],
-    "features": [
-        "Con imágenes 3D"
-    ],
-    "languages": [
-        "Inglés",
-        "Español",
-        "Francés",
-        "Alemán",
-        "Italiano",
-        "Neerlandés"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": "*El juego contiene\nvoces en Castellano.",
-    "descriptors": []
+  "tid": "0004000000168300",
+  "uid": "50010000039282",
+  "name": "LEGO® Marvel Vengadores",
+  "formal_name": "LEGO® Marvel Vengadores",
+  "description": "LEGO Marvel, una de las franquicias\nde más éxito, vuelve con una nueva\naventura llena de superhéroes. Únete\nal equipo de LEGO® Marvel\nVengadores y disfruta del primer\njuego para consolas con los\npersonajes e historias de la película\nde Los Vengadores y su secuela, Los\nVengadores: La era de Ultrón. Juega\ncomo tus superhéroes favoritos en una\ngran aventura para salvar el planeta.",
+  "release_date_on_eshop": "2016-01-29",
+  "product_code": "CTR-P-ALEX",
+  "platform_name": "Nintendo 3DS (tarjeta/descarga)",
+  "region": "Spain",
+  "genres": [
+    "Acción",
+    "Aventura"
+  ],
+  "features": [
+    "Con imágenes 3D"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": "*El juego contiene\nvoces en Castellano.",
+  "descriptors": []
 }

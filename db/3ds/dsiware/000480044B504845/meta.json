@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B504845",
-    "uid": "50010000003167",
-    "name": "Prehistorik Man",
-    "formal_name": "Prehistorik Man",
-    "description": "Life is hard for Sam the Prehistorik Man. With three and a half hours work a week, there's barely time to fit in all the sleeping, eating and cave-painting that needs to be done. So when greedy dinosaurs guzzle his village's winter food source, Sam is mad! Armed with his best club and his powerful hunter's voice, Sam needs your help to guide him through 22 levels of food-gathering and dinosaur-bashing. With fast-paced action, hundreds of secret areas, weapons and unlikely vehicles to find, you'll need to be smart. Well, smarter than Sam, anyway...",
-    "release_date_on_eshop": "2010-02-15",
-    "product_code": "TWL-N-KPHE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504845",
+  "uid": "50010000003167",
+  "name": "Prehistorik Man",
+  "formal_name": "Prehistorik Man",
+  "description": "Life is hard for Sam the Prehistorik Man. With three and a half hours work a week, there's barely time to fit in all the sleeping, eating and cave-painting that needs to be done. So when greedy dinosaurs guzzle his village's winter food source, Sam is mad! Armed with his best club and his powerful hunter's voice, Sam needs your help to guide him through 22 levels of food-gathering and dinosaur-bashing. With fast-paced action, hundreds of secret areas, weapons and unlikely vehicles to find, you'll need to be smart. Well, smarter than Sam, anyway...",
+  "release_date_on_eshop": "2010-02-15",
+  "product_code": "TWL-N-KPHE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

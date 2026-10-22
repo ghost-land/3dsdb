@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B335550",
-    "uid": "50010000001341",
-    "name": "3D Twist & Match",
-    "formal_name": "3D Twist & Match",
-    "description": "Casual and addictive!<br>\n<br>\nHow quick can you rotate 3D objects\nto match their silhouettes? Challenge\nyour spatial visualisation skills and\nmake optimal moves to build combos!<br>\n<br>\nWith its intuitive controls, 3D Twist &\nMatch is easy to pick up. Yet its\nfrantic gameplay will keep you hooked\nand have you come back to it again\nand again for intense game sessions!<br>\n<br>\nFEATURES:<br>\n<br>\n- 10 themes: Beach, Halloween,\nChristmas, Jungle, Food, Vehicles,\nTools, Music, Sports and Electronics<br>\n<br>\n- 3 Game modes: Classic, Rush and\nPractice<br>\n<br>\n- 3 Levels of difficulty<br>\n<br>\n- 200 objects to match<br>\n<br>\n- Oodles of trophies to unlock!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K3UP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B335550",
+  "uid": "50010000001341",
+  "name": "3D Twist & Match",
+  "formal_name": "3D Twist & Match",
+  "description": "Casual and addictive!<br>\n<br>\nHow quick can you rotate 3D objects\nto match their silhouettes? Challenge\nyour spatial visualisation skills and\nmake optimal moves to build combos!<br>\n<br>\nWith its intuitive controls, 3D Twist &\nMatch is easy to pick up. Yet its\nfrantic gameplay will keep you hooked\nand have you come back to it again\nand again for intense game sessions!<br>\n<br>\nFEATURES:<br>\n<br>\n- 10 themes: Beach, Halloween,\nChristmas, Jungle, Food, Vehicles,\nTools, Music, Sports and Electronics<br>\n<br>\n- 3 Game modes: Classic, Rush and\nPractice<br>\n<br>\n- 3 Levels of difficulty<br>\n<br>\n- 200 objects to match<br>\n<br>\n- Oodles of trophies to unlock!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K3UP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000D6400",
-    "uid": "50010000017894",
-    "name": "Jewel Match 3",
-    "formal_name": "Jewel Match 3",
-    "description": "When Luna returns to Nevernear, she\nfinds her homeland in ruins. The\nonce-glorious kingdom has been razed\nto the ground by an evil power.\n<br/><br/>\nPlunge headlong with Luna into a\nfantastic Match-3 adventure packed\nwith magic, fantasy... and the\ninsidious Evil. Exploit the power of the\nfive Mages and conquer darkness in\n100 huge Match-3 levels. Rebuild\nNevernear's castles and create\nmysterious gardens to keep Evil at\nbay.\n<br/><br/>\nLet yourself be swept away into\nLuna's wonderful world - and the\nfantastic story of Nevernear.\n<br/><br/>\n- 100 absolutely huge levels\n<br/><br/>\n- Many great mini-games\n<br/><br/>\n- Three game modes: Timed,\nRelaxed and Match3 Maniac mode\n<br/><br/>\n- Lots of new extras, plus expanded\ngame mechanics",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-N-AJUZ",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D6400",
+  "uid": "50010000017894",
+  "name": "Jewel Match 3",
+  "formal_name": "Jewel Match 3",
+  "description": "When Luna returns to Nevernear, she\nfinds her homeland in ruins. The\nonce-glorious kingdom has been razed\nto the ground by an evil power.\n<br/><br/>\nPlunge headlong with Luna into a\nfantastic Match-3 adventure packed\nwith magic, fantasy... and the\ninsidious Evil. Exploit the power of the\nfive Mages and conquer darkness in\n100 huge Match-3 levels. Rebuild\nNevernear's castles and create\nmysterious gardens to keep Evil at\nbay.\n<br/><br/>\nLet yourself be swept away into\nLuna's wonderful world - and the\nfantastic story of Nevernear.\n<br/><br/>\n- 100 absolutely huge levels\n<br/><br/>\n- Many great mini-games\n<br/><br/>\n- Three game modes: Timed,\nRelaxed and Match3 Maniac mode\n<br/><br/>\n- Lots of new extras, plus expanded\ngame mechanics",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-N-AJUZ",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B465A56",
-    "uid": "50010000003170",
-    "name": "Faceez",
-    "formal_name": "Faceez",
-    "description": "Make your friends laugh with Faceez!<br>\n<br>\nTake pictures of their faces with the\nNintendo DSi camera and then mix\nthem and animate them!Dress them up\nwith lots of funny accessories! Place\nthem in your own favourite settings!\nGive free reign to your imagination\nwith millions of possible combinations!\nThanks to the Nintendo DSi’s\nconnectivity with Facebook you can\nshare your creations with your friends\nwho’ll be rolling on the floor\nlaughing!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KFZV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B465A56",
+  "uid": "50010000003170",
+  "name": "Faceez",
+  "formal_name": "Faceez",
+  "description": "Make your friends laugh with Faceez!<br>\n<br>\nTake pictures of their faces with the\nNintendo DSi camera and then mix\nthem and animate them!Dress them up\nwith lots of funny accessories! Place\nthem in your own favourite settings!\nGive free reign to your imagination\nwith millions of possible combinations!\nThanks to the Nintendo DSi’s\nconnectivity with Facebook you can\nshare your creations with your friends\nwho’ll be rolling on the floor\nlaughing!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KFZV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

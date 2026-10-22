@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000D6200",
-    "uid": "50010000015398",
-    "name": "Secret Agent Files: Miami",
-    "formal_name": "Secret Agent Files: Miami",
-    "description": "Mia is direct, gruff and has a big\nmouth. She's a good shooter, but\nshe's also klutzy and can be pretty\nsensitive at times. And she always has\na solution. Just not right now.\n<br/><br/>\nThe Secret Service just fired her. She\nhas no money, no papers and no idea\nhow she got into this situation.\n<br/><br/>\nBut she'll be damned if she doesn't\nfind out what this crap is all about -\nto put it in her words.\n<br/><br/>\nStranded in Miami, she now goes to\nsee her mother, whom she hasn't seen\nin years. And her mother has no\ninkling of Mia's real job…\n<br/><br/>\nYou will meet a wide variety of\npeople over the course of this gripping\ntale. Some will be on your side,\nothers not so much. Proceed with\ncaution and be sure to look and listen\nclosely. It's the only way Mia can\nsurvive and maybe even find out who\nor what is behind it all.",
-    "release_date_on_eshop": "2013-11-14",
-    "product_code": "CTR-N-ASAZ",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D6200",
+  "uid": "50010000015398",
+  "name": "Secret Agent Files: Miami",
+  "formal_name": "Secret Agent Files: Miami",
+  "description": "Mia is direct, gruff and has a big\nmouth. She's a good shooter, but\nshe's also klutzy and can be pretty\nsensitive at times. And she always has\na solution. Just not right now.\n<br/><br/>\nThe Secret Service just fired her. She\nhas no money, no papers and no idea\nhow she got into this situation.\n<br/><br/>\nBut she'll be damned if she doesn't\nfind out what this crap is all about -\nto put it in her words.\n<br/><br/>\nStranded in Miami, she now goes to\nsee her mother, whom she hasn't seen\nin years. And her mother has no\ninkling of Mia's real job…\n<br/><br/>\nYou will meet a wide variety of\npeople over the course of this gripping\ntale. Some will be on your side,\nothers not so much. Proceed with\ncaution and be sure to look and listen\nclosely. It's the only way Mia can\nsurvive and maybe even find out who\nor what is behind it all.",
+  "release_date_on_eshop": "2013-11-14",
+  "product_code": "CTR-N-ASAZ",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

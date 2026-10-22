@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000F1500",
-    "uid": "50010000018734",
-    "name": "Jump Trials Supreme",
-    "formal_name": "Jump Trials Supreme",
-    "description": "Can you reach the goal within 10 seconds?\n<br><br>\nEvery split-second counts as you race across obstacle courses, leaping from platform to platform, in a desperate race to reach the goal in 10 seconds.\n<br><br>\nDart across moving platforms, seesaw lifts, spring pads and conveyor belts to cross the stage as quickly as possible, but be wary of spikes and electric shocks! Even one touch is fatal!\n<br><br>\nSupreme is the third in the series and packed with new stages, features and game modes! It looks and sounds great too with all new animations, lush backgrounds and improved sound!\n<br><br>\nNew features for Jump Trials Supreme:\nDouble jump with the new Air Jump to leap further!<br>\nNew items including air fans and jump recovery points!<br>\nTry the new Course Attack Time mode! With 300 seconds on the clock, see how quickly you can complete a course of 10 stages.<br>\nCompare your best times against others with Internet Ranking!<br>\nReceive new Master grade stages via SpotPass!<br>\nMore than 100 new stages to test your resolve!",
-    "release_date_on_eshop": "2013-12-12",
-    "product_code": "CTR-N-JU2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Arcade",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F1500",
+  "uid": "50010000018734",
+  "name": "Jump Trials Supreme",
+  "formal_name": "Jump Trials Supreme",
+  "description": "Can you reach the goal within 10 seconds?\n<br><br>\nEvery split-second counts as you race across obstacle courses, leaping from platform to platform, in a desperate race to reach the goal in 10 seconds.\n<br><br>\nDart across moving platforms, seesaw lifts, spring pads and conveyor belts to cross the stage as quickly as possible, but be wary of spikes and electric shocks! Even one touch is fatal!\n<br><br>\nSupreme is the third in the series and packed with new stages, features and game modes! It looks and sounds great too with all new animations, lush backgrounds and improved sound!\n<br><br>\nNew features for Jump Trials Supreme:\nDouble jump with the new Air Jump to leap further!<br>\nNew items including air fans and jump recovery points!<br>\nTry the new Course Attack Time mode! With 300 seconds on the clock, see how quickly you can complete a course of 10 stages.<br>\nCompare your best times against others with Internet Ranking!<br>\nReceive new Master grade stages via SpotPass!<br>\nMore than 100 new stages to test your resolve!",
+  "release_date_on_eshop": "2013-12-12",
+  "product_code": "CTR-N-JU2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Arcade",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

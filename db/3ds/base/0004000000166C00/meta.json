@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000166C00",
-    "uid": "50010000040721",
-    "name": "バトル オブ エレメンタル\nREBOOST",
-    "formal_name": "バトル オブ エレメンタル\nREBOOST",
-    "description": "DSiウェアとして好評を博した『バトルオブエレメンタル』が、\n<br>新規グラフィック、新規要素追加で生まれ変わって帰ってきた！\n<br>\n<br>『バトル オブ エレメンタル REBOOST』は、\n<br>1対1の緊張感ある戦いをいつでもどこでも楽しめる、3D空間対戦アクションゲームです。\n<br>\n<br>新モードとして次々と立ちふさがる敵と戦う「サバイバル」を追加！\n<br>さらに、「インターネット通信対戦」で全国のプレイヤーと対戦可能！\n<br>\n<br>8人の個性豊かなキャラクターを自在に操り、最強のエレメンターを目指せ！",
-    "release_date_on_eshop": "2016-06-29",
-    "product_code": "CTR-N-KBBJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "格闘"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000166C00",
+  "uid": "50010000040721",
+  "name": "バトル オブ エレメンタル\nREBOOST",
+  "formal_name": "バトル オブ エレメンタル\nREBOOST",
+  "description": "DSiウェアとして好評を博した『バトルオブエレメンタル』が、\n<br>新規グラフィック、新規要素追加で生まれ変わって帰ってきた！\n<br>\n<br>『バトル オブ エレメンタル REBOOST』は、\n<br>1対1の緊張感ある戦いをいつでもどこでも楽しめる、3D空間対戦アクションゲームです。\n<br>\n<br>新モードとして次々と立ちふさがる敵と戦う「サバイバル」を追加！\n<br>さらに、「インターネット通信対戦」で全国のプレイヤーと対戦可能！\n<br>\n<br>8人の個性豊かなキャラクターを自在に操り、最強のエレメンターを目指せ！",
+  "release_date_on_eshop": "2016-06-29",
+  "product_code": "CTR-N-KBBJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "格闘"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

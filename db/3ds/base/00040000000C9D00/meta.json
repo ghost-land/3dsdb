@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000C9D00",
-    "uid": "50010000014078",
-    "name": "Mario and Donkey Kong™:\nMinis on the Move",
-    "formal_name": "Mario and Donkey Kong™:\nMinis on the Move",
-    "description": "Test your puzzle solving skills in this spin-off of the Mario vs. Donkey\nKong™ series. Use tiles to create the best path through each level. The main game contains over 180 levels, across four different puzzle modes. Although each mode has a slightly different style of play, they all share the same goal: get the Minis to the star!\n<br><br>\nTake a break from the main game to challenge high scores in four unlockable minigames. Feeling creative? Try your hand at building your own puzzles with an easy-to-use level builder. Once you’re done you can play your puzzles and even share them with other players around the world. Access new levels created by fellow users, and save up to an additional 100 puzzles! Plenty of surprises await you in this rich action-puzzle game.",
-    "release_date_on_eshop": "2013-05-09",
-    "product_code": "CTR-N-JB7E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C9D00",
+  "uid": "50010000014078",
+  "name": "Mario and Donkey Kong™:\nMinis on the Move",
+  "formal_name": "Mario and Donkey Kong™:\nMinis on the Move",
+  "description": "Test your puzzle solving skills in this spin-off of the Mario vs. Donkey\nKong™ series. Use tiles to create the best path through each level. The main game contains over 180 levels, across four different puzzle modes. Although each mode has a slightly different style of play, they all share the same goal: get the Minis to the star!\n<br><br>\nTake a break from the main game to challenge high scores in four unlockable minigames. Feeling creative? Try your hand at building your own puzzles with an easy-to-use level builder. Once you’re done you can play your puzzles and even share them with other players around the world. Access new levels created by fellow users, and save up to an additional 100 puzzles! Plenty of surprises await you in this rich action-puzzle game.",
+  "release_date_on_eshop": "2013-05-09",
+  "product_code": "CTR-N-JB7E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

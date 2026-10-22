@@ -1,38 +1,38 @@
 {
-    "tid": "00040000000C2F00",
-    "uid": "50010000014920",
-    "name": "Aqua Moto Racing 3D",
-    "formal_name": "Aqua Moto Racing 3D",
-    "description": "Experience the thrill of high powered\nwatercraft and break-neck stunts in\nexotic locations of heaving oceans\nand sandy beaches. Buy new\nwatercraft and use their extra speed\nto win the career Championships and\nunlock new Achievements. Challenge\nyour friends in local multiplayer mode.\n<br/><br/>\nGet Ready For The Waveride Of Your\nLife!",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-JMTP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Simulation",
-        "Sports",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C2F00",
+  "uid": "50010000014920",
+  "name": "Aqua Moto Racing 3D",
+  "formal_name": "Aqua Moto Racing 3D",
+  "description": "Experience the thrill of high powered\nwatercraft and break-neck stunts in\nexotic locations of heaving oceans\nand sandy beaches. Buy new\nwatercraft and use their extra speed\nto win the career Championships and\nunlock new Achievements. Challenge\nyour friends in local multiplayer mode.\n<br/><br/>\nGet Ready For The Waveride Of Your\nLife!",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-JMTP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Simulation",
+    "Sports",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

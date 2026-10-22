@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000082B00",
-    "uid": "50010000010373",
-    "name": "Game & Watch™ Gallery 2",
-    "formal_name": "Game & Watch™ Gallery 2",
-    "description": "With the second of the Game & Watch Gallery series, you can enjoy five different games, both in their original and revised releases. Classic versions will take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters, bringing you to the present with improved play control, color and sound effects.\n<br><br>\nParachute - Rescue the parachutists.\nHelmet - Don't get hit in the head.\nChef - Flip up a gourmet meal.\nVermin - Whack the enemies.\nDonkey Kong™ - Rescue your kidnapped sweetie.",
-    "release_date_on_eshop": "2012-05-24",
-    "product_code": "CTR-N-QAKE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000082B00",
+  "uid": "50010000010373",
+  "name": "Game & Watch™ Gallery 2",
+  "formal_name": "Game & Watch™ Gallery 2",
+  "description": "With the second of the Game & Watch Gallery series, you can enjoy five different games, both in their original and revised releases. Classic versions will take you back to the '80s and a simpler time in video games. Modern versions feature your favorite characters, bringing you to the present with improved play control, color and sound effects.\n<br><br>\nParachute - Rescue the parachutists.\nHelmet - Don't get hit in the head.\nChef - Flip up a gourmet meal.\nVermin - Whack the enemies.\nDonkey Kong™ - Rescue your kidnapped sweetie.",
+  "release_date_on_eshop": "2012-05-24",
+  "product_code": "CTR-N-QAKE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000C2400",
-    "uid": "50010000012627",
-    "name": "THE \"DENPA\" MEN:\nThey Came By Wave",
-    "formal_name": "THE \"DENPA\" MEN:\nThey Came By Wave",
-    "description": "The Denpa Men are mysterious\ncreatures that float around radio\nwaves in your daily environment.\n<br/><br/>\nCatch the Denpa Men to form a\nparty, which you can take on a variety\nof adventures in this fun, new\nDungeon RPG!\n<br/><br/>\nEach radio wave territory has its own\nunique Denpa Men.\n<br/><br/>\nGo to many different places in real\nlife to find Denpa Men with a great\nvariety of skills, and go on an exciting\nadventure to save your loved one from\nthe clutches of the King of Evil!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JD8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C2400",
+  "uid": "50010000012627",
+  "name": "THE \"DENPA\" MEN:\nThey Came By Wave",
+  "formal_name": "THE \"DENPA\" MEN:\nThey Came By Wave",
+  "description": "The Denpa Men are mysterious\ncreatures that float around radio\nwaves in your daily environment.\n<br/><br/>\nCatch the Denpa Men to form a\nparty, which you can take on a variety\nof adventures in this fun, new\nDungeon RPG!\n<br/><br/>\nEach radio wave territory has its own\nunique Denpa Men.\n<br/><br/>\nGo to many different places in real\nlife to find Denpa Men with a great\nvariety of skills, and go on an exciting\nadventure to save your loved one from\nthe clutches of the King of Evil!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JD8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

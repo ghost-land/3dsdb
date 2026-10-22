@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F705900",
-    "uid": "50010000041417",
-    "name": "ドラゴンファング",
-    "formal_name": "ドラゴンファング",
-    "description": "冒険するダンジョンは毎回「自動生成」。\n<br>同じダンジョンには二度と巡り合えない。\n<br>ローグライクのセオリー、通路に逃げ込んでの戦闘はドラゴンファングに相応しくない！プレイヤーの周囲に壁がない状態を保つことで、勇気の証「竜人結界」が発動！\n<br>この状態で敵を倒せば主人公のドラン君はパワーアップすることができる！\n<br>勇気を持って踏み込み、さらに強力な敵に戦いを挑もう！",
-    "release_date_on_eshop": "2016-12-14",
-    "product_code": "KTR-N-CDFJ",
-    "platform_name": "New 3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "インターネット対応",
-        "インターネット専用",
-        "Nintendo Network",
-        "New 3DS対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v4.8.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "000400000F705900",
+  "uid": "50010000041417",
+  "name": "ドラゴンファング",
+  "formal_name": "ドラゴンファング",
+  "description": "冒険するダンジョンは毎回「自動生成」。\n<br>同じダンジョンには二度と巡り合えない。\n<br>ローグライクのセオリー、通路に逃げ込んでの戦闘はドラゴンファングに相応しくない！プレイヤーの周囲に壁がない状態を保つことで、勇気の証「竜人結界」が発動！\n<br>この状態で敵を倒せば主人公のドラン君はパワーアップすることができる！\n<br>勇気を持って踏み込み、さらに強力な敵に戦いを挑もう！",
+  "release_date_on_eshop": "2016-12-14",
+  "product_code": "KTR-N-CDFJ",
+  "platform_name": "New 3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "インターネット対応",
+    "インターネット専用",
+    "Nintendo Network",
+    "New 3DS対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v4.8.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

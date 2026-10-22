@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000EF800",
-    "uid": "50010000022057",
-    "name": "Mega Man™ IV",
-    "formal_name": "Mega Man™ IV",
-    "description": "The city has gathered to attend the World Robot Exposition when it is suddenly disrupted by a flying saucer, which houses none other than the deranged Dr. Wily. With the push of a button on his mind-controlling device, Dr. Wily sets all of the robots in the vicinity to attack and destroy! The only robot not under his control is Mega Man, and you bet that he'll be going after Dr. Wily for this latest offense.\n<br><br>\nJoining Mega Man are Rush and Beat, and together they will battle fortresses of laser turrets, waves of armed androids, and fiendish Robot Masters. Blast your way through while adding new weapons to your inventory, and face-off with Dr. Wily once more!",
-    "release_date_on_eshop": "2014-05-15",
-    "product_code": "CTR-N-RCFE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000EF800",
+  "uid": "50010000022057",
+  "name": "Mega Man™ IV",
+  "formal_name": "Mega Man™ IV",
+  "description": "The city has gathered to attend the World Robot Exposition when it is suddenly disrupted by a flying saucer, which houses none other than the deranged Dr. Wily. With the push of a button on his mind-controlling device, Dr. Wily sets all of the robots in the vicinity to attack and destroy! The only robot not under his control is Mega Man, and you bet that he'll be going after Dr. Wily for this latest offense.\n<br><br>\nJoining Mega Man are Rush and Beat, and together they will battle fortresses of laser turrets, waves of armed androids, and fiendish Robot Masters. Blast your way through while adding new weapons to your inventory, and face-off with Dr. Wily once more!",
+  "release_date_on_eshop": "2014-05-15",
+  "product_code": "CTR-N-RCFE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

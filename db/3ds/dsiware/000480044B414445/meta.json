@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B414445",
-    "uid": "50010000001221",
-    "name": "Art Style™: BASE 10™",
-    "formal_name": "Art Style™: BASE 10™",
-    "description": "Art Style: BASE 10 is a game of numbers. Your goal is simple: create combinations equaling 10 by sliding numbers around the playing field. Move them horizontally or vertically, but be careful not to create an unusable non-number in the process. Choose from one of three modes: eliminate a set amount of numbers as quickly as possible in ZEROSUM MODE, get rid of prearranged groups of numbers in as few moves as possible in PUZZLE MODE, or continue removing numbers until your game is over in INFINITE MODE. In addition, you can challenge an opponent to a two-player wireless battle in VS MODE and see whose number-crunching skills reign supreme. If you think you’re a master with numbers, the straightforward yet challenging world of Art Style: BASE 10 gives you the opportunity to prove it in a unique way.\n\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n\n",
-    "release_date_on_eshop": "2009-07-06",
-    "product_code": "TWL-N-KADE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414445",
+  "uid": "50010000001221",
+  "name": "Art Style™: BASE 10™",
+  "formal_name": "Art Style™: BASE 10™",
+  "description": "Art Style: BASE 10 is a game of numbers. Your goal is simple: create combinations equaling 10 by sliding numbers around the playing field. Move them horizontally or vertically, but be careful not to create an unusable non-number in the process. Choose from one of three modes: eliminate a set amount of numbers as quickly as possible in ZEROSUM MODE, get rid of prearranged groups of numbers in as few moves as possible in PUZZLE MODE, or continue removing numbers until your game is over in INFINITE MODE. In addition, you can challenge an opponent to a two-player wireless battle in VS MODE and see whose number-crunching skills reign supreme. If you think you’re a master with numbers, the straightforward yet challenging world of Art Style: BASE 10 gives you the opportunity to prove it in a unique way.\n\nGames in the Art Style series feature elegant design, polished graphics, and pick-up-and-play controls, creating an experience focused purely on fun and engaging game play.\n\n\n",
+  "release_date_on_eshop": "2009-07-06",
+  "product_code": "TWL-N-KADE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

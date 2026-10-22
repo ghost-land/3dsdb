@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000BFF00",
-    "uid": "50010000012632",
-    "name": "ぼくは航空管制官 エアポート\nヒーロー3D 成田 with ANA",
-    "formal_name": "ぼくは航空管制官\nエアポートヒーロー3D 成田 with ANA",
-    "description": "『ぼくは航空管制官 エアポートヒーロー3D』シリーズ第3弾「成田空港編」がいよいよ登場!\n<br>成田国際空港を舞台に、トリトンブルーがまぶしいANA機が大活躍!\n<br>シリーズ最多のステージ数にくわえ、好評だった「カメラステージ」も健在!\n<br>さらに、シリーズの『羽田編』『ホノルル編』の体験ステージも収録!",
-    "release_date_on_eshop": "2016-11-10",
-    "product_code": "CTR-N-AN6J",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BFF00",
+  "uid": "50010000012632",
+  "name": "ぼくは航空管制官 エアポート\nヒーロー3D 成田 with ANA",
+  "formal_name": "ぼくは航空管制官\nエアポートヒーロー3D 成田 with ANA",
+  "description": "『ぼくは航空管制官 エアポートヒーロー3D』シリーズ第3弾「成田空港編」がいよいよ登場!\n<br>成田国際空港を舞台に、トリトンブルーがまぶしいANA機が大活躍!\n<br>シリーズ最多のステージ数にくわえ、好評だった「カメラステージ」も健在!\n<br>さらに、シリーズの『羽田編』『ホノルル編』の体験ステージも収録!",
+  "release_date_on_eshop": "2016-11-10",
+  "product_code": "CTR-N-AN6J",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

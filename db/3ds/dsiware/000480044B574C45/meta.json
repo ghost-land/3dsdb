@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B574C45",
-    "uid": "50010000033855",
-    "name": "G.G. Series WONDERLAND",
-    "formal_name": "G.G. Series WONDERLAND",
-    "description": "A vibrant and unique vertically-scrolling shooting game. Set inside the fantastical world of magic, lore and mischief, slip gracefully through what seems to be an impassable curtain of fire from Wonderland-themed enemies. Hitting enemies with your fire will cause your Bomb Gauge to increase. Once your gauge is maxed out, use your fully charged Bomb to obliterate all enemy fire on-screen. At the end of each stage, a powerful boss will be lying in wait. Will you make your way down the rabbit hole?",
-    "release_date_on_eshop": "2015-05-28",
-    "product_code": "TWL-N-KWLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.4.0",
-    "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options.",
-    "descriptors": []
+  "tid": "000480044B574C45",
+  "uid": "50010000033855",
+  "name": "G.G. Series WONDERLAND",
+  "formal_name": "G.G. Series WONDERLAND",
+  "description": "A vibrant and unique vertically-scrolling shooting game. Set inside the fantastical world of magic, lore and mischief, slip gracefully through what seems to be an impassable curtain of fire from Wonderland-themed enemies. Hitting enemies with your fire will cause your Bomb Gauge to increase. Once your gauge is maxed out, use your fully charged Bomb to obliterate all enemy fire on-screen. At the end of each stage, a powerful boss will be lying in wait. Will you make your way down the rabbit hole?",
+  "release_date_on_eshop": "2015-05-28",
+  "product_code": "TWL-N-KWLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.4.0",
+  "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options.",
+  "descriptors": []
 }

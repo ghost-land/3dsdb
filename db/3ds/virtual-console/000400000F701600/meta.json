@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F701600",
-    "uid": "50010000039657",
-    "name": "EarthBound™",
-    "formal_name": "EarthBound™",
-    "description": "When a meteorite hits the Earth near to Ness’ house, the brave young man sets off to investigate, but little does he know that he’s about to begin an epic adventure that will change his life… oh, and he might just save the universe in the process!\n<br>\n<br>Ness will have to travel across the world after meeting with a strange alien in order to prevent Giygas, the Universal Cosmic Destroyer, from annihilating everything and everyone. He will be aided in his mission by three friends, and only by using their abilities and powers together do they stand a chance against the mighty Giygas!\n<br>\n<br>With a deeply engaging storyline, a richly detailed world and a wealth of unique features, EarthBound is an in-depth role-playing epic.\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-03-04",
-    "product_code": "KTR-N-UAEE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F701600",
+  "uid": "50010000039657",
+  "name": "EarthBound™",
+  "formal_name": "EarthBound™",
+  "description": "When a meteorite hits the Earth near to Ness’ house, the brave young man sets off to investigate, but little does he know that he’s about to begin an epic adventure that will change his life… oh, and he might just save the universe in the process!\n<br>\n<br>Ness will have to travel across the world after meeting with a strange alien in order to prevent Giygas, the Universal Cosmic Destroyer, from annihilating everything and everyone. He will be aided in his mission by three friends, and only by using their abilities and powers together do they stand a chance against the mighty Giygas!\n<br>\n<br>With a deeply engaging storyline, a richly detailed world and a wealth of unique features, EarthBound is an in-depth role-playing epic.\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-03-04",
+  "product_code": "KTR-N-UAEE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

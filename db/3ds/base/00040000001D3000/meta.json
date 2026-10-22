@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001D3000",
-    "uid": "50010000045355",
-    "name": "Block-a-Pix Color",
-    "formal_name": "Block-a-Pix Color",
-    "description": "Block-a-Pix is a block-filling puzzle where every grid has a picture hidden inside.\n<br>\n<br>Reveal the picture by dividing the grid into smaller rectangular blocks. Each block must contain one clue number, which tells you the number of grid squares covered by that block and the color the block will be painted.\n<br>\n<br>Block-a-Pix can always be solved using logic and deduction. You don't ever have to guess!\n<br>\n<br>This game contains 120 exclusive puzzles, designed by Conceptis Ltd.\n<br>Puzzles range in difficulty and size from small introductory pictures\n<br>to huge scrollable grids with highly detailed pictures.",
-    "release_date_on_eshop": "2018-05-17",
-    "product_code": "CTR-N-LBPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001D3000",
+  "uid": "50010000045355",
+  "name": "Block-a-Pix Color",
+  "formal_name": "Block-a-Pix Color",
+  "description": "Block-a-Pix is a block-filling puzzle where every grid has a picture hidden inside.\n<br>\n<br>Reveal the picture by dividing the grid into smaller rectangular blocks. Each block must contain one clue number, which tells you the number of grid squares covered by that block and the color the block will be painted.\n<br>\n<br>Block-a-Pix can always be solved using logic and deduction. You don't ever have to guess!\n<br>\n<br>This game contains 120 exclusive puzzles, designed by Conceptis Ltd.\n<br>Puzzles range in difficulty and size from small introductory pictures\n<br>to huge scrollable grids with highly detailed pictures.",
+  "release_date_on_eshop": "2018-05-17",
+  "product_code": "CTR-N-LBPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

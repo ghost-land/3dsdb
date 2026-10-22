@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B334D45",
-    "uid": "50010000000742",
-    "name": "A Topsy Turvy Life: \nTurvy Drops™",
-    "formal_name": "A Topsy Turvy Life: \nTurvy Drops™",
-    "description": "Turn the Nintendo DSi™ system upside down! Draw blocks on the Touch Screen to fill the spaces below in this topsy turvy take on puzzle games.\n\nPlay \"Endless Mode\" to see just how many points you can get as the blocks on the bottom screen fill faster and faster. The more  blocks you clear at once, the higher your score!\nPlay \"Puzzle Mode\" to test your brain against 30 mind-bending puzzles! Clear all the blocks within the time and turn limits. Can you figure the puzzles out before the time is up?\n\nTurn the turvys topsy with A Topsy Turvy Life: Turvy Drops!",
-    "release_date_on_eshop": "2010-05-17",
-    "product_code": "TWL-N-K3ME",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B334D45",
+  "uid": "50010000000742",
+  "name": "A Topsy Turvy Life: \nTurvy Drops™",
+  "formal_name": "A Topsy Turvy Life: \nTurvy Drops™",
+  "description": "Turn the Nintendo DSi™ system upside down! Draw blocks on the Touch Screen to fill the spaces below in this topsy turvy take on puzzle games.\n\nPlay \"Endless Mode\" to see just how many points you can get as the blocks on the bottom screen fill faster and faster. The more  blocks you clear at once, the higher your score!\nPlay \"Puzzle Mode\" to test your brain against 30 mind-bending puzzles! Clear all the blocks within the time and turn limits. Can you figure the puzzles out before the time is up?\n\nTurn the turvys topsy with A Topsy Turvy Life: Turvy Drops!",
+  "release_date_on_eshop": "2010-05-17",
+  "product_code": "TWL-N-K3ME",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

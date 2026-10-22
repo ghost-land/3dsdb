@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000FEE00",
-    "uid": "50010000020920",
-    "name": "Best of Board Games -\nSolitaire",
-    "formal_name": "Best of Board Games -\nSolitaire",
-    "description": "Rediscover Solitaire and its most\npopular variations in this timeless\nclassic!\n<br/><br/>\nTake a moment to relax with one of 5\nvariations: Freecell, Golf, Pyramid,\nKlondike and Spider, with many more\nadjustable options for each variation.\n<br/><br/>\nStuck? Use brand new bonuses such\nas card swap to get yourself out of\nthe situation!\n<br/><br/>\nPlay a quick game at any time in Free\nmode or take on 40 increasingly\nharder challenges in Adventure mode.",
-    "release_date_on_eshop": "2015-02-19",
-    "product_code": "CTR-N-JSEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FEE00",
+  "uid": "50010000020920",
+  "name": "Best of Board Games -\nSolitaire",
+  "formal_name": "Best of Board Games -\nSolitaire",
+  "description": "Rediscover Solitaire and its most\npopular variations in this timeless\nclassic!\n<br/><br/>\nTake a moment to relax with one of 5\nvariations: Freecell, Golf, Pyramid,\nKlondike and Spider, with many more\nadjustable options for each variation.\n<br/><br/>\nStuck? Use brand new bonuses such\nas card swap to get yourself out of\nthe situation!\n<br/><br/>\nPlay a quick game at any time in Free\nmode or take on 40 increasingly\nharder challenges in Adventure mode.",
+  "release_date_on_eshop": "2015-02-19",
+  "product_code": "CTR-N-JSEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

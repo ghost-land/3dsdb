@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F700E00",
-    "uid": "50010000039677",
-    "name": "Super Mario World™",
-    "formal_name": "Super Mario World™",
-    "description": "Mario and Luigi’s first Super NES escapade took them into a new land with new characters, new abilities and much more, becoming an all-time best-seller.\n<br>\n<br>In Super Mario World, the Mario brothers come to Dinosaur Land, meet their new lovable companion Yoshi and do battle with Bowser and his minions across dozens of fiendishly designed levels packed with secrets.\n<br>\n<br>As well as riding Yoshi and slurping up enemies, you can also take to the skies with the aid of the new Cape Feather and soar into a world of adventure!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-03-04",
-    "product_code": "KTR-N-UAAE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F700E00",
+  "uid": "50010000039677",
+  "name": "Super Mario World™",
+  "formal_name": "Super Mario World™",
+  "description": "Mario and Luigi’s first Super NES escapade took them into a new land with new characters, new abilities and much more, becoming an all-time best-seller.\n<br>\n<br>In Super Mario World, the Mario brothers come to Dinosaur Land, meet their new lovable companion Yoshi and do battle with Bowser and his minions across dozens of fiendishly designed levels packed with secrets.\n<br>\n<br>As well as riding Yoshi and slurping up enemies, you can also take to the skies with the aid of the new Cape Feather and soar into a world of adventure!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-03-04",
+  "product_code": "KTR-N-UAAE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

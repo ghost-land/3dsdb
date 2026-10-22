@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B575345",
-    "uid": "50010000004783",
-    "name": "Word Searcher",
-    "formal_name": "Word Searcher",
-    "description": "You’ll need a sharp eye and a quick mind to complete these 100 themed word search puzzles. Word Searcher contains fun words from multiple categories including anatomy, world cities and U.S Presidents. Packed with a huge assortment of subjects to choose from, there’s sure to be a puzzle anyone will enjoy. Help improve your vocabulary, memory and problem-solving skills with these challenging puzzles. Keep track of, and try to beat your own play through times again and again as words are scrambled every time you play. Get your thinking cap on and conquer all 100 today!",
-    "release_date_on_eshop": "2010-01-11",
-    "product_code": "TWL-N-KWSE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B575345",
+  "uid": "50010000004783",
+  "name": "Word Searcher",
+  "formal_name": "Word Searcher",
+  "description": "You’ll need a sharp eye and a quick mind to complete these 100 themed word search puzzles. Word Searcher contains fun words from multiple categories including anatomy, world cities and U.S Presidents. Packed with a huge assortment of subjects to choose from, there’s sure to be a puzzle anyone will enjoy. Help improve your vocabulary, memory and problem-solving skills with these challenging puzzles. Keep track of, and try to beat your own play through times again and again as words are scrambled every time you play. Get your thinking cap on and conquer all 100 today!",
+  "release_date_on_eshop": "2010-01-11",
+  "product_code": "TWL-N-KWSE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

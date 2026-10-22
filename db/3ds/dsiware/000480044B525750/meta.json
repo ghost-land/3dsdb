@@ -1,34 +1,34 @@
 {
-    "tid": "000480044B525750",
-    "uid": "50010000021794",
-    "name": "Sea Battle",
-    "formal_name": "Sea Battle",
-    "description": "Command your fleet to victory in this\nepic battle on open seas!\n<br/><br/>\nHidden in the untamed ocean awaits\nan enemy ready to attack. Launch\nstrikes and counter-strikes with\nmissiles and powerful torpedoes to\nlocate and submerge your enemy’s\nentire fleet in this new rendition of the\nclassic paper and pencil game,\nBattleship.\n<br/><br/>\nUse additional content such as\nscanners to gain intelligence and\ndetect the location of your enemy.\nChallenge your friends to battles\nagainst your fleet to see who really\nrules the seas with DS Wireless Play\nor tackle missions and battles on your\nown in three different single player\nmodes. Your only hope of survival is\nto uncover your enemy’s whereabouts\nbefore they uncover yours!\n<br/><br/>\n- Based on the iconic naval\nbattle-themed paper and pencil game\nwith exciting new features\n<br/><br/>\n- Battle in Classic mode, Missions\nmode or the new Modern mode which\nincludes additional features such as\nmines and diagonal ship placement\n<br/><br/>\n- DS Wireless Play feature available\nfor wild sea battles against friends\n<br/><br/>\n- A range of map sizes with\nincreasing difficulty levels for\nprogressively intense battles",
-    "release_date_on_eshop": "2014-04-24",
-    "product_code": "TWL-N-KRWP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Action",
-        "Board Game",
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525750",
+  "uid": "50010000021794",
+  "name": "Sea Battle",
+  "formal_name": "Sea Battle",
+  "description": "Command your fleet to victory in this\nepic battle on open seas!\n<br/><br/>\nHidden in the untamed ocean awaits\nan enemy ready to attack. Launch\nstrikes and counter-strikes with\nmissiles and powerful torpedoes to\nlocate and submerge your enemy’s\nentire fleet in this new rendition of the\nclassic paper and pencil game,\nBattleship.\n<br/><br/>\nUse additional content such as\nscanners to gain intelligence and\ndetect the location of your enemy.\nChallenge your friends to battles\nagainst your fleet to see who really\nrules the seas with DS Wireless Play\nor tackle missions and battles on your\nown in three different single player\nmodes. Your only hope of survival is\nto uncover your enemy’s whereabouts\nbefore they uncover yours!\n<br/><br/>\n- Based on the iconic naval\nbattle-themed paper and pencil game\nwith exciting new features\n<br/><br/>\n- Battle in Classic mode, Missions\nmode or the new Modern mode which\nincludes additional features such as\nmines and diagonal ship placement\n<br/><br/>\n- DS Wireless Play feature available\nfor wild sea battles against friends\n<br/><br/>\n- A range of map sizes with\nincreasing difficulty levels for\nprogressively intense battles",
+  "release_date_on_eshop": "2014-04-24",
+  "product_code": "TWL-N-KRWP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Action",
+    "Board Game",
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B503356",
-    "uid": "50010000004622",
-    "name": "Petz® Hamster Superstar",
-    "formal_name": "Petz® Hamster Superstar",
-    "description": "Adopt your very own family of\nhamsters! Care for them, teach them\nfun tricks, and unlock toys and\naccessories to give them lots of love!<br>\n<br>\n• Care for your hamsters by feeding\nthem, playing with them and keeping\nthem clean.\n• Discover your hamsters’ unique\npersonalities—watch them react with\ntheir cute and funny facial\nexpressions!\n• Teach your hamsters fun activities\nsuch as bowling or running on ramps,\nand watch them progress.\n• Earn coins you can spend at the\nstore to unlock new toys and\naccessories.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KP3V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503356",
+  "uid": "50010000004622",
+  "name": "Petz® Hamster Superstar",
+  "formal_name": "Petz® Hamster Superstar",
+  "description": "Adopt your very own family of\nhamsters! Care for them, teach them\nfun tricks, and unlock toys and\naccessories to give them lots of love!<br>\n<br>\n• Care for your hamsters by feeding\nthem, playing with them and keeping\nthem clean.\n• Discover your hamsters’ unique\npersonalities—watch them react with\ntheir cute and funny facial\nexpressions!\n• Teach your hamsters fun activities\nsuch as bowling or running on ramps,\nand watch them progress.\n• Earn coins you can spend at the\nstore to unlock new toys and\naccessories.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KP3V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

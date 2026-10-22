@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000093800",
-    "uid": "50010000011386",
-    "name": "Mole Mania™",
-    "formal_name": "Mole Mania™",
-    "description": "Original Release Date:  February 1997\n<br><br>\nJoin Muddy Mole in a race to defeat the evil farmer, Jinbe. Work your way through each puzzle by pushing, pulling, or throwing black balls to defeat or trap enemies. Blast strategic exits and burrow into soft soil to tunnel your way through underground paths to the next action-packed level. Defeat the bosses and solve all of the puzzles in Jinbe Land to reunite Muddy Mole with his beloved wife and kids. You'll dig the fast pace and challenging fun of Mole Mania!",
-    "release_date_on_eshop": "2012-07-26",
-    "product_code": "CTR-N-RB7E",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000093800",
+  "uid": "50010000011386",
+  "name": "Mole Mania™",
+  "formal_name": "Mole Mania™",
+  "description": "Original Release Date:  February 1997\n<br><br>\nJoin Muddy Mole in a race to defeat the evil farmer, Jinbe. Work your way through each puzzle by pushing, pulling, or throwing black balls to defeat or trap enemies. Blast strategic exits and burrow into soft soil to tunnel your way through underground paths to the next action-packed level. Defeat the bosses and solve all of the puzzles in Jinbe Land to reunite Muddy Mole with his beloved wife and kids. You'll dig the fast pace and challenging fun of Mole Mania!",
+  "release_date_on_eshop": "2012-07-26",
+  "product_code": "CTR-N-RB7E",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

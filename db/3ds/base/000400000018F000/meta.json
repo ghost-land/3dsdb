@@ -1,33 +1,33 @@
 {
-    "tid": "000400000018F000",
-    "uid": "50010000041258",
-    "name": "Dragon Quest® VII: Fragments\nof the Forgotten Past",
-    "formal_name": "Dragon Quest® VII: Fragments\n<br>of the Forgotten Past",
-    "description": "Travel to the past to save the present in this timeless quest\n<br>\n<br>Travel to the past to save the present as you restore forgotten lands and battle an unknown evil in this classic DRAGON QUEST adventure – completely reimagined from the ground up for the Nintendo 3DS system. Customise your party from more than 30 vocations and level up in turn-based battles to learn new spells and abilities in this timeless quest!\n<br>\n<br>- Rebuilt visuals and a complete retelling of the story make this a fresh way to experience this classic game\n<br>\n<br>- Explore a beautifully designed world that you shape as you travel back and forth in time\n<br>\n<br>- Meet an iconic cast of classic characters and monsters designed by critically acclaimed manga and game artist Akira Toriyama\n<br>\n<br>- Customise your party from more than 30 vocations and level up in turn-based battles to learn new spells and abilities\n<br>\n<br>- Expand and share your adventure even more with the StreetPass feature – send and receive traveller’s tablets to explore new dungeons that contain rare monsters and unique equipment",
-    "release_date_on_eshop": "2016-09-16",
-    "product_code": "CTR-P-AD7P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018F000",
+  "uid": "50010000041258",
+  "name": "Dragon Quest® VII: Fragments\nof the Forgotten Past",
+  "formal_name": "Dragon Quest® VII: Fragments\n<br>of the Forgotten Past",
+  "description": "Travel to the past to save the present in this timeless quest\n<br>\n<br>Travel to the past to save the present as you restore forgotten lands and battle an unknown evil in this classic DRAGON QUEST adventure – completely reimagined from the ground up for the Nintendo 3DS system. Customise your party from more than 30 vocations and level up in turn-based battles to learn new spells and abilities in this timeless quest!\n<br>\n<br>- Rebuilt visuals and a complete retelling of the story make this a fresh way to experience this classic game\n<br>\n<br>- Explore a beautifully designed world that you shape as you travel back and forth in time\n<br>\n<br>- Meet an iconic cast of classic characters and monsters designed by critically acclaimed manga and game artist Akira Toriyama\n<br>\n<br>- Customise your party from more than 30 vocations and level up in turn-based battles to learn new spells and abilities\n<br>\n<br>- Expand and share your adventure even more with the StreetPass feature – send and receive traveller’s tablets to explore new dungeons that contain rare monsters and unique equipment",
+  "release_date_on_eshop": "2016-09-16",
+  "product_code": "CTR-P-AD7P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

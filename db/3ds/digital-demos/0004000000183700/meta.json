@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000183700",
-    "uid": "50010000039636",
-    "name": "BRAVELY SECOND™:\nEND LAYER DEMO",
-    "formal_name": "BRAVELY SECOND™: END LAYER DEMO \nThe Ballad of the Three Cavaliers",
-    "description": "Square Enix’s critically acclaimed Bravely Default game is all set to enjoy a much-lauded sequel and you can try a portion of it out right now, for free! In the Bravely Second™: End Layer demo: The Ballad of the Three Cavaliers, you’ll return to the land of Luxendarc and embark on a bonus adventure not found in the main game.\n<br><br>\nJoin the Three Cavaliers on a mission from Her Holiness Agnès Oblige to investigate strange happenings in the desert of Harena. Make sure to try out different jobs during your adventure—mix and match abilities and secondary job commands to take down tough enemies and bosses. Whether they’re formidable fighters and mages looking to test their skills, giant trolls with a chip on their shoulder, or alien entities with a bent for drama, all of them pose a risky challenge…along with the irresistible promise of great rewards.",
-    "release_date_on_eshop": "2016-03-10",
-    "product_code": "CTR-N-KHSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG",
-        "Strategy",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Enjoy several hours of adventuring that act as a prelude to the main game and allow you to unlock special rewards depending on your progress. Playing the demo will net you play bonuses you can transfer into the full version of the game when it becomes available for purchase on April 15th.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000183700",
+  "uid": "50010000039636",
+  "name": "BRAVELY SECOND™:\nEND LAYER DEMO",
+  "formal_name": "BRAVELY SECOND™: END LAYER DEMO \nThe Ballad of the Three Cavaliers",
+  "description": "Square Enix’s critically acclaimed Bravely Default game is all set to enjoy a much-lauded sequel and you can try a portion of it out right now, for free! In the Bravely Second™: End Layer demo: The Ballad of the Three Cavaliers, you’ll return to the land of Luxendarc and embark on a bonus adventure not found in the main game.\n<br><br>\nJoin the Three Cavaliers on a mission from Her Holiness Agnès Oblige to investigate strange happenings in the desert of Harena. Make sure to try out different jobs during your adventure—mix and match abilities and secondary job commands to take down tough enemies and bosses. Whether they’re formidable fighters and mages looking to test their skills, giant trolls with a chip on their shoulder, or alien entities with a bent for drama, all of them pose a risky challenge…along with the irresistible promise of great rewards.",
+  "release_date_on_eshop": "2016-03-10",
+  "product_code": "CTR-N-KHSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG",
+    "Strategy",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Enjoy several hours of adventuring that act as a prelude to the main game and allow you to unlock special rewards depending on your progress. Playing the demo will net you play bonuses you can transfer into the full version of the game when it becomes available for purchase on April 15th.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

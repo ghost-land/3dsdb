@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B5A4156",
-    "uid": "50010000006601",
-    "name": "ZENONIA®",
-    "formal_name": "ZENONIA®",
-    "description": "ZENONIA features anime style\ncharacters and graphics with numerous\nquests following an epic storyline\nwhich offers playing time of over 40\nhours to conquer the quests. The\nplayer can choose from 3 different\nclasses; warrior, paladin and assassin,\nand customize attributes. The game\nprovides hundreds of different\nweapons and skill trees. The game\nalso provides items that can be\ncollected from 5 different classes\n(normal, magic, rare, unique and epic)\nto enchant or combine them for\nupgrades. <br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KZAV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "RPG",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4156",
+  "uid": "50010000006601",
+  "name": "ZENONIA®",
+  "formal_name": "ZENONIA®",
+  "description": "ZENONIA features anime style\ncharacters and graphics with numerous\nquests following an epic storyline\nwhich offers playing time of over 40\nhours to conquer the quests. The\nplayer can choose from 3 different\nclasses; warrior, paladin and assassin,\nand customize attributes. The game\nprovides hundreds of different\nweapons and skill trees. The game\nalso provides items that can be\ncollected from 5 different classes\n(normal, magic, rare, unique and epic)\nto enchant or combine them for\nupgrades. <br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KZAV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

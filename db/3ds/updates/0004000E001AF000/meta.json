@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E001AF000",
-    "uid": "50010000042277",
-    "name": "更新データ Ver. 1.1\n新みんなの塗り絵 Hello Kitty",
-    "formal_name": "更新データ Ver. 1.1\n新みんなの塗り絵 Hello Kitty",
-    "description": "『新みんなの塗り絵 Hello Kitty』の更新データです。\nお手数ですがダウンロードをお願いいたします。\n・作品を交互に通信した場合、予期せぬ作品の送信やクラッシュが起こる\n・JPEGデータを連続して受け取った際、クラッシュが起こる\n・細部のレイアウト、演出\n以上が修正されます。",
-    "release_date_on_eshop": "2017-01-11",
-    "product_code": "CTR-U-KHLJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.3.0",
-    "disclaimer": "ニンテンドー3DSソフト『新みんなの塗り絵 Hello Kitty』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E001AF000",
+  "uid": "50010000042277",
+  "name": "更新データ Ver. 1.1\n新みんなの塗り絵 Hello Kitty",
+  "formal_name": "更新データ Ver. 1.1\n新みんなの塗り絵 Hello Kitty",
+  "description": "『新みんなの塗り絵 Hello Kitty』の更新データです。\nお手数ですがダウンロードをお願いいたします。\n・作品を交互に通信した場合、予期せぬ作品の送信やクラッシュが起こる\n・JPEGデータを連続して受け取った際、クラッシュが起こる\n・細部のレイアウト、演出\n以上が修正されます。",
+  "release_date_on_eshop": "2017-01-11",
+  "product_code": "CTR-U-KHLJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.3.0",
+  "disclaimer": "ニンテンドー3DSソフト『新みんなの塗り絵 Hello Kitty』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

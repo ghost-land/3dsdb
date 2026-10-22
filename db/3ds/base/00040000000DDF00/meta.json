@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000DDF00",
-    "uid": "50010000021513",
-    "name": "Mystery Case Files®\n<br>Ravenhearst",
-    "formal_name": "Mystery Case Files®  Ravenhearst",
-    "description": "Rumors surrounding the history of stately Ravenhearst Manor have circulated for decades.\n<br>\n<br>The recently acquired diary of Emma Ravenhearst may hold the key to unraveling the tale behind this unsettling place, yet the pages are missing. Players assume the role of Master Detective to unlock secrets held within Ravenhearst™, scouring a myriad of enchanting rooms in the manor for cleverly hidden clues. Locating and assembling diary pages helps tell the story of the house and, ultimately, unlock the mystery.",
-    "release_date_on_eshop": "2014-04-03",
-    "product_code": "CTR-N-AAQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000DDF00",
+  "uid": "50010000021513",
+  "name": "Mystery Case Files®\n<br>Ravenhearst",
+  "formal_name": "Mystery Case Files®  Ravenhearst",
+  "description": "Rumors surrounding the history of stately Ravenhearst Manor have circulated for decades.\n<br>\n<br>The recently acquired diary of Emma Ravenhearst may hold the key to unraveling the tale behind this unsettling place, yet the pages are missing. Players assume the role of Master Detective to unlock secrets held within Ravenhearst™, scouring a myriad of enchanting rooms in the manor for cleverly hidden clues. Locating and assembling diary pages helps tell the story of the house and, ultimately, unlock the mystery.",
+  "release_date_on_eshop": "2014-04-03",
+  "product_code": "CTR-N-AAQE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

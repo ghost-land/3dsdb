@@ -1,36 +1,36 @@
 {
-    "tid": "000400000008A000",
-    "uid": "50010000010350",
-    "name": "Cocoto Alien Brick Breaker",
-    "formal_name": "Cocoto Alien Brick Breaker",
-    "description": "The brick breaker that\nrevolutionizes the genre!\n<br/><br/>\nTravel through the 5 planets of\nCocoto’s universe to protect them\nfrom alien fire by firing back their\nprojectiles with your magic shield.\nProgress through the game confronting\nwaves of more and more enemies\nwith increasingly amusing weapons,\nand unlock new powers for your shield.\n<br/><br/>\n- Story, Arcade and Classic modes\n- 50 levels\n- 13 ultra-powerful shields!",
-    "release_date_on_eshop": "2013-12-12",
-    "product_code": "CTR-P-AB7P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008A000",
+  "uid": "50010000010350",
+  "name": "Cocoto Alien Brick Breaker",
+  "formal_name": "Cocoto Alien Brick Breaker",
+  "description": "The brick breaker that\nrevolutionizes the genre!\n<br/><br/>\nTravel through the 5 planets of\nCocoto’s universe to protect them\nfrom alien fire by firing back their\nprojectiles with your magic shield.\nProgress through the game confronting\nwaves of more and more enemies\nwith increasingly amusing weapons,\nand unlock new powers for your shield.\n<br/><br/>\n- Story, Arcade and Classic modes\n- 50 levels\n- 13 ultra-powerful shields!",
+  "release_date_on_eshop": "2013-12-12",
+  "product_code": "CTR-P-AB7P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

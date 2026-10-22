@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B464145",
-    "uid": "50010000002226",
-    "name": "Airport Mania®: First Flight",
-    "formal_name": "Airport Mania®: First Flight",
-    "description": "Pack your bags for a trip through the skies in Airport Mania! Travel through eight amusing airports while you land a variety of planes, purchase upgrades, and avoid delays. Stay on your toes as some planes carry precious cargo and will need to land in a hurry, while others might need a trip to the repair shop. But, with good planning, you're sure to make it to the gate on time! With unique challenges, whimsical characters, and fun that will put a smile on your face, Airport Mania is one flight you can't miss!",
-    "release_date_on_eshop": "2011-04-25",
-    "product_code": "TWL-N-KFAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B464145",
+  "uid": "50010000002226",
+  "name": "Airport Mania®: First Flight",
+  "formal_name": "Airport Mania®: First Flight",
+  "description": "Pack your bags for a trip through the skies in Airport Mania! Travel through eight amusing airports while you land a variety of planes, purchase upgrades, and avoid delays. Stay on your toes as some planes carry precious cargo and will need to land in a hurry, while others might need a trip to the repair shop. But, with good planning, you're sure to make it to the gate on time! With unique challenges, whimsical characters, and fun that will put a smile on your face, Airport Mania is one flight you can't miss!",
+  "release_date_on_eshop": "2011-04-25",
+  "product_code": "TWL-N-KFAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

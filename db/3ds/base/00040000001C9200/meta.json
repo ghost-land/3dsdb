@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001C9200",
-    "uid": "50010000043061",
-    "name": "Little Adventure on the Prairie",
-    "formal_name": "Little Adventure on the Prairie",
-    "description": "A short and fun platforming adventure game. Venture through 12 levels of pure slaughter and mindlessly try to kill all the monsters that are facing you.\n<br>\nWant to finish the last level from the first time without dying? Try using the different items throughout the levels to overcome all the monsters and obstacles easier.",
-    "release_date_on_eshop": "2017-10-12",
-    "product_code": "CTR-N-LAPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C9200",
+  "uid": "50010000043061",
+  "name": "Little Adventure on the Prairie",
+  "formal_name": "Little Adventure on the Prairie",
+  "description": "A short and fun platforming adventure game. Venture through 12 levels of pure slaughter and mindlessly try to kill all the monsters that are facing you.\n<br>\nWant to finish the last level from the first time without dying? Try using the different items throughout the levels to overcome all the monsters and obstacles easier.",
+  "release_date_on_eshop": "2017-10-12",
+  "product_code": "CTR-N-LAPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

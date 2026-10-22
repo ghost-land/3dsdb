@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000CBD00",
-    "uid": "50010000015213",
-    "name": "みんなのおしゃべりチャット",
-    "formal_name": "みんなのおしゃべりチャット",
-    "description": "2019年12月1日(日)0時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>最大10人で遊べるチャットと最大4人で同時にお話しできる通話機能があります。",
-    "release_date_on_eshop": "2013-07-24",
-    "product_code": "CTR-N-JCTJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "コミュニケーション",
-        "実用"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CBD00",
+  "uid": "50010000015213",
+  "name": "みんなのおしゃべりチャット",
+  "formal_name": "みんなのおしゃべりチャット",
+  "description": "2019年12月1日(日)0時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>最大10人で遊べるチャットと最大4人で同時にお話しできる通話機能があります。",
+  "release_date_on_eshop": "2013-07-24",
+  "product_code": "CTR-N-JCTJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "コミュニケーション",
+    "実用"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

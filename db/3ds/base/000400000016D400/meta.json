@@ -1,29 +1,29 @@
 {
-    "tid": "000400000016D400",
-    "uid": "50010000039502",
-    "name": "Excave III : Tower of Destiny",
-    "formal_name": "Excave III : Tower of Destiny",
-    "description": "Excave III : The Tower of Destiny is a\n<br>classic Japanese style dungeon\n<br>crawler with the heroine Scarlett\n<br>taking on huge hordes of enemies in a\n<br>climb up through the Fantasy Tower.\n<br>\n<br>The Fantasy Tower is connected to\n<br>Internet Rankings so you can compete\n<br>with players from around the country.\n<br>\n<br>Auto generated maps await so you\n<br>can enjoy a different experience each\n<br>time.\n<br>\n<br>If EXCAVE II - Wizard of the\n<br>Underworld save data is found then\n<br>special unlocks will occur!",
-    "release_date_on_eshop": "2016-02-25",
-    "product_code": "CTR-N-KX3P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016D400",
+  "uid": "50010000039502",
+  "name": "Excave III : Tower of Destiny",
+  "formal_name": "Excave III : Tower of Destiny",
+  "description": "Excave III : The Tower of Destiny is a\n<br>classic Japanese style dungeon\n<br>crawler with the heroine Scarlett\n<br>taking on huge hordes of enemies in a\n<br>climb up through the Fantasy Tower.\n<br>\n<br>The Fantasy Tower is connected to\n<br>Internet Rankings so you can compete\n<br>with players from around the country.\n<br>\n<br>Auto generated maps await so you\n<br>can enjoy a different experience each\n<br>time.\n<br>\n<br>If EXCAVE II - Wizard of the\n<br>Underworld save data is found then\n<br>special unlocks will occur!",
+  "release_date_on_eshop": "2016-02-25",
+  "product_code": "CTR-N-KX3P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

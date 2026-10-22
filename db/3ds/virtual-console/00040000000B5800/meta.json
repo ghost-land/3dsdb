@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000B5800",
-    "uid": "50010000018413",
-    "name": "Double Dragon",
-    "formal_name": "Double Dragon",
-    "description": "Double Dragon is one of the most\nfamous arcade-action fighting games\never and formed the template for\nmany followers to come.\n<br/><br/>\nHelp Billy Lee in his quest to save his\nkidnapped girlfriend Marian from an\nevil gang. Use whatever weapons\ncome to hand, or your good old fists\nand feet, to battle through the city.\nYou can also level-up to unlock new\nmoves.\n<br/><br/>\nThis version also features a\ntwo-player vs. mode via Download\nPlay, requiring only one copy of the\ngame.",
-    "release_date_on_eshop": "2013-12-05",
-    "product_code": "CTR-N-TBYP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B5800",
+  "uid": "50010000018413",
+  "name": "Double Dragon",
+  "formal_name": "Double Dragon",
+  "description": "Double Dragon is one of the most\nfamous arcade-action fighting games\never and formed the template for\nmany followers to come.\n<br/><br/>\nHelp Billy Lee in his quest to save his\nkidnapped girlfriend Marian from an\nevil gang. Use whatever weapons\ncome to hand, or your good old fists\nand feet, to battle through the city.\nYou can also level-up to unlock new\nmoves.\n<br/><br/>\nThis version also features a\ntwo-player vs. mode via Download\nPlay, requiring only one copy of the\ngame.",
+  "release_date_on_eshop": "2013-12-05",
+  "product_code": "CTR-N-TBYP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000133300",
-    "uid": "50010000028355",
-    "name": "Phoenix Wright: Ace Attorney\nTrilogy",
-    "formal_name": "Phoenix Wright: Ace Attorney\n<br>Trilogy",
-    "description": "Defend the innocent and save the\n<br>day! Experience the original trilogy\n<br>like never before in clear,\n<br>high-resolution re-drawn graphics and\n<br>immersive 3D visuals optimized for the\n<br>Nintendo 3DS™ system. Join rookie\n<br>lawyer Phoenix Wright through the\n<br>early years of his career in his quest\n<br>to find the truth behind all of the\n<br>classic cases! Prepare for intense\n<br>courtroom showdowns by investigating\n<br>crime scenes, collecting evidence,\n<br>and questioning witnesses. Use\n<br>evidence and the testimonies of\n<br>witnesses to your advantage as you\n<br>battle for the innocence of your client.\n<br>Nothing less than a full acquittal will\n<br>do in this court of law. Find the\n<br>contradictions in witnesses'\n<br>testimonies to expose the truth!",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-BHDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000133300",
+  "uid": "50010000028355",
+  "name": "Phoenix Wright: Ace Attorney\nTrilogy",
+  "formal_name": "Phoenix Wright: Ace Attorney\n<br>Trilogy",
+  "description": "Defend the innocent and save the\n<br>day! Experience the original trilogy\n<br>like never before in clear,\n<br>high-resolution re-drawn graphics and\n<br>immersive 3D visuals optimized for the\n<br>Nintendo 3DS™ system. Join rookie\n<br>lawyer Phoenix Wright through the\n<br>early years of his career in his quest\n<br>to find the truth behind all of the\n<br>classic cases! Prepare for intense\n<br>courtroom showdowns by investigating\n<br>crime scenes, collecting evidence,\n<br>and questioning witnesses. Use\n<br>evidence and the testimonies of\n<br>witnesses to your advantage as you\n<br>battle for the innocence of your client.\n<br>Nothing less than a full acquittal will\n<br>do in this court of law. Find the\n<br>contradictions in witnesses'\n<br>testimonies to expose the truth!",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-BHDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

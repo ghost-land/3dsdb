@@ -1,35 +1,35 @@
 {
-    "tid": "00040000001AB800",
-    "uid": "50010000042162",
-    "name": "Team Kirby Clash Deluxe™",
-    "formal_name": "Team Kirby Clash Deluxe™",
-    "description": "As of late March 2023, it will no longer be possible to make purchases in Nintendo eShop for Nintendo 3DS, including add-on content for this game. For more information please visit Support.\n<br><br>\nIn pretty much the best team up ever, Kirby, Kirby, Kirby, and Kirby must unite to do battle in this free-to-start multiplayer action game! Choose from four roles to make your own Kirby crew, take on bosses, level up, and try out new challenges in this clash of power and puffiness. Are you a Sword Hero? Hammer Lord? Beam Mage? Or Doctor Healmore?!\n<br>\n<br>No matter what, each mighty role offers up a unique way to play. Puff up your power by crafting new weapons and spending materials at the shop to receive even MORE weapons, not to mention armor and items. Beyond the main game, there’s also a ton of quests and a brand-new challenge system. Plus, tapping compatible amiibo™ figures/accessories will earn you extra fragments to help craft new gear! Are you ready? For Kirby, the answer is always fight and flight.",
-    "release_date_on_eshop": "2017-04-12",
-    "product_code": "CTR-N-JLKE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br>Game, system and amiibo sold separately. \n<br>Compatibility and functionality of amiibo may vary per game.  \n<br>Visit amiibo.com for specific details on how each amiibo works.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-    "descriptors": []
+  "tid": "00040000001AB800",
+  "uid": "50010000042162",
+  "name": "Team Kirby Clash Deluxe™",
+  "formal_name": "Team Kirby Clash Deluxe™",
+  "description": "As of late March 2023, it will no longer be possible to make purchases in Nintendo eShop for Nintendo 3DS, including add-on content for this game. For more information please visit Support.\n<br><br>\nIn pretty much the best team up ever, Kirby, Kirby, Kirby, and Kirby must unite to do battle in this free-to-start multiplayer action game! Choose from four roles to make your own Kirby crew, take on bosses, level up, and try out new challenges in this clash of power and puffiness. Are you a Sword Hero? Hammer Lord? Beam Mage? Or Doctor Healmore?!\n<br>\n<br>No matter what, each mighty role offers up a unique way to play. Puff up your power by crafting new weapons and spending materials at the shop to receive even MORE weapons, not to mention armor and items. Beyond the main game, there’s also a ton of quests and a brand-new challenge system. Plus, tapping compatible amiibo™ figures/accessories will earn you extra fragments to help craft new gear! Are you ready? For Kirby, the answer is always fight and flight.",
+  "release_date_on_eshop": "2017-04-12",
+  "product_code": "CTR-N-JLKE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br>Game, system and amiibo sold separately. \n<br>Compatibility and functionality of amiibo may vary per game.  \n<br>Visit amiibo.com for specific details on how each amiibo works.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+  "descriptors": []
 }

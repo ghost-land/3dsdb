@@ -1,28 +1,28 @@
 {
-    "tid": "000400000007DE00",
-    "uid": "50010000012206",
-    "name": "Castlevania: The Adventure",
-    "formal_name": "Castlevania: The Adventure",
-    "description": "Original Release Date:  December 1989\n<br><br>\nAfter getting his wings clipped, the death-defying Count Dracula has risen again.  Desiring revenge even more than blood, he'll descend upon you with fangs glistening by the light of the full moon. Play the role of another hero from the long lineage of vampire hunters, the Belmont clan. Battle your way through the Count's maze of torture chambers and vampire crypts. Unlock the castle's secrets by locating hearts, crystals and crosses. \n<br><br>\nYou must also possess the strength to master the Mystic Whip, which wards off unearthly evils, like the She Worm. So risk your neck and accept the challenge. If you fail to destroy Dracula now, he will rule the night forever.",
-    "release_date_on_eshop": "2012-10-25",
-    "product_code": "CTR-N-RBPE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000007DE00",
+  "uid": "50010000012206",
+  "name": "Castlevania: The Adventure",
+  "formal_name": "Castlevania: The Adventure",
+  "description": "Original Release Date:  December 1989\n<br><br>\nAfter getting his wings clipped, the death-defying Count Dracula has risen again.  Desiring revenge even more than blood, he'll descend upon you with fangs glistening by the light of the full moon. Play the role of another hero from the long lineage of vampire hunters, the Belmont clan. Battle your way through the Count's maze of torture chambers and vampire crypts. Unlock the castle's secrets by locating hearts, crystals and crosses. \n<br><br>\nYou must also possess the strength to master the Mystic Whip, which wards off unearthly evils, like the She Worm. So risk your neck and accept the challenge. If you fail to destroy Dracula now, he will rule the night forever.",
+  "release_date_on_eshop": "2012-10-25",
+  "product_code": "CTR-N-RBPE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

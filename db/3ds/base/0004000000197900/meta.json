@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000197900",
-    "uid": "50010000040864",
-    "name": "Defend Your Crypt",
-    "formal_name": "Defend Your Crypt",
-    "description": "Defend Your Crypt is a strategy and\npuzzle game, in which we will have to\navoid to lose our treasure by the tomb\nthieves. We, as the Pharaoh, can use\ndifferent traps to defeat those damn\nambitious humans who are profaning\nyour tomb.\n<br/><br/>\nLet them fall into the void, burn\nthem, put an arrow through them,\ndrown them, send your scorpions to\nkill them... Do everything you find\nnecessary so you can end their lives.\n<br/><br/>\n- Retro style: Like many of our\ngames, Defend Your Crypt will have\nretro pixel art. In addition, we will\nlean toward Egyptian style.\n<br/><br/>\n- Trap variety: The game will contain\nclassic traps such as open platforms,\nwhich can make robbers fall onto\nspikes, and also water traps or killer\nscorpions and beetles.\n<br/><br/>\n- Gore: In Ratalaika Games, we\nknow you like blood, so we have\nincluded it. A lot of it. Killing the\nrobbers won't be enough. \"If it\nbleeds, we can kill it\", and we're\ntaking it to the limit. (If you don't like\nblood, you can deactivate it :P)\n<br/><br/>\n- Levels: A large number of levels to\nmake sure the robbers will not steal\nany of your gold, and you enjoy the\ngame to the fullest. A lot of time can\nbe spent on finishing all of them!\n<br/><br/>\n- Robbers with feelings: No robbers\nare heartless. Throughout the game,\nplayers will see robbers in different\nmoods, and they will also interact\nwith each other a little bit. Seeing a\nhallway full of blood could make a\nrobber sad and break his heart.",
-    "release_date_on_eshop": "2016-07-21",
-    "product_code": "CTR-N-JLEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000197900",
+  "uid": "50010000040864",
+  "name": "Defend Your Crypt",
+  "formal_name": "Defend Your Crypt",
+  "description": "Defend Your Crypt is a strategy and\npuzzle game, in which we will have to\navoid to lose our treasure by the tomb\nthieves. We, as the Pharaoh, can use\ndifferent traps to defeat those damn\nambitious humans who are profaning\nyour tomb.\n<br/><br/>\nLet them fall into the void, burn\nthem, put an arrow through them,\ndrown them, send your scorpions to\nkill them... Do everything you find\nnecessary so you can end their lives.\n<br/><br/>\n- Retro style: Like many of our\ngames, Defend Your Crypt will have\nretro pixel art. In addition, we will\nlean toward Egyptian style.\n<br/><br/>\n- Trap variety: The game will contain\nclassic traps such as open platforms,\nwhich can make robbers fall onto\nspikes, and also water traps or killer\nscorpions and beetles.\n<br/><br/>\n- Gore: In Ratalaika Games, we\nknow you like blood, so we have\nincluded it. A lot of it. Killing the\nrobbers won't be enough. \"If it\nbleeds, we can kill it\", and we're\ntaking it to the limit. (If you don't like\nblood, you can deactivate it :P)\n<br/><br/>\n- Levels: A large number of levels to\nmake sure the robbers will not steal\nany of your gold, and you enjoy the\ngame to the fullest. A lot of time can\nbe spent on finishing all of them!\n<br/><br/>\n- Robbers with feelings: No robbers\nare heartless. Throughout the game,\nplayers will see robbers in different\nmoods, and they will also interact\nwith each other a little bit. Seeing a\nhallway full of blood could make a\nrobber sad and break his heart.",
+  "release_date_on_eshop": "2016-07-21",
+  "product_code": "CTR-N-JLEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

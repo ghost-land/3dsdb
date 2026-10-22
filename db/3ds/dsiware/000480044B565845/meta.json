@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B565845",
-    "uid": "50010000010346",
-    "name": "Cat Frenzy",
-    "formal_name": "Cat Frenzy",
-    "description": "Little kittens are trapped in a well, and itâ€™s up to you to figure out how to get them out of trouble! This adorable and relaxing puzzle introduces totally new twists to the popular slide and match-3 mechanics and, of course, lots of cats. Slide rows or columns of cute, cuddly cats until you create a chain of three or more cats of the same kind to pull them out of the well. The game features a Mission and Quick-play mode with a combined 140 levels and an explanation of all the rules in a quick tutorial. The Mission mode provides new challenging objectives in each level, such as: clear the board with only one sidle or pull out all the shining cats. You need to accomplish the objective in order to advance to the next level. The Quick-play mode is all about beating your high score, and there are no restrictions on how to play. Just remember that longer chains can trigger funny bonuses and score you more points. The game will engage you in hours of fun, even if you are not a cat person!",
-    "release_date_on_eshop": "2012-06-07",
-    "product_code": "TWL-N-KVXE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B565845",
+  "uid": "50010000010346",
+  "name": "Cat Frenzy",
+  "formal_name": "Cat Frenzy",
+  "description": "Little kittens are trapped in a well, and itâ€™s up to you to figure out how to get them out of trouble! This adorable and relaxing puzzle introduces totally new twists to the popular slide and match-3 mechanics and, of course, lots of cats. Slide rows or columns of cute, cuddly cats until you create a chain of three or more cats of the same kind to pull them out of the well. The game features a Mission and Quick-play mode with a combined 140 levels and an explanation of all the rules in a quick tutorial. The Mission mode provides new challenging objectives in each level, such as: clear the board with only one sidle or pull out all the shining cats. You need to accomplish the objective in order to advance to the next level. The Quick-play mode is all about beating your high score, and there are no restrictions on how to play. Just remember that longer chains can trigger funny bonuses and score you more points. The game will engage you in hours of fun, even if you are not a cat person!",
+  "release_date_on_eshop": "2012-06-07",
+  "product_code": "TWL-N-KVXE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

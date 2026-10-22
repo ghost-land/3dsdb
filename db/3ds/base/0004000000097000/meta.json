@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000097000",
-    "uid": "50010000009909",
-    "name": "Bird Mania 3D",
-    "formal_name": "Bird Mania 3D",
-    "description": "When Mojo realises his friends from\nthe flock set out to Africa he begins a\nfrantic chase after them because he\nwants to go on a vacation too! Fly\nfaster and faster, dash, soar, glide,\nand collect all bonuses. How far can\nyou get in pursuit of a delightful\nvacation? Bird Mania 3D is a\nskill-based action game where you\nsteer a little birdie on his way to\nAfrica. Keep him out of trouble as\nlong as possible and beat your best\nscore! You will be hypnotised for long\nhours while trying to collect all\nbonuses and avoid obstacles. And if\nyou really want to perfect the art of\nflying, try to get all achievements.\nBeware, it’s totally addictive!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JT9P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000097000",
+  "uid": "50010000009909",
+  "name": "Bird Mania 3D",
+  "formal_name": "Bird Mania 3D",
+  "description": "When Mojo realises his friends from\nthe flock set out to Africa he begins a\nfrantic chase after them because he\nwants to go on a vacation too! Fly\nfaster and faster, dash, soar, glide,\nand collect all bonuses. How far can\nyou get in pursuit of a delightful\nvacation? Bird Mania 3D is a\nskill-based action game where you\nsteer a little birdie on his way to\nAfrica. Keep him out of trouble as\nlong as possible and beat your best\nscore! You will be hypnotised for long\nhours while trying to collect all\nbonuses and avoid obstacles. And if\nyou really want to perfect the art of\nflying, try to get all achievements.\nBeware, it’s totally addictive!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JT9P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

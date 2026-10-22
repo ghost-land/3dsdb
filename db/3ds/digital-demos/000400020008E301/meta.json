@@ -1,37 +1,37 @@
 {
-    "tid": "000400020008E301",
-    "uid": "50010000010687",
-    "name": "Marvel Pinball 3D",
-    "formal_name": "Marvel Pinball 3D",
-    "description": "The critically acclaimed Marvel Pinball series from Zen Studios, the definitive leader in videogame pinball, is now available for Nintendo 3DS™! Marvel Pinball 3D is the ultimate Super Hero pinball experience, featuring original tables based on legendary characters from the Marvel Universe.\n<br><br>\nSee Tony Stark suit up for action on the Iron Man table as he fights against his infamous archenemy, the Mandarin.\n<br><br>\nJoin Blade and Hannibal in New York to fight off the vampiric hordes led by Deacon Frost and Dracula.<br>\nRally the troops and help Captain America and the Howling Commandos defend freedom against Baron Zemo and the Red Skull!\n<br><br>\nDefeat Doctor Doom alongside Marvel's first family, the Fantastic Four, featuring Mister Fantastic, the Invisible Woman, the Thing and the Human Torch.\n<br><br>\nMarvel Pinball 3D features the most advanced ball physics, online leader boards ranking you against other players, in-game friend challenges, interactive 3D models, and more!",
-    "release_date_on_eshop": "2012-06-28",
-    "product_code": "CTR-N-JMVE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Fantasy Violence",
-        "Mild Language"
-    ]
+  "tid": "000400020008E301",
+  "uid": "50010000010687",
+  "name": "Marvel Pinball 3D",
+  "formal_name": "Marvel Pinball 3D",
+  "description": "The critically acclaimed Marvel Pinball series from Zen Studios, the definitive leader in videogame pinball, is now available for Nintendo 3DS™! Marvel Pinball 3D is the ultimate Super Hero pinball experience, featuring original tables based on legendary characters from the Marvel Universe.\n<br><br>\nSee Tony Stark suit up for action on the Iron Man table as he fights against his infamous archenemy, the Mandarin.\n<br><br>\nJoin Blade and Hannibal in New York to fight off the vampiric hordes led by Deacon Frost and Dracula.<br>\nRally the troops and help Captain America and the Howling Commandos defend freedom against Baron Zemo and the Red Skull!\n<br><br>\nDefeat Doctor Doom alongside Marvel's first family, the Fantastic Four, featuring Mister Fantastic, the Invisible Woman, the Thing and the Human Torch.\n<br><br>\nMarvel Pinball 3D features the most advanced ball physics, online leader boards ranking you against other players, in-game friend challenges, interactive 3D models, and more!",
+  "release_date_on_eshop": "2012-06-28",
+  "product_code": "CTR-N-JMVE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Language"
+  ]
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "000400000006F400",
-    "uid": "50010000011491",
-    "name": "Donkey Kong™ Original Edition",
-    "formal_name": "Donkey Kong™ Original Edition",
-    "description": "Journey back to the beginning of\nMario's career, when the plucky\nplumber single-handedly took on the\nmighty Donkey Kong for the very first\ntime!\n<br/><br/>\nSave Pauline from DK's clutches by\nnegotiating platforms, dodging\nbouncing barrels and deadly fireballs,\nto reach the top of each stage.\n<br/><br/>\nThis authentic version of the arcade\nclassic reinstates the cement factory\nlevel that was not included in the\noriginal NES™ release, plus some\nadditional touches that make this the\ndefinitive home version!",
-    "release_date_on_eshop": "2014-09-18",
-    "product_code": "CTR-N-TAFP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006F400",
+  "uid": "50010000011491",
+  "name": "Donkey Kong™ Original Edition",
+  "formal_name": "Donkey Kong™ Original Edition",
+  "description": "Journey back to the beginning of\nMario's career, when the plucky\nplumber single-handedly took on the\nmighty Donkey Kong for the very first\ntime!\n<br/><br/>\nSave Pauline from DK's clutches by\nnegotiating platforms, dodging\nbouncing barrels and deadly fireballs,\nto reach the top of each stage.\n<br/><br/>\nThis authentic version of the arcade\nclassic reinstates the cement factory\nlevel that was not included in the\noriginal NES™ release, plus some\nadditional touches that make this the\ndefinitive home version!",
+  "release_date_on_eshop": "2014-09-18",
+  "product_code": "CTR-N-TAFP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

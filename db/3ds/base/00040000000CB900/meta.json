@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000CB900",
-    "uid": "50010000017816",
-    "name": "Nintendo 3DS™ Guide: Louvre\n(English Version)",
-    "formal_name": "Nintendo 3DS™ Guide: Louvre\n(English Version)",
-    "description": "Nintendo 3DS Guide: Louvre is a\npiece of software designed for visitors\nto the Louvre Museum in France. This\npiece of downloadable software\nallows you to enjoy the Nintendo 3DS\naudio guide that is used in the\nmuseum itself in the comfort of your\nown home.\n<br/><br/>\nThe software can be used in all sorts\nof ways: simulate your route around\nthe museum before visiting, or simply\nuse it as a starting point for\ndeveloping a deeper appreciation of\nart.\n<br/><br/>\nWonderful photographs and audio\ncommentaries allow you to appreciate\nthe Louvre’s artworks at your own\npace. Use the floor maps provided to\nfind your way around the museum,\nand even take a virtual tour of the\nLouvre’s enormous exhibition spaces.\nThe software also includes 3D models\nand high-resolution images of certain\nartworks, making it an enjoyable\nexperience that’s only available on\nNintendo 3DS!",
-    "release_date_on_eshop": "2013-11-27",
-    "product_code": "CTR-P-AL8P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CB900",
+  "uid": "50010000017816",
+  "name": "Nintendo 3DS™ Guide: Louvre\n(English Version)",
+  "formal_name": "Nintendo 3DS™ Guide: Louvre\n(English Version)",
+  "description": "Nintendo 3DS Guide: Louvre is a\npiece of software designed for visitors\nto the Louvre Museum in France. This\npiece of downloadable software\nallows you to enjoy the Nintendo 3DS\naudio guide that is used in the\nmuseum itself in the comfort of your\nown home.\n<br/><br/>\nThe software can be used in all sorts\nof ways: simulate your route around\nthe museum before visiting, or simply\nuse it as a starting point for\ndeveloping a deeper appreciation of\nart.\n<br/><br/>\nWonderful photographs and audio\ncommentaries allow you to appreciate\nthe Louvre’s artworks at your own\npace. Use the floor maps provided to\nfind your way around the museum,\nand even take a virtual tour of the\nLouvre’s enormous exhibition spaces.\nThe software also includes 3D models\nand high-resolution images of certain\nartworks, making it an enjoyable\nexperience that’s only available on\nNintendo 3DS!",
+  "release_date_on_eshop": "2013-11-27",
+  "product_code": "CTR-P-AL8P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

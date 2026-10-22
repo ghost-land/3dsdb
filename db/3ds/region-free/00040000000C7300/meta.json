@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000C7300",
-    "uid": "50010000013690",
-    "name": "Save Data Transfer Tool",
-    "formal_name": "Save Data Transfer Tool",
-    "description": "This software is for moving save data\nfrom a Nintendo 3DS Game Card to a\nseparately purchased downloadable\nversion of that software.\n<br/><br/>\nThe following are required to use this\nsoftware:\n<br/><br/>\n• A Nintendo 3DS Game Card that\nsupports this software\n<br/><br/>\n• A downloadable version of the\nGame Card software\n<br/><br/>\nCaution!\n<br/><br/>\nOnce the save data is moved to the\ndownloadable version, it cannot be\nreturned to the Game Card. Save data\non the Game Card will be reset to\ndefault.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JS7A",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Region Free",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C7300",
+  "uid": "50010000013690",
+  "name": "Save Data Transfer Tool",
+  "formal_name": "Save Data Transfer Tool",
+  "description": "This software is for moving save data\nfrom a Nintendo 3DS Game Card to a\nseparately purchased downloadable\nversion of that software.\n<br/><br/>\nThe following are required to use this\nsoftware:\n<br/><br/>\n• A Nintendo 3DS Game Card that\nsupports this software\n<br/><br/>\n• A downloadable version of the\nGame Card software\n<br/><br/>\nCaution!\n<br/><br/>\nOnce the save data is moved to the\ndownloadable version, it cannot be\nreturned to the Game Card. Save data\non the Game Card will be reset to\ndefault.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JS7A",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Region Free",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

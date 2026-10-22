@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000071300",
-    "uid": "50010000007314",
-    "name": "Mario & Yoshi™",
-    "formal_name": "Mario & Yoshi™",
-    "description": "Mario & Yoshi is a fast-paced NES\npuzzle game in which you must mix\nand match falling characters and piece\ntogether eggshells to free the Yoshi\ntrapped inside.\n<br/><br/>\nSimply move Mario back and forth to\ncatch the falling Little Goombas, Boo\nBuddies, Bloopers and Piranha Plants.\nCapture creatures between two\neggshell halves and you’ll release a\nYoshi; the more creatures you\ncapture, the larger the Yoshi and the\nbigger the bonus!\n<br/><br/>\nMario & Yoshi also features a\nsplit-screen, simultaneous two-player\nmode that brings Luigi into play.",
-    "release_date_on_eshop": "2013-05-02",
-    "product_code": "CTR-N-TARP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000071300",
+  "uid": "50010000007314",
+  "name": "Mario & Yoshi™",
+  "formal_name": "Mario & Yoshi™",
+  "description": "Mario & Yoshi is a fast-paced NES\npuzzle game in which you must mix\nand match falling characters and piece\ntogether eggshells to free the Yoshi\ntrapped inside.\n<br/><br/>\nSimply move Mario back and forth to\ncatch the falling Little Goombas, Boo\nBuddies, Bloopers and Piranha Plants.\nCapture creatures between two\neggshell halves and you’ll release a\nYoshi; the more creatures you\ncapture, the larger the Yoshi and the\nbigger the bonus!\n<br/><br/>\nMario & Yoshi also features a\nsplit-screen, simultaneous two-player\nmode that brings Luigi into play.",
+  "release_date_on_eshop": "2013-05-02",
+  "product_code": "CTR-N-TARP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

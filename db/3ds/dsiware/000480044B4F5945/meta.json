@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4F5945",
-    "uid": "50010000004601",
-    "name": "Oscar in Toyland 2",
-    "formal_name": "Oscar in Toyland 2",
-    "description": "Oscar is back, with more great fun\nand zany non-stop action, set over 7\nnew exciting Worlds, All Star Sports\nWorld, World of Toys, Blox World,\nWater World, Old time Toys, Travel\nTown, and Mech World.<br>\n<br>\nYour mission is to swim, fly and run\nthrough these Worlds collecting baby\nOscars that have become scattered\nthroughout the levels, armed with\nyour secret weapon, a Yo-Yo that you\ncan use to swing from platform to\nplatform and also zap those nasty\nenemies in some of the craziest\nplatform levels you’ll ever play.",
-    "release_date_on_eshop": "2011-01-14",
-    "product_code": "TWL-N-KOYP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4F5945",
+  "uid": "50010000004601",
+  "name": "Oscar in Toyland 2",
+  "formal_name": "Oscar in Toyland 2",
+  "description": "Oscar is back, with more great fun\nand zany non-stop action, set over 7\nnew exciting Worlds, All Star Sports\nWorld, World of Toys, Blox World,\nWater World, Old time Toys, Travel\nTown, and Mech World.<br>\n<br>\nYour mission is to swim, fly and run\nthrough these Worlds collecting baby\nOscars that have become scattered\nthroughout the levels, armed with\nyour secret weapon, a Yo-Yo that you\ncan use to swing from platform to\nplatform and also zap those nasty\nenemies in some of the craziest\nplatform levels you’ll ever play.",
+  "release_date_on_eshop": "2011-01-14",
+  "product_code": "TWL-N-KOYP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

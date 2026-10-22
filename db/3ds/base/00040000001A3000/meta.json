@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001A3000",
-    "uid": "50010000041329",
-    "name": "Doll Fashion Atelier",
-    "formal_name": "Doll Fashion Atelier",
-    "description": "Follow your infinite imagination and sense of fashion to create one-of-a-kind stylish dolls!\n<br>\n<br>Choose a doll from 5 different themes: Pretty, Gothic, Victorian, Princess or Antique, and dress it up in stunning clothing pieces! There are over 600 items available, including clothes, shoes, accessories, hairstyles, make-ups and more! Add a frame and a background, draw a doodle and take a photo with a camera on your Nintendo 3DS™. Show your doll collections by creating albums and saving them to your SD card or sharing them on Miiverse™.",
-    "release_date_on_eshop": "2016-08-11",
-    "product_code": "CTR-N-AULP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Simulation",
-        "Other",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A3000",
+  "uid": "50010000041329",
+  "name": "Doll Fashion Atelier",
+  "formal_name": "Doll Fashion Atelier",
+  "description": "Follow your infinite imagination and sense of fashion to create one-of-a-kind stylish dolls!\n<br>\n<br>Choose a doll from 5 different themes: Pretty, Gothic, Victorian, Princess or Antique, and dress it up in stunning clothing pieces! There are over 600 items available, including clothes, shoes, accessories, hairstyles, make-ups and more! Add a frame and a background, draw a doodle and take a photo with a camera on your Nintendo 3DS™. Show your doll collections by creating albums and saving them to your SD card or sharing them on Miiverse™.",
+  "release_date_on_eshop": "2016-08-11",
+  "product_code": "CTR-N-AULP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Other",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

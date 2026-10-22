@@ -1,31 +1,31 @@
 {
-    "tid": "000400000012DA00",
-    "uid": "50010000025695",
-    "name": "The Keep",
-    "formal_name": "The Keep",
-    "description": "Enter the Keep as an unsung hero on\na quest to destroy the nefarious\nwizard Watrys. Explore the\nsubterranean depths in this\nfirst-person dungeon crawler featuring\nreal-time combat, a unique rune magic\nsystem, exploration, and puzzle\nsolving. This game will awaken\nmemories of what made old-school\nRPG dungeons so much fun to play\nwhile you fight, hunt for hidden\ntreasures, and avoid deadly traps. Get\nto know your enemies, find their\nweaknesses, and crush them.\nExperiment with magic to discover\npowerful spells. Only the strongest\nwill survive.\n<br/><br/>\nTo defeat the seemingly undefeatable\nWatrys, you will need to level up your\ncharacter and find powerful armor and\nweapons. The game controls were\ndesigned with a Nintendo 3DS™ stylus\nin mind so mastering both sword and\nmagic is a fun and intuitive experience.\n<br/><br/>\nDo you have what it takes to stand\nagainst such evil? Then don’t\nprocrastinate and enter. The Keep\nawaits you ...",
-    "release_date_on_eshop": "2014-09-18",
-    "product_code": "CTR-N-JWPP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012DA00",
+  "uid": "50010000025695",
+  "name": "The Keep",
+  "formal_name": "The Keep",
+  "description": "Enter the Keep as an unsung hero on\na quest to destroy the nefarious\nwizard Watrys. Explore the\nsubterranean depths in this\nfirst-person dungeon crawler featuring\nreal-time combat, a unique rune magic\nsystem, exploration, and puzzle\nsolving. This game will awaken\nmemories of what made old-school\nRPG dungeons so much fun to play\nwhile you fight, hunt for hidden\ntreasures, and avoid deadly traps. Get\nto know your enemies, find their\nweaknesses, and crush them.\nExperiment with magic to discover\npowerful spells. Only the strongest\nwill survive.\n<br/><br/>\nTo defeat the seemingly undefeatable\nWatrys, you will need to level up your\ncharacter and find powerful armor and\nweapons. The game controls were\ndesigned with a Nintendo 3DS™ stylus\nin mind so mastering both sword and\nmagic is a fun and intuitive experience.\n<br/><br/>\nDo you have what it takes to stand\nagainst such evil? Then don’t\nprocrastinate and enter. The Keep\nawaits you ...",
+  "release_date_on_eshop": "2014-09-18",
+  "product_code": "CTR-N-JWPP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001E1D00",
-    "uid": "50010000049115",
-    "name": "Bricks Pinball VI",
-    "formal_name": "Bricks Pinball VI",
-    "description": "Bricks Pinball is a brick breaker game which combines the game mechanics of a traditional brick breaker and a flipper game.\n<br>\n<br>Play through 15 exciting levels as you aim for a high score.",
-    "release_date_on_eshop": "2021-03-11",
-    "product_code": "CTR-N-A5TE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001E1D00",
+  "uid": "50010000049115",
+  "name": "Bricks Pinball VI",
+  "formal_name": "Bricks Pinball VI",
+  "description": "Bricks Pinball is a brick breaker game which combines the game mechanics of a traditional brick breaker and a flipper game.\n<br>\n<br>Play through 15 exciting levels as you aim for a high score.",
+  "release_date_on_eshop": "2021-03-11",
+  "product_code": "CTR-N-A5TE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

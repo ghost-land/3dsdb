@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E00055D00",
-    "uid": "50010000017453",
-    "name": "Pokémon™ X: Update",
-    "formal_name": "Pokémon™ X: Update",
-    "description": "An update for Pokémon™ X is now\navailable from Nintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Pokémon X” should download the\nupdate.\n<br/><br/>\nThis will update the software to\nVersion 1.5 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\nPlease note that ”Pokémon™ Y”\ncannot be updated using this data and\nyou have to download the update\ndata for “Pokémon Y” separately.",
-    "release_date_on_eshop": "2013-10-25",
-    "product_code": "CTR-U-EKJA",
-    "platform_name": "Update Data",
-    "region": "Region Free",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v5.7.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00055D00",
+  "uid": "50010000017453",
+  "name": "Pokémon™ X: Update",
+  "formal_name": "Pokémon™ X: Update",
+  "description": "An update for Pokémon™ X is now\navailable from Nintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Pokémon X” should download the\nupdate.\n<br/><br/>\nThis will update the software to\nVersion 1.5 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\nPlease note that ”Pokémon™ Y”\ncannot be updated using this data and\nyou have to download the update\ndata for “Pokémon Y” separately.",
+  "release_date_on_eshop": "2013-10-25",
+  "product_code": "CTR-U-EKJA",
+  "platform_name": "Update Data",
+  "region": "Region Free",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v5.7.0",
+  "disclaimer": null,
+  "descriptors": []
 }

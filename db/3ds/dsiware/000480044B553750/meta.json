@@ -1,33 +1,33 @@
 {
-    "tid": "000480044B553750",
-    "uid": "50010000015113",
-    "name": "Fashion Tycoon",
-    "formal_name": "Fashion Tycoon",
-    "description": "Lilly was a dreamy girl, whose great\nambition was to go to the fashion city\nof Paris and become a successful\nfashion designer. One day the Fashion\nFairy appeared and granted Lilly the\npower to collect all the design\ninspirations of others to create\nfabulous fashion items, but on one\ncondition: that she make it to Paris\nwithin 45 days!",
-    "release_date_on_eshop": "2013-07-18",
-    "product_code": "TWL-N-KU7P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Action",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B553750",
+  "uid": "50010000015113",
+  "name": "Fashion Tycoon",
+  "formal_name": "Fashion Tycoon",
+  "description": "Lilly was a dreamy girl, whose great\nambition was to go to the fashion city\nof Paris and become a successful\nfashion designer. One day the Fashion\nFairy appeared and granted Lilly the\npower to collect all the design\ninspirations of others to create\nfabulous fashion items, but on one\ncondition: that she make it to Paris\nwithin 45 days!",
+  "release_date_on_eshop": "2013-07-18",
+  "product_code": "TWL-N-KU7P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Action",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

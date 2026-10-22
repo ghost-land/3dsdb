@@ -1,29 +1,29 @@
 {
-    "tid": "000400000014B300",
-    "uid": "50010000026895",
-    "name": "Aiレース:X",
-    "formal_name": "Aiレース:X",
-    "description": "『Aiレース:X』は、超ハイスピードの飛行機型マシン「ジェット」を操作してトンネル風のコースを突き抜けてタイムを競う「ハイスピードジェットレーシングゲーム」です。\n<br>\n<br>限界を超えたハイスピード!\n<br>奥から手前に迫ってくる、迫力の3D立体視映像!\n<br>オンラインランキング対応!\n<br>\n<br>そして前作『Aiレース:スピード』のスタイリッシュなイメージから一転、「異形」をモチーフにしたコースの中を突き抜ける!",
-    "release_date_on_eshop": "2014-10-29",
-    "product_code": "CTR-N-JYSJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014B300",
+  "uid": "50010000026895",
+  "name": "Aiレース:X",
+  "formal_name": "Aiレース:X",
+  "description": "『Aiレース:X』は、超ハイスピードの飛行機型マシン「ジェット」を操作してトンネル風のコースを突き抜けてタイムを競う「ハイスピードジェットレーシングゲーム」です。\n<br>\n<br>限界を超えたハイスピード!\n<br>奥から手前に迫ってくる、迫力の3D立体視映像!\n<br>オンラインランキング対応!\n<br>\n<br>そして前作『Aiレース:スピード』のスタイリッシュなイメージから一転、「異形」をモチーフにしたコースの中を突き抜ける!",
+  "release_date_on_eshop": "2014-10-29",
+  "product_code": "CTR-N-JYSJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

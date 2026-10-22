@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000078000",
-    "uid": "50010000008003",
-    "name": "ARC STYLE: シンプル麻雀3D",
-    "formal_name": "ARC STYLE: シンプル麻雀3D",
-    "description": "立体視対応のシンプルでお手軽に遊ぶことができる麻雀ゲームです。\n<br>\n<br>対戦相手として選択できるキャラクターは8人。\n<br>それぞれの個性にあった打ち方でプレイヤーと対局を行います。\n<br>\n<br>遊んだ対局の成績は「戦績」で確認することができ、自分のプレイスタイルを確認することができます。",
-    "release_date_on_eshop": "2011-11-30",
-    "product_code": "CTR-N-JSMJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル",
-        "その他"
-    ],
-    "features": [
-        "3D映像対応",
-        "Mii"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000078000",
+  "uid": "50010000008003",
+  "name": "ARC STYLE: シンプル麻雀3D",
+  "formal_name": "ARC STYLE: シンプル麻雀3D",
+  "description": "立体視対応のシンプルでお手軽に遊ぶことができる麻雀ゲームです。\n<br>\n<br>対戦相手として選択できるキャラクターは8人。\n<br>それぞれの個性にあった打ち方でプレイヤーと対局を行います。\n<br>\n<br>遊んだ対局の成績は「戦績」で確認することができ、自分のプレイスタイルを確認することができます。",
+  "release_date_on_eshop": "2011-11-30",
+  "product_code": "CTR-N-JSMJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル",
+    "その他"
+  ],
+  "features": [
+    "3D映像対応",
+    "Mii"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

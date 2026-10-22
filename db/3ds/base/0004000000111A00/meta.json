@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000111A00",
-    "uid": "50010000020453",
-    "name": "Kung Fu Rabbit",
-    "formal_name": "Kung Fu Rabbit",
-    "description": "Life in the temple of rabbits hangs by\na thread. Universal Evil has struck\nagain and kidnapped all of your\ndisciples. Only you managed to\nescape. They let you live... They'll\nsoon regret it!\n<br/><br/>\nUse your agility and combat skills to\nsave your disciples! Jump from roof to\nroof, slide gracefully along walls,\nsneak up on your enemies, and rip\nthem them to shreds!\n<br/><br/>\nDetailed graphics, humour, hours of\ngameplay and intuitive controls. Each\nof the 80 levels requires logic,\nprecision, agility and lots of sabre\nrattling. The game also has lots of\ntrophies to win, babies to save,\ncarrots to eat, and a Universal Evil to\nexpunge.\n<br/><br/>\n- 80 levels in normal and hard mode\n(dozen hours of play!)\n<br/><br/>\n- 15 unlockable items to customize\nyour rabbit.\n<br/><br/>\n- Text in English",
-    "release_date_on_eshop": "2014-02-20",
-    "product_code": "CTR-N-JKVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000111A00",
+  "uid": "50010000020453",
+  "name": "Kung Fu Rabbit",
+  "formal_name": "Kung Fu Rabbit",
+  "description": "Life in the temple of rabbits hangs by\na thread. Universal Evil has struck\nagain and kidnapped all of your\ndisciples. Only you managed to\nescape. They let you live... They'll\nsoon regret it!\n<br/><br/>\nUse your agility and combat skills to\nsave your disciples! Jump from roof to\nroof, slide gracefully along walls,\nsneak up on your enemies, and rip\nthem them to shreds!\n<br/><br/>\nDetailed graphics, humour, hours of\ngameplay and intuitive controls. Each\nof the 80 levels requires logic,\nprecision, agility and lots of sabre\nrattling. The game also has lots of\ntrophies to win, babies to save,\ncarrots to eat, and a Universal Evil to\nexpunge.\n<br/><br/>\n- 80 levels in normal and hard mode\n(dozen hours of play!)\n<br/><br/>\n- 15 unlockable items to customize\nyour rabbit.\n<br/><br/>\n- Text in English",
+  "release_date_on_eshop": "2014-02-20",
+  "product_code": "CTR-N-JKVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

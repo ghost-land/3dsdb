@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000110E00",
-    "uid": "50010000041804",
-    "name": "Butterfly\nInchworm Animation II",
-    "formal_name": "Butterfly\n<br>Inchworm Animation II",
-    "description": "After five years, Inchworm Animation has emerged from its cocoon!  Flat Black Films is proud to present BUTTERFLY: INCHWORM ANIMATION II.  A full-featured handheld animation studio designed exclusively for Nintendo 3DS.  Featuring: \n<br>- Revolutionary looping motion graphics engine with stable 30 frames-per-second playback.  Draw as it plays!\n<br>- Eight endlessly-configurable dynamic brush tools with custom presets\n<br>- Timeline with up to 5 layers and 2 soundtracks, for scripting events and sound effects\n<br>- Use stereoscopic 3D to arrange your layers in the third dimension. Give your movies true depth!\n<br>- Record and edit Audio, use the built-in sound -effect library or the groovy sound-effects generator!\n<br>- Shoot video, time-lapse, and stop-motion photography\n<br>- Onionskin (including video onionskin for stop-motion)\n<br>- Slick antialiased brushes with full 24-bit color and transparency\n<br>- Import from Nintendo Camera / Export to SD\n<br>- introducing the Butterfly Online Gallery! Share your movies with the world - upload/download animation, rate and comment on work. Host your own virtual art studio at www.butterflyanimation.com!\n<br>\n<br>Butterfly: Inchworm Animation II: Let your imagination take flight!",
-    "release_date_on_eshop": "2016-10-27",
-    "product_code": "CTR-N-JFYE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Video",
-        "Utility",
-        "Communication",
-        "Other"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Nintendo Network",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v3.5.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000110E00",
+  "uid": "50010000041804",
+  "name": "Butterfly\nInchworm Animation II",
+  "formal_name": "Butterfly\n<br>Inchworm Animation II",
+  "description": "After five years, Inchworm Animation has emerged from its cocoon!  Flat Black Films is proud to present BUTTERFLY: INCHWORM ANIMATION II.  A full-featured handheld animation studio designed exclusively for Nintendo 3DS.  Featuring: \n<br>- Revolutionary looping motion graphics engine with stable 30 frames-per-second playback.  Draw as it plays!\n<br>- Eight endlessly-configurable dynamic brush tools with custom presets\n<br>- Timeline with up to 5 layers and 2 soundtracks, for scripting events and sound effects\n<br>- Use stereoscopic 3D to arrange your layers in the third dimension. Give your movies true depth!\n<br>- Record and edit Audio, use the built-in sound -effect library or the groovy sound-effects generator!\n<br>- Shoot video, time-lapse, and stop-motion photography\n<br>- Onionskin (including video onionskin for stop-motion)\n<br>- Slick antialiased brushes with full 24-bit color and transparency\n<br>- Import from Nintendo Camera / Export to SD\n<br>- introducing the Butterfly Online Gallery! Share your movies with the world - upload/download animation, rate and comment on work. Host your own virtual art studio at www.butterflyanimation.com!\n<br>\n<br>Butterfly: Inchworm Animation II: Let your imagination take flight!",
+  "release_date_on_eshop": "2016-10-27",
+  "product_code": "CTR-N-JFYE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Video",
+    "Utility",
+    "Communication",
+    "Other"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v3.5.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000034900",
-    "uid": "50010000000123",
-    "name": "プロ野球スピリッツ2011",
-    "formal_name": "プロ野球スピリッツ2011",
-    "description": "プロ野球の興奮がいつでも、どこでも!\n<br>選手の存在感、スタジアムの臨場感が3Dでリアルに再現。アクション操作でも、采配を振るう監督スタイルでも試合をプレイでき、誰がやっても本格的なプロ野球が楽しめる。コーチ助言システムやオーダー自動編成機能でさらに快適プレイ!\n",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-APSJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "スポーツ"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000034900",
+  "uid": "50010000000123",
+  "name": "プロ野球スピリッツ2011",
+  "formal_name": "プロ野球スピリッツ2011",
+  "description": "プロ野球の興奮がいつでも、どこでも!\n<br>選手の存在感、スタジアムの臨場感が3Dでリアルに再現。アクション操作でも、采配を振るう監督スタイルでも試合をプレイでき、誰がやっても本格的なプロ野球が楽しめる。コーチ助言システムやオーダー自動編成機能でさらに快適プレイ!\n",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-APSJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "スポーツ"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

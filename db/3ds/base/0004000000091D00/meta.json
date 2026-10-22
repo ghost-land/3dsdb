@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000091D00",
-    "uid": "50010000011546",
-    "name": "Skylanders Giants™",
-    "formal_name": "Skylanders Giants™",
-    "description": "Frozen in our world. Alive in theirs.\n<br><br>\nThousands of years ago, the Skylanders Giants fought epic battles in Skylands, but were banished to Earth. With a new threat looming, it’s time to bring them back to join forces with the Skylanders. Only you can put them on the Portal of Power® to unleash their strength in the ultimate battle to save Skylands.\n<br><br>\n45+ Skylanders to Collect<br>\nThe Giant Skylanders are super size and have super powers<br>\nLightCore™ Skylanders Light up when placed on the Portal of Power<br>\nThe Series 2 have new wow pow upgrades<br>\nThe Skylanders have brains and remember their upgrades<br>\nMultiplayer – play with or challenge your friends in battle\n<br><br>\nFeatures<br>\nExperience a big new adventure<br>\nExplore new magical worlds<br>\nUnleash the power of the Giant Skylanders<br>\nPlay with or against your friends<br>\nBattle to save Skylands\n<br><br>\nBring the Skylanders to Life!™",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AG6E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Action",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Cartoon Violence"
-    ]
+  "tid": "0004000000091D00",
+  "uid": "50010000011546",
+  "name": "Skylanders Giants™",
+  "formal_name": "Skylanders Giants™",
+  "description": "Frozen in our world. Alive in theirs.\n<br><br>\nThousands of years ago, the Skylanders Giants fought epic battles in Skylands, but were banished to Earth. With a new threat looming, it’s time to bring them back to join forces with the Skylanders. Only you can put them on the Portal of Power® to unleash their strength in the ultimate battle to save Skylands.\n<br><br>\n45+ Skylanders to Collect<br>\nThe Giant Skylanders are super size and have super powers<br>\nLightCore™ Skylanders Light up when placed on the Portal of Power<br>\nThe Series 2 have new wow pow upgrades<br>\nThe Skylanders have brains and remember their upgrades<br>\nMultiplayer – play with or challenge your friends in battle\n<br><br>\nFeatures<br>\nExperience a big new adventure<br>\nExplore new magical worlds<br>\nUnleash the power of the Giant Skylanders<br>\nPlay with or against your friends<br>\nBattle to save Skylands\n<br><br>\nBring the Skylanders to Life!™",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AG6E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Action",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Cartoon Violence"
+  ]
 }

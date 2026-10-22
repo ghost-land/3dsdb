@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4E4245",
-    "uid": "50010000003262",
-    "name": "myNotebook: Blue™",
-    "formal_name": "myNotebook: Blue™",
-    "description": "myNotebook allows you to take notes wherever you are. Just pop open your Nintendo DSi system and jot down your thoughts! Make a list and cross it off, or even play your favorite pen and paper games (games not included). You can even personalize your notebook by drawing on the cover and changing the paper type with 18 different unlockable squared and lined paper styles. Use the pen or pencil to make your notes or doodles and then erase the bits you don't like. With five ink colors, you'll always be able to make your notes and doodles look stylish.",
-    "release_date_on_eshop": "2009-11-23",
-    "product_code": "TWL-N-KNBE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B4E4245",
+  "uid": "50010000003262",
+  "name": "myNotebook: Blue™",
+  "formal_name": "myNotebook: Blue™",
+  "description": "myNotebook allows you to take notes wherever you are. Just pop open your Nintendo DSi system and jot down your thoughts! Make a list and cross it off, or even play your favorite pen and paper games (games not included). You can even personalize your notebook by drawing on the cover and changing the paper type with 18 different unlockable squared and lined paper styles. Use the pen or pencil to make your notes or doodles and then erase the bits you don't like. With five ink colors, you'll always be able to make your notes and doodles look stylish.",
+  "release_date_on_eshop": "2009-11-23",
+  "product_code": "TWL-N-KNBE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

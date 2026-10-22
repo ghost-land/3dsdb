@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B57594A",
-    "uid": "50010000021955",
-    "name": "マイティー ミルキー ウェイ",
-    "formal_name": "マイティー ミルキー ウェイ",
-    "description": "ゲームクリエイター集団「WayForward」による頭脳派2Dパズルアクション。日本の「萌え」を吸収して生まれた魅力的なヒロイン「ルナ」のスペースアドベンチャー!\n<br>ルナの速度を調整してあげたり、衛星軌道に乗る･離脱するなど、慣性の法則を有効活用してルナと一緒にゴールを目指しましょう。",
-    "release_date_on_eshop": "2014-04-30",
-    "product_code": "TWL-N-KWYJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "パズル",
-        "アドベンチャー"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B57594A",
+  "uid": "50010000021955",
+  "name": "マイティー ミルキー ウェイ",
+  "formal_name": "マイティー ミルキー ウェイ",
+  "description": "ゲームクリエイター集団「WayForward」による頭脳派2Dパズルアクション。日本の「萌え」を吸収して生まれた魅力的なヒロイン「ルナ」のスペースアドベンチャー!\n<br>ルナの速度を調整してあげたり、衛星軌道に乗る･離脱するなど、慣性の法則を有効活用してルナと一緒にゴールを目指しましょう。",
+  "release_date_on_eshop": "2014-04-30",
+  "product_code": "TWL-N-KWYJ",
+  "platform_name": "ニンテンドーDSiウェア",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "パズル",
+    "アドベンチャー"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

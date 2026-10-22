@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B434D56",
-    "uid": "50010000002010",
-    "name": "Castle Of Magic",
-    "formal_name": "Castle Of Magic",
-    "description": "This magical platformer will keep you\njumping for hours between the two\nscreens of your Nintendo DSi! Stand\nup to the wildest monsters in\nenvironments that directly influence\nyour movement: Stick, slide, swim and\nmuch more! Use your Nintendo DSi\ncamera not only to customize game\nitems but also to transform into new\npowerful forms! Visit a Photo Cabin in\nthe game and take the picture of an\nobject in real life that matches the\ncolour of the character you want to\ntransform into. It’s magic!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KCMV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B434D56",
+  "uid": "50010000002010",
+  "name": "Castle Of Magic",
+  "formal_name": "Castle Of Magic",
+  "description": "This magical platformer will keep you\njumping for hours between the two\nscreens of your Nintendo DSi! Stand\nup to the wildest monsters in\nenvironments that directly influence\nyour movement: Stick, slide, swim and\nmuch more! Use your Nintendo DSi\ncamera not only to customize game\nitems but also to transform into new\npowerful forms! Visit a Photo Cabin in\nthe game and take the picture of an\nobject in real life that matches the\ncolour of the character you want to\ntransform into. It’s magic!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KCMV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

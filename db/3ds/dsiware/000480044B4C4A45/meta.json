@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4C4A45",
-    "uid": "50010000007229",
-    "name": "Let's Create! Pottery",
-    "formal_name": "Let's Create! Pottery",
-    "description": "Free your creativity! With Let's Create! Pottery making ceramics has never been more simple and fun! Become a true artist and create \"one of a kind\" pottery items and share them with your friends! Throw the clay on the wheel, release all your artistic talents, and take benefit of dozens of materials available in order to create your own design! Even when you glaze and fire your very first pot you will feel accomplished and relaxed as pottery is a way to help relieve your everyday stress and find your inner peace. An amazing, relaxing, and uplifting experience you can enjoy with your family and friends!",
-    "release_date_on_eshop": "2011-08-25",
-    "product_code": "TWL-N-KLJE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4A45",
+  "uid": "50010000007229",
+  "name": "Let's Create! Pottery",
+  "formal_name": "Let's Create! Pottery",
+  "description": "Free your creativity! With Let's Create! Pottery making ceramics has never been more simple and fun! Become a true artist and create \"one of a kind\" pottery items and share them with your friends! Throw the clay on the wheel, release all your artistic talents, and take benefit of dozens of materials available in order to create your own design! Even when you glaze and fire your very first pot you will feel accomplished and relaxed as pottery is a way to help relieve your everyday stress and find your inner peace. An amazing, relaxing, and uplifting experience you can enjoy with your family and friends!",
+  "release_date_on_eshop": "2011-08-25",
+  "product_code": "TWL-N-KLJE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

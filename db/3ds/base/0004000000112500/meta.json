@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000112500",
-    "uid": "50010000019013",
-    "name": "Bird Mania Christmas 3D",
-    "formal_name": "Bird Mania Christmas 3D",
-    "description": "Christmas time is almost here and the\nskies are crowded with Santa’s elves\ndelivering presents across the globe.\nMojo the bird is still mid-flight in his\npursuit of sunny Africa so with a little\nChristmas spirit and Santa's hat it’s\ntime to turn up the turbo and fly full\nblast to Africa!\n<br/><br/>\nGlide past snowcapped pine trees\ndashing into enemies for bonuses and\ncollecting clusters of stars and shiny\nChristmas baubles. Whisk your way\nthrough the icy worlds scattered with\ncandy canes and gingerbread and\nclimb to the top of the online\nleaderboards. Try not to spoil\nChristmas and avoid crashing into\nSanta’s elves in this cheery holiday\nedition of Bird Mania.\n<br/><br/>\n- Christmas-inspired winter theme\nwith new online leaderboards for\nfierce competition for the top spot\n<br/><br/>\n- Fly through the icy winter full of\ngingerbread cookies, candy canes and\npine trees galore\n<br/><br/>\n- Loads of Christmas baubles and\nstars to collect!\n<br/><br/>\n- Dash into enemy birds for bonuses\nbut avoid crashing into elves to keep\nChristmas alive!",
-    "release_date_on_eshop": "2013-12-26",
-    "product_code": "CTR-N-JXSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Platformer",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000112500",
+  "uid": "50010000019013",
+  "name": "Bird Mania Christmas 3D",
+  "formal_name": "Bird Mania Christmas 3D",
+  "description": "Christmas time is almost here and the\nskies are crowded with Santa’s elves\ndelivering presents across the globe.\nMojo the bird is still mid-flight in his\npursuit of sunny Africa so with a little\nChristmas spirit and Santa's hat it’s\ntime to turn up the turbo and fly full\nblast to Africa!\n<br/><br/>\nGlide past snowcapped pine trees\ndashing into enemies for bonuses and\ncollecting clusters of stars and shiny\nChristmas baubles. Whisk your way\nthrough the icy worlds scattered with\ncandy canes and gingerbread and\nclimb to the top of the online\nleaderboards. Try not to spoil\nChristmas and avoid crashing into\nSanta’s elves in this cheery holiday\nedition of Bird Mania.\n<br/><br/>\n- Christmas-inspired winter theme\nwith new online leaderboards for\nfierce competition for the top spot\n<br/><br/>\n- Fly through the icy winter full of\ngingerbread cookies, candy canes and\npine trees galore\n<br/><br/>\n- Loads of Christmas baubles and\nstars to collect!\n<br/><br/>\n- Dash into enemy birds for bonuses\nbut avoid crashing into elves to keep\nChristmas alive!",
+  "release_date_on_eshop": "2013-12-26",
+  "product_code": "CTR-N-JXSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Platformer",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

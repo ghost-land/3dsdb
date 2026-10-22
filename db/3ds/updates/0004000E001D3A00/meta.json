@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E001D3A00",
-    "uid": "50010000045935",
-    "name": "更新データ Ver.1.1\nBloodstained:CurseOfTheMoon",
-    "formal_name": "更新データ Ver.1.1\nBloodstained: Curse of the Moon",
-    "description": "ニンテンドー3DSソフト『Bloodstained: Curse of the Moon』の調整、及び、不具合修正するための更新データです。\nVer.1.1では、次の様な変更がされています。\n■Ver.1.1\n・ベテランモードのLIFEの最大値を９から９９に変更\n・動作の安定性の改善\n・コウモリ状態のジーベルの攻撃でステージ８のボスを倒すと進行不能になる不具合の修正\n・ステージ１等に出現する砲台のような敵を倒した時に停止することがある不具合の修正\n・誤字脱字の修正\n・その他各種不具合の修正",
-    "release_date_on_eshop": "2018-05-30",
-    "product_code": "CTR-U-BLMJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": "ニンテンドー3DSソフト『Bloodstained: Curse of the Moon』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E001D3A00",
+  "uid": "50010000045935",
+  "name": "更新データ Ver.1.1\nBloodstained:CurseOfTheMoon",
+  "formal_name": "更新データ Ver.1.1\nBloodstained: Curse of the Moon",
+  "description": "ニンテンドー3DSソフト『Bloodstained: Curse of the Moon』の調整、及び、不具合修正するための更新データです。\nVer.1.1では、次の様な変更がされています。\n■Ver.1.1\n・ベテランモードのLIFEの最大値を９から９９に変更\n・動作の安定性の改善\n・コウモリ状態のジーベルの攻撃でステージ８のボスを倒すと進行不能になる不具合の修正\n・ステージ１等に出現する砲台のような敵を倒した時に停止することがある不具合の修正\n・誤字脱字の修正\n・その他各種不具合の修正",
+  "release_date_on_eshop": "2018-05-30",
+  "product_code": "CTR-U-BLMJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": "ニンテンドー3DSソフト『Bloodstained: Curse of the Moon』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

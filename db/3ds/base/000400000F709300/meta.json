@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F709300",
-    "uid": "50010000041939",
-    "name": "GALAXY BLASTER",
-    "formal_name": "GALAXY BLASTER",
-    "description": "In GALAXY BLASTER, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
-    "release_date_on_eshop": "2016-12-08",
-    "product_code": "KTR-N-CBGP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Shooter",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F709300",
+  "uid": "50010000041939",
+  "name": "GALAXY BLASTER",
+  "formal_name": "GALAXY BLASTER",
+  "description": "In GALAXY BLASTER, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
+  "release_date_on_eshop": "2016-12-08",
+  "product_code": "KTR-N-CBGP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Shooter",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

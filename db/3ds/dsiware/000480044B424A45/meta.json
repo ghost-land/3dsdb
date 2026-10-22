@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B424A45",
-    "uid": "50010000000596",
-    "name": "21: Blackjack",
-    "formal_name": "21: Blackjack",
-    "description": "Now you can take the thrill of the casino on-the-go with 21: Blackjack. Whether you’re a seasoned player or a rookie at the table, 21: Blackjack has a variety of gameplay options to take your skills to the next level. You can change the payouts, number of decks in play, splitting options and even if the dealer hits on a soft 17, but these are just a few of the many advanced gameplay options. If you want to know how well you’ve been playing or how many Blackjack’s have taken you to a winning hand, then check out a full range of player stats available for viewing at any time. Now’s your chance to Hit, Stand or Double Down with 21: Blackjack.",
-    "release_date_on_eshop": "2010-11-15",
-    "product_code": "TWL-N-KBJE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Sports",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B424A45",
+  "uid": "50010000000596",
+  "name": "21: Blackjack",
+  "formal_name": "21: Blackjack",
+  "description": "Now you can take the thrill of the casino on-the-go with 21: Blackjack. Whether you’re a seasoned player or a rookie at the table, 21: Blackjack has a variety of gameplay options to take your skills to the next level. You can change the payouts, number of decks in play, splitting options and even if the dealer hits on a soft 17, but these are just a few of the many advanced gameplay options. If you want to know how well you’ve been playing or how many Blackjack’s have taken you to a winning hand, then check out a full range of player stats available for viewing at any time. Now’s your chance to Hit, Stand or Double Down with 21: Blackjack.",
+  "release_date_on_eshop": "2010-11-15",
+  "product_code": "TWL-N-KBJE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Sports",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

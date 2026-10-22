@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B504856",
-    "uid": "50010000006001",
-    "name": "PREHISTORIK MAN",
-    "formal_name": "PREHISTORIK MAN",
-    "description": "A fast-paced action platformer,\npacked full of special missions.\nHundreds of secret areas hidden\nthroughout 22 breathtaking levels. A\nlarge arsenal of weapons. Various\ndifferent vehicles to use including\nhang-gliders, pogo-sticks, rafts and\nstone wheels. Huge, stunning end of\nlevel bosses to battle, including the\nterrible guardian of the graveyard.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KPHV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504856",
+  "uid": "50010000006001",
+  "name": "PREHISTORIK MAN",
+  "formal_name": "PREHISTORIK MAN",
+  "description": "A fast-paced action platformer,\npacked full of special missions.\nHundreds of secret areas hidden\nthroughout 22 breathtaking levels. A\nlarge arsenal of weapons. Various\ndifferent vehicles to use including\nhang-gliders, pogo-sticks, rafts and\nstone wheels. Huge, stunning end of\nlevel bosses to battle, including the\nterrible guardian of the graveyard.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KPHV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

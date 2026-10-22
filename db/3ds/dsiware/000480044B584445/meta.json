@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B584445",
-    "uid": "50010000012626",
-    "name": "Crystal Adventure",
-    "formal_name": "Crystal Adventure",
-    "description": "In the outskirts of the kingdom, there are rare crystals containing a secret magical energy inside them.\n\nRumor has it a sorcerer is collecting the crystals in a tower for some reason, but no one knows where or if the tower actually exists.\n\nAs the most famous bounty hunter in the kingdom, you are hired to seek out and investigate the tower’s location. At last you find the tower, but it has already been overrun by a large group of monsters, performing a dark ritual to summon a highly dangerous demon.\n\nAlthough the demon has been summoned, you must stop the continuing ritual and kill the demon before it gains full power or everything will be destroyed.\n\nGame features:\n-Multiple ways to clear your path,in order to reach the depths of the monster’s lair \n-Frequent decisions available during battle\n-Power up your hero with various resources",
-    "release_date_on_eshop": "2012-12-06",
-    "product_code": "TWL-N-KXDE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584445",
+  "uid": "50010000012626",
+  "name": "Crystal Adventure",
+  "formal_name": "Crystal Adventure",
+  "description": "In the outskirts of the kingdom, there are rare crystals containing a secret magical energy inside them.\n\nRumor has it a sorcerer is collecting the crystals in a tower for some reason, but no one knows where or if the tower actually exists.\n\nAs the most famous bounty hunter in the kingdom, you are hired to seek out and investigate the tower’s location. At last you find the tower, but it has already been overrun by a large group of monsters, performing a dark ritual to summon a highly dangerous demon.\n\nAlthough the demon has been summoned, you must stop the continuing ritual and kill the demon before it gains full power or everything will be destroyed.\n\nGame features:\n-Multiple ways to clear your path,in order to reach the depths of the monster’s lair \n-Frequent decisions available during battle\n-Power up your hero with various resources",
+  "release_date_on_eshop": "2012-12-06",
+  "product_code": "TWL-N-KXDE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

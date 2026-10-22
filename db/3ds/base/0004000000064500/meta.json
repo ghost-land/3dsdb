@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000064500",
-    "uid": "50010000008033",
-    "name": "タンタンの冒険\n★ユニコーン号の秘密★",
-    "formal_name": "タンタンの冒険\n★ユニコーン号の秘密★",
-    "description": "「タンタンの冒険 ★ユニコーン号の秘密★」は、ベルギーの人気コミック「タンタンの冒険」をスピルバーグ監督が構想30年という期間を経て映画化した話題作。そして、この監督初の3D映画をアクションゲームとして完全ゲーム化したのが本作!3D映画の迫力をそのままニンテンドー3DSで手軽に味わえます。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ATNJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000064500",
+  "uid": "50010000008033",
+  "name": "タンタンの冒険\n★ユニコーン号の秘密★",
+  "formal_name": "タンタンの冒険\n★ユニコーン号の秘密★",
+  "description": "「タンタンの冒険 ★ユニコーン号の秘密★」は、ベルギーの人気コミック「タンタンの冒険」をスピルバーグ監督が構想30年という期間を経て映画化した話題作。そして、この監督初の3D映画をアクションゲームとして完全ゲーム化したのが本作!3D映画の迫力をそのままニンテンドー3DSで手軽に味わえます。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ATNJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

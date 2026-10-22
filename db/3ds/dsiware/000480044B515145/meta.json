@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B515145",
-    "uid": "50010000007498",
-    "name": "Crystal Caverns of Amon-Ra",
-    "formal_name": "Crystal Caverns of Amon-Ra",
-    "description": "Unlock the riches of the legendary Crystal Caverns of Amon-Ra by capturing the crystal spheres before they reach the Pit of Fire! Blast through over 1,000 action-packed levels in 10 dazzling worlds filled with twists and turns, winding caverns, and crystal sphere teleports. Catch magic hieroglyphs sent by Amon-Ra to help you in your quest, including Laser, Bomb, Paint, Reverse and more. Test your strategy and skills with three game modes and tons of explosive action!\n\nCrystal Caverns features classic gameplay enhanced by easy-to-use controls and lots of surprises. With 3 different game modes, 10 amazing worlds to discover and 14 special power-ups, it's the perfect combination of action and puzzle fun!",
-    "release_date_on_eshop": "2011-09-29",
-    "product_code": "TWL-N-KQQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B515145",
+  "uid": "50010000007498",
+  "name": "Crystal Caverns of Amon-Ra",
+  "formal_name": "Crystal Caverns of Amon-Ra",
+  "description": "Unlock the riches of the legendary Crystal Caverns of Amon-Ra by capturing the crystal spheres before they reach the Pit of Fire! Blast through over 1,000 action-packed levels in 10 dazzling worlds filled with twists and turns, winding caverns, and crystal sphere teleports. Catch magic hieroglyphs sent by Amon-Ra to help you in your quest, including Laser, Bomb, Paint, Reverse and more. Test your strategy and skills with three game modes and tons of explosive action!\n\nCrystal Caverns features classic gameplay enhanced by easy-to-use controls and lots of surprises. With 3 different game modes, 10 amazing worlds to discover and 14 special power-ups, it's the perfect combination of action and puzzle fun!",
+  "release_date_on_eshop": "2011-09-29",
+  "product_code": "TWL-N-KQQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

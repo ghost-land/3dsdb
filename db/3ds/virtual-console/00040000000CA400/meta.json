@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000CA400",
-    "uid": "50010000021193",
-    "name": "Devil World",
-    "formal_name": "Devil World",
-    "description": "In this hidden gem of an action game\nfrom Mario creator Shigeru Miyamoto,\nyou play heroic dragon Tamagon, who\nmust defeat evil by collecting boa-boa\ndots inside a maze and destroying\nenemies with his fire breath.\n<br/><br/>\nHowever, keep an eye on the devil at\nthe top of the screen, who instructs\nhis minions to move the maze in\nrandom directions, trying to squash\nTamagon within its walls!",
-    "release_date_on_eshop": "2014-03-20",
-    "product_code": "CTR-N-TCHP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CA400",
+  "uid": "50010000021193",
+  "name": "Devil World",
+  "formal_name": "Devil World",
+  "description": "In this hidden gem of an action game\nfrom Mario creator Shigeru Miyamoto,\nyou play heroic dragon Tamagon, who\nmust defeat evil by collecting boa-boa\ndots inside a maze and destroying\nenemies with his fire breath.\n<br/><br/>\nHowever, keep an eye on the devil at\nthe top of the screen, who instructs\nhis minions to move the maze in\nrandom directions, trying to squash\nTamagon within its walls!",
+  "release_date_on_eshop": "2014-03-20",
+  "product_code": "CTR-N-TCHP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000114500",
-    "uid": "50010000020297",
-    "name": "@SIMPLE DLシリーズ Vol.24\nTHE 密室からの脱出 温泉編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.24\nTHE 密室からの脱出\n～癒されない温泉編～",
-    "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。\n<br>ゲームの舞台は、やすらぎを求めて人が集う日帰り温泉施設。\n<br>温泉施設でおなじみのボディシャワーや自販機に仕掛けられた謎を解き、閉じ込められた場所からの脱出を楽しむことができます。",
-    "release_date_on_eshop": "2014-02-26",
-    "product_code": "CTR-N-JEHJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000114500",
+  "uid": "50010000020297",
+  "name": "@SIMPLE DLシリーズ Vol.24\nTHE 密室からの脱出 温泉編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.24\nTHE 密室からの脱出\n～癒されない温泉編～",
+  "description": "さまざまな場所に閉じ込められ、謎を解きながら脱出を試みるアドベンチャーゲーム。\n<br>ゲームの舞台は、やすらぎを求めて人が集う日帰り温泉施設。\n<br>温泉施設でおなじみのボディシャワーや自販機に仕掛けられた謎を解き、閉じ込められた場所からの脱出を楽しむことができます。",
+  "release_date_on_eshop": "2014-02-26",
+  "product_code": "CTR-N-JEHJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

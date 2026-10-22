@@ -1,25 +1,25 @@
 {
-    "tid": "000400000006EE00",
-    "uid": "50010000007270",
-    "name": "Metroid™",
-    "formal_name": "Metroid™",
-    "description": "Original Release Date: August 1986\n<br><br>\nThe first installment of the immensely successful Metroid series introduces us to the hideous title creatures and the slick, cybernetic bounty hunter Samus Aran. As Samus™, your mission is to penetrate the space pirates' home planet, Zebes, and keep them from destroying the galaxy with the dangerous life forms known as Metroids. Metroid has all the high-tech weaponry, creepy tunnels and crawly alien creatures that anyone could ask for. With its deep and complex game play, excellent music and a rare sense of setting, it establishes a frightening ambience that will haunt and entertain you for a very long time.",
-    "release_date_on_eshop": "2012-03-01",
-    "product_code": "CTR-N-TADE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000006EE00",
+  "uid": "50010000007270",
+  "name": "Metroid™",
+  "formal_name": "Metroid™",
+  "description": "Original Release Date: August 1986\n<br><br>\nThe first installment of the immensely successful Metroid series introduces us to the hideous title creatures and the slick, cybernetic bounty hunter Samus Aran. As Samus™, your mission is to penetrate the space pirates' home planet, Zebes, and keep them from destroying the galaxy with the dangerous life forms known as Metroids. Metroid has all the high-tech weaponry, creepy tunnels and crawly alien creatures that anyone could ask for. With its deep and complex game play, excellent music and a rare sense of setting, it establishes a frightening ambience that will haunt and entertain you for a very long time.",
+  "release_date_on_eshop": "2012-03-01",
+  "product_code": "CTR-N-TADE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001B7200",
-    "uid": "50010000042484",
-    "name": "Frontier Days\nFounding Pioneers",
-    "formal_name": "Frontier Days\n<br>Founding Pioneers",
-    "description": "Frontier Days Founding Pioneers is a simulation game that builds new cities onto undeveloped land.\n<br>By chopping wood and mining stones, construct buildings with gathered resources to develop your city to become large and rich.\n<br>The pioneers can gather the resources such as logs and raw meats by chopping and hunting.\n<br>Use gathered resources to construct buildings.\n<br>Process the resources by building actions to obtain new resources.\n<br>Various buildings can be constructed by new resources.\n<br>When the end of a year comes, the harvest festival requires money and food for the buildings and pioneers, so take the balance of the cost of the resources into consideration!",
-    "release_date_on_eshop": "2017-03-09",
-    "product_code": "CTR-N-KDJE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B7200",
+  "uid": "50010000042484",
+  "name": "Frontier Days\nFounding Pioneers",
+  "formal_name": "Frontier Days\n<br>Founding Pioneers",
+  "description": "Frontier Days Founding Pioneers is a simulation game that builds new cities onto undeveloped land.\n<br>By chopping wood and mining stones, construct buildings with gathered resources to develop your city to become large and rich.\n<br>The pioneers can gather the resources such as logs and raw meats by chopping and hunting.\n<br>Use gathered resources to construct buildings.\n<br>Process the resources by building actions to obtain new resources.\n<br>Various buildings can be constructed by new resources.\n<br>When the end of a year comes, the harvest festival requires money and food for the buildings and pioneers, so take the balance of the cost of the resources into consideration!",
+  "release_date_on_eshop": "2017-03-09",
+  "product_code": "CTR-N-KDJE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

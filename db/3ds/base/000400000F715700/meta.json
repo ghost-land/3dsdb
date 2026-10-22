@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F715700",
-    "uid": "50010000049515",
-    "name": "Gal Galaxy Pain",
-    "formal_name": "Gal Galaxy Pain",
-    "description": "Hospital recovery ends. She has had enough! Humanity is done!",
-    "release_date_on_eshop": "2022-04-14",
-    "product_code": "KTR-N-CC6P",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F715700",
+  "uid": "50010000049515",
+  "name": "Gal Galaxy Pain",
+  "formal_name": "Gal Galaxy Pain",
+  "description": "Hospital recovery ends. She has had enough! Humanity is done!",
+  "release_date_on_eshop": "2022-04-14",
+  "product_code": "KTR-N-CC6P",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

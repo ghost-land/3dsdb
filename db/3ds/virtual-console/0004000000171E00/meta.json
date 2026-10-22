@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000171E00",
-    "uid": "50010000038522",
-    "name": "Pokémon™ Versione Gialla",
-    "formal_name": "Pokémon™ Versione Gialla",
-    "description": "You've got to be the very best, like\nno one ever was - and the only way\nto do that is by catching all the\nPokémon you can!\n<br/><br/>\nYour quest to catch 'em all and\ncomplete your Pokédex will take you\nall over the world, and maybe one\nday you'll even be able to defeat all\nthe Gym Leaders and collect their\nbadges!",
-    "release_date_on_eshop": "2016-02-27",
-    "product_code": "CTR-P-QBKA",
-    "platform_name": "Game Boy Color",
-    "region": "Region Free",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000171E00",
+  "uid": "50010000038522",
+  "name": "Pokémon™ Versione Gialla",
+  "formal_name": "Pokémon™ Versione Gialla",
+  "description": "You've got to be the very best, like\nno one ever was - and the only way\nto do that is by catching all the\nPokémon you can!\n<br/><br/>\nYour quest to catch 'em all and\ncomplete your Pokédex will take you\nall over the world, and maybe one\nday you'll even be able to defeat all\nthe Gym Leaders and collect their\nbadges!",
+  "release_date_on_eshop": "2016-02-27",
+  "product_code": "CTR-P-QBKA",
+  "platform_name": "Game Boy Color",
+  "region": "Region Free",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

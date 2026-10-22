@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000B1300",
-    "uid": "50010000011889",
-    "name": "Professeur Layton\net le masque des miracles",
-    "formal_name": "Professeur Layton\net le masque des miracles",
-    "description": "Voici le cinquième volet de la célèbre\nsérie proposant cette fois 150\nnouvelles énigmes et mini-jeux\nexclusifs à découvrir dans la valise du\nprofesseur. Le jeu Professeur Layton\net le masque des miracles propose\naussi 365 casse-tête quotidiens.\nDistribués via le Nintendo Network,\nces « énigmes du jour » viendront\nenrichir votre année dès la sortie\nofficielle du jeu.",
-    "release_date_on_eshop": "2012-10-26",
-    "product_code": "CTR-N-AKKF",
-    "platform_name": "Nintendo 3DS (carte/téléch.)",
-    "region": "France",
-    "genres": [
-        "Réflexion",
-        "Aventure"
-    ],
-    "features": [
-        "Affichage 3D",
-        "SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "Français"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B1300",
+  "uid": "50010000011889",
+  "name": "Professeur Layton\net le masque des miracles",
+  "formal_name": "Professeur Layton\net le masque des miracles",
+  "description": "Voici le cinquième volet de la célèbre\nsérie proposant cette fois 150\nnouvelles énigmes et mini-jeux\nexclusifs à découvrir dans la valise du\nprofesseur. Le jeu Professeur Layton\net le masque des miracles propose\naussi 365 casse-tête quotidiens.\nDistribués via le Nintendo Network,\nces « énigmes du jour » viendront\nenrichir votre année dès la sortie\nofficielle du jeu.",
+  "release_date_on_eshop": "2012-10-26",
+  "product_code": "CTR-N-AKKF",
+  "platform_name": "Nintendo 3DS (carte/téléch.)",
+  "region": "France",
+  "genres": [
+    "Réflexion",
+    "Aventure"
+  ],
+  "features": [
+    "Affichage 3D",
+    "SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

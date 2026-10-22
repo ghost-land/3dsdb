@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B393545",
-    "uid": "50010000007932",
-    "name": "1950s Lawn Mower Kids™",
-    "formal_name": "1950s Lawn Mower Kids™",
-    "description": "Your mission is to mow lawns while avoiding dogs, ducks, cats, and people like grumpy old Joe in a beautiful suburban 1950s American setting. Control time and speed with Mr. Mowman's mysterious contraptions. Lead the kids Tom, Nancy, and Tim out of danger. Avoid mowing down intricate flowerbeds, crashing into well laid tables and angry\nanimals. The key to success is keeping\nall three kids moving and to use the abilities of each kid to your advantage.\nRemember, ill tempered old Joe will keep an eye out for sloppy children that mow down his flowers!",
-    "release_date_on_eshop": "2011-11-03",
-    "product_code": "TWL-N-K95E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B393545",
+  "uid": "50010000007932",
+  "name": "1950s Lawn Mower Kids™",
+  "formal_name": "1950s Lawn Mower Kids™",
+  "description": "Your mission is to mow lawns while avoiding dogs, ducks, cats, and people like grumpy old Joe in a beautiful suburban 1950s American setting. Control time and speed with Mr. Mowman's mysterious contraptions. Lead the kids Tom, Nancy, and Tim out of danger. Avoid mowing down intricate flowerbeds, crashing into well laid tables and angry\nanimals. The key to success is keeping\nall three kids moving and to use the abilities of each kid to your advantage.\nRemember, ill tempered old Joe will keep an eye out for sloppy children that mow down his flowers!",
+  "release_date_on_eshop": "2011-11-03",
+  "product_code": "TWL-N-K95E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000EAF00",
-    "uid": "50010000014312",
-    "name": "THE \"DENPA\" MEN 2:\nBeyond the Waves",
-    "formal_name": "THE \"DENPA\" MEN 2:\nBeyond the Waves",
-    "description": "The Denpa Men are mysterious little\ncreatures that float around radio\nwaves. They all have their own\nterritories. You can't see them with\nthe naked eye, but you can use your\nNintendo 3DS™ to find them and\ncatch them.\n<br/><br/>\nIn this RPG, you can form a team of\nthe Denpa Men you caught and take\nthem on an exciting adventure across\nthe world, in order to save the hero's\nfamily.\n<br/><br/>\nIf you played the previous game,\nyou'll be able to transfer your hero\nand to bring all of your friends from\nthe previous game into this one!",
-    "release_date_on_eshop": "2013-05-30",
-    "product_code": "CTR-N-JD2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EAF00",
+  "uid": "50010000014312",
+  "name": "THE \"DENPA\" MEN 2:\nBeyond the Waves",
+  "formal_name": "THE \"DENPA\" MEN 2:\nBeyond the Waves",
+  "description": "The Denpa Men are mysterious little\ncreatures that float around radio\nwaves. They all have their own\nterritories. You can't see them with\nthe naked eye, but you can use your\nNintendo 3DS™ to find them and\ncatch them.\n<br/><br/>\nIn this RPG, you can form a team of\nthe Denpa Men you caught and take\nthem on an exciting adventure across\nthe world, in order to save the hero's\nfamily.\n<br/><br/>\nIf you played the previous game,\nyou'll be able to transfer your hero\nand to bring all of your friends from\nthe previous game into this one!",
+  "release_date_on_eshop": "2013-05-30",
+  "product_code": "CTR-N-JD2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

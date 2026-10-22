@@ -1,37 +1,37 @@
 {
-    "tid": "000400000018A500",
-    "uid": "50010000041437",
-    "name": "Rhythm Paradise™ Megamix",
-    "formal_name": "Rhythm Paradise™ Megamix",
-    "description": "Find your flow and take on the greatest hits from Rhythm Paradise!\n<br>\n<br>Test your rhythm by chopping wood, sticking speeding viruses with forks and playing badminton while flying an airplane, all in time to catchy tunes in this deceptively challenging rhythm game. The accessible controls and catchy music, combined with the new visual feedback system, make this a great entry in the Rhythm Paradise series. Can you match the beat and reach Rhythm Paradise?\n<br>\n<br>- A combo of new rhythm games, fan-favourites and European debuts make this the ultimate Rhythm Paradise game\n<br>\n<br>- Rhythm Paradise Megamix includes more than 70 rhythm games, the most in the series\n<br>\n<br>- Soundtrack created with help from legendary Japanese music producer, Tsunku♂\n<br>\n<br>- Encounter others with the StreetPass feature for a chance to match their punching robot's skills in a 1-on-1 battle\n<br>\n<br>- Play with up to four players simultaneously and take on special multiplayer rhythm games to earn Flow Balls\n<br>\n<br>This software supports up to 4 players for both Local Play and Download Play.",
-    "release_date_on_eshop": "2016-10-21",
-    "product_code": "CTR-P-BPJP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Music"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018A500",
+  "uid": "50010000041437",
+  "name": "Rhythm Paradise™ Megamix",
+  "formal_name": "Rhythm Paradise™ Megamix",
+  "description": "Find your flow and take on the greatest hits from Rhythm Paradise!\n<br>\n<br>Test your rhythm by chopping wood, sticking speeding viruses with forks and playing badminton while flying an airplane, all in time to catchy tunes in this deceptively challenging rhythm game. The accessible controls and catchy music, combined with the new visual feedback system, make this a great entry in the Rhythm Paradise series. Can you match the beat and reach Rhythm Paradise?\n<br>\n<br>- A combo of new rhythm games, fan-favourites and European debuts make this the ultimate Rhythm Paradise game\n<br>\n<br>- Rhythm Paradise Megamix includes more than 70 rhythm games, the most in the series\n<br>\n<br>- Soundtrack created with help from legendary Japanese music producer, Tsunku♂\n<br>\n<br>- Encounter others with the StreetPass feature for a chance to match their punching robot's skills in a 1-on-1 battle\n<br>\n<br>- Play with up to four players simultaneously and take on special multiplayer rhythm games to earn Flow Balls\n<br>\n<br>This software supports up to 4 players for both Local Play and Download Play.",
+  "release_date_on_eshop": "2016-10-21",
+  "product_code": "CTR-P-BPJP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Music"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001AFC00",
-    "uid": "50010000042717",
-    "name": "Drancia Saga",
-    "formal_name": "Drancia Saga",
-    "description": "Drancia Saga is a simple and exhilarating arcade like action game. \n<br>Chain attacks to get the coins! Upgrade the powers through the skill tree!\n<br>Defeat the massive monsters with good pace to solve the mystery of Drancia!\n<br>The playable characters are over 50!\n<br>Furthermore, there's a collaboration with the titles such as \"The Legend of Dark Witch\" and \"Gunman Clive\"!\n<br>The games can unlock the characters listed below.\n<br>Urban Trial Freestyle\n<br>Gunman Clive\n<br>Gunman Clive 2\n<br>2 Fast 4 Gnomz\n<br>Petit Novel series - Harvest December\n<br>Witch & Hero\n<br>Witch & Hero 2\n<br>Brunch Panic\n<br>Fairune\n<br>Fairune2\n<br>The Legend of Dark Witch\n<br>The Legend of Dark Witch 2",
-    "release_date_on_eshop": "2017-05-18",
-    "product_code": "CTR-N-KD7E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001AFC00",
+  "uid": "50010000042717",
+  "name": "Drancia Saga",
+  "formal_name": "Drancia Saga",
+  "description": "Drancia Saga is a simple and exhilarating arcade like action game. \n<br>Chain attacks to get the coins! Upgrade the powers through the skill tree!\n<br>Defeat the massive monsters with good pace to solve the mystery of Drancia!\n<br>The playable characters are over 50!\n<br>Furthermore, there's a collaboration with the titles such as \"The Legend of Dark Witch\" and \"Gunman Clive\"!\n<br>The games can unlock the characters listed below.\n<br>Urban Trial Freestyle\n<br>Gunman Clive\n<br>Gunman Clive 2\n<br>2 Fast 4 Gnomz\n<br>Petit Novel series - Harvest December\n<br>Witch & Hero\n<br>Witch & Hero 2\n<br>Brunch Panic\n<br>Fairune\n<br>Fairune2\n<br>The Legend of Dark Witch\n<br>The Legend of Dark Witch 2",
+  "release_date_on_eshop": "2017-05-18",
+  "product_code": "CTR-N-KD7E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

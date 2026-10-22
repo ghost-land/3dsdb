@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B474E56",
-    "uid": "50010000004021",
-    "name": "Gangstar 2\nKings of L.A.",
-    "formal_name": "Gangstar 2\nKings of L.A.",
-    "description": "Move to the West Coast and immerse\nyourself in L.A. gang life with\nGangstar 2: Kings of L.A. Complete\n75 missions that combine the best of\naction and driving games.<br>\n<br>\n- Explore L.A.'s famous\nneighbourhoods, like Hollywood,\nBeverly Hills, downtown and the\nharbour<br>\n<br>\n- A unique feeling of freedom: drive\nanywhere in open environments and\nfeel free to complete missions at your\nown pace<br>\n<br>\n- Thrilling storyline with unexpected\ndevelopments. Will you live the\ngolden life or become just another\nthug?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KGNV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Racing",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B474E56",
+  "uid": "50010000004021",
+  "name": "Gangstar 2\nKings of L.A.",
+  "formal_name": "Gangstar 2\nKings of L.A.",
+  "description": "Move to the West Coast and immerse\nyourself in L.A. gang life with\nGangstar 2: Kings of L.A. Complete\n75 missions that combine the best of\naction and driving games.<br>\n<br>\n- Explore L.A.'s famous\nneighbourhoods, like Hollywood,\nBeverly Hills, downtown and the\nharbour<br>\n<br>\n- A unique feeling of freedom: drive\nanywhere in open environments and\nfeel free to complete missions at your\nown pace<br>\n<br>\n- Thrilling storyline with unexpected\ndevelopments. Will you live the\ngolden life or become just another\nthug?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KGNV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Racing",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

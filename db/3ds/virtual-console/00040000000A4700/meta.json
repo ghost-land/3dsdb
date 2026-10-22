@@ -1,25 +1,25 @@
 {
-    "tid": "00040000000A4700",
-    "uid": "50010000013632",
-    "name": "Donkey Kong™",
-    "formal_name": "Donkey Kong™",
-    "description": "Donkey Kong not only launched the\ncareer of Mario, when he was known\nsimply as Jumpman, but also of the\neponymous ape who went on to\nbecome a hero himself. It also laid the\nfoundation for the ‘platform’ genre –\nstill going strong to this day.\n<br/><br/>\nThis NES™ version of the arcade\nclassic was a launch title for the\nconsole and is one of the most faithful\nadaptations of the original.\n<br/><br/>\nRescue the kidnapped Pauline from\nDK’s clutches, negotiating\nincreasingly tricky obstacles and\nknock that pesky primate off his\nperch!",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-N-TBJP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A4700",
+  "uid": "50010000013632",
+  "name": "Donkey Kong™",
+  "formal_name": "Donkey Kong™",
+  "description": "Donkey Kong not only launched the\ncareer of Mario, when he was known\nsimply as Jumpman, but also of the\neponymous ape who went on to\nbecome a hero himself. It also laid the\nfoundation for the ‘platform’ genre –\nstill going strong to this day.\n<br/><br/>\nThis NES™ version of the arcade\nclassic was a launch title for the\nconsole and is one of the most faithful\nadaptations of the original.\n<br/><br/>\nRescue the kidnapped Pauline from\nDK’s clutches, negotiating\nincreasingly tricky obstacles and\nknock that pesky primate off his\nperch!",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-N-TBJP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

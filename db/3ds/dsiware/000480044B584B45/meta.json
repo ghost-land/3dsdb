@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B584B45",
-    "uid": "50010000013531",
-    "name": "Goony",
-    "formal_name": "Goony",
-    "description": "Goony is a one-button arcade game for casual and core gamers. You control Goony, a jelly-like creature, who is running down a road with hazardous obstacles. The goal of the game is to stay alive for as long as possible. Goony is constantly on the move. He goes either left or right.\n<br><br>\nSpecial blocks, which can help you, are scattered across the playfield. The playfield is infinitely long and lasts until you make a mistake. The number of steps you took is your final score.\n<br><br>\nFeatures:<br>\nRandom generated, infinitely long playfield<br>\nDraw your own blocks using the built-in Block editor<br>\nExchange user generated blocks locally or online via QR Codes<br>\nRace against a buddy on the same system in multiplayer mode",
-    "release_date_on_eshop": "2013-03-14",
-    "product_code": "TWL-N-KXKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584B45",
+  "uid": "50010000013531",
+  "name": "Goony",
+  "formal_name": "Goony",
+  "description": "Goony is a one-button arcade game for casual and core gamers. You control Goony, a jelly-like creature, who is running down a road with hazardous obstacles. The goal of the game is to stay alive for as long as possible. Goony is constantly on the move. He goes either left or right.\n<br><br>\nSpecial blocks, which can help you, are scattered across the playfield. The playfield is infinitely long and lasts until you make a mistake. The number of steps you took is your final score.\n<br><br>\nFeatures:<br>\nRandom generated, infinitely long playfield<br>\nDraw your own blocks using the built-in Block editor<br>\nExchange user generated blocks locally or online via QR Codes<br>\nRace against a buddy on the same system in multiplayer mode",
+  "release_date_on_eshop": "2013-03-14",
+  "product_code": "TWL-N-KXKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

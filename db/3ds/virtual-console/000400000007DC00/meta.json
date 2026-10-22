@@ -1,25 +1,25 @@
 {
-    "tid": "000400000007DC00",
-    "uid": "50010000009747",
-    "name": "Kirby's Dream Land™ 2",
-    "formal_name": "Kirby's Dream Land™ 2",
-    "description": "In his second Game Boy™\nadventure, Kirby must solve the\nmystery behind the disappearance of\nrainbow bridges that link the islands\nof Dream Land. Travel through all\nseven isles while battling the minions\nof King Dedede, and team up with\nKirby's friends Rick the Hamster, Kine\nthe Fish and Coo the Owl.\n<br/><br/>\nKirby's animal pals have their own\nunique abilities and can also magnify\nKirby's powers, too! And you'll need\nall the help you can get, to face a\nnew enemy: the malevolent Dark\nMatter!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBNP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007DC00",
+  "uid": "50010000009747",
+  "name": "Kirby's Dream Land™ 2",
+  "formal_name": "Kirby's Dream Land™ 2",
+  "description": "In his second Game Boy™\nadventure, Kirby must solve the\nmystery behind the disappearance of\nrainbow bridges that link the islands\nof Dream Land. Travel through all\nseven isles while battling the minions\nof King Dedede, and team up with\nKirby's friends Rick the Hamster, Kine\nthe Fish and Coo the Owl.\n<br/><br/>\nKirby's animal pals have their own\nunique abilities and can also magnify\nKirby's powers, too! And you'll need\nall the help you can get, to face a\nnew enemy: the malevolent Dark\nMatter!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBNP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

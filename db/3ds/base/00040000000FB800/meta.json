@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000FB800",
-    "uid": "50010000018714",
-    "name": "SWORDS & DARKNESS",
-    "formal_name": "SWORDS & DARKNESS",
-    "description": "『ソード･アンド･ダークネス』は簡単な操作で多彩なアクションが楽しめる2DアクションRPGです。\n<br>多彩な通常攻撃に加え必殺技を覚えることでアクションを増やすことができます。\n<br>またアイテムスロットに所持品を装備すれば、戦闘中にも回復薬やナイフなどをシームレスに使うことができます。",
-    "release_date_on_eshop": "2013-12-18",
-    "product_code": "CTR-N-JSZJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "ロールプレイング",
-        "格闘"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FB800",
+  "uid": "50010000018714",
+  "name": "SWORDS & DARKNESS",
+  "formal_name": "SWORDS & DARKNESS",
+  "description": "『ソード･アンド･ダークネス』は簡単な操作で多彩なアクションが楽しめる2DアクションRPGです。\n<br>多彩な通常攻撃に加え必殺技を覚えることでアクションを増やすことができます。\n<br>またアイテムスロットに所持品を装備すれば、戦闘中にも回復薬やナイフなどをシームレスに使うことができます。",
+  "release_date_on_eshop": "2013-12-18",
+  "product_code": "CTR-N-JSZJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "ロールプレイング",
+    "格闘"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

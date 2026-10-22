@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000178C00",
-    "uid": "50010000038475",
-    "name": "I Love My Pony",
-    "formal_name": "I Love My Pony",
-    "description": "Discover a rich and enthralling story where you prove to your rival that love and respect for your pony are just as important as training. \n<br><br>\nChoose your pony and care for it with a variety of activities. Your pony's health and happiness are key to your success in the competitions.\n<br><br>\nTrain at the riding centre and take part in the jumping and racing competitions to become a true champion! \n<br><br>\nA captivating story, from your first day at the riding stables to when you take part in the biggest competitions.\nTen different activities for caring for your pony.\nLots of different training challenges to improve your riding skills.\nTwo types of competitions in four different environments (the country, the mountains, the desert and the beach).",
-    "release_date_on_eshop": "2015-11-19",
-    "product_code": "CTR-N-ALNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000178C00",
+  "uid": "50010000038475",
+  "name": "I Love My Pony",
+  "formal_name": "I Love My Pony",
+  "description": "Discover a rich and enthralling story where you prove to your rival that love and respect for your pony are just as important as training. \n<br><br>\nChoose your pony and care for it with a variety of activities. Your pony's health and happiness are key to your success in the competitions.\n<br><br>\nTrain at the riding centre and take part in the jumping and racing competitions to become a true champion! \n<br><br>\nA captivating story, from your first day at the riding stables to when you take part in the biggest competitions.\nTen different activities for caring for your pony.\nLots of different training challenges to improve your riding skills.\nTwo types of competitions in four different environments (the country, the mountains, the desert and the beach).",
+  "release_date_on_eshop": "2015-11-19",
+  "product_code": "CTR-N-ALNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

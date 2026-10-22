@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000F1A00",
-    "uid": "50010000016153",
-    "name": "Mahjong 3D – Essentials",
-    "formal_name": "Mahjong 3D – Essentials",
-    "description": "Do you love Mahjong, but don’t want\nto be part of the thrilling campaign in\nMahjong 3D – Warriors of the\nEmperor? Then Mahjong 3D –\nEssentials is just what you’re looking\nfor! Fast and exciting fun guaranteed!\n<br/><br/>\nDive into an exotic world and\nexperience the famous Chinese board\ngame in breathtaking 3D! Be\nenchanted and enthralled by beautiful\nbackgrounds – they make this\nMahjong game a very special\nexperience.\n<br/><br/>\nWith Mahjong 3D Essentials, you get\nfast and exciting brainteasers for\nin-between times – 70 levels in three\ndegrees of difficulty: easy, medium,\nand hard.\n<br/><br/>\nBuild your own puzzles with the level\neditor – endless fun guaranteed!\n<br/><br/>\nFeatures\n<br/><br/>\n70 exciting levels in easy, medium,\nand hard\n<br/><br/>\nLevel editor: Create your own\nMahjong boards and have endless fun\n<br/><br/>\nBe enchanted by the breathtaking 3D\ngraphics and the exotic backgrounds",
-    "release_date_on_eshop": "2013-09-05",
-    "product_code": "CTR-N-JAXP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F1A00",
+  "uid": "50010000016153",
+  "name": "Mahjong 3D – Essentials",
+  "formal_name": "Mahjong 3D – Essentials",
+  "description": "Do you love Mahjong, but don’t want\nto be part of the thrilling campaign in\nMahjong 3D – Warriors of the\nEmperor? Then Mahjong 3D –\nEssentials is just what you’re looking\nfor! Fast and exciting fun guaranteed!\n<br/><br/>\nDive into an exotic world and\nexperience the famous Chinese board\ngame in breathtaking 3D! Be\nenchanted and enthralled by beautiful\nbackgrounds – they make this\nMahjong game a very special\nexperience.\n<br/><br/>\nWith Mahjong 3D Essentials, you get\nfast and exciting brainteasers for\nin-between times – 70 levels in three\ndegrees of difficulty: easy, medium,\nand hard.\n<br/><br/>\nBuild your own puzzles with the level\neditor – endless fun guaranteed!\n<br/><br/>\nFeatures\n<br/><br/>\n70 exciting levels in easy, medium,\nand hard\n<br/><br/>\nLevel editor: Create your own\nMahjong boards and have endless fun\n<br/><br/>\nBe enchanted by the breathtaking 3D\ngraphics and the exotic backgrounds",
+  "release_date_on_eshop": "2013-09-05",
+  "product_code": "CTR-N-JAXP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4C4E45",
-    "uid": "50010000007939",
-    "name": "Bloons® TD",
-    "formal_name": "Bloons® TD",
-    "description": "It is time, once again, to achieve total Bloon popping satisfaction, this time in the form of classic tower defense. With a whole army of dart monkeys and a multitude of towers at your disposal, can you pop all of the Bloons® before they escape?\n\nBloons® TD features all of your favorite towers and upgrades including the almighty Super Monkey! Can you battle your way through 50 challenging levels taking place over 15 exciting tracks and unlock all of the gold medals to become the TD master? Good luck!",
-    "release_date_on_eshop": "2011-11-10",
-    "product_code": "TWL-N-KLNE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Arcade",
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4E45",
+  "uid": "50010000007939",
+  "name": "Bloons® TD",
+  "formal_name": "Bloons® TD",
+  "description": "It is time, once again, to achieve total Bloon popping satisfaction, this time in the form of classic tower defense. With a whole army of dart monkeys and a multitude of towers at your disposal, can you pop all of the Bloons® before they escape?\n\nBloons® TD features all of your favorite towers and upgrades including the almighty Super Monkey! Can you battle your way through 50 challenging levels taking place over 15 exciting tracks and unlock all of the gold medals to become the TD master? Good luck!",
+  "release_date_on_eshop": "2011-11-10",
+  "product_code": "TWL-N-KLNE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Arcade",
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001CA300",
-    "uid": "50010000043295",
-    "name": "世界樹の迷宮X（クロス）",
-    "formal_name": "世界樹の迷宮X（クロス）",
-    "description": "下画面に地図を描く面白さと歯ごたえのあるゲームバランスで人気の3DダンジョンRPG『世界樹の迷宮』シリーズ。今までの作品のエッセンスを “クロスオーバー”した、シリーズの集大成が登場します。\n<br>絶海の孤島「レムリア」という新しい舞台で、世界樹の謎に迫る物語が展開。あなたは飛行都市「マギニア」を拠点に、新職業「ヒーロー」を含む19職業から夢のパーティを組み、前人未到の迷宮に挑みます。",
-    "release_date_on_eshop": "2018-08-02",
-    "product_code": "CTR-N-BZMJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "すれちがい通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CA300",
+  "uid": "50010000043295",
+  "name": "世界樹の迷宮X（クロス）",
+  "formal_name": "世界樹の迷宮X（クロス）",
+  "description": "下画面に地図を描く面白さと歯ごたえのあるゲームバランスで人気の3DダンジョンRPG『世界樹の迷宮』シリーズ。今までの作品のエッセンスを “クロスオーバー”した、シリーズの集大成が登場します。\n<br>絶海の孤島「レムリア」という新しい舞台で、世界樹の謎に迫る物語が展開。あなたは飛行都市「マギニア」を拠点に、新職業「ヒーロー」を含む19職業から夢のパーティを組み、前人未到の迷宮に挑みます。",
+  "release_date_on_eshop": "2018-08-02",
+  "product_code": "CTR-N-BZMJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "すれちがい通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

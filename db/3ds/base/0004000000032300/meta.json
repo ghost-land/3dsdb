@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000032300",
-    "uid": "50010000000222",
-    "name": "Steel Diver",
-    "formal_name": "Steel Diver",
-    "description": "Submerge beneath the murky waters\nof the ocean in your vessel and take\nout enemy units, all in beautiful 3D, in\nthis submarine combat game for\nNintendo 3DS.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASDP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000032300",
+  "uid": "50010000000222",
+  "name": "Steel Diver",
+  "formal_name": "Steel Diver",
+  "description": "Submerge beneath the murky waters\nof the ocean in your vessel and take\nout enemy units, all in beautiful 3D, in\nthis submarine combat game for\nNintendo 3DS.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASDP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

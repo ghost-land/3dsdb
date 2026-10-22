@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000185F00",
-    "uid": "50010000040355",
-    "name": "WordsUp! Academy",
-    "formal_name": "WordsUp! Academy",
-    "description": "Becoming part of the Academy is not easy; its most illustrious members are waiting for you, ready to challenge you in this extraordinary puzzle and skills game. Prove your mastery of language in WordsUp! Academy... and dare to challenge them and get their approval!\n<br>\n<br>Main features:\n<br>\n<br>¡6 game modes! From the challenging main mode to the new Relax mode, where you will have fun discovering words calmly and without any pressure... Even your mother will love it!\n<br>\n<br>It also includes the game modes of its predecessor 3, 2, 1... WordsUp!\n<br>\n<br>Practice vocabulary in six languages: English, French, Spanish, Italian, German and Portuguese; the perfect complement to your language course!\n<br>\n<br>Tens of thousands of words to discover.\n<br>\n<br>Unlimited hours of play.\n<br>\n<br>And so you can get challenged by and with your friends, register your high scores on the online leaderboards!\n<br>\n<br>Practice your mental agility and your knowledge of the language in WordsUp! Academy!",
-    "release_date_on_eshop": "2016-05-12",
-    "product_code": "CTR-N-KWAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000185F00",
+  "uid": "50010000040355",
+  "name": "WordsUp! Academy",
+  "formal_name": "WordsUp! Academy",
+  "description": "Becoming part of the Academy is not easy; its most illustrious members are waiting for you, ready to challenge you in this extraordinary puzzle and skills game. Prove your mastery of language in WordsUp! Academy... and dare to challenge them and get their approval!\n<br>\n<br>Main features:\n<br>\n<br>¡6 game modes! From the challenging main mode to the new Relax mode, where you will have fun discovering words calmly and without any pressure... Even your mother will love it!\n<br>\n<br>It also includes the game modes of its predecessor 3, 2, 1... WordsUp!\n<br>\n<br>Practice vocabulary in six languages: English, French, Spanish, Italian, German and Portuguese; the perfect complement to your language course!\n<br>\n<br>Tens of thousands of words to discover.\n<br>\n<br>Unlimited hours of play.\n<br>\n<br>And so you can get challenged by and with your friends, register your high scores on the online leaderboards!\n<br>\n<br>Practice your mental agility and your knowledge of the language in WordsUp! Academy!",
+  "release_date_on_eshop": "2016-05-12",
+  "product_code": "CTR-N-KWAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

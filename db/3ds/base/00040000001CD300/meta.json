@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001CD300",
-    "uid": "50010000043557",
-    "name": "Hiding Out",
-    "formal_name": "Hiding Out",
-    "description": "The police think you're a bank robber! Find 100 pieces of a photo of the real robber in this single-screen game inspired by classic arcade games!\n<br>\n<br>* Simple, retro-style gameplay\n<br>* Five modes of play\n<br>* Nonviolent, family friendly\n<br>* Anyone can play!\n<br>* Small size, fits on almost any SD card",
-    "release_date_on_eshop": "2017-11-06",
-    "product_code": "CTR-N-BHGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CD300",
+  "uid": "50010000043557",
+  "name": "Hiding Out",
+  "formal_name": "Hiding Out",
+  "description": "The police think you're a bank robber! Find 100 pieces of a photo of the real robber in this single-screen game inspired by classic arcade games!\n<br>\n<br>* Simple, retro-style gameplay\n<br>* Five modes of play\n<br>* Nonviolent, family friendly\n<br>* Anyone can play!\n<br>* Small size, fits on almost any SD card",
+  "release_date_on_eshop": "2017-11-06",
+  "product_code": "CTR-N-BHGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

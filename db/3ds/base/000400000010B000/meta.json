@@ -1,27 +1,27 @@
 {
-    "tid": "000400000010B000",
-    "uid": "50010000016673",
-    "name": "GUNMAN STORY",
-    "formal_name": "GUNMAN STORY",
-    "description": "「GUNMAN STORY」는 건맨「CLIVE」를 조작하여, 납치된 애인을 구하러 가는「건맨 액션 게임」입니다.\n구하러 가는 도중에는 여러 가지 적과 함정이 주인공「CLIVE」를 기다리고 있습니다.\n서부극에 나올 듯 한 분위기와 현실 세계에는 있을 수 없는 함정!\n반사신경을 최대한으로 끌어 올려 클리어를 목표로 도전해 보세요!\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2013-09-27",
-    "product_code": "CTR-N-JGCK",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "제명 : GUNMAN STORY\n상호 : 한국닌텐도(주)\n이용등급 : 12세이용가\n등급분류번호: CC-NV-130828-005\n등급분류 일자 : 2013.08.28.\n제작・배급업신고번호: 게배 제2012-10호",
-    "descriptors": []
+  "tid": "000400000010B000",
+  "uid": "50010000016673",
+  "name": "GUNMAN STORY",
+  "formal_name": "GUNMAN STORY",
+  "description": "「GUNMAN STORY」는 건맨「CLIVE」를 조작하여, 납치된 애인을 구하러 가는「건맨 액션 게임」입니다.\n구하러 가는 도중에는 여러 가지 적과 함정이 주인공「CLIVE」를 기다리고 있습니다.\n서부극에 나올 듯 한 분위기와 현실 세계에는 있을 수 없는 함정!\n반사신경을 최대한으로 끌어 올려 클리어를 목표로 도전해 보세요!\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2013-09-27",
+  "product_code": "CTR-N-JGCK",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "제명 : GUNMAN STORY\n상호 : 한국닌텐도(주)\n이용등급 : 12세이용가\n등급분류번호: CC-NV-130828-005\n등급분류 일자 : 2013.08.28.\n제작・배급업신고번호: 게배 제2012-10호",
+  "descriptors": []
 }

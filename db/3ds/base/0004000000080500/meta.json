@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000080500",
-    "uid": "50010000041500",
-    "name": "CahiEr ～飼い絵～",
-    "formal_name": "お絵かきを飼うソフト CahiEr 飼い絵\n水そうバージョン",
-    "description": "画面に描いた絵が、ペットのさかなとして水そう内を泳ぎます。\n<br>さかなのお世話をすることでコインを集め、水そうをもっと自由にアレンジできるスケッチブックを入手できます。\n<br>自由な発想で絵を描いてアレンジしたり、さかなや水そうにこだわらず自由気ままに描きたしているうちに、「水そう」という枠を超える素敵な世界が作り出せるかもしれません。",
-    "release_date_on_eshop": "2016-09-28",
-    "product_code": "CTR-N-JH5J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "学習",
-        "トレーニング"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000080500",
+  "uid": "50010000041500",
+  "name": "CahiEr ～飼い絵～",
+  "formal_name": "お絵かきを飼うソフト CahiEr 飼い絵\n水そうバージョン",
+  "description": "画面に描いた絵が、ペットのさかなとして水そう内を泳ぎます。\n<br>さかなのお世話をすることでコインを集め、水そうをもっと自由にアレンジできるスケッチブックを入手できます。\n<br>自由な発想で絵を描いてアレンジしたり、さかなや水そうにこだわらず自由気ままに描きたしているうちに、「水そう」という枠を超える素敵な世界が作り出せるかもしれません。",
+  "release_date_on_eshop": "2016-09-28",
+  "product_code": "CTR-N-JH5J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "学習",
+    "トレーニング"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

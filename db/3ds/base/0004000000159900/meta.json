@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000159900",
-    "uid": "50010000033915",
-    "name": "LEGO® Jurassic World™",
-    "formal_name": "LEGO® Jurassic World™",
-    "description": "Following the epic storylines of\nJurassic Park, The Lost World:\nJurassic Park and Jurassic Park III, as\nwell as the highly anticipated Jurassic\nWorld, LEGO® Jurassic World™ is the\nfirst videogame where players will be\nable to relive and experience all four\nJurassic films. Reimagined in LEGO\nform and told in TT Games’ signature\nclassic LEGO humour, the thrilling\nadventure recreates unforgettable\nscenes and action sequences from the\nfilms, allowing fans to play through\nkey moments and giving them the\nopportunity to fully explore the\nexpansive grounds of Isla Nublar and\nIsla Sorna.",
-    "release_date_on_eshop": "2015-06-12",
-    "product_code": "CTR-P-BLJP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "* Game contains\nEnglish voice over.",
-    "descriptors": []
+  "tid": "0004000000159900",
+  "uid": "50010000033915",
+  "name": "LEGO® Jurassic World™",
+  "formal_name": "LEGO® Jurassic World™",
+  "description": "Following the epic storylines of\nJurassic Park, The Lost World:\nJurassic Park and Jurassic Park III, as\nwell as the highly anticipated Jurassic\nWorld, LEGO® Jurassic World™ is the\nfirst videogame where players will be\nable to relive and experience all four\nJurassic films. Reimagined in LEGO\nform and told in TT Games’ signature\nclassic LEGO humour, the thrilling\nadventure recreates unforgettable\nscenes and action sequences from the\nfilms, allowing fans to play through\nkey moments and giving them the\nopportunity to fully explore the\nexpansive grounds of Isla Nublar and\nIsla Sorna.",
+  "release_date_on_eshop": "2015-06-12",
+  "product_code": "CTR-P-BLJP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "* Game contains\nEnglish voice over.",
+  "descriptors": []
 }

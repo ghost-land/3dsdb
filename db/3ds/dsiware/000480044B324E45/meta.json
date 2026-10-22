@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B324E45",
-    "uid": "50010000012295",
-    "name": "Cake Ninja 2",
-    "formal_name": "Cake Ninja 2",
-    "description": "Cake Ninja 2 is the sequel to the very popular casual game, Cake Ninja, which was among the TOP 20 of the best-selling Nintendo DSiWare games in North America. \nThe more cakes you slice, the longer you stay around, and the longer you survive, the higher your score. How long can you last? \nYou can also challenge your friends to a multiplayer game to show everyone who the best player is!\n\nKey Features:\n- Colorful 3D graphics\n- Precise slice recognition\n- Challenging multiplayer mode\n- 8 challenging game modes \n- A collection of bonuses \n- Unlockable achievements",
-    "release_date_on_eshop": "2012-11-01",
-    "product_code": "TWL-N-K2NE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B324E45",
+  "uid": "50010000012295",
+  "name": "Cake Ninja 2",
+  "formal_name": "Cake Ninja 2",
+  "description": "Cake Ninja 2 is the sequel to the very popular casual game, Cake Ninja, which was among the TOP 20 of the best-selling Nintendo DSiWare games in North America. \nThe more cakes you slice, the longer you stay around, and the longer you survive, the higher your score. How long can you last? \nYou can also challenge your friends to a multiplayer game to show everyone who the best player is!\n\nKey Features:\n- Colorful 3D graphics\n- Precise slice recognition\n- Challenging multiplayer mode\n- 8 challenging game modes \n- A collection of bonuses \n- Unlockable achievements",
+  "release_date_on_eshop": "2012-11-01",
+  "product_code": "TWL-N-K2NE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

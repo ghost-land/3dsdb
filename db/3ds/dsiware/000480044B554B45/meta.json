@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B554B45",
-    "uid": "50010000010626",
-    "name": "Jewel Legends - Tree of Life",
-    "formal_name": "Jewel Legends - Tree of Life",
-    "description": "Rebuild the world of the Hods in Jewel Legends: Tree of Life! The Hods, magical beings and pure of heart, once lived in harmony with the holy Tree of Life. But the endless greed of a dark demon forced them into hiding. Now, new hope springs eternal.\nUsing building materials, jewels and other valuables, switch two adjacent tiles to make a row of three or more matching tiles! The valuables will help you to rebuild the world of the Hods and to restore the Tree of Life to its former strength in this Match 3 adventure game!",
-    "release_date_on_eshop": "2012-06-21",
-    "product_code": "TWL-N-KUKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B554B45",
+  "uid": "50010000010626",
+  "name": "Jewel Legends - Tree of Life",
+  "formal_name": "Jewel Legends - Tree of Life",
+  "description": "Rebuild the world of the Hods in Jewel Legends: Tree of Life! The Hods, magical beings and pure of heart, once lived in harmony with the holy Tree of Life. But the endless greed of a dark demon forced them into hiding. Now, new hope springs eternal.\nUsing building materials, jewels and other valuables, switch two adjacent tiles to make a row of three or more matching tiles! The valuables will help you to rebuild the world of the Hods and to restore the Tree of Life to its former strength in this Match 3 adventure game!",
+  "release_date_on_eshop": "2012-06-21",
+  "product_code": "TWL-N-KUKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

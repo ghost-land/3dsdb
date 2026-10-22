@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000134900",
-    "uid": "50010000025055",
-    "name": "Demon King Box",
-    "formal_name": "Demon King Box",
-    "description": "Demon King Box mixes real-time strategy with classic RPG gameplay. Gather demons and heroes to join and aid your quest. Multiple types of minions can be gathered not only by conquering, but also by researching minions. The demon heroes can enhance the demon legion with their unique skills. Demons level up and get stronger not only by victory, but also by feeding them with their favourite food.\n<br><br>\nOther features:<br>\nIntense battles that can only be won through strength and skill.<br>\nExpansive demon world with diverse locales to be explored<br>\nVarious demon heroes reveal their personality through captivating voice-over work.<br>\nA gripping storyline.<br>\nGallery and achievements offer additional content for the dedicated gamer.",
-    "release_date_on_eshop": "2014-08-21",
-    "product_code": "CTR-N-KDKE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000134900",
+  "uid": "50010000025055",
+  "name": "Demon King Box",
+  "formal_name": "Demon King Box",
+  "description": "Demon King Box mixes real-time strategy with classic RPG gameplay. Gather demons and heroes to join and aid your quest. Multiple types of minions can be gathered not only by conquering, but also by researching minions. The demon heroes can enhance the demon legion with their unique skills. Demons level up and get stronger not only by victory, but also by feeding them with their favourite food.\n<br><br>\nOther features:<br>\nIntense battles that can only be won through strength and skill.<br>\nExpansive demon world with diverse locales to be explored<br>\nVarious demon heroes reveal their personality through captivating voice-over work.<br>\nA gripping storyline.<br>\nGallery and achievements offer additional content for the dedicated gamer.",
+  "release_date_on_eshop": "2014-08-21",
+  "product_code": "CTR-N-KDKE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

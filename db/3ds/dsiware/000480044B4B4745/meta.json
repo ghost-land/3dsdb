@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4B4745",
-    "uid": "50010000008921",
-    "name": "Gaia's Moon",
-    "formal_name": "Gaia's Moon",
-    "description": "Something strange is causing changes to the balance of energy in Gaia that is necessary to prolong life. To discover the cause, you must play the role of Atreyu and his magical cane Milo, whose help you will need to be able to fly. But be very careful! The whole planet has gone mad and is out of control, and existential chaos may ensue.\n\nThe mechanics are simple: with a single button you provide the necessary energy to the cane “Milo”, flying Atreyu through the skies of Gaia. Use your skills to discover who is behind this and return harmony to the Gaia system. There is no point limit, so aim for the highest score in the ranking. You will also be able to challenge a friend in two-player mode, sharing the same Nintendo DSi or Nintendo 3DS system!\n\n*Unlimited adventure mode.\n*Two players on the same Nintendo DSi or Nintendo 3DS system.\n*Simple and fun controls for all types of players.\n*Amazing graphics with high quality and detail.",
-    "release_date_on_eshop": "2012-01-19",
-    "product_code": "TWL-N-KKGE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B4745",
+  "uid": "50010000008921",
+  "name": "Gaia's Moon",
+  "formal_name": "Gaia's Moon",
+  "description": "Something strange is causing changes to the balance of energy in Gaia that is necessary to prolong life. To discover the cause, you must play the role of Atreyu and his magical cane Milo, whose help you will need to be able to fly. But be very careful! The whole planet has gone mad and is out of control, and existential chaos may ensue.\n\nThe mechanics are simple: with a single button you provide the necessary energy to the cane “Milo”, flying Atreyu through the skies of Gaia. Use your skills to discover who is behind this and return harmony to the Gaia system. There is no point limit, so aim for the highest score in the ranking. You will also be able to challenge a friend in two-player mode, sharing the same Nintendo DSi or Nintendo 3DS system!\n\n*Unlimited adventure mode.\n*Two players on the same Nintendo DSi or Nintendo 3DS system.\n*Simple and fun controls for all types of players.\n*Amazing graphics with high quality and detail.",
+  "release_date_on_eshop": "2012-01-19",
+  "product_code": "TWL-N-KKGE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B445845",
-    "uid": "50010000002082",
-    "name": "X-Scape™",
-    "formal_name": "X-Scape™",
-    "description": "Your journey through the universe of X-Scape begins as you wake from 10 years of cryosleep, only to find yourself unexpectedly thrown into a fearsome battle against an evil empire bent on your destruction. You’ll travel to numerous planets in the Kiisa system and engage in a wide variety of challenges (including optional side quests) in your fight for answers…and survival.\nAt your command is VIXIV, an advanced battle tank able to deftly maneuver both on land and in the air and loaded with an array of formidable weapons. Also onboard, and ready to help with advice or upgrades to VIXIV’s abilities, is your highly capable support bot, VIX-529. To progress in your adventure, you’ll use the Touch Screen to pilot VIXIV in one of two modes: tunnel mode and free-movement mode. In tunnel mode, you navigate through narrow, dangerous tunnels that connect planets. Successful completion of tunnel mode opens free-movement mode, which allows you to freely roam the surface of planets and take up missions.\nPresented in 3-D with a stylishly retro graphic style, X-Scape combines continuous action with an epic story to create an experience sure to keep players on the edge of their seats!",
-    "release_date_on_eshop": "2010-05-31",
-    "product_code": "TWL-N-KDXE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445845",
+  "uid": "50010000002082",
+  "name": "X-Scape™",
+  "formal_name": "X-Scape™",
+  "description": "Your journey through the universe of X-Scape begins as you wake from 10 years of cryosleep, only to find yourself unexpectedly thrown into a fearsome battle against an evil empire bent on your destruction. You’ll travel to numerous planets in the Kiisa system and engage in a wide variety of challenges (including optional side quests) in your fight for answers…and survival.\nAt your command is VIXIV, an advanced battle tank able to deftly maneuver both on land and in the air and loaded with an array of formidable weapons. Also onboard, and ready to help with advice or upgrades to VIXIV’s abilities, is your highly capable support bot, VIX-529. To progress in your adventure, you’ll use the Touch Screen to pilot VIXIV in one of two modes: tunnel mode and free-movement mode. In tunnel mode, you navigate through narrow, dangerous tunnels that connect planets. Successful completion of tunnel mode opens free-movement mode, which allows you to freely roam the surface of planets and take up missions.\nPresented in 3-D with a stylishly retro graphic style, X-Scape combines continuous action with an epic story to create an experience sure to keep players on the edge of their seats!",
+  "release_date_on_eshop": "2010-05-31",
+  "product_code": "TWL-N-KDXE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

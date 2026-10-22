@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F70F000",
-    "uid": "50010000043521",
-    "name": "36 Fragments of Midnight",
-    "formal_name": "36 Fragments of Midnight",
-    "description": "This time Midnight's friends lost of their Star Fragments!\n<br>Your task is to find them, and take them back, but it won't be easy. In this procedurally generated platform game, you have to avoid deadly lasers, circular saws and spikes to collect all the Fragments, to get their greatest gift. Do you have what it takes to collect all?",
-    "release_date_on_eshop": "2017-09-21",
-    "product_code": "KTR-N-CF3P",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Adventure",
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70F000",
+  "uid": "50010000043521",
+  "name": "36 Fragments of Midnight",
+  "formal_name": "36 Fragments of Midnight",
+  "description": "This time Midnight's friends lost of their Star Fragments!\n<br>Your task is to find them, and take them back, but it won't be easy. In this procedurally generated platform game, you have to avoid deadly lasers, circular saws and spikes to collect all the Fragments, to get their greatest gift. Do you have what it takes to collect all?",
+  "release_date_on_eshop": "2017-09-21",
+  "product_code": "KTR-N-CF3P",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Adventure",
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

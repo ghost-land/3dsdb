@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001C4800",
-    "uid": "50010000042940",
-    "name": "マルディタカスティーラ",
-    "formal_name": "マルディタカスティーラ ドン・ラミロと呪われた大地",
-    "description": "『マルディタカスティーラ ドン・ラミロと呪われた大地』は、\n<br>中世ヨーロッパの世界観の中で、主人公の「ドン・ラミロ」を操作し、\n<br>敵を倒し、「モーラのなみだ」を集め、王国を救うために闘う、\n<br>「王道横スクロールアクション」です。 \n<br>\n<br>簡単な操作でありながら、やりこみ要素も満載。\n<br>ライトユーザーにも、ハードコアユーザーにも楽しんでいただける作品です。",
-    "release_date_on_eshop": "2017-07-12",
-    "product_code": "CTR-N-J2CJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C4800",
+  "uid": "50010000042940",
+  "name": "マルディタカスティーラ",
+  "formal_name": "マルディタカスティーラ ドン・ラミロと呪われた大地",
+  "description": "『マルディタカスティーラ ドン・ラミロと呪われた大地』は、\n<br>中世ヨーロッパの世界観の中で、主人公の「ドン・ラミロ」を操作し、\n<br>敵を倒し、「モーラのなみだ」を集め、王国を救うために闘う、\n<br>「王道横スクロールアクション」です。 \n<br>\n<br>簡単な操作でありながら、やりこみ要素も満載。\n<br>ライトユーザーにも、ハードコアユーザーにも楽しんでいただける作品です。",
+  "release_date_on_eshop": "2017-07-12",
+  "product_code": "CTR-N-J2CJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

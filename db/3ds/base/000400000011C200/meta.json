@@ -1,33 +1,33 @@
 {
-    "tid": "000400000011C200",
-    "uid": "50010000027458",
-    "name": "LEGO® Batman™ 3:\nBEYOND GOTHAM",
-    "formal_name": "LEGO® Batman™ 3:\nBEYOND GOTHAM",
-    "description": "The best-selling LEGO Batman\nvideogame franchise returns in an\nout-of-this-world, action-packed\nadventure! In LEGO Batman™ 3:\nBeyond Gotham, the Caped Crusader\njoins forces with the super heroes of\nthe DC Comics universe and blasts off\nto outer space to stop the evil\nBrainiac from destroying Earth. Using\nthe power of the Lantern Rings,\nBrainiac shrinks worlds to add to his\ntwisted collection of miniature cities\nfrom across the universe. Now the\ngreatest super heroes and the most\ncunning villains must unite and\njourney to different Lantern Worlds to\ncollect the Lantern Rings and stop\nBrainiac before it’s too late.",
-    "release_date_on_eshop": "2014-11-14",
-    "product_code": "CTR-P-BTMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "* Game contains\nEnglish voice over.",
-    "descriptors": []
+  "tid": "000400000011C200",
+  "uid": "50010000027458",
+  "name": "LEGO® Batman™ 3:\nBEYOND GOTHAM",
+  "formal_name": "LEGO® Batman™ 3:\nBEYOND GOTHAM",
+  "description": "The best-selling LEGO Batman\nvideogame franchise returns in an\nout-of-this-world, action-packed\nadventure! In LEGO Batman™ 3:\nBeyond Gotham, the Caped Crusader\njoins forces with the super heroes of\nthe DC Comics universe and blasts off\nto outer space to stop the evil\nBrainiac from destroying Earth. Using\nthe power of the Lantern Rings,\nBrainiac shrinks worlds to add to his\ntwisted collection of miniature cities\nfrom across the universe. Now the\ngreatest super heroes and the most\ncunning villains must unite and\njourney to different Lantern Worlds to\ncollect the Lantern Rings and stop\nBrainiac before it’s too late.",
+  "release_date_on_eshop": "2014-11-14",
+  "product_code": "CTR-P-BTMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "* Game contains\nEnglish voice over.",
+  "descriptors": []
 }

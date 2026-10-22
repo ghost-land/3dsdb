@@ -1,33 +1,33 @@
 {
-    "tid": "000400020012D001",
-    "uid": "50010000021796",
-    "name": "Bit Boy!! ARCADE",
-    "formal_name": "Bit Boy!! ARCADE",
-    "description": "KUBITASTIC!! Kubi is back, and this time he meets his creator: the Game Designer!!\n<br><br>\nThe fun story tells of Kubi, his friends, the evil black Shadow Plattchen, the mighty gearwheel ZeLeLi and something about game development too.\n<br><br>\nPlay as fast as you want by pressing the +Control Pad and the buttons together as fast as you can!\n<br><br>\nPlay faster for a higher score<br>\nJump, Bomb, and Rocket Blocks<br>\nGraphical Evolution in every world<br>\n50 Parchment Achievements<br>\nOver 200 different Phases<br>\nRescue 1,491 Pixel Friends<br>\nRevive over 4,200 PixelFlies<br>\nUse Play Coins for Continues<br>\nAutoSave after every Phase<br>\nQuickStart without loading times<br>\nEpic Boss Fights<br>\nOver 1 hour of voice acting<br>\nOver 1 hour of music<br>\nOptional EASY MODE<br>\nQUICK RUN for short sessions<br>\nShare High Scores in Miiverse",
-    "release_date_on_eshop": "2014-04-17",
-    "product_code": "CTR-N-JBBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Mild Fantasy Violence",
-        "Mild Language"
-    ]
+  "tid": "000400020012D001",
+  "uid": "50010000021796",
+  "name": "Bit Boy!! ARCADE",
+  "formal_name": "Bit Boy!! ARCADE",
+  "description": "KUBITASTIC!! Kubi is back, and this time he meets his creator: the Game Designer!!\n<br><br>\nThe fun story tells of Kubi, his friends, the evil black Shadow Plattchen, the mighty gearwheel ZeLeLi and something about game development too.\n<br><br>\nPlay as fast as you want by pressing the +Control Pad and the buttons together as fast as you can!\n<br><br>\nPlay faster for a higher score<br>\nJump, Bomb, and Rocket Blocks<br>\nGraphical Evolution in every world<br>\n50 Parchment Achievements<br>\nOver 200 different Phases<br>\nRescue 1,491 Pixel Friends<br>\nRevive over 4,200 PixelFlies<br>\nUse Play Coins for Continues<br>\nAutoSave after every Phase<br>\nQuickStart without loading times<br>\nEpic Boss Fights<br>\nOver 1 hour of voice acting<br>\nOver 1 hour of music<br>\nOptional EASY MODE<br>\nQUICK RUN for short sessions<br>\nShare High Scores in Miiverse",
+  "release_date_on_eshop": "2014-04-17",
+  "product_code": "CTR-N-JBBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Mild Language"
+  ]
 }

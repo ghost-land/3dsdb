@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000169B00",
-    "uid": "50010000032856",
-    "name": "新ひゅ～ストン",
-    "formal_name": "新ひゅ～ストン",
-    "description": "『新ひゅ～ストン』では立体視による圧倒的な迫力とスリリングな落下感覚を体験できます。\n<br>\n<br>前作『ひゅ～ストン』と比べ、落とす石は倍以上、プレイできる井戸は4倍と、大幅にボリュームアップしています。\n<br>\n<br>石の操作はスライドパッドのみとシンプルです。\n<br>成績はすれちがい通信やQRコードで他のプレイヤーと交換できます。",
-    "release_date_on_eshop": "2015-04-22",
-    "product_code": "CTR-N-KHYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000169B00",
+  "uid": "50010000032856",
+  "name": "新ひゅ～ストン",
+  "formal_name": "新ひゅ～ストン",
+  "description": "『新ひゅ～ストン』では立体視による圧倒的な迫力とスリリングな落下感覚を体験できます。\n<br>\n<br>前作『ひゅ～ストン』と比べ、落とす石は倍以上、プレイできる井戸は4倍と、大幅にボリュームアップしています。\n<br>\n<br>石の操作はスライドパッドのみとシンプルです。\n<br>成績はすれちがい通信やQRコードで他のプレイヤーと交換できます。",
+  "release_date_on_eshop": "2015-04-22",
+  "product_code": "CTR-N-KHYJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

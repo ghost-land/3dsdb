@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E001A6E00",
-    "uid": "50010000041642",
-    "name": "Azure Striker GUNVOLT 2:\nUpdate 1.2",
-    "formal_name": "Azure Striker GUNVOLT 2:\n<br>Update 1.2",
-    "description": "This is an update for Azure Striker Gunvolt 2 that adds compatibility for the game's DLC. \n<br>\n<br>Ver.1.2\n<br>- Compatibility for the new DLC missions has been added \n<br>- Compatibility for the new DLC \"Speedrun Mode\" has been added, which challenges players to complete the game as quickly as possible. \n<br>- Compatibility for the new DLC items that allow players to listen to new songs from the characters Joule and Lola has been added. \n<br>- Icons that display a skill's effects have been added to the display on the bottom screen. \n<br>- The characters status is now displayed on the customization screen. \n<br>\n<br>- Furthermore, various bugs/other issues have been corrected to make the gameplay experience more enjoyable. \n<br>-- Fixed a freeze that happened when defeating Teseo at a particular time. \n<br>-- Fixed a freeze that happened in the instant Tenjian was defeated. \n<br>-- Fixed a numerical error in Gunvolt's items in the Clips category. \n<br>-- Fixed a behavioral problem with Copen's item \"Shield Construct.\" \n<br>-- Fixed a defect in Score Attack's score calculation. \n<br>-- Fixed a problem with the player character's controls. \n<br>-- Fixed a problem with a specific enemy's behavior.",
-    "release_date_on_eshop": "2016-09-29",
-    "product_code": "CTR-U-KGBP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001A6E00",
+  "uid": "50010000041642",
+  "name": "Azure Striker GUNVOLT 2:\nUpdate 1.2",
+  "formal_name": "Azure Striker GUNVOLT 2:\n<br>Update 1.2",
+  "description": "This is an update for Azure Striker Gunvolt 2 that adds compatibility for the game's DLC. \n<br>\n<br>Ver.1.2\n<br>- Compatibility for the new DLC missions has been added \n<br>- Compatibility for the new DLC \"Speedrun Mode\" has been added, which challenges players to complete the game as quickly as possible. \n<br>- Compatibility for the new DLC items that allow players to listen to new songs from the characters Joule and Lola has been added. \n<br>- Icons that display a skill's effects have been added to the display on the bottom screen. \n<br>- The characters status is now displayed on the customization screen. \n<br>\n<br>- Furthermore, various bugs/other issues have been corrected to make the gameplay experience more enjoyable. \n<br>-- Fixed a freeze that happened when defeating Teseo at a particular time. \n<br>-- Fixed a freeze that happened in the instant Tenjian was defeated. \n<br>-- Fixed a numerical error in Gunvolt's items in the Clips category. \n<br>-- Fixed a behavioral problem with Copen's item \"Shield Construct.\" \n<br>-- Fixed a defect in Score Attack's score calculation. \n<br>-- Fixed a problem with the player character's controls. \n<br>-- Fixed a problem with a specific enemy's behavior.",
+  "release_date_on_eshop": "2016-09-29",
+  "product_code": "CTR-U-KGBP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

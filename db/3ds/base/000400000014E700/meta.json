@@ -1,33 +1,33 @@
 {
-    "tid": "000400000014E700",
-    "uid": "50010000031895",
-    "name": "LEGO® Ninjago™:\nSchatten des Ronin",
-    "formal_name": "LEGO® Ninjago™:\nSchatten des Ronin",
-    "description": "Es gibt eine neue Bedrohung in\nNinjago, und sein Name ist Ronin. Mit\nder Hilfe seiner Armee dunkler\nSamurai stiehlt Ronin die Erinnerungen\nder Ninjas durch eine uralte Waffe\nnamens Obsidian Glaive. In LEGO®\nNinjago™: Shadow of Ronin™ ist es an\nden Spielern, den Ninjas zu helfen\nsich zu erinnern und ihre Kräfte\nwiederzuerlangen, bevor Ronin seinen\nPlan umsetzen und noch größeres\nUnheil über Ninjago bringen kann.",
-    "release_date_on_eshop": "2015-03-27",
-    "product_code": "CTR-P-BLSZ",
-    "platform_name": "Nintendo 3DS (Karte/Download)",
-    "region": "Germany",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "3D-Darstellung wird verwendet"
-    ],
-    "languages": [
-        "Englisch",
-        "Spanisch",
-        "Französisch",
-        "Deutsch",
-        "Italienisch",
-        "Niederländisch"
-    ],
-    "rating_system": {
-        "name": "USK",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": "*Spiel enthält\ndeutsche Sprachausgabe.",
-    "descriptors": []
+  "tid": "000400000014E700",
+  "uid": "50010000031895",
+  "name": "LEGO® Ninjago™:\nSchatten des Ronin",
+  "formal_name": "LEGO® Ninjago™:\nSchatten des Ronin",
+  "description": "Es gibt eine neue Bedrohung in\nNinjago, und sein Name ist Ronin. Mit\nder Hilfe seiner Armee dunkler\nSamurai stiehlt Ronin die Erinnerungen\nder Ninjas durch eine uralte Waffe\nnamens Obsidian Glaive. In LEGO®\nNinjago™: Shadow of Ronin™ ist es an\nden Spielern, den Ninjas zu helfen\nsich zu erinnern und ihre Kräfte\nwiederzuerlangen, bevor Ronin seinen\nPlan umsetzen und noch größeres\nUnheil über Ninjago bringen kann.",
+  "release_date_on_eshop": "2015-03-27",
+  "product_code": "CTR-P-BLSZ",
+  "platform_name": "Nintendo 3DS (Karte/Download)",
+  "region": "Germany",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "3D-Darstellung wird verwendet"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "USK",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": "*Spiel enthält\ndeutsche Sprachausgabe.",
+  "descriptors": []
 }

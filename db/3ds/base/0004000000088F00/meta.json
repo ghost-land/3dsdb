@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000088F00",
-    "uid": "50010000011516",
-    "name": "ハイパーパドル\nブロックラッシャー",
-    "formal_name": "ハイパーパドル ブロックラッシャー",
-    "description": "定番ゲームの代名詞「ブロック崩し」にさまざまなパーツを組み合わせて、パドルをカスタマイズする楽しさを融合した新感覚の\n<br>ブロック崩し。\n<br>従来のブロックを崩せないイライラ感を一掃し、ブロックを一瞬で崩す爽快感を演出。\n<br>多彩なパーツ、多彩なアイテムを駆使しながら、全50ステージのブロックを撃破しよう。",
-    "release_date_on_eshop": "2012-08-22",
-    "product_code": "CTR-N-JBQJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000088F00",
+  "uid": "50010000011516",
+  "name": "ハイパーパドル\nブロックラッシャー",
+  "formal_name": "ハイパーパドル ブロックラッシャー",
+  "description": "定番ゲームの代名詞「ブロック崩し」にさまざまなパーツを組み合わせて、パドルをカスタマイズする楽しさを融合した新感覚の\n<br>ブロック崩し。\n<br>従来のブロックを崩せないイライラ感を一掃し、ブロックを一瞬で崩す爽快感を演出。\n<br>多彩なパーツ、多彩なアイテムを駆使しながら、全50ステージのブロックを撃破しよう。",
+  "release_date_on_eshop": "2012-08-22",
+  "product_code": "CTR-N-JBQJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

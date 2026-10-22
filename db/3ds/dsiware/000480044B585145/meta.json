@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B585145",
-    "uid": "50010000004762",
-    "name": "Telegraph Crosswords",
-    "formal_name": "Telegraph Crosswords",
-    "description": "Play crossword puzzles from the 'Telegraph' like you've never played them before! Discover a whopping 500 puzzles of multiple types. You're in for many hours of gameplay!\n\nWith its handy interface and intuitive controls, this game transfigures the classic pen-and-paper experience. Notable features include:\n\n- A huge selection of quick puzzles, cryptic puzzles and general knowledge puzzles!\n- Registration of best times in the Hall of Fame.\n- Interactive hints prevent you from being stuck!\n- Auto-save as you go: you can stop and resume a puzzle at any time!",
-    "release_date_on_eshop": "2010-06-14",
-    "product_code": "TWL-N-KXQE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585145",
+  "uid": "50010000004762",
+  "name": "Telegraph Crosswords",
+  "formal_name": "Telegraph Crosswords",
+  "description": "Play crossword puzzles from the 'Telegraph' like you've never played them before! Discover a whopping 500 puzzles of multiple types. You're in for many hours of gameplay!\n\nWith its handy interface and intuitive controls, this game transfigures the classic pen-and-paper experience. Notable features include:\n\n- A huge selection of quick puzzles, cryptic puzzles and general knowledge puzzles!\n- Registration of best times in the Hall of Fame.\n- Interactive hints prevent you from being stuck!\n- Auto-save as you go: you can stop and resume a puzzle at any time!",
+  "release_date_on_eshop": "2010-06-14",
+  "product_code": "TWL-N-KXQE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

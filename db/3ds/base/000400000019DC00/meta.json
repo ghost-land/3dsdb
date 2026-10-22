@@ -1,30 +1,30 @@
 {
-    "tid": "000400000019DC00",
-    "uid": "50010000041714",
-    "name": "Lionel City Builder 3D:\nRise of the Rails",
-    "formal_name": "Lionel City Builder 3D:\n<br>Rise of the Rails",
-    "description": "Create your own world and drive your custom-built train right through it in Lionel City Builder 3D: Rise of the Rails. Choose from Creative Mode, where you’ll create your own cities to drive your custom trains through, or from Story Mode, where you’ll learn to drive trains, repair tracks, and help keep the rail system alive. The game’s innovative design and Stereoscopic 3D gameplay graphics are perfect for train-lovers and gamers alike, providing a creative and strategic game play experience with a dose of Lionel fun that’s guaranteed to be off the tracks.",
-    "release_date_on_eshop": "2016-11-17",
-    "product_code": "CTR-N-KT8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Action",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019DC00",
+  "uid": "50010000041714",
+  "name": "Lionel City Builder 3D:\nRise of the Rails",
+  "formal_name": "Lionel City Builder 3D:\n<br>Rise of the Rails",
+  "description": "Create your own world and drive your custom-built train right through it in Lionel City Builder 3D: Rise of the Rails. Choose from Creative Mode, where you’ll create your own cities to drive your custom trains through, or from Story Mode, where you’ll learn to drive trains, repair tracks, and help keep the rail system alive. The game’s innovative design and Stereoscopic 3D gameplay graphics are perfect for train-lovers and gamers alike, providing a creative and strategic game play experience with a dose of Lionel fun that’s guaranteed to be off the tracks.",
+  "release_date_on_eshop": "2016-11-17",
+  "product_code": "CTR-N-KT8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Action",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

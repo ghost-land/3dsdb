@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B354245",
-    "uid": "50010000022616",
-    "name": "Lost Treasures of Alexandria",
-    "formal_name": "Lost Treasures of Alexandria",
-    "description": "Few are aware, and mainstream science seems to ignore the fact, that some almost perfectly spherical metal spheres were found buried deep in various mines in Africa. The spheres have three concentric rings etched around their circumference, which appear to be neither natural nor man-made. So what are these anachronisms doing in rock strata dating back over a million years? Is it possible that the first civilizations could be millions of years old?",
-    "release_date_on_eshop": "2014-05-22",
-    "product_code": "TWL-N-K5BE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B354245",
+  "uid": "50010000022616",
+  "name": "Lost Treasures of Alexandria",
+  "formal_name": "Lost Treasures of Alexandria",
+  "description": "Few are aware, and mainstream science seems to ignore the fact, that some almost perfectly spherical metal spheres were found buried deep in various mines in Africa. The spheres have three concentric rings etched around their circumference, which appear to be neither natural nor man-made. So what are these anachronisms doing in rock strata dating back over a million years? Is it possible that the first civilizations could be millions of years old?",
+  "release_date_on_eshop": "2014-05-22",
+  "product_code": "TWL-N-K5BE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

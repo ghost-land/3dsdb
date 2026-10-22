@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000086A00",
-    "uid": "50010000009725",
-    "name": "ARC STYLE: Soccer 3D",
-    "formal_name": "ARC STYLE: Soccer 3D",
-    "description": "You don't have to worry about the finer points of offside or what counts as a foul in this easy soccer game. Enjoy fast-paced matches with the simple controls of ARC STYLE: Soccer 3D!\n<br><br>\nThere is room for endless customization with the ability to change your teams' names and uniforms, and create every team member's features from scratch to make your own original team. You can even use your own photographed face on your team members! You can also enjoy multiplayer matches using local play.",
-    "release_date_on_eshop": "2012-03-29",
-    "product_code": "CTR-N-JA3E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000086A00",
+  "uid": "50010000009725",
+  "name": "ARC STYLE: Soccer 3D",
+  "formal_name": "ARC STYLE: Soccer 3D",
+  "description": "You don't have to worry about the finer points of offside or what counts as a foul in this easy soccer game. Enjoy fast-paced matches with the simple controls of ARC STYLE: Soccer 3D!\n<br><br>\nThere is room for endless customization with the ability to change your teams' names and uniforms, and create every team member's features from scratch to make your own original team. You can even use your own photographed face on your team members! You can also enjoy multiplayer matches using local play.",
+  "release_date_on_eshop": "2012-03-29",
+  "product_code": "CTR-N-JA3E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000118800",
-    "uid": "50010000020916",
-    "name": "Best of Casual Games",
-    "formal_name": "Best of Casual Games",
-    "description": "Finally! Best of Casual Games\ncombines all of the fun of Zuma,\nHidden Object, Match-3 and time\nmanagement games in a single,\nexplosive package!\n<br/><br/>\nCollect hundreds of puzzle pieces\nwhile finishing forty levels with\ndifferent degrees of difficulty.\n<br/><br/>\n- A compilation of 4 amazing games\n<br/><br/>\n- Travel to the four corners of\nEurope through photos that you piece\ntogether\n<br/><br/>\n- A game adapted to both children\nand adults, through different levels of\ndifficulty",
-    "release_date_on_eshop": "2015-03-05",
-    "product_code": "CTR-P-BCSP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000118800",
+  "uid": "50010000020916",
+  "name": "Best of Casual Games",
+  "formal_name": "Best of Casual Games",
+  "description": "Finally! Best of Casual Games\ncombines all of the fun of Zuma,\nHidden Object, Match-3 and time\nmanagement games in a single,\nexplosive package!\n<br/><br/>\nCollect hundreds of puzzle pieces\nwhile finishing forty levels with\ndifferent degrees of difficulty.\n<br/><br/>\n- A compilation of 4 amazing games\n<br/><br/>\n- Travel to the four corners of\nEurope through photos that you piece\ntogether\n<br/><br/>\n- A game adapted to both children\nand adults, through different levels of\ndifficulty",
+  "release_date_on_eshop": "2015-03-05",
+  "product_code": "CTR-P-BCSP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

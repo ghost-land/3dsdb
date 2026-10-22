@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F70C600",
-    "uid": "50010000042958",
-    "name": "Operation COBRA",
-    "formal_name": "Operation COBRA",
-    "description": "You find yourself stranded in an unfamiliar place, surrounded by mud. You have no chance of escaping this zombie-filled island. Your only chance of survival is to fight off the zombies.",
-    "release_date_on_eshop": "2018-01-11",
-    "product_code": "KTR-N-CCBE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "First-Person Shooter",
-        "Shooter",
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nGame is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
-    "descriptors": []
+  "tid": "000400000F70C600",
+  "uid": "50010000042958",
+  "name": "Operation COBRA",
+  "formal_name": "Operation COBRA",
+  "description": "You find yourself stranded in an unfamiliar place, surrounded by mud. You have no chance of escaping this zombie-filled island. Your only chance of survival is to fight off the zombies.",
+  "release_date_on_eshop": "2018-01-11",
+  "product_code": "KTR-N-CCBE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "First-Person Shooter",
+    "Shooter",
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nGame is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": []
 }

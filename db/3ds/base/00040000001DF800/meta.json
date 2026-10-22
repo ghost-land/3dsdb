@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DF800",
-    "uid": "50010000048916",
-    "name": "Atlantis-6",
-    "formal_name": "Atlantis-6",
-    "description": "Invasion of giant monsters. Your task is to fight back.",
-    "release_date_on_eshop": "2020-10-15",
-    "product_code": "CTR-N-AWUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DF800",
+  "uid": "50010000048916",
+  "name": "Atlantis-6",
+  "formal_name": "Atlantis-6",
+  "description": "Invasion of giant monsters. Your task is to fight back.",
+  "release_date_on_eshop": "2020-10-15",
+  "product_code": "CTR-N-AWUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

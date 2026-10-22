@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000070300",
-    "uid": "50010000007274",
-    "name": "Balloon Fight™",
-    "formal_name": "Balloon Fight™",
-    "description": "Original Release Date: June 1986\n\nControlling a character to pop your opponents’ balloons before they pop yours sounds easy, doesn't it? Don’t be fooled by this game’s simple premise or cute exterior, though–underneath these you’ll find a surprisingly challenging game with strategy to spare.\n\nAfter mastering the easy-to-learn controls, you still have to get a grip on the game’s impressively realistic physics. And if that’s not enough, there are still the ever-increasing enemies and environmental hazards like lightning and water.\n\nOr try the game’s second mode, Balloon Trip, if you feel like taking a break from the action and just want to see how long you can stay aloft. And, hey, who doesn’t like popping balloons sometimes?",
-    "release_date_on_eshop": "2013-05-02",
-    "product_code": "CTR-N-TALE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000070300",
+  "uid": "50010000007274",
+  "name": "Balloon Fight™",
+  "formal_name": "Balloon Fight™",
+  "description": "Original Release Date: June 1986\n\nControlling a character to pop your opponents’ balloons before they pop yours sounds easy, doesn't it? Don’t be fooled by this game’s simple premise or cute exterior, though–underneath these you’ll find a surprisingly challenging game with strategy to spare.\n\nAfter mastering the easy-to-learn controls, you still have to get a grip on the game’s impressively realistic physics. And if that’s not enough, there are still the ever-increasing enemies and environmental hazards like lightning and water.\n\nOr try the game’s second mode, Balloon Trip, if you feel like taking a break from the action and just want to see how long you can stay aloft. And, hey, who doesn’t like popping balloons sometimes?",
+  "release_date_on_eshop": "2013-05-02",
+  "product_code": "CTR-N-TALE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

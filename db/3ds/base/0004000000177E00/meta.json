@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000177E00",
-    "uid": "50010000036435",
-    "name": "モノカゲクエスト",
-    "formal_name": "モノカゲクエスト",
-    "description": "『モノカゲクエスト』には普通のゲームにない大きな特徴があります。それは「主人公が目立つと死んでしまう」ということ!\n<br>\n<br>道具を使うとき、あなたのことを見ている人はいませんか?\n<br>魔法を使うとき、あなたのことを見ている人はいませんか?\n<br>\n<br>勇者としては当たり前でも、村の人からするとそれはとんでもなくすごいこと!\n<br>\n<br>行動するときはくれぐれも慎重に、人の目のないモノカゲで!",
-    "release_date_on_eshop": "2015-08-26",
-    "product_code": "CTR-N-KMQJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000177E00",
+  "uid": "50010000036435",
+  "name": "モノカゲクエスト",
+  "formal_name": "モノカゲクエスト",
+  "description": "『モノカゲクエスト』には普通のゲームにない大きな特徴があります。それは「主人公が目立つと死んでしまう」ということ!\n<br>\n<br>道具を使うとき、あなたのことを見ている人はいませんか?\n<br>魔法を使うとき、あなたのことを見ている人はいませんか?\n<br>\n<br>勇者としては当たり前でも、村の人からするとそれはとんでもなくすごいこと!\n<br>\n<br>行動するときはくれぐれも慎重に、人の目のないモノカゲで!",
+  "release_date_on_eshop": "2015-08-26",
+  "product_code": "CTR-N-KMQJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000009C600",
-    "uid": "50010000015013",
-    "name": "Vampire Master of Darkness",
-    "formal_name": "Vampire Master of Darkness",
-    "description": "The shadow of Dracula has spread across Victorian England, cursing the land and its people. In your quest to stop this evil from spreading, make your way through strange and forbidding streets and collect different weapons to aid you against his army of monsters. Find Dracula, the Master of Darkness, and rescue England from his terrifying grasp!",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "CTR-N-GAQE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009C600",
+  "uid": "50010000015013",
+  "name": "Vampire Master of Darkness",
+  "formal_name": "Vampire Master of Darkness",
+  "description": "The shadow of Dracula has spread across Victorian England, cursing the land and its people. In your quest to stop this evil from spreading, make your way through strange and forbidding streets and collect different weapons to aid you against his army of monsters. Find Dracula, the Master of Darkness, and rescue England from his terrifying grasp!",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "CTR-N-GAQE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

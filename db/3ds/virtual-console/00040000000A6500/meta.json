@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000A6500",
-    "uid": "50010000014947",
-    "name": "Spelunker™",
-    "formal_name": "Spelunker™",
-    "description": "Wander through miles of uncharted caves in search of the legendary underground pyramid and its vast treasures. To complete your adventure you will swing from ropes, climb ladders, run across unstable terrain and down ravines as well as operate elevators, mining carts and rafts. \n\nYou will collect keys, bombs, flares, jewels, sacks of gold coins and other valuable items as you navigate the hazardous terrain. But beware of the scalding steam vents, poisonous bats and the avenging spirits of dead spelunkers that lurk in every corner of this massive underground labyrinth.",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-TBNE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software.  Visit support.nintendo.com for information about storage options.  Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A6500",
+  "uid": "50010000014947",
+  "name": "Spelunker™",
+  "formal_name": "Spelunker™",
+  "description": "Wander through miles of uncharted caves in search of the legendary underground pyramid and its vast treasures. To complete your adventure you will swing from ropes, climb ladders, run across unstable terrain and down ravines as well as operate elevators, mining carts and rafts. \n\nYou will collect keys, bombs, flares, jewels, sacks of gold coins and other valuable items as you navigate the hazardous terrain. But beware of the scalding steam vents, poisonous bats and the avenging spirits of dead spelunkers that lurk in every corner of this massive underground labyrinth.",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-TBNE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software.  Visit support.nintendo.com for information about storage options.  Sold separately.",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B323745",
-    "uid": "50010000034295",
-    "name": "G.G Series ALL BREAKER",
-    "formal_name": "G.G Series ALL BREAKER",
-    "description": "Jump, dodge and smash your way through each stage. The futuristic purple haired warrior Rebecca is on a mission to single-handedly defeat the enemy. They've holed up in their enormous base made of blocks, but Rebecca's speciality is wielding her massive hammer. Smash all the target blocks in each stage to proceed but avoid enemies and use well placed strikes to the surrounding blocks to take out your enemies or to clear a path to destroy the target blocks before the time runs out or your lives expire!",
-    "release_date_on_eshop": "2015-06-11",
-    "product_code": "TWL-N-K27E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B323745",
+  "uid": "50010000034295",
+  "name": "G.G Series ALL BREAKER",
+  "formal_name": "G.G Series ALL BREAKER",
+  "description": "Jump, dodge and smash your way through each stage. The futuristic purple haired warrior Rebecca is on a mission to single-handedly defeat the enemy. They've holed up in their enormous base made of blocks, but Rebecca's speciality is wielding her massive hammer. Smash all the target blocks in each stage to proceed but avoid enemies and use well placed strikes to the surrounding blocks to take out your enemies or to clear a path to destroy the target blocks before the time runs out or your lives expire!",
+  "release_date_on_eshop": "2015-06-11",
+  "product_code": "TWL-N-K27E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

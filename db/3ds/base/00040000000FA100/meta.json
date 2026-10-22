@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000FA100",
-    "uid": "50010000015300",
-    "name": "マル合格! 秘書検定",
-    "formal_name": "マル合格! 秘書検定",
-    "description": "秘書検定の2級と3級を収録しています。試験科目の「必要とされる資質」「職務知識」「一般知識」「マナー･接遇」「技能」の対策ができます。\n<br>\n<br>短期間で得点アップできる工夫が満載!\n<br>・5つのモードからなる「練習問題」で実力アップ。\n<br>・正答率の低い問題のみを抽出して徹底特訓。\n<br>・総合成績ランクで実力把握。",
-    "release_date_on_eshop": "2013-08-07",
-    "product_code": "CTR-N-JHYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "学習",
-        "実用"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FA100",
+  "uid": "50010000015300",
+  "name": "マル合格! 秘書検定",
+  "formal_name": "マル合格! 秘書検定",
+  "description": "秘書検定の2級と3級を収録しています。試験科目の「必要とされる資質」「職務知識」「一般知識」「マナー･接遇」「技能」の対策ができます。\n<br>\n<br>短期間で得点アップできる工夫が満載!\n<br>・5つのモードからなる「練習問題」で実力アップ。\n<br>・正答率の低い問題のみを抽出して徹底特訓。\n<br>・総合成績ランクで実力把握。",
+  "release_date_on_eshop": "2013-08-07",
+  "product_code": "CTR-N-JHYJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "学習",
+    "実用"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

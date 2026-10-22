@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000CFE00",
-    "uid": "50010000018073",
-    "name": "Jewel Match 3",
-    "formal_name": "Jewel Match 3",
-    "description": "When Luna returns to Nevernear, she finds her homeland in ruins. The once-glorious kingdom has been razed to the ground by an evil power.\n<br><br>\nPlunge headlong with Luna into a fantastic Match 3 adventure packed with magic, fantasy... and the insidious Evil. Exploit the power of the five Mages and conquer darkness in 100 huge Match 3 levels. Rebuild Nevernear’s castles and create mysterious gardens to keep Evil at bay.\n<br><br>\nLet yourself be swept away into Luna’s wonderful world - and the fantastic story of Nevernear. \n<br><br>\n100 absolutely huge levels<br>\nThree game modes: Timed, Relaxed and Match 3 Maniac mode<br>\nGreat mini-games<br>\nLots of new extras, plus expanded game mechanics",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-N-AJUE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately",
-    "descriptors": []
+  "tid": "00040000000CFE00",
+  "uid": "50010000018073",
+  "name": "Jewel Match 3",
+  "formal_name": "Jewel Match 3",
+  "description": "When Luna returns to Nevernear, she finds her homeland in ruins. The once-glorious kingdom has been razed to the ground by an evil power.\n<br><br>\nPlunge headlong with Luna into a fantastic Match 3 adventure packed with magic, fantasy... and the insidious Evil. Exploit the power of the five Mages and conquer darkness in 100 huge Match 3 levels. Rebuild Nevernear’s castles and create mysterious gardens to keep Evil at bay.\n<br><br>\nLet yourself be swept away into Luna’s wonderful world - and the fantastic story of Nevernear. \n<br><br>\n100 absolutely huge levels<br>\nThree game modes: Timed, Relaxed and Match 3 Maniac mode<br>\nGreat mini-games<br>\nLots of new extras, plus expanded game mechanics",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-N-AJUE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately",
+  "descriptors": []
 }

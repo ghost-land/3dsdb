@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000033C00",
-    "uid": "50010000000215",
-    "name": "Super Street Fighter IV 3D",
-    "formal_name": "Super Street Fighter IV 3D",
-    "description": "Start a Wi-Fight: True local and\n<br>online multiplayer.<br>\n<br>\n<br>New StreetPass communication:\n<br>Battle others for rewards, even\n<br>without the game inserted!<br>\n<br>\n<br>Full 3D: Incredible depth and new\n<br>perspectives.",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-P-ASSP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000033C00",
+  "uid": "50010000000215",
+  "name": "Super Street Fighter IV 3D",
+  "formal_name": "Super Street Fighter IV 3D",
+  "description": "Start a Wi-Fight: True local and\n<br>online multiplayer.<br>\n<br>\n<br>New StreetPass communication:\n<br>Battle others for rewards, even\n<br>without the game inserted!<br>\n<br>\n<br>Full 3D: Incredible depth and new\n<br>perspectives.",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-P-ASSP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

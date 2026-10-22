@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000050500",
-    "uid": "50010000007948",
-    "name": "Metroid™ II - Return of Samus",
-    "formal_name": "Metroid™ II - Return of Samus",
-    "description": "The Game Boy's exclusive chapter in\nthe Metroid series sees Samus Aran\non a mission to rid planet SR388 of\nthe Metroid menace.\n\nBattle through a sprawling\nunderworld, seeking out every last\nMetroid, and build up your arsenal by\ndiscovering mysterious artifacts.\n\nEnjoy new abilities like the Spider\nBall, and powerful new weapons like\nthe Plasma Beam, as you eradicate\nthe Metroids once and for all.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RA4P",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000050500",
+  "uid": "50010000007948",
+  "name": "Metroid™ II - Return of Samus",
+  "formal_name": "Metroid™ II - Return of Samus",
+  "description": "The Game Boy's exclusive chapter in\nthe Metroid series sees Samus Aran\non a mission to rid planet SR388 of\nthe Metroid menace.\n\nBattle through a sprawling\nunderworld, seeking out every last\nMetroid, and build up your arsenal by\ndiscovering mysterious artifacts.\n\nEnjoy new abilities like the Spider\nBall, and powerful new weapons like\nthe Plasma Beam, as you eradicate\nthe Metroids once and for all.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RA4P",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

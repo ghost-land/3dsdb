@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B585345",
-    "uid": "50010000011568",
-    "name": "Escape the Virus: Shoot'Em Up",
-    "formal_name": "Escape the Virus: Shoot'Em Up",
-    "description": "The battle for micro-world domination is not over yet! Escape the Virus, an action puzzle series, is back with totally new game-play modes. In the Shooter mode the prey is now the predator. You will chase down and shoot hordes of vicious viruses. It’s time to take the medicine! In the Territory mode you will protect certain zones and prevent enemies from getting too close to them. Accumulate enough energy and the zone will disappear giving you more time to smash enemies. Never stop running and dodging to avoid hostile attacks. Use all bonus items, power-ups and ammo and don’t let the enemies surpass you. Get into the ultimate DNA warfare and kick viruses out of the micro-world once and for all!",
-    "release_date_on_eshop": "2012-08-30",
-    "product_code": "TWL-N-KXSE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585345",
+  "uid": "50010000011568",
+  "name": "Escape the Virus: Shoot'Em Up",
+  "formal_name": "Escape the Virus: Shoot'Em Up",
+  "description": "The battle for micro-world domination is not over yet! Escape the Virus, an action puzzle series, is back with totally new game-play modes. In the Shooter mode the prey is now the predator. You will chase down and shoot hordes of vicious viruses. It’s time to take the medicine! In the Territory mode you will protect certain zones and prevent enemies from getting too close to them. Accumulate enough energy and the zone will disappear giving you more time to smash enemies. Never stop running and dodging to avoid hostile attacks. Use all bonus items, power-ups and ammo and don’t let the enemies surpass you. Get into the ultimate DNA warfare and kick viruses out of the micro-world once and for all!",
+  "release_date_on_eshop": "2012-08-30",
+  "product_code": "TWL-N-KXSE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

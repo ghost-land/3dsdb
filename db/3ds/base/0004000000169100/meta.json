@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000169100",
-    "uid": "50010000033355",
-    "name": "Bloo Kid 2",
-    "formal_name": "Bloo Kid 2",
-    "description": "Bloo Kid 2 is a classic 2D retro-style\nplatformer experience with lovely\ndesigned pixel-graphics and a full\nchiptune soundtrack.<br/><br/>\nRun, jump and swim your way\nthrough FIVE huge worlds with nine\nlevels each.<br/>\nMaster brutal bossfights and discover\nlots of secrets in the world of Bloo\nKid 2.<br/><br/>\nAfter rescuing his girlfriend from the\nhands of the evil wizard, Bloo Kid and\nPink Girl enjoy life with their newborn\n\"Pink Kid\". But then, a whole new\nadventure starts just out of the bloo...<br/><br/>\nBloo Kid 2 features<br>\n- five worlds with nine levels\neach<br/>\n- handcrafted, colorful\npixel-graphics<br/>\n- a full chiptune soundtrack<br/>\n- epic boss battles<br/>\n- tons of secrets",
-    "release_date_on_eshop": "2015-05-07",
-    "product_code": "CTR-N-KBKP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Arcade",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000169100",
+  "uid": "50010000033355",
+  "name": "Bloo Kid 2",
+  "formal_name": "Bloo Kid 2",
+  "description": "Bloo Kid 2 is a classic 2D retro-style\nplatformer experience with lovely\ndesigned pixel-graphics and a full\nchiptune soundtrack.<br/><br/>\nRun, jump and swim your way\nthrough FIVE huge worlds with nine\nlevels each.<br/>\nMaster brutal bossfights and discover\nlots of secrets in the world of Bloo\nKid 2.<br/><br/>\nAfter rescuing his girlfriend from the\nhands of the evil wizard, Bloo Kid and\nPink Girl enjoy life with their newborn\n\"Pink Kid\". But then, a whole new\nadventure starts just out of the bloo...<br/><br/>\nBloo Kid 2 features<br>\n- five worlds with nine levels\neach<br/>\n- handcrafted, colorful\npixel-graphics<br/>\n- a full chiptune soundtrack<br/>\n- epic boss battles<br/>\n- tons of secrets",
+  "release_date_on_eshop": "2015-05-07",
+  "product_code": "CTR-N-KBKP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Arcade",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

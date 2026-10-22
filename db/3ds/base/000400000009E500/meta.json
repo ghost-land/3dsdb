@@ -1,32 +1,32 @@
 {
-    "tid": "000400000009E500",
-    "uid": "50010000013071",
-    "name": "Castlevania: Lords of Shadow\nMirror of Fate",
-    "formal_name": "Castlevania: Lords of Shadow\nMirror of Fate",
-    "description": "What was once Gabriel Belmont is\nnow a powerful vampire called\nDracula. Join his descendants, the\nfamed Belmont clan as they seek his\nultimate destruction.\n<br/><br/>\n• Intense whip combat and\nplatforming.\n<br/><br/>\n• Huge adventure with deep\nexploration and challenges.\n<br/><br/>\n• Explore Dracula's castle and\ndiscover its darkest secrets.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-ACFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009E500",
+  "uid": "50010000013071",
+  "name": "Castlevania: Lords of Shadow\nMirror of Fate",
+  "formal_name": "Castlevania: Lords of Shadow\nMirror of Fate",
+  "description": "What was once Gabriel Belmont is\nnow a powerful vampire called\nDracula. Join his descendants, the\nfamed Belmont clan as they seek his\nultimate destruction.\n<br/><br/>\n• Intense whip combat and\nplatforming.\n<br/><br/>\n• Huge adventure with deep\nexploration and challenges.\n<br/><br/>\n• Explore Dracula's castle and\ndiscover its darkest secrets.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-ACFP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000115000",
-    "uid": "50010000020353",
-    "name": "WEAPON SHOP de OMASSE™",
-    "formal_name": "WEAPON SHOP de OMASSE™",
-    "description": "From the mind of comedian Yoshiyuki\nHirai comes WEAPON SHOP de\nOMASSE, a humorous twist on the\nclassic fantasy adventure.\n<br/><br/>\nYou are Yuhan, an apprentice in a\nweapon rental shop inside an RPG.\nIt’s your job to forge and rent\nweapons to the seven misfit heroes\nand various NPCs that come your\nway.\n<br/><br/>\nWhy rental? Sure, there’s a risk that\na hero will fail their quest and lose\nyour weapon, but if they succeed,\nyou’ll get your weapon back, get\npaid, and earn a returning customer.\nWith the dreaded Evil Lord’s return\nlooking nigh, it wouldn’t hurt to have\nmore well-equipped heroes running\naround, either.\n<br/><br/>\nMatch your customer to a weapon\nand forge it to the rhythm! Tap your\nNintendo 3DS in time with the music,\nbalance the heat of your materials,\nand make sure that your hammer\nstrikes true to create a weapon that\nreally shines.\n<br/><br/>\nFollow your customers’ adventures\non the “Grindcast,” a special feed built\ninto each weapon that sends every\nencounter, discovery, and\nconversation it hears back to you!",
-    "release_date_on_eshop": "2014-02-20",
-    "product_code": "CTR-N-JBKP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Music",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000115000",
+  "uid": "50010000020353",
+  "name": "WEAPON SHOP de OMASSE™",
+  "formal_name": "WEAPON SHOP de OMASSE™",
+  "description": "From the mind of comedian Yoshiyuki\nHirai comes WEAPON SHOP de\nOMASSE, a humorous twist on the\nclassic fantasy adventure.\n<br/><br/>\nYou are Yuhan, an apprentice in a\nweapon rental shop inside an RPG.\nIt’s your job to forge and rent\nweapons to the seven misfit heroes\nand various NPCs that come your\nway.\n<br/><br/>\nWhy rental? Sure, there’s a risk that\na hero will fail their quest and lose\nyour weapon, but if they succeed,\nyou’ll get your weapon back, get\npaid, and earn a returning customer.\nWith the dreaded Evil Lord’s return\nlooking nigh, it wouldn’t hurt to have\nmore well-equipped heroes running\naround, either.\n<br/><br/>\nMatch your customer to a weapon\nand forge it to the rhythm! Tap your\nNintendo 3DS in time with the music,\nbalance the heat of your materials,\nand make sure that your hammer\nstrikes true to create a weapon that\nreally shines.\n<br/><br/>\nFollow your customers’ adventures\non the “Grindcast,” a special feed built\ninto each weapon that sends every\nencounter, discovery, and\nconversation it hears back to you!",
+  "release_date_on_eshop": "2014-02-20",
+  "product_code": "CTR-N-JBKP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Music",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

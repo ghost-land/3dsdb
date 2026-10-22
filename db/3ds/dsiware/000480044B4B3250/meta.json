@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B4B3250",
-    "uid": "50010000007821",
-    "name": "Crazy Hamster",
-    "formal_name": "Crazy Hamster",
-    "description": "The winter is coming. Crazy Hamster\nforgot to store his supplies. Now he\nhas to visit different lands to get them\nbefore winter. Crazy Hamster is so\ncrazy, that he sees nothing but the\nfruits. The lands he visits are full of\ntraps and obstacles that he won't\neven notice. You have to help him and\nneutralise those traps. There's no time\nto lose! Crazy Hamster has already\nset off!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KK2P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Platformer",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4B3250",
+  "uid": "50010000007821",
+  "name": "Crazy Hamster",
+  "formal_name": "Crazy Hamster",
+  "description": "The winter is coming. Crazy Hamster\nforgot to store his supplies. Now he\nhas to visit different lands to get them\nbefore winter. Crazy Hamster is so\ncrazy, that he sees nothing but the\nfruits. The lands he visits are full of\ntraps and obstacles that he won't\neven notice. You have to help him and\nneutralise those traps. There's no time\nto lose! Crazy Hamster has already\nset off!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KK2P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Platformer",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

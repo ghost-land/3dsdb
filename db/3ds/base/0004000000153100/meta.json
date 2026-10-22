@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000153100",
-    "uid": "50010000033415",
-    "name": "Hatsune Miku \nProject mirai DX",
-    "formal_name": "Hatsune Miku \nProject mirai DX",
-    "description": "「Hatsune Miku Project mirai DX」는 버철 싱어(전자음색의 목소리를 가진 가상 공간의 가수) ‘하츠네 미쿠’가 주연인 인기 리듬 액션 게임 「Project mirai」 시리즈의 최신작입니다. 메인이 되는 「리듬 게임」은 라인 위에서 이동하는 서클이 아이콘과 겹칠 때, 타이밍에 맞춰 터치펜으로 아래 화면을 터치하는 「터치 모드」와 버튼을 눌러 플레이하는 「버튼 모드」를 선택할 수 있습니다. 또한, 각각의 모드를 3가지 난이도로 즐길 수 있어 같은 곡을 색다른 감각으로 즐길 수 있습니다.\n",
-    "release_date_on_eshop": "2015-05-28",
-    "product_code": "CTR-N-BRXK",
-    "platform_name": "3DS 카드/다운로드 소프트웨어",
-    "region": "Korea",
-    "genres": [
-        "음악",
-        "액션",
-        "커뮤니케이션"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "로컬 플레이 대응",
-        "엇갈림 통신 대응",
-        "어느새 통신 대응",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n*주의사항*\n제명:하츠네 미쿠 프로젝트 미라이 디럭스\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150313-016\n등급분류 일자:2015.03.13\n제작・배급업신고번호:게배 제2012-10호",
-    "descriptors": []
+  "tid": "0004000000153100",
+  "uid": "50010000033415",
+  "name": "Hatsune Miku \nProject mirai DX",
+  "formal_name": "Hatsune Miku \nProject mirai DX",
+  "description": "「Hatsune Miku Project mirai DX」는 버철 싱어(전자음색의 목소리를 가진 가상 공간의 가수) ‘하츠네 미쿠’가 주연인 인기 리듬 액션 게임 「Project mirai」 시리즈의 최신작입니다. 메인이 되는 「리듬 게임」은 라인 위에서 이동하는 서클이 아이콘과 겹칠 때, 타이밍에 맞춰 터치펜으로 아래 화면을 터치하는 「터치 모드」와 버튼을 눌러 플레이하는 「버튼 모드」를 선택할 수 있습니다. 또한, 각각의 모드를 3가지 난이도로 즐길 수 있어 같은 곡을 색다른 감각으로 즐길 수 있습니다.\n",
+  "release_date_on_eshop": "2015-05-28",
+  "product_code": "CTR-N-BRXK",
+  "platform_name": "3DS 카드/다운로드 소프트웨어",
+  "region": "Korea",
+  "genres": [
+    "음악",
+    "액션",
+    "커뮤니케이션"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "로컬 플레이 대응",
+    "엇갈림 통신 대응",
+    "어느새 통신 대응",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n*주의사항*\n제명:하츠네 미쿠 프로젝트 미라이 디럭스\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150313-016\n등급분류 일자:2015.03.13\n제작・배급업신고번호:게배 제2012-10호",
+  "descriptors": []
 }

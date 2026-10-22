@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000D4800",
-    "uid": "50010000013637",
-    "name": "My Riding Stables 3D– \nJumping for the Team",
-    "formal_name": "My Riding Stables 3D– \n<br>Jumping for the Team",
-    "description": "An exciting new 3D horse adventure awaits you!\n<br>\n<br>The ranch is in great danger! Only winning the worldwide biggest jumping tournament can save it. But that means join up with your old rival Pamela and train the horses. Will the two of you succeed?\n<br>\n<br>• Enjoy 13 mini games.\n<br>\n<br>• Design your own horse by choosing from 26 breeds.\n<br>\n<br>• Make your own horse appear on the AR Card with Augmented Reality and play together.\n<br>\n<br>• StreetPass™: Compare your show jumping results with players near you and earn fantastic prizes!",
-    "release_date_on_eshop": "2013-05-02",
-    "product_code": "CTR-P-AAPP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D4800",
+  "uid": "50010000013637",
+  "name": "My Riding Stables 3D– \nJumping for the Team",
+  "formal_name": "My Riding Stables 3D– \n<br>Jumping for the Team",
+  "description": "An exciting new 3D horse adventure awaits you!\n<br>\n<br>The ranch is in great danger! Only winning the worldwide biggest jumping tournament can save it. But that means join up with your old rival Pamela and train the horses. Will the two of you succeed?\n<br>\n<br>• Enjoy 13 mini games.\n<br>\n<br>• Design your own horse by choosing from 26 breeds.\n<br>\n<br>• Make your own horse appear on the AR Card with Augmented Reality and play together.\n<br>\n<br>• StreetPass™: Compare your show jumping results with players near you and earn fantastic prizes!",
+  "release_date_on_eshop": "2013-05-02",
+  "product_code": "CTR-P-AAPP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

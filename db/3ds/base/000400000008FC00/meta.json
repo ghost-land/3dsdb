@@ -1,37 +1,37 @@
 {
-    "tid": "000400000008FC00",
-    "uid": "50010000012902",
-    "name": "Sonic & All-Stars Racing\nTransformed™",
-    "formal_name": "Sonic & All-Stars Racing\n<br>Transformed™",
-    "description": "Sonic and the All-Stars cast line up\n<br>on the starting grid once again to\n<br>battle for supremacy in the ultimate\n<br>race. Compete across land, water and\n<br>air in incredible transforming vehicles\n<br>that change from cars to boats to\n<br>planes mid-race. Master your driving\n<br>skills as you drift, barrel role and\n<br>boost to overtake your rivals, or use\n<br>your weapons tactically and unleash\n<br>your All-Star move to gain the winning\n<br>advantage.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-ALLP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008FC00",
+  "uid": "50010000012902",
+  "name": "Sonic & All-Stars Racing\nTransformed™",
+  "formal_name": "Sonic & All-Stars Racing\n<br>Transformed™",
+  "description": "Sonic and the All-Stars cast line up\n<br>on the starting grid once again to\n<br>battle for supremacy in the ultimate\n<br>race. Compete across land, water and\n<br>air in incredible transforming vehicles\n<br>that change from cars to boats to\n<br>planes mid-race. Master your driving\n<br>skills as you drift, barrel role and\n<br>boost to overtake your rivals, or use\n<br>your weapons tactically and unleash\n<br>your All-Star move to gain the winning\n<br>advantage.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-ALLP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

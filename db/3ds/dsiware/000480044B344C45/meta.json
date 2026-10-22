@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B344C45",
-    "uid": "50010000000842",
-    "name": "Simply Solitaire",
-    "formal_name": "Simply Solitaire",
-    "description": "Simply Solitaire gives you exactly what you want: pure Solitaire on your Nintendo DSi system! Solitaire, also called patience, is a single-player card game involving a layout of cards with a goal of sorting them. Solitaire games involve dealing cards from a shuffled deck into a prescribed arrangement on a table-top, from which the player attempts to reorder the deck by suit and rank through a series of moves transferring cards from one place to another. The simple game design and easy, intuitive controls make it a game that the whole family can enjoy. The game has 50 puzzles in each level to guarantee hours of gameplay fun.",
-    "release_date_on_eshop": "2011-03-28",
-    "product_code": "TWL-N-K4LE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B344C45",
+  "uid": "50010000000842",
+  "name": "Simply Solitaire",
+  "formal_name": "Simply Solitaire",
+  "description": "Simply Solitaire gives you exactly what you want: pure Solitaire on your Nintendo DSi system! Solitaire, also called patience, is a single-player card game involving a layout of cards with a goal of sorting them. Solitaire games involve dealing cards from a shuffled deck into a prescribed arrangement on a table-top, from which the player attempts to reorder the deck by suit and rank through a series of moves transferring cards from one place to another. The simple game design and easy, intuitive controls make it a game that the whole family can enjoy. The game has 50 puzzles in each level to guarantee hours of gameplay fun.",
+  "release_date_on_eshop": "2011-03-28",
+  "product_code": "TWL-N-K4LE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

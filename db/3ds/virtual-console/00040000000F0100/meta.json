@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000F0100",
-    "uid": "50010000025615",
-    "name": "Mega Man™ Xtreme 2",
-    "formal_name": "Mega Man™ Xtreme 2",
-    "description": "In MEGA MAN Xtreme 2, return to\nthe worlds previously seen in the\nMega Man™ X series, and play as\neither X or Zero, facing a new danger\nthat threatens all Reploids.\n<br/><br/>\nReploids are being turned into lifeless\nshells as if their souls have been\nerased, so X and Zero must hunt\ndown the culprits. Switch between X\nor Zero as you battle enemies and\ndefeat deadly bosses.\n<br/><br/>\nGather power-up parts to increase\nyour abilities, equip special weapons\nunique to X or Zero, and solve the\nmystery to restore the Reploids'\nmissing souls!",
-    "release_date_on_eshop": "2014-09-11",
-    "product_code": "CTR-N-QA2P",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F0100",
+  "uid": "50010000025615",
+  "name": "Mega Man™ Xtreme 2",
+  "formal_name": "Mega Man™ Xtreme 2",
+  "description": "In MEGA MAN Xtreme 2, return to\nthe worlds previously seen in the\nMega Man™ X series, and play as\neither X or Zero, facing a new danger\nthat threatens all Reploids.\n<br/><br/>\nReploids are being turned into lifeless\nshells as if their souls have been\nerased, so X and Zero must hunt\ndown the culprits. Switch between X\nor Zero as you battle enemies and\ndefeat deadly bosses.\n<br/><br/>\nGather power-up parts to increase\nyour abilities, equip special weapons\nunique to X or Zero, and solve the\nmystery to restore the Reploids'\nmissing souls!",
+  "release_date_on_eshop": "2014-09-11",
+  "product_code": "CTR-N-QA2P",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

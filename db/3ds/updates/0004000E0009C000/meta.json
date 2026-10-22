@@ -1,26 +1,26 @@
 {
-    "tid": "0004000E0009C000",
-    "uid": "50010000014652",
-    "name": "Shin Megami Tensei: Devil\nSurvivor Overclocked Patch",
-    "formal_name": "Shin Megami Tensei: Devil\nSurvivor Overclocked Patch",
-    "description": "Applying the update will address the following issues:\n<br/><br/>\n- The game will no longer freeze when summoning a demon during battle\n- The infrequent hang encountered during Auction House ‘Accidents’ has been removed\n- Text display errors have been corrected\n<br/><br/>\nOnce the update has been downloaded it will be installed automatically.  If the update has been successful “ver 1.1” will be displayed on the title screen after launching the game.\n<br/><br/>\nWe apologise for any inconvenience these issues may have caused and recommend downloading this update to make for an improved gaming experience.",
-    "release_date_on_eshop": "2013-05-28",
-    "product_code": "CTR-U-AMTP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0009C000",
+  "uid": "50010000014652",
+  "name": "Shin Megami Tensei: Devil\nSurvivor Overclocked Patch",
+  "formal_name": "Shin Megami Tensei: Devil\nSurvivor Overclocked Patch",
+  "description": "Applying the update will address the following issues:\n<br/><br/>\n- The game will no longer freeze when summoning a demon during battle\n- The infrequent hang encountered during Auction House ‘Accidents’ has been removed\n- Text display errors have been corrected\n<br/><br/>\nOnce the update has been downloaded it will be installed automatically.  If the update has been successful “ver 1.1” will be displayed on the title screen after launching the game.\n<br/><br/>\nWe apologise for any inconvenience these issues may have caused and recommend downloading this update to make for an improved gaming experience.",
+  "release_date_on_eshop": "2013-05-28",
+  "product_code": "CTR-U-AMTP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000E5600",
-    "uid": "50010000017895",
-    "name": "Christmas Wonderland 3",
-    "formal_name": "Christmas Wonderland 3",
-    "description": "Christmas Wonderland 3 is crammed\nfull of fabulous HOG scenes, lots of\ntruly superb puzzles for players of all\nages and Santa’s Interactive Advent\nCalendar. In this sensational Christmas\ngame, the Kids win the trip of a\nLifetime and ride the Wonderland\nExpress to the North Pole. They visit\nSanta’s Workshop, meet his Elves and\nRudolph. They ride a Skidoo to Town\nand see the Princess’s Ice Palace, the\nChurch and a Christmas Market.\nSuddenly it’s Christmas Eve. The Kids\nfly on Santa’s Sleigh, land on their\nfriend’s house before getting home.\nBut there is a BIG BIG SURPRISE\nwaiting!\n",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-N-JXMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Adventure",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E5600",
+  "uid": "50010000017895",
+  "name": "Christmas Wonderland 3",
+  "formal_name": "Christmas Wonderland 3",
+  "description": "Christmas Wonderland 3 is crammed\nfull of fabulous HOG scenes, lots of\ntruly superb puzzles for players of all\nages and Santa’s Interactive Advent\nCalendar. In this sensational Christmas\ngame, the Kids win the trip of a\nLifetime and ride the Wonderland\nExpress to the North Pole. They visit\nSanta’s Workshop, meet his Elves and\nRudolph. They ride a Skidoo to Town\nand see the Princess’s Ice Palace, the\nChurch and a Christmas Market.\nSuddenly it’s Christmas Eve. The Kids\nfly on Santa’s Sleigh, land on their\nfriend’s house before getting home.\nBut there is a BIG BIG SURPRISE\nwaiting!\n",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-N-JXMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

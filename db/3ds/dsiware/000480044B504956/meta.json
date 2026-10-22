@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B504956",
-    "uid": "50010000004702",
-    "name": "Pop+ Solo™",
-    "formal_name": "Pop+ Solo™",
-    "description": "Pop bubbles, build chains and try to\nkeep the timer alive in this addictive\npuzzle/shooter.<br>\n<br>\nPop your way through 16 waves of\nbubbles in Adventure, Normal or\nAdvanced. Test yourself against the\nclock in a 1, 2 or 5 minute run and\ntake on the new Bonus Round mode\nwhere each bonus round can be\nplayed in 3, 5 or 10 rounds of\nincreasing difficulty! Or just chill out\nin the relaxing Chill mode with no\nscore or time pressures to worry\nabout.<br>\n<br>\nPop+ Solo comes to the DSi with 8\nmodes and 5 bonus rounds plus\nplenty of new badges to collect!\nAdventure mode introduces some new\nelements to the game with mines,\ngolden fish and jets of water as well\nas 4 boss battles. The new Challenge\nmode lets you create and cutsomise\nyour own challenges to play again\nand again.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KPIV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504956",
+  "uid": "50010000004702",
+  "name": "Pop+ Solo™",
+  "formal_name": "Pop+ Solo™",
+  "description": "Pop bubbles, build chains and try to\nkeep the timer alive in this addictive\npuzzle/shooter.<br>\n<br>\nPop your way through 16 waves of\nbubbles in Adventure, Normal or\nAdvanced. Test yourself against the\nclock in a 1, 2 or 5 minute run and\ntake on the new Bonus Round mode\nwhere each bonus round can be\nplayed in 3, 5 or 10 rounds of\nincreasing difficulty! Or just chill out\nin the relaxing Chill mode with no\nscore or time pressures to worry\nabout.<br>\n<br>\nPop+ Solo comes to the DSi with 8\nmodes and 5 bonus rounds plus\nplenty of new badges to collect!\nAdventure mode introduces some new\nelements to the game with mines,\ngolden fish and jets of water as well\nas 4 boss battles. The new Challenge\nmode lets you create and cutsomise\nyour own challenges to play again\nand again.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KPIV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

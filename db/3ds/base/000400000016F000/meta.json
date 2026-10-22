@@ -1,28 +1,28 @@
 {
-    "tid": "000400000016F000",
-    "uid": "50010000036597",
-    "name": "Gotcha Racing™",
-    "formal_name": "Gotcha Racing™",
-    "description": "Enjoy the fast-paced action of a top-down racing game, but with a twist! All of the parts you use to make your car are dispensed by Capsule Machines! Therefore, when you start racing, you won't have the greatest car, but as you progress and gain access to better Capsule Machines, your car will become the envy of the racing world! The game uses both screens together when you race, so the tracks will appear huge on your Nintendo 3DS™, and even more so on your Nintendo 3DS XL! And you're free to customize your car any way you like! Try to make the ultimate, unbeatable car! Compete on 12 different tracks, race in Grand Prix races, and compete in 6 different racing grades! The game includes 6 grades of Capsule Machines, and even more special Capsule Machines you can unlock! You can even combine parts to raise their stats! In addition, you can use StreetPass to race against other players and receive new parts!",
-    "release_date_on_eshop": "2015-08-27",
-    "product_code": "CTR-N-JTQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Action"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000016F000",
+  "uid": "50010000036597",
+  "name": "Gotcha Racing™",
+  "formal_name": "Gotcha Racing™",
+  "description": "Enjoy the fast-paced action of a top-down racing game, but with a twist! All of the parts you use to make your car are dispensed by Capsule Machines! Therefore, when you start racing, you won't have the greatest car, but as you progress and gain access to better Capsule Machines, your car will become the envy of the racing world! The game uses both screens together when you race, so the tracks will appear huge on your Nintendo 3DS™, and even more so on your Nintendo 3DS XL! And you're free to customize your car any way you like! Try to make the ultimate, unbeatable car! Compete on 12 different tracks, race in Grand Prix races, and compete in 6 different racing grades! The game includes 6 grades of Capsule Machines, and even more special Capsule Machines you can unlock! You can even combine parts to raise their stats! In addition, you can use StreetPass to race against other players and receive new parts!",
+  "release_date_on_eshop": "2015-08-27",
+  "product_code": "CTR-N-JTQE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Action"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

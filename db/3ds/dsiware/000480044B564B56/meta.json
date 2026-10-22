@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B564B56",
-    "uid": "50010000006443",
-    "name": "Viking Invasion",
-    "formal_name": "Viking Invasion",
-    "description": "Coming from the north, Olaf the\nViking's comical horde is set to make\nwaves on your DSi!<br>\n<br>\nThe Viking drakkars are sailing up the\nrivers to your castles and it is up to\nyou to construct fortifications so they\ndo not pillage everything you own.\nBut watch out: the more you defend\nyourself, the greater the waves of\nVikings become. Fortunately the\nexperience you gain will help you to\nbuild even more powerful defences.\nThwart all your assailant’s ruses and\nunlock new kinds of buildings!<br>\n<br>\nCan you rise to the challenge and\nprevent Olaf from pillaging all your\nvaluables for his sweetheart Olga?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KVKV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B564B56",
+  "uid": "50010000006443",
+  "name": "Viking Invasion",
+  "formal_name": "Viking Invasion",
+  "description": "Coming from the north, Olaf the\nViking's comical horde is set to make\nwaves on your DSi!<br>\n<br>\nThe Viking drakkars are sailing up the\nrivers to your castles and it is up to\nyou to construct fortifications so they\ndo not pillage everything you own.\nBut watch out: the more you defend\nyourself, the greater the waves of\nVikings become. Fortunately the\nexperience you gain will help you to\nbuild even more powerful defences.\nThwart all your assailant’s ruses and\nunlock new kinds of buildings!<br>\n<br>\nCan you rise to the challenge and\nprevent Olaf from pillaging all your\nvaluables for his sweetheart Olga?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KVKV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

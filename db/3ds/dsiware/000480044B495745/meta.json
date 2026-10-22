@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B495745",
-    "uid": "50010000002426",
-    "name": "Inchworm Animation",
-    "formal_name": "Inchworm Animation",
-    "description": "Inchworm Animation is a full-featured paint and animation system for the Nintendo DSi system. After five years in development, Inchworm Animation lets you create mind-blowing digital paintings and animations in the palm of your hand.\n\nUse the Nintendo DSi Camera to record video, stop-motion animation, and time-lapse photography. Paint with transparency and smooth antialiased brushes. Create images up to 9999x9999 pixels! An easy-to-use pattern editor lets you make cool repeating patterns for use in your artwork. Other tools include onion skin, 6-level zoom, cut/paste/rotate, undo, and shape primitives.\n\nInchworm Animation's sophisticated layer system allows you to create structured animated scenes. Each layer can have its own independent frame loop. You can even draw on your animation as it plays! Comprehensive tutorials will show you the ropes. Export your finished masterpieces to an SD card as Flash (SWF) or BMP image sequences.",
-    "release_date_on_eshop": "2011-04-25",
-    "product_code": "TWL-N-KIWE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B495745",
+  "uid": "50010000002426",
+  "name": "Inchworm Animation",
+  "formal_name": "Inchworm Animation",
+  "description": "Inchworm Animation is a full-featured paint and animation system for the Nintendo DSi system. After five years in development, Inchworm Animation lets you create mind-blowing digital paintings and animations in the palm of your hand.\n\nUse the Nintendo DSi Camera to record video, stop-motion animation, and time-lapse photography. Paint with transparency and smooth antialiased brushes. Create images up to 9999x9999 pixels! An easy-to-use pattern editor lets you make cool repeating patterns for use in your artwork. Other tools include onion skin, 6-level zoom, cut/paste/rotate, undo, and shape primitives.\n\nInchworm Animation's sophisticated layer system allows you to create structured animated scenes. Each layer can have its own independent frame loop. You can even draw on your animation as it plays! Comprehensive tutorials will show you the ropes. Export your finished masterpieces to an SD card as Flash (SWF) or BMP image sequences.",
+  "release_date_on_eshop": "2011-04-25",
+  "product_code": "TWL-N-KIWE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000070400",
-    "uid": "50010000007311",
-    "name": "Balloon Fight™",
-    "formal_name": "Balloon Fight™",
-    "description": "Go up, up and away with this NES™\nclassic from the 1980s. In Balloon\nFight you have one simple mission:\npop or be popped!\n<br/><br/>\nBurst enemies' balloons from above,\nand hit them again before they have\ntime to re-inflate. Danger comes from\nthe sky or sea, too; watch out for\nlightning strikes and a very hungry\nfish.\n<br/><br/>\nBalloon Fight also features a\ntwo-player mode with cooperative and\ncompetitive play, plus a survival mode\ncalled Balloon Trip - which may be\nfamiliar to fans of Nintendo Land™!",
-    "release_date_on_eshop": "2013-05-02",
-    "product_code": "CTR-N-TALP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000070400",
+  "uid": "50010000007311",
+  "name": "Balloon Fight™",
+  "formal_name": "Balloon Fight™",
+  "description": "Go up, up and away with this NES™\nclassic from the 1980s. In Balloon\nFight you have one simple mission:\npop or be popped!\n<br/><br/>\nBurst enemies' balloons from above,\nand hit them again before they have\ntime to re-inflate. Danger comes from\nthe sky or sea, too; watch out for\nlightning strikes and a very hungry\nfish.\n<br/><br/>\nBalloon Fight also features a\ntwo-player mode with cooperative and\ncompetitive play, plus a survival mode\ncalled Balloon Trip - which may be\nfamiliar to fans of Nintendo Land™!",
+  "release_date_on_eshop": "2013-05-02",
+  "product_code": "CTR-N-TALP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

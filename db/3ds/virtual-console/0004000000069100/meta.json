@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000069100",
-    "uid": "50010000010186",
-    "name": "Kirby's Block Ball™",
-    "formal_name": "Kirby's Block Ball™",
-    "description": "Kirby™ is back again and takes center stage in this frenzied, block-clearing free-for-all. Use the paddles on the four sides of the screen to bounce Kirby around to destroy the blocks and enemies. By destroying the blocks, you clear the stages and obtain special power-ups to aid you in your quest. Establish the high score on each stage to open up the final level and face Kirby's archnemesis, King Dedede. With multiple abilities, screens, and stages, this game is sure to put your skills to the test.",
-    "release_date_on_eshop": "2012-05-17",
-    "product_code": "CTR-N-RBKE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000069100",
+  "uid": "50010000010186",
+  "name": "Kirby's Block Ball™",
+  "formal_name": "Kirby's Block Ball™",
+  "description": "Kirby™ is back again and takes center stage in this frenzied, block-clearing free-for-all. Use the paddles on the four sides of the screen to bounce Kirby around to destroy the blocks and enemies. By destroying the blocks, you clear the stages and obtain special power-ups to aid you in your quest. Establish the high score on each stage to open up the final level and face Kirby's archnemesis, King Dedede. With multiple abilities, screens, and stages, this game is sure to put your skills to the test.",
+  "release_date_on_eshop": "2012-05-17",
+  "product_code": "CTR-N-RBKE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E0010E200",
-    "uid": "50010000028755",
-    "name": "更新データ Ver. 1.2\nFINAL FANTASY EXPLORERS",
-    "formal_name": "更新データ Ver. 1.2\nFINAL FANTASY EXPLORERS",
-    "description": "ニンテンドー3DSソフト『FINAL FANTASY EXPLORERS』のインターネット通信プレイ時に必要な更新データです。\nゲームを快適に遊んでいただけるよう、いくつかの問題を修正しました。\n『FINAL FANTASY EXPLORERS』をお持ちのお客様は、必ずダウンロードしてください。\n\n※更新データ（Ver. 1.2）をダウンロードすると、更新データをお使いでない方とはローカル通信プレイができなくなります。\n※インターネット通信プレイを行うためには、更新データ（Ver. 1.2）が必須となります。",
-    "release_date_on_eshop": "2015-03-04",
-    "product_code": "CTR-U-BCEJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.3.0",
-    "disclaimer": "ニンテンドー3DSソフト『FINAL FANTASY EXPLORERS』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E0010E200",
+  "uid": "50010000028755",
+  "name": "更新データ Ver. 1.2\nFINAL FANTASY EXPLORERS",
+  "formal_name": "更新データ Ver. 1.2\nFINAL FANTASY EXPLORERS",
+  "description": "ニンテンドー3DSソフト『FINAL FANTASY EXPLORERS』のインターネット通信プレイ時に必要な更新データです。\nゲームを快適に遊んでいただけるよう、いくつかの問題を修正しました。\n『FINAL FANTASY EXPLORERS』をお持ちのお客様は、必ずダウンロードしてください。\n\n※更新データ（Ver. 1.2）をダウンロードすると、更新データをお使いでない方とはローカル通信プレイができなくなります。\n※インターネット通信プレイを行うためには、更新データ（Ver. 1.2）が必須となります。",
+  "release_date_on_eshop": "2015-03-04",
+  "product_code": "CTR-U-BCEJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v2.3.0",
+  "disclaimer": "ニンテンドー3DSソフト『FINAL FANTASY EXPLORERS』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

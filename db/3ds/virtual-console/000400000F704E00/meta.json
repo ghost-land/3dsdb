@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F704E00",
-    "uid": "50010000041457",
-    "name": "Final Fight 3™",
-    "formal_name": "Final Fight 3™",
-    "description": "The Mad Gear gang has been\n<br>defeated, but a new group known as\n<br>Skull Cross has risen from the ashes,\n<br>sparking a fresh crime wave in Metro\n<br>City.\n<br>\n<br>Mayor Mike Haggar and Guy prepare\n<br>to take them on with Cody's old\n<br>friend, Lucia. Joining them is Dean, a\n<br>mystery man with a grudge. Together\n<br>they vow to bring Skull Cross down!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-09-08",
-    "product_code": "KTR-N-UA7E",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F704E00",
+  "uid": "50010000041457",
+  "name": "Final Fight 3™",
+  "formal_name": "Final Fight 3™",
+  "description": "The Mad Gear gang has been\n<br>defeated, but a new group known as\n<br>Skull Cross has risen from the ashes,\n<br>sparking a fresh crime wave in Metro\n<br>City.\n<br>\n<br>Mayor Mike Haggar and Guy prepare\n<br>to take them on with Cody's old\n<br>friend, Lucia. Joining them is Dean, a\n<br>mystery man with a grudge. Together\n<br>they vow to bring Skull Cross down!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-09-08",
+  "product_code": "KTR-N-UA7E",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

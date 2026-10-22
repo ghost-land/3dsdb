@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000E9900",
-    "uid": "50010000014235",
-    "name": "3D ソニック･ザ･ヘッジホッグ",
-    "formal_name": "3D ソニック･ザ･ヘッジホッグ",
-    "description": "音速ヒーロー･ソニックの華麗なるデビュー作が、3D立体視に完全対応して登場! おなじみの画面が立体視に対応したことで、より迫力ある新鮮な世界に! 新たにスピンダッシュアクションが加わったほか、ゲーム途中のセーブやステージセレクト機能も標準装備したので、どなたでもお気軽にお楽しみいただけます。",
-    "release_date_on_eshop": "2013-05-15",
-    "product_code": "CTR-N-JHJJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E9900",
+  "uid": "50010000014235",
+  "name": "3D ソニック･ザ･ヘッジホッグ",
+  "formal_name": "3D ソニック･ザ･ヘッジホッグ",
+  "description": "音速ヒーロー･ソニックの華麗なるデビュー作が、3D立体視に完全対応して登場! おなじみの画面が立体視に対応したことで、より迫力ある新鮮な世界に! 新たにスピンダッシュアクションが加わったほか、ゲーム途中のセーブやステージセレクト機能も標準装備したので、どなたでもお気軽にお楽しみいただけます。",
+  "release_date_on_eshop": "2013-05-15",
+  "product_code": "CTR-N-JHJJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

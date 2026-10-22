@@ -1,29 +1,29 @@
 {
-    "tid": "000400000014DB00",
-    "uid": "50010000038756",
-    "name": "Rytmik Ultimate",
-    "formal_name": "Rytmik Ultimate",
-    "description": "Rytmik is a powerful pocket music station allowing you not only to play with samples and musical instruments but also to mix them together, shape them and create music clips or tracks for your Friday night set-list.\n<br><br>\nThanks to new features, Rytmik Ultimate takes music creation to a whole new level.\nEvery instrument is now a wavetable synthesizer.\n<br><br>\nWith the advanced effect module, you have more power to shape sounds with the ADSR envelope, vibrato, portamento, noise shaper, or digital delay.\n<br><br>\nIn addition to that, the drawable waveform synth module allows users to draw and modify their own wave and use it as a sample oscillator – with that you can use Rytmik Ultimate as a sonically unique chiptune synthesizer.\n<br><br>\nRytmik Ultimate comes with a sound library of more than 750 instruments.\nOnce your work is complete, you can save it in WAV format.\nRytmik allows you to share your songs with other users through the Rytmik Cloud.",
-    "release_date_on_eshop": "2015-12-10",
-    "product_code": "CTR-N-KRUE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Music"
-    ],
-    "features": [
-        "Supports Online Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nTo have acces to Rytmik Cloud you must agree to the software license agreement.",
-    "descriptors": []
+  "tid": "000400000014DB00",
+  "uid": "50010000038756",
+  "name": "Rytmik Ultimate",
+  "formal_name": "Rytmik Ultimate",
+  "description": "Rytmik is a powerful pocket music station allowing you not only to play with samples and musical instruments but also to mix them together, shape them and create music clips or tracks for your Friday night set-list.\n<br><br>\nThanks to new features, Rytmik Ultimate takes music creation to a whole new level.\nEvery instrument is now a wavetable synthesizer.\n<br><br>\nWith the advanced effect module, you have more power to shape sounds with the ADSR envelope, vibrato, portamento, noise shaper, or digital delay.\n<br><br>\nIn addition to that, the drawable waveform synth module allows users to draw and modify their own wave and use it as a sample oscillator – with that you can use Rytmik Ultimate as a sonically unique chiptune synthesizer.\n<br><br>\nRytmik Ultimate comes with a sound library of more than 750 instruments.\nOnce your work is complete, you can save it in WAV format.\nRytmik allows you to share your songs with other users through the Rytmik Cloud.",
+  "release_date_on_eshop": "2015-12-10",
+  "product_code": "CTR-N-KRUE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Music"
+  ],
+  "features": [
+    "Supports Online Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nTo have acces to Rytmik Cloud you must agree to the software license agreement.",
+  "descriptors": []
 }

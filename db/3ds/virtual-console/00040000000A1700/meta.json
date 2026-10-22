@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000A1700",
-    "uid": "50010000014812",
-    "name": "Mega Man™ 6",
-    "formal_name": "Mega Man™ 6",
-    "description": "The first Annual Robot Tournament\nwas going well – until the mysterious\nMr. X took the top eight robots to\nconquer the world. Enter Mega Man\nto save the day!\n<br/><br/>\nMega Man 6 was the last of the\nseries to be released on NES™, and it\ngoes out with a bang! Battle through\neight new stages and defeat the boss\nin each, to take its power for yourself.\n<br/><br/>\nAlso, adaptors allow Mega Man and\ncybernetic canine Rush, to combine\nand become Jet Mega Man or Power\nMega Man, to fly and perform power\npunches.",
-    "release_date_on_eshop": "2013-06-11",
-    "product_code": "CTR-N-TBFP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A1700",
+  "uid": "50010000014812",
+  "name": "Mega Man™ 6",
+  "formal_name": "Mega Man™ 6",
+  "description": "The first Annual Robot Tournament\nwas going well – until the mysterious\nMr. X took the top eight robots to\nconquer the world. Enter Mega Man\nto save the day!\n<br/><br/>\nMega Man 6 was the last of the\nseries to be released on NES™, and it\ngoes out with a bang! Battle through\neight new stages and defeat the boss\nin each, to take its power for yourself.\n<br/><br/>\nAlso, adaptors allow Mega Man and\ncybernetic canine Rush, to combine\nand become Jet Mega Man or Power\nMega Man, to fly and perform power\npunches.",
+  "release_date_on_eshop": "2013-06-11",
+  "product_code": "CTR-N-TBFP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

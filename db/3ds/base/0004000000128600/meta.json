@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000128600",
-    "uid": "50010000023955",
-    "name": "BIKE RIDER DX2: GALAXY",
-    "formal_name": "BIKE RIDER DX2: GALAXY",
-    "description": "Offers in-game purchases\n<br><br>\nBIKE RIDER DX2: GALAXY takes you on a crazy ride to space, travelling 12 different planets based on the zodiac signs in the GALAXY TOUR.\n<br><br>\nA set of power-up items will grant you special abilities, like turning your little rider into a funky frog or letting you freely fly around the stage, while each course is full of dangerous gimmicks such as lasers, spiked blocks or giant whirlwinds. \n<br><br>\nFurthermore, the GRAND PRIX mode lets you challenge players all over the world in an endless random parcour featuring all gimmicks in the whole game. And if that's not enough, a free to download SPECIAL STAGE will shoot you to the moon!",
-    "release_date_on_eshop": "2014-07-03",
-    "product_code": "CTR-N-JGYE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Arcade",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
-    "descriptors": []
+  "tid": "0004000000128600",
+  "uid": "50010000023955",
+  "name": "BIKE RIDER DX2: GALAXY",
+  "formal_name": "BIKE RIDER DX2: GALAXY",
+  "description": "Offers in-game purchases\n<br><br>\nBIKE RIDER DX2: GALAXY takes you on a crazy ride to space, travelling 12 different planets based on the zodiac signs in the GALAXY TOUR.\n<br><br>\nA set of power-up items will grant you special abilities, like turning your little rider into a funky frog or letting you freely fly around the stage, while each course is full of dangerous gimmicks such as lasers, spiked blocks or giant whirlwinds. \n<br><br>\nFurthermore, the GRAND PRIX mode lets you challenge players all over the world in an endless random parcour featuring all gimmicks in the whole game. And if that's not enough, a free to download SPECIAL STAGE will shoot you to the moon!",
+  "release_date_on_eshop": "2014-07-03",
+  "product_code": "CTR-N-JGYE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Arcade",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
+  "descriptors": []
 }

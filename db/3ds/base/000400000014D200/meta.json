@@ -1,31 +1,31 @@
 {
-    "tid": "000400000014D200",
-    "uid": "50010000027115",
-    "name": "PICROSS e5",
-    "formal_name": "PICROSS e5",
-    "description": "The 5th game in the Picross e series,\nwith a Navigation Feature!\n<br/>\nFeaturing Micross, Mega Picross and\n20×15 Picross, all three modes from\nthe previous game.\n<br/>\nAlso includes more than 150\nsatisfying, all-new puzzles to solve.\n<br/>\nTutorials and rule options let\nnewcomers to the series start playing\nwith ease.\n<br/>\nPicross is a \"Picture Crossword\nPuzzle Game\" where numbers act as\nhints to complete images.\n<br/>\nThe rules are simple and easy to\ngrasp. Anyone can do it!",
-    "release_date_on_eshop": "2014-11-13",
-    "product_code": "CTR-N-KPQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000014D200",
+  "uid": "50010000027115",
+  "name": "PICROSS e5",
+  "formal_name": "PICROSS e5",
+  "description": "The 5th game in the Picross e series,\nwith a Navigation Feature!\n<br/>\nFeaturing Micross, Mega Picross and\n20×15 Picross, all three modes from\nthe previous game.\n<br/>\nAlso includes more than 150\nsatisfying, all-new puzzles to solve.\n<br/>\nTutorials and rule options let\nnewcomers to the series start playing\nwith ease.\n<br/>\nPicross is a \"Picture Crossword\nPuzzle Game\" where numbers act as\nhints to complete images.\n<br/>\nThe rules are simple and easy to\ngrasp. Anyone can do it!",
+  "release_date_on_eshop": "2014-11-13",
+  "product_code": "CTR-N-KPQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

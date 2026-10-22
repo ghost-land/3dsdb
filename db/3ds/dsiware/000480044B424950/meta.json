@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B424950",
-    "uid": "50010000002382",
-    "name": "Biorhythm",
-    "formal_name": "Biorhythm",
-    "description": "This application primarily simulates an\nelectronic device for the calculation of\nbiorhythms. Users can have a\nmomentary value of mental, emotional\nand physical curves calculated and\ntheir diagrams displayed or ascertain\ntheir values for any given date. This\napplication also allows them to\ndetermine a percentage of partnership\nharmony and contains a hidden game\nas a bonus.<br>\n<br>\nBiorhythm models use three cycles: a\n23-day \"physical\" cycle, a 28-day\n\"emotional\" cycle, and a 33-day\n\"intellectual\" cycle. Each of these\ncycles varies in a sine wave pattern\nbetween high and low extremes, with\ndays where the cycle crosses the zero\nline described as \"critical days\" of\ngreater risk or uncertainty.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KBIP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B424950",
+  "uid": "50010000002382",
+  "name": "Biorhythm",
+  "formal_name": "Biorhythm",
+  "description": "This application primarily simulates an\nelectronic device for the calculation of\nbiorhythms. Users can have a\nmomentary value of mental, emotional\nand physical curves calculated and\ntheir diagrams displayed or ascertain\ntheir values for any given date. This\napplication also allows them to\ndetermine a percentage of partnership\nharmony and contains a hidden game\nas a bonus.<br>\n<br>\nBiorhythm models use three cycles: a\n23-day \"physical\" cycle, a 28-day\n\"emotional\" cycle, and a 33-day\n\"intellectual\" cycle. Each of these\ncycles varies in a sine wave pattern\nbetween high and low extremes, with\ndays where the cycle crosses the zero\nline described as \"critical days\" of\ngreater risk or uncertainty.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KBIP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

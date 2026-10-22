@@ -1,27 +1,27 @@
 {
-    "tid": "000400000017CE00",
-    "uid": "50010000038718",
-    "name": "Japanese Rail Sim 3D\nJourney to Kyoto",
-    "formal_name": "Japanese Rail Sim 3D\nJourney to Kyoto",
-    "description": "Fun and easy to play railway\nsimulation!<br/>\nEnjoy the beautiful autumn colors\nin 3D.\n<br/><br/>\nThe game is set on the Eizan Electric\nRailway which travels around the\nancient capital of Kyoto. The scenery\nfrom the driver’s point of view is\nreproduced in intense 3D images. You\nwill enjoy driving a 900-type “Kirara”\non your railway journey from the\nsuburban Demachiyanagi Station to\nthe mountainous Kurama Station.\n<br/><br/>\nYou will pass through the popular\ntourist spot the “Momiji no Tonneru\n(tunnel)” where the branches of maple\ntrees overlap to create a tunnel of\nbright autumn colors.\n<br/><br/>\nBoth a ‘Day Mode’ and a ‘Night\nMode’ are available, so you can enjoy\nthe various atmospheres as you drive.\n<br/><br/>\nBy getting high scores in the game,\nyou can see information about the\nmany tourist spots along the track\nsuch as the Shimogamo-jinja Shrine\nand the Kifune-jinja Shrine, and feel\nlike you’re actually visiting Kyoto.",
-    "release_date_on_eshop": "2015-12-24",
-    "product_code": "CTR-N-BEDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017CE00",
+  "uid": "50010000038718",
+  "name": "Japanese Rail Sim 3D\nJourney to Kyoto",
+  "formal_name": "Japanese Rail Sim 3D\nJourney to Kyoto",
+  "description": "Fun and easy to play railway\nsimulation!<br/>\nEnjoy the beautiful autumn colors\nin 3D.\n<br/><br/>\nThe game is set on the Eizan Electric\nRailway which travels around the\nancient capital of Kyoto. The scenery\nfrom the driver’s point of view is\nreproduced in intense 3D images. You\nwill enjoy driving a 900-type “Kirara”\non your railway journey from the\nsuburban Demachiyanagi Station to\nthe mountainous Kurama Station.\n<br/><br/>\nYou will pass through the popular\ntourist spot the “Momiji no Tonneru\n(tunnel)” where the branches of maple\ntrees overlap to create a tunnel of\nbright autumn colors.\n<br/><br/>\nBoth a ‘Day Mode’ and a ‘Night\nMode’ are available, so you can enjoy\nthe various atmospheres as you drive.\n<br/><br/>\nBy getting high scores in the game,\nyou can see information about the\nmany tourist spots along the track\nsuch as the Shimogamo-jinja Shrine\nand the Kifune-jinja Shrine, and feel\nlike you’re actually visiting Kyoto.",
+  "release_date_on_eshop": "2015-12-24",
+  "product_code": "CTR-N-BEDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

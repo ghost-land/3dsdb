@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000DDA00",
-    "uid": "50010000023656",
-    "name": "Hidden Expedition Titanic",
-    "formal_name": "Hidden Expedition Titanic",
-    "description": "On April 14, 1912 the massive ship, RMS Titanic, collided with an iceberg and sank within three hours. The remains of the ship have been investigated several times, but many mysteries still remain hidden in the depths of the dark wreck.\n<br>\n<br>You have now been assigned a mission to explore it! Descend to the ocean bed and discover the fantastic secrets waiting to be revealed in this once majestic ship. Conduct your research over 14 missions in 17 locations and try to unveil the secrets of the Titanic.\n<br>\n<br>Can you find the crown?",
-    "release_date_on_eshop": "2014-06-26",
-    "product_code": "CTR-N-AASE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000DDA00",
+  "uid": "50010000023656",
+  "name": "Hidden Expedition Titanic",
+  "formal_name": "Hidden Expedition Titanic",
+  "description": "On April 14, 1912 the massive ship, RMS Titanic, collided with an iceberg and sank within three hours. The remains of the ship have been investigated several times, but many mysteries still remain hidden in the depths of the dark wreck.\n<br>\n<br>You have now been assigned a mission to explore it! Descend to the ocean bed and discover the fantastic secrets waiting to be revealed in this once majestic ship. Conduct your research over 14 missions in 17 locations and try to unveil the secrets of the Titanic.\n<br>\n<br>Can you find the crown?",
+  "release_date_on_eshop": "2014-06-26",
+  "product_code": "CTR-N-AASE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

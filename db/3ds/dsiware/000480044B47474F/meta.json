@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B47474F",
-    "uid": "50010000003601",
-    "name": "Game & Watch™\nFlagman",
-    "formal_name": "Game & Watch™\nFlagman",
-    "description": "Experience a piece of Nintendo history with the Game & Watch series for Nintendo DSiWare. Each title is a perfect recreation of a classic LCD game from the early 1980s, including normal Game A and alternate Game B modes.<br>\n<br>\nAnd no Game & Watch title would be complete without the \"Watch\" function - each title includes a fully functional clock.<br>\n<br>\nFlagman will challenge your memory and reflexes, as you try and remember a series of numbers in quick succession. In Game A, memorise the Flagman's sequence shown on his flags and on the bottom of his feet, within a set time. In Game B, repeat the number shown one at a time, but do it quickly!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KGGO",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B47474F",
+  "uid": "50010000003601",
+  "name": "Game & Watch™\nFlagman",
+  "formal_name": "Game & Watch™\nFlagman",
+  "description": "Experience a piece of Nintendo history with the Game & Watch series for Nintendo DSiWare. Each title is a perfect recreation of a classic LCD game from the early 1980s, including normal Game A and alternate Game B modes.<br>\n<br>\nAnd no Game & Watch title would be complete without the \"Watch\" function - each title includes a fully functional clock.<br>\n<br>\nFlagman will challenge your memory and reflexes, as you try and remember a series of numbers in quick succession. In Game A, memorise the Flagman's sequence shown on his flags and on the bottom of his feet, within a set time. In Game B, repeat the number shown one at a time, but do it quickly!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KGGO",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

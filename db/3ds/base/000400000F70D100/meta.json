@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70D100",
-    "uid": "50010000043996",
-    "name": "GALAXY BLASTER CODE RED",
-    "formal_name": "GALAXY BLASTER CODE RED",
-    "description": "In GALAXY BLASTER CODE RED, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
-    "release_date_on_eshop": "2017-11-02",
-    "product_code": "KTR-N-CB2P",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Shooter",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70D100",
+  "uid": "50010000043996",
+  "name": "GALAXY BLASTER CODE RED",
+  "formal_name": "GALAXY BLASTER CODE RED",
+  "description": "In GALAXY BLASTER CODE RED, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
+  "release_date_on_eshop": "2017-11-02",
+  "product_code": "KTR-N-CB2P",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Shooter",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

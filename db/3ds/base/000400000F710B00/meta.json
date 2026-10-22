@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F710B00",
-    "uid": "50010000045315",
-    "name": "Vera Swings",
-    "formal_name": "Vera Swings",
-    "description": "After falling asleep while gazing at the moon, Vera dreams about swinging on the stars up to the magical place she’s always longed to visit. \n<br>\n<br>Help Vera reach the moon by swinging up the stars in this simple yet challenging platformer. Time your swings just right to catch the colorful stars and touch the glowing checkpoint to unlock the next level up. Hone your timing and precision skills as you swing from platform to platform and climb higher through the sky to make Vera’s dream come true!",
-    "release_date_on_eshop": "2019-02-07",
-    "product_code": "KTR-N-CEVE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Adventure",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.4.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F710B00",
+  "uid": "50010000045315",
+  "name": "Vera Swings",
+  "formal_name": "Vera Swings",
+  "description": "After falling asleep while gazing at the moon, Vera dreams about swinging on the stars up to the magical place she’s always longed to visit. \n<br>\n<br>Help Vera reach the moon by swinging up the stars in this simple yet challenging platformer. Time your swings just right to catch the colorful stars and touch the glowing checkpoint to unlock the next level up. Hone your timing and precision skills as you swing from platform to platform and climb higher through the sky to make Vera’s dream come true!",
+  "release_date_on_eshop": "2019-02-07",
+  "product_code": "KTR-N-CEVE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Adventure",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.4.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

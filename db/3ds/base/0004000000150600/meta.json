@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000150600",
-    "uid": "50010000033015",
-    "name": "KAROUS - THE BEAST OF\n<br>RE:EDEN - ",
-    "formal_name": "KAROUS - THE BEAST OF RE:EDEN - ",
-    "description": "Two sisters escape their fate as research subjects and fight to survive using aircrafts of war.\n<br>\n<br>Karous -The Beast of Re:Eden- is a 3D vertical shoot 'em up game. This game allows players to design their own aircraft by letting them choose which weapons and items they take with them into battle.\n<br>\n<br>The player's aircraft can use shields, different shots, bombs, and swords. Each of these will also level up the more they're used and increase in power. Additional weapons and items will unlock as the player progresses, as well.\n<br>\n<br>Karous -The Beast of Re:Eden- features over 100 missions to complete along with a number of achievements in addition to boss battles.\n<br>\n<br>Unlike other, traditional shooting games, Karous' mission system gives the player the freedom to follow multiple, branching paths which can lead to different endings.",
-    "release_date_on_eshop": "2015-04-30",
-    "product_code": "CTR-N-BKEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
-    "descriptors": []
+  "tid": "0004000000150600",
+  "uid": "50010000033015",
+  "name": "KAROUS - THE BEAST OF\n<br>RE:EDEN - ",
+  "formal_name": "KAROUS - THE BEAST OF RE:EDEN - ",
+  "description": "Two sisters escape their fate as research subjects and fight to survive using aircrafts of war.\n<br>\n<br>Karous -The Beast of Re:Eden- is a 3D vertical shoot 'em up game. This game allows players to design their own aircraft by letting them choose which weapons and items they take with them into battle.\n<br>\n<br>The player's aircraft can use shields, different shots, bombs, and swords. Each of these will also level up the more they're used and increase in power. Additional weapons and items will unlock as the player progresses, as well.\n<br>\n<br>Karous -The Beast of Re:Eden- features over 100 missions to complete along with a number of achievements in addition to boss battles.\n<br>\n<br>Unlike other, traditional shooting games, Karous' mission system gives the player the freedom to follow multiple, branching paths which can lead to different endings.",
+  "release_date_on_eshop": "2015-04-30",
+  "product_code": "CTR-N-BKEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
+  "descriptors": []
 }

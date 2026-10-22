@@ -1,39 +1,39 @@
 {
-    "tid": "00040000001B2900",
-    "uid": "50010000042081",
-    "name": "YO-KAI WATCH® 2:\nPsychic Specters",
-    "formal_name": "YO-KAI WATCH® 2:\n<br>Psychic Specters",
-    "description": "If you purchase the downloadable version of YO-KAI WATCH 2: Psychic Specters, you can get a special in-game item that lets you encounter Machonyan in the game and have a chance to befriend him.\n<br>\n<br>Get ready for the ultimate journey into the mysterious and mischievous world of the Yo-kai in YO-KAI WATCH® 2: Psychic Specters!\n<br>\n<br>Providing the full YO-KAI WATCH® 2 game experience, but packed with new features and content, YO-KAI WATCH® 2: Psychic Specters offers a wealth of enjoyment, charm and mystery for both newcomers and existing Yo-kai fans alike.\n<br>\n<br>In addition to all of the content from both YO-KAI WATCH® 2: Bony Spirits and YO-KAI WATCH® 2: Fleshy Souls, YO-KAI WATCH® 2: Psychic Specters offers:\n<br>\n<br>- 12 brand new quests, including one that delves into the origins of the mysterious Darknyan\n<br>- The chance to befriend 15 Wicked Yo-kai, who have previously only appeared as adversaries\n<br>- Exclusive dungeons for owners of Bony Spirits and Fleshy Souls – players with save data from one or both of the previous versions can access new dungeons to fight special bosses and befriend exclusive Yo-kai\n<br>- New locations to explore, including the fantastical Gera-Gera Resort\n<br>- An expanded version of the Yo-kai Watch Blasters local co-op mode, with powerful new bosses to defeat",
-    "release_date_on_eshop": "2017-09-29",
-    "product_code": "CTR-P-BYSP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B2900",
+  "uid": "50010000042081",
+  "name": "YO-KAI WATCH® 2:\nPsychic Specters",
+  "formal_name": "YO-KAI WATCH® 2:\n<br>Psychic Specters",
+  "description": "If you purchase the downloadable version of YO-KAI WATCH 2: Psychic Specters, you can get a special in-game item that lets you encounter Machonyan in the game and have a chance to befriend him.\n<br>\n<br>Get ready for the ultimate journey into the mysterious and mischievous world of the Yo-kai in YO-KAI WATCH® 2: Psychic Specters!\n<br>\n<br>Providing the full YO-KAI WATCH® 2 game experience, but packed with new features and content, YO-KAI WATCH® 2: Psychic Specters offers a wealth of enjoyment, charm and mystery for both newcomers and existing Yo-kai fans alike.\n<br>\n<br>In addition to all of the content from both YO-KAI WATCH® 2: Bony Spirits and YO-KAI WATCH® 2: Fleshy Souls, YO-KAI WATCH® 2: Psychic Specters offers:\n<br>\n<br>- 12 brand new quests, including one that delves into the origins of the mysterious Darknyan\n<br>- The chance to befriend 15 Wicked Yo-kai, who have previously only appeared as adversaries\n<br>- Exclusive dungeons for owners of Bony Spirits and Fleshy Souls – players with save data from one or both of the previous versions can access new dungeons to fight special bosses and befriend exclusive Yo-kai\n<br>- New locations to explore, including the fantastical Gera-Gera Resort\n<br>- An expanded version of the Yo-kai Watch Blasters local co-op mode, with powerful new bosses to defeat",
+  "release_date_on_eshop": "2017-09-29",
+  "product_code": "CTR-P-BYSP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

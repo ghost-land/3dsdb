@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B584B50",
-    "uid": "50010000012910",
-    "name": "Goony",
-    "formal_name": "Goony",
-    "description": "Goony is a one-button arcade game\nfor casual and core gamers. You\ncontrol Goony, a jelly-like creature,\nwho is running down a road with\nhazardous obstacles. The goal of the\ngame is to stay alive for as long as\npossible. If you fall off the road or fall\nfrom a high place, you lose the game.\nGoony is constantly on the move. He\ngoes either left or right. You can\nswitch the direction by simply pressing\nthe Control Pad. You can switch the\ndirection by simply pressing the DSi\nbutton.\n<br/><br/>\nSpecial blocks, which can help you,\nare scattered across the playfield. The\nplayfield is infinitely long and lasts\nuntil you make a mistake. The number\nof steps you took is your final score.\n<br/><br/>\nFeatures:\n<br/><br/>\n- Randomly generated, infinitely\nlong playfield\n<br/><br/>\n- Draw your own blocks using the\nbuilt-in Block editor\n<br/><br/>\n- Exchange user generated blocks\nlocally or online via QR Code\n<br/><br/>\n- Race against a buddy on the same\nsystem in multiplayer mode",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KXKP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.6.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584B50",
+  "uid": "50010000012910",
+  "name": "Goony",
+  "formal_name": "Goony",
+  "description": "Goony is a one-button arcade game\nfor casual and core gamers. You\ncontrol Goony, a jelly-like creature,\nwho is running down a road with\nhazardous obstacles. The goal of the\ngame is to stay alive for as long as\npossible. If you fall off the road or fall\nfrom a high place, you lose the game.\nGoony is constantly on the move. He\ngoes either left or right. You can\nswitch the direction by simply pressing\nthe Control Pad. You can switch the\ndirection by simply pressing the DSi\nbutton.\n<br/><br/>\nSpecial blocks, which can help you,\nare scattered across the playfield. The\nplayfield is infinitely long and lasts\nuntil you make a mistake. The number\nof steps you took is your final score.\n<br/><br/>\nFeatures:\n<br/><br/>\n- Randomly generated, infinitely\nlong playfield\n<br/><br/>\n- Draw your own blocks using the\nbuilt-in Block editor\n<br/><br/>\n- Exchange user generated blocks\nlocally or online via QR Code\n<br/><br/>\n- Race against a buddy on the same\nsystem in multiplayer mode",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KXKP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.6.0",
+  "disclaimer": null,
+  "descriptors": []
 }

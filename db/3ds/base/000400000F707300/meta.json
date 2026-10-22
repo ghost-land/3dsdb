@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F707300",
-    "uid": "50010000041257",
-    "name": "BRICK RACE",
-    "formal_name": "BRICK RACE",
-    "description": "Time to RACE! In BRICK RACE quickly turn left or right to dodge traffic and collect a HIGH SCORE! Easy pick-up and play action that everyone can enjoy. Endless fun on the go! Grab a high-score, then share it on Miiverse™ with the community to see how it stacks up.",
-    "release_date_on_eshop": "2016-08-18",
-    "product_code": "KTR-N-CBEP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Racing",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F707300",
+  "uid": "50010000041257",
+  "name": "BRICK RACE",
+  "formal_name": "BRICK RACE",
+  "description": "Time to RACE! In BRICK RACE quickly turn left or right to dodge traffic and collect a HIGH SCORE! Easy pick-up and play action that everyone can enjoy. Endless fun on the go! Grab a high-score, then share it on Miiverse™ with the community to see how it stacks up.",
+  "release_date_on_eshop": "2016-08-18",
+  "product_code": "KTR-N-CBEP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Racing",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

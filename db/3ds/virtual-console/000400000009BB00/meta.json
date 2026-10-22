@@ -1,25 +1,25 @@
 {
-    "tid": "000400000009BB00",
-    "uid": "50010000014433",
-    "name": "Shining Force™: The Sword of Hajya",
-    "formal_name": "Shining Force™: The Sword of Hajya",
-    "description": "The peaceful Kingdom of Cypress has\nbeen disrupted by the corrupt ambition\nof the evil King Iom. Terror rampages\nacross the land as the Castle of\nCypress is invaded and the magical\nSword of Hajya is taken! It will take\nstrength, courage, agility and your\nkeen sense of strategy to defy this\nominous power and bring peace back\nto the land.\n\n",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-GASP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009BB00",
+  "uid": "50010000014433",
+  "name": "Shining Force™: The Sword of Hajya",
+  "formal_name": "Shining Force™: The Sword of Hajya",
+  "description": "The peaceful Kingdom of Cypress has\nbeen disrupted by the corrupt ambition\nof the evil King Iom. Terror rampages\nacross the land as the Castle of\nCypress is invaded and the magical\nSword of Hajya is taken! It will take\nstrength, courage, agility and your\nkeen sense of strategy to defy this\nominous power and bring peace back\nto the land.\n\n",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-GASP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

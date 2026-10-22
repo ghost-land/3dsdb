@@ -1,27 +1,27 @@
 {
-    "tid": "000400000009C200",
-    "uid": "50010000014914",
-    "name": "Defenders of Oasis™",
-    "formal_name": "Defenders of Oasis™",
-    "description": "Once captured by heroes of a bygone era, the foul wizard Ahriman has been summoned by dark forces and his armies now threaten to ravage the peaceful land of Shanadar. As the prince of the kingdom, rally powerful allies to your side and lead them onward to repel Ahriman’s forces throughout the kingdom in this classic Japanese role playing adventure.\n<br><br>\nRecruit unique allies such as a princess, genie, and thief!<br>\nFight enemies to gain strength and upgrade your heroes’ weapons and armor in order to fight Ahriman.",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-N-GAJE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009C200",
+  "uid": "50010000014914",
+  "name": "Defenders of Oasis™",
+  "formal_name": "Defenders of Oasis™",
+  "description": "Once captured by heroes of a bygone era, the foul wizard Ahriman has been summoned by dark forces and his armies now threaten to ravage the peaceful land of Shanadar. As the prince of the kingdom, rally powerful allies to your side and lead them onward to repel Ahriman’s forces throughout the kingdom in this classic Japanese role playing adventure.\n<br><br>\nRecruit unique allies such as a princess, genie, and thief!<br>\nFight enemies to gain strength and upgrade your heroes’ weapons and armor in order to fight Ahriman.",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-N-GAJE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

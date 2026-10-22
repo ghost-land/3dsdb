@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000037800",
-    "uid": "50010000007062",
-    "name": "DRIVER® RENEGADE 3D",
-    "formal_name": "DRIVER® RENEGADE 3D",
-    "description": "DRIVER RENEGADE 3D is the first\nand exclusive action driving game on\nNintendo 3DS that lets you\nexperience the intensity and brutality\nof urban car chases in 3D. Drive\nrecklessly, perform jumps to fill your\nRage bar and unleash devastating\ntakedowns on your enemy cars!<br>\n<br>\n- 20 story-based missions\n- 50 different cars to unlock\n- 7 types of challenges (Time attack,\nElimination mode, Road war ...)\n- 70 challenges\n- 3 different ways of driving\n(chasing, evasion, destruction)",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ADRP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000037800",
+  "uid": "50010000007062",
+  "name": "DRIVER® RENEGADE 3D",
+  "formal_name": "DRIVER® RENEGADE 3D",
+  "description": "DRIVER RENEGADE 3D is the first\nand exclusive action driving game on\nNintendo 3DS that lets you\nexperience the intensity and brutality\nof urban car chases in 3D. Drive\nrecklessly, perform jumps to fill your\nRage bar and unleash devastating\ntakedowns on your enemy cars!<br>\n<br>\n- 20 story-based missions\n- 50 different cars to unlock\n- 7 types of challenges (Time attack,\nElimination mode, Road war ...)\n- 70 challenges\n- 3 different ways of driving\n(chasing, evasion, destruction)",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ADRP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

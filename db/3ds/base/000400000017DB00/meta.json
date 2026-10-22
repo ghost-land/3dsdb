@@ -1,35 +1,35 @@
 {
-    "tid": "000400000017DB00",
-    "uid": "50010000038719",
-    "name": "The Delusions of Von Sottendorff \nand his Square Mind",
-    "formal_name": "The Delusions of Von Sottendorff \n<br>and his Square Mind",
-    "description": "Baron Von Sottendorff is an\n<br>aristocrat in the early 20th century.\n<br>He doesn't know it, but he is really\n<br>living trapped in a grid drawing of his\n<br>mansion, created by his own lunatic\n<br>mind.\n<br><br/><br/>\n<br>The game has a new focus that\n<br>combines the essence of gaming\n<br>platforms with puzzles in a beautiful\n<br>scenery created from artistic elements\n<br>and references.\n<br><br/><br/>\n<br>The objective of the game is to free\n<br>Baron Von Sottendorff from his own\n<br>madness; to do this, you must\n<br>overcome the challenges that appear\n<br>along the way. As you solve the\n<br>different levels, you receive objects\n<br>that will help you unlock memories\n<br>from his life. The more memories you\n<br>get, the closer you are to regaining\n<br>his sanity.\n<br><br/><br/>\n<br>Go crazy and help the Baron get his\n<br>sanity back! But be careful...the\n<br>rooms of the mansion move about and\n<br>it's easy to get lost in his world.",
-    "release_date_on_eshop": "2015-12-17",
-    "product_code": "CTR-N-JDHP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Platformer",
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017DB00",
+  "uid": "50010000038719",
+  "name": "The Delusions of Von Sottendorff \nand his Square Mind",
+  "formal_name": "The Delusions of Von Sottendorff \n<br>and his Square Mind",
+  "description": "Baron Von Sottendorff is an\n<br>aristocrat in the early 20th century.\n<br>He doesn't know it, but he is really\n<br>living trapped in a grid drawing of his\n<br>mansion, created by his own lunatic\n<br>mind.\n<br><br/><br/>\n<br>The game has a new focus that\n<br>combines the essence of gaming\n<br>platforms with puzzles in a beautiful\n<br>scenery created from artistic elements\n<br>and references.\n<br><br/><br/>\n<br>The objective of the game is to free\n<br>Baron Von Sottendorff from his own\n<br>madness; to do this, you must\n<br>overcome the challenges that appear\n<br>along the way. As you solve the\n<br>different levels, you receive objects\n<br>that will help you unlock memories\n<br>from his life. The more memories you\n<br>get, the closer you are to regaining\n<br>his sanity.\n<br><br/><br/>\n<br>Go crazy and help the Baron get his\n<br>sanity back! But be careful...the\n<br>rooms of the mansion move about and\n<br>it's easy to get lost in his world.",
+  "release_date_on_eshop": "2015-12-17",
+  "product_code": "CTR-N-JDHP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Platformer",
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

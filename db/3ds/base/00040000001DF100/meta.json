@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001DF100",
-    "uid": "50010000048915",
-    "name": "Escape From Forest",
-    "formal_name": "Escape From Forest",
-    "description": "Run, run away. You have to escape from this dangerous, terrible forest. Danger breathes in your back and it's gaining speed, it will soon catch you up, run faster. Just don't hit the tree!",
-    "release_date_on_eshop": "2020-10-15",
-    "product_code": "CTR-N-J5JP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DF100",
+  "uid": "50010000048915",
+  "name": "Escape From Forest",
+  "formal_name": "Escape From Forest",
+  "description": "Run, run away. You have to escape from this dangerous, terrible forest. Danger breathes in your back and it's gaining speed, it will soon catch you up, run faster. Just don't hit the tree!",
+  "release_date_on_eshop": "2020-10-15",
+  "product_code": "CTR-N-J5JP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

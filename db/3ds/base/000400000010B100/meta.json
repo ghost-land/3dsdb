@@ -1,30 +1,30 @@
 {
-    "tid": "000400000010B100",
-    "uid": "50010000038255",
-    "name": "Family Bowling 3D",
-    "formal_name": "Family Bowling 3D",
-    "description": "A bowling game featuring Billy,\nSarah, Daddy, and Mommy!\n<br/><br/>\nThe three game modes include Main\nMode, where you'll battle your fellow\nfamily members; Free Play, where you\ncan play as you like with 1-4 players;\nand Challenge Mode, where you can\ntake difficult challenges head on! Aim\nfor a perfect game in all of the five\ndifferent stages we've assembled!",
-    "release_date_on_eshop": "2015-11-12",
-    "product_code": "CTR-N-JBWP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010B100",
+  "uid": "50010000038255",
+  "name": "Family Bowling 3D",
+  "formal_name": "Family Bowling 3D",
+  "description": "A bowling game featuring Billy,\nSarah, Daddy, and Mommy!\n<br/><br/>\nThe three game modes include Main\nMode, where you'll battle your fellow\nfamily members; Free Play, where you\ncan play as you like with 1-4 players;\nand Challenge Mode, where you can\ntake difficult challenges head on! Aim\nfor a perfect game in all of the five\ndifferent stages we've assembled!",
+  "release_date_on_eshop": "2015-11-12",
+  "product_code": "CTR-N-JBWP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

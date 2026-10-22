@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000136D00",
-    "uid": "50010000031175",
-    "name": "Inazuma Eleven® GO\nChrono Stone: Thunderflash",
-    "formal_name": "Inazuma Eleven® GO\nChrono Stone: Thunderflash",
-    "description": "In this huge football RPG, the player\nstars as a young schoolboy, Arion\nSherwind, who discovers football has\nbeen erased from existence by an evil\norganisation from the future! Recruit\nthe ultimate squad, travel through\ntime, and win matches against rivals\nto rediscover Arion's friends, and\nrestore football to its former glory in\nInazuma Eleven GO Chrono Stones:\nThunderflash on Nintendo 3DS and\n2DS!",
-    "release_date_on_eshop": "2015-03-27",
-    "product_code": "CTR-P-ARAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000136D00",
+  "uid": "50010000031175",
+  "name": "Inazuma Eleven® GO\nChrono Stone: Thunderflash",
+  "formal_name": "Inazuma Eleven® GO\nChrono Stone: Thunderflash",
+  "description": "In this huge football RPG, the player\nstars as a young schoolboy, Arion\nSherwind, who discovers football has\nbeen erased from existence by an evil\norganisation from the future! Recruit\nthe ultimate squad, travel through\ntime, and win matches against rivals\nto rediscover Arion's friends, and\nrestore football to its former glory in\nInazuma Eleven GO Chrono Stones:\nThunderflash on Nintendo 3DS and\n2DS!",
+  "release_date_on_eshop": "2015-03-27",
+  "product_code": "CTR-P-ARAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

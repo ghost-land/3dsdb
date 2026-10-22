@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000A7300",
-    "uid": "50010000011748",
-    "name": "Bratz®: Fashion Boutique",
-    "formal_name": "Bratz®: Fashion Boutique",
-    "description": "Bratz® are everyone's favorite girls with a passion for fashion®!  Now you can join the girls and run the hottest fashion boutiques in Stylesville.  Help create the latest trends and tap into your inner diva!\n<br><br>\n• Play as your favorite Bratz; Cloe™, Yasmin™, Sasha™ and Jade™ and run their own fashion boutiques!<br>\n• Create your own trendy, custom outfits in the Workshop Mini-games and sell them to earn more money!<br>\n• Be the newest “It” thing in Stylesville with the latest trends!<br>\n• Put on the hottest Fashion Shows and raise your fame to attract more customers, maybe even some celebrity Bratz!<br>\n• Unlock exclusive content using QR-codes found on the Bratz Boutique™, Chic Mystique™, and Style Starz™ toylines!\n",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AB5E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A7300",
+  "uid": "50010000011748",
+  "name": "Bratz®: Fashion Boutique",
+  "formal_name": "Bratz®: Fashion Boutique",
+  "description": "Bratz® are everyone's favorite girls with a passion for fashion®!  Now you can join the girls and run the hottest fashion boutiques in Stylesville.  Help create the latest trends and tap into your inner diva!\n<br><br>\n• Play as your favorite Bratz; Cloe™, Yasmin™, Sasha™ and Jade™ and run their own fashion boutiques!<br>\n• Create your own trendy, custom outfits in the Workshop Mini-games and sell them to earn more money!<br>\n• Be the newest “It” thing in Stylesville with the latest trends!<br>\n• Put on the hottest Fashion Shows and raise your fame to attract more customers, maybe even some celebrity Bratz!<br>\n• Unlock exclusive content using QR-codes found on the Bratz Boutique™, Chic Mystique™, and Style Starz™ toylines!\n",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AB5E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

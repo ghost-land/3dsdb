@@ -1,36 +1,36 @@
 {
-    "tid": "00040000000E6500",
-    "uid": "50010000016714",
-    "name": "Skylanders SWAP Force™",
-    "formal_name": "Skylanders SWAP Force™",
-    "description": "Embark on an exciting new adventure with the Skylanders and the SWAP Force. For generations, the SWAP Force protected the volcano that replenishes Skylands’ magic. That is until an epic battle caught them in an eruption that blasted them apart, sent them to Earth and gave them the ability swap powers. Only you can mix and match their tops and bottoms, put them on the new Portal of Power and help save Skylands.\n<br><Br>\nStarter Pack includes:<Br>\n1-Video Game<Br>\n1-Portal of Power<Br>\n3-Skylanders Figures<Br>\n1-Character Collector Poster<Br>\n3-Sticker Sheets with Secret Codes<Br>\n3-Trading Cards",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BSFE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "RPG",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Cartoon Violence"
-    ]
+  "tid": "00040000000E6500",
+  "uid": "50010000016714",
+  "name": "Skylanders SWAP Force™",
+  "formal_name": "Skylanders SWAP Force™",
+  "description": "Embark on an exciting new adventure with the Skylanders and the SWAP Force. For generations, the SWAP Force protected the volcano that replenishes Skylands’ magic. That is until an epic battle caught them in an eruption that blasted them apart, sent them to Earth and gave them the ability swap powers. Only you can mix and match their tops and bottoms, put them on the new Portal of Power and help save Skylands.\n<br><Br>\nStarter Pack includes:<Br>\n1-Video Game<Br>\n1-Portal of Power<Br>\n3-Skylanders Figures<Br>\n1-Character Collector Poster<Br>\n3-Sticker Sheets with Secret Codes<Br>\n3-Trading Cards",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BSFE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Cartoon Violence"
+  ]
 }

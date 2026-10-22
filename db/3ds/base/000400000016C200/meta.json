@@ -1,30 +1,30 @@
 {
-    "tid": "000400000016C200",
-    "uid": "50010000039955",
-    "name": "Mini Mario & Friends\namiibo Challenge",
-    "formal_name": "Mini Mario & Friends\namiibo Challenge",
-    "description": "Make minis march like never before in this free download. Tap an amiibo™ figure to guide 1 of 11 minis across more than 50 levels. Use minis and their unique abilities, like Yoshi™ who can eat enemies or Rosalina who launches to high places, to reach the exit. But watch out! Mine carts, ghostly Boos and other new obstacles lurk around every corner.\n<br><br>\nTo get started, simply tap any compatible amiibo figure. Or, by tapping specific amiibo figures, you can guide minis that have their own unique abilities and exclusive sets of levels. These specially designed, character-themed levels include their own look, remixed music and obstacles for you to master, which comes in handy the more you play. Earn in-game amiibo tokens with different minis to unlock even more difficult challenges.",
-    "release_date_on_eshop": "2016-04-28",
-    "product_code": "CTR-N-KPCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "At least one amiibo accessory is required for use of this software; sold separately.\n<br><br>\nInternet access required for online features. For more info, go to support.nintendo.com\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000016C200",
+  "uid": "50010000039955",
+  "name": "Mini Mario & Friends\namiibo Challenge",
+  "formal_name": "Mini Mario & Friends\namiibo Challenge",
+  "description": "Make minis march like never before in this free download. Tap an amiibo™ figure to guide 1 of 11 minis across more than 50 levels. Use minis and their unique abilities, like Yoshi™ who can eat enemies or Rosalina who launches to high places, to reach the exit. But watch out! Mine carts, ghostly Boos and other new obstacles lurk around every corner.\n<br><br>\nTo get started, simply tap any compatible amiibo figure. Or, by tapping specific amiibo figures, you can guide minis that have their own unique abilities and exclusive sets of levels. These specially designed, character-themed levels include their own look, remixed music and obstacles for you to master, which comes in handy the more you play. Earn in-game amiibo tokens with different minis to unlock even more difficult challenges.",
+  "release_date_on_eshop": "2016-04-28",
+  "product_code": "CTR-N-KPCE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "At least one amiibo accessory is required for use of this software; sold separately.\n<br><br>\nInternet access required for online features. For more info, go to support.nintendo.com\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

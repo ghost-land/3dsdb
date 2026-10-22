@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B35474A",
-    "uid": "50010000035017",
-    "name": "G.Gシリーズ\nScore Attacker",
-    "formal_name": "G.Gシリーズ Score Attacker",
-    "description": "スコア･チャレンジ･シューティングゲームです。αキャノンで強力攻撃、βブラストは敵弾を吸収する特殊バリア、うまく駆使することができれば高得点が狙えます。そのためには、敵を破壊すると現れるEボックスを集めて、Eゲージにストックしていくことがポイントです。猛者の挑戦を待っています。",
-    "release_date_on_eshop": "2015-07-08",
-    "product_code": "TWL-N-K5GJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "region": "Japan",
-    "genres": [
-        "シューティング"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\n<br>ソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。ニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
-    "descriptors": []
+  "tid": "000480044B35474A",
+  "uid": "50010000035017",
+  "name": "G.Gシリーズ\nScore Attacker",
+  "formal_name": "G.Gシリーズ Score Attacker",
+  "description": "スコア･チャレンジ･シューティングゲームです。αキャノンで強力攻撃、βブラストは敵弾を吸収する特殊バリア、うまく駆使することができれば高得点が狙えます。そのためには、敵を破壊すると現れるEボックスを集めて、Eゲージにストックしていくことがポイントです。猛者の挑戦を待っています。",
+  "release_date_on_eshop": "2015-07-08",
+  "product_code": "TWL-N-K5GJ",
+  "platform_name": "ニンテンドーDSiウェア",
+  "region": "Japan",
+  "genres": [
+    "シューティング"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\n<br>ソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。ニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": []
 }

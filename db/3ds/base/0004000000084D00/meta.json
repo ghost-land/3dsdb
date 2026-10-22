@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000084D00",
-    "uid": "50010000018493",
-    "name": "AeternoBlade",
-    "formal_name": "AeternoBlade",
-    "description": "In the region of Awelsia, vengeful\nFreya travels with an unknown weapon\ncalled \"AeternoBlade\" to take\nrevenge from Beladim, the Lord of the\nMist who destroyed her village,\nRidgerode, and killed her tribe. Her\nvengence is helped by Vernia , who\nhas as much merit as Beladim. Vernia\ntaught Freya about the ablility of\nAeternoBlade.\n<br/><br/>\nFreya has to venture in many world\ndimensions to find how to annihilate\nBeladim.\n<br/><br/>\nWhat is AeternoBlade? and How can\nFreya take revenge from Beladim?\nSolve tons ton of mysteries in her\nadventure!",
-    "release_date_on_eshop": "2014-02-27",
-    "product_code": "CTR-P-ACUP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000084D00",
+  "uid": "50010000018493",
+  "name": "AeternoBlade",
+  "formal_name": "AeternoBlade",
+  "description": "In the region of Awelsia, vengeful\nFreya travels with an unknown weapon\ncalled \"AeternoBlade\" to take\nrevenge from Beladim, the Lord of the\nMist who destroyed her village,\nRidgerode, and killed her tribe. Her\nvengence is helped by Vernia , who\nhas as much merit as Beladim. Vernia\ntaught Freya about the ablility of\nAeternoBlade.\n<br/><br/>\nFreya has to venture in many world\ndimensions to find how to annihilate\nBeladim.\n<br/><br/>\nWhat is AeternoBlade? and How can\nFreya take revenge from Beladim?\nSolve tons ton of mysteries in her\nadventure!",
+  "release_date_on_eshop": "2014-02-27",
+  "product_code": "CTR-P-ACUP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000052600",
-    "uid": "50010000006749",
-    "name": "オセロ3D",
-    "formal_name": "オセロ3D",
-    "description": "コンピュータの強さは12段階。初心者から上級者まで好きな強さのコンピュータと対戦できます。\n<br>本ソフトを購入済みのニンテンドー3DSが1台あれば、順番に交代しながら打っていくことで2人対戦が楽しめます。\n<br>対局終了後にリプレイデータが保存できます。対局を見直したり、途中から始めることが可能です。",
-    "release_date_on_eshop": "2011-06-07",
-    "product_code": "CTR-N-JACJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル",
-        "その他"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000052600",
+  "uid": "50010000006749",
+  "name": "オセロ3D",
+  "formal_name": "オセロ3D",
+  "description": "コンピュータの強さは12段階。初心者から上級者まで好きな強さのコンピュータと対戦できます。\n<br>本ソフトを購入済みのニンテンドー3DSが1台あれば、順番に交代しながら打っていくことで2人対戦が楽しめます。\n<br>対局終了後にリプレイデータが保存できます。対局を見直したり、途中から始めることが可能です。",
+  "release_date_on_eshop": "2011-06-07",
+  "product_code": "CTR-N-JACJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル",
+    "その他"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

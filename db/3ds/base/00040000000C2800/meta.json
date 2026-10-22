@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000C2800",
-    "uid": "50010000014792",
-    "name": "Mighty Switch Force! 2",
-    "formal_name": "Mighty Switch Force! 2",
-    "description": "It’s a Code Red from the Galactic Fire Brigade! Planet Land is combusting and everything is ablaze! Return to HQ immediately and pick up your Infinity Dousing Apparatus; your Siren Helmet is still authorized and up to code! The mission: to fight the inferno and extricate the reformed Hooligan sisters! Now, suit up and start soaking some scenery!\n<br><br>\nThe sequel to the universally acclaimed Mighty Switch Force, and the newest game in the Mighty series!\n<br><br>\nGrab your new weapon, a super-powered fire hose, and embark on a treacherous search-and-rescue mission!\n<br><br>\nFamiliar friends and foes return, along with exciting new ones!\n<br><br>\n3D puzzles and brain-banding action return!\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-N-JMGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Shooter",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C2800",
+  "uid": "50010000014792",
+  "name": "Mighty Switch Force! 2",
+  "formal_name": "Mighty Switch Force! 2",
+  "description": "It’s a Code Red from the Galactic Fire Brigade! Planet Land is combusting and everything is ablaze! Return to HQ immediately and pick up your Infinity Dousing Apparatus; your Siren Helmet is still authorized and up to code! The mission: to fight the inferno and extricate the reformed Hooligan sisters! Now, suit up and start soaking some scenery!\n<br><br>\nThe sequel to the universally acclaimed Mighty Switch Force, and the newest game in the Mighty series!\n<br><br>\nGrab your new weapon, a super-powered fire hose, and embark on a treacherous search-and-rescue mission!\n<br><br>\nFamiliar friends and foes return, along with exciting new ones!\n<br><br>\n3D puzzles and brain-banding action return!\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-N-JMGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Shooter",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

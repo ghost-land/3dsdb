@@ -1,34 +1,34 @@
 {
-    "tid": "000400000016A600",
-    "uid": "50010000038661",
-    "name": "Terraria",
-    "formal_name": "Terraria",
-    "description": "Experience the infinite possibilities of\nTerraria with the most intuitive\ninterface imaginable! Explore vast\nfantasy worlds and battle hundreds of\ndifferent enemies with weapons and\narmour you choose to create. Build\nanything from simple dwellings to\nimmense fortresses with a swipe of\nyour stylus. Hundreds of hours of\nentertainment await!",
-    "release_date_on_eshop": "2015-12-10",
-    "product_code": "CTR-P-BTEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Arcade",
-        "RPG",
-        "Action"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016A600",
+  "uid": "50010000038661",
+  "name": "Terraria",
+  "formal_name": "Terraria",
+  "description": "Experience the infinite possibilities of\nTerraria with the most intuitive\ninterface imaginable! Explore vast\nfantasy worlds and battle hundreds of\ndifferent enemies with weapons and\narmour you choose to create. Build\nanything from simple dwellings to\nimmense fortresses with a swipe of\nyour stylus. Hundreds of hours of\nentertainment await!",
+  "release_date_on_eshop": "2015-12-10",
+  "product_code": "CTR-P-BTEP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Arcade",
+    "RPG",
+    "Action"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

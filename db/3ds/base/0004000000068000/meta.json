@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000068000",
-    "uid": "50010000009866",
-    "name": "CODE OF PRINCESS",
-    "formal_name": "CODE OF PRINCESS",
-    "description": "数多くのゲームイラストを手掛けたイラストレーター･西村キヌ原案のファンタジーワールド『CODE OF PRINCESS』。\n<br>幻想的でユーモアに満ちたファンタジー世界を舞台に、聖剣に集う仲間たちの冒険が幕を開ける!\n<br>\n<br>ゲームは画面内の手前から奥へ複数存在するラインを駆使して闘う横スクロールアクション。簡単な操作で個性豊かなキャラクターたちが多彩な技を繰り出し、群がる敵をなぎ倒す爽快感あふれるバトルが楽しめます。\n<br>\n<br>ゲームモードは全編フルボイスで物語を楽しめる「ストーリーモード」のほか、難関クエストに挑む「協力プレイ」、強さを競う「対戦」など、ローカル通信･インターネットともに最大4人でプレイ可能です。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AC7J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "ロールプレイング",
-        "格闘"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000068000",
+  "uid": "50010000009866",
+  "name": "CODE OF PRINCESS",
+  "formal_name": "CODE OF PRINCESS",
+  "description": "数多くのゲームイラストを手掛けたイラストレーター･西村キヌ原案のファンタジーワールド『CODE OF PRINCESS』。\n<br>幻想的でユーモアに満ちたファンタジー世界を舞台に、聖剣に集う仲間たちの冒険が幕を開ける!\n<br>\n<br>ゲームは画面内の手前から奥へ複数存在するラインを駆使して闘う横スクロールアクション。簡単な操作で個性豊かなキャラクターたちが多彩な技を繰り出し、群がる敵をなぎ倒す爽快感あふれるバトルが楽しめます。\n<br>\n<br>ゲームモードは全編フルボイスで物語を楽しめる「ストーリーモード」のほか、難関クエストに挑む「協力プレイ」、強さを競う「対戦」など、ローカル通信･インターネットともに最大4人でプレイ可能です。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AC7J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "ロールプレイング",
+    "格闘"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

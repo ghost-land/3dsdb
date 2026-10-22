@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000095200",
-    "uid": "50010000016934",
-    "name": "Aqua Moto Racing 3D™",
-    "formal_name": "Aqua Moto Racing 3D™",
-    "description": "It's Aqua Moto Racing 3D!\n<br><br>\nExperience the thrill of high-powered watercraft and break-neck stunts in a third dimension. Race through heaving oceans along sandy beaches in the Tropics, Greece and Egypt. Perform insane stunts and go around the buoys closely to charge your turbo and get the edge against your opponents.\n<br><br>\nEarn cash by participating in races and spend it on better watercraft. Unlock new Championships and Achievements on your quest for Legendary Status. Compete against your friends in local multiplayer mode.\n<br><br>\nGet Ready For The Wave Ride Of Your Life!",
-    "release_date_on_eshop": "2013-10-10",
-    "product_code": "CTR-N-JMTE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Simulation",
-        "Action",
-        "Sports"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000095200",
+  "uid": "50010000016934",
+  "name": "Aqua Moto Racing 3D™",
+  "formal_name": "Aqua Moto Racing 3D™",
+  "description": "It's Aqua Moto Racing 3D!\n<br><br>\nExperience the thrill of high-powered watercraft and break-neck stunts in a third dimension. Race through heaving oceans along sandy beaches in the Tropics, Greece and Egypt. Perform insane stunts and go around the buoys closely to charge your turbo and get the edge against your opponents.\n<br><br>\nEarn cash by participating in races and spend it on better watercraft. Unlock new Championships and Achievements on your quest for Legendary Status. Compete against your friends in local multiplayer mode.\n<br><br>\nGet Ready For The Wave Ride Of Your Life!",
+  "release_date_on_eshop": "2013-10-10",
+  "product_code": "CTR-N-JMTE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Simulation",
+    "Action",
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

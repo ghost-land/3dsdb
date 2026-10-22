@@ -1,27 +1,27 @@
 {
-    "tid": "00040002000BAC01",
-    "uid": "50010000013274",
-    "name": "Castlevania\n- Lords of Shadow - 宿命の魔鏡",
-    "formal_name": "Castlevania\n- Lords of Shadow - 宿命の魔鏡",
-    "description": "1986年より続いている『悪魔城ドラキュラ』シリーズの新作。今作は2010年に発売した『Castlevania - Lords of Shadow -』の25年後を描いた正統続編です。\n<br>\n<br>主人公はトレバー・ベルモンド。彼は強力な吸血鬼であるドラキュラを倒すべく討伐に向かいます。さらに過去の『悪魔城ドラキュラ』シリーズで人気のアルカード、シモン・ ベルモンドといった歴代のキャラクターも登場します。\n<br>\n<br>ゲームシステムはシリーズユーザーからの要望がとても多かった、2Dによる探索型スクロールアクションに原点回帰しております。",
-    "release_date_on_eshop": "2013-03-20",
-    "product_code": "CTR-N-ACFJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "17"
-    },
-    "version": "",
-    "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-    "descriptors": []
+  "tid": "00040002000BAC01",
+  "uid": "50010000013274",
+  "name": "Castlevania\n- Lords of Shadow - 宿命の魔鏡",
+  "formal_name": "Castlevania\n- Lords of Shadow - 宿命の魔鏡",
+  "description": "1986年より続いている『悪魔城ドラキュラ』シリーズの新作。今作は2010年に発売した『Castlevania - Lords of Shadow -』の25年後を描いた正統続編です。\n<br>\n<br>主人公はトレバー・ベルモンド。彼は強力な吸血鬼であるドラキュラを倒すべく討伐に向かいます。さらに過去の『悪魔城ドラキュラ』シリーズで人気のアルカード、シモン・ ベルモンドといった歴代のキャラクターも登場します。\n<br>\n<br>ゲームシステムはシリーズユーザーからの要望がとても多かった、2Dによる探索型スクロールアクションに原点回帰しております。",
+  "release_date_on_eshop": "2013-03-20",
+  "product_code": "CTR-N-ACFJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "17"
+  },
+  "version": "",
+  "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+  "descriptors": []
 }

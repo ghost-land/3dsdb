@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000148B00",
-    "uid": "50010000028235",
-    "name": "Fairune",
-    "formal_name": "Fairune",
-    "description": "Fairune is an retro-style puzzle ARPG.\n<br>\n<br>A girl has been chosen to become a\n<br>heroine. An adventure filled with\n<br>mystery awaits her.\n<br>\n<br>During her adventure, she'll need to\n<br>find weapons to defeat monsters, and\n<br>to level up. She also needs to collect\n<br>items, find secret passages, and solve\n<br>puzzles. Once she has unlocked three\n<br>ancient statues, she has to seal a\n<br>mysterious menace away forever.\n<br>\n<br>Other features:\n<br>\n<br>8-bit graphics and sound to dazzle\n<br>the eyes and ears.\n<br>\n<br>Simple controls.\n<br>\n<br>Addicting puzzle designs.\n<br>\n<br>Exclusive maps and puzzles only for\n<br>Nintendo 3DS™.",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-KFRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "RPG",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000148B00",
+  "uid": "50010000028235",
+  "name": "Fairune",
+  "formal_name": "Fairune",
+  "description": "Fairune is an retro-style puzzle ARPG.\n<br>\n<br>A girl has been chosen to become a\n<br>heroine. An adventure filled with\n<br>mystery awaits her.\n<br>\n<br>During her adventure, she'll need to\n<br>find weapons to defeat monsters, and\n<br>to level up. She also needs to collect\n<br>items, find secret passages, and solve\n<br>puzzles. Once she has unlocked three\n<br>ancient statues, she has to seal a\n<br>mysterious menace away forever.\n<br>\n<br>Other features:\n<br>\n<br>8-bit graphics and sound to dazzle\n<br>the eyes and ears.\n<br>\n<br>Simple controls.\n<br>\n<br>Addicting puzzle designs.\n<br>\n<br>Exclusive maps and puzzles only for\n<br>Nintendo 3DS™.",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-KFRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

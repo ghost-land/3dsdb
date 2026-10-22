@@ -1,33 +1,33 @@
 {
-    "tid": "000400000F70DC00",
-    "uid": "50010000045656",
-    "name": "Zeus Quests Remastered\nAnagenissis of Gaia",
-    "formal_name": "Zeus Quests Remastered\n<br>Anagenissis of Gaia",
-    "description": "'Zeus Quests Remastered' is a silly point and click adventure game with light-hearted humour. It combines Greek Mythology with Sci-Fi in a twisted way!\n<br>\n<br>You control Zeus (Boss of Olympus) which is a wacky character. He tries to fix a time machine to save the planet from explosion. Everything happens in Greek mythology timeframe. The characters and dialogues are silly and translated into 6 languages. There is English Voice over in some cut scenes. We use Vector art, a unique cartoonish style.",
-    "release_date_on_eshop": "2018-05-10",
-    "product_code": "KTR-N-CFRP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70DC00",
+  "uid": "50010000045656",
+  "name": "Zeus Quests Remastered\nAnagenissis of Gaia",
+  "formal_name": "Zeus Quests Remastered\n<br>Anagenissis of Gaia",
+  "description": "'Zeus Quests Remastered' is a silly point and click adventure game with light-hearted humour. It combines Greek Mythology with Sci-Fi in a twisted way!\n<br>\n<br>You control Zeus (Boss of Olympus) which is a wacky character. He tries to fix a time machine to save the planet from explosion. Everything happens in Greek mythology timeframe. The characters and dialogues are silly and translated into 6 languages. There is English Voice over in some cut scenes. We use Vector art, a unique cartoonish style.",
+  "release_date_on_eshop": "2018-05-10",
+  "product_code": "KTR-N-CFRP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

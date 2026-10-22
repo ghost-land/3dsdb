@@ -1,28 +1,28 @@
 {
-    "tid": "000400000019B500",
-    "uid": "50010000040476",
-    "name": "Epic Word Search Collection 2",
-    "formal_name": "Epic Word Search Collection 2",
-    "description": "Epic Word Search puzzles are huge - and they’re back in this second epic collection!\n<br>\n<br>The Epic America Word Search - Celebrate the very best of America - with fireworks!\n<br>\n<br>The Epic Ancient Word Search - By Zeus, it’s historic! Visit Greece, Rome, Egypt and Stonehenge!\n<br>\n<br>The Epic Animals Word Search - The furriest word search you'll ever meet and want to tickle the tummy of! \n<br>\n<br>The Epic Journeys Word Search - Fasten your seatbelt as you travel in luxury or go an epic expedition.\n<br>\n<br>The Epic Shakespeare Word Search - Friends, Romans, countrymen, find me some words!\n<br>\n<br>Each epic puzzle contains over 1,500 words, hidden in a grid that's much too large to fit on screen! It takes many hours of gameplay to solve each one. Scroll with the D-Pad or Circle Pad, then touch with the stylus to highlight words.\n<br>\n<br>Jump straight in and get solving right away with this fast-loading game. Switch between puzzles at any time and share your progress with other players using StreetPass.",
-    "release_date_on_eshop": "2016-05-26",
-    "product_code": "CTR-N-KEXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000019B500",
+  "uid": "50010000040476",
+  "name": "Epic Word Search Collection 2",
+  "formal_name": "Epic Word Search Collection 2",
+  "description": "Epic Word Search puzzles are huge - and they’re back in this second epic collection!\n<br>\n<br>The Epic America Word Search - Celebrate the very best of America - with fireworks!\n<br>\n<br>The Epic Ancient Word Search - By Zeus, it’s historic! Visit Greece, Rome, Egypt and Stonehenge!\n<br>\n<br>The Epic Animals Word Search - The furriest word search you'll ever meet and want to tickle the tummy of! \n<br>\n<br>The Epic Journeys Word Search - Fasten your seatbelt as you travel in luxury or go an epic expedition.\n<br>\n<br>The Epic Shakespeare Word Search - Friends, Romans, countrymen, find me some words!\n<br>\n<br>Each epic puzzle contains over 1,500 words, hidden in a grid that's much too large to fit on screen! It takes many hours of gameplay to solve each one. Scroll with the D-Pad or Circle Pad, then touch with the stylus to highlight words.\n<br>\n<br>Jump straight in and get solving right away with this fast-loading game. Switch between puzzles at any time and share your progress with other players using StreetPass.",
+  "release_date_on_eshop": "2016-05-26",
+  "product_code": "CTR-N-KEXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

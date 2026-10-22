@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000E6D00",
-    "uid": "50010000014393",
-    "name": "SpeedX 3D Hyper Edition",
-    "formal_name": "SpeedX 3D Hyper Edition",
-    "description": "You won't believe what's possible in a tunnel racing game! Speedx 3D Hyper Edition is the fastest tunnel racer ever! Be amazed by its enhanced visuals, start your run with just one tap on the screen and experience incredible thrills as you race through the new location.\n<br><br>\nSpeedx 3D Hyper Edition offers new music tracks, improved controls and even faster gameplay. Trigger Hyper mode, collect shields and boosts and see how far can you go! Oh, and don’t forget to wear your headphones; the new music tracks make Speedx 3D Hyper Edition sound like never before!",
-    "release_date_on_eshop": "2013-05-09",
-    "product_code": "CTR-N-JSYE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Action",
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000E6D00",
+  "uid": "50010000014393",
+  "name": "SpeedX 3D Hyper Edition",
+  "formal_name": "SpeedX 3D Hyper Edition",
+  "description": "You won't believe what's possible in a tunnel racing game! Speedx 3D Hyper Edition is the fastest tunnel racer ever! Be amazed by its enhanced visuals, start your run with just one tap on the screen and experience incredible thrills as you race through the new location.\n<br><br>\nSpeedx 3D Hyper Edition offers new music tracks, improved controls and even faster gameplay. Trigger Hyper mode, collect shields and boosts and see how far can you go! Oh, and don’t forget to wear your headphones; the new music tracks make Speedx 3D Hyper Edition sound like never before!",
+  "release_date_on_eshop": "2013-05-09",
+  "product_code": "CTR-N-JSYE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Action",
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

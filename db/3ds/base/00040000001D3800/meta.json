@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001D3800",
-    "uid": "50010000045555",
-    "name": "Rainbow Snake",
-    "formal_name": "Rainbow Snake",
-    "description": "Rainbow Snake Is A Beautiful Classic Game.\n<br>Eating Food, Snake Painted In Different Colors. Collect a colorful snake and avoid the green walls. Over time, the snake is gaining speed!\n<br>\n<br>- Simple Game Mechanics\n<br>- You can die when you hit the wall and you can't eat yourself\n<br>- The snake is gaining speed, be more careful",
-    "release_date_on_eshop": "2018-05-10",
-    "product_code": "CTR-N-LRSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D3800",
+  "uid": "50010000045555",
+  "name": "Rainbow Snake",
+  "formal_name": "Rainbow Snake",
+  "description": "Rainbow Snake Is A Beautiful Classic Game.\n<br>Eating Food, Snake Painted In Different Colors. Collect a colorful snake and avoid the green walls. Over time, the snake is gaining speed!\n<br>\n<br>- Simple Game Mechanics\n<br>- You can die when you hit the wall and you can't eat yourself\n<br>- The snake is gaining speed, be more careful",
+  "release_date_on_eshop": "2018-05-10",
+  "product_code": "CTR-N-LRSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

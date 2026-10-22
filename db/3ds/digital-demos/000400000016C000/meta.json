@@ -1,32 +1,32 @@
 {
-    "tid": "000400000016C000",
-    "uid": "50010000032735",
-    "name": "Puzzle & Dragons SMB\nEdition: Special Demo",
-    "formal_name": "Puzzle & Dragons SMB\nEdition: Special Demo",
-    "description": "Mysterious Orbs have suddenly\nappeared in the Mushroom Kingdom!\nBowser has abused the power of the\nOrbs to kidnap Princess Peach, and\nMario must puzzle and battle his way\nto rescue her.\n<br/><br/>\nWith a host of Super Mario Bros.\ncharacters at your side, set out on a\nunique adventure! Battle your enemies\nusing the Puzzle & Dragons technique\nof lining up three or more coloured\nOrbs to unleash attacks.\n<br/><br/>\nAs you advance through the various\nworlds and courses, you will befriend\nall kinds of Mario characters.\nStrengthen and transform them to\nimprove your team and complete your\nquest!\n<br/><br/>\nIn the demo, you’ll be able to try the\n4-Colour Course and the slightly\neasier 3-Colour Course. Characters\nsuch as Boo Mario and Ice Luigi will\neven make an appearance!",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-N-KPMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "Puzzle",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016C000",
+  "uid": "50010000032735",
+  "name": "Puzzle & Dragons SMB\nEdition: Special Demo",
+  "formal_name": "Puzzle & Dragons SMB\nEdition: Special Demo",
+  "description": "Mysterious Orbs have suddenly\nappeared in the Mushroom Kingdom!\nBowser has abused the power of the\nOrbs to kidnap Princess Peach, and\nMario must puzzle and battle his way\nto rescue her.\n<br/><br/>\nWith a host of Super Mario Bros.\ncharacters at your side, set out on a\nunique adventure! Battle your enemies\nusing the Puzzle & Dragons technique\nof lining up three or more coloured\nOrbs to unleash attacks.\n<br/><br/>\nAs you advance through the various\nworlds and courses, you will befriend\nall kinds of Mario characters.\nStrengthen and transform them to\nimprove your team and complete your\nquest!\n<br/><br/>\nIn the demo, you’ll be able to try the\n4-Colour Course and the slightly\neasier 3-Colour Course. Characters\nsuch as Boo Mario and Ice Luigi will\neven make an appearance!",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-N-KPMP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "Puzzle",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

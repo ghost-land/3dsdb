@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B584545",
-    "uid": "50010000010786",
-    "name": "Escape the Virus: \nSwarm Survival",
-    "formal_name": "Escape the Virus: Swarm Survival",
-    "description": "Discover a whole new world hidden beyond the limits of the human eye. Dodge, wind and jump to link all pieces of DNA and build the longest chain ever while fighting off vicious viruses. Longer chains are more difficult to control but they come with a greater score multiplier. Look at your surroundings and you will quickly get one of the bonuses, such as a vaccine or a micro-world, the equivalent of a rocket-launcher! With this kind of equipment the viruses don’t stand a chance! The game features two game-play modes. In the Normal mode your goal is to make the longest DNA chain while in the Baby mode you are a DNA guardian sneaking between enemies to transport DNA pieces to safety. Rack up a high score and put your survival skills to the test in this reflex-awakening action!",
-    "release_date_on_eshop": "2012-06-28",
-    "product_code": "TWL-N-KXEE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584545",
+  "uid": "50010000010786",
+  "name": "Escape the Virus: \nSwarm Survival",
+  "formal_name": "Escape the Virus: Swarm Survival",
+  "description": "Discover a whole new world hidden beyond the limits of the human eye. Dodge, wind and jump to link all pieces of DNA and build the longest chain ever while fighting off vicious viruses. Longer chains are more difficult to control but they come with a greater score multiplier. Look at your surroundings and you will quickly get one of the bonuses, such as a vaccine or a micro-world, the equivalent of a rocket-launcher! With this kind of equipment the viruses don’t stand a chance! The game features two game-play modes. In the Normal mode your goal is to make the longest DNA chain while in the Baby mode you are a DNA guardian sneaking between enemies to transport DNA pieces to safety. Rack up a high score and put your survival skills to the test in this reflex-awakening action!",
+  "release_date_on_eshop": "2012-06-28",
+  "product_code": "TWL-N-KXEE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

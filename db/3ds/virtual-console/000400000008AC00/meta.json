@@ -1,27 +1,27 @@
 {
-    "tid": "000400000008AC00",
-    "uid": "50010000013050",
-    "name": "Kirby's Star Stacker™",
-    "formal_name": "Kirby's Star Stacker™",
-    "description": "Original Release Date: April 1997\n<p>\nJoin Kirby as he stacks the falling stars with help from his friends, Rick the Hamster, Kine the Sunfish, and Coo the Owl. Watch out for King Dedede. He is out to stop you!  With a few quick moves and some well-timed strategy, you can quickly outwit him and move on to the next challenging level. \n\nKirby’s Star Stacker features pure puzzle fun for everyone. From above, blocks rain down constantly.  From below, whole lines appear with unrelenting clock-like regularity. Simply sandwich the stars between Kirby’s pals and you’ll soon be on your way to the high score.",
-    "release_date_on_eshop": "2013-01-17",
-    "product_code": "CTR-N-RBYE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000008AC00",
+  "uid": "50010000013050",
+  "name": "Kirby's Star Stacker™",
+  "formal_name": "Kirby's Star Stacker™",
+  "description": "Original Release Date: April 1997\n<p>\nJoin Kirby as he stacks the falling stars with help from his friends, Rick the Hamster, Kine the Sunfish, and Coo the Owl. Watch out for King Dedede. He is out to stop you!  With a few quick moves and some well-timed strategy, you can quickly outwit him and move on to the next challenging level. \n\nKirby’s Star Stacker features pure puzzle fun for everyone. From above, blocks rain down constantly.  From below, whole lines appear with unrelenting clock-like regularity. Simply sandwich the stars between Kirby’s pals and you’ll soon be on your way to the high score.",
+  "release_date_on_eshop": "2013-01-17",
+  "product_code": "CTR-N-RBYE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

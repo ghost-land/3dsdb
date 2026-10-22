@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000FE200",
-    "uid": "50010000028616",
-    "name": "Talking Phrasebook -\n7 Languages",
-    "formal_name": "Talking Phrasebook - 7 Languages",
-    "description": "Don't get lost in translation when you travel! This phrasebook covers most situations you may encounter, with 780 useful expressions in 7 languages, organized in 53 categories.\n<br><br>\nTranslate from any language to any other among English, French, German, Italian, Portuguese, Spanish and Dutch!\n<br><br>\nGet both the spelling and the pronunciation right, as everything is written and spoken!\n<br><br>\nThis application is offline: it does not require network access.",
-    "release_date_on_eshop": "2014-12-11",
-    "product_code": "CTR-N-JPHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Travel"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000FE200",
+  "uid": "50010000028616",
+  "name": "Talking Phrasebook -\n7 Languages",
+  "formal_name": "Talking Phrasebook - 7 Languages",
+  "description": "Don't get lost in translation when you travel! This phrasebook covers most situations you may encounter, with 780 useful expressions in 7 languages, organized in 53 categories.\n<br><br>\nTranslate from any language to any other among English, French, German, Italian, Portuguese, Spanish and Dutch!\n<br><br>\nGet both the spelling and the pronunciation right, as everything is written and spoken!\n<br><br>\nThis application is offline: it does not require network access.",
+  "release_date_on_eshop": "2014-12-11",
+  "product_code": "CTR-N-JPHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Travel"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

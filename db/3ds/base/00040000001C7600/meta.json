@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001C7600",
-    "uid": "50010000042937",
-    "name": "MIGHTY GUNVOLT BURST",
-    "formal_name": "MIGHTY GUNVOLT BURST",
-    "description": "Rather than make a direct sequel to their bite-sized 2D action game Mighty Gunvolt from 2014, Inti Creates has made the next installment in the Mighty Gunvolt series a brand new full-sized game that features characters from multiple universes with Gunvolt (Azure Striker Gunvolt) and Beck (Mighty No. 9) taking the stage once again, but in a much deeper and more expansive world that differs greatly from the original in many ways.\n<br>\n<br>The game systems have been completely revamped and powered up with lots of new additions, including a deep character customization system that lets you mold and shape your character into the ultimate hero that works best for you! \n<br>\n<br>But that's not all! The new Burst Combo system rewards you for finishing off enemies and bosses up close and personal.\n<br>\n<br>The classic pixel style graphics have also been completely redone to blur the line between 8-bit and 16-bit and take you back to the golden age of 2D action games!",
-    "release_date_on_eshop": "2017-06-29",
-    "product_code": "CTR-N-J2VP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C7600",
+  "uid": "50010000042937",
+  "name": "MIGHTY GUNVOLT BURST",
+  "formal_name": "MIGHTY GUNVOLT BURST",
+  "description": "Rather than make a direct sequel to their bite-sized 2D action game Mighty Gunvolt from 2014, Inti Creates has made the next installment in the Mighty Gunvolt series a brand new full-sized game that features characters from multiple universes with Gunvolt (Azure Striker Gunvolt) and Beck (Mighty No. 9) taking the stage once again, but in a much deeper and more expansive world that differs greatly from the original in many ways.\n<br>\n<br>The game systems have been completely revamped and powered up with lots of new additions, including a deep character customization system that lets you mold and shape your character into the ultimate hero that works best for you! \n<br>\n<br>But that's not all! The new Burst Combo system rewards you for finishing off enemies and bosses up close and personal.\n<br>\n<br>The classic pixel style graphics have also been completely redone to blur the line between 8-bit and 16-bit and take you back to the golden age of 2D action games!",
+  "release_date_on_eshop": "2017-06-29",
+  "product_code": "CTR-N-J2VP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000019DD00",
-    "uid": "50010000041337",
-    "name": "Kingdom's Item Shop",
-    "formal_name": "Kingdom's Item Shop",
-    "description": "Kingdom's Item Shop is a game that simulate running an item shop in a Fantasy Role-Playing Game Universe.\n<br>You are the new owner of the item shop. Your target is to run your property and make it the most popular item shop of the Kingdom.\n<br>To become a popular owner, you need to explore dungeons for ingredients, find new composition recipes, compose items, and sell items to whom in need.\n<br>While you do outdoor adventures, your old faithful 'Mr. Butler' can receive payments for you. Fear not and step up to build your own specific item shop!",
-    "release_date_on_eshop": "2016-09-08",
-    "product_code": "CTR-N-KDGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019DD00",
+  "uid": "50010000041337",
+  "name": "Kingdom's Item Shop",
+  "formal_name": "Kingdom's Item Shop",
+  "description": "Kingdom's Item Shop is a game that simulate running an item shop in a Fantasy Role-Playing Game Universe.\n<br>You are the new owner of the item shop. Your target is to run your property and make it the most popular item shop of the Kingdom.\n<br>To become a popular owner, you need to explore dungeons for ingredients, find new composition recipes, compose items, and sell items to whom in need.\n<br>While you do outdoor adventures, your old faithful 'Mr. Butler' can receive payments for you. Fear not and step up to build your own specific item shop!",
+  "release_date_on_eshop": "2016-09-08",
+  "product_code": "CTR-N-KDGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

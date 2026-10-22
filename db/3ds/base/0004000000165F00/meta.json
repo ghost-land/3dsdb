@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000165F00",
-    "uid": "50010000041503",
-    "name": "Severed",
-    "formal_name": "Severed",
-    "description": "Download Severed on Nintendo 3DS™ for free if you have already downloaded Severed on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>Take control of a one-armed warrior named Sasha, wielding a living sword on her journey through a nightmare world in search of her family. Swipe-based touch controls will let you solve puzzles, find secrets, and do battle with a host of disturbing monsters. As the journey goes on, you’ll unlock new abilities, ascend an RPG-style upgrade tree, and tease apart the mysteries of the dark fantasy universe Sasha finds herself in.\n<br>\n<br>KEY FEATURES\n<br>- Dungeon Combat: Master offensive and defensive touch combat techniques to survive intense battles against a menagerie of enemies.\n<br>- Severing: Best enemies in combat for a chance at severing their body parts -- then wear them to gain new powers or consume them to upgrade your equipment and abilities.\n<br>- Exploration: Follow branching routes through the unknown, using your wits to avoid hazards and solve puzzles.\n<br>- Music: Original soundtrack from Juno- and Polaris-nominated band YAMANTAKA // SONIC TITAN featuring Pantayo.",
-    "release_date_on_eshop": "2016-09-22",
-    "product_code": "CTR-N-KSVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000165F00",
+  "uid": "50010000041503",
+  "name": "Severed",
+  "formal_name": "Severed",
+  "description": "Download Severed on Nintendo 3DS™ for free if you have already downloaded Severed on Wii U™.\n<br>(Your Wii U™ and Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>Take control of a one-armed warrior named Sasha, wielding a living sword on her journey through a nightmare world in search of her family. Swipe-based touch controls will let you solve puzzles, find secrets, and do battle with a host of disturbing monsters. As the journey goes on, you’ll unlock new abilities, ascend an RPG-style upgrade tree, and tease apart the mysteries of the dark fantasy universe Sasha finds herself in.\n<br>\n<br>KEY FEATURES\n<br>- Dungeon Combat: Master offensive and defensive touch combat techniques to survive intense battles against a menagerie of enemies.\n<br>- Severing: Best enemies in combat for a chance at severing their body parts -- then wear them to gain new powers or consume them to upgrade your equipment and abilities.\n<br>- Exploration: Follow branching routes through the unknown, using your wits to avoid hazards and solve puzzles.\n<br>- Music: Original soundtrack from Juno- and Polaris-nominated band YAMANTAKA // SONIC TITAN featuring Pantayo.",
+  "release_date_on_eshop": "2016-09-22",
+  "product_code": "CTR-N-KSVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

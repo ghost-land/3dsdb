@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000F3100",
-    "uid": "50010000016993",
-    "name": "Professor Layton und\ndas Vermächtnis von Aslant™",
-    "formal_name": "Professor Layton und\n<br>das Vermächtnis von Aslant™",
-    "description": "Das letzte Kapitel der Professor\n<br>Layton-Serie ist gleichzeitig das bisher\n<br>anspruchsvollste Abenteuer des\n<br>cleveren Gentlemans. Nachdem er\n<br>einen geheimnisvollen Brief erhalten\n<br>hat, in dem behauptet wird, dass eine\n<br>lebendige Mumie entdeckt wurde,\n<br>macht sich Professor Layton mit\n<br>seinem Team auf den Weg in eine\n<br>Stadt in der frostigen Arktis. Dort\n<br>befreien sie eine junge Dame aus\n<br>ihrem eisigen Gefängnis. So beginnt\n<br>ein packendes Abenteuer an Bord\n<br>eines Luftschiffes, welches den\n<br>Professor und sein Gefolge an\n<br>spektakuläre Orte führt, wo sie die\n<br>Geheimnisse antiker Zivilisationen zu\n<br>ergründen versuchen.",
-    "release_date_on_eshop": "2013-11-08",
-    "product_code": "CTR-P-AL6D",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F3100",
+  "uid": "50010000016993",
+  "name": "Professor Layton und\ndas Vermächtnis von Aslant™",
+  "formal_name": "Professor Layton und\n<br>das Vermächtnis von Aslant™",
+  "description": "Das letzte Kapitel der Professor\n<br>Layton-Serie ist gleichzeitig das bisher\n<br>anspruchsvollste Abenteuer des\n<br>cleveren Gentlemans. Nachdem er\n<br>einen geheimnisvollen Brief erhalten\n<br>hat, in dem behauptet wird, dass eine\n<br>lebendige Mumie entdeckt wurde,\n<br>macht sich Professor Layton mit\n<br>seinem Team auf den Weg in eine\n<br>Stadt in der frostigen Arktis. Dort\n<br>befreien sie eine junge Dame aus\n<br>ihrem eisigen Gefängnis. So beginnt\n<br>ein packendes Abenteuer an Bord\n<br>eines Luftschiffes, welches den\n<br>Professor und sein Gefolge an\n<br>spektakuläre Orte führt, wo sie die\n<br>Geheimnisse antiker Zivilisationen zu\n<br>ergründen versuchen.",
+  "release_date_on_eshop": "2013-11-08",
+  "product_code": "CTR-P-AL6D",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

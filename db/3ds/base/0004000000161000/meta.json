@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000161000",
-    "uid": "50010000034095",
-    "name": "Angry Video Game Nerd\n<br>Adventures",
-    "formal_name": "Angry Video Game Nerd Adventures",
-    "description": "Influenced by retro classics, Angry Video Game Nerd Adventures features the AVGN and friends as they blast their way through 10 levels of fun, fast paced 2D action based on the AVGN's adventures in his online series. With multiple playable characters, power ups, cameos galore, tons of secrets and more, we're making a game that all fans of video games will enjoy. If you're a fan of old school difficulty, fart jokes, The Nerd and/or old school platformers chances are you'll enjoy AVGN Adventures.\n<br>\n<br>Some people say the game is \"hard,\" but we're saying it's \"rewarding!\" Why? Because every check point you get, every boss you beat, every accomplishment is earned. You feel like a stud. This is a game that allows you to brag to your friends if you beat it.\n<br>\n<br>Yes, this is the official The Angry Video Game Nerd game!",
-    "release_date_on_eshop": "2015-06-04",
-    "product_code": "CTR-N-KNAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "17"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "This product is intended for mature audiences!\n<br>\n<br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000161000",
+  "uid": "50010000034095",
+  "name": "Angry Video Game Nerd\n<br>Adventures",
+  "formal_name": "Angry Video Game Nerd Adventures",
+  "description": "Influenced by retro classics, Angry Video Game Nerd Adventures features the AVGN and friends as they blast their way through 10 levels of fun, fast paced 2D action based on the AVGN's adventures in his online series. With multiple playable characters, power ups, cameos galore, tons of secrets and more, we're making a game that all fans of video games will enjoy. If you're a fan of old school difficulty, fart jokes, The Nerd and/or old school platformers chances are you'll enjoy AVGN Adventures.\n<br>\n<br>Some people say the game is \"hard,\" but we're saying it's \"rewarding!\" Why? Because every check point you get, every boss you beat, every accomplishment is earned. You feel like a stud. This is a game that allows you to brag to your friends if you beat it.\n<br>\n<br>Yes, this is the official The Angry Video Game Nerd game!",
+  "release_date_on_eshop": "2015-06-04",
+  "product_code": "CTR-N-KNAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "17"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "This product is intended for mature audiences!\n<br>\n<br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

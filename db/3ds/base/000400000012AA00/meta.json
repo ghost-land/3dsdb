@@ -1,33 +1,33 @@
 {
-    "tid": "000400000012AA00",
-    "uid": "50010000027475",
-    "name": "LEGO® Batman™ 3:\nAu-delà de Gotham",
-    "formal_name": "LEGO® Batman™ 3:\nAu-delà de Gotham",
-    "description": "La célèbre franchise LEGO Batman\nest de retour dans une nouvelle\naventure bourrée d'action qui vous\nmènera jusque dans l'espace ! Dans\nLEGO Batman™ 3: Au-delà de\nGotham, le justicier masqué rejoint\nles rangs des Super-Héros de\nl'univers de DC Comics et se lance à\ntravers la galaxie pour empêcher le\ndiabolique Brainiac de détruire la\nTerre. Grâce aux pouvoirs des\nAnneaux de Lanterne, Brainiac rétrécit\ndes mondes pour enrichir sa collection\nde cités miniatures qu'il a glanées aux\nquatre coins de l’univers. À présent,\nles plus grands Super-Héros et les\nSuper-Vilains les plus rusés doivent\ns'unir pour collecter les Anneaux de\nLanterne et arrêter Brainiac avant qu'il\nne soit trop tard.",
-    "release_date_on_eshop": "2014-11-12",
-    "product_code": "CTR-P-BTMY",
-    "platform_name": "Nintendo 3DS (carte/téléch.)",
-    "region": "France",
-    "genres": [
-        "Action",
-        "Aventure"
-    ],
-    "features": [
-        "Affichage 3D"
-    ],
-    "languages": [
-        "Anglais",
-        "Espagnol",
-        "Français",
-        "Allemand",
-        "Italien",
-        "Néerlandais"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": "* Voix du jeu en français.",
-    "descriptors": []
+  "tid": "000400000012AA00",
+  "uid": "50010000027475",
+  "name": "LEGO® Batman™ 3:\nAu-delà de Gotham",
+  "formal_name": "LEGO® Batman™ 3:\nAu-delà de Gotham",
+  "description": "La célèbre franchise LEGO Batman\nest de retour dans une nouvelle\naventure bourrée d'action qui vous\nmènera jusque dans l'espace ! Dans\nLEGO Batman™ 3: Au-delà de\nGotham, le justicier masqué rejoint\nles rangs des Super-Héros de\nl'univers de DC Comics et se lance à\ntravers la galaxie pour empêcher le\ndiabolique Brainiac de détruire la\nTerre. Grâce aux pouvoirs des\nAnneaux de Lanterne, Brainiac rétrécit\ndes mondes pour enrichir sa collection\nde cités miniatures qu'il a glanées aux\nquatre coins de l’univers. À présent,\nles plus grands Super-Héros et les\nSuper-Vilains les plus rusés doivent\ns'unir pour collecter les Anneaux de\nLanterne et arrêter Brainiac avant qu'il\nne soit trop tard.",
+  "release_date_on_eshop": "2014-11-12",
+  "product_code": "CTR-P-BTMY",
+  "platform_name": "Nintendo 3DS (carte/téléch.)",
+  "region": "France",
+  "genres": [
+    "Action",
+    "Aventure"
+  ],
+  "features": [
+    "Affichage 3D"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": "* Voix du jeu en français.",
+  "descriptors": []
 }

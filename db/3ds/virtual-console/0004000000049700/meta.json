@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000049700",
-    "uid": "50010000007153",
-    "name": "Avenging Spirit",
-    "formal_name": "Avenging Spirit",
-    "description": "You have been deep sixed by\ngangsters and turned into a ghost.\nTo make matters worse, the mob has\nkidnapped your girlfriend and held\nher for ransom, they want the secret\nof ghost energy.<br>\n<br>\nTo rescue her and get even with the\nmob, you must inhabit any one of 20\ndifferent creatures and search for\nyour girlfriend on 6 dangerous levels.<br>\n<br>\nSo grab a body, any body, make a\nbeeline to the big rescue, and rescue\nyour doll face.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RARP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000049700",
+  "uid": "50010000007153",
+  "name": "Avenging Spirit",
+  "formal_name": "Avenging Spirit",
+  "description": "You have been deep sixed by\ngangsters and turned into a ghost.\nTo make matters worse, the mob has\nkidnapped your girlfriend and held\nher for ransom, they want the secret\nof ghost energy.<br>\n<br>\nTo rescue her and get even with the\nmob, you must inhabit any one of 20\ndifferent creatures and search for\nyour girlfriend on 6 dangerous levels.<br>\n<br>\nSo grab a body, any body, make a\nbeeline to the big rescue, and rescue\nyour doll face.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RARP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

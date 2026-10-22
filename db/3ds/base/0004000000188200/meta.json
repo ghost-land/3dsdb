@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000188200",
-    "uid": "50010000039981",
-    "name": "Justice Chronicles",
-    "formal_name": "Justice Chronicles",
-    "description": "Kline, a novice High Beast Knight is sent on reconnaissance into Laft, the Earth-Depths, where he comes across Alia, a Battle Maiden who has suffered terrible injuries and is close to death. In order to help her, he forms a partnership with the God of Death, Rooselevy. Alia lives, but in return the young knight must give up his life...\n<br>\n<br>In a world on the brink of war, the newly acquainted duo must fight destiny itself in order to save the world from the ever creeping darkness that is threatening to consume everything, and once and for all restore the balance of the world.\n<br>\n<br>Featuring 40 hours of unique gameplay, a rich storyline mixed with a large variety of characters and enemies, as well as many more intriguing features such as powerful meteorites that grow with the character, animated turn-based battles, a large quantity of side quests, material collection, weapon crafting, and beautiful 8-bit dot artwork, Justice Chronicles really captures the essence of a true Role Playing Game!",
-    "release_date_on_eshop": "2016-03-31",
-    "product_code": "CTR-N-KLNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
-    "descriptors": []
+  "tid": "0004000000188200",
+  "uid": "50010000039981",
+  "name": "Justice Chronicles",
+  "formal_name": "Justice Chronicles",
+  "description": "Kline, a novice High Beast Knight is sent on reconnaissance into Laft, the Earth-Depths, where he comes across Alia, a Battle Maiden who has suffered terrible injuries and is close to death. In order to help her, he forms a partnership with the God of Death, Rooselevy. Alia lives, but in return the young knight must give up his life...\n<br>\n<br>In a world on the brink of war, the newly acquainted duo must fight destiny itself in order to save the world from the ever creeping darkness that is threatening to consume everything, and once and for all restore the balance of the world.\n<br>\n<br>Featuring 40 hours of unique gameplay, a rich storyline mixed with a large variety of characters and enemies, as well as many more intriguing features such as powerful meteorites that grow with the character, animated turn-based battles, a large quantity of side quests, material collection, weapon crafting, and beautiful 8-bit dot artwork, Justice Chronicles really captures the essence of a true Role Playing Game!",
+  "release_date_on_eshop": "2016-03-31",
+  "product_code": "CTR-N-KLNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
+  "descriptors": []
 }

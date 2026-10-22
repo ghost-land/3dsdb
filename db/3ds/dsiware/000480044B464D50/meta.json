@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B464D50",
-    "uid": "50010000003361",
-    "name": "Faceez: Monsters!",
-    "formal_name": "Faceez: Monsters!",
-    "description": "Faceez is back, and this time it\nwill...scare your friends to death!\nFaceez: Monsters! features new\ndisguises and accessories, each more\nfrightening than the other!<br>\n<br>\nLiving dead, werewolves, vampires,\nzombies... Take pictures of your\nfriends’ faces and turn them into\nabominable monsters!<br>\n<br>\nPlace them in your own settings!\nLaughter and fun guaranteed.<br>\n<br>\nThanks to the Facebook connection\nof your Nintendo DSi, share your\nmonstrous creations with the entire\nworld.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KFMP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B464D50",
+  "uid": "50010000003361",
+  "name": "Faceez: Monsters!",
+  "formal_name": "Faceez: Monsters!",
+  "description": "Faceez is back, and this time it\nwill...scare your friends to death!\nFaceez: Monsters! features new\ndisguises and accessories, each more\nfrightening than the other!<br>\n<br>\nLiving dead, werewolves, vampires,\nzombies... Take pictures of your\nfriends’ faces and turn them into\nabominable monsters!<br>\n<br>\nPlace them in your own settings!\nLaughter and fun guaranteed.<br>\n<br>\nThanks to the Facebook connection\nof your Nintendo DSi, share your\nmonstrous creations with the entire\nworld.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KFMP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

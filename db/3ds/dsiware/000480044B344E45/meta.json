@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B344E45",
-    "uid": "50010000010297",
-    "name": "Snakenoid Deluxe",
-    "formal_name": "Snakenoid Deluxe",
-    "description": "This game is a unique blend of classic game concepts. Using the stylus, the player controls a snake on the lower screen and tries to use it to bounce a ball and destroy boulders on the upper screen. In each level the boulders are organized in a different shape.\n\nAt the same time, the snake has to avoid enemies and try to collect bonuses that fall out of the destroyed boulders. The aim of the game is to finish all of the levels with the most points. The snake controlled by the player is composed of flexibly connected segments which can bounce the ball.",
-    "release_date_on_eshop": "2012-05-24",
-    "product_code": "TWL-N-K4NE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B344E45",
+  "uid": "50010000010297",
+  "name": "Snakenoid Deluxe",
+  "formal_name": "Snakenoid Deluxe",
+  "description": "This game is a unique blend of classic game concepts. Using the stylus, the player controls a snake on the lower screen and tries to use it to bounce a ball and destroy boulders on the upper screen. In each level the boulders are organized in a different shape.\n\nAt the same time, the snake has to avoid enemies and try to collect bonuses that fall out of the destroyed boulders. The aim of the game is to finish all of the levels with the most points. The snake controlled by the player is composed of flexibly connected segments which can bounce the ball.",
+  "release_date_on_eshop": "2012-05-24",
+  "product_code": "TWL-N-K4NE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

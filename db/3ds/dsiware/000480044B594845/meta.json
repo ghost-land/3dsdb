@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B594845",
-    "uid": "50010000012675",
-    "name": "Rytmik World Music",
-    "formal_name": "Rytmik World Music",
-    "description": "Rytmik World Music is an application for creating rhythmical and melodic themes and for composing whole songs. Library contains 117 carefully picked authentic sounds of ethnic drums, percussions, plucked, mallet, bowed and wind instruments, complemented with a selection of synth drums, basses and pads, creating together a strong and creative mix of sounds and rhythms for your compositions not just from the sphere of world music. Compositions being played are visualized on the upper screen in the classical demoscene style with 20 types of visualization to choose from.",
-    "release_date_on_eshop": "2012-12-13",
-    "product_code": "TWL-N-KYHE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B594845",
+  "uid": "50010000012675",
+  "name": "Rytmik World Music",
+  "formal_name": "Rytmik World Music",
+  "description": "Rytmik World Music is an application for creating rhythmical and melodic themes and for composing whole songs. Library contains 117 carefully picked authentic sounds of ethnic drums, percussions, plucked, mallet, bowed and wind instruments, complemented with a selection of synth drums, basses and pads, creating together a strong and creative mix of sounds and rhythms for your compositions not just from the sphere of world music. Compositions being played are visualized on the upper screen in the classical demoscene style with 20 types of visualization to choose from.",
+  "release_date_on_eshop": "2012-12-13",
+  "product_code": "TWL-N-KYHE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

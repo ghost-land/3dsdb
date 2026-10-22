@@ -1,29 +1,29 @@
 {
-    "tid": "000400000006D100",
-    "uid": "50010000014553",
-    "name": "Luxor",
-    "formal_name": "Luxor",
-    "description": "The mysterious goddess, Isis, has\nenlisted you to battle Set and his evil\nminions. The challenge will not be an\neasy one. Use your mystical winged\nscarab to shoot magical spheres and\ndestroy the approaching colored\nspheres by making matches of three or\nmore. Stop them all before they can\nreach the pyramids at the ends of the\npaths... or all of Egypt is doomed!",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-P-ALXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006D100",
+  "uid": "50010000014553",
+  "name": "Luxor",
+  "formal_name": "Luxor",
+  "description": "The mysterious goddess, Isis, has\nenlisted you to battle Set and his evil\nminions. The challenge will not be an\neasy one. Use your mystical winged\nscarab to shoot magical spheres and\ndestroy the approaching colored\nspheres by making matches of three or\nmore. Stop them all before they can\nreach the pyramids at the ends of the\npaths... or all of Egypt is doomed!",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-P-ALXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "0004000200169601",
-    "uid": "50010000040098",
-    "name": "DRAGON BALL Z: Extreme\nButoden Update",
-    "formal_name": "DRAGON BALL Z: Extreme\nButoden Update Ver. 1.1.0",
-    "description": "This is an update for DRAGON BALL Z: Extreme Butoden. This download does not contain the full version of the title. In order to use this update, you must have the full version of DRAGON BALL Z: Extreme Butoden.",
-    "release_date_on_eshop": "2016-04-07",
-    "product_code": "CTR-U-BDVE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Cartoon Violence"
-    ]
+  "tid": "0004000200169601",
+  "uid": "50010000040098",
+  "name": "DRAGON BALL Z: Extreme\nButoden Update",
+  "formal_name": "DRAGON BALL Z: Extreme\nButoden Update Ver. 1.1.0",
+  "description": "This is an update for DRAGON BALL Z: Extreme Butoden. This download does not contain the full version of the title. In order to use this update, you must have the full version of DRAGON BALL Z: Extreme Butoden.",
+  "release_date_on_eshop": "2016-04-07",
+  "product_code": "CTR-U-BDVE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Cartoon Violence"
+  ]
 }

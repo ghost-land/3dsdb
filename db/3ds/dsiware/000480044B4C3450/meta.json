@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B4C3450",
-    "uid": "50010000007147",
-    "name": "My Australian Farm",
-    "formal_name": "My Australian Farm",
-    "description": "My Australian Farm is a breeding\nsimulation game! At the beginning, all\nyou own is an empty field, a little\nmoney and a single emu. You need to\nfeed the emu and take care of it!<br>\n<br>\nWell-fed with seed, it will lay eggs\nwhich can then be sold and with this\nmoney, you can buy new animals at\nthe Farmers’ Market and purchase\nequipment from the Shopkeeper.<br>\n<br>\nLittle by little as your farm builds up,\nyou will unlock certain bonuses\n(a grain store, a wind turbine, a sacred\nstone, etc.) and you will be able to\nexchange your animals with your\nfriends who play My Farm,\nMy Exotic Farm, My Asian farm or\nMy Australian Farm!<br>\n<br>\n• 6 kinds of animals to customise\n• Take care of your animals (feed,\n  clean, protect, etc.)\n• Many farm improvements to buy\n  and bonuses to collect\n• Exchange of animals with other\n  players<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KL4P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Lifestyle"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C3450",
+  "uid": "50010000007147",
+  "name": "My Australian Farm",
+  "formal_name": "My Australian Farm",
+  "description": "My Australian Farm is a breeding\nsimulation game! At the beginning, all\nyou own is an empty field, a little\nmoney and a single emu. You need to\nfeed the emu and take care of it!<br>\n<br>\nWell-fed with seed, it will lay eggs\nwhich can then be sold and with this\nmoney, you can buy new animals at\nthe Farmers’ Market and purchase\nequipment from the Shopkeeper.<br>\n<br>\nLittle by little as your farm builds up,\nyou will unlock certain bonuses\n(a grain store, a wind turbine, a sacred\nstone, etc.) and you will be able to\nexchange your animals with your\nfriends who play My Farm,\nMy Exotic Farm, My Asian farm or\nMy Australian Farm!<br>\n<br>\n• 6 kinds of animals to customise\n• Take care of your animals (feed,\n  clean, protect, etc.)\n• Many farm improvements to buy\n  and bonuses to collect\n• Exchange of animals with other\n  players<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KL4P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Lifestyle"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

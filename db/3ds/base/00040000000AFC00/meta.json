@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000AFC00",
-    "uid": "50010000014495",
-    "name": "デジモンワールド\nRe:Digitize Decode",
-    "formal_name": "デジモンワールド\nRe:Digitize Decode",
-    "description": "デジモンの食事やトイレ、睡眠の世話を行いながら、共に異世界を冒険していく育成RPG。\n<br>成長することでデジモンはさまざまな姿へ「進化」しパワーアップ。限られた寿命の中で最強のデジモンを育てあげます!\n<br>育成可能デジモンは160体以上、ゲームボリュームは前作の2倍以上に! さらに新しいシステムが盛りだくさん!!",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-ADJJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング",
-        "アドベンチャー"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "ソフトの内容はパッケージ版(価格:5,637円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-    "descriptors": []
+  "tid": "00040000000AFC00",
+  "uid": "50010000014495",
+  "name": "デジモンワールド\nRe:Digitize Decode",
+  "formal_name": "デジモンワールド\nRe:Digitize Decode",
+  "description": "デジモンの食事やトイレ、睡眠の世話を行いながら、共に異世界を冒険していく育成RPG。\n<br>成長することでデジモンはさまざまな姿へ「進化」しパワーアップ。限られた寿命の中で最強のデジモンを育てあげます!\n<br>育成可能デジモンは160体以上、ゲームボリュームは前作の2倍以上に! さらに新しいシステムが盛りだくさん!!",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-ADJJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング",
+    "アドベンチャー"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "ソフトの内容はパッケージ版(価格:5,637円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B504345",
-    "uid": "50010000003181",
-    "name": "Animal Puzzle Adventure",
-    "formal_name": "Animal Puzzle Adventure",
-    "description": "Animal Puzzle Adventure is a simple puzzle game where you have to lead various animals to their respective barns placed on the map, while avoiding pitfalls and cliffs and using the objects on the field to your advantage. There are 10 stages per level with a total of five levels, creating 50 stages in all! After clearing a stage, you unlock a piece of a photo. Once you clear all 10 stages in a level, the wallpaper for that level becomes unlocked and you can then view it in the gallery. With so many puzzles to unravel, you'll find yourself immersed in the puzzle-riffic world of Animal Puzzle Adventure!",
-    "release_date_on_eshop": "2010-01-04",
-    "product_code": "TWL-N-KPCE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504345",
+  "uid": "50010000003181",
+  "name": "Animal Puzzle Adventure",
+  "formal_name": "Animal Puzzle Adventure",
+  "description": "Animal Puzzle Adventure is a simple puzzle game where you have to lead various animals to their respective barns placed on the map, while avoiding pitfalls and cliffs and using the objects on the field to your advantage. There are 10 stages per level with a total of five levels, creating 50 stages in all! After clearing a stage, you unlock a piece of a photo. Once you clear all 10 stages in a level, the wallpaper for that level becomes unlocked and you can then view it in the gallery. With so many puzzles to unravel, you'll find yourself immersed in the puzzle-riffic world of Animal Puzzle Adventure!",
+  "release_date_on_eshop": "2010-01-04",
+  "product_code": "TWL-N-KPCE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

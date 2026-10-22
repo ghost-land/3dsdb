@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000BF200",
-    "uid": "50010000021133",
-    "name": "Bubble Pop World",
-    "formal_name": "Bubble Pop World",
-    "description": "Bubble Pop World is a 3D match-three game in which you pop bubbles with the same colors. It is based on Augmented Reality technology, so the Nintendo 3DS AR Card is required. There are 120 puzzle and arcade levels to enjoy, or you can edit more of your own levels and share them with friends via QR Codes. In Arcade Mode you also travel around the world to discover undersea minigames. \n<br><br>\nGame features:\n<br><br>\nAR card based match-three puzzle game\n120 Puzzle and Arcade levels\nEdit up to 128 of your own levels and share with friends\nDiscover the world in 8 underwater minigames\nUnlockable  trophies",
-    "release_date_on_eshop": "2014-03-13",
-    "product_code": "CTR-N-JB8E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BF200",
+  "uid": "50010000021133",
+  "name": "Bubble Pop World",
+  "formal_name": "Bubble Pop World",
+  "description": "Bubble Pop World is a 3D match-three game in which you pop bubbles with the same colors. It is based on Augmented Reality technology, so the Nintendo 3DS AR Card is required. There are 120 puzzle and arcade levels to enjoy, or you can edit more of your own levels and share them with friends via QR Codes. In Arcade Mode you also travel around the world to discover undersea minigames. \n<br><br>\nGame features:\n<br><br>\nAR card based match-three puzzle game\n120 Puzzle and Arcade levels\nEdit up to 128 of your own levels and share with friends\nDiscover the world in 8 underwater minigames\nUnlockable  trophies",
+  "release_date_on_eshop": "2014-03-13",
+  "product_code": "CTR-N-JB8E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

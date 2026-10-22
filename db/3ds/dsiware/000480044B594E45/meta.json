@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B594E45",
-    "uid": "50010000012738",
-    "name": "Cake Ninja: XMAS",
-    "formal_name": "Cake Ninja: XMAS",
-    "description": "It is simple, fun and very popular game series!           \n<br><br>\nSlide the stylus across the screen to slice snowballs into small pieces like a true Ninja warrior.        \n<br><br>\nThe more snowballs you slice, the longer you stay around, and the longer you survive, the higher your score. How long can you last?         \n<br><br>                         \nKey Features:<br>                                   \nSimple, addictive gameplay<br>            \nColorful 3D graphics<br>             \nPrecise slice recognition",
-    "release_date_on_eshop": "2012-12-20",
-    "product_code": "TWL-N-KYNE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B594E45",
+  "uid": "50010000012738",
+  "name": "Cake Ninja: XMAS",
+  "formal_name": "Cake Ninja: XMAS",
+  "description": "It is simple, fun and very popular game series!           \n<br><br>\nSlide the stylus across the screen to slice snowballs into small pieces like a true Ninja warrior.        \n<br><br>\nThe more snowballs you slice, the longer you stay around, and the longer you survive, the higher your score. How long can you last?         \n<br><br>                         \nKey Features:<br>                                   \nSimple, addictive gameplay<br>            \nColorful 3D graphics<br>             \nPrecise slice recognition",
+  "release_date_on_eshop": "2012-12-20",
+  "product_code": "TWL-N-KYNE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

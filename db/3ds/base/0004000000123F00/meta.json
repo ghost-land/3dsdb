@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000123F00",
-    "uid": "50010000025155",
-    "name": "Thorium Wars: Attack of\nthe Skyfighter",
-    "formal_name": "Thorium Wars: Attack of\nthe Skyfighter",
-    "description": "Humanity thought that its victory in the war with the Thorions, a race of fearless war machines run amok, would restore peace to the Earth. But a generation later, humanity's worst fear is realized: the Thorions have returned, seeking revenge and aiming to wipe out the human race in a quest to dominate the galaxy.\n<br><br>\nIt's up to you to go on the attack against the Thorions and defeat them in battle once more. Pilot your choice of three Skyfighters across alien worlds to protect human colonies and destroy Thorion forces. Blast away at hulking mechs, menacing gun turrets, and swarming drones. Push your dogfighting skills to their limits against adept Thorion Skyfighters.",
-    "release_date_on_eshop": "2014-08-28",
-    "product_code": "CTR-N-JTZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000123F00",
+  "uid": "50010000025155",
+  "name": "Thorium Wars: Attack of\nthe Skyfighter",
+  "formal_name": "Thorium Wars: Attack of\nthe Skyfighter",
+  "description": "Humanity thought that its victory in the war with the Thorions, a race of fearless war machines run amok, would restore peace to the Earth. But a generation later, humanity's worst fear is realized: the Thorions have returned, seeking revenge and aiming to wipe out the human race in a quest to dominate the galaxy.\n<br><br>\nIt's up to you to go on the attack against the Thorions and defeat them in battle once more. Pilot your choice of three Skyfighters across alien worlds to protect human colonies and destroy Thorion forces. Blast away at hulking mechs, menacing gun turrets, and swarming drones. Push your dogfighting skills to their limits against adept Thorion Skyfighters.",
+  "release_date_on_eshop": "2014-08-28",
+  "product_code": "CTR-N-JTZE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

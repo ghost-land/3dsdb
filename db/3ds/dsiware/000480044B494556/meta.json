@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B494556",
-    "uid": "50010000004002",
-    "name": "Music on:\nElectric Guitar",
-    "formal_name": "Music on:\nElectric Guitar",
-    "description": "The coolest Electric Guitar in your\npocket!Transform your Nintendo DSi\ninto the most incredible electric guitar\nand your stylus into a pick. You will\nbe amazed at how easy it is to play\nyour favourite songs, even if music\nisn't your thing!Aside from the 950+\nchord catalog, that you can see and\nhear, and an unbelievably realistic\nsound, you also have 3 pedal effects:\nDistortion, Flanger & Delay, a special\nscreen for melodies and 32 chord\nshort-cuts.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KIEV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B494556",
+  "uid": "50010000004002",
+  "name": "Music on:\nElectric Guitar",
+  "formal_name": "Music on:\nElectric Guitar",
+  "description": "The coolest Electric Guitar in your\npocket!Transform your Nintendo DSi\ninto the most incredible electric guitar\nand your stylus into a pick. You will\nbe amazed at how easy it is to play\nyour favourite songs, even if music\nisn't your thing!Aside from the 950+\nchord catalog, that you can see and\nhear, and an unbelievably realistic\nsound, you also have 3 pedal effects:\nDistortion, Flanger & Delay, a special\nscreen for melodies and 32 chord\nshort-cuts.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KIEV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

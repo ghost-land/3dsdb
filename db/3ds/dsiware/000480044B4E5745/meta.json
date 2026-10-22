@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4E5745",
-    "uid": "50010000010867",
-    "name": "3, 2, 1… WordsUp!",
-    "formal_name": "3, 2, 1… WordsUp!",
-    "description": "Show your command of the language in 3, 2, 1... WordsUp! Build the maximum number of words with the same combination of letters. Do it before time runs out or you will lose! Challenge yourself in this unique game of wit and skill. Practice your mental agility and your knowledge of the language in 3, 2, 1... WordsUp!\n\nMain features:\n* Two challenging game modes.\n* Practice vocabulary in five languages: English, French, Spanish, Italian and Portuguese; the perfect complement to your language course!\n* Tens of thousands of words to discover.\n* Unlimited hours of play.",
-    "release_date_on_eshop": "2012-07-05",
-    "product_code": "TWL-N-KNWE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4E5745",
+  "uid": "50010000010867",
+  "name": "3, 2, 1… WordsUp!",
+  "formal_name": "3, 2, 1… WordsUp!",
+  "description": "Show your command of the language in 3, 2, 1... WordsUp! Build the maximum number of words with the same combination of letters. Do it before time runs out or you will lose! Challenge yourself in this unique game of wit and skill. Practice your mental agility and your knowledge of the language in 3, 2, 1... WordsUp!\n\nMain features:\n* Two challenging game modes.\n* Practice vocabulary in five languages: English, French, Spanish, Italian and Portuguese; the perfect complement to your language course!\n* Tens of thousands of words to discover.\n* Unlimited hours of play.",
+  "release_date_on_eshop": "2012-07-05",
+  "product_code": "TWL-N-KNWE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

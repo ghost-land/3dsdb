@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000DA100",
-    "uid": "50010000018654",
-    "name": "3D Streets of Rage",
-    "formal_name": "3D Streets of Rage",
-    "description": "In the grips of a vicious crime syndicate, this once peaceful city has become a center of violence and mayhem.\n<br><br>\nAmidst this chaos, three young police officers are determined to tackle the problem head-on. Taking control of one of three ex-officers, use their special hand-to-hand combat abilities to take down the syndicate and save the city.\n<br><br>\nIn addition to its all-new 3D presentation, 3D Streets of Rage also features Local Multiplayer and a Single Hit KO mode to help you power through the city’s crime.\n",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JRAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000DA100",
+  "uid": "50010000018654",
+  "name": "3D Streets of Rage",
+  "formal_name": "3D Streets of Rage",
+  "description": "In the grips of a vicious crime syndicate, this once peaceful city has become a center of violence and mayhem.\n<br><br>\nAmidst this chaos, three young police officers are determined to tackle the problem head-on. Taking control of one of three ex-officers, use their special hand-to-hand combat abilities to take down the syndicate and save the city.\n<br><br>\nIn addition to its all-new 3D presentation, 3D Streets of Rage also features Local Multiplayer and a Single Hit KO mode to help you power through the city’s crime.\n",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JRAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

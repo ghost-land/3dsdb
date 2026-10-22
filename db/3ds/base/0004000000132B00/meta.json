@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000132B00",
-    "uid": "50010000023315",
-    "name": "Yu-Gi-Oh! ZEXAL®\nWorld Duel Carnival",
-    "formal_name": "Yu-Gi-Oh! ZEXAL®\nWorld Duel Carnival",
-    "description": "Enter the World Duel Carnival and\ncompete against 40 opponents from\nthe Yu-Gi-Oh! Zexal universe. Defeat\nthem all to be crowned champion.\nEach playable character has their own\nunique deck allowing players to jump\nstraight into the action while more\nexperienced player can build their own\nfrom a pool of over 5,500 cards. For\nnew players there is an easy mode\nand tutorial to guide them through the\nbasic rules and techniques.",
-    "release_date_on_eshop": "2014-06-26",
-    "product_code": "CTR-P-AYXP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": " ",
-    "descriptors": []
+  "tid": "0004000000132B00",
+  "uid": "50010000023315",
+  "name": "Yu-Gi-Oh! ZEXAL®\nWorld Duel Carnival",
+  "formal_name": "Yu-Gi-Oh! ZEXAL®\nWorld Duel Carnival",
+  "description": "Enter the World Duel Carnival and\ncompete against 40 opponents from\nthe Yu-Gi-Oh! Zexal universe. Defeat\nthem all to be crowned champion.\nEach playable character has their own\nunique deck allowing players to jump\nstraight into the action while more\nexperienced player can build their own\nfrom a pool of over 5,500 cards. For\nnew players there is an easy mode\nand tutorial to guide them through the\nbasic rules and techniques.",
+  "release_date_on_eshop": "2014-06-26",
+  "product_code": "CTR-P-AYXP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": " ",
+  "descriptors": []
 }

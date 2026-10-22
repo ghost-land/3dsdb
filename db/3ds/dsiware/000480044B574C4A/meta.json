@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B574C4A",
-    "uid": "50010000005706",
-    "name": "G.Gシリーズ\nWonder　Land",
-    "formal_name": "G.Gシリーズ\nWonder　Land",
-    "description": "大量の弾を回避する快感を味わえる弾幕シューティング。敵から放たれる無数の弾幕の中をぎりぎりで回避していく緊張感と弾幕の美しさを不思議の国のアリスの世界観で楽しむことができます。",
-    "release_date_on_eshop": "2009-09-16",
-    "product_code": "TWL-N-KWLJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "region": "Japan",
-    "genres": [
-        "シューティング"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
-    "descriptors": []
+  "tid": "000480044B574C4A",
+  "uid": "50010000005706",
+  "name": "G.Gシリーズ\nWonder　Land",
+  "formal_name": "G.Gシリーズ\nWonder　Land",
+  "description": "大量の弾を回避する快感を味わえる弾幕シューティング。敵から放たれる無数の弾幕の中をぎりぎりで回避していく緊張感と弾幕の美しさを不思議の国のアリスの世界観で楽しむことができます。",
+  "release_date_on_eshop": "2009-09-16",
+  "product_code": "TWL-N-KWLJ",
+  "platform_name": "ニンテンドーDSiウェア",
+  "region": "Japan",
+  "genres": [
+    "シューティング"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": []
 }

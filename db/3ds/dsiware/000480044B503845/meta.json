@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B503845",
-    "uid": "50010000002019",
-    "name": "Peg Solitaire",
-    "formal_name": "Peg Solitaire",
-    "description": "A classic thinking game, Peg Solitaire is a board game for solo players where you have to move pegs strategically on a cross-shaped board with 33 holes. Some boards use marbles that sit in shallow indentations. In the United Kingdom, this game is known as Solitaire, and the card games are called Patience.\n\nThe game has various difficulty levels to allow players learn the gameplay techniques step by step:\n• Tutorial levels (9 stages)\n• Easy levels (9 stages)\n• Normal levels (9 stages)\n• Hard levels (9 stages)\n• Expert levels (5 stages)",
-    "release_date_on_eshop": "2010-11-01",
-    "product_code": "TWL-N-KP8E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503845",
+  "uid": "50010000002019",
+  "name": "Peg Solitaire",
+  "formal_name": "Peg Solitaire",
+  "description": "A classic thinking game, Peg Solitaire is a board game for solo players where you have to move pegs strategically on a cross-shaped board with 33 holes. Some boards use marbles that sit in shallow indentations. In the United Kingdom, this game is known as Solitaire, and the card games are called Patience.\n\nThe game has various difficulty levels to allow players learn the gameplay techniques step by step:\n• Tutorial levels (9 stages)\n• Easy levels (9 stages)\n• Normal levels (9 stages)\n• Hard levels (9 stages)\n• Expert levels (5 stages)",
+  "release_date_on_eshop": "2010-11-01",
+  "product_code": "TWL-N-KP8E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000140100",
-    "uid": "50010000027456",
-    "name": "LEGO® BATMAN™ 3:\nGotham e Oltre",
-    "formal_name": "LEGO® BATMAN™ 3:\nGotham e Oltre",
-    "description": "La serie di videogiochi campione di\nvendite LEGO Batman ritorna con un\ngioco ricco di avventura dentro e fuori\nquesto mondo. In LEGO Batman™ 3:\nGotham e Oltre, il Cavaliere Oscuro\nunisce le forze con i supereroi\ndell’universo DC Comics e vola nello\nspazio per impedire al malvagio\nBrainiac di distruggere le Terra.\nUtilizzando il potere degli Anelli della\nLanterna, Brainiac restringe i mondi\nper aggiungerli alla sua contorta\ncollezione di città in miniatura\nprovenienti da tutte le parti\ndell’universo. Ora i più grandi\nsupereroi e i più scaltri cattivi devono\nunire le proprie forze e viaggiare per i\ndifferenti mondi della Lanterna per\ncollezionare gli anelli e fermare\nBrainiac prima che sia troppo tardi.",
-    "release_date_on_eshop": "2014-11-14",
-    "product_code": "CTR-P-BTMV",
-    "platform_name": "Nintendo 3DS (scheda/scaric.)",
-    "region": "Italy",
-    "genres": [
-        "Azione",
-        "Avventura"
-    ],
-    "features": [
-        "Visualizzazione effetti visivi 3D"
-    ],
-    "languages": [
-        "Inglese",
-        "Spagnolo",
-        "Francese",
-        "Tedesco",
-        "Italiano",
-        "Olandese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": "* Il gioco contiene\nvoiceover in italiano",
-    "descriptors": []
+  "tid": "0004000000140100",
+  "uid": "50010000027456",
+  "name": "LEGO® BATMAN™ 3:\nGotham e Oltre",
+  "formal_name": "LEGO® BATMAN™ 3:\nGotham e Oltre",
+  "description": "La serie di videogiochi campione di\nvendite LEGO Batman ritorna con un\ngioco ricco di avventura dentro e fuori\nquesto mondo. In LEGO Batman™ 3:\nGotham e Oltre, il Cavaliere Oscuro\nunisce le forze con i supereroi\ndell’universo DC Comics e vola nello\nspazio per impedire al malvagio\nBrainiac di distruggere le Terra.\nUtilizzando il potere degli Anelli della\nLanterna, Brainiac restringe i mondi\nper aggiungerli alla sua contorta\ncollezione di città in miniatura\nprovenienti da tutte le parti\ndell’universo. Ora i più grandi\nsupereroi e i più scaltri cattivi devono\nunire le proprie forze e viaggiare per i\ndifferenti mondi della Lanterna per\ncollezionare gli anelli e fermare\nBrainiac prima che sia troppo tardi.",
+  "release_date_on_eshop": "2014-11-14",
+  "product_code": "CTR-P-BTMV",
+  "platform_name": "Nintendo 3DS (scheda/scaric.)",
+  "region": "Italy",
+  "genres": [
+    "Azione",
+    "Avventura"
+  ],
+  "features": [
+    "Visualizzazione effetti visivi 3D"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": "* Il gioco contiene\nvoiceover in italiano",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B455945",
-    "uid": "50010000007252",
-    "name": "Escape Trick: Ninja Castle",
-    "formal_name": "Escape Trick: Ninja Castle",
-    "description": "Once upon a time, when ninjas were still actively working behind the scenes... A ninja who had special powers to defeat evil spirits had become a Nuke-Nin (fugitive ninja) by breaking his clan’s rules. The man, who is said to be the strongest ninja of the clan, is called Raiko Mitarai. For his mission, he sneaks into the gadget-laden castle's forbidden area, but gets trapped and ends up being stuck inside.\n\nPlay as Raiko and escape from the castle, which is full of puzzles. Inspect and touch an area when it looks suspicious. The game provides an enjoyable game play experience for everyone by solving puzzles and using items. This game is full of action elements such as using the camera feature to take a picture and stick it on the Memo screen, and by using Ninjutsu by drawing a circle with the stylus.",
-    "release_date_on_eshop": "2011-09-22",
-    "product_code": "TWL-N-KEYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B455945",
+  "uid": "50010000007252",
+  "name": "Escape Trick: Ninja Castle",
+  "formal_name": "Escape Trick: Ninja Castle",
+  "description": "Once upon a time, when ninjas were still actively working behind the scenes... A ninja who had special powers to defeat evil spirits had become a Nuke-Nin (fugitive ninja) by breaking his clan’s rules. The man, who is said to be the strongest ninja of the clan, is called Raiko Mitarai. For his mission, he sneaks into the gadget-laden castle's forbidden area, but gets trapped and ends up being stuck inside.\n\nPlay as Raiko and escape from the castle, which is full of puzzles. Inspect and touch an area when it looks suspicious. The game provides an enjoyable game play experience for everyone by solving puzzles and using items. This game is full of action elements such as using the camera feature to take a picture and stick it on the Memo screen, and by using Ninjutsu by drawing a circle with the stylus.",
+  "release_date_on_eshop": "2011-09-22",
+  "product_code": "TWL-N-KEYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

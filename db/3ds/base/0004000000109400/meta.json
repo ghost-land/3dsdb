@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000109400",
-    "uid": "50010000020033",
-    "name": "Spot the Differences!",
-    "formal_name": "Spot the Differences!",
-    "description": "150 magnificent photos of\nlandscapes, decorations, animals, still\nlife, and more.\n<br/><br/>\nStay focused to find all of the hidden\ndifferences. A relaxing classic for the\nmind that the whole family can enjoy\n– anywhere!",
-    "release_date_on_eshop": "2014-02-13",
-    "product_code": "CTR-P-BDFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000109400",
+  "uid": "50010000020033",
+  "name": "Spot the Differences!",
+  "formal_name": "Spot the Differences!",
+  "description": "150 magnificent photos of\nlandscapes, decorations, animals, still\nlife, and more.\n<br/><br/>\nStay focused to find all of the hidden\ndifferences. A relaxing classic for the\nmind that the whole family can enjoy\n– anywhere!",
+  "release_date_on_eshop": "2014-02-13",
+  "product_code": "CTR-P-BDFP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

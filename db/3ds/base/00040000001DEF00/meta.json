@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DEF00",
-    "uid": "50010000048919",
-    "name": "Dark Island",
-    "formal_name": "Dark Island",
-    "description": "An infected world. You are a survivor, your task is to get to the military headquarters on your motorcycle.",
-    "release_date_on_eshop": "2020-10-22",
-    "product_code": "CTR-N-K24P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DEF00",
+  "uid": "50010000048919",
+  "name": "Dark Island",
+  "formal_name": "Dark Island",
+  "description": "An infected world. You are a survivor, your task is to get to the military headquarters on your motorcycle.",
+  "release_date_on_eshop": "2020-10-22",
+  "product_code": "CTR-N-K24P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

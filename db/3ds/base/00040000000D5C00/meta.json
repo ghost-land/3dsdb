@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000D5C00",
-    "uid": "50010000014799",
-    "name": "3D Game Collection",
-    "formal_name": "3D Game Collection",
-    "description": "Play a round of Sudoku, do a\nrelaxing puzzle or make the other\nplayer's ships sink to the bottom of\nthe sea. A grand total of 25 game\ntypes in three magnificently themed\nworlds provide plenty of variety and\nlots of fun.\n<br/><br/>\nAccept the challenge and try to\ncollect all the trophies. But be\nwarned - it won't be easy! Every game\nlearns and adapts to your abilities!\n<br/><br/>\nThese are the game types:\n<br/><br/>\n4 in a row\n<br/><br/>\nBackgammon\n<br/><br/>\nBingo\n<br/><br/>\nCard Solitaire\n<br/><br/>\nCheckers\n<br/><br/>\nChest Mover Mania\n<br/><br/>\nChinese Checkers\n<br/><br/>\nCode Cracker\n<br/><br/>\nDice Five\n<br/><br/>\nDomino\n<br/><br/>\nFind Mines\n<br/><br/>\nFind Pairs\n<br/><br/>\nJigsaw Puzzle\n<br/><br/>\nKakuro\n<br/><br/>\nLudo\n<br/><br/>\nMahJongg\n<br/><br/>\nMatch 3\n<br/><br/>\nNine Men's Morris\n<br/><br/>\nPeg Solitaire\n<br/><br/>\nPipe Shift\n<br/><br/>\nShip Encounter\n<br/><br/>\nSliding Puzzle\n<br/><br/>\nSpot the Difference\n<br/><br/>\nSudoku\n<br/><br/>\nToken Wangle",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-N-AD3Z",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D5C00",
+  "uid": "50010000014799",
+  "name": "3D Game Collection",
+  "formal_name": "3D Game Collection",
+  "description": "Play a round of Sudoku, do a\nrelaxing puzzle or make the other\nplayer's ships sink to the bottom of\nthe sea. A grand total of 25 game\ntypes in three magnificently themed\nworlds provide plenty of variety and\nlots of fun.\n<br/><br/>\nAccept the challenge and try to\ncollect all the trophies. But be\nwarned - it won't be easy! Every game\nlearns and adapts to your abilities!\n<br/><br/>\nThese are the game types:\n<br/><br/>\n4 in a row\n<br/><br/>\nBackgammon\n<br/><br/>\nBingo\n<br/><br/>\nCard Solitaire\n<br/><br/>\nCheckers\n<br/><br/>\nChest Mover Mania\n<br/><br/>\nChinese Checkers\n<br/><br/>\nCode Cracker\n<br/><br/>\nDice Five\n<br/><br/>\nDomino\n<br/><br/>\nFind Mines\n<br/><br/>\nFind Pairs\n<br/><br/>\nJigsaw Puzzle\n<br/><br/>\nKakuro\n<br/><br/>\nLudo\n<br/><br/>\nMahJongg\n<br/><br/>\nMatch 3\n<br/><br/>\nNine Men's Morris\n<br/><br/>\nPeg Solitaire\n<br/><br/>\nPipe Shift\n<br/><br/>\nShip Encounter\n<br/><br/>\nSliding Puzzle\n<br/><br/>\nSpot the Difference\n<br/><br/>\nSudoku\n<br/><br/>\nToken Wangle",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-N-AD3Z",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

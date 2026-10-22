@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B575544",
-    "uid": "50010000006503",
-    "name": "Sudoku & Kakuro\nWelt Edition",
-    "formal_name": "Sudoku & Kakuro\nWelt Edition",
-    "description": "Lösen Sie 300 Zahlenrätsel von \"Die\nWelt\", wie Sie das nie zuvor gemacht\nhaben! Sudoku und Kakuro vom\nbekannten Autor Stefan Heine, in\nverschiedenen Schwierigkeitsgraden\nund mit einer praktischen\nBedieneroberfläche, die die klassische\n\"Papier-und-Bleistift\"-Erfahrung\naufwertet.<br>\n<br>\nDeutscher Bildschirmtext",
-    "release_date_on_eshop": "2010-06-18",
-    "product_code": "TWL-N-KWUD",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Germany",
-    "genres": [
-        "Puzzle",
-        "Brettspiel"
-    ],
-    "features": [],
-    "languages": [
-        "Deutsch"
-    ],
-    "rating_system": {
-        "name": "USK",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B575544",
+  "uid": "50010000006503",
+  "name": "Sudoku & Kakuro\nWelt Edition",
+  "formal_name": "Sudoku & Kakuro\nWelt Edition",
+  "description": "Lösen Sie 300 Zahlenrätsel von \"Die\nWelt\", wie Sie das nie zuvor gemacht\nhaben! Sudoku und Kakuro vom\nbekannten Autor Stefan Heine, in\nverschiedenen Schwierigkeitsgraden\nund mit einer praktischen\nBedieneroberfläche, die die klassische\n\"Papier-und-Bleistift\"-Erfahrung\naufwertet.<br>\n<br>\nDeutscher Bildschirmtext",
+  "release_date_on_eshop": "2010-06-18",
+  "product_code": "TWL-N-KWUD",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Germany",
+  "genres": [
+    "Puzzle",
+    "Brettspiel"
+  ],
+  "features": [],
+  "languages": [
+    "de"
+  ],
+  "rating_system": {
+    "name": "USK",
+    "age": "0"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

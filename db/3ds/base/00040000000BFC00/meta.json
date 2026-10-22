@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000BFC00",
-    "uid": "50010000012734",
-    "name": "りき伝説",
-    "formal_name": "りき伝説",
-    "description": "『熱血硬派くにおくん』シリーズ初となる「りき」主演作品が登場!\n<br>シリーズ従来の自由度の高いアクション。\n<br>『熱血硬派くにおくん』の原作者による「りき」の誕生秘話はファン必見です。\n<br>正義の番長「りき」は暴走族「武赦紋漸（むしゃもんぜん）」から花園高校を守りきることができるのか!?",
-    "release_date_on_eshop": "2012-12-12",
-    "product_code": "CTR-N-JRKJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "格闘"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BFC00",
+  "uid": "50010000012734",
+  "name": "りき伝説",
+  "formal_name": "りき伝説",
+  "description": "『熱血硬派くにおくん』シリーズ初となる「りき」主演作品が登場!\n<br>シリーズ従来の自由度の高いアクション。\n<br>『熱血硬派くにおくん』の原作者による「りき」の誕生秘話はファン必見です。\n<br>正義の番長「りき」は暴走族「武赦紋漸（むしゃもんぜん）」から花園高校を守りきることができるのか!?",
+  "release_date_on_eshop": "2012-12-12",
+  "product_code": "CTR-N-JRKJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "格闘"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

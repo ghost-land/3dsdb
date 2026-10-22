@@ -1,33 +1,33 @@
 {
-    "tid": "000480044B4A5250",
-    "uid": "50010000004061",
-    "name": "Alt-Play:\nJason Rohrer Anthology",
-    "formal_name": "Alt-Play:\nJason Rohrer Anthology",
-    "description": "Alt-Play brings the best of\nindependent gaming to Nintendo\nDSiWare, introducing players to some\nof the most unique experiences this\nmedium has to offer. In this\ncompilation, award-winning game\nauteur Jason Rohrer’s work comes to\nthe Nintendo DSi, including three of\nhis best games to date: Passage,\nGravitation and Between.<br>\n<br>\nThe deep themes contained and the\nmanner in which they are presented in\nRohrer’s work helps to blur the line\nbetween what we consider art and\ngames, evoking thoughts and\nemotions rarely associated with\ngaming.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KJRP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4A5250",
+  "uid": "50010000004061",
+  "name": "Alt-Play:\nJason Rohrer Anthology",
+  "formal_name": "Alt-Play:\nJason Rohrer Anthology",
+  "description": "Alt-Play brings the best of\nindependent gaming to Nintendo\nDSiWare, introducing players to some\nof the most unique experiences this\nmedium has to offer. In this\ncompilation, award-winning game\nauteur Jason Rohrer’s work comes to\nthe Nintendo DSi, including three of\nhis best games to date: Passage,\nGravitation and Between.<br>\n<br>\nThe deep themes contained and the\nmanner in which they are presented in\nRohrer’s work helps to blur the line\nbetween what we consider art and\ngames, evoking thoughts and\nemotions rarely associated with\ngaming.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KJRP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

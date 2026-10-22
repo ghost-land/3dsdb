@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001D1A00",
-    "uid": "50010000046875",
-    "name": "Luigi's Mansion™",
-    "formal_name": "Luigi's Mansion™",
-    "description": "Nintendo GameCube classic Luigi’s Mansion has been remade for Nintendo 3DS family systems! Fans of Luigi’s Mansion 2 can now explore the original mansion where Mario went missing.\n<br>\n<br>Luigi’s something of a scaredy-cat, but these classic ghosts and traps are no match for his vacuum cleaner! Besides, the mansion’s map will be displayed on the bottom screen.\n<br>\n<br>If you work up the courage, fight the ghosts of your past battles in the new boss rush mode!\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2018-10-19",
-    "product_code": "CTR-P-BGNP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "amiibo",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D1A00",
+  "uid": "50010000046875",
+  "name": "Luigi's Mansion™",
+  "formal_name": "Luigi's Mansion™",
+  "description": "Nintendo GameCube classic Luigi’s Mansion has been remade for Nintendo 3DS family systems! Fans of Luigi’s Mansion 2 can now explore the original mansion where Mario went missing.\n<br>\n<br>Luigi’s something of a scaredy-cat, but these classic ghosts and traps are no match for his vacuum cleaner! Besides, the mansion’s map will be displayed on the bottom screen.\n<br>\n<br>If you work up the courage, fight the ghosts of your past battles in the new boss rush mode!\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2018-10-19",
+  "product_code": "CTR-P-BGNP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "amiibo",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

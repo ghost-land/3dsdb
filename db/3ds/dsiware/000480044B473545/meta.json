@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B473545",
-    "uid": "50010000002202",
-    "name": "DodoGo! Robo",
-    "formal_name": "DodoGo! Robo",
-    "description": "Entertaining and accessible to everyone, DodoGo! Robo is a puzzle game where you have to use your head to avoid getting broken. There's no need to have any knowledge of previous games to explore this new episode of the DodoGo! series. Become the well-known Robo-Egg and collect the maximum number of icons scattered around new puzzle levels! It’s your go! Use the stylus to help your Robo progress, then click on the Play button to see the result. You can even change your route until your Robo picks up all the icons for the level you are playing!",
-    "release_date_on_eshop": "2011-04-18",
-    "product_code": "TWL-N-KG5E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B473545",
+  "uid": "50010000002202",
+  "name": "DodoGo! Robo",
+  "formal_name": "DodoGo! Robo",
+  "description": "Entertaining and accessible to everyone, DodoGo! Robo is a puzzle game where you have to use your head to avoid getting broken. There's no need to have any knowledge of previous games to explore this new episode of the DodoGo! series. Become the well-known Robo-Egg and collect the maximum number of icons scattered around new puzzle levels! It’s your go! Use the stylus to help your Robo progress, then click on the Play button to see the result. You can even change your route until your Robo picks up all the icons for the level you are playing!",
+  "release_date_on_eshop": "2011-04-18",
+  "product_code": "TWL-N-KG5E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

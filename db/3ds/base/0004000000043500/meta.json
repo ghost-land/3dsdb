@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000043500",
-    "uid": "50010000000401",
-    "name": "Green Lantern™: Rise of\nthe Manhunters",
-    "formal_name": "Green Lantern™: Rise of\nthe Manhunters",
-    "description": "Eons before the Green Lantern Corps, the Guardians of the Universe created an android race of interstellar police—the Manhunters. When corrupted programming made them punish all life, the Manhunters were exiled. Now they’ve returned, seeking vengeance. Armed with a power ring charged by will, the Corps is looking to you as the newest recruit, gifted but cocky test pilot Hal Jordan, to protect peace and preserve justice. MASTER THE RING: Wield a spectacular range of\n“hard-light” construct combos. EXPLORE THE UNIVERSE: Traverse many worlds as you unlock new techniques. TAKE FLIGHT: Soar across the universe and destroy legions of enemies.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AGLE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Fantasy Violence"
-    ]
+  "tid": "0004000000043500",
+  "uid": "50010000000401",
+  "name": "Green Lantern™: Rise of\nthe Manhunters",
+  "formal_name": "Green Lantern™: Rise of\nthe Manhunters",
+  "description": "Eons before the Green Lantern Corps, the Guardians of the Universe created an android race of interstellar police—the Manhunters. When corrupted programming made them punish all life, the Manhunters were exiled. Now they’ve returned, seeking vengeance. Armed with a power ring charged by will, the Corps is looking to you as the newest recruit, gifted but cocky test pilot Hal Jordan, to protect peace and preserve justice. MASTER THE RING: Wield a spectacular range of\n“hard-light” construct combos. EXPLORE THE UNIVERSE: Traverse many worlds as you unlock new techniques. TAKE FLIGHT: Soar across the universe and destroy legions of enemies.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AGLE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Fantasy Violence"
+  ]
 }

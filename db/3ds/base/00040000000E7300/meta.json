@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000E7300",
-    "uid": "50010000015333",
-    "name": "10-in-1: Arcade Collection",
-    "formal_name": "10-in-1: Arcade Collection",
-    "description": "Let's go back a few years. OK... say\n30, to the old days, when everything\nlooked really simple and the rest was\nleft to your imagination.\n<br/><br/>\nThe main aim in the 10 in 1: Arcade\ncollection is to survive the classic\nchallenge and achieve the highest\nscore possible.\n<br/><br/>\nRetro arts, particle effects and\nwonderful 8-bit music will also bring\nback fond memories of youth for\nsome, and for those too young to\nremember, it will be a great showcase\nof the old times!",
-    "release_date_on_eshop": "2013-08-01",
-    "product_code": "CTR-N-JAQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E7300",
+  "uid": "50010000015333",
+  "name": "10-in-1: Arcade Collection",
+  "formal_name": "10-in-1: Arcade Collection",
+  "description": "Let's go back a few years. OK... say\n30, to the old days, when everything\nlooked really simple and the rest was\nleft to your imagination.\n<br/><br/>\nThe main aim in the 10 in 1: Arcade\ncollection is to survive the classic\nchallenge and achieve the highest\nscore possible.\n<br/><br/>\nRetro arts, particle effects and\nwonderful 8-bit music will also bring\nback fond memories of youth for\nsome, and for those too young to\nremember, it will be a great showcase\nof the old times!",
+  "release_date_on_eshop": "2013-08-01",
+  "product_code": "CTR-N-JAQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

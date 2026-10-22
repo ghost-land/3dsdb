@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F715500",
-    "uid": "50010000049395",
-    "name": "The Queen TV-Game 2",
-    "formal_name": "The Queen TV-Game 2",
-    "description": "You’ve already switched. It’s too late. Love Hero is removed from channel 2600.\n<br>A lonely King is without a Queen. A physical XN update with new data slowly faded the King’s SD3 memory. His only memory with the Queen was watching Love Hero on TV. The Queen’s soul calls to him shouting their first encounter. The King finds out his Queen has been trapped out permanently from data transfer. He locates the Queen and sets out on one final journey! A journey he will not win.",
-    "release_date_on_eshop": "2022-01-31",
-    "product_code": "KTR-N-CC4P",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F715500",
+  "uid": "50010000049395",
+  "name": "The Queen TV-Game 2",
+  "formal_name": "The Queen TV-Game 2",
+  "description": "You’ve already switched. It’s too late. Love Hero is removed from channel 2600.\n<br>A lonely King is without a Queen. A physical XN update with new data slowly faded the King’s SD3 memory. His only memory with the Queen was watching Love Hero on TV. The Queen’s soul calls to him shouting their first encounter. The King finds out his Queen has been trapped out permanently from data transfer. He locates the Queen and sets out on one final journey! A journey he will not win.",
+  "release_date_on_eshop": "2022-01-31",
+  "product_code": "KTR-N-CC4P",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,36 +1,36 @@
 {
-    "tid": "000400000009F100",
-    "uid": "50010000013215",
-    "name": "Fire Emblem™: Awakening",
-    "formal_name": "Fire Emblem™: Awakening",
-    "description": "Turn-based combat comes alive like\n<br>never before on Nintendo 3DS! Fire\n<br>Emblem: Awakening continues the\n<br>traditions of the classic series while\n<br>enhancing the experience with 3D\n<br>visuals and making the strategic\n<br>gameplay more accessible for\n<br>newcomers. Players lead forces\n<br>across maps, fighting enemies and\n<br>achieving goals across a fantasy\n<br>world rich with character.",
-    "release_date_on_eshop": "2013-04-19",
-    "product_code": "CTR-P-AFEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Strategy",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009F100",
+  "uid": "50010000013215",
+  "name": "Fire Emblem™: Awakening",
+  "formal_name": "Fire Emblem™: Awakening",
+  "description": "Turn-based combat comes alive like\n<br>never before on Nintendo 3DS! Fire\n<br>Emblem: Awakening continues the\n<br>traditions of the classic series while\n<br>enhancing the experience with 3D\n<br>visuals and making the strategic\n<br>gameplay more accessible for\n<br>newcomers. Players lead forces\n<br>across maps, fighting enemies and\n<br>achieving goals across a fantasy\n<br>world rich with character.",
+  "release_date_on_eshop": "2013-04-19",
+  "product_code": "CTR-P-AFEP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Strategy",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

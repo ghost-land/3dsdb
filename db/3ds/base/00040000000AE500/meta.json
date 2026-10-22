@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000AE500",
-    "uid": "50010000011566",
-    "name": "Outdoors Unleashed: Africa 3D",
-    "formal_name": "Outdoors Unleashed: Africa 3D",
-    "description": "Head into the deepest reaches of Africa, armed with your wits, your skills, and an array of high-powered weapons and accessories!\n<br><br>\nExperience action arcade hunting excitement like never before as you explore 35 challenging missions across a variety of terrain. Match the right weapon to the situation to maximize your score, as you hunt over 15 different big game animals and birds. Pull off amazing long shots, zoom in for spectacular head shots, and take down dangerous predators before they attack!\n<br><br>\nEarn achievements, purchase new weapons, and aim for the best score as you fight your way through the safari!",
-    "release_date_on_eshop": "2012-08-30",
-    "product_code": "CTR-N-JAFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000AE500",
+  "uid": "50010000011566",
+  "name": "Outdoors Unleashed: Africa 3D",
+  "formal_name": "Outdoors Unleashed: Africa 3D",
+  "description": "Head into the deepest reaches of Africa, armed with your wits, your skills, and an array of high-powered weapons and accessories!\n<br><br>\nExperience action arcade hunting excitement like never before as you explore 35 challenging missions across a variety of terrain. Match the right weapon to the situation to maximize your score, as you hunt over 15 different big game animals and birds. Pull off amazing long shots, zoom in for spectacular head shots, and take down dangerous predators before they attack!\n<br><br>\nEarn achievements, purchase new weapons, and aim for the best score as you fight your way through the safari!",
+  "release_date_on_eshop": "2012-08-30",
+  "product_code": "CTR-N-JAFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

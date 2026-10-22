@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000054200",
-    "uid": "50010000009503",
-    "name": "3D Classics: Kid Icarus™",
-    "formal_name": "3D Classics: Kid Icarus™",
-    "description": "Relive Pit’s first adventure in 3D Classics: Kid Icarus™ as you venture from the depths of the underworld up to the heights of sky palace! \n<br><br>\nThe evil goddess Medusa has stolen the Three Sacred Treasures and imprisoned the goddess of light, Palutena, in her evil plot to control all. Play in 2D or 3D as Pit, a young angel who has been entrusted with a magical bow and arrow. Fight against hordes of enemies that swoop from above and below. Secure the Three Sacred Treasures from their evil guardians, equip them, and face Medusa in the final battle! Are you the stuff of legends? Restore peace to Angel Land, and prove your worth!",
-    "release_date_on_eshop": "2012-04-19",
-    "product_code": "CTR-N-SAAE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000054200",
+  "uid": "50010000009503",
+  "name": "3D Classics: Kid Icarus™",
+  "formal_name": "3D Classics: Kid Icarus™",
+  "description": "Relive Pit’s first adventure in 3D Classics: Kid Icarus™ as you venture from the depths of the underworld up to the heights of sky palace! \n<br><br>\nThe evil goddess Medusa has stolen the Three Sacred Treasures and imprisoned the goddess of light, Palutena, in her evil plot to control all. Play in 2D or 3D as Pit, a young angel who has been entrusted with a magical bow and arrow. Fight against hordes of enemies that swoop from above and below. Secure the Three Sacred Treasures from their evil guardians, equip them, and face Medusa in the final battle! Are you the stuff of legends? Restore peace to Angel Land, and prove your worth!",
+  "release_date_on_eshop": "2012-04-19",
+  "product_code": "CTR-N-SAAE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

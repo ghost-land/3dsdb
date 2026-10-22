@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B554145",
-    "uid": "50010000010069",
-    "name": "Amoebattle",
-    "formal_name": "Amoebattle",
-    "description": "A mysterious infection threatens the microscopic world and its inhabitants, and it’s up to you – and your group of loveable single-celled creatures – to stop it from spreading.  Built from the ground up for handheld devices, Amoebattle delivers a portable twist to the real time strategy genre and brings the experience to the palm of your hand. Intuitively command your troops using the Touch Screen as you discover interesting types of amoebas, journey through fantastic environments, and lead your amoebas to victory in battle…Amoebattle!",
-    "release_date_on_eshop": "2012-05-03",
-    "product_code": "TWL-N-KUAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Adventure",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B554145",
+  "uid": "50010000010069",
+  "name": "Amoebattle",
+  "formal_name": "Amoebattle",
+  "description": "A mysterious infection threatens the microscopic world and its inhabitants, and it’s up to you – and your group of loveable single-celled creatures – to stop it from spreading.  Built from the ground up for handheld devices, Amoebattle delivers a portable twist to the real time strategy genre and brings the experience to the palm of your hand. Intuitively command your troops using the Touch Screen as you discover interesting types of amoebas, journey through fantastic environments, and lead your amoebas to victory in battle…Amoebattle!",
+  "release_date_on_eshop": "2012-05-03",
+  "product_code": "TWL-N-KUAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Adventure",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

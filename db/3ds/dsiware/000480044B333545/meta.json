@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B333545",
-    "uid": "50010000007250",
-    "name": "Defense of the Middle Kingdom",
-    "formal_name": "Defense of the Middle Kingdom",
-    "description": "In Defense of the Middle Kingdom, you place stationary soldiers on the map in an effort to halt the oncoming forces' progress. Opposing soldiers will walk along a predetermined path, and it is therefore your mission to successfully defend your territory. Enemies will come in waves, trying to invade your territory. If you can keep them from reaching the end of the path, then victory is assured. If the enemies manage to slip by your defenses, they will damage your defense point. If the defense point number reaches 0, then you are defeated.",
-    "release_date_on_eshop": "2011-09-15",
-    "product_code": "TWL-N-K35E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B333545",
+  "uid": "50010000007250",
+  "name": "Defense of the Middle Kingdom",
+  "formal_name": "Defense of the Middle Kingdom",
+  "description": "In Defense of the Middle Kingdom, you place stationary soldiers on the map in an effort to halt the oncoming forces' progress. Opposing soldiers will walk along a predetermined path, and it is therefore your mission to successfully defend your territory. Enemies will come in waves, trying to invade your territory. If you can keep them from reaching the end of the path, then victory is assured. If the enemies manage to slip by your defenses, they will damage your defense point. If the defense point number reaches 0, then you are defeated.",
+  "release_date_on_eshop": "2011-09-15",
+  "product_code": "TWL-N-K35E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

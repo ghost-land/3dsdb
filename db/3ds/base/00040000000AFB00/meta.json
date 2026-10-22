@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000AFB00",
-    "uid": "50010000012773",
-    "name": "チャリ走 DX",
-    "formal_name": "チャリ走 DX",
-    "description": "チャリで凸凹道や谷、壁を飛び越えてひたすら走る爽快アクションゲーム!\n<br>\n<br>世界中のステージをゴール目指して走る｢WORLD TOUR｣モード、ひたすら走り続ける｢GRAND PRIX｣モードを搭載。スピードアップなどの特殊アイテム、スーパージャンプや巨大竜巻などのギミックを駆使して世界中を走り抜けよう!\n<br>\n<br>さらに今回の『チャリ走』は、｢RAM RIDER｣とのSPECIALコラボを実現! ｢PORTABLE DISCO｣をサウンドコンセプトに掲げるRAM RIDERが『チャリ走』のために作曲した2曲を｢RAM RIDER Stage｣とエンディング･テーマとして収録。\n<br>RAM RIDERの曲に乗せて遊ぶ『チャリ走』は爽快感バツグン!\n<br>\n<br>走り出したら止まらない究極のチャリアクションゲームをお楽しみください!",
-    "release_date_on_eshop": "2012-12-26",
-    "product_code": "CTR-N-JCXJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "レース"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AFB00",
+  "uid": "50010000012773",
+  "name": "チャリ走 DX",
+  "formal_name": "チャリ走 DX",
+  "description": "チャリで凸凹道や谷、壁を飛び越えてひたすら走る爽快アクションゲーム!\n<br>\n<br>世界中のステージをゴール目指して走る｢WORLD TOUR｣モード、ひたすら走り続ける｢GRAND PRIX｣モードを搭載。スピードアップなどの特殊アイテム、スーパージャンプや巨大竜巻などのギミックを駆使して世界中を走り抜けよう!\n<br>\n<br>さらに今回の『チャリ走』は、｢RAM RIDER｣とのSPECIALコラボを実現! ｢PORTABLE DISCO｣をサウンドコンセプトに掲げるRAM RIDERが『チャリ走』のために作曲した2曲を｢RAM RIDER Stage｣とエンディング･テーマとして収録。\n<br>RAM RIDERの曲に乗せて遊ぶ『チャリ走』は爽快感バツグン!\n<br>\n<br>走り出したら止まらない究極のチャリアクションゲームをお楽しみください!",
+  "release_date_on_eshop": "2012-12-26",
+  "product_code": "CTR-N-JCXJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "レース"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

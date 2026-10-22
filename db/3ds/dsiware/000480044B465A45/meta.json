@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B465A45",
-    "uid": "50010000002201",
-    "name": "Faceez",
-    "formal_name": "Faceez",
-    "description": "Make your friends laugh with Faceez! Take pictures of their faces with the Nintendo DSi Camera and then mix them and animate them! Dress them up with lots of funny accessories! Place them in your own favorite settings! Give free reign to your imagination with millions of possible combinations! Thanks to the Nintendo DSi system’s connectivity with Facebook you can share your creations with your friends, who’ll be rolling on the floor laughing! Photograph, disguise, decorate, animate, and send... FACEEZ!\n",
-    "release_date_on_eshop": "2010-02-22",
-    "product_code": "TWL-N-KFZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B465A45",
+  "uid": "50010000002201",
+  "name": "Faceez",
+  "formal_name": "Faceez",
+  "description": "Make your friends laugh with Faceez! Take pictures of their faces with the Nintendo DSi Camera and then mix them and animate them! Dress them up with lots of funny accessories! Place them in your own favorite settings! Give free reign to your imagination with millions of possible combinations! Thanks to the Nintendo DSi system’s connectivity with Facebook you can share your creations with your friends, who’ll be rolling on the floor laughing! Photograph, disguise, decorate, animate, and send... FACEEZ!\n",
+  "release_date_on_eshop": "2010-02-22",
+  "product_code": "TWL-N-KFZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

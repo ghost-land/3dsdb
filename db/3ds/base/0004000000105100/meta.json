@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000105100",
-    "uid": "50010000018374",
-    "name": "VitaminX Evolution Plus",
-    "formal_name": "VitaminX Evolution Plus",
-    "description": "先生になって問題児を指導しよう! そして……。\n<br>新任教師であるあなたに任せられた使命は、落ちこぼれ生徒の更生!?\n<br>落ちこぼれの問題児軍団“B6(ビーロク)”を指導して大学へ進学･卒業まで導きましょう!\n<br>そんな限られた時間の中で、芽生える恋心……。果たして、春に待ち受ける結末とは――!?",
-    "release_date_on_eshop": "2014-01-16",
-    "product_code": "CTR-N-BVXJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "その他"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。\n",
-    "descriptors": []
+  "tid": "0004000000105100",
+  "uid": "50010000018374",
+  "name": "VitaminX Evolution Plus",
+  "formal_name": "VitaminX Evolution Plus",
+  "description": "先生になって問題児を指導しよう! そして……。\n<br>新任教師であるあなたに任せられた使命は、落ちこぼれ生徒の更生!?\n<br>落ちこぼれの問題児軍団“B6(ビーロク)”を指導して大学へ進学･卒業まで導きましょう!\n<br>そんな限られた時間の中で、芽生える恋心……。果たして、春に待ち受ける結末とは――!?",
+  "release_date_on_eshop": "2014-01-16",
+  "product_code": "CTR-N-BVXJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "その他"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。\n",
+  "descriptors": []
 }

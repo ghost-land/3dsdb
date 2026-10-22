@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B594256",
-    "uid": "50010000006562",
-    "name": "Face Pilot™: Fly With Your\nNintendo DSi Camera!",
-    "formal_name": "Face Pilot™: Fly With Your\nNintendo DSi Camera!",
-    "description": "Soar through the sky, from the\ncomfort of your sofa, with the\ninnovative gliding game Face Pilot!<br>\n<br>\nFace Pilot not only puts your face\ninto the game with the Nintendo DSi\ncamera, it also tracks your head's\nmovements giving you complete\ncontrol of your glider. Simply tilt your\nhead sideways to steer left and right,\nback to climb, and forwards to dive.<br>\n<br>\nThere are three different types of\ngameplay: burst all the balloons to\nreach the goal, throw balls at targets\nfor a high score, and try for a fast\ntime in the high speed challenge.\nAlso, look out for hidden medals\nwhich help unlock new courses and\neven new gliders!<br>\n<br>\nFace Pilot is a truly unique game that\nwouldn't be possible without Nintendo\nDSi. The only thing missing is the\nwind in your hair!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KYBV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B594256",
+  "uid": "50010000006562",
+  "name": "Face Pilot™: Fly With Your\nNintendo DSi Camera!",
+  "formal_name": "Face Pilot™: Fly With Your\nNintendo DSi Camera!",
+  "description": "Soar through the sky, from the\ncomfort of your sofa, with the\ninnovative gliding game Face Pilot!<br>\n<br>\nFace Pilot not only puts your face\ninto the game with the Nintendo DSi\ncamera, it also tracks your head's\nmovements giving you complete\ncontrol of your glider. Simply tilt your\nhead sideways to steer left and right,\nback to climb, and forwards to dive.<br>\n<br>\nThere are three different types of\ngameplay: burst all the balloons to\nreach the goal, throw balls at targets\nfor a high score, and try for a fast\ntime in the high speed challenge.\nAlso, look out for hidden medals\nwhich help unlock new courses and\neven new gliders!<br>\n<br>\nFace Pilot is a truly unique game that\nwouldn't be possible without Nintendo\nDSi. The only thing missing is the\nwind in your hair!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KYBV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B513645",
-    "uid": "50010000003179",
-    "name": "Spin Six™",
-    "formal_name": "Spin Six™",
-    "description": "Spin Six is a puzzle game in which you rotate numbered panels to line them up and make them disappear. The real challenge of the game lies in your ability to create chains of uninterrupted changing or elimination of panels and connecting many chains to score big points.\n\nPuzzle mode offers nearly 200 puzzles to solve, either in the One-Turn or Chain categories, while Time Attack mode allows you to challenge yourself to see how quickly you can eliminate a set number of panels. If you’re more into points, the goal of Score Attack mode is to see how many points you can score within a set time limit (make the Spinnerator appear and get into Fever Time to really maximize your score!) and Chain Challenge mode is all about the number of chains you can make without interruption.\n\nGive Spin Six a whirl to discover its multiple modes and easy to master, but deep, game play.",
-    "release_date_on_eshop": "2010-06-21",
-    "product_code": "TWL-N-KQ6E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B513645",
+  "uid": "50010000003179",
+  "name": "Spin Six™",
+  "formal_name": "Spin Six™",
+  "description": "Spin Six is a puzzle game in which you rotate numbered panels to line them up and make them disappear. The real challenge of the game lies in your ability to create chains of uninterrupted changing or elimination of panels and connecting many chains to score big points.\n\nPuzzle mode offers nearly 200 puzzles to solve, either in the One-Turn or Chain categories, while Time Attack mode allows you to challenge yourself to see how quickly you can eliminate a set number of panels. If you’re more into points, the goal of Score Attack mode is to see how many points you can score within a set time limit (make the Spinnerator appear and get into Fever Time to really maximize your score!) and Chain Challenge mode is all about the number of chains you can make without interruption.\n\nGive Spin Six a whirl to discover its multiple modes and easy to master, but deep, game play.",
+  "release_date_on_eshop": "2010-06-21",
+  "product_code": "TWL-N-KQ6E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

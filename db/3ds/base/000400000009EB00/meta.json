@@ -1,27 +1,27 @@
 {
-    "tid": "000400000009EB00",
-    "uid": "50010000012861",
-    "name": "Unchained Blades",
-    "formal_name": "Unchained Blades",
-    "description": "Though Fang is already renowned as the ruthless and feared Dragon Emperor, his lust for strength brings him to the doorsteps of the great Goddess Clunea. When he arrogantly demands that she finds him a fitting opponent to defeat, the offended creator banishes him to crawl upon the ground in a weakened state. \n<p>\nNow Fang must traverse dangerous living temples of the Goddess' creation, known as Titans, in order to meet his maker once again and exact his revenge. But he cannot do it alone...<p>\n\nJourney through grid-based dungeons in first-person view with your seven allies in classic turn-based combat, all while fighting over 180 varieties of monsters that you can convince to fight alongside you in battle. ",
-    "release_date_on_eshop": "2013-01-03",
-    "product_code": "CTR-N-JUCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009EB00",
+  "uid": "50010000012861",
+  "name": "Unchained Blades",
+  "formal_name": "Unchained Blades",
+  "description": "Though Fang is already renowned as the ruthless and feared Dragon Emperor, his lust for strength brings him to the doorsteps of the great Goddess Clunea. When he arrogantly demands that she finds him a fitting opponent to defeat, the offended creator banishes him to crawl upon the ground in a weakened state. \n<p>\nNow Fang must traverse dangerous living temples of the Goddess' creation, known as Titans, in order to meet his maker once again and exact his revenge. But he cannot do it alone...<p>\n\nJourney through grid-based dungeons in first-person view with your seven allies in classic turn-based combat, all while fighting over 180 varieties of monsters that you can convince to fight alongside you in battle. ",
+  "release_date_on_eshop": "2013-01-03",
+  "product_code": "CTR-N-JUCE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

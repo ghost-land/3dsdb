@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000172B00",
-    "uid": "50010000044737",
-    "name": "Pokémon™ - Kristall-Edition",
-    "formal_name": "Pokémon™ - Kristall-Edition",
-    "description": "Delve into the mysterious world of Pokémon Crystal! Although this unique companion to Pokémon Gold and Silver shares many of the exciting adventures and challenges of its predecessors, a host of new changes, both big and small, add up to a brand-new experience.",
-    "release_date_on_eshop": "2018-01-26",
-    "product_code": "CTR-N-QBUA",
-    "platform_name": "Game Boy Color",
-    "region": "Region Free",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000172B00",
+  "uid": "50010000044737",
+  "name": "Pokémon™ - Kristall-Edition",
+  "formal_name": "Pokémon™ - Kristall-Edition",
+  "description": "Delve into the mysterious world of Pokémon Crystal! Although this unique companion to Pokémon Gold and Silver shares many of the exciting adventures and challenges of its predecessors, a host of new changes, both big and small, add up to a brand-new experience.",
+  "release_date_on_eshop": "2018-01-26",
+  "product_code": "CTR-N-QBUA",
+  "platform_name": "Game Boy Color",
+  "region": "Region Free",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

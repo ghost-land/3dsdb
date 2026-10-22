@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B514445",
-    "uid": "50010000003561",
-    "name": "Music on: Drums",
-    "formal_name": "Music on: Drums",
-    "description": "A beatbox full of features for creating songs and rhythms!\n\nWith a library of 160 sounds, use your creative skills to assign them to each of the eight tracks available per pattern, activate or deactivate each of the 16 steps that make up a track using the buttons or the stylus, and combine the eight patterns to compose up to 64 songs. If you want to produce a more complex tune, you can customize each step and set the volume, change the frequency and assign a panning. Like a professional DJ, create and play in real time!\n\nOnce you have laid down your patterns, you can use them to create much more complicated rhythms in Song mode, where you can add them to a sequence of up to 32 parts and change their length, activate/deactivate tracks, add repeats, and so on. Music on: Drums also includes a pre-recorded song.",
-    "release_date_on_eshop": "2011-01-31",
-    "product_code": "TWL-N-KQDE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B514445",
+  "uid": "50010000003561",
+  "name": "Music on: Drums",
+  "formal_name": "Music on: Drums",
+  "description": "A beatbox full of features for creating songs and rhythms!\n\nWith a library of 160 sounds, use your creative skills to assign them to each of the eight tracks available per pattern, activate or deactivate each of the 16 steps that make up a track using the buttons or the stylus, and combine the eight patterns to compose up to 64 songs. If you want to produce a more complex tune, you can customize each step and set the volume, change the frequency and assign a panning. Like a professional DJ, create and play in real time!\n\nOnce you have laid down your patterns, you can use them to create much more complicated rhythms in Song mode, where you can add them to a sequence of up to 32 parts and change their length, activate/deactivate tracks, add repeats, and so on. Music on: Drums also includes a pre-recorded song.",
+  "release_date_on_eshop": "2011-01-31",
+  "product_code": "TWL-N-KQDE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

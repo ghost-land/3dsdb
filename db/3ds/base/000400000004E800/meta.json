@@ -1,27 +1,27 @@
 {
-    "tid": "000400000004E800",
-    "uid": "50010000009202",
-    "name": "3Dクラシックス 星のカービィ\n夢の泉の物語",
-    "formal_name": "3Dクラシックス 星のカービィ\n夢の泉の物語",
-    "description": "『星のカービィ 夢の泉の物語』は、1992年にゲームボーイで発売された初代『星のカービィ』に続く、シリーズ2作目の作品です。\n<br>今ではすっかりカービィの代名詞になっている「コピー能力」が初めて取り入れられた作品でもあり、吸い込んだ敵の能力をコピーし、その特徴を使い分けながらステージやボスを攻略します。",
-    "release_date_on_eshop": "2012-04-25",
-    "product_code": "CTR-N-SAFJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004E800",
+  "uid": "50010000009202",
+  "name": "3Dクラシックス 星のカービィ\n夢の泉の物語",
+  "formal_name": "3Dクラシックス 星のカービィ\n夢の泉の物語",
+  "description": "『星のカービィ 夢の泉の物語』は、1992年にゲームボーイで発売された初代『星のカービィ』に続く、シリーズ2作目の作品です。\n<br>今ではすっかりカービィの代名詞になっている「コピー能力」が初めて取り入れられた作品でもあり、吸い込んだ敵の能力をコピーし、その特徴を使い分けながらステージやボスを攻略します。",
+  "release_date_on_eshop": "2012-04-25",
+  "product_code": "CTR-N-SAFJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

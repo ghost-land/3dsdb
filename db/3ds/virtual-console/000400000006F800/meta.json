@@ -1,26 +1,26 @@
 {
-    "tid": "000400000006F800",
-    "uid": "50010000007279",
-    "name": "Wrecking Crew",
-    "formal_name": "Wrecking Crew",
-    "description": "In NES™ classic Wrecking Crew,\nMario and Luigi swap their plumber’s\ncaps for hard hats as they take on the\nrole of demolition engineers!\n<br/><br/>\nOne or two players must demolish\nevery obstacle in each enemy-infested\nlevel, while working out the most\ndestructive route through the\nnetworks of ladders and scaffolds.\n<br/><br/>\nWrecking Crew also includes a mode\nfor designing your own levels. This\nVirtual Console™ version also features\nthe ability to save your creations,\nwhich was not possible in the NES\noriginal.",
-    "release_date_on_eshop": "2013-05-09",
-    "product_code": "CTR-N-TAGP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006F800",
+  "uid": "50010000007279",
+  "name": "Wrecking Crew",
+  "formal_name": "Wrecking Crew",
+  "description": "In NES™ classic Wrecking Crew,\nMario and Luigi swap their plumber’s\ncaps for hard hats as they take on the\nrole of demolition engineers!\n<br/><br/>\nOne or two players must demolish\nevery obstacle in each enemy-infested\nlevel, while working out the most\ndestructive route through the\nnetworks of ladders and scaffolds.\n<br/><br/>\nWrecking Crew also includes a mode\nfor designing your own levels. This\nVirtual Console™ version also features\nthe ability to save your creations,\nwhich was not possible in the NES\noriginal.",
+  "release_date_on_eshop": "2013-05-09",
+  "product_code": "CTR-N-TAGP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

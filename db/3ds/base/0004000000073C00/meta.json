@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000073C00",
-    "uid": "50010000007743",
-    "name": "My Foal 3D",
-    "formal_name": "My Foal 3D",
-    "description": "Your own foal in 3D!\n<br>\n<br>Up to 20 cute foals are waiting to have fun and be looked after by you.\n<br>Fall in love with their adorable expressions as they come right up to you in 3D!\n<br>\n<br>•Over 25 breeds you can choose from\n<br>\n<br>•Use the microphone and call your foal for attention.\n<br>\n<br>•Comprehensive story mode included with integrated photo album!\n<br>\n<br>•Augmented Reality: Using the AR card you can have your own cute foal right in your hand!\n<br>\n<br>•StreetPass™: Hold beauty contests and win cool in-game extras!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-AM3Z",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000073C00",
+  "uid": "50010000007743",
+  "name": "My Foal 3D",
+  "formal_name": "My Foal 3D",
+  "description": "Your own foal in 3D!\n<br>\n<br>Up to 20 cute foals are waiting to have fun and be looked after by you.\n<br>Fall in love with their adorable expressions as they come right up to you in 3D!\n<br>\n<br>•Over 25 breeds you can choose from\n<br>\n<br>•Use the microphone and call your foal for attention.\n<br>\n<br>•Comprehensive story mode included with integrated photo album!\n<br>\n<br>•Augmented Reality: Using the AR card you can have your own cute foal right in your hand!\n<br>\n<br>•StreetPass™: Hold beauty contests and win cool in-game extras!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-AM3Z",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

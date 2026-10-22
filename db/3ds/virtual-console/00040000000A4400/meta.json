@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000A4400",
-    "uid": "50010000014896",
-    "name": "Street Gangs",
-    "formal_name": "Street Gangs",
-    "description": "Street Gangs is the Western version\nof the acclaimed Japanese hit\nDowntown Nekketsu Monogatari, a\nunique mix of beat ‘em up and RPG.\n<br/><br/>\nFriends Alex and Ryan must save\nRiver City from the evil Slick and his\ngang who have also kidnapped Ryan's\ngirlfriend Cyndi. Fight your way\nthrough gang members and bosses,\nraise your stats by eating the right\nfoods, and gain new techniques by\nreading special books.\n<br/><br/>\nPlay solo or battle with two players\nsimultaneously via Download Play\n(only one copy of the game is\nrequired).",
-    "release_date_on_eshop": "2013-07-25",
-    "product_code": "CTR-N-TBHP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A4400",
+  "uid": "50010000014896",
+  "name": "Street Gangs",
+  "formal_name": "Street Gangs",
+  "description": "Street Gangs is the Western version\nof the acclaimed Japanese hit\nDowntown Nekketsu Monogatari, a\nunique mix of beat ‘em up and RPG.\n<br/><br/>\nFriends Alex and Ryan must save\nRiver City from the evil Slick and his\ngang who have also kidnapped Ryan's\ngirlfriend Cyndi. Fight your way\nthrough gang members and bosses,\nraise your stats by eating the right\nfoods, and gain new techniques by\nreading special books.\n<br/><br/>\nPlay solo or battle with two players\nsimultaneously via Download Play\n(only one copy of the game is\nrequired).",
+  "release_date_on_eshop": "2013-07-25",
+  "product_code": "CTR-N-TBHP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

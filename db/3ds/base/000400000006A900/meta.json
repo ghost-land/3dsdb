@@ -1,36 +1,36 @@
 {
-    "tid": "000400000006A900",
-    "uid": "50010000008863",
-    "name": "Word Wizard 3D",
-    "formal_name": "Word Wizard 3D",
-    "description": "WORD WIZARD 3D Is a collection of\nclassic word games. The player is\ninvited to create, compose and find\nwords in addictive and absorbing\ngameplay. Levels of difficulty naturally\nincrease as the players advance\nthrough the game making it suitable\nfor all ages.",
-    "release_date_on_eshop": "2013-11-21",
-    "product_code": "CTR-P-AWWP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Arcade",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006A900",
+  "uid": "50010000008863",
+  "name": "Word Wizard 3D",
+  "formal_name": "Word Wizard 3D",
+  "description": "WORD WIZARD 3D Is a collection of\nclassic word games. The player is\ninvited to create, compose and find\nwords in addictive and absorbing\ngameplay. Levels of difficulty naturally\nincrease as the players advance\nthrough the game making it suitable\nfor all ages.",
+  "release_date_on_eshop": "2013-11-21",
+  "product_code": "CTR-P-AWWP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Arcade",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

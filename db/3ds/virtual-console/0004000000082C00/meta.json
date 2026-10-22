@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000082C00",
-    "uid": "50010000010294",
-    "name": "Game & Watch™ Gallery 2",
-    "formal_name": "Game & Watch™ Gallery 2",
-    "description": "Game & Watch Gallery 2 is a\ncollection of five classic handheld\ngames; playable in their original 80s\nversion and a remastered version with\nenhanced graphics, sound, and new\ngameplay.<br>\n<br>\nParachute - catch the parachutists\nbefore they fall into the sea.<br>\n<br>\nHelmet - dodge the falling tools and\nhead for the shed.<br>\n<br>\nChef - juggle ingredients with your\nfrying pan as long as you can.<br>\n<br>\nVermin - use your mallets to keep the\nmoles and other critters at bay.<br>\n<br>\nDonkey Kong - destroy the platform\nbelow DK while avoiding the barrels.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-QAKP",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000082C00",
+  "uid": "50010000010294",
+  "name": "Game & Watch™ Gallery 2",
+  "formal_name": "Game & Watch™ Gallery 2",
+  "description": "Game & Watch Gallery 2 is a\ncollection of five classic handheld\ngames; playable in their original 80s\nversion and a remastered version with\nenhanced graphics, sound, and new\ngameplay.<br>\n<br>\nParachute - catch the parachutists\nbefore they fall into the sea.<br>\n<br>\nHelmet - dodge the falling tools and\nhead for the shed.<br>\n<br>\nChef - juggle ingredients with your\nfrying pan as long as you can.<br>\n<br>\nVermin - use your mallets to keep the\nmoles and other critters at bay.<br>\n<br>\nDonkey Kong - destroy the platform\nbelow DK while avoiding the barrels.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-QAKP",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B574345",
-    "uid": "50010000003577",
-    "name": "Animal Crossing™ Clock",
-    "formal_name": "Animal Crossing™ Clock",
-    "description": "Enjoy the atmosphere of Animal Crossing in a whole new way with Animal Crossing Clock. Select from either an analog or digital clock and set up to three alarms (with snooze functionality for those that need it). Make your own Town Tune or use sounds created in Nintendo DSi Sound, and assign them to the alarms you’ve set. Use the system's internal clock or offset the time however you like. Then sit back and watch as different characters from Animal Crossing appear and the color of the sky changes as time passes. Never miss an important appointment with one of your Animal Crossing friends again!",
-    "release_date_on_eshop": "2009-05-04",
-    "product_code": "TWL-N-KWCE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B574345",
+  "uid": "50010000003577",
+  "name": "Animal Crossing™ Clock",
+  "formal_name": "Animal Crossing™ Clock",
+  "description": "Enjoy the atmosphere of Animal Crossing in a whole new way with Animal Crossing Clock. Select from either an analog or digital clock and set up to three alarms (with snooze functionality for those that need it). Make your own Town Tune or use sounds created in Nintendo DSi Sound, and assign them to the alarms you’ve set. Use the system's internal clock or offset the time however you like. Then sit back and watch as different characters from Animal Crossing appear and the color of the sky changes as time passes. Never miss an important appointment with one of your Animal Crossing friends again!",
+  "release_date_on_eshop": "2009-05-04",
+  "product_code": "TWL-N-KWCE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000AAD00",
-    "uid": "50010000011966",
-    "name": "引ク落ツ",
-    "formal_name": "引ク落ツ",
-    "description": "ブロックを押し出したり、引き出したり、下に落としたり…。いろいろと動かして足場を作りながら、ジャンプでのぼりおりしてゴールを目指すパズルアクション。\n<br>遊べるヒクオツはトレーニングも含めて、全230種類。\n<br>自分でオリジナルのヒクオツを作って、ひとにあげたり、ひとからもらったりして楽しむことができます。",
-    "release_date_on_eshop": "2012-10-31",
-    "product_code": "CTR-N-JAUJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "いつの間に通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AAD00",
+  "uid": "50010000011966",
+  "name": "引ク落ツ",
+  "formal_name": "引ク落ツ",
+  "description": "ブロックを押し出したり、引き出したり、下に落としたり…。いろいろと動かして足場を作りながら、ジャンプでのぼりおりしてゴールを目指すパズルアクション。\n<br>遊べるヒクオツはトレーニングも含めて、全230種類。\n<br>自分でオリジナルのヒクオツを作って、ひとにあげたり、ひとからもらったりして楽しむことができます。",
+  "release_date_on_eshop": "2012-10-31",
+  "product_code": "CTR-N-JAUJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "いつの間に通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

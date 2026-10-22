@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E000FC100",
-    "uid": "50010000023075",
-    "name": "I am an Air Traffic Controller\nAirport Hero Hawaii Update",
-    "formal_name": "I am an Air Traffic Controller\nAirport Hero Hawaii Update Ver. 1.1",
-    "description": "I removed the unnatural wording in the ATC.\nI have modified the behavior of the landing.",
-    "release_date_on_eshop": "2014-06-03",
-    "product_code": "CTR-U-AHWE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E000FC100",
+  "uid": "50010000023075",
+  "name": "I am an Air Traffic Controller\nAirport Hero Hawaii Update",
+  "formal_name": "I am an Air Traffic Controller\nAirport Hero Hawaii Update Ver. 1.1",
+  "description": "I removed the unnatural wording in the ATC.\nI have modified the behavior of the landing.",
+  "release_date_on_eshop": "2014-06-03",
+  "product_code": "CTR-U-AHWE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

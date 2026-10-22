@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E000A4D00",
-    "uid": "50010000012203",
-    "name": "更新データ Ver. 1.1\n戦国無双 Chronicle 2nd",
-    "formal_name": "更新データ Ver. 1.1\n戦国無双 Chronicle 2nd",
-    "description": "ニンテンドー3DSソフト『戦国無双 Chronicle 2nd』の更新データです。\n不具合の修正のほか、難易度「天国」の追加、「猛将演武」モードのクリア基準引き下げなど、ゲームをさらに遊びやすくするバランス調整が含まれています。\n\n更新データをダウンロードすると、『戦国無双 Chronicle 2nd』のバージョンが「Ver. 1.1」となります。バージョンが変わると、以前の中断データが再開できなくなりますのでご注意ください。\n\n『戦国無双 Chronicle 2nd』をお持ちのお客様は、必ずダウンロードしてください。",
-    "release_date_on_eshop": "2012-10-16",
-    "product_code": "CTR-U-AZCJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.0.0",
-    "disclaimer": "ニンテンドー3DSソフト『戦国無双 Cheonicle 2nd』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。\n更新データをダウンロードすると、以前の中断データが再開できなくなります。",
-    "descriptors": []
+  "tid": "0004000E000A4D00",
+  "uid": "50010000012203",
+  "name": "更新データ Ver. 1.1\n戦国無双 Chronicle 2nd",
+  "formal_name": "更新データ Ver. 1.1\n戦国無双 Chronicle 2nd",
+  "description": "ニンテンドー3DSソフト『戦国無双 Chronicle 2nd』の更新データです。\n不具合の修正のほか、難易度「天国」の追加、「猛将演武」モードのクリア基準引き下げなど、ゲームをさらに遊びやすくするバランス調整が含まれています。\n\n更新データをダウンロードすると、『戦国無双 Chronicle 2nd』のバージョンが「Ver. 1.1」となります。バージョンが変わると、以前の中断データが再開できなくなりますのでご注意ください。\n\n『戦国無双 Chronicle 2nd』をお持ちのお客様は、必ずダウンロードしてください。",
+  "release_date_on_eshop": "2012-10-16",
+  "product_code": "CTR-U-AZCJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.0.0",
+  "disclaimer": "ニンテンドー3DSソフト『戦国無双 Cheonicle 2nd』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。\n更新データをダウンロードすると、以前の中断データが再開できなくなります。",
+  "descriptors": []
 }

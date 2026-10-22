@@ -1,30 +1,30 @@
 {
-    "tid": "000400000004EE00",
-    "uid": "50010000009462",
-    "name": "KINGDOM HEARTS 3D\n[Dream Drop Distance]",
-    "formal_name": "KINGDOM HEARTS 3D\n[Dream Drop Distance]",
-    "description": "魅力的なキャラクターたちが多数登場し、ミッキーマウスなどの仲間たちとともに、物語を堪能することができます。\n<br>\n<br>新たに加わった「フリーフローアクション」は、壁を蹴っての移動や、手すりを滑走したりなど、これまでには無かったアクションを簡単操作で繰り出せます。\n<br>\n<br>本作で初登場の不思議な生物「ドリームイーター」は、育成や連携技を発動することも可能。\n<br>\n<br>※本作は、拡張スライドパッドに対応しています。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AKHJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004EE00",
+  "uid": "50010000009462",
+  "name": "KINGDOM HEARTS 3D\n[Dream Drop Distance]",
+  "formal_name": "KINGDOM HEARTS 3D\n[Dream Drop Distance]",
+  "description": "魅力的なキャラクターたちが多数登場し、ミッキーマウスなどの仲間たちとともに、物語を堪能することができます。\n<br>\n<br>新たに加わった「フリーフローアクション」は、壁を蹴っての移動や、手すりを滑走したりなど、これまでには無かったアクションを簡単操作で繰り出せます。\n<br>\n<br>本作で初登場の不思議な生物「ドリームイーター」は、育成や連携技を発動することも可能。\n<br>\n<br>※本作は、拡張スライドパッドに対応しています。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AKHJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

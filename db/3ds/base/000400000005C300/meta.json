@@ -1,33 +1,33 @@
 {
-    "tid": "000400000005C300",
-    "uid": "50010000007603",
-    "name": "スライムもりもり\nドラゴンクエスト3",
-    "formal_name": "スライムもりもり\nドラゴンクエスト3",
-    "description": "『スライムもりもりドラゴンクエスト』はスライムが主人公のゲーム。\n<br>のびて、はねて、せおって、なげるスライムの爽快アクションがそのまま3Dに!\n<br>冒険の舞台は全世界! 手に入れたアイテムや船パーツを駆使して、自分だけの船をカスタマイズしよう! 通信対戦では最大4人で対戦や協力プレイが可能!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AMRJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応",
-        "いつの間に通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005C300",
+  "uid": "50010000007603",
+  "name": "スライムもりもり\nドラゴンクエスト3",
+  "formal_name": "スライムもりもり\nドラゴンクエスト3",
+  "description": "『スライムもりもりドラゴンクエスト』はスライムが主人公のゲーム。\n<br>のびて、はねて、せおって、なげるスライムの爽快アクションがそのまま3Dに!\n<br>冒険の舞台は全世界! 手に入れたアイテムや船パーツを駆使して、自分だけの船をカスタマイズしよう! 通信対戦では最大4人で対戦や協力プレイが可能!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AMRJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "いつの間に通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

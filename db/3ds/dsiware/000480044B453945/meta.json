@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B453945",
-    "uid": "50010000001707",
-    "name": "Absolute Baseball",
-    "formal_name": "Absolute Baseball",
-    "description": "Become the manager of a baseball team and lead it to the championship! This is a baseball simulation and role-playing game. You, as club manager, make all of the decisions for your team, such as selecting the starting lineup, switching pitchers, batters, and runners, giving your players pitching, fielding, and batting orders, and so on. Earn points as you play games throughout the season, and use them to increase your players’ abilities to build them into the team that will respond to your strategy and make it to the top. In addition to regular league games, there are inter-league games, playoffs, and the championship series.",
-    "release_date_on_eshop": "2011-04-04",
-    "product_code": "TWL-N-KE9E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation",
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B453945",
+  "uid": "50010000001707",
+  "name": "Absolute Baseball",
+  "formal_name": "Absolute Baseball",
+  "description": "Become the manager of a baseball team and lead it to the championship! This is a baseball simulation and role-playing game. You, as club manager, make all of the decisions for your team, such as selecting the starting lineup, switching pitchers, batters, and runners, giving your players pitching, fielding, and batting orders, and so on. Earn points as you play games throughout the season, and use them to increase your players’ abilities to build them into the team that will respond to your strategy and make it to the top. In addition to regular league games, there are inter-league games, playoffs, and the championship series.",
+  "release_date_on_eshop": "2011-04-04",
+  "product_code": "TWL-N-KE9E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation",
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

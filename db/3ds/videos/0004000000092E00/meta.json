@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000092E00",
-    "uid": "50010000010423",
-    "name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
-    "formal_name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
-    "description": "In preparation for an impending threat, Sora and Riku enter the Sleeping Worlds to take the Mark of Mastery exam. They will face new enemies and make new friends in worlds they’ve never set foot in. If they can successfully unlock seven Sleeping Keyholes and return to their world, they will retrieve a great power and be deemed true Keyblade Masters.\n<br><br>\nNew gameplay features such as Flowmotion, Reality Shift, and the introduction of Dream Eaters will elevate the acclaimed KINGDOM HEARTS experience to new heights.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AKHE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Fantasy Violence"
-    ]
+  "tid": "0004000000092E00",
+  "uid": "50010000010423",
+  "name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
+  "formal_name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
+  "description": "In preparation for an impending threat, Sora and Riku enter the Sleeping Worlds to take the Mark of Mastery exam. They will face new enemies and make new friends in worlds they’ve never set foot in. If they can successfully unlock seven Sleeping Keyholes and return to their world, they will retrieve a great power and be deemed true Keyblade Masters.\n<br><br>\nNew gameplay features such as Flowmotion, Reality Shift, and the introduction of Dream Eaters will elevate the acclaimed KINGDOM HEARTS experience to new heights.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AKHE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Fantasy Violence"
+  ]
 }

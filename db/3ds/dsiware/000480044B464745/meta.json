@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B464745",
-    "uid": "50010000002007",
-    "name": "Frogger Returns",
-    "formal_name": "Frogger Returns",
-    "description": "Frogger is coming to a Nintendo DSi system near you! Frogger Returns takes the heart-pounding challenge of arcade Frogger and takes it into the next dimension! Classic top-down 2D gameplay is updated with colorful 3D graphics, a new perspective, all-new levels, new enemies and game-changing power-ups to dodge and use!\n\n• Enhanced graphics. Classic Frogger gameplay gets a brand new look.\n• All-new levels. Four stages take the original journey of Frogger from highway to home through an all-new adventure.\n• Multiple gameplay modes. Attack your top scores, race against the clock, or just get Frogger to his home pad. Play how you like!\n• New bosses and tactics. New enemies and power-ups change up your strategy.",
-    "release_date_on_eshop": "2010-05-17",
-    "product_code": "TWL-N-KFGE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B464745",
+  "uid": "50010000002007",
+  "name": "Frogger Returns",
+  "formal_name": "Frogger Returns",
+  "description": "Frogger is coming to a Nintendo DSi system near you! Frogger Returns takes the heart-pounding challenge of arcade Frogger and takes it into the next dimension! Classic top-down 2D gameplay is updated with colorful 3D graphics, a new perspective, all-new levels, new enemies and game-changing power-ups to dodge and use!\n\n• Enhanced graphics. Classic Frogger gameplay gets a brand new look.\n• All-new levels. Four stages take the original journey of Frogger from highway to home through an all-new adventure.\n• Multiple gameplay modes. Attack your top scores, race against the clock, or just get Frogger to his home pad. Play how you like!\n• New bosses and tactics. New enemies and power-ups change up your strategy.",
+  "release_date_on_eshop": "2010-05-17",
+  "product_code": "TWL-N-KFGE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

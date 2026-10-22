@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000038900",
-    "uid": "50010000000214",
-    "name": "Super Monkey Ball™ 3D",
-    "formal_name": "Super Monkey Ball™ 3D",
-    "description": "Super Monkey Ball as you've never\n<br>experienced before! Join AiAi and\n<br>friends as you tilt and roll your way in\n<br>to the world of 3D! Lose yourself in\n<br>each vibrant world as you twist, turn\n<br>and aim to collect every banana in the\n<br>fastest time possible. Then play\n<br>together with friends and be the first\n<br>to cross the finish line in Monkey\n<br>Race or get ready for a manic melee\n<br>in Monkey Fight. Everyone's favorite\n<br>monkeys are jumping out of the\n<br>screen with excitement. Let yourself\n<br>be completely immersed in the world\n<br>of Super Monkey Ball like never\n<br>before. Watch as your favorite\n<br>monkeys truly come alive in front of\n<br>your eyes. Are you ready to join the\n<br>fun!?",
-    "release_date_on_eshop": "2014-04-03",
-    "product_code": "CTR-P-ASMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Platformer",
-        "Party"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000038900",
+  "uid": "50010000000214",
+  "name": "Super Monkey Ball™ 3D",
+  "formal_name": "Super Monkey Ball™ 3D",
+  "description": "Super Monkey Ball as you've never\n<br>experienced before! Join AiAi and\n<br>friends as you tilt and roll your way in\n<br>to the world of 3D! Lose yourself in\n<br>each vibrant world as you twist, turn\n<br>and aim to collect every banana in the\n<br>fastest time possible. Then play\n<br>together with friends and be the first\n<br>to cross the finish line in Monkey\n<br>Race or get ready for a manic melee\n<br>in Monkey Fight. Everyone's favorite\n<br>monkeys are jumping out of the\n<br>screen with excitement. Let yourself\n<br>be completely immersed in the world\n<br>of Super Monkey Ball like never\n<br>before. Watch as your favorite\n<br>monkeys truly come alive in front of\n<br>your eyes. Are you ready to join the\n<br>fun!?",
+  "release_date_on_eshop": "2014-04-03",
+  "product_code": "CTR-P-ASMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Platformer",
+    "Party"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

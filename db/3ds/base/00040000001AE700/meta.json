@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001AE700",
-    "uid": "50010000042389",
-    "name": "Parascientific Escape\n - Gear Detective",
-    "formal_name": "Parascientific Escape\n - Gear Detective",
-    "description": "Parascientific Escape～Gear Detective～ is a sequel to Parascientific Escape～Cruise in the distant seas～, where the player is required to find clues and solve puzzles to escape certain situation using PSI abilities.\n\n<br>The story follows Detective Kyosuke Ayana, who has the ability named chronokinesis which allows him to look back in time in a limited field of view, for up till 5 days back. Detective Ayana is hired to find a serial killer threatening the quiet neighborhood of Camellia Hills - but soon finds himself in much bigger trouble as he investigates the crime scenes.",
-    "release_date_on_eshop": "2017-02-09",
-    "product_code": "CTR-N-KGEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001AE700",
+  "uid": "50010000042389",
+  "name": "Parascientific Escape\n - Gear Detective",
+  "formal_name": "Parascientific Escape\n - Gear Detective",
+  "description": "Parascientific Escape～Gear Detective～ is a sequel to Parascientific Escape～Cruise in the distant seas～, where the player is required to find clues and solve puzzles to escape certain situation using PSI abilities.\n\n<br>The story follows Detective Kyosuke Ayana, who has the ability named chronokinesis which allows him to look back in time in a limited field of view, for up till 5 days back. Detective Ayana is hired to find a serial killer threatening the quiet neighborhood of Camellia Hills - but soon finds himself in much bigger trouble as he investigates the crime scenes.",
+  "release_date_on_eshop": "2017-02-09",
+  "product_code": "CTR-N-KGEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

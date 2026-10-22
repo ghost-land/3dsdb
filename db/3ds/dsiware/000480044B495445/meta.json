@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B495445",
-    "uid": "50010000002425",
-    "name": "Spot It! Challenge",
-    "formal_name": "Spot It! Challenge",
-    "description": "Can you Spot It?\n\nIn “Spot It! Challenge”, players race the clock to find the hidden objects in cleverly arranged scenes. The puzzles are based on the popular “Spot-It” book series published by Capstone Press. See how many objects you can spot in 10 different puzzles. Vibrant graphics make spotting objects fun and challenging. Players use the stylus to tap on the hidden objects and also to navigate the extra large play areas. Spot hundreds of hidden objects in 10 themed puzzles, including Outdoor Sports, Board Games, and Fun with Food.\n\nPlayers can compete against their friends using the “Pass Around Play” feature. Up to four players can race to find 10 objects hidden within a puzzle. Each player has to spot the objects and then pass it on to the next player. See who can get the best score! Find objects fast to score the most points. Three levels of difficulty (Easy, Medium, and Insane) provide lots of replay value.",
-    "release_date_on_eshop": "2010-11-29",
-    "product_code": "TWL-N-KITE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Education",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B495445",
+  "uid": "50010000002425",
+  "name": "Spot It! Challenge",
+  "formal_name": "Spot It! Challenge",
+  "description": "Can you Spot It?\n\nIn “Spot It! Challenge”, players race the clock to find the hidden objects in cleverly arranged scenes. The puzzles are based on the popular “Spot-It” book series published by Capstone Press. See how many objects you can spot in 10 different puzzles. Vibrant graphics make spotting objects fun and challenging. Players use the stylus to tap on the hidden objects and also to navigate the extra large play areas. Spot hundreds of hidden objects in 10 themed puzzles, including Outdoor Sports, Board Games, and Fun with Food.\n\nPlayers can compete against their friends using the “Pass Around Play” feature. Up to four players can race to find 10 objects hidden within a puzzle. Each player has to spot the objects and then pass it on to the next player. See who can get the best score! Find objects fast to score the most points. Three levels of difficulty (Easy, Medium, and Insane) provide lots of replay value.",
+  "release_date_on_eshop": "2010-11-29",
+  "product_code": "TWL-N-KITE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Education",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

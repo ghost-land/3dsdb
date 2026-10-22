@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B414456",
-    "uid": "50010000001706",
-    "name": "Art Style: CODE™",
-    "formal_name": "Art Style: CODE™",
-    "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nArt Style: CODE is a fast-paced\npuzzle game that will test your quick\narithmetic skills. Line up the moving\ndigits with the stylus so that they add\nup to 10 in a horizontal or vertical\nline to clear them from the screen.<br>\n<br>\nThree single-player modes are\nincluded: Challenge (clear a set\nnumber of digits), Puzzle (clear the\nscreen in as few moves as possible)\nand Endless (keep clearing digits for a\nhigh score). You can also use DS\nDownload Play to challenge a friend\nin VS Mode. All they need is another\nNintendo DSi, or even a Nintendo\nDS/DS Lite system!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KADV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414456",
+  "uid": "50010000001706",
+  "name": "Art Style: CODE™",
+  "formal_name": "Art Style: CODE™",
+  "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nArt Style: CODE is a fast-paced\npuzzle game that will test your quick\narithmetic skills. Line up the moving\ndigits with the stylus so that they add\nup to 10 in a horizontal or vertical\nline to clear them from the screen.<br>\n<br>\nThree single-player modes are\nincluded: Challenge (clear a set\nnumber of digits), Puzzle (clear the\nscreen in as few moves as possible)\nand Endless (keep clearing digits for a\nhigh score). You can also use DS\nDownload Play to challenge a friend\nin VS Mode. All they need is another\nNintendo DSi, or even a Nintendo\nDS/DS Lite system!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KADV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

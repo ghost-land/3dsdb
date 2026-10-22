@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001CC500",
-    "uid": "50010000044315",
-    "name": "Japanese Rail Sim 3D \nTravel of Steam",
-    "formal_name": "Japanese Rail Sim 3D \nTravel of Steam",
-    "description": "Welcome to the cab of the \"OIGAWA RAILWAY\"!\n<br>\n<br>You will be operating the SL used at the OIGAWA RAILWAY!\n<br>\n<br>This SL will depart from \"Shinkanaya Station\", and head to the last stop, \"Senzu Station\".\n<br>\n<br>The journey of 37.2 km starts, running aside of Oi-gawa river running through Shizuoka.\n<br>\n<br>The SL uses steam to run, so control of steam is essential.\n<br>\n<br>Control the \"throttle valve\" to accelerate, and use the notchless brake to stop at the stopping position!\n<br>\n<br>There are many curves and uphills because the route winds through the mountain.\n<br>\n<br>From the front observatory, you can see the vast green of tea plantations, and enjoy refreshing scenery.\n<br>\n<br>Listen to the exciting SL sounds and proceed through the serene scenery!",
-    "release_date_on_eshop": "2017-12-07",
-    "product_code": "CTR-N-BTGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001CC500",
+  "uid": "50010000044315",
+  "name": "Japanese Rail Sim 3D \nTravel of Steam",
+  "formal_name": "Japanese Rail Sim 3D \nTravel of Steam",
+  "description": "Welcome to the cab of the \"OIGAWA RAILWAY\"!\n<br>\n<br>You will be operating the SL used at the OIGAWA RAILWAY!\n<br>\n<br>This SL will depart from \"Shinkanaya Station\", and head to the last stop, \"Senzu Station\".\n<br>\n<br>The journey of 37.2 km starts, running aside of Oi-gawa river running through Shizuoka.\n<br>\n<br>The SL uses steam to run, so control of steam is essential.\n<br>\n<br>Control the \"throttle valve\" to accelerate, and use the notchless brake to stop at the stopping position!\n<br>\n<br>There are many curves and uphills because the route winds through the mountain.\n<br>\n<br>From the front observatory, you can see the vast green of tea plantations, and enjoy refreshing scenery.\n<br>\n<br>Listen to the exciting SL sounds and proceed through the serene scenery!",
+  "release_date_on_eshop": "2017-12-07",
+  "product_code": "CTR-N-BTGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,34 +1,34 @@
 {
-    "tid": "000480044B505A56",
-    "uid": "50010000020596",
-    "name": "Puzzle Quest -\nChallenge of the Warlords",
-    "formal_name": "Puzzle Quest -\nChallenge of the Warlords",
-    "description": "Puzzle Quest: Challenge of the\nWarlords delivers, for the first time\never, classic puzzle-game action\nbacked with an epic story of good vs.\nevil. Enter the world of Etheria, a land\nquickly becoming swarmed with evil.\nHelp protect the kingdom of Bartonia\nfromt he undead invasion and seek out\nthe source of these vile creatures to\nensure the safety of your countrymen!\nChallenge your skills in single-player\ncampaign mode, or battle your friends\nvia wireless mutliplayer. Experience a\npuzzle game like nothing you have\nplayed before. Are you up to the\nchallenge? Match gems and unleash\ndevastating spells to defeat your\nopponents. Complete over 150 quests\nin the expansive and immersive story\nmode.",
-    "release_date_on_eshop": "2014-03-06",
-    "product_code": "TWL-N-KPZV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B505A56",
+  "uid": "50010000020596",
+  "name": "Puzzle Quest -\nChallenge of the Warlords",
+  "formal_name": "Puzzle Quest -\nChallenge of the Warlords",
+  "description": "Puzzle Quest: Challenge of the\nWarlords delivers, for the first time\never, classic puzzle-game action\nbacked with an epic story of good vs.\nevil. Enter the world of Etheria, a land\nquickly becoming swarmed with evil.\nHelp protect the kingdom of Bartonia\nfromt he undead invasion and seek out\nthe source of these vile creatures to\nensure the safety of your countrymen!\nChallenge your skills in single-player\ncampaign mode, or battle your friends\nvia wireless mutliplayer. Experience a\npuzzle game like nothing you have\nplayed before. Are you up to the\nchallenge? Match gems and unleash\ndevastating spells to defeat your\nopponents. Complete over 150 quests\nin the expansive and immersive story\nmode.",
+  "release_date_on_eshop": "2014-03-06",
+  "product_code": "TWL-N-KPZV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

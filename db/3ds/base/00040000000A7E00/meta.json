@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000A7E00",
-    "uid": "50010000011867",
-    "name": "Crazy Kangaroo",
-    "formal_name": "Crazy Kangaroo",
-    "description": "A ground-breaking, super-addictive\nand unbelievably cute platform game\nfrom Gamelion that delivers pure\nawesomeness!\n<br/><br/>\nMEET BARNEY - a cute kangaroo\nthat was caught by evil poachers but\nluckily fell out of the aeroplane and\nnow has to make his way home. Help\nhim - you two should hop along\ntogether just fine! With intuitive\nMotion Sensor and Circle Pad\ncontrols, and handcrafted graphics,\nCRAZY KANGAROO is simply perfect.\nGive it a shot!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JKGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A7E00",
+  "uid": "50010000011867",
+  "name": "Crazy Kangaroo",
+  "formal_name": "Crazy Kangaroo",
+  "description": "A ground-breaking, super-addictive\nand unbelievably cute platform game\nfrom Gamelion that delivers pure\nawesomeness!\n<br/><br/>\nMEET BARNEY - a cute kangaroo\nthat was caught by evil poachers but\nluckily fell out of the aeroplane and\nnow has to make his way home. Help\nhim - you two should hop along\ntogether just fine! With intuitive\nMotion Sensor and Circle Pad\ncontrols, and handcrafted graphics,\nCRAZY KANGAROO is simply perfect.\nGive it a shot!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JKGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

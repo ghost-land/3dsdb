@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001CAD00",
-    "uid": "50010000044936",
-    "name": "커비 배틀 디럭스! 체험판",
-    "formal_name": "커비 배틀 디럭스! 체험판",
-    "description": "「커비 배틀 디럭스!」제품판은 패키지를 구입하여 즐겨 주십시오.\n\n최강 커비 결정전! 커비의 대전 액션 게임이 닌텐도 3DS에 등장.\n\n이번에 커비가 싸우게 될 상대는… 정말 커비 본인!? 때로는 사과를 빼앗고, 때로는 거대 로봇과 싸우며 개성 강한 카피 능력을 적절하게 구사해서 최강 커비 칭호를 차지하라!\n\n※본 체험판은 제품판과 다른 부분이 있습니다.",
-    "release_date_on_eshop": "2018-01-18",
-    "product_code": "CTR-N-BB4K",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Digital Demos",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CAD00",
+  "uid": "50010000044936",
+  "name": "커비 배틀 디럭스! 체험판",
+  "formal_name": "커비 배틀 디럭스! 체험판",
+  "description": "「커비 배틀 디럭스!」제품판은 패키지를 구입하여 즐겨 주십시오.\n\n최강 커비 결정전! 커비의 대전 액션 게임이 닌텐도 3DS에 등장.\n\n이번에 커비가 싸우게 될 상대는… 정말 커비 본인!? 때로는 사과를 빼앗고, 때로는 거대 로봇과 싸우며 개성 강한 카피 능력을 적절하게 구사해서 최강 커비 칭호를 차지하라!\n\n※본 체험판은 제품판과 다른 부분이 있습니다.",
+  "release_date_on_eshop": "2018-01-18",
+  "product_code": "CTR-N-BB4K",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Digital Demos",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

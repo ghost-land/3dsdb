@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000092600",
-    "uid": "50010000015055",
-    "name": "Deer Hunting King",
-    "formal_name": "Deer Hunting King",
-    "description": "In Deer Hunting King, you can hunt for wild animals that throb with vitality and life amid the vast backdrop of the natural world. Use a crossbow, a rifle, or a shotgun as you hunt for deer, raptors, bears, and more.\n<BR><BR>\nChoose to sight with either the Circle Pad or by moving your Nintendo 3DS itself to use the built-in gyro sensor to sight your prey.\n<BR><BR>\nYou can enjoy four rich modes, including:<BR>\nInstant mode, where you simply aim for high points<BR>\nMission mode, in which you must meet certain specific conditions to pass<BR>\nVersus mode, where you can play against friends using local wireless, and<BR>\nHunt in the real world using AR mode!\n<BR><BR>\nWhy not enjoy a spot of hunting amid the beautiful nature of this stunningly 3-dimensional world? ",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "CTR-N-JCKE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "First-Person Shooter",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000092600",
+  "uid": "50010000015055",
+  "name": "Deer Hunting King",
+  "formal_name": "Deer Hunting King",
+  "description": "In Deer Hunting King, you can hunt for wild animals that throb with vitality and life amid the vast backdrop of the natural world. Use a crossbow, a rifle, or a shotgun as you hunt for deer, raptors, bears, and more.\n<BR><BR>\nChoose to sight with either the Circle Pad or by moving your Nintendo 3DS itself to use the built-in gyro sensor to sight your prey.\n<BR><BR>\nYou can enjoy four rich modes, including:<BR>\nInstant mode, where you simply aim for high points<BR>\nMission mode, in which you must meet certain specific conditions to pass<BR>\nVersus mode, where you can play against friends using local wireless, and<BR>\nHunt in the real world using AR mode!\n<BR><BR>\nWhy not enjoy a spot of hunting amid the beautiful nature of this stunningly 3-dimensional world? ",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "CTR-N-JCKE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "First-Person Shooter",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

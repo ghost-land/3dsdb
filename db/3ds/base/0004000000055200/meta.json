@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000055200",
-    "uid": "50010000008381",
-    "name": "3D Classics Kid Icarus™",
-    "formal_name": "3D Classics Kid Icarus™",
-    "description": "Enjoy classic games in a new\ndimension with the 3D Classics range,\nremastered with immersive 3D visuals!<br>\n<br>\nKid Icarus™ is an action-platformer\nfrom the creators of Metroid™;\nstarring angelic warrior Pit, who must\nrescue the goddess Palutena and save\nAngel Land from the evil Medusa.<br>\n<br>\nArmed with his trusty bow and arrow,\nPit must battle from the underworld to\nthe sky, to seek out the Three Sacred\nTreasures. Only then will Pit have the\npower to take on Medusa.<br>\n<br>\nLook out for Pit's return in\nKid Icarus™: Uprising for\nNintendo 3DS!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-SAAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000055200",
+  "uid": "50010000008381",
+  "name": "3D Classics Kid Icarus™",
+  "formal_name": "3D Classics Kid Icarus™",
+  "description": "Enjoy classic games in a new\ndimension with the 3D Classics range,\nremastered with immersive 3D visuals!<br>\n<br>\nKid Icarus™ is an action-platformer\nfrom the creators of Metroid™;\nstarring angelic warrior Pit, who must\nrescue the goddess Palutena and save\nAngel Land from the evil Medusa.<br>\n<br>\nArmed with his trusty bow and arrow,\nPit must battle from the underworld to\nthe sky, to seek out the Three Sacred\nTreasures. Only then will Pit have the\npower to take on Medusa.<br>\n<br>\nLook out for Pit's return in\nKid Icarus™: Uprising for\nNintendo 3DS!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-SAAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

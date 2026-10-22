@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B47434F",
-    "uid": "50010000003521",
-    "name": "Game & Watch™\nChef",
-    "formal_name": "Game & Watch™\nChef",
-    "description": "Experience a piece of Nintendo history with the Game & Watch series for Nintendo DSiWare. Each title is a perfect recreation of a classic LCD game from the early 1980s, including normal Game A and alternate Game B modes.<br>\n<br>\nAnd no Game & Watch title would be complete without the ‘Watch’ function - each title includes a fully functional clock.<br>\n<br>\nIn Chef, you are a cook, frantically flipping food with your frying pan for as long as you can. Watch out for the pesky cat, trying to put you off by grabbing your food with a fork. Game A features three tasty morsels to juggle, while Game B ups the challenge with four!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KGCO",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B47434F",
+  "uid": "50010000003521",
+  "name": "Game & Watch™\nChef",
+  "formal_name": "Game & Watch™\nChef",
+  "description": "Experience a piece of Nintendo history with the Game & Watch series for Nintendo DSiWare. Each title is a perfect recreation of a classic LCD game from the early 1980s, including normal Game A and alternate Game B modes.<br>\n<br>\nAnd no Game & Watch title would be complete without the ‘Watch’ function - each title includes a fully functional clock.<br>\n<br>\nIn Chef, you are a cook, frantically flipping food with your frying pan for as long as you can. Watch out for the pesky cat, trying to put you off by grabbing your food with a fork. Game A features three tasty morsels to juggle, while Game B ups the challenge with four!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KGCO",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

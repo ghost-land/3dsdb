@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000EF500",
-    "uid": "50010000022056",
-    "name": "Mega Man III™",
-    "formal_name": "Mega Man III™",
-    "description": "The sinister Dr. Wily has taken control of an off-shore oil rig to drill to the center of the Earth. By reaching the molten core, he will be able to collect energy in order to power his latest invention. Sounds like a recipe for disaster, and Mega Man must put a stop to this! Join Rush and Flip-Top as you progress through Dr. Wily's fiendish fortress, battling various Robot Masters and collecting their weapons before facing the mad scientist and his ultimate creation!",
-    "release_date_on_eshop": "2014-05-08",
-    "product_code": "CTR-N-RCEE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000EF500",
+  "uid": "50010000022056",
+  "name": "Mega Man III™",
+  "formal_name": "Mega Man III™",
+  "description": "The sinister Dr. Wily has taken control of an off-shore oil rig to drill to the center of the Earth. By reaching the molten core, he will be able to collect energy in order to power his latest invention. Sounds like a recipe for disaster, and Mega Man must put a stop to this! Join Rush and Flip-Top as you progress through Dr. Wily's fiendish fortress, battling various Robot Masters and collecting their weapons before facing the mad scientist and his ultimate creation!",
+  "release_date_on_eshop": "2014-05-08",
+  "product_code": "CTR-N-RCEE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

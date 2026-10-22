@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000053F00",
-    "uid": "50010000007685",
-    "name": "Super Mario 3D Land™",
-    "formal_name": "Super Mario 3D Land™",
-    "description": "SUPER MARIO 3D LAND reinvents\n<br>everything fans love about Mario\n<br>gaming with the first platforming\n<br>environment in true 3D, presenting a\n<br>3D Mario game that plays like a 2D\n<br>Mario game! Players will experience\n<br>an exhilarating new sense of depth,\n<br>distance and speed while running,\n<br>jumping and stomping on enemies\n<br>throughout the levels.\n<br>\n<br>Among other outfits for Mario, the\n<br>fan-favourite Tanooki Suit makes a\n<br>comeback. Use the Tanooki Suit’s tail\n<br>to attack enemies or float gently\n<br>down from great heights.\n<br>\n<br>Accessible and challenging in equal\n<br>measure, SUPER MARIO 3D LAND\n<br>offers new and familiar abilities that\n<br>add unique gameplay strategies to the\n<br>adventure! Make your way to the\n<br>end-of-level flagpole using Mario's\n<br>signature moves- or try to apply his\n<br>new skills in challenging ways if you\n<br>dare to discover every hidden shortcut\n<br>and secret!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-AREP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000053F00",
+  "uid": "50010000007685",
+  "name": "Super Mario 3D Land™",
+  "formal_name": "Super Mario 3D Land™",
+  "description": "SUPER MARIO 3D LAND reinvents\n<br>everything fans love about Mario\n<br>gaming with the first platforming\n<br>environment in true 3D, presenting a\n<br>3D Mario game that plays like a 2D\n<br>Mario game! Players will experience\n<br>an exhilarating new sense of depth,\n<br>distance and speed while running,\n<br>jumping and stomping on enemies\n<br>throughout the levels.\n<br>\n<br>Among other outfits for Mario, the\n<br>fan-favourite Tanooki Suit makes a\n<br>comeback. Use the Tanooki Suit’s tail\n<br>to attack enemies or float gently\n<br>down from great heights.\n<br>\n<br>Accessible and challenging in equal\n<br>measure, SUPER MARIO 3D LAND\n<br>offers new and familiar abilities that\n<br>add unique gameplay strategies to the\n<br>adventure! Make your way to the\n<br>end-of-level flagpole using Mario's\n<br>signature moves- or try to apply his\n<br>new skills in challenging ways if you\n<br>dare to discover every hidden shortcut\n<br>and secret!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-AREP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

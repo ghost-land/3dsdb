@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B414345",
-    "uid": "50010000001201",
-    "name": "Advanced Circuits",
-    "formal_name": "Advanced Circuits",
-    "description": "Whether with a train, a car, or a tank, are you ready for a new challenge? This brain-boggling puzzle game will put your powers of deduction to the test. Complete the circuits by connecting squares on the game board with pieces of track. Some pieces of track are already shown on the board at the beginning of the game to give you a head start. There is only one solution to each puzzle. The rules are simple but the challenges are tough!\n\n• Challenge mode features 60 predefined game boards of increasing difficulty.\n• Free Play mode lets you select the game board size and practice on any number of randomly-generated puzzles.\n• 72 awards to be won.\n• Also features a tutorial, hints and tips and even the solution if you feel like giving up!",
-    "release_date_on_eshop": "2010-10-18",
-    "product_code": "TWL-N-KACE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414345",
+  "uid": "50010000001201",
+  "name": "Advanced Circuits",
+  "formal_name": "Advanced Circuits",
+  "description": "Whether with a train, a car, or a tank, are you ready for a new challenge? This brain-boggling puzzle game will put your powers of deduction to the test. Complete the circuits by connecting squares on the game board with pieces of track. Some pieces of track are already shown on the board at the beginning of the game to give you a head start. There is only one solution to each puzzle. The rules are simple but the challenges are tough!\n\n• Challenge mode features 60 predefined game boards of increasing difficulty.\n• Free Play mode lets you select the game board size and practice on any number of randomly-generated puzzles.\n• 72 awards to be won.\n• Also features a tutorial, hints and tips and even the solution if you feel like giving up!",
+  "release_date_on_eshop": "2010-10-18",
+  "product_code": "TWL-N-KACE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

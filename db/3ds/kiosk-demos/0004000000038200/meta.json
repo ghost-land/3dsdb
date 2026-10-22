@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000038200",
-    "uid": "50010000000261",
-    "name": "Pilotwings Resort™",
-    "formal_name": "Pilotwings Resort™",
-    "description": "Step into the pilot's seat with glasses-free 3D! Fly a plane, rocket belt, or hang glider through over 40 missions, or for free flying fun. Use your Mii™ character and explore Wuhu Island from the Wii Sports Resort™ game. Take amazing in-game 3D photos, and save them to your Nintendo 3DS photo album!",
-    "release_date_on_eshop": "2012-12-20",
-    "product_code": "CTR-N-AWAE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000038200",
+  "uid": "50010000000261",
+  "name": "Pilotwings Resort™",
+  "formal_name": "Pilotwings Resort™",
+  "description": "Step into the pilot's seat with glasses-free 3D! Fly a plane, rocket belt, or hang glider through over 40 missions, or for free flying fun. Use your Mii™ character and explore Wuhu Island from the Wii Sports Resort™ game. Take amazing in-game 3D photos, and save them to your Nintendo 3DS photo album!",
+  "release_date_on_eshop": "2012-12-20",
+  "product_code": "CTR-N-AWAE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

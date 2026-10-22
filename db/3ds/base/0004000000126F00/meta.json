@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000126F00",
-    "uid": "50010000029496",
-    "name": "Soccer Up Online",
-    "formal_name": "Soccer Up Online",
-    "description": "Soccer Up Online is a funny soccer game that allows you total control of any action of your team players: Control the ball, dribble and shoot with effect to confuse the goalkeeper and score a goal!\n<br><br>\nNow you can play with your friends and other players from around the world thanks to the new online multi-player mode! \nBecome a soccer master and make your rival defenders tremble!\n<br><br>\nEach country has its national team. You can create your own team with the in-game editor: give it the name you like, choose its equipment and the most important, play with your Mii™ saved on the Mii Maker™ of your Nintendo 3DS™.\n<br><br>\nFeatures:\n<br><br>\nNew online mode.\nSend Soccer Up Online completely by using the \"Download Play\" option. \nCreate your own teams using your Mii™.\n2 Players with a single copy of Soccer Up Online!\nTotal control of height, direction and effect in each pass and shoot you make. \nPlay the World Cup! ",
-    "release_date_on_eshop": "2015-01-15",
-    "product_code": "CTR-N-JULE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000126F00",
+  "uid": "50010000029496",
+  "name": "Soccer Up Online",
+  "formal_name": "Soccer Up Online",
+  "description": "Soccer Up Online is a funny soccer game that allows you total control of any action of your team players: Control the ball, dribble and shoot with effect to confuse the goalkeeper and score a goal!\n<br><br>\nNow you can play with your friends and other players from around the world thanks to the new online multi-player mode! \nBecome a soccer master and make your rival defenders tremble!\n<br><br>\nEach country has its national team. You can create your own team with the in-game editor: give it the name you like, choose its equipment and the most important, play with your Mii™ saved on the Mii Maker™ of your Nintendo 3DS™.\n<br><br>\nFeatures:\n<br><br>\nNew online mode.\nSend Soccer Up Online completely by using the \"Download Play\" option. \nCreate your own teams using your Mii™.\n2 Players with a single copy of Soccer Up Online!\nTotal control of height, direction and effect in each pass and shoot you make. \nPlay the World Cup! ",
+  "release_date_on_eshop": "2015-01-15",
+  "product_code": "CTR-N-JULE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

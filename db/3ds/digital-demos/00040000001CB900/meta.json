@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001CB900",
-    "uid": "50010000043175",
-    "name": "Monster Hunter Stories™ Demo",
-    "formal_name": "Monster Hunter Stories™ Demo",
-    "description": "Play the demo and get a free item!\n<br>\n<br>If you have save data for the Monster Hunter Stories™ demo on your Nintendo 3DS family system, you can get a free Rider’s Outfit for Navirou when you purchase the full game!\n<br>\n<br>Take flight on a whirlwind adventure through a vast new world, filled with amazing places to explore and new friends to meet!",
-    "release_date_on_eshop": "2017-08-10",
-    "product_code": "CTR-N-KZZP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "Adventure",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CB900",
+  "uid": "50010000043175",
+  "name": "Monster Hunter Stories™ Demo",
+  "formal_name": "Monster Hunter Stories™ Demo",
+  "description": "Play the demo and get a free item!\n<br>\n<br>If you have save data for the Monster Hunter Stories™ demo on your Nintendo 3DS family system, you can get a free Rider’s Outfit for Navirou when you purchase the full game!\n<br>\n<br>Take flight on a whirlwind adventure through a vast new world, filled with amazing places to explore and new friends to meet!",
+  "release_date_on_eshop": "2017-08-10",
+  "product_code": "CTR-N-KZZP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

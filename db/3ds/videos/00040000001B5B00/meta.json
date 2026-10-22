@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001B5B00",
-    "uid": "50010000042124",
-    "name": "The Legend of Zelda\nBallad of The Goddess",
-    "formal_name": "The Legend of Zelda\nBallad of The Goddess",
-    "description": "See The Legend of Zelda: Skyward Sword Main Theme performed by a full orchestra in 3D*. This and other songs were included on a CD packed with the Legend of Zelda™: Skyward Sword on the Wii™ console, released in Dec. 2011.\n<br>\n<br>*This video was also available via the Nintendo Video application in 2011.",
-    "release_date_on_eshop": "2016-12-01",
-    "product_code": "CTR-N-SP5E",
-    "platform_name": "Downloadable Video",
-    "region": "North America",
-    "genres": [
-        "Video"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B5B00",
+  "uid": "50010000042124",
+  "name": "The Legend of Zelda\nBallad of The Goddess",
+  "formal_name": "The Legend of Zelda\nBallad of The Goddess",
+  "description": "See The Legend of Zelda: Skyward Sword Main Theme performed by a full orchestra in 3D*. This and other songs were included on a CD packed with the Legend of Zelda™: Skyward Sword on the Wii™ console, released in Dec. 2011.\n<br>\n<br>*This video was also available via the Nintendo Video application in 2011.",
+  "release_date_on_eshop": "2016-12-01",
+  "product_code": "CTR-N-SP5E",
+  "platform_name": "Downloadable Video",
+  "region": "North America",
+  "genres": [
+    "Video"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

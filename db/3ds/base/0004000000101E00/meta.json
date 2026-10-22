@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000101E00",
-    "uid": "50010000036015",
-    "name": "Best of Arcade Games -\nBrick Breaker",
-    "formal_name": "Best of Arcade Games -\nBrick Breaker",
-    "description": "Rediscover all the pleasure of breakout in this timeless classic!\nDiscover lots of increasingly complex obstacles to get by in the 50 levels of Adventure mode: moving bricks, one-ways, indestructible bricks...\nExtra balls, inverted screen, strafing... unlock ten bonuses and penalties, each more surprising than the last.\nOnly a few bricks left to break? Take direct control of the ball and aim it wherever you want to earn the victory!",
-    "release_date_on_eshop": "2015-08-06",
-    "product_code": "CTR-N-JGUE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000101E00",
+  "uid": "50010000036015",
+  "name": "Best of Arcade Games -\nBrick Breaker",
+  "formal_name": "Best of Arcade Games -\nBrick Breaker",
+  "description": "Rediscover all the pleasure of breakout in this timeless classic!\nDiscover lots of increasingly complex obstacles to get by in the 50 levels of Adventure mode: moving bricks, one-ways, indestructible bricks...\nExtra balls, inverted screen, strafing... unlock ten bonuses and penalties, each more surprising than the last.\nOnly a few bricks left to break? Take direct control of the ball and aim it wherever you want to earn the victory!",
+  "release_date_on_eshop": "2015-08-06",
+  "product_code": "CTR-N-JGUE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001A8200",
-    "uid": "50010000042043",
-    "name": "Punch Club",
-    "formal_name": "Punch Club",
-    "description": "Train hard, find love, deliver pizza, punch crocodiles, fight and rank up in leagues.\n<br>\n<br>Welcome to Punch Club, the Boxing Management Tycoon where you choose your own path, and find out who murdered your father.",
-    "release_date_on_eshop": "2017-01-19",
-    "product_code": "CTR-N-KCDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001A8200",
+  "uid": "50010000042043",
+  "name": "Punch Club",
+  "formal_name": "Punch Club",
+  "description": "Train hard, find love, deliver pizza, punch crocodiles, fight and rank up in leagues.\n<br>\n<br>Welcome to Punch Club, the Boxing Management Tycoon where you choose your own path, and find out who murdered your father.",
+  "release_date_on_eshop": "2017-01-19",
+  "product_code": "CTR-N-KCDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

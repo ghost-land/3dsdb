@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00136500",
-    "uid": "50010000042052",
-    "name": "更新データ Ver. 1.1\nEYERESH for ニンテンドー3DS",
-    "formal_name": "更新データ Ver. 1.1\nEYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング",
-    "description": "ニンテンドー3DSソフト『EYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング』の更新データです。\nメニュー操作がより快適になり、一部の文章の誤字が修正されます。",
-    "release_date_on_eshop": "2016-11-16",
-    "product_code": "CTR-U-KERJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.3.0",
-    "disclaimer": "ニンテンドー3DSソフト『 EYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E00136500",
+  "uid": "50010000042052",
+  "name": "更新データ Ver. 1.1\nEYERESH for ニンテンドー3DS",
+  "formal_name": "更新データ Ver. 1.1\nEYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング",
+  "description": "ニンテンドー3DSソフト『EYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング』の更新データです。\nメニュー操作がより快適になり、一部の文章の誤字が修正されます。",
+  "release_date_on_eshop": "2016-11-16",
+  "product_code": "CTR-U-KERJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.3.0",
+  "disclaimer": "ニンテンドー3DSソフト『 EYERESH for ニンテンドー3DS 眼のストレッチ&トレーニング』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

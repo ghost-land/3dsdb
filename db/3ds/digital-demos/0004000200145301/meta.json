@@ -1,25 +1,25 @@
 {
-    "tid": "0004000200145301",
-    "uid": "50010000024496",
-    "name": "魔神少女 -Chronicle 2D ACT-",
-    "formal_name": "魔神少女 -Chronicle 2D ACT-",
-    "description": "『魔神少女』は、様々な魔法を使って、敵を倒して進んでいく2Dアクションゲームです。\n<br>\n<br>ステージによって、いろんな敵や仕掛けがプレイヤーの目の前に登場します。\n<br>\n<br>敵やボスを倒すことで、キャラクターがどんどん成長していきます。\n<br>\n<br>好きなステージを選び、奥にいるボスキャラを倒していきましょう。",
-    "release_date_on_eshop": "2014-08-06",
-    "product_code": "CTR-N-KC2J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200145301",
+  "uid": "50010000024496",
+  "name": "魔神少女 -Chronicle 2D ACT-",
+  "formal_name": "魔神少女 -Chronicle 2D ACT-",
+  "description": "『魔神少女』は、様々な魔法を使って、敵を倒して進んでいく2Dアクションゲームです。\n<br>\n<br>ステージによって、いろんな敵や仕掛けがプレイヤーの目の前に登場します。\n<br>\n<br>敵やボスを倒すことで、キャラクターがどんどん成長していきます。\n<br>\n<br>好きなステージを選び、奥にいるボスキャラを倒していきましょう。",
+  "release_date_on_eshop": "2014-08-06",
+  "product_code": "CTR-N-KC2J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

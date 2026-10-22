@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000FF500",
-    "uid": "50010000030436",
-    "name": "Best of Arcade Games -\nBubble Buster",
-    "formal_name": "Best of Arcade Games -\nBubble Buster",
-    "description": "Rediscover a timeless puzzle game\nwith Bubble Buster!\n<br/>\nSolve 50 puzzles in Adventure mode\nand play any level you want in Free\nmode.\n<br/>\nPrecise aim, wildcard bubbles...\nunlock lots of bonuses using the\npoints you accumulate while playing.\n<br/>\nTake on obstacles never seen before\nin games of the genre, such as magic\nbubbles that change colour!",
-    "release_date_on_eshop": "2015-02-19",
-    "product_code": "CTR-N-JGVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FF500",
+  "uid": "50010000030436",
+  "name": "Best of Arcade Games -\nBubble Buster",
+  "formal_name": "Best of Arcade Games -\nBubble Buster",
+  "description": "Rediscover a timeless puzzle game\nwith Bubble Buster!\n<br/>\nSolve 50 puzzles in Adventure mode\nand play any level you want in Free\nmode.\n<br/>\nPrecise aim, wildcard bubbles...\nunlock lots of bonuses using the\npoints you accumulate while playing.\n<br/>\nTake on obstacles never seen before\nin games of the genre, such as magic\nbubbles that change colour!",
+  "release_date_on_eshop": "2015-02-19",
+  "product_code": "CTR-N-JGVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

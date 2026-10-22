@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000C2000",
-    "uid": "50010000012834",
-    "name": "Reel Fishing® 3D Paradise Mini",
-    "formal_name": "Reel Fishing® 3D Paradise Mini",
-    "description": "Reel Fishing® 3D Paradise Mini offers a fun and challenging experience for novice fishers and master anglers alike. Put your skills to the test as you must complete over 20 missions in a variety of different fishing locals. Each fish looks and moves so much like the real thing, it's the closest you can get to real-life fishing without putting on your waders! Choose from a variety of lures to attract and hook the game's numerous wily fish. Do you have what it takes to become the next great Fishing Master!",
-    "release_date_on_eshop": "2013-01-10",
-    "product_code": "CTR-N-JRFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C2000",
+  "uid": "50010000012834",
+  "name": "Reel Fishing® 3D Paradise Mini",
+  "formal_name": "Reel Fishing® 3D Paradise Mini",
+  "description": "Reel Fishing® 3D Paradise Mini offers a fun and challenging experience for novice fishers and master anglers alike. Put your skills to the test as you must complete over 20 missions in a variety of different fishing locals. Each fish looks and moves so much like the real thing, it's the closest you can get to real-life fishing without putting on your waders! Choose from a variety of lures to attract and hook the game's numerous wily fish. Do you have what it takes to become the next great Fishing Master!",
+  "release_date_on_eshop": "2013-01-10",
+  "product_code": "CTR-N-JRFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

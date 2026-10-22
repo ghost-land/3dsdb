@@ -1,30 +1,30 @@
 {
-    "tid": "000400000008B200",
-    "uid": "50010000013194",
-    "name": "Coaster Creator 3D",
-    "formal_name": "Coaster Creator 3D",
-    "description": "Build your own roller coasters using fast and intuitive touch screen drawing and editing controls. Then jump right into a coaster cart seat to experience the ride in thrilling 3D. Use the Track Wizard to add Loops, Corkscrews, and Twists. Take Mii characters for a ride on your coaster. Share your coasters with friends.\n<br><br>\nIn career mode you will start as a coaster design apprentice and work your way up to a master designer. Along the way you will unlock new theme park locations, cart models, decals, and more. Use these items to build custom Theme Parks for your coaster to roll through.\n<br><br>\nSelect a steel, wooden, or inverted track type, and then draw the basic track design on the touch screen. Coaster Creator 3D will turn this design into a completed roller coaster in full 3D in just seconds.\n<br><br>\nCoaster Creator 3D allows players to quickly and easily create thrilling 3D rollercoasters. The possibilities are unlimited.",
-    "release_date_on_eshop": "2013-02-28",
-    "product_code": "CTR-N-JC2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Mii"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000008B200",
+  "uid": "50010000013194",
+  "name": "Coaster Creator 3D",
+  "formal_name": "Coaster Creator 3D",
+  "description": "Build your own roller coasters using fast and intuitive touch screen drawing and editing controls. Then jump right into a coaster cart seat to experience the ride in thrilling 3D. Use the Track Wizard to add Loops, Corkscrews, and Twists. Take Mii characters for a ride on your coaster. Share your coasters with friends.\n<br><br>\nIn career mode you will start as a coaster design apprentice and work your way up to a master designer. Along the way you will unlock new theme park locations, cart models, decals, and more. Use these items to build custom Theme Parks for your coaster to roll through.\n<br><br>\nSelect a steel, wooden, or inverted track type, and then draw the basic track design on the touch screen. Coaster Creator 3D will turn this design into a completed roller coaster in full 3D in just seconds.\n<br><br>\nCoaster Creator 3D allows players to quickly and easily create thrilling 3D rollercoasters. The possibilities are unlimited.",
+  "release_date_on_eshop": "2013-02-28",
+  "product_code": "CTR-N-JC2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Mii"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

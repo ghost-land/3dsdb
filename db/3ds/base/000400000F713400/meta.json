@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F713400",
-    "uid": "50010000047995",
-    "name": "Without Escape",
-    "formal_name": "Without Escape",
-    "description": "Without Escape harkens back to first-person graphic adventures of the early ‘90s, which relied on pre-rendered backgrounds and full-motion video to tell interactive stories. Explore the confines of your own home as you flip between a mundane existence and a horrifying otherworld. Can you escape the nightmare and find the answers you’re looking for?\n<br>\n<br>Features:\n<br>- Reconnect with the past through classic point-and-click exploration.\n<br>- Overcome enigmatic puzzles that will test your wits.\n<br>- Immerse yourself in your home’s oppressive atmosphere with an atmospheric soundtrack.\n<br>- Discover multiple endings, secrets, and Easter eggs.",
-    "release_date_on_eshop": "2019-07-18",
-    "product_code": "KTR-N-CEPE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F713400",
+  "uid": "50010000047995",
+  "name": "Without Escape",
+  "formal_name": "Without Escape",
+  "description": "Without Escape harkens back to first-person graphic adventures of the early ‘90s, which relied on pre-rendered backgrounds and full-motion video to tell interactive stories. Explore the confines of your own home as you flip between a mundane existence and a horrifying otherworld. Can you escape the nightmare and find the answers you’re looking for?\n<br>\n<br>Features:\n<br>- Reconnect with the past through classic point-and-click exploration.\n<br>- Overcome enigmatic puzzles that will test your wits.\n<br>- Immerse yourself in your home’s oppressive atmosphere with an atmospheric soundtrack.\n<br>- Discover multiple endings, secrets, and Easter eggs.",
+  "release_date_on_eshop": "2019-07-18",
+  "product_code": "KTR-N-CEPE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

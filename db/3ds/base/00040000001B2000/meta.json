@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001B2000",
-    "uid": "50010000042317",
-    "name": "Sudoku Party",
-    "formal_name": "Sudoku Party",
-    "description": "You've never played sudoku like this before. Two players, one puzzle!\n<br>\n<br>There are 1,000 exclusive puzzles to solve on your own, or co-operatively with a friend.\n<br>\n<br>Or if you feel like getting competitive, Party Mode lets you battle it out against an opponent to see who can think the quickest with unique fast-action gameplay.\n<br>\n<br>Solve a square and your opponent has only seconds to respond or the point is yours. When your opponent makes a move, you have to match it quickly or lose the square for good.\n<br>\n<br>Can you keep up? Or will you choose a different path, hoping to lock in more squares simply by thinking faster?\n<br>\n<br>Use Download Play to play with nearby friends using only one copy of the game, or go online to battle the next available opponent.\n<br>\n<br>Sudoku Party features 1,000 exclusive puzzles designed by Conceptis, the world's leading creator of logic puzzles. They're all professionally crafted, uniquely solvable, beautifully symmetrical puzzles, graded in four difficulty levels.",
-    "release_date_on_eshop": "2017-03-16",
-    "product_code": "CTR-N-KYBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B2000",
+  "uid": "50010000042317",
+  "name": "Sudoku Party",
+  "formal_name": "Sudoku Party",
+  "description": "You've never played sudoku like this before. Two players, one puzzle!\n<br>\n<br>There are 1,000 exclusive puzzles to solve on your own, or co-operatively with a friend.\n<br>\n<br>Or if you feel like getting competitive, Party Mode lets you battle it out against an opponent to see who can think the quickest with unique fast-action gameplay.\n<br>\n<br>Solve a square and your opponent has only seconds to respond or the point is yours. When your opponent makes a move, you have to match it quickly or lose the square for good.\n<br>\n<br>Can you keep up? Or will you choose a different path, hoping to lock in more squares simply by thinking faster?\n<br>\n<br>Use Download Play to play with nearby friends using only one copy of the game, or go online to battle the next available opponent.\n<br>\n<br>Sudoku Party features 1,000 exclusive puzzles designed by Conceptis, the world's leading creator of logic puzzles. They're all professionally crafted, uniquely solvable, beautifully symmetrical puzzles, graded in four difficulty levels.",
+  "release_date_on_eshop": "2017-03-16",
+  "product_code": "CTR-N-KYBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

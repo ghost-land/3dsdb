@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000036300",
-    "uid": "50010000006810",
-    "name": "PAC-MAN® & Galaga®\nDimensions",
-    "formal_name": "PAC-MAN® & Galaga® Dimensions",
-    "description": "PAC-MAN and Galaga bring their iconic gameplay to spectacular 3D in an exciting six game package for the Nintendo 3DS. Enjoy classic hits PAC-MAN, PAC-MAN Championship Edition, Galaga, and Galaga Legions, or play two brand new games developed exclusively for the Nintendo 3DS. In PAC-MAN Tilt, move PAC-MAN through stages filled with obstacles, platforms and ghosts with tilt controls. Flippers, platforms and power pellets help PAC-MAN jump, flip, swing, and eat his way to the finish line. Rid space of the incoming Galaga army by shooting down enemies in an exciting 3D skirmish in Galaga 3D Impact! Your Nintendo 3DS system becomes your ship’s gun turret as you attack and defend the ship through waves of the Galaga armada. Nostalgia is taken to a new dimension with a fresh take on Namco’s most popular arcade franchises!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-APGE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Comic Mischief",
-        "Fantasy Violence"
-    ]
+  "tid": "0004000000036300",
+  "uid": "50010000006810",
+  "name": "PAC-MAN® & Galaga®\nDimensions",
+  "formal_name": "PAC-MAN® & Galaga® Dimensions",
+  "description": "PAC-MAN and Galaga bring their iconic gameplay to spectacular 3D in an exciting six game package for the Nintendo 3DS. Enjoy classic hits PAC-MAN, PAC-MAN Championship Edition, Galaga, and Galaga Legions, or play two brand new games developed exclusively for the Nintendo 3DS. In PAC-MAN Tilt, move PAC-MAN through stages filled with obstacles, platforms and ghosts with tilt controls. Flippers, platforms and power pellets help PAC-MAN jump, flip, swing, and eat his way to the finish line. Rid space of the incoming Galaga army by shooting down enemies in an exciting 3D skirmish in Galaga 3D Impact! Your Nintendo 3DS system becomes your ship’s gun turret as you attack and defend the ship through waves of the Galaga armada. Nostalgia is taken to a new dimension with a fresh take on Namco’s most popular arcade franchises!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-APGE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Comic Mischief",
+    "Fantasy Violence"
+  ]
 }

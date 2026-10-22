@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000196E00",
-    "uid": "50010000041215",
-    "name": "Gotta Protectors",
-    "formal_name": "Gotta Protectors",
-    "description": "The bad guys are after Princess Lola. You gotta protect her! Choose from a diverse and memorable cast of six classes, each with unique weapons and customizable, upgradeable skills. Strategically place barricades and turrets, hire hirelings, move Lola (the source of your power) around the map, and get ready to hack, slash, and magically mash wave after wave of enemies. LEVEL UP and DESTROY THEM ALL! Fight through 100 story maps, or create your own using the Map Editor and share them with friends via QR Code patterns.\n<br><br>\nSupports Local Play and Download Play with up to four players. With just one copy of the software, you can gotta-protect with up to three friends—as long as they all have their own Nintendo 3DS family system!\n<br><br>\nFeatures a heart-pumping soundtrack by a cadre of legendary 80s game composers including Yuzo Koshiro (ActRaiser), Hiroshi Kawaguchi (Space Harrier), Shinji Hosoe (Dragon Spirit), Hisayoshi Ogura (Ninja Warriors), and Motoaki Furukawa (Vulcan Venture).",
-    "release_date_on_eshop": "2016-07-28",
-    "product_code": "CTR-N-KRPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Other",
-        "Strategy"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000196E00",
+  "uid": "50010000041215",
+  "name": "Gotta Protectors",
+  "formal_name": "Gotta Protectors",
+  "description": "The bad guys are after Princess Lola. You gotta protect her! Choose from a diverse and memorable cast of six classes, each with unique weapons and customizable, upgradeable skills. Strategically place barricades and turrets, hire hirelings, move Lola (the source of your power) around the map, and get ready to hack, slash, and magically mash wave after wave of enemies. LEVEL UP and DESTROY THEM ALL! Fight through 100 story maps, or create your own using the Map Editor and share them with friends via QR Code patterns.\n<br><br>\nSupports Local Play and Download Play with up to four players. With just one copy of the software, you can gotta-protect with up to three friends—as long as they all have their own Nintendo 3DS family system!\n<br><br>\nFeatures a heart-pumping soundtrack by a cadre of legendary 80s game composers including Yuzo Koshiro (ActRaiser), Hiroshi Kawaguchi (Space Harrier), Shinji Hosoe (Dragon Spirit), Hisayoshi Ogura (Ninja Warriors), and Motoaki Furukawa (Vulcan Venture).",
+  "release_date_on_eshop": "2016-07-28",
+  "product_code": "CTR-N-KRPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Other",
+    "Strategy"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

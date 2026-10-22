@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000B6E00",
-    "uid": "50010000012249",
-    "name": "Crashmo™",
-    "formal_name": "Crashmo™",
-    "description": "Welcome to Crashmo! Embrace the laws of gravity, and challenge yourself with a whole new kind of action-puzzle play in this exciting sequel to the critically acclaimed Pushmo™ game. New gravity mechanics and gadgets like floating blocks, doors, and move switches await. Push, pull, and slide each puzzle's colorful blocks in order to climb to the top—just be careful where those blocks go. Unsupported blocks will come crashing down! The Crashmo game contains plenty of puzzles to test your skills, and enhanced puzzle-creation and puzzle-sharing features mean that even when all the puzzles are cleared, the fun never has to stop!",
-    "release_date_on_eshop": "2012-11-22",
-    "product_code": "CTR-N-JAUE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000B6E00",
+  "uid": "50010000012249",
+  "name": "Crashmo™",
+  "formal_name": "Crashmo™",
+  "description": "Welcome to Crashmo! Embrace the laws of gravity, and challenge yourself with a whole new kind of action-puzzle play in this exciting sequel to the critically acclaimed Pushmo™ game. New gravity mechanics and gadgets like floating blocks, doors, and move switches await. Push, pull, and slide each puzzle's colorful blocks in order to climb to the top—just be careful where those blocks go. Unsupported blocks will come crashing down! The Crashmo game contains plenty of puzzles to test your skills, and enhanced puzzle-creation and puzzle-sharing features mean that even when all the puzzles are cleared, the fun never has to stop!",
+  "release_date_on_eshop": "2012-11-22",
+  "product_code": "CTR-N-JAUE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

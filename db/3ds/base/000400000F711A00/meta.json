@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F711A00",
-    "uid": "50010000049675",
-    "name": "CosmiBall 3D",
-    "formal_name": "CosmiBall 3D",
-    "description": "Cruise through space in this beginner-friendly A-to-B platformer. Take your time, enjoy the music, and hone your skills as you toy with the physics of the CosmiBall. Compete with your friends and family to see who can make the fastest route!",
-    "release_date_on_eshop": "2022-10-06",
-    "product_code": "KTR-N-CCME",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F711A00",
+  "uid": "50010000049675",
+  "name": "CosmiBall 3D",
+  "formal_name": "CosmiBall 3D",
+  "description": "Cruise through space in this beginner-friendly A-to-B platformer. Take your time, enjoy the music, and hone your skills as you toy with the physics of the CosmiBall. Compete with your friends and family to see who can make the fastest route!",
+  "release_date_on_eshop": "2022-10-06",
+  "product_code": "KTR-N-CCME",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F714A00",
-    "uid": "50010000049275",
-    "name": "Horseshoe Crab Rescue!",
-    "formal_name": "Horseshoe Crab Rescue!",
-    "description": "It's breeding time for the horseshoe crabs, which means they will come to the beach to lay and fertilize eggs. Horseshoe crabs have been around for hundreds of millions of years, but they have one weakness - if they get flipped on their back on the beach, they get stuck! Luckily, humans can help them out. In Horseshoe Crab Rescue!, you will help out these amazing creatures by flipping horseshoe crabs that have gotten stranded on their backs. Hurry around the beach and try to rescue as many horseshoe crabs as you can before time runs out!\n<br>\n<br>Horseshoe Crab Rescue! is a casual game with light educational elements. Play through 15 stages of increasing difficulty while trying to beat your top scores, and learn a few facts along the way. Be sure to check out the included manual (Home > Manual while the game is running) for more educational info on horseshoe crabs!",
-    "release_date_on_eshop": "2021-11-16",
-    "product_code": "KTR-N-CF4E",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F714A00",
+  "uid": "50010000049275",
+  "name": "Horseshoe Crab Rescue!",
+  "formal_name": "Horseshoe Crab Rescue!",
+  "description": "It's breeding time for the horseshoe crabs, which means they will come to the beach to lay and fertilize eggs. Horseshoe crabs have been around for hundreds of millions of years, but they have one weakness - if they get flipped on their back on the beach, they get stuck! Luckily, humans can help them out. In Horseshoe Crab Rescue!, you will help out these amazing creatures by flipping horseshoe crabs that have gotten stranded on their backs. Hurry around the beach and try to rescue as many horseshoe crabs as you can before time runs out!\n<br>\n<br>Horseshoe Crab Rescue! is a casual game with light educational elements. Play through 15 stages of increasing difficulty while trying to beat your top scores, and learn a few facts along the way. Be sure to check out the included manual (Home > Manual while the game is running) for more educational info on horseshoe crabs!",
+  "release_date_on_eshop": "2021-11-16",
+  "product_code": "KTR-N-CF4E",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

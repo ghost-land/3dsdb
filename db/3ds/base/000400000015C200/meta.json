@@ -1,28 +1,28 @@
 {
-    "tid": "000400000015C200",
-    "uid": "50010000030015",
-    "name": "Sumico",
-    "formal_name": "Sumico",
-    "description": "Ready for a new type of puzzle game? In Sumico you match numbers and operators to make sums that equal the target numbers. Sumico offers an 82-level Campaign and an Endless Mode. So, a lot of brain wrenching numbers and operators are waiting for you. Have fun!",
-    "release_date_on_eshop": "2015-01-29",
-    "product_code": "CTR-N-KSME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options.",
-    "descriptors": []
+  "tid": "000400000015C200",
+  "uid": "50010000030015",
+  "name": "Sumico",
+  "formal_name": "Sumico",
+  "description": "Ready for a new type of puzzle game? In Sumico you match numbers and operators to make sums that equal the target numbers. Sumico offers an 82-level Campaign and an Endless Mode. So, a lot of brain wrenching numbers and operators are waiting for you. Have fun!",
+  "release_date_on_eshop": "2015-01-29",
+  "product_code": "CTR-N-KSME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options.",
+  "descriptors": []
 }

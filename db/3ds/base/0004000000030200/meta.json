@@ -1,39 +1,39 @@
 {
-    "tid": "0004000000030200",
-    "uid": "50010000009122",
-    "name": "Kid Icarus™: Uprising",
-    "formal_name": "Kid Icarus™: Uprising",
-    "description": "One of the most beloved franchises in\nNintendo’s long history makes its\nglorious return in spectacular 3D! Pit\nof Kid Icarus fame is back in a new\ngame designed specifically for the\nNintendo 3DS system.\n<br/><br/>\nKid Icarus: Uprising is a fast-paced\nand action-packed blend of aerial and\nground-based shooting featuring a\nhuge single-player adventure as well\nas the option to play with friends\nlocally and online.\n<br/><br/>\nTo keep the experience comfortable\nand enjoyable for long gaming\nsessions, you can purchase the AR\nCards and the Nintendo 3DS™ Stand\npack separately, which were originally\nbundled with the retail version of Kid\nIcarus™: Uprising. This offer is\navailable in selected countries.",
-    "release_date_on_eshop": "2014-04-09",
-    "product_code": "CTR-P-AKDP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000030200",
+  "uid": "50010000009122",
+  "name": "Kid Icarus™: Uprising",
+  "formal_name": "Kid Icarus™: Uprising",
+  "description": "One of the most beloved franchises in\nNintendo’s long history makes its\nglorious return in spectacular 3D! Pit\nof Kid Icarus fame is back in a new\ngame designed specifically for the\nNintendo 3DS system.\n<br/><br/>\nKid Icarus: Uprising is a fast-paced\nand action-packed blend of aerial and\nground-based shooting featuring a\nhuge single-player adventure as well\nas the option to play with friends\nlocally and online.\n<br/><br/>\nTo keep the experience comfortable\nand enjoyable for long gaming\nsessions, you can purchase the AR\nCards and the Nintendo 3DS™ Stand\npack separately, which were originally\nbundled with the retail version of Kid\nIcarus™: Uprising. This offer is\navailable in selected countries.",
+  "release_date_on_eshop": "2014-04-09",
+  "product_code": "CTR-P-AKDP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

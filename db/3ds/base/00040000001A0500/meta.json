@@ -1,37 +1,37 @@
 {
-    "tid": "00040000001A0500",
-    "uid": "50010000041978",
-    "name": "Super Mario Maker™\nfor Nintendo 3DS",
-    "formal_name": "Super Mario Maker™\n<br>for Nintendo 3DS",
-    "description": "Super Mario Maker for Nintendo 3DS is all about playing courses anytime, anywhere.\n<br>\n<br>There's lots to play right out of the box, with 100 built-in courses designed by Nintendo. Those levels have extra challenges too, such as collecting every coin or defeating every enemy before reaching the goal. Completing these extra challenges earns you medals.",
-    "release_date_on_eshop": "2016-12-02",
-    "product_code": "CTR-P-AJHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v4.5.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A0500",
+  "uid": "50010000041978",
+  "name": "Super Mario Maker™\nfor Nintendo 3DS",
+  "formal_name": "Super Mario Maker™\n<br>for Nintendo 3DS",
+  "description": "Super Mario Maker for Nintendo 3DS is all about playing courses anytime, anywhere.\n<br>\n<br>There's lots to play right out of the box, with 100 built-in courses designed by Nintendo. Those levels have extra challenges too, such as collecting every coin or defeating every enemy before reaching the goal. Completing these extra challenges earns you medals.",
+  "release_date_on_eshop": "2016-12-02",
+  "product_code": "CTR-P-AJHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v4.5.0",
+  "disclaimer": null,
+  "descriptors": []
 }

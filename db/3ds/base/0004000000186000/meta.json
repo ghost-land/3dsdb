@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000186000",
-    "uid": "50010000039501",
-    "name": "Parascientific Escape Cruise\nin the Distant Seas",
-    "formal_name": "Parascientific Escape Cruise\nin the Distant Seas",
-    "description": "Hitomi Akeneno is a 16 year old high\nschool student with a little secret -\nshe has not one, but two psychic\npowers.\n<br/><br/>\nAfter receiving an invitation, she\nboards a luxury cruise ship with her\nfriend, Chisono Shio. As soon as she\nenters a suite room, a loud explosion\nsounds…and she finds herself stuck,\nunable to get out. Is this an accident?\nOr something far more sinister…?\n<br/><br/>\nThe only way to find out is to\nescape, with the help of her powers.",
-    "release_date_on_eshop": "2016-03-03",
-    "product_code": "CTR-N-JT6P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000186000",
+  "uid": "50010000039501",
+  "name": "Parascientific Escape Cruise\nin the Distant Seas",
+  "formal_name": "Parascientific Escape Cruise\nin the Distant Seas",
+  "description": "Hitomi Akeneno is a 16 year old high\nschool student with a little secret -\nshe has not one, but two psychic\npowers.\n<br/><br/>\nAfter receiving an invitation, she\nboards a luxury cruise ship with her\nfriend, Chisono Shio. As soon as she\nenters a suite room, a loud explosion\nsounds…and she finds herself stuck,\nunable to get out. Is this an accident?\nOr something far more sinister…?\n<br/><br/>\nThe only way to find out is to\nescape, with the help of her powers.",
+  "release_date_on_eshop": "2016-03-03",
+  "product_code": "CTR-N-JT6P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

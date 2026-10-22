@@ -1,34 +1,34 @@
 {
-    "tid": "000400000014A800",
-    "uid": "50010000031815",
-    "name": "初音ミク Project mirai でらっくす",
-    "formal_name": "初音ミク Project mirai でらっくす",
-    "description": "『初音ミク Project mirai でらっくす』は、電子の歌姫「初音ミク」主演の3Dリズムアクションゲームです。\n<br>本作は『初音ミク Project mirai 2』にさまざまな新要素を加え、「でらっくす」にパワーアップして新登場いたします。",
-    "release_date_on_eshop": "2015-05-28",
-    "product_code": "CTR-N-BRXJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "音楽",
-        "アクション",
-        "コミュニケーション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応",
-        "いつの間に通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-    "descriptors": []
+  "tid": "000400000014A800",
+  "uid": "50010000031815",
+  "name": "初音ミク Project mirai でらっくす",
+  "formal_name": "初音ミク Project mirai でらっくす",
+  "description": "『初音ミク Project mirai でらっくす』は、電子の歌姫「初音ミク」主演の3Dリズムアクションゲームです。\n<br>本作は『初音ミク Project mirai 2』にさまざまな新要素を加え、「でらっくす」にパワーアップして新登場いたします。",
+  "release_date_on_eshop": "2015-05-28",
+  "product_code": "CTR-N-BRXJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "音楽",
+    "アクション",
+    "コミュニケーション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "いつの間に通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B535745",
-    "uid": "50010000003805",
-    "name": "SteamWorld™ Tower Defense",
-    "formal_name": "SteamWorld™ Tower Defense",
-    "description": "Welcome to Cowbot County, home of the robotic master race of SteamWorld! As the sheriff, you must stop the human invaders in their mad hunt for gold. Build attack robots next to the roads they roam, and watch the invaders go down! Use the special skills of your robots to your advantage in this original tower defense variation, where strategy and execution are equally important. For rookies, there is an Easy mode – but all will find a unique challenge in the great Western reaches. See ya soon!",
-    "release_date_on_eshop": "2010-07-05",
-    "product_code": "TWL-N-KSWE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B535745",
+  "uid": "50010000003805",
+  "name": "SteamWorld™ Tower Defense",
+  "formal_name": "SteamWorld™ Tower Defense",
+  "description": "Welcome to Cowbot County, home of the robotic master race of SteamWorld! As the sheriff, you must stop the human invaders in their mad hunt for gold. Build attack robots next to the roads they roam, and watch the invaders go down! Use the special skills of your robots to your advantage in this original tower defense variation, where strategy and execution are equally important. For rookies, there is an Easy mode – but all will find a unique challenge in the great Western reaches. See ya soon!",
+  "release_date_on_eshop": "2010-07-05",
+  "product_code": "TWL-N-KSWE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

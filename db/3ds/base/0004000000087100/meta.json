@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000087100",
-    "uid": "50010000017833",
-    "name": "Jett Rocket II:\nThe Wrath of Taikai",
-    "formal_name": "Jett Rocket II:\nThe Wrath of Taikai",
-    "description": "Jett Rocket returns! Your favorite planetary inspector is back and in trouble. His archrival Kaiser Taikai has to settle an old score with him.\n<br><br>\nExplore the home planet of the Power Plant Posse and ignite your trusty old jet pack in this epic full-3D action-adventure! Run, Jump, Dash, Fly and Dive through beautiful 3D environments and fight the high-tech pirates on their own turf. Find secret passages, play minigames and unlock new game modes.\n<br><br>\nJett Rocket II runs in full stereoscopic 3D at a super-smooth 60 frames per second.",
-    "release_date_on_eshop": "2013-11-13",
-    "product_code": "CTR-N-JRSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000087100",
+  "uid": "50010000017833",
+  "name": "Jett Rocket II:\nThe Wrath of Taikai",
+  "formal_name": "Jett Rocket II:\nThe Wrath of Taikai",
+  "description": "Jett Rocket returns! Your favorite planetary inspector is back and in trouble. His archrival Kaiser Taikai has to settle an old score with him.\n<br><br>\nExplore the home planet of the Power Plant Posse and ignite your trusty old jet pack in this epic full-3D action-adventure! Run, Jump, Dash, Fly and Dive through beautiful 3D environments and fight the high-tech pirates on their own turf. Find secret passages, play minigames and unlock new game modes.\n<br><br>\nJett Rocket II runs in full stereoscopic 3D at a super-smooth 60 frames per second.",
+  "release_date_on_eshop": "2013-11-13",
+  "product_code": "CTR-N-JRSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

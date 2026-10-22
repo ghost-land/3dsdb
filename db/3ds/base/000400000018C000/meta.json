@@ -1,31 +1,31 @@
 {
-    "tid": "000400000018C000",
-    "uid": "50010000041175",
-    "name": "The Legend of Kusakari",
-    "formal_name": "The Legend of Kusakari",
-    "description": "Help the heroes and CUT that GRASS!\n<br>\n<br>You know what's the worst thing ever? Fighting slimes and dragons knee-deep in grass and weeds.\n<br>\n<br>Well if Kusakari has anything to do with it, it wont be that way for long. Get your scythe sharpened and jump into this quirky Japanese adventure puzzle game. Slice through over 50 levels of grass-filled action and help those heroes save the kingdom, in battle grounds fit to have a picnic on!\n<br>\n<br>Up to the challenge? Compete for the most grass cut in the endless grass cutting competition and record your best cut in the online leader boards!",
-    "release_date_on_eshop": "2016-08-25",
-    "product_code": "CTR-N-KSBP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018C000",
+  "uid": "50010000041175",
+  "name": "The Legend of Kusakari",
+  "formal_name": "The Legend of Kusakari",
+  "description": "Help the heroes and CUT that GRASS!\n<br>\n<br>You know what's the worst thing ever? Fighting slimes and dragons knee-deep in grass and weeds.\n<br>\n<br>Well if Kusakari has anything to do with it, it wont be that way for long. Get your scythe sharpened and jump into this quirky Japanese adventure puzzle game. Slice through over 50 levels of grass-filled action and help those heroes save the kingdom, in battle grounds fit to have a picnic on!\n<br>\n<br>Up to the challenge? Compete for the most grass cut in the endless grass cutting competition and record your best cut in the online leader boards!",
+  "release_date_on_eshop": "2016-08-25",
+  "product_code": "CTR-N-KSBP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

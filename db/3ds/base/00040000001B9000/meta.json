@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001B9000",
-    "uid": "50010000043339",
-    "name": "Mario & Luigi™: Superstar\nSaga + Bowser's Minions",
-    "formal_name": "Mario & Luigi™: Superstar\n<br>Saga + Bowser's Minions",
-    "description": "The game that launched the Mario & Luigi series returns looking better than ever before. In this renewed classic, Mario and Luigi journey to the Beanbean Kingdom with Bowser to restore Princess Peach’s voice.\n<br>\n<br>Control Mario and Luigi simultaneously, making use of their unique Bros. Moves to solve puzzles and emerge victorious in action-packed battles. Pay heed to the enemy’s patterns and time your reactions right to land satisfying counterblows.\n<br>\n<br>Included in this remake is the Minion Quest: The Search for Bowser mode, which tells the story of the game from the perspective of Bowser’s minions. Recruit characters to grow your own Minion army as you fight to locate your missing leader!<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-10-06",
-    "product_code": "CTR-P-BRMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B9000",
+  "uid": "50010000043339",
+  "name": "Mario & Luigi™: Superstar\nSaga + Bowser's Minions",
+  "formal_name": "Mario & Luigi™: Superstar\n<br>Saga + Bowser's Minions",
+  "description": "The game that launched the Mario & Luigi series returns looking better than ever before. In this renewed classic, Mario and Luigi journey to the Beanbean Kingdom with Bowser to restore Princess Peach’s voice.\n<br>\n<br>Control Mario and Luigi simultaneously, making use of their unique Bros. Moves to solve puzzles and emerge victorious in action-packed battles. Pay heed to the enemy’s patterns and time your reactions right to land satisfying counterblows.\n<br>\n<br>Included in this remake is the Minion Quest: The Search for Bowser mode, which tells the story of the game from the perspective of Bowser’s minions. Recruit characters to grow your own Minion army as you fight to locate your missing leader!<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-10-06",
+  "product_code": "CTR-P-BRMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,38 +1,38 @@
 {
-    "tid": "00040000001C2100",
-    "uid": "50010000044075",
-    "name": "Kirby™ Battle Royale",
-    "formal_name": "Kirby™ Battle Royale",
-    "description": "It’s every Kirby for himself in Kirby Battle Royale, a chaotic arena-based 3D fighting game. Compete in a series of hectic multiplayer scuffles for up to four players and master a variety of unique Copy Abilities in a bid to come out on top!\n<br>\n<br>Kirby’s been invited to enter Dedede’s Cake Royale tournament to win the cake of his dreams. Work your way up the ranks as you challenge increasingly difficult opponents in Story Mode or enjoy a variety of frantic contests for up to four players via Local Play, online or Download Play.\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-11-03",
-    "product_code": "CTR-P-AJ8P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C2100",
+  "uid": "50010000044075",
+  "name": "Kirby™ Battle Royale",
+  "formal_name": "Kirby™ Battle Royale",
+  "description": "It’s every Kirby for himself in Kirby Battle Royale, a chaotic arena-based 3D fighting game. Compete in a series of hectic multiplayer scuffles for up to four players and master a variety of unique Copy Abilities in a bid to come out on top!\n<br>\n<br>Kirby’s been invited to enter Dedede’s Cake Royale tournament to win the cake of his dreams. Work your way up the ranks as you challenge increasingly difficult opponents in Story Mode or enjoy a variety of frantic contests for up to four players via Local Play, online or Download Play.\n<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-11-03",
+  "product_code": "CTR-P-AJ8P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001A7100",
-    "uid": "50010000041552",
-    "name": "Pokémon Sun and Moon\nSpecial Demo Version",
-    "formal_name": "Pokémon Sun and Moon\n<br>Special Demo Version",
-    "description": "The Special Demo Version introduces players to the Alola region and features Ash-Greninja, the Pokémon that appears alongside the hero Ash in the animated TV series Pokémon the Series: XYZ. Players are able to transfer their Ash-Greninja from the Special Demo Version to their full version of Pokémon Sun or Pokémon Moon.",
-    "release_date_on_eshop": "2016-10-18",
-    "product_code": "CTR-N-BACA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A7100",
+  "uid": "50010000041552",
+  "name": "Pokémon Sun and Moon\nSpecial Demo Version",
+  "formal_name": "Pokémon Sun and Moon\n<br>Special Demo Version",
+  "description": "The Special Demo Version introduces players to the Alola region and features Ash-Greninja, the Pokémon that appears alongside the hero Ash in the animated TV series Pokémon the Series: XYZ. Players are able to transfer their Ash-Greninja from the Special Demo Version to their full version of Pokémon Sun or Pokémon Moon.",
+  "release_date_on_eshop": "2016-10-18",
+  "product_code": "CTR-N-BACA",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

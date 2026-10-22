@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000F8100",
-    "uid": "50010000017735",
-    "name": "Mario Party™ Island Tour",
-    "formal_name": "Mario Party™ Island Tour",
-    "description": "In this ultimate showdown you can take on the road blaze through the 7 new game boards, some of which take just minutes to play. Wrangle goombas and blast out of cannons as you tilt, tap, and draw through new minigames harnessing the unique functionality of Nintendo 3DS™.\n<br><br>\nCompete in new multiplayer modes including mind bending puzzles, minigame challenges, or enter a whole new reality with AR Card play for up to 4 players. Whether in single or multiplayer, this is a portable party that never ends.",
-    "release_date_on_eshop": "2013-11-22",
-    "product_code": "CTR-N-ATSE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Party"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F8100",
+  "uid": "50010000017735",
+  "name": "Mario Party™ Island Tour",
+  "formal_name": "Mario Party™ Island Tour",
+  "description": "In this ultimate showdown you can take on the road blaze through the 7 new game boards, some of which take just minutes to play. Wrangle goombas and blast out of cannons as you tilt, tap, and draw through new minigames harnessing the unique functionality of Nintendo 3DS™.\n<br><br>\nCompete in new multiplayer modes including mind bending puzzles, minigame challenges, or enter a whole new reality with AR Card play for up to 4 players. Whether in single or multiplayer, this is a portable party that never ends.",
+  "release_date_on_eshop": "2013-11-22",
+  "product_code": "CTR-N-ATSE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Party"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

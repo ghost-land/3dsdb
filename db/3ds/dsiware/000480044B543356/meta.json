@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B543356",
-    "uid": "50010000006301",
-    "name": "Academy: Tic-Tac-Toe\nNoughts and Crosses",
-    "formal_name": "Academy: Tic-Tac-Toe\nNoughts and Crosses",
-    "description": "The world’s most famous\npen-and-paper game for two players is\nnow in your pocket. If there's no one\naround, don’t worry: skilful AI players\nwill gladly play with you in any of the\n4 Tic-Tac-Toe variants available, in 3\ndifferent difficulty modes. A single\n3x3 playing field too claustrophobic?\nTry the new Nine Board game mode\nthat adds a nice twist and more\nstrategic depth! Compete in the\nLeague Mode and prove that you're\nthe Tic-Tac-Toe Champ!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KT3V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B543356",
+  "uid": "50010000006301",
+  "name": "Academy: Tic-Tac-Toe\nNoughts and Crosses",
+  "formal_name": "Academy: Tic-Tac-Toe\nNoughts and Crosses",
+  "description": "The world’s most famous\npen-and-paper game for two players is\nnow in your pocket. If there's no one\naround, don’t worry: skilful AI players\nwill gladly play with you in any of the\n4 Tic-Tac-Toe variants available, in 3\ndifferent difficulty modes. A single\n3x3 playing field too claustrophobic?\nTry the new Nine Board game mode\nthat adds a nice twist and more\nstrategic depth! Compete in the\nLeague Mode and prove that you're\nthe Tic-Tac-Toe Champ!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KT3V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

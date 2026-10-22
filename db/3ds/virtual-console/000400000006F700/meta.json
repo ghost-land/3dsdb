@@ -1,27 +1,27 @@
 {
-    "tid": "000400000006F700",
-    "uid": "50010000007281",
-    "name": "Wrecking Crew™",
-    "formal_name": "Wrecking Crew™",
-    "description": "Original Release Date: October 1985\n<br><br>\nIn the days before Mario™ and Luigi™ became sports stars in their downtime from saving the Princess, they tried their hands as one-man wrecking crews. With a hammer as their only tool, players take control of the brothers and set out to destroy ladders, rip out pipes, knock out walls, and detonate explosive devices.\n<br><br>\nBut make sure to plan your path of destruction carefully, as each building is designed as its own clever puzzle—if you’re not careful, you can easily trap yourself in a dead end!\n<br><br>\nAdding to the excitement and challenge are fireballs, enemies, and an angry foreman roaming the buildings, all trying to stop you from moving on to the next stage. With 100 buildings to demolish and the ability to construct your own, it’s a wonder Mario and Luigi ever got back to saving the Mushroom Kingdom!",
-    "release_date_on_eshop": "2013-03-07",
-    "product_code": "CTR-N-TAGE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000006F700",
+  "uid": "50010000007281",
+  "name": "Wrecking Crew™",
+  "formal_name": "Wrecking Crew™",
+  "description": "Original Release Date: October 1985\n<br><br>\nIn the days before Mario™ and Luigi™ became sports stars in their downtime from saving the Princess, they tried their hands as one-man wrecking crews. With a hammer as their only tool, players take control of the brothers and set out to destroy ladders, rip out pipes, knock out walls, and detonate explosive devices.\n<br><br>\nBut make sure to plan your path of destruction carefully, as each building is designed as its own clever puzzle—if you’re not careful, you can easily trap yourself in a dead end!\n<br><br>\nAdding to the excitement and challenge are fireballs, enemies, and an angry foreman roaming the buildings, all trying to stop you from moving on to the next stage. With 100 buildings to demolish and the ability to construct your own, it’s a wonder Mario and Luigi ever got back to saving the Mushroom Kingdom!",
+  "release_date_on_eshop": "2013-03-07",
+  "product_code": "CTR-N-TAGE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

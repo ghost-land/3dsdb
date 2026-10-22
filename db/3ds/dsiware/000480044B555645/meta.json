@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B555645",
-    "uid": "50010000012570",
-    "name": "Bloons® TD 4",
-    "formal_name": "Bloons® TD 4",
-    "description": "The monkeys are getting serious and are ready to take down the enemy from the land, air and sea in the style of classic tower defense. Utilising a ranking system you can build up your experience and gain access to powerful towers and upgrades. Call in mortar strikes, deploy the monkey aces and harness the power of banana farms as you bid to take down the enemy in true bloon popping fashion. Bloons TD 4 features a mix of classic tracks from the online game as well as a whole host of new tracks for you to master. The medal ranking system adds an extra level of difficulty to the challenge. Can you battle through all 75 rounds to earn the gold medal?",
-    "release_date_on_eshop": "2012-11-29",
-    "product_code": "TWL-N-KUVE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B555645",
+  "uid": "50010000012570",
+  "name": "Bloons® TD 4",
+  "formal_name": "Bloons® TD 4",
+  "description": "The monkeys are getting serious and are ready to take down the enemy from the land, air and sea in the style of classic tower defense. Utilising a ranking system you can build up your experience and gain access to powerful towers and upgrades. Call in mortar strikes, deploy the monkey aces and harness the power of banana farms as you bid to take down the enemy in true bloon popping fashion. Bloons TD 4 features a mix of classic tracks from the online game as well as a whole host of new tracks for you to master. The medal ranking system adds an extra level of difficulty to the challenge. Can you battle through all 75 rounds to earn the gold medal?",
+  "release_date_on_eshop": "2012-11-29",
+  "product_code": "TWL-N-KUVE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

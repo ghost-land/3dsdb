@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B504E45",
-    "uid": "50010000003174",
-    "name": "Puzzle League™ Express",
-    "formal_name": "Puzzle League™ Express",
-    "description": "The ever-popular Puzzle League comes to Nintendo DSiWare! Like all good puzzlers, the concept is simple: connect blocks of the same color to clear them from the screen, and prevent your stack from becoming too high. There are four single player modes to choose from: Endless (survive to earn a top score), Clear (eliminate all blocks above the line), Score Attack (score as high as possible in two minutes), and Vs. COM (use items and combos to attack a computer opponent). You can choose from a variety of background music to get you ‘in the zone’, and even play in horizontal or vertical mode, holding the Nintendo DSi system normally or like a book. Whichever way you play, you’re guaranteed maximum fun!",
-    "release_date_on_eshop": "2009-08-31",
-    "product_code": "TWL-N-KPNE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game includes some content from \nPlanet Puzzle League previously released for Nintendo DS.",
-    "descriptors": []
+  "tid": "000480044B504E45",
+  "uid": "50010000003174",
+  "name": "Puzzle League™ Express",
+  "formal_name": "Puzzle League™ Express",
+  "description": "The ever-popular Puzzle League comes to Nintendo DSiWare! Like all good puzzlers, the concept is simple: connect blocks of the same color to clear them from the screen, and prevent your stack from becoming too high. There are four single player modes to choose from: Endless (survive to earn a top score), Clear (eliminate all blocks above the line), Score Attack (score as high as possible in two minutes), and Vs. COM (use items and combos to attack a computer opponent). You can choose from a variety of background music to get you ‘in the zone’, and even play in horizontal or vertical mode, holding the Nintendo DSi system normally or like a book. Whichever way you play, you’re guaranteed maximum fun!",
+  "release_date_on_eshop": "2009-08-31",
+  "product_code": "TWL-N-KPNE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game includes some content from \nPlanet Puzzle League previously released for Nintendo DS.",
+  "descriptors": []
 }

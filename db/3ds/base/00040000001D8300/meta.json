@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001D8300",
-    "uid": "50010000047275",
-    "name": "Azure Snake",
-    "formal_name": "Azure Snake",
-    "description": "Azure Snake is a beautiful snake in the world of light.",
-    "release_date_on_eshop": "2019-01-10",
-    "product_code": "CTR-N-LSAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D8300",
+  "uid": "50010000047275",
+  "name": "Azure Snake",
+  "formal_name": "Azure Snake",
+  "description": "Azure Snake is a beautiful snake in the world of light.",
+  "release_date_on_eshop": "2019-01-10",
+  "product_code": "CTR-N-LSAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

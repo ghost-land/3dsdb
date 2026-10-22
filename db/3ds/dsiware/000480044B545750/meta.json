@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B545750",
-    "uid": "50010000006382",
-    "name": "Thorium Wars",
-    "formal_name": "Thorium Wars",
-    "description": "In Thorium Wars, stop the Thorions, a\nsuper species of Thorium-powered\nmachines, from destroying mankind.\nBlast through waves of Thorions by\ncontrolling an arsenal of tanks,\nskyfighters, hovercrafts, gunboats,\nand starfighters with either the\nstandard or Touch screen controls. In\ntwelve exciting missions, navigate\nthrough a variety of combat\nenvironments viewing 360 degrees of\nthe battlefield, fully rendered in 3-D.\nToggle between first and third person\nviews to destroy the terrifying army of\nThorium beasts ranging from swarms\nof Redeye Drones to the bone\ncrushing Manticore Walker. Take\ncontrol of the outcome in this man vs.\nmachine extreme battle as Thorium\nWars proves to be the ultimate test for\nthe survival of the fittest.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KTWP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action",
-        "First-Person Shooter",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B545750",
+  "uid": "50010000006382",
+  "name": "Thorium Wars",
+  "formal_name": "Thorium Wars",
+  "description": "In Thorium Wars, stop the Thorions, a\nsuper species of Thorium-powered\nmachines, from destroying mankind.\nBlast through waves of Thorions by\ncontrolling an arsenal of tanks,\nskyfighters, hovercrafts, gunboats,\nand starfighters with either the\nstandard or Touch screen controls. In\ntwelve exciting missions, navigate\nthrough a variety of combat\nenvironments viewing 360 degrees of\nthe battlefield, fully rendered in 3-D.\nToggle between first and third person\nviews to destroy the terrifying army of\nThorium beasts ranging from swarms\nof Redeye Drones to the bone\ncrushing Manticore Walker. Take\ncontrol of the outcome in this man vs.\nmachine extreme battle as Thorium\nWars proves to be the ultimate test for\nthe survival of the fittest.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KTWP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action",
+    "First-Person Shooter",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B544145",
-    "uid": "50010000003861",
-    "name": "G.G Series D-TANK",
-    "formal_name": "G.G Series D-TANK",
-    "description": "Defend! Attack! The mission comes first!\n\nYou control a tank that can respawn any number of times. The focus of this shooting game is to put your life on the line to successfully carry out a variety of defensive and offensive missions. In defensive missions, you must take out the enemy tanks targeting your base before it is destroyed. In offensive missions--boss battles, you must capture the enemy's stronghold within the time limit. The key to success in these missions is the strategic use of items, such as bombs and special ammo.",
-    "release_date_on_eshop": "2011-03-21",
-    "product_code": "TWL-N-KTAE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B544145",
+  "uid": "50010000003861",
+  "name": "G.G Series D-TANK",
+  "formal_name": "G.G Series D-TANK",
+  "description": "Defend! Attack! The mission comes first!\n\nYou control a tank that can respawn any number of times. The focus of this shooting game is to put your life on the line to successfully carry out a variety of defensive and offensive missions. In defensive missions, you must take out the enemy tanks targeting your base before it is destroyed. In offensive missions--boss battles, you must capture the enemy's stronghold within the time limit. The key to success in these missions is the strategic use of items, such as bombs and special ammo.",
+  "release_date_on_eshop": "2011-03-21",
+  "product_code": "TWL-N-KTAE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000042700",
-    "uid": "50010000006866",
-    "name": "The Legend of Zelda™: Link's Awakening DX™",
-    "formal_name": "The Legend of Zelda™: Link's Awakening DX™",
-    "description": "A high-seas voyage takes a dangerous turn when Link's™ ship is destroyed by a furious storm, and he washes ashore on the mysterious island of Koholint. Link learns that the only hope he has of returning home depends on awakening the mythical Wind Fish, who slumbers within a giant egg atop the island's highest peak. But who is the Wind Fish? How do you wake it? And what will happen when it awakens?\n<br><br>\nLead Link on an incredible adventure as you explore uncharted lands, meet amazing new friends and foes, and unravel the mystery of the Wind Fish. The first handheld-system release in this beloved franchise, presented as it appeared in the 1998 Game Boy™ Color rerelease, The Legend of Zelda: Link's Awakening DX is a must play for fans of this beloved series.",
-    "release_date_on_eshop": "1998-12",
-    "product_code": "CTR-N-QAAE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000042700",
+  "uid": "50010000006866",
+  "name": "The Legend of Zelda™: Link's Awakening DX™",
+  "formal_name": "The Legend of Zelda™: Link's Awakening DX™",
+  "description": "A high-seas voyage takes a dangerous turn when Link's™ ship is destroyed by a furious storm, and he washes ashore on the mysterious island of Koholint. Link learns that the only hope he has of returning home depends on awakening the mythical Wind Fish, who slumbers within a giant egg atop the island's highest peak. But who is the Wind Fish? How do you wake it? And what will happen when it awakens?\n<br><br>\nLead Link on an incredible adventure as you explore uncharted lands, meet amazing new friends and foes, and unravel the mystery of the Wind Fish. The first handheld-system release in this beloved franchise, presented as it appeared in the 1998 Game Boy™ Color rerelease, The Legend of Zelda: Link's Awakening DX is a must play for fans of this beloved series.",
+  "release_date_on_eshop": "1998-12",
+  "product_code": "CTR-N-QAAE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

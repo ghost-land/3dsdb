@@ -1,36 +1,36 @@
 {
-    "tid": "00040000000B5100",
-    "uid": "50010000011974",
-    "name": "LEGO® Der Herr Der Ringe™",
-    "formal_name": "LEGO® Der Herr Der Ringe™",
-    "description": "Basierend auf der „Herr der\nRinge“-Filmtrilogie erzählt LEGO® Der\nHerr der Ringe die Originalgeschichten\naus Der Herr der Ringe:\nDie Gefährten, Der Herr der Ringe:\nDie zwei Türme und Der Herr der\nRinge: Die Rückkehr des Königs und\nentführt die Spieler auf eine epische\nAbenteuerreise mit drolligem\nLEGO-Humor und typischer\nLEGO-Kreativität. Betraut mit der\ngefährlichen Aufgabe, einen uralten\nmagischen Ring zu zerstören, der das\nGute bedroht, muss Frodo sein\nfriedliches Zuhause verlassen. Doch\nder Ring will erst einmal gefunden\nwerden, und der Weg zum\nSchicksalsberg – der einzige Ort, wo\nder Ring zerstört werden kann – ist\ngefährlich und mit Orks und noch\nübleren Bestien gespickt. Um Frodo zu\nhelfen, wird ein Bündnis geschmiedet\n– Aragorn der Waldläufer, Gandalf der\nMagier, Legolas der Elb, Gimli der\nZwerg, Boromir der Kämpfer aus\nGondor und Frodos Hobbit-Freunde\nMerry und Pippin.Die Spieler erleben \ndie „Herr der Ringe“-Saga im \nLEGO-Stil, erforschen Wunder, lösen \nzeitlose Rätsel und machen auf ihrer \nJagd nach dem Einen Ring schier \nendlosen Feindesscharen den Garaus.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ALAD",
-    "platform_name": "Nintendo 3DS (Karte)",
-    "region": "Germany",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "3D-Darstellung wird verwendet",
-        "StreetPass wird unterstützt"
-    ],
-    "languages": [
-        "Englisch",
-        "Spanisch",
-        "Französisch",
-        "Deutsch",
-        "Italienisch",
-        "Niederländisch",
-        "Portugiesisch",
-        "Russisch"
-    ],
-    "rating_system": {
-        "name": "USK",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B5100",
+  "uid": "50010000011974",
+  "name": "LEGO® Der Herr Der Ringe™",
+  "formal_name": "LEGO® Der Herr Der Ringe™",
+  "description": "Basierend auf der „Herr der\nRinge“-Filmtrilogie erzählt LEGO® Der\nHerr der Ringe die Originalgeschichten\naus Der Herr der Ringe:\nDie Gefährten, Der Herr der Ringe:\nDie zwei Türme und Der Herr der\nRinge: Die Rückkehr des Königs und\nentführt die Spieler auf eine epische\nAbenteuerreise mit drolligem\nLEGO-Humor und typischer\nLEGO-Kreativität. Betraut mit der\ngefährlichen Aufgabe, einen uralten\nmagischen Ring zu zerstören, der das\nGute bedroht, muss Frodo sein\nfriedliches Zuhause verlassen. Doch\nder Ring will erst einmal gefunden\nwerden, und der Weg zum\nSchicksalsberg – der einzige Ort, wo\nder Ring zerstört werden kann – ist\ngefährlich und mit Orks und noch\nübleren Bestien gespickt. Um Frodo zu\nhelfen, wird ein Bündnis geschmiedet\n– Aragorn der Waldläufer, Gandalf der\nMagier, Legolas der Elb, Gimli der\nZwerg, Boromir der Kämpfer aus\nGondor und Frodos Hobbit-Freunde\nMerry und Pippin.Die Spieler erleben \ndie „Herr der Ringe“-Saga im \nLEGO-Stil, erforschen Wunder, lösen \nzeitlose Rätsel und machen auf ihrer \nJagd nach dem Einen Ring schier \nendlosen Feindesscharen den Garaus.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ALAD",
+  "platform_name": "Nintendo 3DS (Karte)",
+  "region": "Germany",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "3D-Darstellung wird verwendet",
+    "StreetPass wird unterstützt"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "USK",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

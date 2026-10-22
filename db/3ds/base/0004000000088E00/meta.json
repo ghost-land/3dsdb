@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000088E00",
-    "uid": "50010000009826",
-    "name": "@SIMPLE DLシリーズ Vol.3 THE\n密室からの脱出 セレブな豪邸編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.3\nTHE 密室からの脱出 ～セレブな豪邸編～",
-    "description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。\n<br>今度の舞台は「セレブな豪邸」。クマドナルバーガー社長令嬢の誕生パーティーに招待された主人公。トイレを探している途中で密室に閉じ込められてしまう。\n<br>今作では、初めて脱出ゲームをプレイする人にも安心の『初心者モード』を搭載。",
-    "release_date_on_eshop": "2012-04-04",
-    "product_code": "CTR-N-JM3J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000088E00",
+  "uid": "50010000009826",
+  "name": "@SIMPLE DLシリーズ Vol.3 THE\n密室からの脱出 セレブな豪邸編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.3\nTHE 密室からの脱出 ～セレブな豪邸編～",
+  "description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。\n<br>今度の舞台は「セレブな豪邸」。クマドナルバーガー社長令嬢の誕生パーティーに招待された主人公。トイレを探している途中で密室に閉じ込められてしまう。\n<br>今作では、初めて脱出ゲームをプレイする人にも安心の『初心者モード』を搭載。",
+  "release_date_on_eshop": "2012-04-04",
+  "product_code": "CTR-N-JM3J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

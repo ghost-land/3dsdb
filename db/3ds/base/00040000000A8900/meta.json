@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000A8900",
-    "uid": "50010000011893",
-    "name": "El profesor Layton\ny la máscara de los prodigios",
-    "formal_name": "El profesor Layton\ny la máscara de los prodigios",
-    "description": "El quinto juego de la conocida serie\nincluye más de 150 nuevos acertijos\ny tres nuevos minijuegos cortesía del\nbaúl del profesor. El profesor Layton\ny la máscara de los prodigios te trae\nademás 365 puzles adicionales que\nserán distribuidos a través de\nNintendo Network a ritmo de un puzle\ndiario durante un año a partir del día\nde lanzamiento del juego.",
-    "release_date_on_eshop": "2012-10-26",
-    "product_code": "CTR-N-AKKS",
-    "platform_name": "Nintendo 3DS (tarjeta/descarga)",
-    "region": "Spain",
-    "genres": [
-        "Puzle",
-        "Aventura"
-    ],
-    "features": [
-        "Con imágenes 3D",
-        "Compatible con SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "Español"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A8900",
+  "uid": "50010000011893",
+  "name": "El profesor Layton\ny la máscara de los prodigios",
+  "formal_name": "El profesor Layton\ny la máscara de los prodigios",
+  "description": "El quinto juego de la conocida serie\nincluye más de 150 nuevos acertijos\ny tres nuevos minijuegos cortesía del\nbaúl del profesor. El profesor Layton\ny la máscara de los prodigios te trae\nademás 365 puzles adicionales que\nserán distribuidos a través de\nNintendo Network a ritmo de un puzle\ndiario durante un año a partir del día\nde lanzamiento del juego.",
+  "release_date_on_eshop": "2012-10-26",
+  "product_code": "CTR-N-AKKS",
+  "platform_name": "Nintendo 3DS (tarjeta/descarga)",
+  "region": "Spain",
+  "genres": [
+    "Puzle",
+    "Aventura"
+  ],
+  "features": [
+    "Con imágenes 3D",
+    "Compatible con SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B4F4B45",
-    "uid": "50010000003288",
-    "name": "1001 Crystal Mazes Collection",
-    "formal_name": "1001 Crystal Mazes Collection",
-    "description": "Give your brain a workout with 1001 Crystal Mazes Collection, the deceptively simple jewel logic game!  It's easy to learn but hard to master. Your task is to push the crystals forward to their target destinations, one at a time. Sounds simple, but be careful! You can push your jewel into an impossible locked position if you don't plan ahead. As the mazes get harder and the crystals pile up, you'll need clever thinking to clear the labyrinth. With over 1000 jewel-filled puzzles, this fun collection will challenge your mind and push your brain skills to the limit.",
-    "release_date_on_eshop": "2010-05-03",
-    "product_code": "TWL-N-KOKE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4F4B45",
+  "uid": "50010000003288",
+  "name": "1001 Crystal Mazes Collection",
+  "formal_name": "1001 Crystal Mazes Collection",
+  "description": "Give your brain a workout with 1001 Crystal Mazes Collection, the deceptively simple jewel logic game!  It's easy to learn but hard to master. Your task is to push the crystals forward to their target destinations, one at a time. Sounds simple, but be careful! You can push your jewel into an impossible locked position if you don't plan ahead. As the mazes get harder and the crystals pile up, you'll need clever thinking to clear the labyrinth. With over 1000 jewel-filled puzzles, this fun collection will challenge your mind and push your brain skills to the limit.",
+  "release_date_on_eshop": "2010-05-03",
+  "product_code": "TWL-N-KOKE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

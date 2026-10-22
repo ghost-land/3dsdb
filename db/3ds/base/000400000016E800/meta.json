@@ -1,31 +1,31 @@
 {
-    "tid": "000400000016E800",
-    "uid": "50010000035635",
-    "name": "PICROSS e6",
-    "formal_name": "PICROSS e6",
-    "description": "The 6th game in the Picross e series,\nwith a Navigation Feature!\n<br/><br/>\nNew to this title, each puzzle can be\nplayed in either Picross or Mega\nPicross mode!\n<br/><br/>\nEnjoy over 300 puzzles, including\nspecial puzzles.\n<br/><br/>\nYou can also choose the fill\nanimation for the puzzle screen.\n<br/><br/>\nPicross is a \"Picture Crossword\nPuzzle Game\" where numbers act as\nhints to complete images.\n<br/><br/>\nThe rules are simple and easy to\ngrasp. Anyone can do it!",
-    "release_date_on_eshop": "2015-07-30",
-    "product_code": "CTR-N-KP6P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016E800",
+  "uid": "50010000035635",
+  "name": "PICROSS e6",
+  "formal_name": "PICROSS e6",
+  "description": "The 6th game in the Picross e series,\nwith a Navigation Feature!\n<br/><br/>\nNew to this title, each puzzle can be\nplayed in either Picross or Mega\nPicross mode!\n<br/><br/>\nEnjoy over 300 puzzles, including\nspecial puzzles.\n<br/><br/>\nYou can also choose the fill\nanimation for the puzzle screen.\n<br/><br/>\nPicross is a \"Picture Crossword\nPuzzle Game\" where numbers act as\nhints to complete images.\n<br/><br/>\nThe rules are simple and easy to\ngrasp. Anyone can do it!",
+  "release_date_on_eshop": "2015-07-30",
+  "product_code": "CTR-N-KP6P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

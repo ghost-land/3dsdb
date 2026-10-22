@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B435945",
-    "uid": "50010000007231",
-    "name": "Calculator",
-    "formal_name": "Calculator",
-    "description": "Calculator is the one and only calculator that you will ever need. Calculator combines basic and scientific calculators with a unit conversion utility. Calculator handles 135 measurement units and constants of most types which ordinary people use every day, including length, weight, temperature, speed, volume, area, and time. Plus, it's always available in your pocket!\n\nFeatures:\n- Basic and scientific calculators\n- Calculate with degrees or radians\n- Supports decimal, hexadecimal, octal, and binary numbers\n- Percent button will behave just like on a basic calculator\n- Memory buttons will also behave just like on a basic calculator\n- Database of 135 most popular units and physical constants\n- Reverse direction of any conversion\n- Punch in digits and Calculator does the conversion on the fly",
-    "release_date_on_eshop": "2011-08-25",
-    "product_code": "TWL-N-KCYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Utility",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435945",
+  "uid": "50010000007231",
+  "name": "Calculator",
+  "formal_name": "Calculator",
+  "description": "Calculator is the one and only calculator that you will ever need. Calculator combines basic and scientific calculators with a unit conversion utility. Calculator handles 135 measurement units and constants of most types which ordinary people use every day, including length, weight, temperature, speed, volume, area, and time. Plus, it's always available in your pocket!\n\nFeatures:\n- Basic and scientific calculators\n- Calculate with degrees or radians\n- Supports decimal, hexadecimal, octal, and binary numbers\n- Percent button will behave just like on a basic calculator\n- Memory buttons will also behave just like on a basic calculator\n- Database of 135 most popular units and physical constants\n- Reverse direction of any conversion\n- Punch in digits and Calculator does the conversion on the fly",
+  "release_date_on_eshop": "2011-08-25",
+  "product_code": "TWL-N-KCYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Utility",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

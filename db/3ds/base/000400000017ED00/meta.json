@@ -1,33 +1,33 @@
 {
-    "tid": "000400000017ED00",
-    "uid": "50010000040716",
-    "name": "LEGO® STAR WARS™:\nTHE FORCE AWAKENS",
-    "formal_name": "LEGO® STAR WARS™:\nTHE FORCE AWAKENS",
-    "description": "LEGO® Star Wars™: The Force\nAwakens marks the triumphant return\nof the No. 1 LEGO® videogame\nfranchise and immerses fans in the\nnew Star Wars™ adventure like never\nbefore. Players can relive the epic\naction from the blockbuster film in a\nway that only LEGO® can offer,\nfeaturing all of the storylines from\nStar Wars™: The Force Awakens,\nretold through the clever and witty\nLEGO® lens. The game will also\nfeature exclusive playable content that\ntakes players on adventures between\nStar Wars™: Return of the Jedi™ and\nStar Wars™: The Force Awakens,\nproviding additional insight about the\nnew movie and its characters.",
-    "release_date_on_eshop": "2016-06-28",
-    "product_code": "CTR-P-BLWP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "* Game contains English voice over.",
-    "descriptors": []
+  "tid": "000400000017ED00",
+  "uid": "50010000040716",
+  "name": "LEGO® STAR WARS™:\nTHE FORCE AWAKENS",
+  "formal_name": "LEGO® STAR WARS™:\nTHE FORCE AWAKENS",
+  "description": "LEGO® Star Wars™: The Force\nAwakens marks the triumphant return\nof the No. 1 LEGO® videogame\nfranchise and immerses fans in the\nnew Star Wars™ adventure like never\nbefore. Players can relive the epic\naction from the blockbuster film in a\nway that only LEGO® can offer,\nfeaturing all of the storylines from\nStar Wars™: The Force Awakens,\nretold through the clever and witty\nLEGO® lens. The game will also\nfeature exclusive playable content that\ntakes players on adventures between\nStar Wars™: Return of the Jedi™ and\nStar Wars™: The Force Awakens,\nproviding additional insight about the\nnew movie and its characters.",
+  "release_date_on_eshop": "2016-06-28",
+  "product_code": "CTR-P-BLWP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "* Game contains English voice over.",
+  "descriptors": []
 }

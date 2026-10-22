@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F710D00",
-    "uid": "50010000045756",
-    "name": "UP UP BOT",
-    "formal_name": "UP UP BOT",
-    "description": "In UP UP BOT help your robot friend climb the platforms by tapping the Touch Screen. Be careful and watch out for bad robots trying to stop you from progressing even higher. Endless fun for everyone!",
-    "release_date_on_eshop": "2018-06-14",
-    "product_code": "KTR-N-CBQP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F710D00",
+  "uid": "50010000045756",
+  "name": "UP UP BOT",
+  "formal_name": "UP UP BOT",
+  "description": "In UP UP BOT help your robot friend climb the platforms by tapping the Touch Screen. Be careful and watch out for bad robots trying to stop you from progressing even higher. Endless fun for everyone!",
+  "release_date_on_eshop": "2018-06-14",
+  "product_code": "KTR-N-CBQP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

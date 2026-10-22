@@ -1,39 +1,39 @@
 {
-    "tid": "000400000007AF00",
-    "uid": "50010000011307",
-    "name": "New Super Mario Bros.™ 2",
-    "formal_name": "New Super Mario Bros.™ 2",
-    "description": "Mario returns to Nintendo 3DS in a\n<br>side-scrolling action adventure,\n<br>packed with great power-ups and\n<br>crammed with coins! Players can\n<br>expect classic Mario action with a\n<br>golden twist - an extra challenge to\n<br>collect one million coins! As well as\n<br>playing solo, or teaming up with a\n<br>friend via Local Play, there's Coin\n<br>Rush mode, where the aim is to grab\n<br>as many coins as possible in the time\n<br>limit, adding a strategic edge to the\n<br>fun!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-ABEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007AF00",
+  "uid": "50010000011307",
+  "name": "New Super Mario Bros.™ 2",
+  "formal_name": "New Super Mario Bros.™ 2",
+  "description": "Mario returns to Nintendo 3DS in a\n<br>side-scrolling action adventure,\n<br>packed with great power-ups and\n<br>crammed with coins! Players can\n<br>expect classic Mario action with a\n<br>golden twist - an extra challenge to\n<br>collect one million coins! As well as\n<br>playing solo, or teaming up with a\n<br>friend via Local Play, there's Coin\n<br>Rush mode, where the aim is to grab\n<br>as many coins as possible in the time\n<br>limit, adding a strategic edge to the\n<br>fun!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-ABEP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

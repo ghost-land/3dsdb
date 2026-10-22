@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B445856",
-    "uid": "50010000004801",
-    "name": "3D Space Tank™",
-    "formal_name": "3D Space Tank™",
-    "description": "Space year XXXX: humanity leaves\nEarth for the stars... A mere 20 years\nlater, the oppressive Kiisan Empire,\nled by your former commander, is\nthreatening galactic peace. Our last\nhope is VIXIV, a state-of-the-art space\nbattle tank capable of all-range\nsurface combat and interplanetary\ntravel. Taking control of VIXIV, you\nmust engage in daring land and aerial\ncombat, in thrilling first-person view,\nand restore peace to the galaxy!<br>\n<br>\nWith the help of your support bot,\nVIX-529, travel around the Kiisa\nSystem via high-speed interplanetary\nwarp tunnels and take to the skies or\nplanet surfaces in all-range sections.\nUse the radar to track enemies and to\nlocate vital power crystals, which\nallow you to open new warp tunnels\nand explore new planets!<br>\n<br>\nComplete missions and side quests to\nincrease your rank and gain powerful\nnew weapons to assist you in your\nfight for freedom!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KDXV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445856",
+  "uid": "50010000004801",
+  "name": "3D Space Tank™",
+  "formal_name": "3D Space Tank™",
+  "description": "Space year XXXX: humanity leaves\nEarth for the stars... A mere 20 years\nlater, the oppressive Kiisan Empire,\nled by your former commander, is\nthreatening galactic peace. Our last\nhope is VIXIV, a state-of-the-art space\nbattle tank capable of all-range\nsurface combat and interplanetary\ntravel. Taking control of VIXIV, you\nmust engage in daring land and aerial\ncombat, in thrilling first-person view,\nand restore peace to the galaxy!<br>\n<br>\nWith the help of your support bot,\nVIX-529, travel around the Kiisa\nSystem via high-speed interplanetary\nwarp tunnels and take to the skies or\nplanet surfaces in all-range sections.\nUse the radar to track enemies and to\nlocate vital power crystals, which\nallow you to open new warp tunnels\nand explore new planets!<br>\n<br>\nComplete missions and side quests to\nincrease your rank and gain powerful\nnew weapons to assist you in your\nfight for freedom!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KDXV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

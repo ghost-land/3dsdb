@@ -1,39 +1,39 @@
 {
-    "tid": "0004000000175200",
-    "uid": "50010000041277",
-    "name": "Metroid™ Prime:\nFederation Force",
-    "formal_name": "Metroid™ Prime:\n<br>Federation Force",
-    "description": "The Galactic Federation needs you!\n<br>\n<br>The galaxy is not at peace. Following the destruction of Phazon and the corrupted world, Phaaze, the Space Pirate threat remains. As a recruit in the Federation Force, a best-of-the-best unit created by the Galactic Federation, it’s your duty to stamp out the Space Pirate menace. Suit up in specialised battle armour, known as a Mech, and head out to the desolate Bermuda system to investigate reports of suspicious activity, using your handy blaster to eliminate any enemies that get in your way!\n<br>\n<br>Supports 6 Players online, 6 Players via Local Play and 6 Players via Download Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-09-02",
-    "product_code": "CTR-P-BCAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Nintendo Network",
-        "amiibo",
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000175200",
+  "uid": "50010000041277",
+  "name": "Metroid™ Prime:\nFederation Force",
+  "formal_name": "Metroid™ Prime:\n<br>Federation Force",
+  "description": "The Galactic Federation needs you!\n<br>\n<br>The galaxy is not at peace. Following the destruction of Phazon and the corrupted world, Phaaze, the Space Pirate threat remains. As a recruit in the Federation Force, a best-of-the-best unit created by the Galactic Federation, it’s your duty to stamp out the Space Pirate menace. Suit up in specialised battle armour, known as a Mech, and head out to the desolate Bermuda system to investigate reports of suspicious activity, using your handy blaster to eliminate any enemies that get in your way!\n<br>\n<br>Supports 6 Players online, 6 Players via Local Play and 6 Players via Download Play.\n<br>\n<br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-09-02",
+  "product_code": "CTR-P-BCAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Nintendo Network",
+    "amiibo",
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

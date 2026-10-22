@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70FB00",
-    "uid": "50010000044456",
-    "name": "BLOK DROP CHAOS",
-    "formal_name": "BLOK DROP CHAOS",
-    "description": "In BLOK DROP CHAOS you must act quick to catch the fallen blocks. Collect the correct number of blocks and advance to the next level. Endless fun for everyone!",
-    "release_date_on_eshop": "2017-12-14",
-    "product_code": "KTR-N-CDCE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70FB00",
+  "uid": "50010000044456",
+  "name": "BLOK DROP CHAOS",
+  "formal_name": "BLOK DROP CHAOS",
+  "description": "In BLOK DROP CHAOS you must act quick to catch the fallen blocks. Collect the correct number of blocks and advance to the next level. Endless fun for everyone!",
+  "release_date_on_eshop": "2017-12-14",
+  "product_code": "KTR-N-CDCE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

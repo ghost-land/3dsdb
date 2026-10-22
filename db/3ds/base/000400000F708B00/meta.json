@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F708B00",
-    "uid": "50010000041861",
-    "name": "SHOOT THE BALL",
-    "formal_name": "SHOOT THE BALL",
-    "description": "In SHOOT THE BALL, your objective is simple - use the touch screen to \"shoot\" the ball into the open space scoring a point. Each shape is randomly given a speed and color to increase the difficulty. Challenge your family and friends to beat your session score. How many times can you SHOOT THE BALL?",
-    "release_date_on_eshop": "2016-11-10",
-    "product_code": "KTR-N-CBAP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F708B00",
+  "uid": "50010000041861",
+  "name": "SHOOT THE BALL",
+  "formal_name": "SHOOT THE BALL",
+  "description": "In SHOOT THE BALL, your objective is simple - use the touch screen to \"shoot\" the ball into the open space scoring a point. Each shape is randomly given a speed and color to increase the difficulty. Challenge your family and friends to beat your session score. How many times can you SHOOT THE BALL?",
+  "release_date_on_eshop": "2016-11-10",
+  "product_code": "KTR-N-CBAP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

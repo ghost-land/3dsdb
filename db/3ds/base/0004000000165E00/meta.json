@@ -1,38 +1,38 @@
 {
-    "tid": "0004000000165E00",
-    "uid": "50010000037275",
-    "name": "Skylanders SuperChargers\nRacing",
-    "formal_name": "Skylanders SuperChargers Racing",
-    "description": "Skylanders, start your engines! The infamous race promoter Pandergast has challenged the best racers in Skylands to come forward and test their driving skills in a head-to-head, no-holds-barred driving competition! Race across Land, Sea, and Sky for the ultimate prize - a mysterious token of immense power! Kick start your Skylanders adventure into overdrive with Skylanders® SuperChargers Racing.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BL5E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Racing",
-        "RPG",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports Online Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Cartoon Violence",
-        "Online Interactions Not Rated by the ESRB"
-    ]
+  "tid": "0004000000165E00",
+  "uid": "50010000037275",
+  "name": "Skylanders SuperChargers\nRacing",
+  "formal_name": "Skylanders SuperChargers Racing",
+  "description": "Skylanders, start your engines! The infamous race promoter Pandergast has challenged the best racers in Skylands to come forward and test their driving skills in a head-to-head, no-holds-barred driving competition! Race across Land, Sea, and Sky for the ultimate prize - a mysterious token of immense power! Kick start your Skylanders adventure into overdrive with Skylanders® SuperChargers Racing.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BL5E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Racing",
+    "RPG",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Cartoon Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ]
 }

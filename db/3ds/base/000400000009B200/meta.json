@@ -1,28 +1,28 @@
 {
-    "tid": "000400000009B200",
-    "uid": "50010000010686",
-    "name": "Bomb Monkey™",
-    "formal_name": "Bomb Monkey™",
-    "description": "Blok Bombing is a fine and ancient sport invented by a small and creative troop of primates, called Bomb Monkeys. The goal is simple: do not allow the bloks rising from the jungle floor to reach dangerous heights and knock you from your perch.\n<br><br>\nWith an endless supply of bloks and a steady stream of bombs, you can partake in this legendary sport anytime you have a spare moment. Young Bomb Monkeys will learn patience and strategy. Older Bomb Monkeys will sharpen their wits. And, every Bomb Monkey will have a blast!\n<br><br>\nSeveral variations on the classic “Endless” Blok Bombing sport have emerged over the centuries, providing both variety and unique challenges for avid enthusiasts of the sport.",
-    "release_date_on_eshop": "2012-06-28",
-    "product_code": "CTR-N-JB3E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Arcade",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009B200",
+  "uid": "50010000010686",
+  "name": "Bomb Monkey™",
+  "formal_name": "Bomb Monkey™",
+  "description": "Blok Bombing is a fine and ancient sport invented by a small and creative troop of primates, called Bomb Monkeys. The goal is simple: do not allow the bloks rising from the jungle floor to reach dangerous heights and knock you from your perch.\n<br><br>\nWith an endless supply of bloks and a steady stream of bombs, you can partake in this legendary sport anytime you have a spare moment. Young Bomb Monkeys will learn patience and strategy. Older Bomb Monkeys will sharpen their wits. And, every Bomb Monkey will have a blast!\n<br><br>\nSeveral variations on the classic “Endless” Blok Bombing sport have emerged over the centuries, providing both variety and unique challenges for avid enthusiasts of the sport.",
+  "release_date_on_eshop": "2012-06-28",
+  "product_code": "CTR-N-JB3E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Arcade",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

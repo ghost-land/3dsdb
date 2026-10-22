@@ -1,34 +1,34 @@
 {
-    "tid": "000400000008CA00",
-    "uid": "50010000013414",
-    "name": "Petz® Countryside",
-    "formal_name": "Petz® Countryside",
-    "description": "Live out exciting adventures in the\ncountryside village! Care for a wide\nvariety of dogs, cats and 6 exclusive\nexotic countryside animals such as a\npanda or a zebra.\n<br/><br/>\nExplore the countryside village and\ncomplete quests and fun activities with\nyour Petz.\n<br/><br/>\nExpand your village, welcome new\npets and unlock new buildings like the\nexotic petting park.",
-    "release_date_on_eshop": "2014-11-06",
-    "product_code": "CTR-P-APOP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008CA00",
+  "uid": "50010000013414",
+  "name": "Petz® Countryside",
+  "formal_name": "Petz® Countryside",
+  "description": "Live out exciting adventures in the\ncountryside village! Care for a wide\nvariety of dogs, cats and 6 exclusive\nexotic countryside animals such as a\npanda or a zebra.\n<br/><br/>\nExplore the countryside village and\ncomplete quests and fun activities with\nyour Petz.\n<br/><br/>\nExpand your village, welcome new\npets and unlock new buildings like the\nexotic petting park.",
+  "release_date_on_eshop": "2014-11-06",
+  "product_code": "CTR-P-APOP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000F8600",
-    "uid": "50010000028176",
-    "name": "Mighty Final Fight®",
-    "formal_name": "Mighty Final Fight®",
-    "description": "The Mad Gear Gang has been battling with Mayor Mike Haggar for years over control of Metro City. One day, the gang of misfits takes it too far by kidnapping the mayor's daughter, Jessica. That is one mistake that will be their undoing!\n<br><br>\nClean up the streets in five levels of intense, hard-hitting action! Choose the pro wrestler Haggar, the street brawler Cody, or the Ninjutsu master Guy, each with his unique fighting abilities and special moves. Find power-ups that will replenish health, give extra lives, or provide extra chances to keep fighting!\n<br><br>\nWeapons provide another alternative for knocking the living daylights out of the thugs that stand in your way. Join Haggar and his friends in a fight against crime as they free their loved one and the city from the evil clutches of the Mad Gear Gang.",
-    "release_date_on_eshop": "2014-11-27",
-    "product_code": "CTR-N-TDME",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F8600",
+  "uid": "50010000028176",
+  "name": "Mighty Final Fight®",
+  "formal_name": "Mighty Final Fight®",
+  "description": "The Mad Gear Gang has been battling with Mayor Mike Haggar for years over control of Metro City. One day, the gang of misfits takes it too far by kidnapping the mayor's daughter, Jessica. That is one mistake that will be their undoing!\n<br><br>\nClean up the streets in five levels of intense, hard-hitting action! Choose the pro wrestler Haggar, the street brawler Cody, or the Ninjutsu master Guy, each with his unique fighting abilities and special moves. Find power-ups that will replenish health, give extra lives, or provide extra chances to keep fighting!\n<br><br>\nWeapons provide another alternative for knocking the living daylights out of the thugs that stand in your way. Join Haggar and his friends in a fight against crime as they free their loved one and the city from the evil clutches of the Mad Gear Gang.",
+  "release_date_on_eshop": "2014-11-27",
+  "product_code": "CTR-N-TDME",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

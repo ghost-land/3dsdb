@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000047D00",
-    "uid": "50010000011447",
-    "name": "NCIS™ 3D BASED ON THE TV SERIES",
-    "formal_name": "NCIS™ 3D BASED ON THE TV SERIES",
-    "description": "The world of the NCIS TV show is now in the palm of your hand. Specifically designed for Nintendo 3DS™, NCIS The Video Game (Based on the TV Series) takes the action from the hit CBS show to new depths by letting you join forces with the cast and immersing you in your own NCIS adventure in 3D!\n<br><br>\nJoin Agent Gibbs’ team as the new “probie,” and partner with the cast of your favorite TV show. Work together on the crime scene, help each other during tough suspect interrogations, and have each other’s back in tense firefights.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ANCE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Blood",
-        "Mild Language",
-        "Suggestive Themes",
-        "Use of Alcohol",
-        "Violence"
-    ]
+  "tid": "0004000000047D00",
+  "uid": "50010000011447",
+  "name": "NCIS™ 3D BASED ON THE TV SERIES",
+  "formal_name": "NCIS™ 3D BASED ON THE TV SERIES",
+  "description": "The world of the NCIS TV show is now in the palm of your hand. Specifically designed for Nintendo 3DS™, NCIS The Video Game (Based on the TV Series) takes the action from the hit CBS show to new depths by letting you join forces with the cast and immersing you in your own NCIS adventure in 3D!\n<br><br>\nJoin Agent Gibbs’ team as the new “probie,” and partner with the cast of your favorite TV show. Work together on the crime scene, help each other during tough suspect interrogations, and have each other’s back in tense firefights.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ANCE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Blood",
+    "Mild Language",
+    "Suggestive Themes",
+    "Use of Alcohol",
+    "Violence"
+  ]
 }

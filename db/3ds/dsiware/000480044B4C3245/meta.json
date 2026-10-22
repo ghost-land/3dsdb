@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B4C3245",
-    "uid": "50010000003003",
-    "name": "Puffins: Let's Roll",
-    "formal_name": "Puffins: Let's Roll",
-    "description": "The baby Puffins need your help! Reunite the missing baby puffin eggs with their mothers in Puffins: Let's Roll! Several eggs have been misplaced and they’re just about ready to hatch! Use a new innovative control scheme to roll the egg around 20 levels of fiendish puzzles. Race against the clock in two exciting game modes: safely return the egg to its mother in Egg Roll or try to collect all of the Golden Capelin in Capelin Catch. But beware of rocks, trees, ice and other hazards as you roll the eggs back to the safety of their mothers. Take too long or bump into too many obstacles and you’ll have a cranky baby Puffin on your hands. So hurry up and get those eggs back home!",
-    "release_date_on_eshop": "2010-04-26",
-    "product_code": "TWL-N-KL2E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C3245",
+  "uid": "50010000003003",
+  "name": "Puffins: Let's Roll",
+  "formal_name": "Puffins: Let's Roll",
+  "description": "The baby Puffins need your help! Reunite the missing baby puffin eggs with their mothers in Puffins: Let's Roll! Several eggs have been misplaced and they’re just about ready to hatch! Use a new innovative control scheme to roll the egg around 20 levels of fiendish puzzles. Race against the clock in two exciting game modes: safely return the egg to its mother in Egg Roll or try to collect all of the Golden Capelin in Capelin Catch. But beware of rocks, trees, ice and other hazards as you roll the eggs back to the safety of their mothers. Take too long or bump into too many obstacles and you’ll have a cranky baby Puffin on your hands. So hurry up and get those eggs back home!",
+  "release_date_on_eshop": "2010-04-26",
+  "product_code": "TWL-N-KL2E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

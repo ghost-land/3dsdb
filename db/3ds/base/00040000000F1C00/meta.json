@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000F1C00",
-    "uid": "50010000016513",
-    "name": "My Vet Practice 3D -\nIn the Country",
-    "formal_name": "My Vet Practice 3D -\n<br>In the Country",
-    "description": "Start your own vet practice in the\n<br>countryside – in fantastic 3D!\n<br><br/><br/>\n<br>Build beautiful pens and stables for\n<br>many different kinds of animals. You\n<br>decide which animals to treat or to go\n<br>out on house visits and examine the\n<br>animals on the scene. Really sick\n<br>animals can be admitted for in- patient\n<br>care and healed in your animal\n<br>hospital.\n<br><br/><br/>\n<br>- Exciting pet care and building fun\n<br>in real 3D!\n<br><br/><br/>\n<br>- Care for animals like deer, lambs,\n<br>dogs, cats, bunnies, parakeets and\n<br>horses.\n<br><br/><br/>\n<br>- Enjoy examinations and treatments\n<br>with fantastic 3D effects: magnifying\n<br>glass, thermometer, ultrasound scan,\n<br>syringe, bandage, tweezers and many\n<br>more.\n<br><br/><br/>\n<br>- Innovative 3D-Photo-Feature: Take\n<br>real 3D pictures of yourself with the\n<br>Nintendo 3DS™ Camera and use them\n<br>in the game – now you are a\n<br>veterinarian for real!\n<br><br/><br/>\n<br>- Use the gyroscope controls of\n<br>your Nintendo 3DS™ and explore the\n<br>ride out route with your own horse.\n<br><br/><br/>\n<br>- Visit the stores in the city or\n<br>explore and upgrade your own vet\n<br>practice.\n<br><br/><br/>\n<br>- Collect Play Coins to change them\n<br>into ingame currency.",
-    "release_date_on_eshop": "2013-11-14",
-    "product_code": "CTR-P-AERP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Education",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F1C00",
+  "uid": "50010000016513",
+  "name": "My Vet Practice 3D -\nIn the Country",
+  "formal_name": "My Vet Practice 3D -\n<br>In the Country",
+  "description": "Start your own vet practice in the\n<br>countryside – in fantastic 3D!\n<br><br/><br/>\n<br>Build beautiful pens and stables for\n<br>many different kinds of animals. You\n<br>decide which animals to treat or to go\n<br>out on house visits and examine the\n<br>animals on the scene. Really sick\n<br>animals can be admitted for in- patient\n<br>care and healed in your animal\n<br>hospital.\n<br><br/><br/>\n<br>- Exciting pet care and building fun\n<br>in real 3D!\n<br><br/><br/>\n<br>- Care for animals like deer, lambs,\n<br>dogs, cats, bunnies, parakeets and\n<br>horses.\n<br><br/><br/>\n<br>- Enjoy examinations and treatments\n<br>with fantastic 3D effects: magnifying\n<br>glass, thermometer, ultrasound scan,\n<br>syringe, bandage, tweezers and many\n<br>more.\n<br><br/><br/>\n<br>- Innovative 3D-Photo-Feature: Take\n<br>real 3D pictures of yourself with the\n<br>Nintendo 3DS™ Camera and use them\n<br>in the game – now you are a\n<br>veterinarian for real!\n<br><br/><br/>\n<br>- Use the gyroscope controls of\n<br>your Nintendo 3DS™ and explore the\n<br>ride out route with your own horse.\n<br><br/><br/>\n<br>- Visit the stores in the city or\n<br>explore and upgrade your own vet\n<br>practice.\n<br><br/><br/>\n<br>- Collect Play Coins to change them\n<br>into ingame currency.",
+  "release_date_on_eshop": "2013-11-14",
+  "product_code": "CTR-P-AERP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Education",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

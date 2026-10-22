@@ -118,7 +118,7 @@ Iso code and more :
 'HR': Croatian (hr)
 'HU': Hungarian (hu)
 'IT': Italian (it)
-'JP': Japanese (jp)
+'JP': Japanese (ja)
 'KR': Korean (ko)
 'LT': Lithuanian (lt)
 'LV': Latvian (lv)
@@ -157,7 +157,7 @@ Iso code and more :
 'UnknownOther': 'unknown'
 ```
 ```
-language_priority = ['en', 'jp', 'fr', 'es', 'de', 'it', 'nl', 'pt', 'zh', 'ru', 'ko', 'ar', 'tr', 'sv', 'fi', 'da', 'no', 'pl', 'cs', 'sk', 'sl', 'sr', 'hr', 'hu', 'lt', 'lv', 'el', 'bg', 'ro', 'ms', 'mt', 'et']
+language_priority = ['en', 'ja', 'fr', 'es', 'de', 'it', 'nl', 'pt', 'zh', 'ru', 'ko', 'ar', 'tr', 'sv', 'fi', 'da', 'no', 'pl', 'cs', 'sk', 'sl', 'sr', 'hr', 'hu', 'lt', 'lv', 'el', 'bg', 'ro', 'ms', 'mt', 'et']
 ```
 
 ## Contributing

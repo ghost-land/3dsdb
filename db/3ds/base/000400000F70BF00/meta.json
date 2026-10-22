@@ -1,26 +1,26 @@
 {
-    "tid": "000400000F70BF00",
-    "uid": "50010000042618",
-    "name": "Ascent of Kings",
-    "formal_name": "Ascent of Kings",
-    "description": "The death of a King.\n<br>\n<br>An epic challenge to choose a new ruler.\n<br>\n<br>Will the smallest of four brothers turn out to be the strongest? Will a young boy become King? The answer is up to you. \n<br>\n<br>• Classic adventure-platformer gameplay.\n<br>• Explore and encounter strange creatures - some harmless, some not.\n<br>• Navigate dangerous passages and evade deadly traps.\n<br>• Seek out elemental shrines and receive upgraded abilities.",
-    "release_date_on_eshop": "2017-04-27",
-    "product_code": "KTR-N-CAMP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70BF00",
+  "uid": "50010000042618",
+  "name": "Ascent of Kings",
+  "formal_name": "Ascent of Kings",
+  "description": "The death of a King.\n<br>\n<br>An epic challenge to choose a new ruler.\n<br>\n<br>Will the smallest of four brothers turn out to be the strongest? Will a young boy become King? The answer is up to you. \n<br>\n<br>• Classic adventure-platformer gameplay.\n<br>• Explore and encounter strange creatures - some harmless, some not.\n<br>• Navigate dangerous passages and evade deadly traps.\n<br>• Seek out elemental shrines and receive upgraded abilities.",
+  "release_date_on_eshop": "2017-04-27",
+  "product_code": "KTR-N-CAMP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

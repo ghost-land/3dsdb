@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B464550",
-    "uid": "50010000003341",
-    "name": "Ferryman Puzzle",
-    "formal_name": "Ferryman Puzzle",
-    "description": "Jiang is one of the best ferrymen in\nthe world and transports everything\nover the river. Master Fu has offered\nhim a large sum of money to transport\nall his wares to the other side of the\nriver. A big puzzle, since there are\nfoxes and sheep amongst his goods,\nand foxes love to eat sheep. Can you\nhelp Jiang to get everything across\nsafely?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KFEP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B464550",
+  "uid": "50010000003341",
+  "name": "Ferryman Puzzle",
+  "formal_name": "Ferryman Puzzle",
+  "description": "Jiang is one of the best ferrymen in\nthe world and transports everything\nover the river. Master Fu has offered\nhim a large sum of money to transport\nall his wares to the other side of the\nriver. A big puzzle, since there are\nfoxes and sheep amongst his goods,\nand foxes love to eat sheep. Can you\nhelp Jiang to get everything across\nsafely?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KFEP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

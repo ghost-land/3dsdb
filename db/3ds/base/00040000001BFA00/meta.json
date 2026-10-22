@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001BFA00",
-    "uid": "50010000042757",
-    "name": "I am an air traffic controller \nAIRPORT HERO NARITA",
-    "formal_name": "I am an air traffic controller \n<br>AIRPORT HERO NARITA",
-    "description": "Control Japan's Tokyo-Narita Airport in [I am an Air Traffic Controller Airport Hero Narita], where many flights from around the world come and go every day.\n<br>\n<br>With the terminal placed between two runways, taxiing takes a long time in this airport and thus ground control can be tricky. You will need to pay attention to not only air control, but also to the position and movement of taxiing airplanes. Anticipate well to control successfully.\n<br>\n<br>Give the appropriate directions and guide the airplanes smoothly!\n<br>\n<br>Game controls are simple. Just select the direction details which are automatically displayed.\n<br>\n<br>Enjoy the airport scenery and the bustle of passenger planes as you work through 20 stages!",
-    "release_date_on_eshop": "2017-05-25",
-    "product_code": "CTR-N-AN6P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BFA00",
+  "uid": "50010000042757",
+  "name": "I am an air traffic controller \nAIRPORT HERO NARITA",
+  "formal_name": "I am an air traffic controller \n<br>AIRPORT HERO NARITA",
+  "description": "Control Japan's Tokyo-Narita Airport in [I am an Air Traffic Controller Airport Hero Narita], where many flights from around the world come and go every day.\n<br>\n<br>With the terminal placed between two runways, taxiing takes a long time in this airport and thus ground control can be tricky. You will need to pay attention to not only air control, but also to the position and movement of taxiing airplanes. Anticipate well to control successfully.\n<br>\n<br>Give the appropriate directions and guide the airplanes smoothly!\n<br>\n<br>Game controls are simple. Just select the direction details which are automatically displayed.\n<br>\n<br>Enjoy the airport scenery and the bustle of passenger planes as you work through 20 stages!",
+  "release_date_on_eshop": "2017-05-25",
+  "product_code": "CTR-N-AN6P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

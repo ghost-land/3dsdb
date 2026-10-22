@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001A5F00",
-    "uid": "50010000040982",
-    "name": "Mario Party™ Star Rush\nParty Guest Edition",
-    "formal_name": "Mario Party Star Rush\n– Party Guest Edition",
-    "description": "Mario™ and friends invite you to be their party guest! Think fast and have a blast in this free version of the Mario Party Star Rush game. Connect with a player that has the full version to enjoy all multiplayer modes with up to 4 players. No matter how you party, it’s instant fun for everyone!\n<br>\nBreak free of turn order and choose your path across bite-sized, open maps in Toad Scramble. You and up to 3 friends roll the dice, roam the board, and recruit fan-favorite allies, like Yoshi™, Daisy™, and Waluigi™! The bigger your party, the faster you can earn stars and coins in frantic minigames. Pit your skills against friends by racing through minigames in Coinathlon or navigating a board in Balloon Bash. As you play multiplayer, single-player bonuses unlock, including Goomba Gold Rush, which has you blasting enemies with cannons, and a museum you can add characters to by tapping compatible amiibo™ figures. Partying is tough business!",
-    "release_date_on_eshop": "2016-11-04",
-    "product_code": "CTR-N-BABE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Party",
-        "Multiplayer",
-        "Board Game"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "* Additional games and systems required for multiplayer mode. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001A5F00",
+  "uid": "50010000040982",
+  "name": "Mario Party™ Star Rush\nParty Guest Edition",
+  "formal_name": "Mario Party Star Rush\n– Party Guest Edition",
+  "description": "Mario™ and friends invite you to be their party guest! Think fast and have a blast in this free version of the Mario Party Star Rush game. Connect with a player that has the full version to enjoy all multiplayer modes with up to 4 players. No matter how you party, it’s instant fun for everyone!\n<br>\nBreak free of turn order and choose your path across bite-sized, open maps in Toad Scramble. You and up to 3 friends roll the dice, roam the board, and recruit fan-favorite allies, like Yoshi™, Daisy™, and Waluigi™! The bigger your party, the faster you can earn stars and coins in frantic minigames. Pit your skills against friends by racing through minigames in Coinathlon or navigating a board in Balloon Bash. As you play multiplayer, single-player bonuses unlock, including Goomba Gold Rush, which has you blasting enemies with cannons, and a museum you can add characters to by tapping compatible amiibo™ figures. Partying is tough business!",
+  "release_date_on_eshop": "2016-11-04",
+  "product_code": "CTR-N-BABE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Party",
+    "Multiplayer",
+    "Board Game"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "* Additional games and systems required for multiplayer mode. Sold separately.",
+  "descriptors": []
 }

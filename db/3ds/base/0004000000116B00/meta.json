@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000116B00",
-    "uid": "50010000018655",
-    "name": "Banana Bliss: Jungle Puzzles",
-    "formal_name": "Banana Bliss: Jungle Puzzles",
-    "description": "Discover the dense jungle trails with Morris the monkey and gather all the scattered hearts on Paradise Island for his beloved sweetheart Molly. Swing, run and climb through the jungle canopy, by-passing and destroying dangerous critters from spiked urchins to poisonous snails that will try to get in your way!\n<br><br>\nLocate hidden bananas in each level to unlock bonus levels and with every banana revealed you can save your play and watch it back with the built-in replay function, Playback! With over 300 levels to complete in 7 jungle-inspired worlds there will be no time for monkeying around in these blissful jungle puzzles!\n<br><br>\nFeatures:<br>\nSwing through over 300 puzzles in 7 jungle-inspired worlds!<br>\nClimb and interact with boulders, bars and other items to clear each puzzle<br>\nAvoid or destroy the jungle critters that roam aimlessly around the jungle<br>\nEarn a Banana Bonus in each level to save the level's replay and watch it back with Playback! \n",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JSRE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000116B00",
+  "uid": "50010000018655",
+  "name": "Banana Bliss: Jungle Puzzles",
+  "formal_name": "Banana Bliss: Jungle Puzzles",
+  "description": "Discover the dense jungle trails with Morris the monkey and gather all the scattered hearts on Paradise Island for his beloved sweetheart Molly. Swing, run and climb through the jungle canopy, by-passing and destroying dangerous critters from spiked urchins to poisonous snails that will try to get in your way!\n<br><br>\nLocate hidden bananas in each level to unlock bonus levels and with every banana revealed you can save your play and watch it back with the built-in replay function, Playback! With over 300 levels to complete in 7 jungle-inspired worlds there will be no time for monkeying around in these blissful jungle puzzles!\n<br><br>\nFeatures:<br>\nSwing through over 300 puzzles in 7 jungle-inspired worlds!<br>\nClimb and interact with boulders, bars and other items to clear each puzzle<br>\nAvoid or destroy the jungle critters that roam aimlessly around the jungle<br>\nEarn a Banana Bonus in each level to save the level's replay and watch it back with Playback! \n",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JSRE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

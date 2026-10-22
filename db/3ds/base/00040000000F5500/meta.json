@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000F5500",
-    "uid": "50010000015456",
-    "name": "Soul Hackers",
-    "formal_name": "Shin Megami Tensei®:\nDevil Summoner®: Soul Hackers",
-    "description": "In a society originated from a bizarre\nmarriage of technology and\ndemonology, an unleashed evil-borne\nof an inconvenient truth-threatens to\nbring an end not just to the deceptive\nharmony, but to mankind itself.\n<br/><br/>\nImproved graphics marry with\nextensive voice acting, a host of\ntechnical enhancements, and 3D\ndungeon exploration to make Soul\nHackers a natural fit to the\nNintendo 3DS™.",
-    "release_date_on_eshop": "2013-09-25",
-    "product_code": "CTR-P-AHQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F5500",
+  "uid": "50010000015456",
+  "name": "Soul Hackers",
+  "formal_name": "Shin Megami Tensei®:\nDevil Summoner®: Soul Hackers",
+  "description": "In a society originated from a bizarre\nmarriage of technology and\ndemonology, an unleashed evil-borne\nof an inconvenient truth-threatens to\nbring an end not just to the deceptive\nharmony, but to mankind itself.\n<br/><br/>\nImproved graphics marry with\nextensive voice acting, a host of\ntechnical enhancements, and 3D\ndungeon exploration to make Soul\nHackers a natural fit to the\nNintendo 3DS™.",
+  "release_date_on_eshop": "2013-09-25",
+  "product_code": "CTR-P-AHQP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

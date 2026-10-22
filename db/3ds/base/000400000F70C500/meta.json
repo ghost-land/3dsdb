@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F70C500",
-    "uid": "50010000042898",
-    "name": "TABLE TENNIS INFINITY",
-    "formal_name": "TABLE TENNIS INFINITY",
-    "description": "Take the excitement of a PING PONG table on the go with TABLE TENNIS INFINITY! In this exciting portable version, move your paddle with the touch screen to hit the balls. The speed increases as your score goes up - endless fun for everyone!",
-    "release_date_on_eshop": "2017-07-06",
-    "product_code": "KTR-N-CADP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Simulation",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70C500",
+  "uid": "50010000042898",
+  "name": "TABLE TENNIS INFINITY",
+  "formal_name": "TABLE TENNIS INFINITY",
+  "description": "Take the excitement of a PING PONG table on the go with TABLE TENNIS INFINITY! In this exciting portable version, move your paddle with the touch screen to hit the balls. The speed increases as your score goes up - endless fun for everyone!",
+  "release_date_on_eshop": "2017-07-06",
+  "product_code": "KTR-N-CADP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Simulation",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

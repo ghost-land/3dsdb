@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000D3200",
-    "uid": "50010000024755",
-    "name": "The Mysterious Murasame\nCastle",
-    "formal_name": "The Mysterious Murasame\nCastle",
-    "description": "One stormy night in feudal Japan, a mysterious force begins to take control over Murasame Castle and its lands. Each lord in four neighboring castles has taken possession of a dark sphere of power, allowing them to summon ninja armies and monsters that wreak havoc in the villages.\n<br><br>\nTakamaru, a brave and young samurai apprentice, has been sent to investigate. He must infiltrate all four castles and defeat the lords before making his way to Murasame Castle. Use sword and shuriken attacks against the swarms of enemies, and unlock the secret behind the source of evil.",
-    "release_date_on_eshop": "2014-08-07",
-    "product_code": "CTR-N-TCZE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000D3200",
+  "uid": "50010000024755",
+  "name": "The Mysterious Murasame\nCastle",
+  "formal_name": "The Mysterious Murasame\nCastle",
+  "description": "One stormy night in feudal Japan, a mysterious force begins to take control over Murasame Castle and its lands. Each lord in four neighboring castles has taken possession of a dark sphere of power, allowing them to summon ninja armies and monsters that wreak havoc in the villages.\n<br><br>\nTakamaru, a brave and young samurai apprentice, has been sent to investigate. He must infiltrate all four castles and defeat the lords before making his way to Murasame Castle. Use sword and shuriken attacks against the swarms of enemies, and unlock the secret behind the source of evil.",
+  "release_date_on_eshop": "2014-08-07",
+  "product_code": "CTR-N-TCZE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

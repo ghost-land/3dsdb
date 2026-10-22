@@ -1,28 +1,28 @@
 {
-    "tid": "000400000006E800",
-    "uid": "50010000017734",
-    "name": "Super Mario Bros.™ 3",
-    "formal_name": "Super Mario Bros.™ 3",
-    "description": "Bowser™ and the Koopalings are causing chaos yet again, but this time they’re going beyond the Mushroom Kingdom into the seven worlds that neighbor it. Now Mario™ and Luigi™ must battle a variety of enemies, including a Koopaling in each unique and distinctive world, on their way to ultimately taking on Bowser himself. Lucky for the brothers, they have more power-ups available than ever before. \n<br><br>\nFly above the action using the Super Leaf, swim faster by donning the Frog Suit, or defeat enemies using the Hammer Bros. Suit. Use the brand-new overworld map to take the chance to play a minigame in hopes of gaining extra lives or to find a Toad’s House where you can pick up additional items. All this (and more) combines into one of gaming’s most well-known and beloved titles—are you ready to experience gaming bliss? ",
-    "release_date_on_eshop": "2014-04-17",
-    "product_code": "CTR-N-TABE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Other"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000006E800",
+  "uid": "50010000017734",
+  "name": "Super Mario Bros.™ 3",
+  "formal_name": "Super Mario Bros.™ 3",
+  "description": "Bowser™ and the Koopalings are causing chaos yet again, but this time they’re going beyond the Mushroom Kingdom into the seven worlds that neighbor it. Now Mario™ and Luigi™ must battle a variety of enemies, including a Koopaling in each unique and distinctive world, on their way to ultimately taking on Bowser himself. Lucky for the brothers, they have more power-ups available than ever before. \n<br><br>\nFly above the action using the Super Leaf, swim faster by donning the Frog Suit, or defeat enemies using the Hammer Bros. Suit. Use the brand-new overworld map to take the chance to play a minigame in hopes of gaining extra lives or to find a Toad’s House where you can pick up additional items. All this (and more) combines into one of gaming’s most well-known and beloved titles—are you ready to experience gaming bliss? ",
+  "release_date_on_eshop": "2014-04-17",
+  "product_code": "CTR-N-TABE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Other"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

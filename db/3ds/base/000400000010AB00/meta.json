@@ -1,29 +1,29 @@
 {
-    "tid": "000400000010AB00",
-    "uid": "50010000020373",
-    "name": "Spot The Differences!",
-    "formal_name": "Spot The Differences!",
-    "description": "Discover a classic game on your Nintendo 3DS!<br>\n150 magnificent photos of landscapes, decorations, animals, still life, and more.<br>\nStay focused to find all of the hidden differences.<br>\nA relaxing classic for the mind that the whole family can enjoy – anywhere!",
-    "release_date_on_eshop": "2014-02-13",
-    "product_code": "CTR-N-BDFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000010AB00",
+  "uid": "50010000020373",
+  "name": "Spot The Differences!",
+  "formal_name": "Spot The Differences!",
+  "description": "Discover a classic game on your Nintendo 3DS!<br>\n150 magnificent photos of landscapes, decorations, animals, still life, and more.<br>\nStay focused to find all of the hidden differences.<br>\nA relaxing classic for the mind that the whole family can enjoy – anywhere!",
+  "release_date_on_eshop": "2014-02-13",
+  "product_code": "CTR-N-BDFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

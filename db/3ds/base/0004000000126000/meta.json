@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000126000",
-    "uid": "50010000020414",
-    "name": "Pokémon™ Link: Battle!",
-    "formal_name": "Pokémon™ Link: Battle!",
-    "description": "Pokémon Link: Battle! is a\nNintendo 3DS game where players\nbattle Pokémon to capture them\nthrough fast-paced puzzles. When you\ncatch a wild Pokémon, it is called a\nLink. Your goal in this game is to Link\nevery last Pokémon.\n<br/><br/>\nIn Pokémon Link: Battle!, you must\nmake matches of the same Pokémon\nfrom among all the many Pokémon\nthat fill your Link Box—the large field\nof Pokémon on the lower screen. The\nPokémon that appears on the top\nscreen is the wild Pokémon that you\nare facing in battle. Line up three\nPokémon in a row to clear your\nPokémon from the box, and to attack\nand reduce the HP of the wild\nPokémon that you face. When its HP\nreaches zero, you will be able to Link\nthat Pokémon!\n<br/><br/>\nAs time passes, the wild Pokémon\nwill also lash out to attack you in\nreturn. When you’re attacked by a\nwild Pokémon, the Link Box will lose\nsome of its energy. The wild Pokémon\nyou face may even try to get in your\nway! If the Link Box’s energy reaches\nzero, it’s game over.\n<br/><br/>\nPokémon Link: Battle! features all\n718 Pokémon discovered to date,\nincluding those that just debuted in\nPokémon X and Pokémon Y. And all\nof the Pokémon appearing in Pokémon\nLink: Battle! have a new look with\ncool and cute icons.\n<br/><br/>\nPokémon Link: Battle! is compatible\nwith your Nintendo 3DS system’s\nStreetPass function. When you pass\nby another person who is playing\nPokémon Link: Battle!, you will be\nable to exchange play data with each\nother. If you have set Favorite\nPokémon, they will also be shared\nwith others, and any Pokémon you\nreceive from others in this way will\nbecome one of your allies!",
-    "release_date_on_eshop": "2014-03-13",
-    "product_code": "CTR-N-JR8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000126000",
+  "uid": "50010000020414",
+  "name": "Pokémon™ Link: Battle!",
+  "formal_name": "Pokémon™ Link: Battle!",
+  "description": "Pokémon Link: Battle! is a\nNintendo 3DS game where players\nbattle Pokémon to capture them\nthrough fast-paced puzzles. When you\ncatch a wild Pokémon, it is called a\nLink. Your goal in this game is to Link\nevery last Pokémon.\n<br/><br/>\nIn Pokémon Link: Battle!, you must\nmake matches of the same Pokémon\nfrom among all the many Pokémon\nthat fill your Link Box—the large field\nof Pokémon on the lower screen. The\nPokémon that appears on the top\nscreen is the wild Pokémon that you\nare facing in battle. Line up three\nPokémon in a row to clear your\nPokémon from the box, and to attack\nand reduce the HP of the wild\nPokémon that you face. When its HP\nreaches zero, you will be able to Link\nthat Pokémon!\n<br/><br/>\nAs time passes, the wild Pokémon\nwill also lash out to attack you in\nreturn. When you’re attacked by a\nwild Pokémon, the Link Box will lose\nsome of its energy. The wild Pokémon\nyou face may even try to get in your\nway! If the Link Box’s energy reaches\nzero, it’s game over.\n<br/><br/>\nPokémon Link: Battle! features all\n718 Pokémon discovered to date,\nincluding those that just debuted in\nPokémon X and Pokémon Y. And all\nof the Pokémon appearing in Pokémon\nLink: Battle! have a new look with\ncool and cute icons.\n<br/><br/>\nPokémon Link: Battle! is compatible\nwith your Nintendo 3DS system’s\nStreetPass function. When you pass\nby another person who is playing\nPokémon Link: Battle!, you will be\nable to exchange play data with each\nother. If you have set Favorite\nPokémon, they will also be shared\nwith others, and any Pokémon you\nreceive from others in this way will\nbecome one of your allies!",
+  "release_date_on_eshop": "2014-03-13",
+  "product_code": "CTR-N-JR8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

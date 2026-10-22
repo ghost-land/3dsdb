@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E001BC900",
-    "uid": "50010000042977",
-    "name": "FIRE EMBLEM Echoes 更新資料 Ver. 1.1",
-    "formal_name": "『FIRE EMBLEM Echoes 另一位英雄王 (中日版)』更新資料 Ver.1.1",
-    "description": "Nintendo 3DS專用軟體『Fire Emblem Echoes 另一位英雄王』的更新資料。\n擁有『Fire Emblem Echoes 另一位英雄王』的玩家請務必要下載。\n\nVer 1.1 [2017.6.21公佈]\n●修正新增內容第4彈發生或顯示之不良\n●此外，已修正各種問題讓遊戲暢順運行",
-    "release_date_on_eshop": "2017-06-21",
-    "product_code": "CTR-U-AJJW",
-    "platform_name": "更新資料",
-    "region": "Taiwan",
-    "genres": [
-        "更新資料"
-    ],
-    "features": [],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "12"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001BC900",
+  "uid": "50010000042977",
+  "name": "FIRE EMBLEM Echoes 更新資料 Ver. 1.1",
+  "formal_name": "『FIRE EMBLEM Echoes 另一位英雄王 (中日版)』更新資料 Ver.1.1",
+  "description": "Nintendo 3DS專用軟體『Fire Emblem Echoes 另一位英雄王』的更新資料。\n擁有『Fire Emblem Echoes 另一位英雄王』的玩家請務必要下載。\n\nVer 1.1 [2017.6.21公佈]\n●修正新增內容第4彈發生或顯示之不良\n●此外，已修正各種問題讓遊戲暢順運行",
+  "release_date_on_eshop": "2017-06-21",
+  "product_code": "CTR-U-AJJW",
+  "platform_name": "更新資料",
+  "region": "Taiwan",
+  "genres": [
+    "更新資料"
+  ],
+  "features": [],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "12"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

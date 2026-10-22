@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000BC100",
-    "uid": "50010000012106",
-    "name": "LIBERATION MAIDEN™",
-    "formal_name": "LIBERATION MAIDEN™",
-    "description": "LEVEL-5 and Grasshopper\nManufacture's SUDA51 team up to\nbring you LIBERATION MAIDEN, a\nfull-scale 3D shooter game on the\nNintendo eShop.<br>\n<br>\nPlayers take the role of Shoko\nOzora, who rides out on her Liberator,\nKamui, to free the country of New\nJapan from invading forces. Shoko will\nface powerful opposition from an\narsenal of ground forces, culminating\nin thrilling showdowns with the\nenemy's massive mechanical Conduit\nSpikes.<br>\n<br>\nFeaturing breathtaking animation by\nBones using fully-voiced dialog and\ncontributions by an all-star cast of\nartists, designers and musicians who\nbring AAA production value to the\ndownloadable space.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JKSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BC100",
+  "uid": "50010000012106",
+  "name": "LIBERATION MAIDEN™",
+  "formal_name": "LIBERATION MAIDEN™",
+  "description": "LEVEL-5 and Grasshopper\nManufacture's SUDA51 team up to\nbring you LIBERATION MAIDEN, a\nfull-scale 3D shooter game on the\nNintendo eShop.<br>\n<br>\nPlayers take the role of Shoko\nOzora, who rides out on her Liberator,\nKamui, to free the country of New\nJapan from invading forces. Shoko will\nface powerful opposition from an\narsenal of ground forces, culminating\nin thrilling showdowns with the\nenemy's massive mechanical Conduit\nSpikes.<br>\n<br>\nFeaturing breathtaking animation by\nBones using fully-voiced dialog and\ncontributions by an all-star cast of\nartists, designers and musicians who\nbring AAA production value to the\ndownloadable space.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JKSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

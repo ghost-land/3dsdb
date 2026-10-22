@@ -1,29 +1,29 @@
 {
-    "tid": "000400000018F400",
-    "uid": "50010000041488",
-    "name": "Phoenix Wright: Ace Attorney\n– Spirit of Justice",
-    "formal_name": "Phoenix Wright: Ace Attorney\n– Spirit of Justice",
-    "description": "Phoenix Wright: Ace Attorney – Spirit of Justice sees Phoenix in a brand new location: a courtroom situated in the Kingdom of Khura’in, origin of the Kurain Channeling Technique, where mysterious séance trials decide the fate of all defendants. Meanwhile, defense attorney Apollo Justice faces his own challenges holding down the fort at the Wright Anything Agency, as he takes on a case that will have explosive implications. Both our heroes are joined by a host of returning friends and adversaries in their fight to bring about justice. Filled with puzzling mysteries to solve, a cast of memorable characters, and all new investigation techniques, this is one case you'll definitely want to take.",
-    "release_date_on_eshop": "2016-09-08",
-    "product_code": "CTR-N-BG6E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "RPG",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000018F400",
+  "uid": "50010000041488",
+  "name": "Phoenix Wright: Ace Attorney\n– Spirit of Justice",
+  "formal_name": "Phoenix Wright: Ace Attorney\n– Spirit of Justice",
+  "description": "Phoenix Wright: Ace Attorney – Spirit of Justice sees Phoenix in a brand new location: a courtroom situated in the Kingdom of Khura’in, origin of the Kurain Channeling Technique, where mysterious séance trials decide the fate of all defendants. Meanwhile, defense attorney Apollo Justice faces his own challenges holding down the fort at the Wright Anything Agency, as he takes on a case that will have explosive implications. Both our heroes are joined by a host of returning friends and adversaries in their fight to bring about justice. Filled with puzzling mysteries to solve, a cast of memorable characters, and all new investigation techniques, this is one case you'll definitely want to take.",
+  "release_date_on_eshop": "2016-09-08",
+  "product_code": "CTR-N-BG6E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

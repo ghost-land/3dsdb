@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000104E00",
-    "uid": "50010000016614",
-    "name": "@SIMPLE DLシリーズ Vol.17\nTHE オセロ",
-    "formal_name": "@SIMPLE DLシリーズ Vol.17\nTHE オセロ",
-    "description": "定番ボードゲームOthello(オセロ)が『@SIMPLE DLシリーズ』に登場です。いつでもどこでも気軽にコンピューターとの対局が楽しめます。コンピューターのレベルは全部で15段階まで用意されており、初心者から上級者まで自分の実力に応じた対局を行うことができます。また棋譜の保存機能や短時間で決着のつく6×6のミニオセロも搭載。1台のニンテンドー3DSと本ソフトがあれば、2人で交互に打つことで、友達との対局を楽しむことも可能です。",
-    "release_date_on_eshop": "2013-10-02",
-    "product_code": "CTR-N-JTAJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000104E00",
+  "uid": "50010000016614",
+  "name": "@SIMPLE DLシリーズ Vol.17\nTHE オセロ",
+  "formal_name": "@SIMPLE DLシリーズ Vol.17\nTHE オセロ",
+  "description": "定番ボードゲームOthello(オセロ)が『@SIMPLE DLシリーズ』に登場です。いつでもどこでも気軽にコンピューターとの対局が楽しめます。コンピューターのレベルは全部で15段階まで用意されており、初心者から上級者まで自分の実力に応じた対局を行うことができます。また棋譜の保存機能や短時間で決着のつく6×6のミニオセロも搭載。1台のニンテンドー3DSと本ソフトがあれば、2人で交互に打つことで、友達との対局を楽しむことも可能です。",
+  "release_date_on_eshop": "2013-10-02",
+  "product_code": "CTR-N-JTAJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000D0200",
-    "uid": "50010000015613",
-    "name": "Summer Carnival '92 RECCA",
-    "formal_name": "Summer Carnival '92 RECCA",
-    "description": "Developed by Naxat Soft for their\nSummer Carnival tournament in 1992,\nRECCA is a fast, furious shooter that\npushed the NES™ to\nnever-before-seen speeds.\n<br/><br/>\nBattle through stages swarming with\nenemies, collecting power-ups for\nyour primary and secondary weapons.\nHold fire for a moment and plasma\nenergy will build up, to be used as a\nshield or launched as a plasma bomb.\n<br/><br/>\nEven RECCA’s soundtrack is hard\ncore, with some of the most\nimpressive music on the NES. This\ntour de force of technical wizardry\nand intense action is not for the\nfaint-hearted!",
-    "release_date_on_eshop": "2013-08-15",
-    "product_code": "CTR-N-TAVP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D0200",
+  "uid": "50010000015613",
+  "name": "Summer Carnival '92 RECCA",
+  "formal_name": "Summer Carnival '92 RECCA",
+  "description": "Developed by Naxat Soft for their\nSummer Carnival tournament in 1992,\nRECCA is a fast, furious shooter that\npushed the NES™ to\nnever-before-seen speeds.\n<br/><br/>\nBattle through stages swarming with\nenemies, collecting power-ups for\nyour primary and secondary weapons.\nHold fire for a moment and plasma\nenergy will build up, to be used as a\nshield or launched as a plasma bomb.\n<br/><br/>\nEven RECCA’s soundtrack is hard\ncore, with some of the most\nimpressive music on the NES. This\ntour de force of technical wizardry\nand intense action is not for the\nfaint-hearted!",
+  "release_date_on_eshop": "2013-08-15",
+  "product_code": "CTR-N-TAVP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

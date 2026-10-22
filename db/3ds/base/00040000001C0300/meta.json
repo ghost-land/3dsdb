@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001C0300",
-    "uid": "50010000042536",
-    "name": "Mononoke Forest",
-    "formal_name": "Mononoke Forest",
-    "description": "Mononoke Forest is a heart-warming simulation game where you build up a village of adorable Mononoke characters and use their mysterious power to bring a village back to life!\n<br>\n<br>Take hold of the Mononoke with the stylus and fling them upwards and into the village in the top screen. Attack monsters, recover damaged land and recruit new Mononoke! Group together multiple Mononoke and fling them together for different powers!\n<br>\n<br>Collect various types of Mononoke and select your team members depending on each challenge such as cleaning the polluted air or growing grass on desolated land. Level up and evolve your Mononoke for increased abilities and team them together to increase their power.\n<br>\n<br>Develop the village in your own way by placing buildings as you like. Choose to place shops and theme parks etc and create your own unique village!\n<br>\n<br>Use StreetPass™ to show other players the village you created and see how they have created theirs!",
-    "release_date_on_eshop": "2017-05-25",
-    "product_code": "CTR-N-KRRP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Action"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C0300",
+  "uid": "50010000042536",
+  "name": "Mononoke Forest",
+  "formal_name": "Mononoke Forest",
+  "description": "Mononoke Forest is a heart-warming simulation game where you build up a village of adorable Mononoke characters and use their mysterious power to bring a village back to life!\n<br>\n<br>Take hold of the Mononoke with the stylus and fling them upwards and into the village in the top screen. Attack monsters, recover damaged land and recruit new Mononoke! Group together multiple Mononoke and fling them together for different powers!\n<br>\n<br>Collect various types of Mononoke and select your team members depending on each challenge such as cleaning the polluted air or growing grass on desolated land. Level up and evolve your Mononoke for increased abilities and team them together to increase their power.\n<br>\n<br>Develop the village in your own way by placing buildings as you like. Choose to place shops and theme parks etc and create your own unique village!\n<br>\n<br>Use StreetPass™ to show other players the village you created and see how they have created theirs!",
+  "release_date_on_eshop": "2017-05-25",
+  "product_code": "CTR-N-KRRP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Action"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

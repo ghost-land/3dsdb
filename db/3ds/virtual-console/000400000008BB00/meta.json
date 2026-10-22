@@ -1,26 +1,26 @@
 {
-    "tid": "000400000008BB00",
-    "uid": "50010000009721",
-    "name": "Dragon Crystal™",
-    "formal_name": "Dragon Crystal™",
-    "description": "Imagine a glowing magic crystal. As you gaze into it, an intense force pulls you in and causes a black out. You pinch yourself. But you don't wake up. You're caught in a fantastic world of unearthly beauty and deadly demons. Here, countless evil forces confront you. Your only ally is your loyal pet dragon.\n<br><br>\nBlaze a trail through the treacherous labyrinths of four magic kingdoms - collecting weapons, armor, magic books, potions, rods and rings as you go. Fend off enormous insects, monstrous centipedes and sneaky sand sharks. Pass through 30 worlds in search of the Magic Goblet. There's no way out of this musical nightmare...until you find it.",
-    "release_date_on_eshop": "2012-03-15",
-    "product_code": "CTR-N-GABE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000008BB00",
+  "uid": "50010000009721",
+  "name": "Dragon Crystal™",
+  "formal_name": "Dragon Crystal™",
+  "description": "Imagine a glowing magic crystal. As you gaze into it, an intense force pulls you in and causes a black out. You pinch yourself. But you don't wake up. You're caught in a fantastic world of unearthly beauty and deadly demons. Here, countless evil forces confront you. Your only ally is your loyal pet dragon.\n<br><br>\nBlaze a trail through the treacherous labyrinths of four magic kingdoms - collecting weapons, armor, magic books, potions, rods and rings as you go. Fend off enormous insects, monstrous centipedes and sneaky sand sharks. Pass through 30 worlds in search of the Magic Goblet. There's no way out of this musical nightmare...until you find it.",
+  "release_date_on_eshop": "2012-03-15",
+  "product_code": "CTR-N-GABE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F70AD00",
-    "uid": "50010000042476",
-    "name": "FOUR BOMBS",
-    "formal_name": "FOUR BOMBS",
-    "description": "Watch your mark with FOUR BOMBS! Carefully scan the mine field for bombs by learning a common pattern among surrounding spaces. Find all 4 bombs and win - levels randomly generated for endless fun!",
-    "release_date_on_eshop": "2017-03-16",
-    "product_code": "KTR-N-CFBP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70AD00",
+  "uid": "50010000042476",
+  "name": "FOUR BOMBS",
+  "formal_name": "FOUR BOMBS",
+  "description": "Watch your mark with FOUR BOMBS! Carefully scan the mine field for bombs by learning a common pattern among surrounding spaces. Find all 4 bombs and win - levels randomly generated for endless fun!",
+  "release_date_on_eshop": "2017-03-16",
+  "product_code": "KTR-N-CFBP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B575945",
-    "uid": "50010000004785",
-    "name": "Mighty Milky Way",
-    "formal_name": "Mighty Milky Way",
-    "description": "Are you ready to pulse some planets and soar through space? With a pocket full of planet candy and a heart full of ennui, green-skinned cutie-pie Luna needs your help to accomplish her secret mission! Prepare for fever-pitched puzzles in another mighty game from WayForward!\n\nLuna uses her magical staff to create and destroy planets on a whim. Explode vicious space monsters, avoid sizzling electric barriers, and grab all the delicious planet candy you can. But watch out for the T-Rex, Luna’s arch-nemesis! His laser eyes are matched only by the awkwardness of his and Luna’s sketchy past. But enough incessant blathering! Let’s stare into the sun with stoic tears and embrace the rolling chaos that is life!",
-    "release_date_on_eshop": "2011-05-09",
-    "product_code": "TWL-N-KWYE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B575945",
+  "uid": "50010000004785",
+  "name": "Mighty Milky Way",
+  "formal_name": "Mighty Milky Way",
+  "description": "Are you ready to pulse some planets and soar through space? With a pocket full of planet candy and a heart full of ennui, green-skinned cutie-pie Luna needs your help to accomplish her secret mission! Prepare for fever-pitched puzzles in another mighty game from WayForward!\n\nLuna uses her magical staff to create and destroy planets on a whim. Explode vicious space monsters, avoid sizzling electric barriers, and grab all the delicious planet candy you can. But watch out for the T-Rex, Luna’s arch-nemesis! His laser eyes are matched only by the awkwardness of his and Luna’s sketchy past. But enough incessant blathering! Let’s stare into the sun with stoic tears and embrace the rolling chaos that is life!",
+  "release_date_on_eshop": "2011-05-09",
+  "product_code": "TWL-N-KWYE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

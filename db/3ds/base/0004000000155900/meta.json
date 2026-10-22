@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000155900",
-    "uid": "50010000030415",
-    "name": "Undead Storm Nightmare",
-    "formal_name": "Undead Storm Nightmare",
-    "description": "Undead Storm Nightmare is the\nsequel to the popular Nintendo\nDSiWare™ Undead Storm.\n<br/><br/>\nFight off hordes of bloody thirsty\nzombies as you face a new zombie\nepidemic first hand. Bigger, bloodier\nand more gruesome than the first\ntime, Undead Storm Nightmare will\ntest your zombie killing skills to the\nlimit! Arm yourself from a stock of\nweapons that include an assault rifle,\nrocket launcher chainsaw and a\nsamurai sword! Upgrade each weapon\nto increase its performance and fight\nthrough waves of zombies before\ngoing one-on-one with the giant\nzombie bosses!\n<br/><br/>\nKeep your eyes peeled for the\nNightwalker that patrols the streets!\n<br/><br/>\nIf she catches you she will trigger\nNightmare Time and call massive\namounts of zombies to your position!\nNo one has ever survived...\n<br/><br/>\nTeam up with 3 friends and go\nhunting for zombies together using\nNintendo 3DS™ Local Play!",
-    "release_date_on_eshop": "2015-02-12",
-    "product_code": "CTR-N-JZQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000155900",
+  "uid": "50010000030415",
+  "name": "Undead Storm Nightmare",
+  "formal_name": "Undead Storm Nightmare",
+  "description": "Undead Storm Nightmare is the\nsequel to the popular Nintendo\nDSiWare™ Undead Storm.\n<br/><br/>\nFight off hordes of bloody thirsty\nzombies as you face a new zombie\nepidemic first hand. Bigger, bloodier\nand more gruesome than the first\ntime, Undead Storm Nightmare will\ntest your zombie killing skills to the\nlimit! Arm yourself from a stock of\nweapons that include an assault rifle,\nrocket launcher chainsaw and a\nsamurai sword! Upgrade each weapon\nto increase its performance and fight\nthrough waves of zombies before\ngoing one-on-one with the giant\nzombie bosses!\n<br/><br/>\nKeep your eyes peeled for the\nNightwalker that patrols the streets!\n<br/><br/>\nIf she catches you she will trigger\nNightmare Time and call massive\namounts of zombies to your position!\nNo one has ever survived...\n<br/><br/>\nTeam up with 3 friends and go\nhunting for zombies together using\nNintendo 3DS™ Local Play!",
+  "release_date_on_eshop": "2015-02-12",
+  "product_code": "CTR-N-JZQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

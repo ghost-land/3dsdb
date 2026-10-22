@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B5A4250",
-    "uid": "50010000006602",
-    "name": "Little Red Riding Hood's\nZombie BBQ",
-    "formal_name": "Little Red Riding Hood's\nZombie BBQ",
-    "description": "Can you save fairy tale land or will\nyou let its creatures live an\nunhappy-ever-after-life?<br>\n<br>\nZombie BBQ is a really fun shooter,\nwhere you have to move forward by\nshooting down every living (or dying)\ncreature in your path! Use the great\narsenal of weapons at your disposal\nto do away with the savage hordes of\nzombies.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KZBP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4250",
+  "uid": "50010000006602",
+  "name": "Little Red Riding Hood's\nZombie BBQ",
+  "formal_name": "Little Red Riding Hood's\nZombie BBQ",
+  "description": "Can you save fairy tale land or will\nyou let its creatures live an\nunhappy-ever-after-life?<br>\n<br>\nZombie BBQ is a really fun shooter,\nwhere you have to move forward by\nshooting down every living (or dying)\ncreature in your path! Use the great\narsenal of weapons at your disposal\nto do away with the savage hordes of\nzombies.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KZBP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

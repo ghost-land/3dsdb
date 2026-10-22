@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F70D600",
-    "uid": "50010000043815",
-    "name": "RTO",
-    "formal_name": "RTO",
-    "description": "The enemy has struck. They approach rapidly. Your team is outnumbered and low on ammo. It’s only a matter of time until it’s all over.\n<br>\n<br>Take control of a six man team and fight your way through multiple levels with the odds against you.\n<br>RTO is a side scrolling FPS survival horror game with permadeath.",
-    "release_date_on_eshop": "2017-11-09",
-    "product_code": "KTR-N-CCTE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "First-Person Shooter",
-        "Shooter",
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70D600",
+  "uid": "50010000043815",
+  "name": "RTO",
+  "formal_name": "RTO",
+  "description": "The enemy has struck. They approach rapidly. Your team is outnumbered and low on ammo. It’s only a matter of time until it’s all over.\n<br>\n<br>Take control of a six man team and fight your way through multiple levels with the odds against you.\n<br>RTO is a side scrolling FPS survival horror game with permadeath.",
+  "release_date_on_eshop": "2017-11-09",
+  "product_code": "KTR-N-CCTE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "First-Person Shooter",
+    "Shooter",
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

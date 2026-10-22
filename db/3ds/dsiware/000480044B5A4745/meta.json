@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B5A4745",
-    "uid": "50010000004771",
-    "name": "Crazy Golf",
-    "formal_name": "Crazy Golf",
-    "description": "Welcome to \"Crazy Golf\"! Experience the world's wackiest miniature golf courses! Seven different courses with six different holes will put your skills to the test. Guide your ball to the hole, navigating tricky corners and avoiding wacky obstacles on your way. The accurate controls give you complete control over the ball! Play alone or challenge your friends in multiplayer mode and show them who's the true champ!",
-    "release_date_on_eshop": "2010-05-03",
-    "product_code": "TWL-N-KZGE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Sports",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-    "descriptors": []
+  "tid": "000480044B5A4745",
+  "uid": "50010000004771",
+  "name": "Crazy Golf",
+  "formal_name": "Crazy Golf",
+  "description": "Welcome to \"Crazy Golf\"! Experience the world's wackiest miniature golf courses! Seven different courses with six different holes will put your skills to the test. Guide your ball to the hole, navigating tricky corners and avoiding wacky obstacles on your way. The accurate controls give you complete control over the ball! Play alone or challenge your friends in multiplayer mode and show them who's the true champ!",
+  "release_date_on_eshop": "2010-05-03",
+  "product_code": "TWL-N-KZGE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Sports",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000069200",
-    "uid": "50010000009132",
-    "name": "Kirby's Block Ball™",
-    "formal_name": "Kirby's Block Ball™",
-    "description": "Kirby breaks into new territory in\nKirby’s Block Ball – a fast-paced\naction game in which Kirby becomes\nthe ball in a crazy contest to clear all\nthe blocks in each stage, to earn the\nhighest score.<br>\n<br>\nKirby can bounce off paddles on all\nfour sides of the screen, so you’ll\nneed quick reactions. You can also\nmake use of Kirby’s powers like Spike,\nBurn or Stone which will help in the\nfinal showdown with King Dedede!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBKP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000069200",
+  "uid": "50010000009132",
+  "name": "Kirby's Block Ball™",
+  "formal_name": "Kirby's Block Ball™",
+  "description": "Kirby breaks into new territory in\nKirby’s Block Ball – a fast-paced\naction game in which Kirby becomes\nthe ball in a crazy contest to clear all\nthe blocks in each stage, to earn the\nhighest score.<br>\n<br>\nKirby can bounce off paddles on all\nfour sides of the screen, so you’ll\nneed quick reactions. You can also\nmake use of Kirby’s powers like Spike,\nBurn or Stone which will help in the\nfinal showdown with King Dedede!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBKP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

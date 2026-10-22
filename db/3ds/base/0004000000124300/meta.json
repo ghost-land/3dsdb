@@ -1,35 +1,35 @@
 {
-    "tid": "0004000000124300",
-    "uid": "50010000020873",
-    "name": "Cubit The Hardcore\nPlatformer Robot",
-    "formal_name": "Cubit The Hardcore\nPlatformer Robot",
-    "description": "Cubit The Hardcore Platformer Robot\nis an action-packed platform game,\nwhere music plays a very important\nrole.\n<br/><br/>\nWith only one button to jump, you\nmust help Cubit to go from platform to\nplatform, while you avoid obstacles\nand enemies through the different\nscenes of the game.\n<br/><br/>\nPerhaps you think this makes this\ngame not difficult, right? Well, you\nare right; this game is not difficult...\nthis game is Hardcore!\n<br/><br/>\nChoose the path you want to do in\neach game and reach each of the 3\nendings available!!\n<br/><br/>\nFeatures:\n<br/><br/>\n- Beware: This videogame has guest\ncharacters from other videogames.\n<br/>\n- 3 different endings!\n<br/>\n- 2 game modes: for all types of\ngamers, as well as Hardcore gamers.\n<br/>\n- A soundtrack that will send you\nback to the dance floor.\n<br/>\n- 24 challenges to enrol.\n<br/>\n- A videogame fully created by just\none person!\n<br/><br/>\nAnd now, new remastered version\nwhich includes:\n<br/><br/>\n- NEW! The new Hardcore+ game\nmode!\n<br/><br/>\n- NEW! Online rankings!",
-    "release_date_on_eshop": "2014-03-13",
-    "product_code": "CTR-N-JQ7P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Arcade",
-        "Music"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000124300",
+  "uid": "50010000020873",
+  "name": "Cubit The Hardcore\nPlatformer Robot",
+  "formal_name": "Cubit The Hardcore\nPlatformer Robot",
+  "description": "Cubit The Hardcore Platformer Robot\nis an action-packed platform game,\nwhere music plays a very important\nrole.\n<br/><br/>\nWith only one button to jump, you\nmust help Cubit to go from platform to\nplatform, while you avoid obstacles\nand enemies through the different\nscenes of the game.\n<br/><br/>\nPerhaps you think this makes this\ngame not difficult, right? Well, you\nare right; this game is not difficult...\nthis game is Hardcore!\n<br/><br/>\nChoose the path you want to do in\neach game and reach each of the 3\nendings available!!\n<br/><br/>\nFeatures:\n<br/><br/>\n- Beware: This videogame has guest\ncharacters from other videogames.\n<br/>\n- 3 different endings!\n<br/>\n- 2 game modes: for all types of\ngamers, as well as Hardcore gamers.\n<br/>\n- A soundtrack that will send you\nback to the dance floor.\n<br/>\n- 24 challenges to enrol.\n<br/>\n- A videogame fully created by just\none person!\n<br/><br/>\nAnd now, new remastered version\nwhich includes:\n<br/><br/>\n- NEW! The new Hardcore+ game\nmode!\n<br/><br/>\n- NEW! Online rankings!",
+  "release_date_on_eshop": "2014-03-13",
+  "product_code": "CTR-N-JQ7P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Arcade",
+    "Music"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

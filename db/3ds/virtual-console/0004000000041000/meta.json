@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000041000",
-    "uid": "50010000006767",
-    "name": "Alleyway™",
-    "formal_name": "Alleyway™",
-    "description": "Originally released at the launch of\nthe Game Boy, Alleyway is a fondly\nremembered update to the classic ‘bat\nand ball’ style of games.<br>\n<br>\nThe aim is simple: survive and rack up\na huge high score! Take control of the\npaddle and deflect the ball to break\nthe blocks, but don’t let it drop.\nBreak all the blocks to move onto the\nnext of 32 challenging stages.<br>\n<br>\nIt starts out simple but later levels\nintroduce walls of blocks that move\nhorizontally or vertically. You can also\nenjoy bonus stages where the aim is\nto break as many blocks as possible\nwithin the time limit.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RACP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000041000",
+  "uid": "50010000006767",
+  "name": "Alleyway™",
+  "formal_name": "Alleyway™",
+  "description": "Originally released at the launch of\nthe Game Boy, Alleyway is a fondly\nremembered update to the classic ‘bat\nand ball’ style of games.<br>\n<br>\nThe aim is simple: survive and rack up\na huge high score! Take control of the\npaddle and deflect the ball to break\nthe blocks, but don’t let it drop.\nBreak all the blocks to move onto the\nnext of 32 challenging stages.<br>\n<br>\nIt starts out simple but later levels\nintroduce walls of blocks that move\nhorizontally or vertically. You can also\nenjoy bonus stages where the aim is\nto break as many blocks as possible\nwithin the time limit.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RACP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

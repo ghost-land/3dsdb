@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000166200",
-    "uid": "50010000032576",
-    "name": "Runny Egg",
-    "formal_name": "Runny Egg",
-    "description": "Take control of an egg with legs and run as fast as you can through a course littered with dangers to reach the egg stand at the end! Duck and dodge your way through each stage, avoiding collisions that will damage and eventually break your shell and spoil the egg! Reach the goal as quickly as possible and without breaking the egg's shell!\n<br><br>\nEarn Egg Points for making it through each stage and extra points for accomplishing a task. Use your Egg Points to enhance your egg's HP, Speed and Shell.\n<br><br>\nCollect the chicks scattered throughout each stage to increase your rate of hatching. Getting 100 chicks will hatch your egg, making you invincible for a short period of time!",
-    "release_date_on_eshop": "2015-04-09",
-    "product_code": "CTR-N-JTME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000166200",
+  "uid": "50010000032576",
+  "name": "Runny Egg",
+  "formal_name": "Runny Egg",
+  "description": "Take control of an egg with legs and run as fast as you can through a course littered with dangers to reach the egg stand at the end! Duck and dodge your way through each stage, avoiding collisions that will damage and eventually break your shell and spoil the egg! Reach the goal as quickly as possible and without breaking the egg's shell!\n<br><br>\nEarn Egg Points for making it through each stage and extra points for accomplishing a task. Use your Egg Points to enhance your egg's HP, Speed and Shell.\n<br><br>\nCollect the chicks scattered throughout each stage to increase your rate of hatching. Getting 100 chicks will hatch your egg, making you invincible for a short period of time!",
+  "release_date_on_eshop": "2015-04-09",
+  "product_code": "CTR-N-JTME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B343545",
-    "uid": "50010000009130",
-    "name": "40-in-1 Explosive Megamix",
-    "formal_name": "40-in-1 Explosive Megamix",
-    "description": "Do you like arcade games like puzzles, action, and shooting games? Then this is just what you have been waiting for! 40 games in one collection! Choose between classic games like sudoku, Match-3 and cooking games or try out new and completely original fun games in various genres. Amazing graphics and unique features will provide hours and hours of fun. What could be better?\n\n- 40 minigames in different genres\n- Amazing graphics and unique features\n- High-scores tables, unlockable games, and many extra features",
-    "release_date_on_eshop": "2012-02-09",
-    "product_code": "TWL-N-K45E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B343545",
+  "uid": "50010000009130",
+  "name": "40-in-1 Explosive Megamix",
+  "formal_name": "40-in-1 Explosive Megamix",
+  "description": "Do you like arcade games like puzzles, action, and shooting games? Then this is just what you have been waiting for! 40 games in one collection! Choose between classic games like sudoku, Match-3 and cooking games or try out new and completely original fun games in various genres. Amazing graphics and unique features will provide hours and hours of fun. What could be better?\n\n- 40 minigames in different genres\n- Amazing graphics and unique features\n- High-scores tables, unlockable games, and many extra features",
+  "release_date_on_eshop": "2012-02-09",
+  "product_code": "TWL-N-K45E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

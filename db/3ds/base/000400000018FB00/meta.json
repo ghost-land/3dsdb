@@ -1,36 +1,36 @@
 {
-    "tid": "000400000018FB00",
-    "uid": "50010000040116",
-    "name": "Dan McFox: Head Hunter",
-    "formal_name": "Dan McFox: Head Hunter",
-    "description": "Help Agent Dan McFox catch the\nsuspects by spotting the right faces in\na crowd in this fast-action puzzle\ngame.\n<br/><br/>\nBe quick and accurate to rack up\nhigh scoring point combos! Compete\nin online leaderboards and challenge\nother players via StreetPass™.\n<br/><br/>\nIn Round Up mode, its just you\nagainst the clock! Find as many\nsuspects as you can in sixty seconds.\n<br/><br/>\nIn Mission mode, earn stars for each\ncase you solve and work your way\nthrough 60 different cases to become\na champion head hunter.",
-    "release_date_on_eshop": "2016-04-21",
-    "product_code": "CTR-N-KFYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Action",
-        "Board Game"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018FB00",
+  "uid": "50010000040116",
+  "name": "Dan McFox: Head Hunter",
+  "formal_name": "Dan McFox: Head Hunter",
+  "description": "Help Agent Dan McFox catch the\nsuspects by spotting the right faces in\na crowd in this fast-action puzzle\ngame.\n<br/><br/>\nBe quick and accurate to rack up\nhigh scoring point combos! Compete\nin online leaderboards and challenge\nother players via StreetPass™.\n<br/><br/>\nIn Round Up mode, its just you\nagainst the clock! Find as many\nsuspects as you can in sixty seconds.\n<br/><br/>\nIn Mission mode, earn stars for each\ncase you solve and work your way\nthrough 60 different cases to become\na champion head hunter.",
+  "release_date_on_eshop": "2016-04-21",
+  "product_code": "CTR-N-KFYP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Action",
+    "Board Game"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

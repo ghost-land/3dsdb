@@ -1,29 +1,29 @@
 {
-    "tid": "0004000E0019A500",
-    "uid": "50010000041620",
-    "name": "Stickman Super Athletics:\nUpdate",
-    "formal_name": "Stickman Super Athletics:\n<br>Update",
-    "description": null,
-    "release_date_on_eshop": "2016-09-29",
-    "product_code": "CTR-U-KABP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0019A500",
+  "uid": "50010000041620",
+  "name": "Stickman Super Athletics:\nUpdate",
+  "formal_name": "Stickman Super Athletics:\n<br>Update",
+  "description": null,
+  "release_date_on_eshop": "2016-09-29",
+  "product_code": "CTR-U-KABP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

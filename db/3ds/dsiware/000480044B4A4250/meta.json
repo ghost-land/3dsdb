@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B4A4250",
-    "uid": "50010000007050",
-    "name": "Jewel Keepers",
-    "formal_name": "Jewel Keepers:\nEaster Island",
-    "description": "Welcome to Jewel Keepers: Easter\nIsland – an addictive match-three\narcade action game with mind-blowing\nvisuals and an engaging storyline! This\ngame will keep you entertained for\nhours, as you travel across Easter\nIsland and help to unveil its mysteries.<br>\n<br>\nMore than 20 levels spread all over\nEaster Island. Tons of different board\nshapes. Discover the intriguing story\nof the mysteries of Easter Island.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KJBP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Adventure",
-        "Action",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4A4250",
+  "uid": "50010000007050",
+  "name": "Jewel Keepers",
+  "formal_name": "Jewel Keepers:\nEaster Island",
+  "description": "Welcome to Jewel Keepers: Easter\nIsland – an addictive match-three\narcade action game with mind-blowing\nvisuals and an engaging storyline! This\ngame will keep you entertained for\nhours, as you travel across Easter\nIsland and help to unveil its mysteries.<br>\n<br>\nMore than 20 levels spread all over\nEaster Island. Tons of different board\nshapes. Discover the intriguing story\nof the mysteries of Easter Island.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KJBP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Action",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

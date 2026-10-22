@@ -1,37 +1,37 @@
 {
-    "tid": "000400000006DA00",
-    "uid": "50010000008842",
-    "name": "Rhythm Thief &\nthe Emperor's Treasure",
-    "formal_name": "Rhythm Thief &\n<br>the Emperor's Treasure",
-    "description": "Feel the Rhythm, Beat the Mystery!!\n<br>\n<br>Pump up the tempo in the most\n<br>mysterious rhythm adventure ever to\n<br>hit the Nintendo 3DS.\n<br>\n<br>Raphael has a secret life as a heroic\n<br>thief who is famous among Parisians\n<br>for stealing counterfeit paintings only\n<br>to return them a few days later.\n<br>\n<br>This time he has his sights set on the\n<br>Wristlet of Tiamat on display at the\n<br>Louvre.\n<br>\n<br>Feel the beat and conquer the\n<br>rhythmic riddles in pursuit of the\n<br>hidden truth about the city and his\n<br>father’s disappearance.\n<br>\n<br>> Master the beat and conquer the\n<br>variety of rhythm challenges.\n<br>\n<br>> Dive into the colourful 3D\n<br>adventure in Paris.\n<br>\n<br>> Unmask the truth hidden behind\n<br>treasures.\n<br>\n<br>> Challenge your friends and collect\n<br>fans on your 3D map through\n<br>Streetpass™.",
-    "release_date_on_eshop": "2013-10-03",
-    "product_code": "CTR-P-ARTP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Music",
-        "Adventure",
-        "Puzzle",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.2.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006DA00",
+  "uid": "50010000008842",
+  "name": "Rhythm Thief &\nthe Emperor's Treasure",
+  "formal_name": "Rhythm Thief &\n<br>the Emperor's Treasure",
+  "description": "Feel the Rhythm, Beat the Mystery!!\n<br>\n<br>Pump up the tempo in the most\n<br>mysterious rhythm adventure ever to\n<br>hit the Nintendo 3DS.\n<br>\n<br>Raphael has a secret life as a heroic\n<br>thief who is famous among Parisians\n<br>for stealing counterfeit paintings only\n<br>to return them a few days later.\n<br>\n<br>This time he has his sights set on the\n<br>Wristlet of Tiamat on display at the\n<br>Louvre.\n<br>\n<br>Feel the beat and conquer the\n<br>rhythmic riddles in pursuit of the\n<br>hidden truth about the city and his\n<br>father’s disappearance.\n<br>\n<br>> Master the beat and conquer the\n<br>variety of rhythm challenges.\n<br>\n<br>> Dive into the colourful 3D\n<br>adventure in Paris.\n<br>\n<br>> Unmask the truth hidden behind\n<br>treasures.\n<br>\n<br>> Challenge your friends and collect\n<br>fans on your 3D map through\n<br>Streetpass™.",
+  "release_date_on_eshop": "2013-10-03",
+  "product_code": "CTR-P-ARTP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Music",
+    "Adventure",
+    "Puzzle",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.2.1",
+  "disclaimer": null,
+  "descriptors": []
 }

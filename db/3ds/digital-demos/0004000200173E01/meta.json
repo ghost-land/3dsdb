@@ -1,29 +1,29 @@
 {
-    "tid": "0004000200173E01",
-    "uid": "50010000035435",
-    "name": "I am an Air Traffic Controller\nAirport Hero Narita",
-    "formal_name": "I am an Air Traffic Controller\nAirport Hero Narita",
-    "description": "Control Japan's Tokyo-Narita Airport in [I am an Air Traffic Controller Airport Hero Narita], where many flights from around the world come and go every day.\n<br><br>\nWith the terminal placed between two runways, taxiing takes a long time in this airport and thus ground control can be tricky. You will need to pay attention to not only air control, but also to the position and movement of taxiing airplanes. Anticipate well to control successfully.\n<br><br>\nGive the appropriate directions and guide the airplanes smoothly!\n<br><br>\nGame controls are simple. Just select the direction details which are automatically displayed.\n<br><br>\nEnjoy the airport scenery and the bustle of passenger planes as you work through 20 stages!",
-    "release_date_on_eshop": "2015-07-16",
-    "product_code": "CTR-N-AN6E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000200173E01",
+  "uid": "50010000035435",
+  "name": "I am an Air Traffic Controller\nAirport Hero Narita",
+  "formal_name": "I am an Air Traffic Controller\nAirport Hero Narita",
+  "description": "Control Japan's Tokyo-Narita Airport in [I am an Air Traffic Controller Airport Hero Narita], where many flights from around the world come and go every day.\n<br><br>\nWith the terminal placed between two runways, taxiing takes a long time in this airport and thus ground control can be tricky. You will need to pay attention to not only air control, but also to the position and movement of taxiing airplanes. Anticipate well to control successfully.\n<br><br>\nGive the appropriate directions and guide the airplanes smoothly!\n<br><br>\nGame controls are simple. Just select the direction details which are automatically displayed.\n<br><br>\nEnjoy the airport scenery and the bustle of passenger planes as you work through 20 stages!",
+  "release_date_on_eshop": "2015-07-16",
+  "product_code": "CTR-N-AN6E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "00040000001DEB00",
-    "uid": "50010000048755",
-    "name": "Mia's Picnic",
-    "formal_name": "Mia's Picnic",
-    "description": "Join Mia for her summer adventures as she picnic’s her way across her island home in this fast paced fruit collection game. Help her make her favorite recipes and try out some new ones.\n<br>Select lines of matching fruit that twist and turn across the board, then choose the fruit you need to make Mia’s picnic treats. As you progress through the game Mia will ask for more varied ingredients and you will get to help out some of Mia’s friends too!\n<br>\n<br>Test your memory and skill as you race to collect the fruit she needs before the timer runs out!\n<br>\n<br>With over 100 story led levels and wonderful original art depicting Mia’s Island this game is a real treat.",
-    "release_date_on_eshop": "2020-08-06",
-    "product_code": "CTR-N-A41E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001DEB00",
+  "uid": "50010000048755",
+  "name": "Mia's Picnic",
+  "formal_name": "Mia's Picnic",
+  "description": "Join Mia for her summer adventures as she picnic’s her way across her island home in this fast paced fruit collection game. Help her make her favorite recipes and try out some new ones.\n<br>Select lines of matching fruit that twist and turn across the board, then choose the fruit you need to make Mia’s picnic treats. As you progress through the game Mia will ask for more varied ingredients and you will get to help out some of Mia’s friends too!\n<br>\n<br>Test your memory and skill as you race to collect the fruit she needs before the timer runs out!\n<br>\n<br>With over 100 story led levels and wonderful original art depicting Mia’s Island this game is a real treat.",
+  "release_date_on_eshop": "2020-08-06",
+  "product_code": "CTR-N-A41E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

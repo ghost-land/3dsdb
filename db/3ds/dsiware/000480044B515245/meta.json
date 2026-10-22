@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B515245",
-    "uid": "50010000003562",
-    "name": "Remote Racers",
-    "formal_name": "Remote Racers",
-    "description": " ‘Having Fun with Remote Racers’ in five easy steps:\n1. Select one of 8 vehicles: Speeder, Monster, Candy, Dozer, Tank, Stunt, Mantis and Rocket.\n2. Race against AI or time on 15 great tracks.\n3. Jump in the garden, drift through the cellar, ride on the beach, dive in the ocean. \n4. Use power-ups and transform your vehicle to gain an advantage over your opponents.\n5. Complete 32 Challenges in 8 Championships. Repeat.\n‘Having Fun' guaranteed by brainy programmers, GFX artists and brave testers. Remote Racers: an entertaining 3D race game. ",
-    "release_date_on_eshop": "2011-02-21",
-    "product_code": "TWL-N-KQRE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Racing"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B515245",
+  "uid": "50010000003562",
+  "name": "Remote Racers",
+  "formal_name": "Remote Racers",
+  "description": " ‘Having Fun with Remote Racers’ in five easy steps:\n1. Select one of 8 vehicles: Speeder, Monster, Candy, Dozer, Tank, Stunt, Mantis and Rocket.\n2. Race against AI or time on 15 great tracks.\n3. Jump in the garden, drift through the cellar, ride on the beach, dive in the ocean. \n4. Use power-ups and transform your vehicle to gain an advantage over your opponents.\n5. Complete 32 Challenges in 8 Championships. Repeat.\n‘Having Fun' guaranteed by brainy programmers, GFX artists and brave testers. Remote Racers: an entertaining 3D race game. ",
+  "release_date_on_eshop": "2011-02-21",
+  "product_code": "TWL-N-KQRE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Racing"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

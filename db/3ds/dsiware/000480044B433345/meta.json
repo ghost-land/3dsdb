@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B433345",
-    "uid": "50010000001661",
-    "name": "Panda Craze",
-    "formal_name": "Panda Craze",
-    "description": "Guide Tik-Ling the panda through caves, forests, mountains, and deserts on the way to her home, the bamboo forest. The concept is simple: collect all of the magical lanterns in each level to unlock a magic portal to the next level. Actually getting to the lanterns without getting stuck in the process, however, is not so simple! Dig, drill, and blast your way through ice and rock in this epic puzzle adventure!\n\n• 150 challenging puzzle-platform levels\n• New abilities and tools as you progress\n\n(Content available in English only.)",
-    "release_date_on_eshop": "2011-02-14",
-    "product_code": "TWL-N-KC3E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B433345",
+  "uid": "50010000001661",
+  "name": "Panda Craze",
+  "formal_name": "Panda Craze",
+  "description": "Guide Tik-Ling the panda through caves, forests, mountains, and deserts on the way to her home, the bamboo forest. The concept is simple: collect all of the magical lanterns in each level to unlock a magic portal to the next level. Actually getting to the lanterns without getting stuck in the process, however, is not so simple! Dig, drill, and blast your way through ice and rock in this epic puzzle adventure!\n\n• 150 challenging puzzle-platform levels\n• New abilities and tools as you progress\n\n(Content available in English only.)",
+  "release_date_on_eshop": "2011-02-14",
+  "product_code": "TWL-N-KC3E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

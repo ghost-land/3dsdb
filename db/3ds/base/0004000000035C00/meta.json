@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000035C00",
-    "uid": "50010000006915",
-    "name": "Balloon Pop® 2",
-    "formal_name": "Balloon Pop® 2",
-    "description": "Draw, pop and match balloons for explosive fun in this re-invented classic for the Nintendo 3DS! Use your power bar to draw star lines and start a balloon-popping chain reaction! Set up electrifying combos while outwitting obstacles to unlock items and power-ups! Help our Alien friend recover parts for his spaceship in his journey across Earth's wonderful seasons and holidays in Story mode! Explore a world of crafty brainteasers in Puzzle mode spanning over 200 levels. Challenge high scores specific to each stage in Endless mode or change it up with 4 unique games in Mini-games mode!",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ABPE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": []
+  "tid": "0004000000035C00",
+  "uid": "50010000006915",
+  "name": "Balloon Pop® 2",
+  "formal_name": "Balloon Pop® 2",
+  "description": "Draw, pop and match balloons for explosive fun in this re-invented classic for the Nintendo 3DS! Use your power bar to draw star lines and start a balloon-popping chain reaction! Set up electrifying combos while outwitting obstacles to unlock items and power-ups! Help our Alien friend recover parts for his spaceship in his journey across Earth's wonderful seasons and holidays in Story mode! Explore a world of crafty brainteasers in Puzzle mode spanning over 200 levels. Challenge high scores specific to each stage in Endless mode or change it up with 4 unique games in Mini-games mode!",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ABPE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": []
 }

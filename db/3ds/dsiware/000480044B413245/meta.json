@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B413245",
-    "uid": "50010000006842",
-    "name": "Art Academy™:\nSecond Semester",
-    "formal_name": "Art Academy™: Second Semester",
-    "description": "Art Academy is a portable art course that anyone can join to replace the lecture-like structure of art school, or the trial and error on canvas, with a Nintendo DSi system.\n\nArt Academy: Second Semester provides new and returning students with a larger set of tools and another set of in-depth lessons designed to encourage the creation of more complex artwork. By gaining an even deeper understanding of colors and techniques used by famous impressionist artists, you will be taking on more challenging themes that include moving objects and vast landscapes with distant objects. Combined with the openness of Free Paint mode, you’ll find plenty of opportunities to hone your skills and boost your confidence as an artist.",
-    "release_date_on_eshop": "2009-09-28",
-    "product_code": "TWL-N-KA2E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B413245",
+  "uid": "50010000006842",
+  "name": "Art Academy™:\nSecond Semester",
+  "formal_name": "Art Academy™: Second Semester",
+  "description": "Art Academy is a portable art course that anyone can join to replace the lecture-like structure of art school, or the trial and error on canvas, with a Nintendo DSi system.\n\nArt Academy: Second Semester provides new and returning students with a larger set of tools and another set of in-depth lessons designed to encourage the creation of more complex artwork. By gaining an even deeper understanding of colors and techniques used by famous impressionist artists, you will be taking on more challenging themes that include moving objects and vast landscapes with distant objects. Combined with the openness of Free Paint mode, you’ll find plenty of opportunities to hone your skills and boost your confidence as an artist.",
+  "release_date_on_eshop": "2009-09-28",
+  "product_code": "TWL-N-KA2E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

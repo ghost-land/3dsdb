@@ -1,31 +1,31 @@
 {
-    "tid": "00040000001D2400",
-    "uid": "50010000045955",
-    "name": "MH Gen U Save Data\nTransfer App",
-    "formal_name": "MH Gen U Save Data\n<br>Transfer App",
-    "description": "This application allows you to transfer your save data from the Nintendo 3DS title Monster Hunter Generations to the Nintendo Switch™ title Monster Hunter Generations Ultimate.\n<br>\n<br>Note: a copy of each of the aforementioned titles is required to perform save data transfer. For details on what data is transferred, please visit the official website.",
-    "release_date_on_eshop": "2018-08-23",
-    "product_code": "CTR-N-J2MP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D2400",
+  "uid": "50010000045955",
+  "name": "MH Gen U Save Data\nTransfer App",
+  "formal_name": "MH Gen U Save Data\n<br>Transfer App",
+  "description": "This application allows you to transfer your save data from the Nintendo 3DS title Monster Hunter Generations to the Nintendo Switch™ title Monster Hunter Generations Ultimate.\n<br>\n<br>Note: a copy of each of the aforementioned titles is required to perform save data transfer. For details on what data is transferred, please visit the official website.",
+  "release_date_on_eshop": "2018-08-23",
+  "product_code": "CTR-N-J2MP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

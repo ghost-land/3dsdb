@@ -1,34 +1,34 @@
 {
-    "tid": "00040000000F7100",
-    "uid": "50010000017113",
-    "name": "My Little Baby 3D",
-    "formal_name": "My Little Baby 3D",
-    "description": "Didn‘t you always want to care for a sweet little baby?\n<br>\n<br>Then this is your chance. You start with a description of the parents, as the colour of their skin, hair and eyes will determine the looks of the baby.\n<br>\n<br>Finally it is there – your own little darling. The baby smiles at you and you need to work hard to keep it content. To make sure that your baby develops and grows, you have to swaddle it, bathe and feed it, go shopping, cook meals and rock it to sleep. You can teach your baby to speak, to crawl and to walk. But above all you have to give it your love, because only then it will be happy.\n<br>\n<br>- Experience the cute 3D graphic with realistic animations.\n<br>\n<br>- Teach your baby to speak via the microphone.\n<br>\n<br>- Use the Nintendo 3DS™ gyroscope controls to feed your baby, rock it to sleep and more.\n<br>\n<br>- Enjoy funny minigames like cooking, winding, rocking the cradle, playing in the garden and more.",
-    "release_date_on_eshop": "2013-11-07",
-    "product_code": "CTR-P-AYYP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Arcade",
-        "Education",
-        "System Tool"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F7100",
+  "uid": "50010000017113",
+  "name": "My Little Baby 3D",
+  "formal_name": "My Little Baby 3D",
+  "description": "Didn‘t you always want to care for a sweet little baby?\n<br>\n<br>Then this is your chance. You start with a description of the parents, as the colour of their skin, hair and eyes will determine the looks of the baby.\n<br>\n<br>Finally it is there – your own little darling. The baby smiles at you and you need to work hard to keep it content. To make sure that your baby develops and grows, you have to swaddle it, bathe and feed it, go shopping, cook meals and rock it to sleep. You can teach your baby to speak, to crawl and to walk. But above all you have to give it your love, because only then it will be happy.\n<br>\n<br>- Experience the cute 3D graphic with realistic animations.\n<br>\n<br>- Teach your baby to speak via the microphone.\n<br>\n<br>- Use the Nintendo 3DS™ gyroscope controls to feed your baby, rock it to sleep and more.\n<br>\n<br>- Enjoy funny minigames like cooking, winding, rocking the cradle, playing in the garden and more.",
+  "release_date_on_eshop": "2013-11-07",
+  "product_code": "CTR-P-AYYP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Arcade",
+    "Education",
+    "System Tool"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

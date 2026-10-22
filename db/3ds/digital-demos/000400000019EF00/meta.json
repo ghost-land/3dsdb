@@ -1,37 +1,37 @@
 {
-    "tid": "000400000019EF00",
-    "uid": "50010000040297",
-    "name": "Monster Hunter™ Generations:\nDemo",
-    "formal_name": "Monster Hunter™ Generations:\n<br>Demo",
-    "description": "The hunt is about to begin in the world of Monster Hunter! Take up the role of a hunter, seeking out and vanquishing a variety of colossal creatures. Or, for the first time, choose to fight as a Felyne in Prowler mode and see the world through their little furry eyes!\n<br>\n<br>- Customise your unique hunting style, weapon type and choose from an array of devastating Hunter Arts for NEW powerful moves in battle.\n<br>\n<br>- Hunt alone offline or with your fellow hunters, whether as a Hunter or Prowler, through local and online co-operative multiplayer!\n<br>\n<br>Happy Hunting!\n<br>\n<br>Supports 4 Players online and 4 Players via Local Play",
-    "release_date_on_eshop": "2016-06-30",
-    "product_code": "CTR-N-BXVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Digital Demos",
-    "genres": [
-        "RPG",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network",
-        "Enhanced for New 3DS",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019EF00",
+  "uid": "50010000040297",
+  "name": "Monster Hunter™ Generations:\nDemo",
+  "formal_name": "Monster Hunter™ Generations:\n<br>Demo",
+  "description": "The hunt is about to begin in the world of Monster Hunter! Take up the role of a hunter, seeking out and vanquishing a variety of colossal creatures. Or, for the first time, choose to fight as a Felyne in Prowler mode and see the world through their little furry eyes!\n<br>\n<br>- Customise your unique hunting style, weapon type and choose from an array of devastating Hunter Arts for NEW powerful moves in battle.\n<br>\n<br>- Hunt alone offline or with your fellow hunters, whether as a Hunter or Prowler, through local and online co-operative multiplayer!\n<br>\n<br>Happy Hunting!\n<br>\n<br>Supports 4 Players online and 4 Players via Local Play",
+  "release_date_on_eshop": "2016-06-30",
+  "product_code": "CTR-N-BXVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Digital Demos",
+  "genres": [
+    "RPG",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network",
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

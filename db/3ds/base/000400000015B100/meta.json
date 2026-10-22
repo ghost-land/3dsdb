@@ -1,37 +1,37 @@
 {
-    "tid": "000400000015B100",
-    "uid": "50010000030596",
-    "name": "IronFall: Invasion",
-    "formal_name": "IronFall: Invasion",
-    "description": "IronFall: Invasion is a thrilling\nthird-person shooter. Equipped with\nan arsenal of destructive weapons,\ntake cover and repel an invasion of\nAlien Robots.\n<br/><br/>\nIronFall: Invasion is divided into two\nseparate modes, which can be tried\nfor free and purchased separately!\n<br/><br/>\nThe \"Campaign\" mode is a\nsingle-player adventure, which will\nhave you travel from various locations\nover 11 levels.\n<br/><br/>\nThe \"Multiplayer\" mode allows up to\n6 players to join locally or online for\ncompetitive battles in 6 different\narenas.",
-    "release_date_on_eshop": "2015-02-13",
-    "product_code": "CTR-N-KFLP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Action",
-        "First-Person Shooter",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015B100",
+  "uid": "50010000030596",
+  "name": "IronFall: Invasion",
+  "formal_name": "IronFall: Invasion",
+  "description": "IronFall: Invasion is a thrilling\nthird-person shooter. Equipped with\nan arsenal of destructive weapons,\ntake cover and repel an invasion of\nAlien Robots.\n<br/><br/>\nIronFall: Invasion is divided into two\nseparate modes, which can be tried\nfor free and purchased separately!\n<br/><br/>\nThe \"Campaign\" mode is a\nsingle-player adventure, which will\nhave you travel from various locations\nover 11 levels.\n<br/><br/>\nThe \"Multiplayer\" mode allows up to\n6 players to join locally or online for\ncompetitive battles in 6 different\narenas.",
+  "release_date_on_eshop": "2015-02-13",
+  "product_code": "CTR-N-KFLP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Action",
+    "First-Person Shooter",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

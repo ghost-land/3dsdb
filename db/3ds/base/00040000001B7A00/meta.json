@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001B7A00",
-    "uid": "50010000043199",
-    "name": "Symphony of Eternity",
-    "formal_name": "Symphony of Eternity",
-    "description": "Find the legendary weapon in a fantasy RPG full of dramas with monsters, elves, dwarves and golems!\n<br>\n<br>Kreist is on a quest with his golem friend Dauturu to find Regratlute, which is said to be able to grant any wish. On their travels, they come across a young lady being attacked by demons, and rescue her. What fate awaits Kreist, Dauturu, and the mysterious young lady?\n<br>\n<br>This is a retro-style fantasy RPG set in royal times, where players can master a range of styles, and choose fighting combinations in order to defeat enemies in turn-based battles.\n<br>The expansive field of play, the moving symbols during encounters with the enemy, the tablet system for learning new abilities- there are so many must-see elements!\n<br>\n<br>Live a grand adventure in search of the legendary weapon!",
-    "release_date_on_eshop": "2017-10-05",
-    "product_code": "CTR-N-KECP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B7A00",
+  "uid": "50010000043199",
+  "name": "Symphony of Eternity",
+  "formal_name": "Symphony of Eternity",
+  "description": "Find the legendary weapon in a fantasy RPG full of dramas with monsters, elves, dwarves and golems!\n<br>\n<br>Kreist is on a quest with his golem friend Dauturu to find Regratlute, which is said to be able to grant any wish. On their travels, they come across a young lady being attacked by demons, and rescue her. What fate awaits Kreist, Dauturu, and the mysterious young lady?\n<br>\n<br>This is a retro-style fantasy RPG set in royal times, where players can master a range of styles, and choose fighting combinations in order to defeat enemies in turn-based battles.\n<br>The expansive field of play, the moving symbols during encounters with the enemy, the tablet system for learning new abilities- there are so many must-see elements!\n<br>\n<br>Live a grand adventure in search of the legendary weapon!",
+  "release_date_on_eshop": "2017-10-05",
+  "product_code": "CTR-N-KECP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

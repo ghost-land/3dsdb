@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E000E5C00",
-    "uid": "50010000015253",
-    "name": "Shin Megami Tensei® IV\nUpdate",
-    "formal_name": "Shin Megami Tensei® IV\nUpdate",
-    "description": "Download an update to Shin Megami Tensei® IV’s StreetPass feature.",
-    "release_date_on_eshop": "2013-07-16",
-    "product_code": "CTR-U-AMXE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "17"
-    },
-    "version": "v1.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000E000E5C00",
+  "uid": "50010000015253",
+  "name": "Shin Megami Tensei® IV\nUpdate",
+  "formal_name": "Shin Megami Tensei® IV\nUpdate",
+  "description": "Download an update to Shin Megami Tensei® IV’s StreetPass feature.",
+  "release_date_on_eshop": "2013-07-16",
+  "product_code": "CTR-U-AMXE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "17"
+  },
+  "version": "v1.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

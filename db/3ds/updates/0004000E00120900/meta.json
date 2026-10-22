@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E00120900",
-    "uid": "50010000027215",
-    "name": "更新データ Ver. 2.0.0 禁忌のマグナ",
-    "formal_name": "更新データ Ver. 2.0.0 禁忌のマグナ",
-    "description": "ニンテンドー3DSソフト『禁忌のマグナ』の更新データです。\n<br>ゲームがより遊びやすくなる「早送り機能」「敵の強さの変更」「ギャラリー」がお楽しみいただけます。\n<br>その他、一部不具合の修正と各種調整をいたしました。",
-    "release_date_on_eshop": "2014-10-29",
-    "product_code": "CTR-U-BKKJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.2.0",
-    "disclaimer": "ニンテンドー3DSソフト『禁忌のマグナ』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E00120900",
+  "uid": "50010000027215",
+  "name": "更新データ Ver. 2.0.0 禁忌のマグナ",
+  "formal_name": "更新データ Ver. 2.0.0 禁忌のマグナ",
+  "description": "ニンテンドー3DSソフト『禁忌のマグナ』の更新データです。\n<br>ゲームがより遊びやすくなる「早送り機能」「敵の強さの変更」「ギャラリー」がお楽しみいただけます。\n<br>その他、一部不具合の修正と各種調整をいたしました。",
+  "release_date_on_eshop": "2014-10-29",
+  "product_code": "CTR-U-BKKJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.2.0",
+  "disclaimer": "ニンテンドー3DSソフト『禁忌のマグナ』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

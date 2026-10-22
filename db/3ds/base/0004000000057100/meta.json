@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000057100",
-    "uid": "50010000009769",
-    "name": "Shifting World",
-    "formal_name": "Shifting World",
-    "description": "Shifting World is first of the SHIFT series to adapt the famous puzzle gameplay to full 3D.\n<br><br>\nShift the world, from black to white and white to black. Use that to your advantage to overcome the game’s obstacles and find your way out of the room.\n<br><br>\nA new layer of puzzles: switch from 3D to 2D and from 2D to 3D with a button. Traverse various puzzles that require you to phase in and out of 2D and 3D to complete!\n<br><br>\nOver 60 levels total in Adventure Mode and Time Attack Mode! Conquer them all and become a Shifting World master!",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-N-ASZE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000057100",
+  "uid": "50010000009769",
+  "name": "Shifting World",
+  "formal_name": "Shifting World",
+  "description": "Shifting World is first of the SHIFT series to adapt the famous puzzle gameplay to full 3D.\n<br><br>\nShift the world, from black to white and white to black. Use that to your advantage to overcome the game’s obstacles and find your way out of the room.\n<br><br>\nA new layer of puzzles: switch from 3D to 2D and from 2D to 3D with a button. Traverse various puzzles that require you to phase in and out of 2D and 3D to complete!\n<br><br>\nOver 60 levels total in Adventure Mode and Time Attack Mode! Conquer them all and become a Shifting World master!",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-N-ASZE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

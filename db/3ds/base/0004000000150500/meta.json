@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000150500",
-    "uid": "50010000031715",
-    "name": "Monster Combine TD",
-    "formal_name": "Monster Combine TD",
-    "description": "Become a summoner to protect a prestigious school of wizardry and witchcraft!\nWith the help of your new companion Katrina, defend the school’s gates by summoning weird-looking creatures coming from the old tales and mythologies.\n<br><br>\nFresh and intuitive Drag & Drop gameplay, move your monsters as if you were moving pieces on a board game.<br>\nUse the elemental cards to make your monsters evolve or combine two of them to heal your most valuable one!<br>\nSummoning cards being randomly dealt, you’ll have to quickly react and renew your strategy all the time!\n<br><br>\nKatrina is helping you by casting some powerful spells!<br>\nStory featuring colorful characters and multiple choice dialogue.<br>\nSimple and addictive, Monster Combine TD is a game for everyone, from Tower Defense lovers to casual gamers.\n<br><br>\n40 levels with random enemy spawn.<br>\n35 combinations available.<br>\n9 types of cards and 8 magical spells.<br>\nUse experience points to increase your abilities.<br>\nMonster’s notes to unlock.<br>\nUse of QR Codes to get new levels!",
-    "release_date_on_eshop": "2015-03-12",
-    "product_code": "CTR-N-JCME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Adventure",
-        "Board Game",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.4.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000150500",
+  "uid": "50010000031715",
+  "name": "Monster Combine TD",
+  "formal_name": "Monster Combine TD",
+  "description": "Become a summoner to protect a prestigious school of wizardry and witchcraft!\nWith the help of your new companion Katrina, defend the school’s gates by summoning weird-looking creatures coming from the old tales and mythologies.\n<br><br>\nFresh and intuitive Drag & Drop gameplay, move your monsters as if you were moving pieces on a board game.<br>\nUse the elemental cards to make your monsters evolve or combine two of them to heal your most valuable one!<br>\nSummoning cards being randomly dealt, you’ll have to quickly react and renew your strategy all the time!\n<br><br>\nKatrina is helping you by casting some powerful spells!<br>\nStory featuring colorful characters and multiple choice dialogue.<br>\nSimple and addictive, Monster Combine TD is a game for everyone, from Tower Defense lovers to casual gamers.\n<br><br>\n40 levels with random enemy spawn.<br>\n35 combinations available.<br>\n9 types of cards and 8 magical spells.<br>\nUse experience points to increase your abilities.<br>\nMonster’s notes to unlock.<br>\nUse of QR Codes to get new levels!",
+  "release_date_on_eshop": "2015-03-12",
+  "product_code": "CTR-N-JCME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Adventure",
+    "Board Game",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.4.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

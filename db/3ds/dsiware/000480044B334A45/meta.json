@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B334A45",
-    "uid": "50010000009221",
-    "name": "iSpot Japan",
-    "formal_name": "iSpot Japan",
-    "description": "iSpot Japan takes you on a journey across the land of the rising sun, explaining facts and curiosities about Japanese culture, while you play the classic “Spot the Difference” game in the country's most beautiful locations. Find three, four, or five differences in each picture, depending on the selected difficulty level, and unlock them in the gallery to learn about local cuisine, historical characters or important monuments, together with their location in the map. Ranging from southern Kyushu to northern Hokkaido, you'll get to know all of Japan through exclusive beautiful pictures carefully tricked to create visually challenging differences.\n\nFeatures:\n*Exclusive beautiful pictures of Japan.\n*Detailed explanation and map location of every picture.\n*Competitive VS multiplayer and gallery mode.\n*Three difficulty levels with three, four, or five differences per location.\n*A total of 150 pictures illustrating the 4 main islands of Japan.",
-    "release_date_on_eshop": "2012-02-16",
-    "product_code": "TWL-N-K3JE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Education",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.5.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B334A45",
+  "uid": "50010000009221",
+  "name": "iSpot Japan",
+  "formal_name": "iSpot Japan",
+  "description": "iSpot Japan takes you on a journey across the land of the rising sun, explaining facts and curiosities about Japanese culture, while you play the classic “Spot the Difference” game in the country's most beautiful locations. Find three, four, or five differences in each picture, depending on the selected difficulty level, and unlock them in the gallery to learn about local cuisine, historical characters or important monuments, together with their location in the map. Ranging from southern Kyushu to northern Hokkaido, you'll get to know all of Japan through exclusive beautiful pictures carefully tricked to create visually challenging differences.\n\nFeatures:\n*Exclusive beautiful pictures of Japan.\n*Detailed explanation and map location of every picture.\n*Competitive VS multiplayer and gallery mode.\n*Three difficulty levels with three, four, or five differences per location.\n*A total of 150 pictures illustrating the 4 main islands of Japan.",
+  "release_date_on_eshop": "2012-02-16",
+  "product_code": "TWL-N-K3JE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Education",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.5.0",
+  "disclaimer": null,
+  "descriptors": []
 }

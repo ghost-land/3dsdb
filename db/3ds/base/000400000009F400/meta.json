@@ -1,28 +1,28 @@
 {
-    "tid": "000400000009F400",
-    "uid": "50010000011306",
-    "name": "Johnny Kung Fu™",
-    "formal_name": "Johnny Kung Fu™",
-    "description": "Johnny Kung Fu is an old school\naction game that mixes the old with\nthe new! Johnny Kung Fu puts you\ninto the Kung Fu garb of a seemingly\neveryday man, Johnny. The local\norganised crime group, The Mr Wang\nGang, led by the mysterious man\nknown as Mr Wang, seems to have a\nbone to pick with Johnny and has\ncaptured his girlfriend Paula. Knowing\nthat an ambush awaits him, Johnny\nchases the kidnappers into one of Mr\nWang’s hideout towers regardless.\nWill Johnny be able to save Paula or\nwill the Mr Wang Gang prevail?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JKFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009F400",
+  "uid": "50010000011306",
+  "name": "Johnny Kung Fu™",
+  "formal_name": "Johnny Kung Fu™",
+  "description": "Johnny Kung Fu is an old school\naction game that mixes the old with\nthe new! Johnny Kung Fu puts you\ninto the Kung Fu garb of a seemingly\neveryday man, Johnny. The local\norganised crime group, The Mr Wang\nGang, led by the mysterious man\nknown as Mr Wang, seems to have a\nbone to pick with Johnny and has\ncaptured his girlfriend Paula. Knowing\nthat an ambush awaits him, Johnny\nchases the kidnappers into one of Mr\nWang’s hideout towers regardless.\nWill Johnny be able to save Paula or\nwill the Mr Wang Gang prevail?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JKFP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

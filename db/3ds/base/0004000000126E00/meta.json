@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000126E00",
-    "uid": "50010000026755",
-    "name": "Pyramids 2",
-    "formal_name": "Pyramids 2",
-    "description": "The Pyramid master is back! Enjoy Gaming gives you 54 new levels and 3 new pyramid worlds. New improved and varied gameplay, new features and a built in Editor to create your own levels to play and share with other players. Masses of gameplay, masses of fun!\n<br>\n<br>The creation of new styles of levels with more varied contents has made Pyramids 2 a far more testing game that has more variety than the original very successful Pyramids\n<br>\n<br>NEW GAME TYPE\n<br>Darkness levels with Lamps.\n<br>\n<br>NEW BONUSES\n<br>End level time & Elixir to drink.\n<br>\n<br>NEW ENEMIES\n<br>Apes, Pygmies & Ghosts.\n<br>\n<br>NEW MECHANISMS\n<br>Traps, Heavy blocks, Peak switches, Trap switches, Blocks that can only be destroyed by Flames, Lamps & Black Holes!\n<br>\n<br>EDITOR\n<br>Create and fine tune your own levels,\n<br>Export your levels trough QR Code images,\n<br>Import new levels trough QR Code images,\n<br>Save up to 27 custom levels",
-    "release_date_on_eshop": "2014-10-16",
-    "product_code": "CTR-N-JYHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000126E00",
+  "uid": "50010000026755",
+  "name": "Pyramids 2",
+  "formal_name": "Pyramids 2",
+  "description": "The Pyramid master is back! Enjoy Gaming gives you 54 new levels and 3 new pyramid worlds. New improved and varied gameplay, new features and a built in Editor to create your own levels to play and share with other players. Masses of gameplay, masses of fun!\n<br>\n<br>The creation of new styles of levels with more varied contents has made Pyramids 2 a far more testing game that has more variety than the original very successful Pyramids\n<br>\n<br>NEW GAME TYPE\n<br>Darkness levels with Lamps.\n<br>\n<br>NEW BONUSES\n<br>End level time & Elixir to drink.\n<br>\n<br>NEW ENEMIES\n<br>Apes, Pygmies & Ghosts.\n<br>\n<br>NEW MECHANISMS\n<br>Traps, Heavy blocks, Peak switches, Trap switches, Blocks that can only be destroyed by Flames, Lamps & Black Holes!\n<br>\n<br>EDITOR\n<br>Create and fine tune your own levels,\n<br>Export your levels trough QR Code images,\n<br>Import new levels trough QR Code images,\n<br>Save up to 27 custom levels",
+  "release_date_on_eshop": "2014-10-16",
+  "product_code": "CTR-N-JYHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

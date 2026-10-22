@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000120500",
-    "uid": "50010000026535",
-    "name": "新･世界樹の迷宮2\nファフニールの騎士",
-    "formal_name": "新･世界樹の迷宮2\nファフニールの騎士",
-    "description": "タッチペンで地図を描いてダンジョンを攻略する独自の遊びと、歯ごたえのあるバトルが楽しめる3DダンジョンRPG『世界樹の迷宮』シリーズ。\n<br>その魅力をさらに磨き、新たに描かれた個性的なキャラクターたちが冒険を繰り広げる「新」シリーズ第2弾。\n<br>多数の新システムを搭載し、より快適かつ奥深い迷宮探索に挑戦!",
-    "release_date_on_eshop": "2014-11-27",
-    "product_code": "CTR-N-BM9J",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "すれちがい通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000120500",
+  "uid": "50010000026535",
+  "name": "新･世界樹の迷宮2\nファフニールの騎士",
+  "formal_name": "新･世界樹の迷宮2\nファフニールの騎士",
+  "description": "タッチペンで地図を描いてダンジョンを攻略する独自の遊びと、歯ごたえのあるバトルが楽しめる3DダンジョンRPG『世界樹の迷宮』シリーズ。\n<br>その魅力をさらに磨き、新たに描かれた個性的なキャラクターたちが冒険を繰り広げる「新」シリーズ第2弾。\n<br>多数の新システムを搭載し、より快適かつ奥深い迷宮探索に挑戦!",
+  "release_date_on_eshop": "2014-11-27",
+  "product_code": "CTR-N-BM9J",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "すれちがい通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

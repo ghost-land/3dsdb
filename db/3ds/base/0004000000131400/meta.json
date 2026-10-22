@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000131400",
-    "uid": "50010000039175",
-    "name": "Slice It!",
-    "formal_name": "Slice It!",
-    "description": "Brain-tickling geometric puzzles are the name of the game with Slice It! Use the stylus to draw straight lines through a shape to make smaller identical shapes within a limited number of tries. Easy to learn but hard to master, become one with your stylus to cut those extra tricky shapes down to size! Variety is the slice of life with hundreds of different stages to slice through! Special themes, music and other unlockables keep you coming back for more. Japanese styled theme will be available as an original bonus for the Nintendo 3DS version! Developed by Arc System Works and COM2US",
-    "release_date_on_eshop": "2016-01-14",
-    "product_code": "CTR-N-JL2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000131400",
+  "uid": "50010000039175",
+  "name": "Slice It!",
+  "formal_name": "Slice It!",
+  "description": "Brain-tickling geometric puzzles are the name of the game with Slice It! Use the stylus to draw straight lines through a shape to make smaller identical shapes within a limited number of tries. Easy to learn but hard to master, become one with your stylus to cut those extra tricky shapes down to size! Variety is the slice of life with hundreds of different stages to slice through! Special themes, music and other unlockables keep you coming back for more. Japanese styled theme will be available as an original bonus for the Nintendo 3DS version! Developed by Arc System Works and COM2US",
+  "release_date_on_eshop": "2016-01-14",
+  "product_code": "CTR-N-JL2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

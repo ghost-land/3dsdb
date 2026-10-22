@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000102900",
-    "uid": "50010000017553",
-    "name": "PICROSS e3",
-    "formal_name": "PICROSS e3",
-    "description": "The third Picross installment, Picross\ne3, has arrived! It includes an all-new\nmode called \"Mega Picross\" that's a\nmust-see for fans!\n<br/><br/>\n\"Picross\" is a \"Picture Crossword\nPuzzle Game\" in which you use\nnumbers as hints to complete\nillustrations. The rules are simple and\neasy to understand. Anyone can do it!\n<br/><br/>\nBeginners and intermediate players\nalike will be able to enjoy these 150\nall-new puzzles!\n<br/><br/>\nThe new Picross includes an all-new\nmode, \"Mega Picross,\" which has\n\"Mega Numbers,\" numbers which span\ntwo rows.\n<br/><br/>\nIt can be difficult to determine where\nto fill Mega Numbers, so a different\nkind of logic from the normal Picross\nmay be necessary.",
-    "release_date_on_eshop": "2013-11-14",
-    "product_code": "CTR-N-JETP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000102900",
+  "uid": "50010000017553",
+  "name": "PICROSS e3",
+  "formal_name": "PICROSS e3",
+  "description": "The third Picross installment, Picross\ne3, has arrived! It includes an all-new\nmode called \"Mega Picross\" that's a\nmust-see for fans!\n<br/><br/>\n\"Picross\" is a \"Picture Crossword\nPuzzle Game\" in which you use\nnumbers as hints to complete\nillustrations. The rules are simple and\neasy to understand. Anyone can do it!\n<br/><br/>\nBeginners and intermediate players\nalike will be able to enjoy these 150\nall-new puzzles!\n<br/><br/>\nThe new Picross includes an all-new\nmode, \"Mega Picross,\" which has\n\"Mega Numbers,\" numbers which span\ntwo rows.\n<br/><br/>\nIt can be difficult to determine where\nto fill Mega Numbers, so a different\nkind of logic from the normal Picross\nmay be necessary.",
+  "release_date_on_eshop": "2013-11-14",
+  "product_code": "CTR-N-JETP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000132F00",
-    "uid": "50010000027438",
-    "name": "Safari Quest",
-    "formal_name": "Safari Quest",
-    "description": "Embark on a quest to find the white lion in this exciting puzzle safari! In a land known as Africania, you’ll encounter several challenges as you take photos of the surrounding wildlife. With 10 lush landscapes and a total of 10 puzzle-filled levels, this Match-3 adventure will keep you on your toes!",
-    "release_date_on_eshop": "2014-11-11",
-    "product_code": "CTR-N-BSQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000132F00",
+  "uid": "50010000027438",
+  "name": "Safari Quest",
+  "formal_name": "Safari Quest",
+  "description": "Embark on a quest to find the white lion in this exciting puzzle safari! In a land known as Africania, you’ll encounter several challenges as you take photos of the surrounding wildlife. With 10 lush landscapes and a total of 10 puzzle-filled levels, this Match-3 adventure will keep you on your toes!",
+  "release_date_on_eshop": "2014-11-11",
+  "product_code": "CTR-N-BSQE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

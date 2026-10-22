@@ -1,33 +1,33 @@
 {
-    "tid": "000400000009D300",
-    "uid": "50010000010646",
-    "name": "Riding Stables 3D",
-    "formal_name": "Riding Stables 3D",
-    "description": "An exciting 3D horse adventure awaits you!\n<br>\n<br>Which family will win the coveted pasture? Immerse yourself in this gripping tale of true friendship and sinister plots. Train the ranch horses, take good care of them, and prepare for the final deciding tournament.\n<br>\n<br>• Exciting mini games\n<br>\n<br>• Appealing story with 30 different quests.\n<br>\n<br>• StreetPass™: compare results with friends and other players.\n<br>\n<br>• Several mini games with first person view.\n<br>\n<br>• Augmented Reality feature: The horse magically appears in front of you.",
-    "release_date_on_eshop": "2013-04-25",
-    "product_code": "CTR-P-AMUP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009D300",
+  "uid": "50010000010646",
+  "name": "Riding Stables 3D",
+  "formal_name": "Riding Stables 3D",
+  "description": "An exciting 3D horse adventure awaits you!\n<br>\n<br>Which family will win the coveted pasture? Immerse yourself in this gripping tale of true friendship and sinister plots. Train the ranch horses, take good care of them, and prepare for the final deciding tournament.\n<br>\n<br>• Exciting mini games\n<br>\n<br>• Appealing story with 30 different quests.\n<br>\n<br>• StreetPass™: compare results with friends and other players.\n<br>\n<br>• Several mini games with first person view.\n<br>\n<br>• Augmented Reality feature: The horse magically appears in front of you.",
+  "release_date_on_eshop": "2013-04-25",
+  "product_code": "CTR-P-AMUP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

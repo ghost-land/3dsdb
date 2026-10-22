@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B374645",
-    "uid": "50010000022295",
-    "name": "Jewel Match",
-    "formal_name": "Jewel Match",
-    "description": "A classical Match 3 game!\n<br><br>\nJewel Match challenges you with 150 smart levels! Create rows of three identical diamonds quickly and cunningly to burst them on both screens. All gold tiles disappear until the level has been won.  \n<br><br>\nPowerfully break out extras, use the hammer for difficult situations to smash the diamonds or create a magic storm by puffing into the microphone!\n<br><br>\n150 challenging levels across both screens\nThree game modes: relaxed, play out and two players\nGreat extras with microphone support",
-    "release_date_on_eshop": "2014-05-08",
-    "product_code": "TWL-N-K7FE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B374645",
+  "uid": "50010000022295",
+  "name": "Jewel Match",
+  "formal_name": "Jewel Match",
+  "description": "A classical Match 3 game!\n<br><br>\nJewel Match challenges you with 150 smart levels! Create rows of three identical diamonds quickly and cunningly to burst them on both screens. All gold tiles disappear until the level has been won.  \n<br><br>\nPowerfully break out extras, use the hammer for difficult situations to smash the diamonds or create a magic storm by puffing into the microphone!\n<br><br>\n150 challenging levels across both screens\nThree game modes: relaxed, play out and two players\nGreat extras with microphone support",
+  "release_date_on_eshop": "2014-05-08",
+  "product_code": "TWL-N-K7FE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

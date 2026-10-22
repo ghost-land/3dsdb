@@ -1,32 +1,32 @@
 {
-    "tid": "000400000017CC00",
-    "uid": "50010000042444",
-    "name": "Tank Troopers™",
-    "formal_name": "Tank Troopers™",
-    "description": "ATTENTION! Calling all troopers for 6-player* tank warfare! Choose a tank, pick troopers, and battle your friends via local wireless. Each trooper has a special ability, from electric shocks to healing. Deploy them tactically to win 30+ custom tanks with unique stats. Battle with bombs, on teams, or in a free-for-all—but always fight! Fight! FIGHT! The single-player mode contains 30 stages, so you’ll have to devise a multitude of strategies and maneuvers to conquer them all. Not to mention, each stage will issue you a new challenge, such as defeating an enormous tank that makes yours look like a chew toy. You can take on these challenges aboard your own customized tank or use a provided one. Either way, your tank will have a specific crew capacity and stats. As you battle, you’ll find power-ups, like camouflage and Stamina Meat, while earning coins that you can spend to get more troopers, tanks, and paint jobs. Make sure this fight is one your friends and enemies won’t soon forget!",
-    "release_date_on_eshop": "2017-02-16",
-    "product_code": "CTR-N-KTWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Additional games and systems required for multiplayer mode. Sold separately.<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br><br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000017CC00",
+  "uid": "50010000042444",
+  "name": "Tank Troopers™",
+  "formal_name": "Tank Troopers™",
+  "description": "ATTENTION! Calling all troopers for 6-player* tank warfare! Choose a tank, pick troopers, and battle your friends via local wireless. Each trooper has a special ability, from electric shocks to healing. Deploy them tactically to win 30+ custom tanks with unique stats. Battle with bombs, on teams, or in a free-for-all—but always fight! Fight! FIGHT! The single-player mode contains 30 stages, so you’ll have to devise a multitude of strategies and maneuvers to conquer them all. Not to mention, each stage will issue you a new challenge, such as defeating an enormous tank that makes yours look like a chew toy. You can take on these challenges aboard your own customized tank or use a provided one. Either way, your tank will have a specific crew capacity and stats. As you battle, you’ll find power-ups, like camouflage and Stamina Meat, while earning coins that you can spend to get more troopers, tanks, and paint jobs. Make sure this fight is one your friends and enemies won’t soon forget!",
+  "release_date_on_eshop": "2017-02-16",
+  "product_code": "CTR-N-KTWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Additional games and systems required for multiplayer mode. Sold separately.<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br><br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

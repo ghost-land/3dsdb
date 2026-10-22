@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000192F00",
-    "uid": "50010000041278",
-    "name": "Jump Trials Supreme",
-    "formal_name": "Jump Trials Supreme",
-    "description": "nintendolife.com: „Good - 7/10“ “…this is a fun and challenging eShop release that distills platforming down to its essence and serves it up in ten-second shots, with some commendable online extras on the side.”\n<br>\n<br>Can you reach the goal within 10 seconds?\n<br>\n<br>Every split-second counts as you race across obstacle courses, leaping from platform to platform, in a desperate race to reach the goal in 10 seconds. Dart across moving platforms, seesaw lifts, spring pads and conveyor belts to cross the stage as quickly as possible, but be wary of spikes and electric shocks! Even one touch is fatal!\n<br>\n<br>\"Supreme\" is the third in the series and packed with new stages, features and game modes! It looks and sounds great too with all new animations, lush backgrounds and improved sound!\n<br>\n<br>New features for Jump Trials Supreme:\n<br>\n<br>- Double jump with the new Air Jump to leap further!\n<br>- New items including air fans and jump recovery points!\n<br>- Try the new Course Attack Time mode! With 300 seconds on the clock, see how quickly you can complete a course of 10 stages.\n<br>- Compare your best times against others with Internet Ranking!\n<br>- Receive new Master grade stages via SpotPass!\n<br>- More than 100 new stages to test your resolve!",
-    "release_date_on_eshop": "2016-08-18",
-    "product_code": "CTR-N-JU2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Platformer",
-        "Lifestyle"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000192F00",
+  "uid": "50010000041278",
+  "name": "Jump Trials Supreme",
+  "formal_name": "Jump Trials Supreme",
+  "description": "nintendolife.com: „Good - 7/10“ “…this is a fun and challenging eShop release that distills platforming down to its essence and serves it up in ten-second shots, with some commendable online extras on the side.”\n<br>\n<br>Can you reach the goal within 10 seconds?\n<br>\n<br>Every split-second counts as you race across obstacle courses, leaping from platform to platform, in a desperate race to reach the goal in 10 seconds. Dart across moving platforms, seesaw lifts, spring pads and conveyor belts to cross the stage as quickly as possible, but be wary of spikes and electric shocks! Even one touch is fatal!\n<br>\n<br>\"Supreme\" is the third in the series and packed with new stages, features and game modes! It looks and sounds great too with all new animations, lush backgrounds and improved sound!\n<br>\n<br>New features for Jump Trials Supreme:\n<br>\n<br>- Double jump with the new Air Jump to leap further!\n<br>- New items including air fans and jump recovery points!\n<br>- Try the new Course Attack Time mode! With 300 seconds on the clock, see how quickly you can complete a course of 10 stages.\n<br>- Compare your best times against others with Internet Ranking!\n<br>- Receive new Master grade stages via SpotPass!\n<br>- More than 100 new stages to test your resolve!",
+  "release_date_on_eshop": "2016-08-18",
+  "product_code": "CTR-N-JU2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Platformer",
+    "Lifestyle"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

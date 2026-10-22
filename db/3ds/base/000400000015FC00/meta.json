@@ -1,36 +1,36 @@
 {
-    "tid": "000400000015FC00",
-    "uid": "50010000038395",
-    "name": "Story of Seasons",
-    "formal_name": "Story of Seasons",
-    "description": "Feeling a bit bored with the monotony of life, you come across an intriguing offer on a flyer: Oak Tree Town is seeking fresh young faces to become farmers and help to bring new energy to local trade! It’s a small town, but it promises a life filled with rewarding work and valuable new relationships.\n\nArriving at the town, you begin to learn farming life from the kind and welcoming townsfolk, picking up new skills every day. Growing crops, caring for livestock, developing your farm, shipping crops to other countries, and even looking after pets all provide exciting new experiences a million miles apart from anything before!\n\nCan you make it as a farmer, and give something back to this new town that has warmly welcomed you into its community? What kinds of exciting experiences and fun lessons await?",
-    "release_date_on_eshop": "2015-12-31",
-    "product_code": "CTR-P-BTSP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Simulation"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015FC00",
+  "uid": "50010000038395",
+  "name": "Story of Seasons",
+  "formal_name": "Story of Seasons",
+  "description": "Feeling a bit bored with the monotony of life, you come across an intriguing offer on a flyer: Oak Tree Town is seeking fresh young faces to become farmers and help to bring new energy to local trade! It’s a small town, but it promises a life filled with rewarding work and valuable new relationships.\n\nArriving at the town, you begin to learn farming life from the kind and welcoming townsfolk, picking up new skills every day. Growing crops, caring for livestock, developing your farm, shipping crops to other countries, and even looking after pets all provide exciting new experiences a million miles apart from anything before!\n\nCan you make it as a farmer, and give something back to this new town that has warmly welcomed you into its community? What kinds of exciting experiences and fun lessons await?",
+  "release_date_on_eshop": "2015-12-31",
+  "product_code": "CTR-P-BTSP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Simulation"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

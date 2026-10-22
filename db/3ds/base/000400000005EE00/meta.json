@@ -1,37 +1,37 @@
 {
-    "tid": "000400000005EE00",
-    "uid": "50010000008009",
-    "name": "Resident Evil™ Revelations",
-    "formal_name": "Resident Evil™ Revelations",
-    "description": "Resident Evil™ Revelations for\n<br>Nintendo 3DS brings a straight shot\n<br>of spine-chilling terror to the\n<br>handheld console scene, one that\n<br>fans of the iconic survival horror\n<br>series won’t want to miss!<br>\n<br>\n<br>Set in the time period between\n<br>Resident Evil 4™ and\n<br>Resident Evil 5™, this title features\n<br>a brand new storyline for\n<br>series favourites Jill Valentine and\n<br>Chris Redfield, introduces new\n<br>characters Parker Luciani and Jessica\n<br>Sherawat, and offers entirely original\n<br>environments for players to\n<br>cautiously explore.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-P-ABRP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005EE00",
+  "uid": "50010000008009",
+  "name": "Resident Evil™ Revelations",
+  "formal_name": "Resident Evil™ Revelations",
+  "description": "Resident Evil™ Revelations for\n<br>Nintendo 3DS brings a straight shot\n<br>of spine-chilling terror to the\n<br>handheld console scene, one that\n<br>fans of the iconic survival horror\n<br>series won’t want to miss!<br>\n<br>\n<br>Set in the time period between\n<br>Resident Evil 4™ and\n<br>Resident Evil 5™, this title features\n<br>a brand new storyline for\n<br>series favourites Jill Valentine and\n<br>Chris Redfield, introduces new\n<br>characters Parker Luciani and Jessica\n<br>Sherawat, and offers entirely original\n<br>environments for players to\n<br>cautiously explore.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-P-ABRP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

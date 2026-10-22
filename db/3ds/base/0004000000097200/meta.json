@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000097200",
-    "uid": "50010000012208",
-    "name": "2 Fast 4 Gnomz",
-    "formal_name": "2 Fast 4 Gnomz",
-    "description": "Join Bumb, Berzerk, Speedster and Uncle Time as they run, fly, bounce, glide and break their way through the magical lands of Gnomia to reach their mysterious destiny. You can help them save the kingdom, find a princess and collect hundreds of precious lost socks.\n<br><br>\nGame Features:<br>\njumping, smashing, gliding, flying, falling, speeding <br>\nsimple sit-and-play gameplay<br>\nchallenging try-and-die difficulty <br>\n45 levels in magical land of Gnomia<br>\n4 switchable characters<br>\n<br><br>\nand also:<br>\ngliding pants<br>\nhorned hats<br>\nactual time distortion<br>\noverabundance of socks<br>",
-    "release_date_on_eshop": "2012-11-01",
-    "product_code": "CTR-N-JT4E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Platformer",
-        "Other",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000097200",
+  "uid": "50010000012208",
+  "name": "2 Fast 4 Gnomz",
+  "formal_name": "2 Fast 4 Gnomz",
+  "description": "Join Bumb, Berzerk, Speedster and Uncle Time as they run, fly, bounce, glide and break their way through the magical lands of Gnomia to reach their mysterious destiny. You can help them save the kingdom, find a princess and collect hundreds of precious lost socks.\n<br><br>\nGame Features:<br>\njumping, smashing, gliding, flying, falling, speeding <br>\nsimple sit-and-play gameplay<br>\nchallenging try-and-die difficulty <br>\n45 levels in magical land of Gnomia<br>\n4 switchable characters<br>\n<br><br>\nand also:<br>\ngliding pants<br>\nhorned hats<br>\nactual time distortion<br>\noverabundance of socks<br>",
+  "release_date_on_eshop": "2012-11-01",
+  "product_code": "CTR-N-JT4E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Platformer",
+    "Other",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

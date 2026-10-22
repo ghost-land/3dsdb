@@ -1,34 +1,34 @@
 {
-    "tid": "000400000012C400",
-    "uid": "50010000028875",
-    "name": "Best of Solitaire",
-    "formal_name": "Best of Solitaire",
-    "description": "\"Best of Solitaire\"features 101\nvariations of the most well-known and\nbest-loved single-player card game\nincluding Klondike, Freecell, Spider,\nPyramid, Yukon.\n<br/><br/>\nMost games have custom gameplay\noptions so you can enjoy the game\nwith your favourite rules. On-screen\ninstructions allow learning of new\nSolitaire variations. Statistics are\navailable for players who love to track\ntheir wins. Save the game status any\ntime for later. The game's style and\ninterface has been designed for easy\nintuitive operation with the\nNintendo 3DS stylus or the +Control\nPad. Sit back and relax as you enjoy\nthe endless challenge and fun with\nthis Solitaire game collection.",
-    "release_date_on_eshop": "2014-12-25",
-    "product_code": "CTR-N-JVTP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012C400",
+  "uid": "50010000028875",
+  "name": "Best of Solitaire",
+  "formal_name": "Best of Solitaire",
+  "description": "\"Best of Solitaire\"features 101\nvariations of the most well-known and\nbest-loved single-player card game\nincluding Klondike, Freecell, Spider,\nPyramid, Yukon.\n<br/><br/>\nMost games have custom gameplay\noptions so you can enjoy the game\nwith your favourite rules. On-screen\ninstructions allow learning of new\nSolitaire variations. Statistics are\navailable for players who love to track\ntheir wins. Save the game status any\ntime for later. The game's style and\ninterface has been designed for easy\nintuitive operation with the\nNintendo 3DS stylus or the +Control\nPad. Sit back and relax as you enjoy\nthe endless challenge and fun with\nthis Solitaire game collection.",
+  "release_date_on_eshop": "2014-12-25",
+  "product_code": "CTR-N-JVTP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001A6900",
-    "uid": "50010000042242",
-    "name": "Harvest Moon: Skytree Village",
-    "formal_name": "Harvest Moon: Skytree Village",
-    "description": "Times have changed in the Oasis of the Harvest Goddess. Many people used to live in Skytree Village, and the land was lush and green. However, the power of the Harvest Goddess gradually began to wane, and the land became parched and dry… that is, until you arrived!\n<br>\n<br>Only you can help to revive the seven Skytrees in order to give the Harvest Goddess her power back and, in turn, return life to this desolate land! Explore Skytree Village and make new friends, then turn your hand to the soil and shape the land however you like to grow crops, raise livestock and live life to the fullest!\n<br>\n<br>• The latest game in the Harvest Moon series, with many gameplay refinements based on fan feedback: detailed tutorials, improved controls, upgraded tools and much more!\n<br>\n<br>• Play as a boy or girl, then explore a full town with new residents and friends to make, each with their own personalities and quirks.\n<br>\n<br>• Mould and shape the land any way you like, discover new crops and flowers, expand waterways and catch new and rare fish.\n<br>\n<br>• Care for the newest animal addition to the Harvest Moon series: the Poitou donkey!",
-    "release_date_on_eshop": "2017-06-01",
-    "product_code": "CTR-P-AVAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Adventure",
-        "RPG",
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A6900",
+  "uid": "50010000042242",
+  "name": "Harvest Moon: Skytree Village",
+  "formal_name": "Harvest Moon: Skytree Village",
+  "description": "Times have changed in the Oasis of the Harvest Goddess. Many people used to live in Skytree Village, and the land was lush and green. However, the power of the Harvest Goddess gradually began to wane, and the land became parched and dry… that is, until you arrived!\n<br>\n<br>Only you can help to revive the seven Skytrees in order to give the Harvest Goddess her power back and, in turn, return life to this desolate land! Explore Skytree Village and make new friends, then turn your hand to the soil and shape the land however you like to grow crops, raise livestock and live life to the fullest!\n<br>\n<br>• The latest game in the Harvest Moon series, with many gameplay refinements based on fan feedback: detailed tutorials, improved controls, upgraded tools and much more!\n<br>\n<br>• Play as a boy or girl, then explore a full town with new residents and friends to make, each with their own personalities and quirks.\n<br>\n<br>• Mould and shape the land any way you like, discover new crops and flowers, expand waterways and catch new and rare fish.\n<br>\n<br>• Care for the newest animal addition to the Harvest Moon series: the Poitou donkey!",
+  "release_date_on_eshop": "2017-06-01",
+  "product_code": "CTR-P-AVAP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Adventure",
+    "RPG",
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

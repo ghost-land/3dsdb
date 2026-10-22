@@ -1,34 +1,34 @@
 {
-    "tid": "000400000016AF00",
-    "uid": "50010000038716",
-    "name": "Steel Empire",
-    "formal_name": "Steel Empire",
-    "description": "Dance with bullets and shoot down\nthe enemy in Steel Empire now on\nNintendo 3DS™!\n<br/><br/>\nSteel Empire is a steam punk\nshoot'em up game featuring a frantic\ncombat filled with powerful enemies\nand insane obstacles. Enjoy a\nbeautiful world and retro game-play\nas you dodge and shoot your way\nthrough classical stages. Choose one\nof 4 difficulty settings according to\nyour set of skills and fight the evil\nempire! See how well you did using\nthe Replay Mode and show your worth\nby getting all achievements.\n<br/><br/>\nSteel Empire, originally released on\nSega Genesis and Game Boy™\nAdvance, is finally available on\nNintendo 3DS™!",
-    "release_date_on_eshop": "2015-12-17",
-    "product_code": "CTR-N-JPUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Shooter",
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016AF00",
+  "uid": "50010000038716",
+  "name": "Steel Empire",
+  "formal_name": "Steel Empire",
+  "description": "Dance with bullets and shoot down\nthe enemy in Steel Empire now on\nNintendo 3DS™!\n<br/><br/>\nSteel Empire is a steam punk\nshoot'em up game featuring a frantic\ncombat filled with powerful enemies\nand insane obstacles. Enjoy a\nbeautiful world and retro game-play\nas you dodge and shoot your way\nthrough classical stages. Choose one\nof 4 difficulty settings according to\nyour set of skills and fight the evil\nempire! See how well you did using\nthe Replay Mode and show your worth\nby getting all achievements.\n<br/><br/>\nSteel Empire, originally released on\nSega Genesis and Game Boy™\nAdvance, is finally available on\nNintendo 3DS™!",
+  "release_date_on_eshop": "2015-12-17",
+  "product_code": "CTR-N-JPUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Shooter",
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

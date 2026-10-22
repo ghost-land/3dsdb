@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4C4445",
-    "uid": "50010000003005",
-    "name": "Legendary Wars: T-Rex Rumble",
-    "formal_name": "Legendary Wars: T-Rex Rumble",
-    "description": "In a dark corner of prehistory, a tiny tribe of humans fights for the future of mankind. Struggling to survive, the ancestors of humanity desperately search for food and the means to defend their village. The human race teeters on the brink of extinction. Only inspired leadership can save them. Command over twenty men to defend your village and simultaneously manage the constant search for food. Lead your warriors against hordes of dinosaurs in real-time battles. Control your tribe’s actions to efficiently gather resources and boost their numbers. Gather knowledge to increase their power. Enlist the help of a powerful Shaman and direct his magic to heal your men and confound your enemies. Do all this and more using a new style of interface to intuitively group your men and issue orders with simple drags of your stylus. Under your leadership, the human race has a fighting chance. Increase your tribe. Improve their skills. Amass power to take on the mightiest of foes: the T-Rex.",
-    "release_date_on_eshop": "2010-06-21",
-    "product_code": "TWL-N-KLDE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4445",
+  "uid": "50010000003005",
+  "name": "Legendary Wars: T-Rex Rumble",
+  "formal_name": "Legendary Wars: T-Rex Rumble",
+  "description": "In a dark corner of prehistory, a tiny tribe of humans fights for the future of mankind. Struggling to survive, the ancestors of humanity desperately search for food and the means to defend their village. The human race teeters on the brink of extinction. Only inspired leadership can save them. Command over twenty men to defend your village and simultaneously manage the constant search for food. Lead your warriors against hordes of dinosaurs in real-time battles. Control your tribe’s actions to efficiently gather resources and boost their numbers. Gather knowledge to increase their power. Enlist the help of a powerful Shaman and direct his magic to heal your men and confound your enemies. Do all this and more using a new style of interface to intuitively group your men and issue orders with simple drags of your stylus. Under your leadership, the human race has a fighting chance. Increase your tribe. Improve their skills. Amass power to take on the mightiest of foes: the T-Rex.",
+  "release_date_on_eshop": "2010-06-21",
+  "product_code": "TWL-N-KLDE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

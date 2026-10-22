@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F708500",
-    "uid": "50010000041659",
-    "name": "Pirate Pop Plus",
-    "formal_name": "Pirate Pop Plus",
-    "description": "Download Pirate Pop Plus on new Nintendo 3DS™ for free if you have already downloaded Pirate Pop Plus on Wii U™.\n<br>(Your Wii U™ and new Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>Join Pete Jr on his quest to defeat the nefarious Bubble Pirate, an evil villain who has trapped the innocent townsfolk in bubbles! Dodge and pop bubbles with your anchor while collecting power-ups and managing Bubble Pirate’s constant gravity-switching mischief! When you feel at your Piratey-est, test your skill in the ultra-challenging Hyper Mode... The game may be faster and harder, but you'll find treasures beyond your wildest dreams. Coins as far as the eye can see! Collect coins to unlock content in the game’s shop like new music, new faceplates, buttons, backlights, and even characters for your bubble-popping mayhem! Yarr!",
-    "release_date_on_eshop": "2016-10-20",
-    "product_code": "KTR-N-CBPP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F708500",
+  "uid": "50010000041659",
+  "name": "Pirate Pop Plus",
+  "formal_name": "Pirate Pop Plus",
+  "description": "Download Pirate Pop Plus on new Nintendo 3DS™ for free if you have already downloaded Pirate Pop Plus on Wii U™.\n<br>(Your Wii U™ and new Nintendo 3DS™ must be linked with the same Nintendo Network ID.)\n<br>\n<br>Join Pete Jr on his quest to defeat the nefarious Bubble Pirate, an evil villain who has trapped the innocent townsfolk in bubbles! Dodge and pop bubbles with your anchor while collecting power-ups and managing Bubble Pirate’s constant gravity-switching mischief! When you feel at your Piratey-est, test your skill in the ultra-challenging Hyper Mode... The game may be faster and harder, but you'll find treasures beyond your wildest dreams. Coins as far as the eye can see! Collect coins to unlock content in the game’s shop like new music, new faceplates, buttons, backlights, and even characters for your bubble-popping mayhem! Yarr!",
+  "release_date_on_eshop": "2016-10-20",
+  "product_code": "KTR-N-CBPP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

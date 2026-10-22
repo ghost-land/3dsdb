@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001D0900",
-    "uid": "50010000044356",
-    "name": "Battleminerz",
-    "formal_name": "Battleminerz",
-    "description": "Battleminerz は無限といえるマップサイズを誇るNintendo 3DS対応のオープンワールドブロックゲームです。 \n<br>\n<br>ゲームの特徴\n<br>\n<br>■ 1人プレイ用アドベンチャー、クリエイティブ、ホードモード\n<br>■ マルチプレイ用アドベンチャー、クリエイティブ、バトルモード\n<br>■ ネット経由で誰とでもプレイ、または友達のみやローカルプレイもアリ\n<br>■ ゲームチャット＆メッセージ機能\n<br>■ キャラクターカスタマイズ＆テクスチャーパックの数々\n<br>■ 新しい道具やアイテム、武器を作成可能\n<br>■ 作物を育てて動物に乗って、探検して建造してサバイバル！\n<br>\n<br>マイナー（鉱夫）になるかファーマー（農夫）になるかアドベンチャラー（冒険者）になるか、全てはキミの自由だ～！",
-    "release_date_on_eshop": "2018-01-17",
-    "product_code": "CTR-N-KBXJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "Nintendo Network",
-        "New 3DS対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D0900",
+  "uid": "50010000044356",
+  "name": "Battleminerz",
+  "formal_name": "Battleminerz",
+  "description": "Battleminerz は無限といえるマップサイズを誇るNintendo 3DS対応のオープンワールドブロックゲームです。 \n<br>\n<br>ゲームの特徴\n<br>\n<br>■ 1人プレイ用アドベンチャー、クリエイティブ、ホードモード\n<br>■ マルチプレイ用アドベンチャー、クリエイティブ、バトルモード\n<br>■ ネット経由で誰とでもプレイ、または友達のみやローカルプレイもアリ\n<br>■ ゲームチャット＆メッセージ機能\n<br>■ キャラクターカスタマイズ＆テクスチャーパックの数々\n<br>■ 新しい道具やアイテム、武器を作成可能\n<br>■ 作物を育てて動物に乗って、探検して建造してサバイバル！\n<br>\n<br>マイナー（鉱夫）になるかファーマー（農夫）になるかアドベンチャラー（冒険者）になるか、全てはキミの自由だ～！",
+  "release_date_on_eshop": "2018-01-17",
+  "product_code": "CTR-N-KBXJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "Nintendo Network",
+    "New 3DS対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

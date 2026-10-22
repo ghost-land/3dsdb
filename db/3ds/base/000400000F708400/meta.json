@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F708400",
-    "uid": "50010000042516",
-    "name": "Scoop'n Birds",
-    "formal_name": "Scoop'n Birds",
-    "description": "Here’s the scoop:\n<br>Birds are in ridiculously high demand. There’s only one solution: scoop em up!\n<br>\n<br>Handle your scoop with finesse to grab the perfect set of birds for each customer. \n<br>\n<br>With enough skill and practice, your store will definitely not blow up.\n<br>Keep it up and your boss -- Alice Scooper -- is sure to promote you!\n<br>\n<br>This game features:\n<br>True to life scoop physics that perfectly simulate what it's like to work for a crazy person at a bird store.\n<br>\n<br>Tools of the trade to unlock and master including the classic yellow scoop, an ice cream cone... even bunny slippers!\n<br>\n<br>Awesome power-ups like a black hole and chick magnet!\n<br>\n<br>Plenty of secrets and easter eggs -- both literally and figuratively!\n<br>\n<br>Cool explosions!\n<br>\n<br>Amazing tunes for your ear holes!",
-    "release_date_on_eshop": "2017-04-13",
-    "product_code": "KTR-N-CBSE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F708400",
+  "uid": "50010000042516",
+  "name": "Scoop'n Birds",
+  "formal_name": "Scoop'n Birds",
+  "description": "Here’s the scoop:\n<br>Birds are in ridiculously high demand. There’s only one solution: scoop em up!\n<br>\n<br>Handle your scoop with finesse to grab the perfect set of birds for each customer. \n<br>\n<br>With enough skill and practice, your store will definitely not blow up.\n<br>Keep it up and your boss -- Alice Scooper -- is sure to promote you!\n<br>\n<br>This game features:\n<br>True to life scoop physics that perfectly simulate what it's like to work for a crazy person at a bird store.\n<br>\n<br>Tools of the trade to unlock and master including the classic yellow scoop, an ice cream cone... even bunny slippers!\n<br>\n<br>Awesome power-ups like a black hole and chick magnet!\n<br>\n<br>Plenty of secrets and easter eggs -- both literally and figuratively!\n<br>\n<br>Cool explosions!\n<br>\n<br>Amazing tunes for your ear holes!",
+  "release_date_on_eshop": "2017-04-13",
+  "product_code": "KTR-N-CBSE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

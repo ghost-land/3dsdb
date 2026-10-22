@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B585250",
-    "uid": "50010000014298",
-    "name": "Retro Pocket™",
-    "formal_name": "Retro Pocket™",
-    "description": "Retro Pocket is a fun and exciting\nvideo game that brings you back to\nthe glory days of LED handhelds!\nDiscover eight all-original LED-style\ngames such as Kung Fu Hero, Whale\nEscape, Mind Your Head and more!\nWith Game A and Game B modes in all\neight games, as well as the retro-style\nsoundtrack, UFO Interactive Games\nwould like to welcome you (back) into\nthe wonderful world of Retro Pocket!",
-    "release_date_on_eshop": "2013-05-16",
-    "product_code": "TWL-N-KXRP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585250",
+  "uid": "50010000014298",
+  "name": "Retro Pocket™",
+  "formal_name": "Retro Pocket™",
+  "description": "Retro Pocket is a fun and exciting\nvideo game that brings you back to\nthe glory days of LED handhelds!\nDiscover eight all-original LED-style\ngames such as Kung Fu Hero, Whale\nEscape, Mind Your Head and more!\nWith Game A and Game B modes in all\neight games, as well as the retro-style\nsoundtrack, UFO Interactive Games\nwould like to welcome you (back) into\nthe wonderful world of Retro Pocket!",
+  "release_date_on_eshop": "2013-05-16",
+  "product_code": "TWL-N-KXRP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

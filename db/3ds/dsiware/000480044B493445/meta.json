@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B493445",
-    "uid": "50010000007933",
-    "name": "House M.D. - Crashed",
-    "formal_name": "House M.D. - Crashed",
-    "description": "Whenever a patient is dying and no one can find any answers, the elite Diagnostic Medicine department at Princeton-Plainsboro Hospital must follow all leads to uncover the truth. Patients and family members lie to protect their own peculiar secrets, and sometimes the most unlikely clues can lead to answers.\n\nDr. Gregory House and his team race to unravel an all-new medical mystery. A teenage gymnast's uncontrollable bleeding sheds more secrets than blood. Track down the correct diagnosis by interviewing and examining the patient, running lab tests, and even performing surgery. Every piece of evidence reveals part of\nthe solution, so careful observation and analysis are key. The clock is ticking, but be prepared for multiple twists and turns before you solve the case.",
-    "release_date_on_eshop": "2011-11-03",
-    "product_code": "TWL-N-KI4E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B493445",
+  "uid": "50010000007933",
+  "name": "House M.D. - Crashed",
+  "formal_name": "House M.D. - Crashed",
+  "description": "Whenever a patient is dying and no one can find any answers, the elite Diagnostic Medicine department at Princeton-Plainsboro Hospital must follow all leads to uncover the truth. Patients and family members lie to protect their own peculiar secrets, and sometimes the most unlikely clues can lead to answers.\n\nDr. Gregory House and his team race to unravel an all-new medical mystery. A teenage gymnast's uncontrollable bleeding sheds more secrets than blood. Track down the correct diagnosis by interviewing and examining the patient, running lab tests, and even performing surgery. Every piece of evidence reveals part of\nthe solution, so careful observation and analysis are key. The clock is ticking, but be prepared for multiple twists and turns before you solve the case.",
+  "release_date_on_eshop": "2011-11-03",
+  "product_code": "TWL-N-KI4E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

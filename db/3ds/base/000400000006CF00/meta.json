@@ -1,34 +1,34 @@
 {
-    "tid": "000400000006CF00",
-    "uid": "50010000020921",
-    "name": "Jewel Quest\nThe Sapphire Dragon",
-    "formal_name": "Jewel Quest\nThe Sapphire Dragon",
-    "description": "After crash-landing on a frozen\nmountain Raj makes an incredible\ndiscovery in Jewel Quest 6: The\nSapphire Dragon! Explore the Temple\nof Wishes, an ancient complex thought\nto be only a legend, and take on a\ngang of ruthless pirates. Solve\naction-packed Jewel Boards and\nchallenge yourself with bonus levels\nas you explore the entire globe. Play\nas different characters with unique\nabilities and tackle new challenges in\nJewel Quest 6: The Sapphire Dragon!",
-    "release_date_on_eshop": "2014-05-08",
-    "product_code": "CTR-P-AJ6P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006CF00",
+  "uid": "50010000020921",
+  "name": "Jewel Quest\nThe Sapphire Dragon",
+  "formal_name": "Jewel Quest\nThe Sapphire Dragon",
+  "description": "After crash-landing on a frozen\nmountain Raj makes an incredible\ndiscovery in Jewel Quest 6: The\nSapphire Dragon! Explore the Temple\nof Wishes, an ancient complex thought\nto be only a legend, and take on a\ngang of ruthless pirates. Solve\naction-packed Jewel Boards and\nchallenge yourself with bonus levels\nas you explore the entire globe. Play\nas different characters with unique\nabilities and tackle new challenges in\nJewel Quest 6: The Sapphire Dragon!",
+  "release_date_on_eshop": "2014-05-08",
+  "product_code": "CTR-P-AJ6P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

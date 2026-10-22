@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000043000",
-    "uid": "50010000006908",
-    "name": "Radar Mission™",
-    "formal_name": "Radar Mission™",
-    "description": "The screen flickers to life in the dead\nof night... An intermittent\nbeep-beep-beep pulses out of the\nspeaker... Words on the screen spell\nout an urgent message from across\nthe waves:<br>\n<br>\n\"ENEMY FLEET APPROACHING STOP\nDEPLOY IN ATTACK FORMATION\nSTOP\"<br>\n<br>\nThere's no time to lose. Steel your\nnerves and take command of a fleet of\nwarships and engage an enemy fleet in\nbattle, trying to sink their ships.\nBattles can be either fought using\nradar in Game A or controlling a\nsubmarine in Game B.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAMP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000043000",
+  "uid": "50010000006908",
+  "name": "Radar Mission™",
+  "formal_name": "Radar Mission™",
+  "description": "The screen flickers to life in the dead\nof night... An intermittent\nbeep-beep-beep pulses out of the\nspeaker... Words on the screen spell\nout an urgent message from across\nthe waves:<br>\n<br>\n\"ENEMY FLEET APPROACHING STOP\nDEPLOY IN ATTACK FORMATION\nSTOP\"<br>\n<br>\nThere's no time to lose. Steel your\nnerves and take command of a fleet of\nwarships and engage an enemy fleet in\nbattle, trying to sink their ships.\nBattles can be either fought using\nradar in Game A or controlling a\nsubmarine in Game B.<br>\n<br>\nThis version of the game does not\nhave multiplayer functionality.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAMP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

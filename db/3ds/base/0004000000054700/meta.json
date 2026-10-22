@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000054700",
-    "uid": "50010000007073",
-    "name": "3D Classics: Xevious™",
-    "formal_name": "3D Classics: Xevious™",
-    "description": "3D Classics: Xevious revisits the popular vertical-scrolling arcade game, bringing back favorite elements of the classic to enjoy in both 2D and 3D! In this enhanced version, view Solvalou from a mid-air perspective, gauging incoming fire from down below while the scenery and aerial enemies fly on by! Pilot the advanced fighter-bomber through 16 hazardous areas and destroy as many targets as possible. Annihilate the Andor Genesis for extra points and earn a place in the High Scores! The age-old question stands for the long-time and new fans of this arcade classic--are you devious enough to beat Xevious?",
-    "release_date_on_eshop": "2011-07-21",
-    "product_code": "CTR-N-SABE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000054700",
+  "uid": "50010000007073",
+  "name": "3D Classics: Xevious™",
+  "formal_name": "3D Classics: Xevious™",
+  "description": "3D Classics: Xevious revisits the popular vertical-scrolling arcade game, bringing back favorite elements of the classic to enjoy in both 2D and 3D! In this enhanced version, view Solvalou from a mid-air perspective, gauging incoming fire from down below while the scenery and aerial enemies fly on by! Pilot the advanced fighter-bomber through 16 hazardous areas and destroy as many targets as possible. Annihilate the Andor Genesis for extra points and earn a place in the High Scores! The age-old question stands for the long-time and new fans of this arcade classic--are you devious enough to beat Xevious?",
+  "release_date_on_eshop": "2011-07-21",
+  "product_code": "CTR-N-SABE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

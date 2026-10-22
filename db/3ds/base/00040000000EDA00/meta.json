@@ -1,39 +1,39 @@
 {
-    "tid": "00040000000EDA00",
-    "uid": "50010000021174",
-    "name": "Pure Chess® ",
-    "formal_name": "Pure Chess® ",
-    "description": "Download Pure Chess® to experience\nchess the way it's meant to be\nplayed, in stunning 3D.\n<br/><br/>\nExperience one of the oldest known\nboardgames on the advanced\ntechnology of today. With\nultra-realistic 3D visuals you can\nalmost reach out and touch the\npieces. Pure Chess® is a game that\ncan be played by everyone, at any\nage, but mastered by only a few. The\nquestion is... Are you a Grandmaster\nin the making?",
-    "release_date_on_eshop": "2014-03-20",
-    "product_code": "CTR-N-JPAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Simulation",
-        "Sports"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EDA00",
+  "uid": "50010000021174",
+  "name": "Pure Chess® ",
+  "formal_name": "Pure Chess® ",
+  "description": "Download Pure Chess® to experience\nchess the way it's meant to be\nplayed, in stunning 3D.\n<br/><br/>\nExperience one of the oldest known\nboardgames on the advanced\ntechnology of today. With\nultra-realistic 3D visuals you can\nalmost reach out and touch the\npieces. Pure Chess® is a game that\ncan be played by everyone, at any\nage, but mastered by only a few. The\nquestion is... Are you a Grandmaster\nin the making?",
+  "release_date_on_eshop": "2014-03-20",
+  "product_code": "CTR-N-JPAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Simulation",
+    "Sports"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

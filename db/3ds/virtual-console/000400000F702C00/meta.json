@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F702C00",
-    "uid": "50010000040315",
-    "name": "Contra III The Alien Wars",
-    "formal_name": "Contra III The Alien Wars",
-    "description": "In the year 2636, the Alien War rages on, and it's up to two soldiers, Jimbo and Sully, to stop the invasion. In this Super NES classic, you can battle through six stages of non-stop, run-and-gun action, collecting power-ups including bombs, flamethrowers, spread shots, lasers and homing guns.\n<br><br/><br/>\n<br>Please note, this title was originally\n<br>released in Europe as \"Super\n<br>Probotector: Alien Rebels\".\n<br><br/><br/>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-05-12",
-    "product_code": "KTR-N-UAQE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Shooter"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F702C00",
+  "uid": "50010000040315",
+  "name": "Contra III The Alien Wars",
+  "formal_name": "Contra III The Alien Wars",
+  "description": "In the year 2636, the Alien War rages on, and it's up to two soldiers, Jimbo and Sully, to stop the invasion. In this Super NES classic, you can battle through six stages of non-stop, run-and-gun action, collecting power-ups including bombs, flamethrowers, spread shots, lasers and homing guns.\n<br><br/><br/>\n<br>Please note, this title was originally\n<br>released in Europe as \"Super\n<br>Probotector: Alien Rebels\".\n<br><br/><br/>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-05-12",
+  "product_code": "KTR-N-UAQE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

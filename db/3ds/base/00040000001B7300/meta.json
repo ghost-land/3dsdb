@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001B7300",
-    "uid": "50010000042232",
-    "name": "Candy, Please!",
-    "formal_name": "Candy, Please!",
-    "description": "Ahh, Halloween - a time to dress up, carve pumpkins and amass glorious amounts of candy! In order to collect enough candy, once around the neighborhood just won't do - you are going to need several different costumes to pull it off.\n<br>\n<br>- Classic adventure game fun.\n<br>- Explore a lighthearted, interactive world and solve puzzles.\n<br>- Search your house and the neighborhood for what you need to make costumes.\n<br>- Carve your own pumpkin.\n<br>- Go trick-or-treating and collect that sweet, sweet candy.\n<br>\n<br>Let nothing stop you from getting your fair share - and more!",
-    "release_date_on_eshop": "2017-01-26",
-    "product_code": "CTR-N-KCUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B7300",
+  "uid": "50010000042232",
+  "name": "Candy, Please!",
+  "formal_name": "Candy, Please!",
+  "description": "Ahh, Halloween - a time to dress up, carve pumpkins and amass glorious amounts of candy! In order to collect enough candy, once around the neighborhood just won't do - you are going to need several different costumes to pull it off.\n<br>\n<br>- Classic adventure game fun.\n<br>- Explore a lighthearted, interactive world and solve puzzles.\n<br>- Search your house and the neighborhood for what you need to make costumes.\n<br>- Carve your own pumpkin.\n<br>- Go trick-or-treating and collect that sweet, sweet candy.\n<br>\n<br>Let nothing stop you from getting your fair share - and more!",
+  "release_date_on_eshop": "2017-01-26",
+  "product_code": "CTR-N-KCUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

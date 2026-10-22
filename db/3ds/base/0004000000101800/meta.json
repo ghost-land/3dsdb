@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000101800",
-    "uid": "50010000036016",
-    "name": "Best of Arcade Games -\nTetraminos",
-    "formal_name": "Best of Arcade Games -\nTetraminos",
-    "description": "Ten minigames filled with retro arts, music, sound effects and fun. One hundred levels filled with a host of enemies to destroy. Dozens of collectable items and power-ups are waiting to help you achieve victory. \n<br><br>\nBattle against time and enemies to achieve the highest score in each challenge in this 10 in 1: Arcade Collection. \n<br><br>\nEvery minigame has a new 3D approach to the famous classics. Enjoy hours of fun reliving fond memories of your youth and, if you're too young to remember, see what computer games looked like in the old days!",
-    "release_date_on_eshop": "2015-08-06",
-    "product_code": "CTR-N-JTEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000101800",
+  "uid": "50010000036016",
+  "name": "Best of Arcade Games -\nTetraminos",
+  "formal_name": "Best of Arcade Games -\nTetraminos",
+  "description": "Ten minigames filled with retro arts, music, sound effects and fun. One hundred levels filled with a host of enemies to destroy. Dozens of collectable items and power-ups are waiting to help you achieve victory. \n<br><br>\nBattle against time and enemies to achieve the highest score in each challenge in this 10 in 1: Arcade Collection. \n<br><br>\nEvery minigame has a new 3D approach to the famous classics. Enjoy hours of fun reliving fond memories of your youth and, if you're too young to remember, see what computer games looked like in the old days!",
+  "release_date_on_eshop": "2015-08-06",
+  "product_code": "CTR-N-JTEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

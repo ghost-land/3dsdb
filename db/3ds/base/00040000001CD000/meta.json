@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001CD000",
-    "uid": "50010000043496",
-    "name": "River City: Rival Showdown",
-    "formal_name": "River City: Rival Showdown",
-    "description": "Mystery is afoot once again for Kunio and his River City pals! One night, Kunio is attacked by two mysterious individuals. On top of that, Riki's girlfriend has disappeared, and it's up to Kunio to find out the truth! Kunio has just 3 days to unravel the mystery, and he'll need your help to take down all who stand in his way! \n<br>\n<br>• Different Story Paths and Different Endings!\n<br>• Bonus Double Dragon Fighting Game Included!\n<br>• 2 Player Local Co-Op Play! Grab a friend and team up together!",
-    "release_date_on_eshop": "2017-11-21",
-    "product_code": "CTR-N-BDJP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Adventure",
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CD000",
+  "uid": "50010000043496",
+  "name": "River City: Rival Showdown",
+  "formal_name": "River City: Rival Showdown",
+  "description": "Mystery is afoot once again for Kunio and his River City pals! One night, Kunio is attacked by two mysterious individuals. On top of that, Riki's girlfriend has disappeared, and it's up to Kunio to find out the truth! Kunio has just 3 days to unravel the mystery, and he'll need your help to take down all who stand in his way! \n<br>\n<br>• Different Story Paths and Different Endings!\n<br>• Bonus Double Dragon Fighting Game Included!\n<br>• 2 Player Local Co-Op Play! Grab a friend and team up together!",
+  "release_date_on_eshop": "2017-11-21",
+  "product_code": "CTR-N-BDJP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

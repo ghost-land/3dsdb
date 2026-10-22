@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000037200",
-    "uid": "50010000007969",
-    "name": "Face Racers: Photo Finish",
-    "formal_name": "Face Racers: Photo Finish",
-    "description": "Start your turbo-charged engines and blast into the outrageous arcade racing game, Face Racers: Photo Finish, with photo customizable 3D racers that put YOU in the game! Available on the Nintendo 3DS system, Face Racers delivers unique, in-your-face gameplay, with dangerous obstacles that come to life in 3D right before your eyes! Take photos with your Nintendo 3DS camera and place them on the face of your custom 3D racer, billboards and power-ups. Personalize photos with 100 choices ranging from hairstyles, clothing, eyewear and more! Take on friends in multiplayer mode for a true photo finish in Face Racers! Tilt your Nintendo 3DS like a steering wheel to race your customizable car with ease and precision. The unique tilt-steering control system is made easy for everyone to turn, accelerate, break, and reverse.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFCE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Comic Mischief"
-    ]
+  "tid": "0004000000037200",
+  "uid": "50010000007969",
+  "name": "Face Racers: Photo Finish",
+  "formal_name": "Face Racers: Photo Finish",
+  "description": "Start your turbo-charged engines and blast into the outrageous arcade racing game, Face Racers: Photo Finish, with photo customizable 3D racers that put YOU in the game! Available on the Nintendo 3DS system, Face Racers delivers unique, in-your-face gameplay, with dangerous obstacles that come to life in 3D right before your eyes! Take photos with your Nintendo 3DS camera and place them on the face of your custom 3D racer, billboards and power-ups. Personalize photos with 100 choices ranging from hairstyles, clothing, eyewear and more! Take on friends in multiplayer mode for a true photo finish in Face Racers! Tilt your Nintendo 3DS like a steering wheel to race your customizable car with ease and precision. The unique tilt-steering control system is made easy for everyone to turn, accelerate, break, and reverse.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFCE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Comic Mischief"
+  ]
 }

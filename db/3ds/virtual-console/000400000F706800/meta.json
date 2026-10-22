@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F706800",
-    "uid": "50010000042046",
-    "name": "Demon's Crest™",
-    "formal_name": "Demon's Crest™",
-    "description": "From a lowly enemy in the Ghosts ‘n Goblins series, to spin-off Gargoyle’s Quest, Firebrand the demon now finds himself fighting to restore peace in the demon realm.\n<br>\n<br>Firebrand must recover the six stones of the powerful Demon’s Crest before they fall into the claws of his nemesis Phalanx.\n<br>\n<br>As well as being able to breath fire and fly, Firebrand can transform into six unique guises with special abilities that will prove invaluable to his quest. With three different endings to discover, can you save the realms from total anarchy?\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-12-15",
-    "product_code": "KTR-N-UBHE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F706800",
+  "uid": "50010000042046",
+  "name": "Demon's Crest™",
+  "formal_name": "Demon's Crest™",
+  "description": "From a lowly enemy in the Ghosts ‘n Goblins series, to spin-off Gargoyle’s Quest, Firebrand the demon now finds himself fighting to restore peace in the demon realm.\n<br>\n<br>Firebrand must recover the six stones of the powerful Demon’s Crest before they fall into the claws of his nemesis Phalanx.\n<br>\n<br>As well as being able to breath fire and fly, Firebrand can transform into six unique guises with special abilities that will prove invaluable to his quest. With three different endings to discover, can you save the realms from total anarchy?\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-12-15",
+  "product_code": "KTR-N-UBHE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

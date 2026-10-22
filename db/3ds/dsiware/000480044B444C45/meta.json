@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B444C45",
-    "uid": "50010000001719",
-    "name": "Dragon's Lair®",
-    "formal_name": "Dragon's Lair®",
-    "description": "You play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Control the actions of the daring adventurer, finding your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles. In the mysterious caverns below the castle, your odyssey continues against the awesome forces that oppose your efforts to reach the dragon’s lair. Dragon’s Lair is a fully animated classic arcade game from legendary animator Don Bluth. You’ll make your way through the castle and caverns below by using your Nintendo DSi system to move and wield your sword.  Beware of your foes, as they are numerous! Lead on adventurer. Your quest awaits!\n\n",
-    "release_date_on_eshop": "2009-12-21",
-    "product_code": "TWL-N-KDLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B444C45",
+  "uid": "50010000001719",
+  "name": "Dragon's Lair®",
+  "formal_name": "Dragon's Lair®",
+  "description": "You play the heroic Dirk the Daring, a valiant knight on a quest to rescue the fair princess from the clutches of an evil dragon! Control the actions of the daring adventurer, finding your way through the castle of a dark wizard, who has enchanted it with treacherous monsters and obstacles. In the mysterious caverns below the castle, your odyssey continues against the awesome forces that oppose your efforts to reach the dragon’s lair. Dragon’s Lair is a fully animated classic arcade game from legendary animator Don Bluth. You’ll make your way through the castle and caverns below by using your Nintendo DSi system to move and wield your sword.  Beware of your foes, as they are numerous! Lead on adventurer. Your quest awaits!\n\n",
+  "release_date_on_eshop": "2009-12-21",
+  "product_code": "TWL-N-KDLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,32 +1,32 @@
 {
-    "tid": "000400000004A300",
-    "uid": "50010000010362",
-    "name": "Petz Fantasy 3D",
-    "formal_name": "Petz Fantasy 3D",
-    "description": "Hatch magic eggs into adorable\nfantasy creatures.\n<br/><br/>\nNurture them and watch their magical\npowers grow in 3D!\n<br/><br/>\n-Care for your Pets and watch how\nthey react to you in 3D!\n<br/><br/>\n-Jump from one magical world to\nanother and play fun mini-games to\nteach them magical powers.",
-    "release_date_on_eshop": "2013-06-13",
-    "product_code": "CTR-P-APFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004A300",
+  "uid": "50010000010362",
+  "name": "Petz Fantasy 3D",
+  "formal_name": "Petz Fantasy 3D",
+  "description": "Hatch magic eggs into adorable\nfantasy creatures.\n<br/><br/>\nNurture them and watch their magical\npowers grow in 3D!\n<br/><br/>\n-Care for your Pets and watch how\nthey react to you in 3D!\n<br/><br/>\n-Jump from one magical world to\nanother and play fun mini-games to\nteach them magical powers.",
+  "release_date_on_eshop": "2013-06-13",
+  "product_code": "CTR-P-APFP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

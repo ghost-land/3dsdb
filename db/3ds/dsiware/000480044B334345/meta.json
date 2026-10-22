@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B334345",
-    "uid": "50010000000741",
-    "name": "3D Twist & Match",
-    "formal_name": "3D Twist & Match",
-    "description": "How quickly can you rotate 3D objects to match their silhouettes? Challenge your spatial visualization skills and make optimal moves to build combos! With its intuitive controls, 3D Twist & Match is easy to pick up. Yet its frantic gameplay will keep you hooked and have you come back to it again and again for intense game sessions!\n\nFEATURES:\n- 10 themes: Beach, Halloween, Christmas, Jungle, Food, Vehicles, Tools, Music, Sports and Electronics\n- 3 game modes: Classic, Rush and Practice\n- 3 levels of difficulty\n- 200 objects to match\n- Oodles of trophies to unlock!",
-    "release_date_on_eshop": "2011-05-23",
-    "product_code": "TWL-N-K3CE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B334345",
+  "uid": "50010000000741",
+  "name": "3D Twist & Match",
+  "formal_name": "3D Twist & Match",
+  "description": "How quickly can you rotate 3D objects to match their silhouettes? Challenge your spatial visualization skills and make optimal moves to build combos! With its intuitive controls, 3D Twist & Match is easy to pick up. Yet its frantic gameplay will keep you hooked and have you come back to it again and again for intense game sessions!\n\nFEATURES:\n- 10 themes: Beach, Halloween, Christmas, Jungle, Food, Vehicles, Tools, Music, Sports and Electronics\n- 3 game modes: Classic, Rush and Practice\n- 3 levels of difficulty\n- 200 objects to match\n- Oodles of trophies to unlock!",
+  "release_date_on_eshop": "2011-05-23",
+  "product_code": "TWL-N-K3CE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

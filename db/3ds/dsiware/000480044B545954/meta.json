@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B545954",
-    "uid": "50010000006402",
-    "name": "Snapdots™",
-    "formal_name": "Snapdots™",
-    "description": "Welcome to Snapdots! Complete dozens of puzzle pictures by rotating the puzzle to find the best angle and then shooting blocks from your UFO. If the placement isn’t quite right, use the UFO to grab blocks back to shoot them in different spots. Adding to the challenge, puzzles often contain several types of blocks and spots, each with its own characteristics, on the playing grid. Journey to multiple planets to tackle puzzles individually in Puzzle mode or try to clear as many puzzles as you can within the time limit in frenetic Time Attack mode. In either mode, the combination of strategy and action result in a classic puzzle game that definitely hits the right spot!",
-    "release_date_on_eshop": "2010-10-18",
-    "product_code": "TWL-N-KTYT",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B545954",
+  "uid": "50010000006402",
+  "name": "Snapdots™",
+  "formal_name": "Snapdots™",
+  "description": "Welcome to Snapdots! Complete dozens of puzzle pictures by rotating the puzzle to find the best angle and then shooting blocks from your UFO. If the placement isn’t quite right, use the UFO to grab blocks back to shoot them in different spots. Adding to the challenge, puzzles often contain several types of blocks and spots, each with its own characteristics, on the playing grid. Journey to multiple planets to tackle puzzles individually in Puzzle mode or try to clear as many puzzles as you can within the time limit in frenetic Time Attack mode. In either mode, the combination of strategy and action result in a classic puzzle game that definitely hits the right spot!",
+  "release_date_on_eshop": "2010-10-18",
+  "product_code": "TWL-N-KTYT",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000400000017C100",
-    "uid": "50010000037815",
-    "name": "Pokémon™ Picross",
-    "formal_name": "Pokémon™ Picross",
-    "description": "Turn puzzles into portraits with Pokémon™ Picross! \n<br>Solve over 300 number puzzles to complete pictures of your favourite Pokémon. When you complete a puzzle, you’ll add that Pokémon to your collection!\n<br>Collected Pokémon can help you solve puzzles using a variety of skills. There are 12 skills in all and their effects vary. Have fun collecting a lot of Pokémon and solving puzzles with their help!\n<br>\n<br>Offers in-game purchases.",
-    "release_date_on_eshop": "2015-12-03",
-    "product_code": "CTR-N-JFJA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Region Free",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017C100",
+  "uid": "50010000037815",
+  "name": "Pokémon™ Picross",
+  "formal_name": "Pokémon™ Picross",
+  "description": "Turn puzzles into portraits with Pokémon™ Picross! \n<br>Solve over 300 number puzzles to complete pictures of your favourite Pokémon. When you complete a puzzle, you’ll add that Pokémon to your collection!\n<br>Collected Pokémon can help you solve puzzles using a variety of skills. There are 12 skills in all and their effects vary. Have fun collecting a lot of Pokémon and solving puzzles with their help!\n<br>\n<br>Offers in-game purchases.",
+  "release_date_on_eshop": "2015-12-03",
+  "product_code": "CTR-N-JFJA",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Region Free",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

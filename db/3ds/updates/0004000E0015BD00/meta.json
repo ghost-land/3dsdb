@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E0015BD00",
-    "uid": "50010000030855",
-    "name": "업데이트 데이터 Ver. 1.2\nAzure Striker GUNVOLT",
-    "formal_name": "업데이트 데이터 Ver. 1.2\nAzure Striker GUNVOLT",
-    "description": "닌텐도 3DS 소프트『Azure Striker GUNVOLT』의 업데이트 데이터입니다. \n\nVer. 1.2 [2015.9.10 배포]\n・New 닌텐도 3DS의 ZL/ZR 버튼으로\n 무기를 교환할 수 있습니다.  \n・New 닌텐도 3DS로 플레이할 경우,\n 게임의 로딩 속도가 빨라집니다.  \n\nVer. 1.2K [2015.2.17 배포]\n・처음 기동할 때 체험판의 저장 데이터를 계승할 수 있습니다.\n・일반 미션에는 르호의 신곡 \"벚꽃 만발\", 엔딩까지 플레이했을 때 나타나는 \"보스 러시 미션\", 엔딩에는 시안의 노래 \"청사진 -Cyanotype-\"이 추가되었습니다.\n",
-    "release_date_on_eshop": "2015-09-10",
-    "product_code": "CTR-U-JV7K",
-    "platform_name": "업데이트 데이터",
-    "region": "Korea",
-    "genres": [
-        "업데이트 데이터"
-    ],
-    "features": [],
-    "languages": [
-        "한국어"
-    ],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "닌텐도 3DS 소프트웨어 『Azure Striker GUNVOLT』의 업데이트 데이터입니다.\n본 데이터는 다운로드한 후에 HOME 메뉴에 아이콘이 표시되지 않습니다.\n｢본체 설정｣의 ｢데이터 관리｣→｢추가 콘텐츠 관리｣에 본 데이터가 표시됩니다.\n삭제하지 않도록 주의해 주십시오.",
-    "descriptors": []
+  "tid": "0004000E0015BD00",
+  "uid": "50010000030855",
+  "name": "업데이트 데이터 Ver. 1.2\nAzure Striker GUNVOLT",
+  "formal_name": "업데이트 데이터 Ver. 1.2\nAzure Striker GUNVOLT",
+  "description": "닌텐도 3DS 소프트『Azure Striker GUNVOLT』의 업데이트 데이터입니다. \n\nVer. 1.2 [2015.9.10 배포]\n・New 닌텐도 3DS의 ZL/ZR 버튼으로\n 무기를 교환할 수 있습니다.  \n・New 닌텐도 3DS로 플레이할 경우,\n 게임의 로딩 속도가 빨라집니다.  \n\nVer. 1.2K [2015.2.17 배포]\n・처음 기동할 때 체험판의 저장 데이터를 계승할 수 있습니다.\n・일반 미션에는 르호의 신곡 \"벚꽃 만발\", 엔딩까지 플레이했을 때 나타나는 \"보스 러시 미션\", 엔딩에는 시안의 노래 \"청사진 -Cyanotype-\"이 추가되었습니다.\n",
+  "release_date_on_eshop": "2015-09-10",
+  "product_code": "CTR-U-JV7K",
+  "platform_name": "업데이트 데이터",
+  "region": "Korea",
+  "genres": [
+    "업데이트 데이터"
+  ],
+  "features": [],
+  "languages": [
+    "ko"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": "닌텐도 3DS 소프트웨어 『Azure Striker GUNVOLT』의 업데이트 데이터입니다.\n본 데이터는 다운로드한 후에 HOME 메뉴에 아이콘이 표시되지 않습니다.\n｢본체 설정｣의 ｢데이터 관리｣→｢추가 콘텐츠 관리｣에 본 데이터가 표시됩니다.\n삭제하지 않도록 주의해 주십시오.",
+  "descriptors": []
 }

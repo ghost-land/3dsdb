@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000B7700",
-    "uid": "50010000012367",
-    "name": "Dress To Play: Cute Witches!",
-    "formal_name": "Dress To Play: Cute Witches!",
-    "description": "In Dress To Play: Cute Witches!  Dress to play and play to dress!\nMake a little witch and design her outfit in the dressing room. When you finish, get ready to set off on an adventure as your character flies away on her broomstick to a peaceful world inhabited by fantasy characters.<br>\nThe more you play, the more rewards and gifts you'll receive. Youâ€™ll also earn more items of clothing to dress your little witches in!\n<br><br>\nFeatures:<br><br>\n\n2 games in one: Create and dress up a little witch at your taste. Enjoy playing the adventure with your character.<br>\n50 challenges which will provide more than 50 new pieces to dress your characters.<br>\nThousands of combinations to create thousands of different little witches. <br>\nAn adventure full of cute creatures.<br>\nA colorful and beautiful universe to enjoy with the 3D effect.<br>",
-    "release_date_on_eshop": "2012-11-08",
-    "product_code": "CTR-N-JDPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000B7700",
+  "uid": "50010000012367",
+  "name": "Dress To Play: Cute Witches!",
+  "formal_name": "Dress To Play: Cute Witches!",
+  "description": "In Dress To Play: Cute Witches!  Dress to play and play to dress!\nMake a little witch and design her outfit in the dressing room. When you finish, get ready to set off on an adventure as your character flies away on her broomstick to a peaceful world inhabited by fantasy characters.<br>\nThe more you play, the more rewards and gifts you'll receive. Youâ€™ll also earn more items of clothing to dress your little witches in!\n<br><br>\nFeatures:<br><br>\n\n2 games in one: Create and dress up a little witch at your taste. Enjoy playing the adventure with your character.<br>\n50 challenges which will provide more than 50 new pieces to dress your characters.<br>\nThousands of combinations to create thousands of different little witches. <br>\nAn adventure full of cute creatures.<br>\nA colorful and beautiful universe to enjoy with the 3D effect.<br>",
+  "release_date_on_eshop": "2012-11-08",
+  "product_code": "CTR-N-JDPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

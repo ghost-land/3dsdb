@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F703100",
-    "uid": "50010000041177",
-    "name": "Super Street Fighter™Ⅱ:\nThe New Challengers",
-    "formal_name": "Super Street Fighter™Ⅱ:\n<br>The New Challengers",
-    "description": "When Super Street Fighter II: The New Challengers debuted, the fighting game genre changed forever.\n<br>\n<br>Along with a revolutionary combo system, it introduced new characters alongside the original cast. In addition to Ryu, Ken, Chun Li et al., take control of four brand new combatants in thrilling head-to-head gameplay.\n<br>\n<br>Choose T. Hawk and his unmatched strength, Dee Jay's unrivalled kickboxing ability, the furious kung fu of Fei Long, or drill your rivals with the deadly beauty of Cammy!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-07-28",
-    "product_code": "KTR-N-UASE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Fighting"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F703100",
+  "uid": "50010000041177",
+  "name": "Super Street Fighter™Ⅱ:\nThe New Challengers",
+  "formal_name": "Super Street Fighter™Ⅱ:\n<br>The New Challengers",
+  "description": "When Super Street Fighter II: The New Challengers debuted, the fighting game genre changed forever.\n<br>\n<br>Along with a revolutionary combo system, it introduced new characters alongside the original cast. In addition to Ryu, Ken, Chun Li et al., take control of four brand new combatants in thrilling head-to-head gameplay.\n<br>\n<br>Choose T. Hawk and his unmatched strength, Dee Jay's unrivalled kickboxing ability, the furious kung fu of Fei Long, or drill your rivals with the deadly beauty of Cammy!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-07-28",
+  "product_code": "KTR-N-UASE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Fighting"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B515256",
-    "uid": "50010000006082",
-    "name": "Remote Racers",
-    "formal_name": "Remote Racers",
-    "description": "Have fun with Remote Racers in five\neasy steps:\n1. Select one of 8 vehicles: Speeder,\nMonster, Candy, Dozer, Tank, Stunt,\nMantis and Rocket.\n2. Race against AI or time on 15\ngreat tracks.\n3. Jump in the garden, drift through\nthe cellar, ride on the beach, dive in\nthe ocean.\n4. Use power-ups and transform your\nvehicle to gain advantage over your\nopponents.\n5. Complete 32 Challenges in 8\nChampionships. Repeat.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KQRV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B515256",
+  "uid": "50010000006082",
+  "name": "Remote Racers",
+  "formal_name": "Remote Racers",
+  "description": "Have fun with Remote Racers in five\neasy steps:\n1. Select one of 8 vehicles: Speeder,\nMonster, Candy, Dozer, Tank, Stunt,\nMantis and Rocket.\n2. Race against AI or time on 15\ngreat tracks.\n3. Jump in the garden, drift through\nthe cellar, ride on the beach, dive in\nthe ocean.\n4. Use power-ups and transform your\nvehicle to gain advantage over your\nopponents.\n5. Complete 32 Challenges in 8\nChampionships. Repeat.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KQRV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

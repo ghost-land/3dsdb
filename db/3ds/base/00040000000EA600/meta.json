@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000EA600",
-    "uid": "50010000015614",
-    "name": "Etrian Odyssey™ IV:\nLegends of the Titan",
-    "formal_name": "Etrian Odyssey™ IV:\nLegends of the Titan",
-    "description": "Etrian Odyssey IV brings an enhanced\ngraphics engine boasting polygonal\nenemies and new 3D special effects;\nupgradable, customizable skyships\nthat let players travel and battle amid\nthe clouds. An exceedingly\natmospheric and fully orchestrated\nmusical score from Yuzo Koshiro in\naddition to expanded, more immersive\n3D dungeons with analog camera\ncontrol rounds up the features of the\nnewest addition to this beloved\nfranchise.",
-    "release_date_on_eshop": "2013-09-05",
-    "product_code": "CTR-P-ASJP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EA600",
+  "uid": "50010000015614",
+  "name": "Etrian Odyssey™ IV:\nLegends of the Titan",
+  "formal_name": "Etrian Odyssey™ IV:\nLegends of the Titan",
+  "description": "Etrian Odyssey IV brings an enhanced\ngraphics engine boasting polygonal\nenemies and new 3D special effects;\nupgradable, customizable skyships\nthat let players travel and battle amid\nthe clouds. An exceedingly\natmospheric and fully orchestrated\nmusical score from Yuzo Koshiro in\naddition to expanded, more immersive\n3D dungeons with analog camera\ncontrol rounds up the features of the\nnewest addition to this beloved\nfranchise.",
+  "release_date_on_eshop": "2013-09-05",
+  "product_code": "CTR-P-ASJP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

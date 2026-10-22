@@ -1,35 +1,35 @@
 {
-    "tid": "000400000016C300",
-    "uid": "50010000040175",
-    "name": "Mini Mario & Friends:\namiibo Challenge",
-    "formal_name": "Mini Mario & Friends:\namiibo Challenge",
-    "description": "Mini Mario & Friends: amiibo Challenge is based on the Mario vs. Donkey Kong series. Enjoy this fast-paced puzzle game where you can manipulate the environment with the Touch Screen to safely guide your character past various environmental hazards and enemies to the level exit.\n\nIf you have an amiibo (sold separately), you can play ingenious puzzles that require super-quick wits and fast reflexes to beat. Your aim is to guide the clockwork Mini Toys towards the Goal Door in each stage, using the Nintendo 3DS Touch Screen to position all sorts of items, such as Girders, lifts and springs to help them on their way. Mini Toys will keep on moving automatically, so plan the safest route possible and use every tool at your disposal to stop them from falling into traps – or into the clutches of enemies!\n\nVisit amiibo.nintendo.eu for\ncompatible amiibo™ and the latest\ninformation. To use amiibo on\nNintendo 3DS, Nintendo 3DS XL and\nNintendo 2DS systems a\nNintendo 3DS NFC Reader/Writer is\nrequired.",
-    "release_date_on_eshop": "2016-04-28",
-    "product_code": "CTR-N-KPCP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Puzzle"
-    ],
-    "features": [
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016C300",
+  "uid": "50010000040175",
+  "name": "Mini Mario & Friends:\namiibo Challenge",
+  "formal_name": "Mini Mario & Friends:\namiibo Challenge",
+  "description": "Mini Mario & Friends: amiibo Challenge is based on the Mario vs. Donkey Kong series. Enjoy this fast-paced puzzle game where you can manipulate the environment with the Touch Screen to safely guide your character past various environmental hazards and enemies to the level exit.\n\nIf you have an amiibo (sold separately), you can play ingenious puzzles that require super-quick wits and fast reflexes to beat. Your aim is to guide the clockwork Mini Toys towards the Goal Door in each stage, using the Nintendo 3DS Touch Screen to position all sorts of items, such as Girders, lifts and springs to help them on their way. Mini Toys will keep on moving automatically, so plan the safest route possible and use every tool at your disposal to stop them from falling into traps – or into the clutches of enemies!\n\nVisit amiibo.nintendo.eu for\ncompatible amiibo™ and the latest\ninformation. To use amiibo on\nNintendo 3DS, Nintendo 3DS XL and\nNintendo 2DS systems a\nNintendo 3DS NFC Reader/Writer is\nrequired.",
+  "release_date_on_eshop": "2016-04-28",
+  "product_code": "CTR-N-KPCP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

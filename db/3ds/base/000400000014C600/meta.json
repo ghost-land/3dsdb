@@ -1,36 +1,36 @@
 {
-    "tid": "000400000014C600",
-    "uid": "50010000024255",
-    "name": "Smash Controller",
-    "formal_name": "Smash Controller",
-    "description": "No more passing around controllers!\n<br/><br/>\nYou never have to sit out in a couch\nsession of Super Smash Bros.™ for Wii\nU again, as Smash Controller\ntransforms your Nintendo 3DS™\nsystem into your own controller for\nthe game. It also enables you to\nconveniently bring along your own\ncustomized fighters, no matter whose\nWii U™ console you're playing on.\n<br/><br/>\nAny system from the Nintendo 3DS™\nfamily can be used as a Smash\nController. All of the up to eight\nplayers in a game of Super Smash\nBros.™ for Wii U can play using their\nown Nintendo 3DS system, each with\na copy of Smash Controller or Super\nSmash Bros.™ for Nintendo 3DS.",
-    "release_date_on_eshop": "2015-06-14",
-    "product_code": "CTR-N-KXCP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "System Tool",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Mii"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.1",
-    "disclaimer": "For use with the game Super Smash\nBros.™ for Wii U only.\n<br/><br/>\nSmash Controller offers the same\nfunctionality as the Connect to Wii U\nfunction available in the game Super\nSmash Bros.™ for Nintendo 3DS.",
-    "descriptors": []
+  "tid": "000400000014C600",
+  "uid": "50010000024255",
+  "name": "Smash Controller",
+  "formal_name": "Smash Controller",
+  "description": "No more passing around controllers!\n<br/><br/>\nYou never have to sit out in a couch\nsession of Super Smash Bros.™ for Wii\nU again, as Smash Controller\ntransforms your Nintendo 3DS™\nsystem into your own controller for\nthe game. It also enables you to\nconveniently bring along your own\ncustomized fighters, no matter whose\nWii U™ console you're playing on.\n<br/><br/>\nAny system from the Nintendo 3DS™\nfamily can be used as a Smash\nController. All of the up to eight\nplayers in a game of Super Smash\nBros.™ for Wii U can play using their\nown Nintendo 3DS system, each with\na copy of Smash Controller or Super\nSmash Bros.™ for Nintendo 3DS.",
+  "release_date_on_eshop": "2015-06-14",
+  "product_code": "CTR-N-KXCP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "System Tool",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Mii"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.1",
+  "disclaimer": "For use with the game Super Smash\nBros.™ for Wii U only.\n<br/><br/>\nSmash Controller offers the same\nfunctionality as the Connect to Wii U\nfunction available in the game Super\nSmash Bros.™ for Nintendo 3DS.",
+  "descriptors": []
 }

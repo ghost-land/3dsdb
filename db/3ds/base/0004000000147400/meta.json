@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000147400",
-    "uid": "50010000027036",
-    "name": "Undead Bowling",
-    "formal_name": "Undead Bowling",
-    "description": "Welcome to Undead Bowling! Prevent\nhordes of blood-thirsty zombies from\nsinking their rotten teeth into your\nflesh by mowing them down with a\ncannon bowling ball! Turn on\nstereoscopic 3D for extra impact to\nmake this the best zombie bowling\nexperience you can get, until the\nworld is overrun by zombies and\nsomeone opens a bowling alley.\n<br/><br/>\nIt's sometime in the future and\nzombies have overrun the earth. The\npins at the local bowling alley have\nbeen eaten so the owner has rounded\nup a good supply of zombies to use\ninstead.\n<br/><br/>\nThrow cannon bowling balls along the\nbowling lane filled with zombies to\nflatten as many as you can. Make use\nof three different types of bowling\nballs including a cannon bowling ball,\na Hell Fire bowling ball and the\ndevastating Mince Grinder, that tears\nthrough everything on the lane. Use\nthe Circle Pad to steer your bowling\nball into the zombies that crowd the\nlane, squashing as many as you can\nand preventing them from eating you\nalive!",
-    "release_date_on_eshop": "2014-10-30",
-    "product_code": "CTR-N-JZGP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Sports",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v1.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000147400",
+  "uid": "50010000027036",
+  "name": "Undead Bowling",
+  "formal_name": "Undead Bowling",
+  "description": "Welcome to Undead Bowling! Prevent\nhordes of blood-thirsty zombies from\nsinking their rotten teeth into your\nflesh by mowing them down with a\ncannon bowling ball! Turn on\nstereoscopic 3D for extra impact to\nmake this the best zombie bowling\nexperience you can get, until the\nworld is overrun by zombies and\nsomeone opens a bowling alley.\n<br/><br/>\nIt's sometime in the future and\nzombies have overrun the earth. The\npins at the local bowling alley have\nbeen eaten so the owner has rounded\nup a good supply of zombies to use\ninstead.\n<br/><br/>\nThrow cannon bowling balls along the\nbowling lane filled with zombies to\nflatten as many as you can. Make use\nof three different types of bowling\nballs including a cannon bowling ball,\na Hell Fire bowling ball and the\ndevastating Mince Grinder, that tears\nthrough everything on the lane. Use\nthe Circle Pad to steer your bowling\nball into the zombies that crowd the\nlane, squashing as many as you can\nand preventing them from eating you\nalive!",
+  "release_date_on_eshop": "2014-10-30",
+  "product_code": "CTR-N-JZGP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Sports",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v1.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

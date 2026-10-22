@@ -1,32 +1,32 @@
 {
-    "tid": "000400000008F000",
-    "uid": "50010000010347",
-    "name": "Art of Balance TOUCH!",
-    "formal_name": "Art of Balance TOUCH!",
-    "description": "Grab your stylus and build a\nbalanced stack in this physics-based\npuzzler!<br>\n<br>\nPuzzle games must be addictive. This\nwas our top priority during the\ndevelopment of the game. That's why\nwe designed 200 levels that not only\nchallenge your skills but also your\nimagination. With its perfect touch\ncontrols 'Art of Balance TOUCH!' is\neasy to pick up and hard to put away.<br>\n<br>\nSeeking a real challenge? Then try\nout the new endurance mode and\ndrive your score ever higher.<br>\n<br>\nArt of Balance TOUCH! brings the\nultimate “just one more puzzle”\nexperience to your Nintendo 3DS™.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JABP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008F000",
+  "uid": "50010000010347",
+  "name": "Art of Balance TOUCH!",
+  "formal_name": "Art of Balance TOUCH!",
+  "description": "Grab your stylus and build a\nbalanced stack in this physics-based\npuzzler!<br>\n<br>\nPuzzle games must be addictive. This\nwas our top priority during the\ndevelopment of the game. That's why\nwe designed 200 levels that not only\nchallenge your skills but also your\nimagination. With its perfect touch\ncontrols 'Art of Balance TOUCH!' is\neasy to pick up and hard to put away.<br>\n<br>\nSeeking a real challenge? Then try\nout the new endurance mode and\ndrive your score ever higher.<br>\n<br>\nArt of Balance TOUCH! brings the\nultimate “just one more puzzle”\nexperience to your Nintendo 3DS™.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JABP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

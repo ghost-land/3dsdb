@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000123600",
-    "uid": "50010000029196",
-    "name": "Best of Solitaire",
-    "formal_name": "Best of Solitaire",
-    "description": "Best of Solitaire features 101 variations of the most well-known and best-loved single-player card game including Klondike, Freecell, Spider, Pyramid, Yukon.<br>\n<br>\nMost games have custom gameplay options so you can enjoy the game with your favourite rules. <br>\n<br>\nOn-screen instructions allow learning of new Solitaire variations. Statistics are available for players who love to track their wins. <br>\n<br>\nSave the game status any time for later. The game's style and interface has been designed for easy intuitive operation with the stylus or the +Control Pad.<br>\n<br>\nSit back and relax as you enjoy the endless challenge and fun with this fantastic Solitaire game collection.",
-    "release_date_on_eshop": "2015-01-08",
-    "product_code": "CTR-N-JVTE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000123600",
+  "uid": "50010000029196",
+  "name": "Best of Solitaire",
+  "formal_name": "Best of Solitaire",
+  "description": "Best of Solitaire features 101 variations of the most well-known and best-loved single-player card game including Klondike, Freecell, Spider, Pyramid, Yukon.<br>\n<br>\nMost games have custom gameplay options so you can enjoy the game with your favourite rules. <br>\n<br>\nOn-screen instructions allow learning of new Solitaire variations. Statistics are available for players who love to track their wins. <br>\n<br>\nSave the game status any time for later. The game's style and interface has been designed for easy intuitive operation with the stylus or the +Control Pad.<br>\n<br>\nSit back and relax as you enjoy the endless challenge and fun with this fantastic Solitaire game collection.",
+  "release_date_on_eshop": "2015-01-08",
+  "product_code": "CTR-N-JVTE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

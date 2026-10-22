@@ -1,27 +1,27 @@
 {
-    "tid": "000400000009E400",
-    "uid": "50010000016376",
-    "name": "Tecmo Bowl™",
-    "formal_name": "Tecmo Bowl™",
-    "description": "Match your gridiron skills against the computer or another human player.  From the snap, total control of every pass, run, and tackle is in your hands!  The player can select from 12 teams.\n<br><br>\nOn offense there are two run and two pass plays to choose from.  Defense consists of trying to guess which offensive play the opponent will select and then taking control of one of the defensive players before the snap.  A simple power-meter system is used for kicking field goals, extra points, and punts.",
-    "release_date_on_eshop": "2013-09-12",
-    "product_code": "CTR-N-TBBE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009E400",
+  "uid": "50010000016376",
+  "name": "Tecmo Bowl™",
+  "formal_name": "Tecmo Bowl™",
+  "description": "Match your gridiron skills against the computer or another human player.  From the snap, total control of every pass, run, and tackle is in your hands!  The player can select from 12 teams.\n<br><br>\nOn offense there are two run and two pass plays to choose from.  Defense consists of trying to guess which offensive play the opponent will select and then taking control of one of the defensive players before the snap.  A simple power-meter system is used for kicking field goals, extra points, and punts.",
+  "release_date_on_eshop": "2013-09-12",
+  "product_code": "CTR-N-TBBE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

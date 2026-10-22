@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000CF000",
-    "uid": "50010000014942",
-    "name": "BIT.TRIP SAGA",
-    "formal_name": "BIT.TRIP SAGA",
-    "description": "『BIT.TRIP SAGA』は、レトロゲーム感あふれるスタイリッシュなグラフィックのリズムアクションゲームです。さまざまなスタイルのリズムアクションを6本収録! シンプルな操作から生まれるリズムや、ゲームプレイとともに変化していくBGMがゲームを盛りあげます。\n<br>\n<br>【収録ゲームモード】\n<br>■ドットをパドルで打ち返せ! 「BIT.TRIP BEAT」\n<br>■迫りくるドットを撃ち落とせ! 「BIT.TRIP CORE」\n<br>■リズム弾幕ゲーム! 「BIT.TRIP VOID」\n<br>■リズム星人、爆走! 「BIT.TRIP RUNNER」\n<br>■本格派シューティング! 「BIT.TRIP FATE」\n<br>■すべてはBEATに還る……BEATがパワーアップ! 「BIT.TRIP FLUX」\n<br>\n<br>さあ、リズム星人と一緒に、音と映像が溶けあうトリップへ。",
-    "release_date_on_eshop": "2013-07-10",
-    "product_code": "CTR-N-JB4J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "シューティング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CF000",
+  "uid": "50010000014942",
+  "name": "BIT.TRIP SAGA",
+  "formal_name": "BIT.TRIP SAGA",
+  "description": "『BIT.TRIP SAGA』は、レトロゲーム感あふれるスタイリッシュなグラフィックのリズムアクションゲームです。さまざまなスタイルのリズムアクションを6本収録! シンプルな操作から生まれるリズムや、ゲームプレイとともに変化していくBGMがゲームを盛りあげます。\n<br>\n<br>【収録ゲームモード】\n<br>■ドットをパドルで打ち返せ! 「BIT.TRIP BEAT」\n<br>■迫りくるドットを撃ち落とせ! 「BIT.TRIP CORE」\n<br>■リズム弾幕ゲーム! 「BIT.TRIP VOID」\n<br>■リズム星人、爆走! 「BIT.TRIP RUNNER」\n<br>■本格派シューティング! 「BIT.TRIP FATE」\n<br>■すべてはBEATに還る……BEATがパワーアップ! 「BIT.TRIP FLUX」\n<br>\n<br>さあ、リズム星人と一緒に、音と映像が溶けあうトリップへ。",
+  "release_date_on_eshop": "2013-07-10",
+  "product_code": "CTR-N-JB4J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "シューティング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

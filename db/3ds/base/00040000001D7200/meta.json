@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001D7200",
-    "uid": "50010000047076",
-    "name": "RTO 2",
-    "formal_name": "RTO 2",
-    "description": "RTO 2 is a side scrolling first person shooter with elements from the survival horror genre.\n<br>Take control of a 6-man team through four episodes and do your best to survive and complete your mission.\n<br>RTO 2 features randomly generated levels and permadeath. It will pitch you up against hordes of enemies and test your survival skills.",
-    "release_date_on_eshop": "2018-11-22",
-    "product_code": "CTR-N-BR2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "First-Person Shooter",
-        "Shooter",
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Mild Violence"
-    ]
+  "tid": "00040000001D7200",
+  "uid": "50010000047076",
+  "name": "RTO 2",
+  "formal_name": "RTO 2",
+  "description": "RTO 2 is a side scrolling first person shooter with elements from the survival horror genre.\n<br>Take control of a 6-man team through four episodes and do your best to survive and complete your mission.\n<br>RTO 2 features randomly generated levels and permadeath. It will pitch you up against hordes of enemies and test your survival skills.",
+  "release_date_on_eshop": "2018-11-22",
+  "product_code": "CTR-N-BR2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "First-Person Shooter",
+    "Shooter",
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Mild Violence"
+  ]
 }

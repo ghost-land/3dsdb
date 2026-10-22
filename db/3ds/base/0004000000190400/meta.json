@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000190400",
-    "uid": "50010000040101",
-    "name": "Super Strike Beach Volleyball™",
-    "formal_name": "Super Strike Beach Volleyball™",
-    "description": "Hit the beach for some high-octane volleyball action! Train your character to become the best in Campaign Mode! See how many opponents you can defeat in a row in Survivor Mode! Play at your own pace and relax in Free Play Mode! With eight characters to choose from – each with their own unique Super Shot – you’re free to mix and match to make the ultimate beach volleyball duo! Can you defeat your rivals to become King of the Beach? It’s up to you!\n<br><br>\nTrain your character in six attributes!\nThree different modes of play!\nAlternate swimsuits and unique Super Shots!",
-    "release_date_on_eshop": "2016-04-14",
-    "product_code": "CTR-N-JBEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Action",
-        "Racing"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000190400",
+  "uid": "50010000040101",
+  "name": "Super Strike Beach Volleyball™",
+  "formal_name": "Super Strike Beach Volleyball™",
+  "description": "Hit the beach for some high-octane volleyball action! Train your character to become the best in Campaign Mode! See how many opponents you can defeat in a row in Survivor Mode! Play at your own pace and relax in Free Play Mode! With eight characters to choose from – each with their own unique Super Shot – you’re free to mix and match to make the ultimate beach volleyball duo! Can you defeat your rivals to become King of the Beach? It’s up to you!\n<br><br>\nTrain your character in six attributes!\nThree different modes of play!\nAlternate swimsuits and unique Super Shots!",
+  "release_date_on_eshop": "2016-04-14",
+  "product_code": "CTR-N-JBEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Action",
+    "Racing"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

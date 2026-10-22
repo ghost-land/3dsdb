@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000086600",
-    "uid": "50010000009023",
-    "name": "Mutant Mudds™",
-    "formal_name": "Mutant Mudds™",
-    "description": "NEW! Now featuring 20 FREE BONUS LEVELS. This brings the total level count to 80!!\n<br>\n<br>Love pixels? Fond of platformers? Is there a special place in your heart for the 8-bit and 16-bit era? Want to have fun? Yes? Well, you’ve come to the right place, my friend. Mutant Mudds is a “12-bit” action platformer full of pixels and platforming fun!\n<br>\n<br>Our hero, Max, may be just a 2D sprite, but he can leap into the third dimension by jetting between the background and the foreground playfields with his trusty jetpack in this unique dimensionally-woven experience. Armed with a heavy-duty water cannon, Max has what he needs to vanquish his long-term nemesis: the Mutant Mudds. Max must blast and hover his way across the soiled landscape to seek out mysterious Water Sprites. Legend says collecting all of the mysterious Water Sprites will wash the filthy Mutant Mudds away for good!",
-    "release_date_on_eshop": "2012-01-26",
-    "product_code": "CTR-N-JMDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v2.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000086600",
+  "uid": "50010000009023",
+  "name": "Mutant Mudds™",
+  "formal_name": "Mutant Mudds™",
+  "description": "NEW! Now featuring 20 FREE BONUS LEVELS. This brings the total level count to 80!!\n<br>\n<br>Love pixels? Fond of platformers? Is there a special place in your heart for the 8-bit and 16-bit era? Want to have fun? Yes? Well, you’ve come to the right place, my friend. Mutant Mudds is a “12-bit” action platformer full of pixels and platforming fun!\n<br>\n<br>Our hero, Max, may be just a 2D sprite, but he can leap into the third dimension by jetting between the background and the foreground playfields with his trusty jetpack in this unique dimensionally-woven experience. Armed with a heavy-duty water cannon, Max has what he needs to vanquish his long-term nemesis: the Mutant Mudds. Max must blast and hover his way across the soiled landscape to seek out mysterious Water Sprites. Legend says collecting all of the mysterious Water Sprites will wash the filthy Mutant Mudds away for good!",
+  "release_date_on_eshop": "2012-01-26",
+  "product_code": "CTR-N-JMDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v2.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

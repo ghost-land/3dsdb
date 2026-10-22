@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000169800",
-    "uid": "50010000036415",
-    "name": "Garfield Kart",
-    "formal_name": "Garfield Kart",
-    "description": "Join Garfield and his friends in the funniest fast and furry-ious game!\n16 different circuits withstunning 3D environments from the world of Garfield\n8 characters (Garfield, Odie, Jon, Nermal, Arlene, Liz, Harry and Squeak)\nUse your driving skills (skids, mini jumps, shortcuts)\n8 bonuses for some crazy attacks and defenses",
-    "release_date_on_eshop": "2015-08-13",
-    "product_code": "CTR-N-AGPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Racing",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000169800",
+  "uid": "50010000036415",
+  "name": "Garfield Kart",
+  "formal_name": "Garfield Kart",
+  "description": "Join Garfield and his friends in the funniest fast and furry-ious game!\n16 different circuits withstunning 3D environments from the world of Garfield\n8 characters (Garfield, Odie, Jon, Nermal, Arlene, Liz, Harry and Squeak)\nUse your driving skills (skids, mini jumps, shortcuts)\n8 bonuses for some crazy attacks and defenses",
+  "release_date_on_eshop": "2015-08-13",
+  "product_code": "CTR-N-AGPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

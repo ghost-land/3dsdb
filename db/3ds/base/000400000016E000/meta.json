@@ -1,28 +1,28 @@
 {
-    "tid": "000400000016E000",
-    "uid": "50010000040122",
-    "name": "Excave III : Tower of Destiny",
-    "formal_name": "Excave III : Tower of Destiny",
-    "description": "Excave III : Tower of Destiny is a classic Japanese style dungeon crawler with the heroine Scarlett taking on huge hordes of enemies in a climb up through the Fantasy Tower.\n<br>\n<br>The Fantasy Tower is connected to Internet Rankings so you can compete with players from around the country.\n<br>\n<br>Auto generated maps await so you can enjoy a different experience each time.\n<br>\n<br>If 『EXCAVEⅡ ~Wizard of the Underworld~』 save data is found then special unlocks will occur!",
-    "release_date_on_eshop": "2016-04-14",
-    "product_code": "CTR-N-KX3E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Action"
-    ],
-    "features": [
-        "Supports Online Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
-    "descriptors": []
+  "tid": "000400000016E000",
+  "uid": "50010000040122",
+  "name": "Excave III : Tower of Destiny",
+  "formal_name": "Excave III : Tower of Destiny",
+  "description": "Excave III : Tower of Destiny is a classic Japanese style dungeon crawler with the heroine Scarlett taking on huge hordes of enemies in a climb up through the Fantasy Tower.\n<br>\n<br>The Fantasy Tower is connected to Internet Rankings so you can compete with players from around the country.\n<br>\n<br>Auto generated maps await so you can enjoy a different experience each time.\n<br>\n<br>If 『EXCAVEⅡ ~Wizard of the Underworld~』 save data is found then special unlocks will occur!",
+  "release_date_on_eshop": "2016-04-14",
+  "product_code": "CTR-N-KX3E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Action"
+  ],
+  "features": [
+    "Supports Online Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>",
+  "descriptors": []
 }

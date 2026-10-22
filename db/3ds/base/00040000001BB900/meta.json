@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001BB900",
-    "uid": "50010000042514",
-    "name": "ねこあつめ",
-    "formal_name": "ねこあつめ",
-    "description": "ゴハンとグッズを置いておき庭先に集まってきたねこたちをただただ眺めて癒される。\n<br>基本的にはそんなゲームです。",
-    "release_date_on_eshop": "2017-04-26",
-    "product_code": "CTR-N-JN5J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション",
-        "テーブル"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001BB900",
+  "uid": "50010000042514",
+  "name": "ねこあつめ",
+  "formal_name": "ねこあつめ",
+  "description": "ゴハンとグッズを置いておき庭先に集まってきたねこたちをただただ眺めて癒される。\n<br>基本的にはそんなゲームです。",
+  "release_date_on_eshop": "2017-04-26",
+  "product_code": "CTR-N-JN5J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション",
+    "テーブル"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

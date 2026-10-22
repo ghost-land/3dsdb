@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000087500",
-    "uid": "50010000011387",
-    "name": "Crazy Chicken Pirates 3D",
-    "formal_name": "Crazy Chicken Pirates 3D",
-    "description": "The splendor and the beauty of the Chicken Island would make it an ideal vacation spot - if it weren't for those pirates. A one-legged captain, a gunner, a cutlass-wielding chicken and a treasure hunter... the island is home to countless perils, hidden extras and mysteries. The lords of the island are by no means willing to surrender themselves and their treasure without a fight.\n<br><br>\nCrazy Chicken Pirates 3D is a point & shoot action game where you take aim at birds as they scurry through the island and plunge bravely into the waves for a desperate counterattack. You only have 90 seconds to complete your raid by slaying pirates and collecting all hidden treasures.",
-    "release_date_on_eshop": "2012-08-16",
-    "product_code": "CTR-N-JMNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000087500",
+  "uid": "50010000011387",
+  "name": "Crazy Chicken Pirates 3D",
+  "formal_name": "Crazy Chicken Pirates 3D",
+  "description": "The splendor and the beauty of the Chicken Island would make it an ideal vacation spot - if it weren't for those pirates. A one-legged captain, a gunner, a cutlass-wielding chicken and a treasure hunter... the island is home to countless perils, hidden extras and mysteries. The lords of the island are by no means willing to surrender themselves and their treasure without a fight.\n<br><br>\nCrazy Chicken Pirates 3D is a point & shoot action game where you take aim at birds as they scurry through the island and plunge bravely into the waves for a desperate counterattack. You only have 90 seconds to complete your raid by slaying pirates and collecting all hidden treasures.",
+  "release_date_on_eshop": "2012-08-16",
+  "product_code": "CTR-N-JMNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B564345",
-    "uid": "50010000010421",
-    "name": "Curling Super Championship",
-    "formal_name": "Curling Super Championship",
-    "description": "Curling is the world famous sport in which players slide stones across a sheet of ice toward a target area, the \"house\". Two teams, each of four players, take turns sliding heavy stones, also called \"rocks\". Each team has eight stones. The objective is to achieve the highest score for a game. You can also challenge your friends to a multiplayer game to show everyone who the best player is!\n\nFeatures:\n- Realistic curling game\n- Real-time physics\n- Colorful graphics\n- Play against the computer AI or player vs player\n- Unlockable achievements",
-    "release_date_on_eshop": "2012-06-07",
-    "product_code": "TWL-N-KVCE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Simulation",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B564345",
+  "uid": "50010000010421",
+  "name": "Curling Super Championship",
+  "formal_name": "Curling Super Championship",
+  "description": "Curling is the world famous sport in which players slide stones across a sheet of ice toward a target area, the \"house\". Two teams, each of four players, take turns sliding heavy stones, also called \"rocks\". Each team has eight stones. The objective is to achieve the highest score for a game. You can also challenge your friends to a multiplayer game to show everyone who the best player is!\n\nFeatures:\n- Realistic curling game\n- Real-time physics\n- Colorful graphics\n- Play against the computer AI or player vs player\n- Unlockable achievements",
+  "release_date_on_eshop": "2012-06-07",
+  "product_code": "TWL-N-KVCE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Simulation",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

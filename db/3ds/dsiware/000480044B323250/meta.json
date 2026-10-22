@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B323250",
-    "uid": "50010000014874",
-    "name": "California Super Sports",
-    "formal_name": "California Super Sports",
-    "description": "California Super Sports is a collection\nof six unique games that are popular\nin the U.S.: croquet, dodgeball,\nlawndarts, rollerblade, shuffleboard\narcade and target football. It’s\nlocated in sunny California, offering\nlots of fun and various experiences\nwith a mixture of action, racing and\ntactical games.\n<br/><br/>\n- Six unique sports games popular in\nAmerica\n<br/><br/>\n- 3D graphics\n<br/><br/>\n- Eight cool “chibi” characters\n<br/><br/>\n- Different difficulty levels of AI\n<br/><br/>\n- Smooth gameplay\n<br/><br/>\n- Entertainment for many hours\n<br/><br/>\n- Play against one to three CPU\nopponents",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "TWL-N-K22P",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B323250",
+  "uid": "50010000014874",
+  "name": "California Super Sports",
+  "formal_name": "California Super Sports",
+  "description": "California Super Sports is a collection\nof six unique games that are popular\nin the U.S.: croquet, dodgeball,\nlawndarts, rollerblade, shuffleboard\narcade and target football. It’s\nlocated in sunny California, offering\nlots of fun and various experiences\nwith a mixture of action, racing and\ntactical games.\n<br/><br/>\n- Six unique sports games popular in\nAmerica\n<br/><br/>\n- 3D graphics\n<br/><br/>\n- Eight cool “chibi” characters\n<br/><br/>\n- Different difficulty levels of AI\n<br/><br/>\n- Smooth gameplay\n<br/><br/>\n- Entertainment for many hours\n<br/><br/>\n- Play against one to three CPU\nopponents",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "TWL-N-K22P",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

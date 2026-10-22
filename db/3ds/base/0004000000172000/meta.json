@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000172000",
-    "uid": "50010000034215",
-    "name": "Xeodrifter",
-    "formal_name": "Xeodrifter",
-    "description": "Xeodrifter is the story of an\ninterstellar drifter traveling the stars\non a simple mission of exploration. We\njoin our nomad as he embarks on the\ninvestigation of a small cluster of four\nplanets in the omega sector, after a\ncollision with a rogue asteroid\ndamaged his warp core.\n<br/><br/>\nBlast your way through alien\nlandscapes, seek out valuable secrets,\nand defeat ancient guardians to\nunlock powers from a legendary\nsupreme culture in this exciting\njourney of mystery and adventure.",
-    "release_date_on_eshop": "2015-06-18",
-    "product_code": "CTR-N-KXEP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000172000",
+  "uid": "50010000034215",
+  "name": "Xeodrifter",
+  "formal_name": "Xeodrifter",
+  "description": "Xeodrifter is the story of an\ninterstellar drifter traveling the stars\non a simple mission of exploration. We\njoin our nomad as he embarks on the\ninvestigation of a small cluster of four\nplanets in the omega sector, after a\ncollision with a rogue asteroid\ndamaged his warp core.\n<br/><br/>\nBlast your way through alien\nlandscapes, seek out valuable secrets,\nand defeat ancient guardians to\nunlock powers from a legendary\nsupreme culture in this exciting\njourney of mystery and adventure.",
+  "release_date_on_eshop": "2015-06-18",
+  "product_code": "CTR-N-KXEP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

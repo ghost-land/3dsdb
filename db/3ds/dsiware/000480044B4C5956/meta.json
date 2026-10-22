@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B4C5956",
-    "uid": "50010000007002",
-    "name": "Dragon's Lair® II",
-    "formal_name": "Dragon's Lair® II: Time Warp",
-    "description": "Princess Daphne has been spirited\naway to a wrinkle in time by the Evil\nWizard Mordroc who plans to force\nher into marriage. Only you, Dirk the\nDaring can save her. Transported by a\nbumbling old time machine, you begin\nthe rescue mission. But you must\nhurry, for once the Casket of Doom\nhas opened, Mordroc will place the\nDeath Ring upon Daphne’s finger in\nmarriage and she will be lost forever\nin the Time Warp!<br>\n<br>\nDragon’s Lair II: Time Warp is a fully\nanimated classic arcade game from\nlegendary animator Don Bluth. You’ll\nmake your way through time by using\nyour Nintendo DSi to move and wield\nyour sword. Beware of your foes, as\nthey are numerous!<br>\n<br>\nOnly you can save Princess Daphne.\nGood luck adventurer, your quest\nawaits!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KLYV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C5956",
+  "uid": "50010000007002",
+  "name": "Dragon's Lair® II",
+  "formal_name": "Dragon's Lair® II: Time Warp",
+  "description": "Princess Daphne has been spirited\naway to a wrinkle in time by the Evil\nWizard Mordroc who plans to force\nher into marriage. Only you, Dirk the\nDaring can save her. Transported by a\nbumbling old time machine, you begin\nthe rescue mission. But you must\nhurry, for once the Casket of Doom\nhas opened, Mordroc will place the\nDeath Ring upon Daphne’s finger in\nmarriage and she will be lost forever\nin the Time Warp!<br>\n<br>\nDragon’s Lair II: Time Warp is a fully\nanimated classic arcade game from\nlegendary animator Don Bluth. You’ll\nmake your way through time by using\nyour Nintendo DSi to move and wield\nyour sword. Beware of your foes, as\nthey are numerous!<br>\n<br>\nOnly you can save Princess Daphne.\nGood luck adventurer, your quest\nawaits!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KLYV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

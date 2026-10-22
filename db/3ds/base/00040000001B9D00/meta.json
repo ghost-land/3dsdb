@@ -1,34 +1,34 @@
 {
-    "tid": "00040000001B9D00",
-    "uid": "50010000042485",
-    "name": "RPG Maker Fes",
-    "formal_name": "RPG Maker Fes",
-    "description": "Ready to become a game developer? RPG Maker Fes makes it easy to develop any RPG you can imagine without any programming knowledge! Simple but powerful tools let you bring to life the amazing stories in your head! Customize characters, stories, combat and more to become the next great developer! Then, share your creations and play other users' games with RPG Maker Player! What story will you share?",
-    "release_date_on_eshop": "2017-06-22",
-    "product_code": "CTR-P-BRPP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B9D00",
+  "uid": "50010000042485",
+  "name": "RPG Maker Fes",
+  "formal_name": "RPG Maker Fes",
+  "description": "Ready to become a game developer? RPG Maker Fes makes it easy to develop any RPG you can imagine without any programming knowledge! Simple but powerful tools let you bring to life the amazing stories in your head! Customize characters, stories, combat and more to become the next great developer! Then, share your creations and play other users' games with RPG Maker Player! What story will you share?",
+  "release_date_on_eshop": "2017-06-22",
+  "product_code": "CTR-P-BRPP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

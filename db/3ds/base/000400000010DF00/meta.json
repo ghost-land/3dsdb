@@ -1,33 +1,33 @@
 {
-    "tid": "000400000010DF00",
-    "uid": "50010000023695",
-    "name": "Squids Odyssey",
-    "formal_name": "Squids Odyssey",
-    "description": "Squids Odyssey is a unique mix of action strategy and RPG: build your\n<br>team of Squid heroes for epic turn-based battles against corrupted\n<br>crabs and shrimps! Steev and the rest of the Squids are in danger! An\n<br>infectious black ooze is corrupting their world. The band of unlikely\n<br>heroes need to fight back to save their kingdoms! Squids Odyssey is not\n<br>just about gorgeous cartoon art, jaunty music and humorous\n<br>storytelling, the battles provide a deep challenge as strategy and skill\n<br>are required to use the environment, the Squids’ strengths and enemies’\n<br>weaknesses to victory!",
-    "release_date_on_eshop": "2014-07-03",
-    "product_code": "CTR-N-JCJP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Strategy",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010DF00",
+  "uid": "50010000023695",
+  "name": "Squids Odyssey",
+  "formal_name": "Squids Odyssey",
+  "description": "Squids Odyssey is a unique mix of action strategy and RPG: build your\n<br>team of Squid heroes for epic turn-based battles against corrupted\n<br>crabs and shrimps! Steev and the rest of the Squids are in danger! An\n<br>infectious black ooze is corrupting their world. The band of unlikely\n<br>heroes need to fight back to save their kingdoms! Squids Odyssey is not\n<br>just about gorgeous cartoon art, jaunty music and humorous\n<br>storytelling, the battles provide a deep challenge as strategy and skill\n<br>are required to use the environment, the Squids’ strengths and enemies’\n<br>weaknesses to victory!",
+  "release_date_on_eshop": "2014-07-03",
+  "product_code": "CTR-N-JCJP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Strategy",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

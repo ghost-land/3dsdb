@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B344A45",
-    "uid": "50010000000821",
-    "name": "Simply Mahjong",
-    "formal_name": "Simply Mahjong",
-    "description": "Simply Mahjong gives you exactly what you want: pure mahjong on your Nintendo DSi system! Mahjong is a Chinese tile matching game. The tiles are arranged in a special pattern with their faces upward. A tile is said to be open if it can be moved either left or right without disturbing other tiles. The goal is to match pairs of identical tiles. The game is finished when all pairs of tiles have been removed from the board or there are no exposed pairs remaining. The simple game design and easy, intuitive controls make it a game that the whole family can enjoy. The game has 50 puzzles in each level to provide hours of gameplay fun.",
-    "release_date_on_eshop": "2010-09-06",
-    "product_code": "TWL-N-K4JE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B344A45",
+  "uid": "50010000000821",
+  "name": "Simply Mahjong",
+  "formal_name": "Simply Mahjong",
+  "description": "Simply Mahjong gives you exactly what you want: pure mahjong on your Nintendo DSi system! Mahjong is a Chinese tile matching game. The tiles are arranged in a special pattern with their faces upward. A tile is said to be open if it can be moved either left or right without disturbing other tiles. The goal is to match pairs of identical tiles. The game is finished when all pairs of tiles have been removed from the board or there are no exposed pairs remaining. The simple game design and easy, intuitive controls make it a game that the whole family can enjoy. The game has 50 puzzles in each level to provide hours of gameplay fun.",
+  "release_date_on_eshop": "2010-09-06",
+  "product_code": "TWL-N-K4JE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

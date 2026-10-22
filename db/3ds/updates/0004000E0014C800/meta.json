@@ -1,27 +1,27 @@
 {
-    "tid": "0004000E0014C800",
-    "uid": "50010000031615",
-    "name": "Azure Striker GUNVOLT\nUpdate Ver. 1.4",
-    "formal_name": "Azure Striker GUNVOLT\nUpdate Ver. 1.4",
-    "description": "Azure Striker Gunvolt has been recharged and loaded up with brand new features!\n<br>\n<br>#1: Japanese Voice Mode\n<br>In this long-awaited mode, players will be able to play the original Japanese version of the game re-translated into English. Includes lots of additional dialogue, all fully voiced in Japanese. \n<br>\n<br>#2: Boss Rush Mission\n<br>\n<br>Beat the game to unlock the new Boss Rush mission! Get 1000+ Kudos during Boss Rush to hear the English version of Beyond the Blue!\n<br>\n<br>#3: Brand New Lumen Song\n<br>\n<br>Lumen’s brand new song “Sakura Efflorescence” now plays during normal mission playthroughs!\n<br>\n<br>#4: Support for New Nintendo 3DS™\n<br>\n<br>Use the ZL Button and ZR Button to change your weapon on the fly! Enjoy higher CPU power and shorter loading times too!\n<br>\n<br>#5: Transfer Save Data from the Demo Version\n<br>\n<br>Transfer save data from the demo version to the full version while retaining all items and credits!\n<br>\n<br>#6: Bug Fixes\n<br>\n<br>A bug that prevents players from progressing mid-game has been fixed\n<br>Typo fixes\n<br>Other bug fixes",
-    "release_date_on_eshop": "2016-12-22",
-    "product_code": "CTR-U-JV7E",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v3.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E0014C800",
+  "uid": "50010000031615",
+  "name": "Azure Striker GUNVOLT\nUpdate Ver. 1.4",
+  "formal_name": "Azure Striker GUNVOLT\nUpdate Ver. 1.4",
+  "description": "Azure Striker Gunvolt has been recharged and loaded up with brand new features!\n<br>\n<br>#1: Japanese Voice Mode\n<br>In this long-awaited mode, players will be able to play the original Japanese version of the game re-translated into English. Includes lots of additional dialogue, all fully voiced in Japanese. \n<br>\n<br>#2: Boss Rush Mission\n<br>\n<br>Beat the game to unlock the new Boss Rush mission! Get 1000+ Kudos during Boss Rush to hear the English version of Beyond the Blue!\n<br>\n<br>#3: Brand New Lumen Song\n<br>\n<br>Lumen’s brand new song “Sakura Efflorescence” now plays during normal mission playthroughs!\n<br>\n<br>#4: Support for New Nintendo 3DS™\n<br>\n<br>Use the ZL Button and ZR Button to change your weapon on the fly! Enjoy higher CPU power and shorter loading times too!\n<br>\n<br>#5: Transfer Save Data from the Demo Version\n<br>\n<br>Transfer save data from the demo version to the full version while retaining all items and credits!\n<br>\n<br>#6: Bug Fixes\n<br>\n<br>A bug that prevents players from progressing mid-game has been fixed\n<br>Typo fixes\n<br>Other bug fixes",
+  "release_date_on_eshop": "2016-12-22",
+  "product_code": "CTR-U-JV7E",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v3.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000160300",
-    "uid": "50010000030395",
-    "name": "KAMI",
-    "formal_name": "KAMI",
-    "description": "KAMI is deceptively simple: fold out colored paper to fill the screen in with few moves as possible.\n<br><br>\nRelaxing and easy to pick up, you'll soon find yourself deep in contemplation to perfect each puzzle.\n<br><br>\nCreated by State of Play, famous for their handcrafted aesthetics, KAMI has been created with real paper in an elegant Japanese theme. \n<br><br>\nKAMI is tactile, engaging and stunning to look at.\n<br><br>\n63 unique puzzles!\nPremium Puzzles and Hints are included.\nAlso includes a Calming and elegant soundtrack.",
-    "release_date_on_eshop": "2015-02-05",
-    "product_code": "CTR-N-KMZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000160300",
+  "uid": "50010000030395",
+  "name": "KAMI",
+  "formal_name": "KAMI",
+  "description": "KAMI is deceptively simple: fold out colored paper to fill the screen in with few moves as possible.\n<br><br>\nRelaxing and easy to pick up, you'll soon find yourself deep in contemplation to perfect each puzzle.\n<br><br>\nCreated by State of Play, famous for their handcrafted aesthetics, KAMI has been created with real paper in an elegant Japanese theme. \n<br><br>\nKAMI is tactile, engaging and stunning to look at.\n<br><br>\n63 unique puzzles!\nPremium Puzzles and Hints are included.\nAlso includes a Calming and elegant soundtrack.",
+  "release_date_on_eshop": "2015-02-05",
+  "product_code": "CTR-N-KMZE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

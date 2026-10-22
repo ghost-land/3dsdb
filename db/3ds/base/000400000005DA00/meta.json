@@ -1,27 +1,27 @@
 {
-    "tid": "000400000005DA00",
-    "uid": "50010000028215",
-    "name": "FINAL FANTASY",
-    "formal_name": "FINAL FANTASY",
-    "description": "1987年に登場し、心に響く壮大なストーリーと演出、\n<br>記憶に残る繊細なサウンドで人々に感動を与えた『ファイナルファンタジー』シリーズの原点となる作品。\n<br>\n<br>風、水、土、火……4つの力の源「クリスタル」に支えられた世界が舞台。\n<br>クリスタルに導かれし若き4人の戦士たちが訪れた地「コーネリア」からクリスタルの物語が幕を開ける。\n<br>\n<br>リメイク作品から追加されたエキストラボス、ダンジョンも完全収録。\n<br>さらに美しいグラフィックを3Dで体験できます。",
-    "release_date_on_eshop": "2015-01-21",
-    "product_code": "CTR-N-JFFJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "ロールプレイング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005DA00",
+  "uid": "50010000028215",
+  "name": "FINAL FANTASY",
+  "formal_name": "FINAL FANTASY",
+  "description": "1987年に登場し、心に響く壮大なストーリーと演出、\n<br>記憶に残る繊細なサウンドで人々に感動を与えた『ファイナルファンタジー』シリーズの原点となる作品。\n<br>\n<br>風、水、土、火……4つの力の源「クリスタル」に支えられた世界が舞台。\n<br>クリスタルに導かれし若き4人の戦士たちが訪れた地「コーネリア」からクリスタルの物語が幕を開ける。\n<br>\n<br>リメイク作品から追加されたエキストラボス、ダンジョンも完全収録。\n<br>さらに美しいグラフィックを3Dで体験できます。",
+  "release_date_on_eshop": "2015-01-21",
+  "product_code": "CTR-N-JFFJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "ロールプレイング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

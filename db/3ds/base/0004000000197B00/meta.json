@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000197B00",
-    "uid": "50010000040317",
-    "name": "Smash Cat Heroes",
-    "formal_name": "Smash Cat Heroes",
-    "description": "Slash and smash enemies coming at\nyou from all directions in non-stop\ncat-attack action \"Smash Cat\nHeroes!\" Take control of one of the\nsamurai cats and go in search for the\nlegendary Super Cat Food that will\nsupposedly grant its eater all the\npower in the world!\n<br/><br/>\nEach playable character has its own\nfighting style with short and long\nrange attacks, plus special and hyper\nattacks.\n<br/><br/>\nCollect coins on your travels to level\nup your cat’s abilities, increasing their\nattack strength, smash attacks,\nspeed, HP and defenses.\n<br/><br/>\nStand still to charge your energy\ngauge when the coast is clear and\nthen use the energy for special and\nhyper attacks that inflict heavy\ndamage. Pull of a series of attacks\nwithout getting hit you’ll charge the\nCombo counter that will trigger the\ndevastating Spinning Cat Attack!",
-    "release_date_on_eshop": "2016-05-26",
-    "product_code": "CTR-N-JN2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Fighting",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000197B00",
+  "uid": "50010000040317",
+  "name": "Smash Cat Heroes",
+  "formal_name": "Smash Cat Heroes",
+  "description": "Slash and smash enemies coming at\nyou from all directions in non-stop\ncat-attack action \"Smash Cat\nHeroes!\" Take control of one of the\nsamurai cats and go in search for the\nlegendary Super Cat Food that will\nsupposedly grant its eater all the\npower in the world!\n<br/><br/>\nEach playable character has its own\nfighting style with short and long\nrange attacks, plus special and hyper\nattacks.\n<br/><br/>\nCollect coins on your travels to level\nup your cat’s abilities, increasing their\nattack strength, smash attacks,\nspeed, HP and defenses.\n<br/><br/>\nStand still to charge your energy\ngauge when the coast is clear and\nthen use the energy for special and\nhyper attacks that inflict heavy\ndamage. Pull of a series of attacks\nwithout getting hit you’ll charge the\nCombo counter that will trigger the\ndevastating Spinning Cat Attack!",
+  "release_date_on_eshop": "2016-05-26",
+  "product_code": "CTR-N-JN2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Fighting",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

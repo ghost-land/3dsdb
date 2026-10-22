@@ -1,30 +1,30 @@
 {
-    "tid": "000400000008ED00",
-    "uid": "50010000010372",
-    "name": "Ice Age™ Continental Drift: \nArctic Games",
-    "formal_name": "Ice Age™ Continental Drift: \nArctic Games",
-    "description": "Ready to get wet, wild and wooly?\n<br><br>\nTeam up with your favorite Ice Age characters in a continental competition of glacial proportions!  Battle for treasure with the Herd and the Pirates in their craziest adventure yet!\n<br><br>\nHop, Smash and Dash in 10 wild arctic events! <br>\nBattle to win gold, silver and bronze acorns.<br>\nTest your skills in Story and Free Play mode.<br>\nChallenge your friends in fast-paced multi-player action!                                                                                                                                         ",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AQLE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Sports",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008ED00",
+  "uid": "50010000010372",
+  "name": "Ice Age™ Continental Drift: \nArctic Games",
+  "formal_name": "Ice Age™ Continental Drift: \nArctic Games",
+  "description": "Ready to get wet, wild and wooly?\n<br><br>\nTeam up with your favorite Ice Age characters in a continental competition of glacial proportions!  Battle for treasure with the Herd and the Pirates in their craziest adventure yet!\n<br><br>\nHop, Smash and Dash in 10 wild arctic events! <br>\nBattle to win gold, silver and bronze acorns.<br>\nTest your skills in Story and Free Play mode.<br>\nChallenge your friends in fast-paced multi-player action!                                                                                                                                         ",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AQLE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Sports",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

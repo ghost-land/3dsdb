@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000111B00",
-    "uid": "50010000020214",
-    "name": "Yoshi's New Island",
-    "formal_name": "Yoshi's New Island™",
-    "description": "Yoshi™ is back and he’s bustin' out the big eggs. Crush your surroundings and create paths with his new Mega and Metal Eggdozers in a brand-new platforming adventure! It’ll take more than egg tosses and flutter jumps to lead fledgling Mario™ through a dangerous new island littered with inventive power-ups. Can you save poor Luigi™?\n<br><br>\nGuide Yoshi and a young Mario through all-new stages, from slippery slopes to watery wonderlands. New transformations turn Yoshi into Helicopters, Mine Carts, Jackhammers, and more—all steerable with gyro controls. There’s even a special multiplayer mode where you face off with friends in six fast, fun competitions.\n<br><br>\nBut as Yoshi fans know, it’s all about the collectibles and they’re more enticing than ever to find. You’ll need the new Metal and Mega Eggdozers to beat puzzling platforming moments and locate every collectible and surprise. They’re hiding—are you seeking?\n",
-    "release_date_on_eshop": "2014-03-14",
-    "product_code": "CTR-N-ATAE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000111B00",
+  "uid": "50010000020214",
+  "name": "Yoshi's New Island",
+  "formal_name": "Yoshi's New Island™",
+  "description": "Yoshi™ is back and he’s bustin' out the big eggs. Crush your surroundings and create paths with his new Mega and Metal Eggdozers in a brand-new platforming adventure! It’ll take more than egg tosses and flutter jumps to lead fledgling Mario™ through a dangerous new island littered with inventive power-ups. Can you save poor Luigi™?\n<br><br>\nGuide Yoshi and a young Mario through all-new stages, from slippery slopes to watery wonderlands. New transformations turn Yoshi into Helicopters, Mine Carts, Jackhammers, and more—all steerable with gyro controls. There’s even a special multiplayer mode where you face off with friends in six fast, fun competitions.\n<br><br>\nBut as Yoshi fans know, it’s all about the collectibles and they’re more enticing than ever to find. You’ll need the new Metal and Mega Eggdozers to beat puzzling platforming moments and locate every collectible and surprise. They’re hiding—are you seeking?\n",
+  "release_date_on_eshop": "2014-03-14",
+  "product_code": "CTR-N-ATAE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

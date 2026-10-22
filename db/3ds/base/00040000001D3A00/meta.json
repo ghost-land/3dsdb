@@ -1,25 +1,25 @@
 {
-    "tid": "00040000001D3A00",
-    "uid": "50010000045657",
-    "name": "Bloodstained: Curse of the Moon",
-    "formal_name": "Bloodstained: Curse of the Moon",
-    "description": "悪魔と錬金術師を憎む東洋の退魔士である主人公「斬月」を操作し、魑魅魍魎が潜む悪魔の城に挑みます。また、斬月が物語の中で出会う人物たちを仲間にすることで操作可能なキャラクターが増加します。\n<br>\n<br>増加した複数のキャラクターを切り替え、その特性を活かしたプレイをすることが攻略の鍵となります。また、仲間とどのように向き合うかで難易度とプレイボリューム、さらに物語の結末が変化します。\n<br>\n<br>※本作品は、2015年に開催したKickstarter \"Bloodstained: Ritual of the Night\"において約束した8bitスタイルのタイトルです。",
-    "release_date_on_eshop": "2018-05-24",
-    "product_code": "CTR-N-BLMJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "15"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
-    "descriptors": []
+  "tid": "00040000001D3A00",
+  "uid": "50010000045657",
+  "name": "Bloodstained: Curse of the Moon",
+  "formal_name": "Bloodstained: Curse of the Moon",
+  "description": "悪魔と錬金術師を憎む東洋の退魔士である主人公「斬月」を操作し、魑魅魍魎が潜む悪魔の城に挑みます。また、斬月が物語の中で出会う人物たちを仲間にすることで操作可能なキャラクターが増加します。\n<br>\n<br>増加した複数のキャラクターを切り替え、その特性を活かしたプレイをすることが攻略の鍵となります。また、仲間とどのように向き合うかで難易度とプレイボリューム、さらに物語の結末が変化します。\n<br>\n<br>※本作品は、2015年に開催したKickstarter \"Bloodstained: Ritual of the Night\"において約束した8bitスタイルのタイトルです。",
+  "release_date_on_eshop": "2018-05-24",
+  "product_code": "CTR-N-BLMJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "15"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "descriptors": []
 }

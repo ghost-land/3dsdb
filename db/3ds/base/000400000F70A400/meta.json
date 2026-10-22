@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F70A400",
-    "uid": "50010000042387",
-    "name": "PINK DOT BLUE DOT",
-    "formal_name": "PINK DOT BLUE DOT",
-    "description": "Welcome to PINK DOT BLUE DOT. Tap the screen in this variation of the classic game while keeping the colors in sync. Endless fun for everyone - give it a try today!",
-    "release_date_on_eshop": "2017-03-09",
-    "product_code": "KTR-N-CDBP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70A400",
+  "uid": "50010000042387",
+  "name": "PINK DOT BLUE DOT",
+  "formal_name": "PINK DOT BLUE DOT",
+  "description": "Welcome to PINK DOT BLUE DOT. Tap the screen in this variation of the classic game while keeping the colors in sync. Endless fun for everyone - give it a try today!",
+  "release_date_on_eshop": "2017-03-09",
+  "product_code": "KTR-N-CDBP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

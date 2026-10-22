@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B384D50",
-    "uid": "50010000001501",
-    "name": "Model Academy",
-    "formal_name": "Model Academy",
-    "description": "You play to advance from being the\ngirl next door to a popular top model.\nYour agent Nick will keep presenting\nyou with new challenges, which you\nhave to overcome. You'll be travelling\naround the world, getting to know\nmany influential people.<br>\n<br>\nYou don't just have to prove your\ntaste in choosing your outfits, but\nalso your skill on the catwalk and\nyour speed during photoshoots.\nRegular fitness training and beauty\ntreatments will let you shine when\nfacing your clients.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K8MP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B384D50",
+  "uid": "50010000001501",
+  "name": "Model Academy",
+  "formal_name": "Model Academy",
+  "description": "You play to advance from being the\ngirl next door to a popular top model.\nYour agent Nick will keep presenting\nyou with new challenges, which you\nhave to overcome. You'll be travelling\naround the world, getting to know\nmany influential people.<br>\n<br>\nYou don't just have to prove your\ntaste in choosing your outfits, but\nalso your skill on the catwalk and\nyour speed during photoshoots.\nRegular fitness training and beauty\ntreatments will let you shine when\nfacing your clients.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K8MP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

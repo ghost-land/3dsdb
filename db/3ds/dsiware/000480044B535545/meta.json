@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B535545",
-    "uid": "50010000003804",
-    "name": "NUMBER BATTLE™",
-    "formal_name": "NUMBER BATTLE™",
-    "description": "From Japan comes NUMBER BATTLE, a board game that invokes the ancient art of feng shui while challenging players to clear the playing field. Take turns against human or computer opponents to reach a target score by placing numbered tiles on the board and linking the arms of each tile in various ways. Watch for the Winds of Change to possibly blow over the board during a battle, resulting in special squares that will score bonus points or affect game play in new ways. Items that aid you in your pursuit of points can also be found, but cost points to use and must be placed strategically. Go it alone in the main Story or Puzzle modes, or battle against up to three opponents from around the world via Nintendo Wi-Fi Connection. You can even learn from your past with History mode, which shows the moves recorded during previous Nintendo WFC contests. This unique combination of puzzle and strategy elements result in an exciting battle of wits—can you guide your Warrior to victory?",
-    "release_date_on_eshop": "2010-01-25",
-    "product_code": "TWL-N-KSUE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.\n",
-    "descriptors": []
+  "tid": "000480044B535545",
+  "uid": "50010000003804",
+  "name": "NUMBER BATTLE™",
+  "formal_name": "NUMBER BATTLE™",
+  "description": "From Japan comes NUMBER BATTLE, a board game that invokes the ancient art of feng shui while challenging players to clear the playing field. Take turns against human or computer opponents to reach a target score by placing numbered tiles on the board and linking the arms of each tile in various ways. Watch for the Winds of Change to possibly blow over the board during a battle, resulting in special squares that will score bonus points or affect game play in new ways. Items that aid you in your pursuit of points can also be found, but cost points to use and must be placed strategically. Go it alone in the main Story or Puzzle modes, or battle against up to three opponents from around the world via Nintendo Wi-Fi Connection. You can even learn from your past with History mode, which shows the moves recorded during previous Nintendo WFC contests. This unique combination of puzzle and strategy elements result in an exciting battle of wits—can you guide your Warrior to victory?",
+  "release_date_on_eshop": "2010-01-25",
+  "product_code": "TWL-N-KSUE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.\n",
+  "descriptors": []
 }

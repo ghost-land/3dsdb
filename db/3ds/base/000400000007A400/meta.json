@@ -1,29 +1,29 @@
 {
-    "tid": "000400000007A400",
-    "uid": "50010000035675",
-    "name": "Flick Golf 3D",
-    "formal_name": "Flick Golf 3D",
-    "description": "Welcome to Flick Golf, the world’s\nmost addictive handheld golf game.\n“Flick Golf 3D delivers a polished,\nsimple and accessible experience.” -\nNintendo Life\n<br/><br/>\nExperience Full Fat’s award-winning\n‘after touch’ controls for the first time\non Nintendo 3DS™!\n<br/><br/>\nFlick, spin and curve your shots with\npinpoint accuracy to sink the perfect\nhole-in-one. Adjust the ball in the air\nusing the Nintendo 3DS™ Touch\nScreen. StreetPass™ with other\nNintendo 3DS™ users to collect their\nhigh scores and challenge them to\nbecome a golf master!\n<br/><br/>\nTurn up the 3D Depth Slider to\nperfectly judge the position of the ball\nand hit the shots of your dreams.\n<br/><br/>\n“The graphics are among the cleanest\nwe've seen from an indie dev...Full\nFat deserves credit for optimising fully\nfor Nintendo 3DS™.” - Nintendo Life\n<br/><br/>\nBeat challenging courses in\nQuickshot, compete for trophies in\nWorld Tour, or put your golf skills to\nthe ultimate test in Quickshot Pro.\nDownload Flick Golf 3D today!",
-    "release_date_on_eshop": "2015-07-30",
-    "product_code": "CTR-N-JFQP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007A400",
+  "uid": "50010000035675",
+  "name": "Flick Golf 3D",
+  "formal_name": "Flick Golf 3D",
+  "description": "Welcome to Flick Golf, the world’s\nmost addictive handheld golf game.\n“Flick Golf 3D delivers a polished,\nsimple and accessible experience.” -\nNintendo Life\n<br/><br/>\nExperience Full Fat’s award-winning\n‘after touch’ controls for the first time\non Nintendo 3DS™!\n<br/><br/>\nFlick, spin and curve your shots with\npinpoint accuracy to sink the perfect\nhole-in-one. Adjust the ball in the air\nusing the Nintendo 3DS™ Touch\nScreen. StreetPass™ with other\nNintendo 3DS™ users to collect their\nhigh scores and challenge them to\nbecome a golf master!\n<br/><br/>\nTurn up the 3D Depth Slider to\nperfectly judge the position of the ball\nand hit the shots of your dreams.\n<br/><br/>\n“The graphics are among the cleanest\nwe've seen from an indie dev...Full\nFat deserves credit for optimising fully\nfor Nintendo 3DS™.” - Nintendo Life\n<br/><br/>\nBeat challenging courses in\nQuickshot, compete for trophies in\nWorld Tour, or put your golf skills to\nthe ultimate test in Quickshot Pro.\nDownload Flick Golf 3D today!",
+  "release_date_on_eshop": "2015-07-30",
+  "product_code": "CTR-N-JFQP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

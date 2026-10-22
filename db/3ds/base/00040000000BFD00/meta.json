@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000BFD00",
-    "uid": "50010000013110",
-    "name": "@SIMPLE DLシリーズ Vol.7\nTHE 浮気彼氏 ～突撃!浮気現場～",
-    "formal_name": "@SIMPLE DLシリーズ Vol.7\nTHE 浮気彼氏 ～突撃!浮気現場～",
-    "description": "証拠を集めて彼氏の浮気を暴く、ガサイレ修羅場ゲーム。\n<br>彼氏の部屋を探索して浮気の証拠の数々を集めたら、シラを切る彼氏に証拠を突きつけて矛盾を証明し浮気を暴きます。\n<br>登場する浮気彼氏はタイプもストーリーも異なる4人を収録。\n<br>\n<br>【収録シナリオ】\n<br>･突撃!浮気現場\n<br>･冷たい浮気男\n<br>･女を連れ込む男\n<br>･二次元に浮気する彼氏",
-    "release_date_on_eshop": "2013-01-30",
-    "product_code": "CTR-N-JUWJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BFD00",
+  "uid": "50010000013110",
+  "name": "@SIMPLE DLシリーズ Vol.7\nTHE 浮気彼氏 ～突撃!浮気現場～",
+  "formal_name": "@SIMPLE DLシリーズ Vol.7\nTHE 浮気彼氏 ～突撃!浮気現場～",
+  "description": "証拠を集めて彼氏の浮気を暴く、ガサイレ修羅場ゲーム。\n<br>彼氏の部屋を探索して浮気の証拠の数々を集めたら、シラを切る彼氏に証拠を突きつけて矛盾を証明し浮気を暴きます。\n<br>登場する浮気彼氏はタイプもストーリーも異なる4人を収録。\n<br>\n<br>【収録シナリオ】\n<br>･突撃!浮気現場\n<br>･冷たい浮気男\n<br>･女を連れ込む男\n<br>･二次元に浮気する彼氏",
+  "release_date_on_eshop": "2013-01-30",
+  "product_code": "CTR-N-JUWJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

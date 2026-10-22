@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000F3300",
-    "uid": "50010000016997",
-    "name": "El profesor Layton\ny el legado de los ashalanti™",
-    "formal_name": "El profesor Layton\n<br>y el legado de los ashalanti™",
-    "description": "La última entrega de la serie del\n<br>profesor Layton lleva la resolución de\n<br>puzles a una escala mundial, la misión\n<br>más ambiciosa del profesor Layton\n<br>hasta la fecha. Tras recibir una\n<br>misteriosa carta en la que se anuncia\n<br>el descubrimiento de una momia\n<br>viviente, el profesor Layton y su\n<br>equipo se dirigen a una ciudad situada\n<br>en el gélido Ártico. Allí liberarán a\n<br>una joven de su prisión de hielo,\n<br>poniendo en marcha una gran aventura\n<br>a bordo de una aeronave que los\n<br>llevará a lugares espectaculares en su\n<br>misión para descubrir los misterios de\n<br>antiguas civilizaciones.",
-    "release_date_on_eshop": "2013-11-08",
-    "product_code": "CTR-P-AL6S",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "Spanish"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F3300",
+  "uid": "50010000016997",
+  "name": "El profesor Layton\ny el legado de los ashalanti™",
+  "formal_name": "El profesor Layton\n<br>y el legado de los ashalanti™",
+  "description": "La última entrega de la serie del\n<br>profesor Layton lleva la resolución de\n<br>puzles a una escala mundial, la misión\n<br>más ambiciosa del profesor Layton\n<br>hasta la fecha. Tras recibir una\n<br>misteriosa carta en la que se anuncia\n<br>el descubrimiento de una momia\n<br>viviente, el profesor Layton y su\n<br>equipo se dirigen a una ciudad situada\n<br>en el gélido Ártico. Allí liberarán a\n<br>una joven de su prisión de hielo,\n<br>poniendo en marcha una gran aventura\n<br>a bordo de una aeronave que los\n<br>llevará a lugares espectaculares en su\n<br>misión para descubrir los misterios de\n<br>antiguas civilizaciones.",
+  "release_date_on_eshop": "2013-11-08",
+  "product_code": "CTR-P-AL6S",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

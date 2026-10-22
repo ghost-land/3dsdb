@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F708900",
-    "uid": "50010000041704",
-    "name": "BOX UP",
-    "formal_name": "BOX UP",
-    "description": "Can you BOX UP? Guide the box up the screen without hitting any of the platforms. Levels are randomly generated to add an extra challenge. How high of a score can you obtain? Easy pick up and play action for all ages. Try BOX UP today!",
-    "release_date_on_eshop": "2016-10-27",
-    "product_code": "KTR-N-CBXE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F708900",
+  "uid": "50010000041704",
+  "name": "BOX UP",
+  "formal_name": "BOX UP",
+  "description": "Can you BOX UP? Guide the box up the screen without hitting any of the platforms. Levels are randomly generated to add an extra challenge. How high of a score can you obtain? Easy pick up and play action for all ages. Try BOX UP today!",
+  "release_date_on_eshop": "2016-10-27",
+  "product_code": "KTR-N-CBXE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

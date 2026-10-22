@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000E9800",
-    "uid": "50010000014432",
-    "name": "3D 獣王記",
-    "formal_name": "3D 獣王記",
-    "description": "数々のゲーム機に移植され話題を呼んだあの変身アクションが、3D立体視に対応して登場! アテナを救うために甦った男たちが脅威のパワーを持つ獣人に変身、巨大モンスターと戦います。新モード「きまぐれ変身」を追加、ローカルプレイによる2人同時プレイにも対応しました。",
-    "release_date_on_eshop": "2013-05-29",
-    "product_code": "CTR-N-JA7J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E9800",
+  "uid": "50010000014432",
+  "name": "3D 獣王記",
+  "formal_name": "3D 獣王記",
+  "description": "数々のゲーム機に移植され話題を呼んだあの変身アクションが、3D立体視に対応して登場! アテナを救うために甦った男たちが脅威のパワーを持つ獣人に変身、巨大モンスターと戦います。新モード「きまぐれ変身」を追加、ローカルプレイによる2人同時プレイにも対応しました。",
+  "release_date_on_eshop": "2013-05-29",
+  "product_code": "CTR-N-JA7J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

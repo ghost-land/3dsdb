@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B554345",
-    "uid": "50010000009770",
-    "name": "Chuck E. Cheese's®\nArcade Room",
-    "formal_name": "Chuck E. Cheese's® Arcade Room",
-    "description": "Chuck E. Cheese's® Arcade Room is a fun and exciting video game that digitally recreates the magic of being at a Chuck E. Cheese's®! Many games and prizes await you in Chuck E. Cheese's® Arcade Room! Polish off your toy hammer and Smash-a-Munch! Make consecutive shots to go on fire in Basketball Frenzy! Ride like the wind in Jasper’s Racing! You can even customize your very own Chuck E. Cheese’s® avatar! The object of the game is to have fun, play games, and collect tickets. Various prizes and toys in the gift shop are redeemable with tickets.",
-    "release_date_on_eshop": "2012-04-26",
-    "product_code": "TWL-N-KUCE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Sports"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B554345",
+  "uid": "50010000009770",
+  "name": "Chuck E. Cheese's®\nArcade Room",
+  "formal_name": "Chuck E. Cheese's® Arcade Room",
+  "description": "Chuck E. Cheese's® Arcade Room is a fun and exciting video game that digitally recreates the magic of being at a Chuck E. Cheese's®! Many games and prizes await you in Chuck E. Cheese's® Arcade Room! Polish off your toy hammer and Smash-a-Munch! Make consecutive shots to go on fire in Basketball Frenzy! Ride like the wind in Jasper’s Racing! You can even customize your very own Chuck E. Cheese’s® avatar! The object of the game is to have fun, play games, and collect tickets. Various prizes and toys in the gift shop are redeemable with tickets.",
+  "release_date_on_eshop": "2012-04-26",
+  "product_code": "TWL-N-KUCE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Sports"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

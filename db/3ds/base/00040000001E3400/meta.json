@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001E3400",
-    "uid": "50010000049775",
-    "name": "Otosan: Nintendo 3DS Edition",
-    "formal_name": "Otosan: Nintendo 3DS Edition",
-    "description": "Fight fear and make your dad proud in this bite-sized adventure.",
-    "release_date_on_eshop": "2023-03-08",
-    "product_code": "CTR-P-A33E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Crude Humor",
-        "Mild Violence"
-    ]
+  "tid": "00040000001E3400",
+  "uid": "50010000049775",
+  "name": "Otosan: Nintendo 3DS Edition",
+  "formal_name": "Otosan: Nintendo 3DS Edition",
+  "description": "Fight fear and make your dad proud in this bite-sized adventure.",
+  "release_date_on_eshop": "2023-03-08",
+  "product_code": "CTR-P-A33E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Crude Humor",
+    "Mild Violence"
+  ]
 }

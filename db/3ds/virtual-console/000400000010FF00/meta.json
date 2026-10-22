@@ -1,25 +1,25 @@
 {
-    "tid": "000400000010FF00",
-    "uid": "50010000025995",
-    "name": "Game & Watch™ Gallery 3",
-    "formal_name": "Game & Watch™ Gallery 3",
-    "description": "Flash back to the '80s with Game &\nWatch Gallery 3, featuring original\nand updated versions of five handheld\nclassics. Experience the original\nLCD-style versions plus modern\nremakes with enhanced graphics,\nsound and gameplay.\n<br/><br/>\nEgg: catch them before they hatch.\n<br/><br/>\nTurtle Bridge: carry the packages\nacross the turtles' backs.\n<br/><br/>\nGreenhouse: protect plants from\npesky pests.\n<br/><br/>\nDonkey Kong Jr.™: grab the key and\nfree DK.\n<br/><br/>\nMario Bros.™: help Mario™ and\nLuigi™ keep the factory flowing.\n<br/><br/>\nPlus, play well and you can unlock\nnew features and even hidden classic\ngames!",
-    "release_date_on_eshop": "2014-09-25",
-    "product_code": "CTR-N-QA6P",
-    "platform_name": "Game Boy Color",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000010FF00",
+  "uid": "50010000025995",
+  "name": "Game & Watch™ Gallery 3",
+  "formal_name": "Game & Watch™ Gallery 3",
+  "description": "Flash back to the '80s with Game &\nWatch Gallery 3, featuring original\nand updated versions of five handheld\nclassics. Experience the original\nLCD-style versions plus modern\nremakes with enhanced graphics,\nsound and gameplay.\n<br/><br/>\nEgg: catch them before they hatch.\n<br/><br/>\nTurtle Bridge: carry the packages\nacross the turtles' backs.\n<br/><br/>\nGreenhouse: protect plants from\npesky pests.\n<br/><br/>\nDonkey Kong Jr.™: grab the key and\nfree DK.\n<br/><br/>\nMario Bros.™: help Mario™ and\nLuigi™ keep the factory flowing.\n<br/><br/>\nPlus, play well and you can unlock\nnew features and even hidden classic\ngames!",
+  "release_date_on_eshop": "2014-09-25",
+  "product_code": "CTR-N-QA6P",
+  "platform_name": "Game Boy Color",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000B6B00",
-    "uid": "50010000012449",
-    "name": "@SIMPLE DLシリーズ Vol.6 THE密室からの脱出クマドナルボウル編",
-    "formal_name": "@SIMPLE DLシリーズ Vol.6\nTHE 密室からの脱出\n～遊びの天国クマドナルボウル編～",
-    "description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。今度の舞台はアミューズメント施設の「クマドナルボウル」です。なぜか、今をときめく憧れのアイドルと密室に閉じ込められてしまった主人公。彼女を無事イベントホールに送り届けることができるのか?",
-    "release_date_on_eshop": "2012-11-14",
-    "product_code": "CTR-N-JM6J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B6B00",
+  "uid": "50010000012449",
+  "name": "@SIMPLE DLシリーズ Vol.6 THE密室からの脱出クマドナルボウル編",
+  "formal_name": "@SIMPLE DLシリーズ Vol.6\nTHE 密室からの脱出\n～遊びの天国クマドナルボウル編～",
+  "description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。今度の舞台はアミューズメント施設の「クマドナルボウル」です。なぜか、今をときめく憧れのアイドルと密室に閉じ込められてしまった主人公。彼女を無事イベントホールに送り届けることができるのか?",
+  "release_date_on_eshop": "2012-11-14",
+  "product_code": "CTR-N-JM6J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

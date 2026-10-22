@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001C9B00",
-    "uid": "50010000043080",
-    "name": "キッドトリップ RUN!",
-    "formal_name": "キッドトリップ RUN!",
-    "description": "突然、謎の島に不時着した主人公「キッドトリップ」\n<br>そこには、面倒な野生動物たちでいっぱいだった……\n<br>4つのワールド、20ステージを駆け抜けて、島からの脱出を目指そう！\n<br>オートランで走り続ける主人公を操作します。\n<br>行く手を阻む動物たちをジャンプで避けたり、石を投げて倒しながら、進もう！\n<br>自分のレベルに合わせて、「ウォーク」「ダッシュ」「ハードコア」の3種類の操作方法が\n<br>選べます。",
-    "release_date_on_eshop": "2017-08-30",
-    "product_code": "CTR-N-KT6J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション",
-        "アドベンチャー",
-        "レース"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C9B00",
+  "uid": "50010000043080",
+  "name": "キッドトリップ RUN!",
+  "formal_name": "キッドトリップ RUN!",
+  "description": "突然、謎の島に不時着した主人公「キッドトリップ」\n<br>そこには、面倒な野生動物たちでいっぱいだった……\n<br>4つのワールド、20ステージを駆け抜けて、島からの脱出を目指そう！\n<br>オートランで走り続ける主人公を操作します。\n<br>行く手を阻む動物たちをジャンプで避けたり、石を投げて倒しながら、進もう！\n<br>自分のレベルに合わせて、「ウォーク」「ダッシュ」「ハードコア」の3種類の操作方法が\n<br>選べます。",
+  "release_date_on_eshop": "2017-08-30",
+  "product_code": "CTR-N-KT6J",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション",
+    "アドベンチャー",
+    "レース"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

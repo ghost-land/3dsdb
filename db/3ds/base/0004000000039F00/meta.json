@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000039F00",
-    "uid": "50010000006911",
-    "name": "ビックリマン漢熟覇王\n三位動乱戦創紀",
-    "formal_name": "ビックリマン漢熟覇王\n三位動乱戦創紀",
-    "description": "チョコレート菓子「ビックリマン漢熟覇王」がゲームになって登場! \n<br>漢字の画数や熟語の総画数で、相手と漢熟バトルを繰り広げましょう。\n<br>またニンテンドー3DSのカメラ機能を使用して、自分だけのオリジナルシールを作ることもできます。漢字や熟語を遊びながら、楽しく学ぶことができるタイトルです。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AB9J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "テーブル",
-        "学習"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応",
-        "ダウンロードプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000039F00",
+  "uid": "50010000006911",
+  "name": "ビックリマン漢熟覇王\n三位動乱戦創紀",
+  "formal_name": "ビックリマン漢熟覇王\n三位動乱戦創紀",
+  "description": "チョコレート菓子「ビックリマン漢熟覇王」がゲームになって登場! \n<br>漢字の画数や熟語の総画数で、相手と漢熟バトルを繰り広げましょう。\n<br>またニンテンドー3DSのカメラ機能を使用して、自分だけのオリジナルシールを作ることもできます。漢字や熟語を遊びながら、楽しく学ぶことができるタイトルです。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AB9J",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "テーブル",
+    "学習"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "ダウンロードプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

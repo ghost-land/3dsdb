@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B444256",
-    "uid": "50010000019668",
-    "name": "Delbo",
-    "formal_name": "Delbo",
-    "description": "Delbo is a shooting-puzzle game. The\naim is to shoot the orb from the lower\nscreen to hit the falling orbs from the\nupper screen.<br>\n<br>\nWhen the colour of orbs falling from\nthe upper screen is the same as the\nthrowing orb, they will be\nextinguished.<br>\n<br>\nIt's easy to play, but it's so hard to\nmaster.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KDBV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B444256",
+  "uid": "50010000019668",
+  "name": "Delbo",
+  "formal_name": "Delbo",
+  "description": "Delbo is a shooting-puzzle game. The\naim is to shoot the orb from the lower\nscreen to hit the falling orbs from the\nupper screen.<br>\n<br>\nWhen the colour of orbs falling from\nthe upper screen is the same as the\nthrowing orb, they will be\nextinguished.<br>\n<br>\nIt's easy to play, but it's so hard to\nmaster.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KDBV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

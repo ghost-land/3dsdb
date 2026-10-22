@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001B3500",
-    "uid": "50010000042159",
-    "name": "Quiet, Please!",
-    "formal_name": "Quiet, Please!",
-    "description": "Classic, lighthearted adventure game fun! Use your wits and a bit of mischief to explore, interact with your environment and solve puzzles in this bundle of three old-school adventure games: \"Quiet, Please!\", \"Quiet Christmas\" and \"Vacation Vexation\".\n<br>\n<br>Quiet, Please!\n<br>After an annoying day at school, you just want some peace and quiet. But everything at home is so noisy! Dad is channel surfing, Mom is yapping on the phone and your pesky kid brother won't go to bed!\n<br>\n<br>Quiet Christmas\n<br>It's Christmas Eve and you just want to go to bed and wake up on Christmas morning. But the tree is broken, the house is too cold, Mr. Peabody's tacky Xmas display is annoying and as always your little brother won't go to bed.\n<br>\n<br>Vacation Vexation\n<br>Ah, the family seaside vacation. Sun, sand and... annoyances galore. Explore, solve puzzles and play arcade mini-games.",
-    "release_date_on_eshop": "2017-01-05",
-    "product_code": "CTR-N-KQPE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B3500",
+  "uid": "50010000042159",
+  "name": "Quiet, Please!",
+  "formal_name": "Quiet, Please!",
+  "description": "Classic, lighthearted adventure game fun! Use your wits and a bit of mischief to explore, interact with your environment and solve puzzles in this bundle of three old-school adventure games: \"Quiet, Please!\", \"Quiet Christmas\" and \"Vacation Vexation\".\n<br>\n<br>Quiet, Please!\n<br>After an annoying day at school, you just want some peace and quiet. But everything at home is so noisy! Dad is channel surfing, Mom is yapping on the phone and your pesky kid brother won't go to bed!\n<br>\n<br>Quiet Christmas\n<br>It's Christmas Eve and you just want to go to bed and wake up on Christmas morning. But the tree is broken, the house is too cold, Mr. Peabody's tacky Xmas display is annoying and as always your little brother won't go to bed.\n<br>\n<br>Vacation Vexation\n<br>Ah, the family seaside vacation. Sun, sand and... annoyances galore. Explore, solve puzzles and play arcade mini-games.",
+  "release_date_on_eshop": "2017-01-05",
+  "product_code": "CTR-N-KQPE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

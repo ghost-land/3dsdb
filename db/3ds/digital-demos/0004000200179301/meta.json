@@ -1,32 +1,32 @@
 {
-    "tid": "0004000200179301",
-    "uid": "50010000040335",
-    "name": "Teddy Together",
-    "formal_name": "Teddy Together",
-    "description": "Become best friends with a teddy bear brought to life in Teddy Together. \n<br>Take care of a special teddy bear who can talk, walk and play games in a title that’s ideal for parents and children to play together. Who hasn’t dreamed of their favourite toy coming to life?\n<br>\n<br>Visit amiibo.nintendo.eu for\n<br>compatible amiibo™ and the latest\n<br>information. To use amiibo on\n<br>Nintendo 3DS, Nintendo 3DS XL and\n<br>Nintendo 2DS systems a\n<br>Nintendo 3DS NFC Reader/Writer is\n<br>required.",
-    "release_date_on_eshop": "2016-07-01",
-    "product_code": "CTR-P-AKMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200179301",
+  "uid": "50010000040335",
+  "name": "Teddy Together",
+  "formal_name": "Teddy Together",
+  "description": "Become best friends with a teddy bear brought to life in Teddy Together. \n<br>Take care of a special teddy bear who can talk, walk and play games in a title that’s ideal for parents and children to play together. Who hasn’t dreamed of their favourite toy coming to life?\n<br>\n<br>Visit amiibo.nintendo.eu for\n<br>compatible amiibo™ and the latest\n<br>information. To use amiibo on\n<br>Nintendo 3DS, Nintendo 3DS XL and\n<br>Nintendo 2DS systems a\n<br>Nintendo 3DS NFC Reader/Writer is\n<br>required.",
+  "release_date_on_eshop": "2016-07-01",
+  "product_code": "CTR-P-AKMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

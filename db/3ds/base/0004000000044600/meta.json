@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000044600",
-    "uid": "50010000000522",
-    "name": "Deca Sports Extreme",
-    "formal_name": "Deca Sports Extreme",
-    "description": "Deca Sports Extreme is coming to the Nintendo 3DS with 10 complete 3D sporting events! Kick, shoot, and bounce your way to the top across all of the included events:  Soccer, Tennis, Basketball, Ice Hockey, Bowling, Snowball Fight, Sumo Wrestling, Snowmobile Racing, Blowguns, and Trampoline! This all-new handheld version includes several features never seen before in a DECA SPORTS game, like power-ups & un-lockable equipment! Of course, as always, it still features multiplayer and customizable teams. With 10 sports entirely in 3D, DECA SPORTS EXTREME will take sports to a whole new dimension!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ADEE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Multiplayer",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Cartoon Violence"
-    ]
+  "tid": "0004000000044600",
+  "uid": "50010000000522",
+  "name": "Deca Sports Extreme",
+  "formal_name": "Deca Sports Extreme",
+  "description": "Deca Sports Extreme is coming to the Nintendo 3DS with 10 complete 3D sporting events! Kick, shoot, and bounce your way to the top across all of the included events:  Soccer, Tennis, Basketball, Ice Hockey, Bowling, Snowball Fight, Sumo Wrestling, Snowmobile Racing, Blowguns, and Trampoline! This all-new handheld version includes several features never seen before in a DECA SPORTS game, like power-ups & un-lockable equipment! Of course, as always, it still features multiplayer and customizable teams. With 10 sports entirely in 3D, DECA SPORTS EXTREME will take sports to a whole new dimension!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ADEE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Multiplayer",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ]
 }

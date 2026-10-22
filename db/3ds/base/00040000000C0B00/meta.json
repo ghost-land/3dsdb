@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000C0B00",
-    "uid": "50010000018534",
-    "name": "3D Galaxy Force II",
-    "formal_name": "3D Galaxy Force II",
-    "description": "Halcyon, ruler of the invading Fourth Empire, has marked Junos as his final target in a galaxy wide campaign for dominance.\n<br><br>\nSending the bulk of his forces, he attacks with a single purpose – to eliminate all life forms in the system in order to build the seat of his power on the ashes of each of its five planets. As the star pilot of the governing Space Federation, it’s up to you to strap yourself into your TRY-X and turn the tables on Halcyon.\n<br><br>\nRe-mastered in 3D, Galaxy Force II 3D features drastically improved visuals and supports 16:9 wide screen and GamePad Pro. Arcade fans can now also enjoy Galaxy Force II in Arcade Cabinet mode!",
-    "release_date_on_eshop": "2013-12-12",
-    "product_code": "CTR-N-JGFE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000C0B00",
+  "uid": "50010000018534",
+  "name": "3D Galaxy Force II",
+  "formal_name": "3D Galaxy Force II",
+  "description": "Halcyon, ruler of the invading Fourth Empire, has marked Junos as his final target in a galaxy wide campaign for dominance.\n<br><br>\nSending the bulk of his forces, he attacks with a single purpose – to eliminate all life forms in the system in order to build the seat of his power on the ashes of each of its five planets. As the star pilot of the governing Space Federation, it’s up to you to strap yourself into your TRY-X and turn the tables on Halcyon.\n<br><br>\nRe-mastered in 3D, Galaxy Force II 3D features drastically improved visuals and supports 16:9 wide screen and GamePad Pro. Arcade fans can now also enjoy Galaxy Force II in Arcade Cabinet mode!",
+  "release_date_on_eshop": "2013-12-12",
+  "product_code": "CTR-N-JGFE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

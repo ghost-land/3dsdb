@@ -1,37 +1,37 @@
 {
-    "tid": "00040000001B5500",
-    "uid": "50010000043340",
-    "name": "Story of Seasons:\nTrio of Towns",
-    "formal_name": "Story of Seasons:\n<br>Trio of Towns",
-    "description": "Take on the role of a young city slicker who has always wished for a life on the farm. Your dream leads you to a huge plot of open land just ready to be filled with crops, livestock, decorations, and more.\n<br>\n<br>Your new farm is at the crossroads of three different towns. Westown, with its cows and corrals, has everything the classic frontier settler needs. Right next door is Lulukoko Town, a warm, friendly paradise to rival any tropical island. Rounding out the neighborhood is Tsuyukusa, a traditional Far Eastern village. Become friends with the residents and help them improve their towns, then connect to other farmers like you, locally or via internet, to chat and trade useful items.\n<br>\n<br>Grow crops, raise adorable pets, become a renowned chef or fashionista, and even discover romance with the locals.",
-    "release_date_on_eshop": "2017-10-13",
-    "product_code": "CTR-P-BB3P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "RPG"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Nintendo Network",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B5500",
+  "uid": "50010000043340",
+  "name": "Story of Seasons:\nTrio of Towns",
+  "formal_name": "Story of Seasons:\n<br>Trio of Towns",
+  "description": "Take on the role of a young city slicker who has always wished for a life on the farm. Your dream leads you to a huge plot of open land just ready to be filled with crops, livestock, decorations, and more.\n<br>\n<br>Your new farm is at the crossroads of three different towns. Westown, with its cows and corrals, has everything the classic frontier settler needs. Right next door is Lulukoko Town, a warm, friendly paradise to rival any tropical island. Rounding out the neighborhood is Tsuyukusa, a traditional Far Eastern village. Become friends with the residents and help them improve their towns, then connect to other farmers like you, locally or via internet, to chat and trade useful items.\n<br>\n<br>Grow crops, raise adorable pets, become a renowned chef or fashionista, and even discover romance with the locals.",
+  "release_date_on_eshop": "2017-10-13",
+  "product_code": "CTR-P-BB3P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F703500",
-    "uid": "50010000041557",
-    "name": "Super Castlevania IV",
-    "formal_name": "Super Castlevania IV",
-    "description": "A century of Transylvanian tranquillity has ended. Count Dracula has returned, and this time he has a tombstone with your name on it, Simon Belmont!\n<br>\n<br>Super Castlevania IV is a highlight of Konami’s popular Castlevania series, bringing some of the finest platform exploration and action to Super NES™.\n<br>\n<br>Explore the castle and its gruesome grounds, using your whip like a grappling hook to swing past traps; and arm yourself with weapons like axes, holy water and more, to send Dracula’s minions back to the grave!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-10-20",
-    "product_code": "KTR-N-UAUE",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F703500",
+  "uid": "50010000041557",
+  "name": "Super Castlevania IV",
+  "formal_name": "Super Castlevania IV",
+  "description": "A century of Transylvanian tranquillity has ended. Count Dracula has returned, and this time he has a tombstone with your name on it, Simon Belmont!\n<br>\n<br>Super Castlevania IV is a highlight of Konami’s popular Castlevania series, bringing some of the finest platform exploration and action to Super NES™.\n<br>\n<br>Explore the castle and its gruesome grounds, using your whip like a grappling hook to swing past traps; and arm yourself with weapons like axes, holy water and more, to send Dracula’s minions back to the grave!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-10-20",
+  "product_code": "KTR-N-UAUE",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B584856",
-    "uid": "50010000007613",
-    "name": "Extreme Hangman 2",
-    "formal_name": "Extreme Hangman 2",
-    "description": "The sequel Extreme Hangman 2\nboasts over 3000 words in 14 totally\nnew categories, with ten funny\nanimations and four eye-catching\nbackgrounds to choose from.<br>\n<br>\nCheck your skill and try to save the\nhangman by guessing words in three\ndifficulty levels.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KXHV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Party"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584856",
+  "uid": "50010000007613",
+  "name": "Extreme Hangman 2",
+  "formal_name": "Extreme Hangman 2",
+  "description": "The sequel Extreme Hangman 2\nboasts over 3000 words in 14 totally\nnew categories, with ten funny\nanimations and four eye-catching\nbackgrounds to choose from.<br>\n<br>\nCheck your skill and try to save the\nhangman by guessing words in three\ndifficulty levels.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KXHV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Party"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.4.0",
+  "disclaimer": null,
+  "descriptors": []
 }

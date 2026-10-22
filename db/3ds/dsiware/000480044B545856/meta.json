@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B545856",
-    "uid": "50010000006401",
-    "name": "High Stakes Texas Hold'em",
-    "formal_name": "High Stakes Texas Hold'em",
-    "description": "Hold'em and Fold'em with \"High\nStakes Texas Hold'em\", a world\nfamous poker game now available as\nDSiWare!<br>\n<br>\nEnjoy Single Player mode, or\naddictive Multiplayer mode with up to\n4 players.<br>\n<br>\nPlay with \"no limit\" rules at the\nWorld Championship with over $16\nmillion in prize money!<br>\n<br>\nAn \"information analysis feature\"\nallows you to calculate all sorts of\ninformation, and another feature\nallows you to view hand explanations\nat any time!<br>\n<br>\nGet your poker fix at any time with\n\"High Stakes Texas Hold'em!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KTXV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports Online Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B545856",
+  "uid": "50010000006401",
+  "name": "High Stakes Texas Hold'em",
+  "formal_name": "High Stakes Texas Hold'em",
+  "description": "Hold'em and Fold'em with \"High\nStakes Texas Hold'em\", a world\nfamous poker game now available as\nDSiWare!<br>\n<br>\nEnjoy Single Player mode, or\naddictive Multiplayer mode with up to\n4 players.<br>\n<br>\nPlay with \"no limit\" rules at the\nWorld Championship with over $16\nmillion in prize money!<br>\n<br>\nAn \"information analysis feature\"\nallows you to calculate all sorts of\ninformation, and another feature\nallows you to view hand explanations\nat any time!<br>\n<br>\nGet your poker fix at any time with\n\"High Stakes Texas Hold'em!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KTXV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports Online Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

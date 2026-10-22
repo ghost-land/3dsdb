@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000069F00",
-    "uid": "50010000008981",
-    "name": "鉄拳3D プライムエディション",
-    "formal_name": "鉄拳3D プライムエディション",
-    "description": "3Dで秒間60フレームのゲームプレイを実現し、さらに3Dの映画も1本で楽しめる「鉄拳」が登場!タッチスクリーンによるお手軽操作で誰でも壮快な空中コンボ体験が可能。\n<br>インターネット対戦で世界中のプレイヤーと段位戦が行えます。歴代のCGイラストを3Dカード化した鉄拳カード集めなどやり込み要素も満載!!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ATKJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "格闘"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000069F00",
+  "uid": "50010000008981",
+  "name": "鉄拳3D プライムエディション",
+  "formal_name": "鉄拳3D プライムエディション",
+  "description": "3Dで秒間60フレームのゲームプレイを実現し、さらに3Dの映画も1本で楽しめる「鉄拳」が登場!タッチスクリーンによるお手軽操作で誰でも壮快な空中コンボ体験が可能。\n<br>インターネット対戦で世界中のプレイヤーと段位戦が行えます。歴代のCGイラストを3Dカード化した鉄拳カード集めなどやり込み要素も満載!!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ATKJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "格闘"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

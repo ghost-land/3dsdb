@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000153B00",
-    "uid": "50010000032635",
-    "name": "A-Train™ 3D:\nCity Simulator",
-    "formal_name": "A-Train™ 3D:\nCity Simulator",
-    "description": "In A-Train 3D: City Simulator, you\nbecome the CEO of a transportation\ncompany of a city. As CEO, it's your\njob to take on the challenges your\ncity is facing. Build train and bus\nlines, purchase subsidiaries, and help\nturn your fledgling city into a thriving\nmetropolis!\n<br/><br/>\nBut watch out! If you run out of\nfunds, or aren't able to complete your\ngoals, you'll be fired! Therefore,\nyou'll have to do your best to keep\nthe company going strong!\n<br/><br/>\n• Keep the cities, towns, and outlying\nvillages running smoothly!<br/>\n• Buy and place complex\ntransportation systems to increase\npopulation!<br/>\n• Map Editor Mode: Lets you build\nand set scenario requirements to beat!",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-N-AALP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Strategy",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000153B00",
+  "uid": "50010000032635",
+  "name": "A-Train™ 3D:\nCity Simulator",
+  "formal_name": "A-Train™ 3D:\nCity Simulator",
+  "description": "In A-Train 3D: City Simulator, you\nbecome the CEO of a transportation\ncompany of a city. As CEO, it's your\njob to take on the challenges your\ncity is facing. Build train and bus\nlines, purchase subsidiaries, and help\nturn your fledgling city into a thriving\nmetropolis!\n<br/><br/>\nBut watch out! If you run out of\nfunds, or aren't able to complete your\ngoals, you'll be fired! Therefore,\nyou'll have to do your best to keep\nthe company going strong!\n<br/><br/>\n• Keep the cities, towns, and outlying\nvillages running smoothly!<br/>\n• Buy and place complex\ntransportation systems to increase\npopulation!<br/>\n• Map Editor Mode: Lets you build\nand set scenario requirements to beat!",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-N-AALP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Strategy",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

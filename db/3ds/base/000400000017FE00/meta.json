@@ -1,30 +1,30 @@
 {
-    "tid": "000400000017FE00",
-    "uid": "50010000038599",
-    "name": "Angry Video Game\nNerd Adventures",
-    "formal_name": "Angry Video Game\nNerd Adventures",
-    "description": "Angry Video Game Nerd Adventures\nfeatures the AVGN and friends as they\nblast their way through 10 levels of\nfun, fast paced 2D action based on\nthe AVGN's adventures from his online\nseries. With multiple playable\ncharacters, power ups, cameos\ngalore, tons of secrets, and more --\nwe're making a game that all fans of\nvideo games will enjoy! If you're a fan\nof old school difficulty, fart jokes,\nThe Nerd, and/or old school\nplatformers, chances are you'll enjoy\nAVGN Adventures.\n<br/><br/>\nSome say \"hard,\" but we're saying\n\"rewarding!\" Why? Because every\ncheck point you get, every boss you\nbeat, every accomplishment is\nsomething you've earned. You feel\nlike a stud. This is a game that allows\nyou to brag to your friends if you beat\nit.\n<br/><br/>\nYes, this is the official The Angry\nVideo Game Nerd game!",
-    "release_date_on_eshop": "2015-12-10",
-    "product_code": "CTR-N-KNAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Shooter",
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000017FE00",
+  "uid": "50010000038599",
+  "name": "Angry Video Game\nNerd Adventures",
+  "formal_name": "Angry Video Game\nNerd Adventures",
+  "description": "Angry Video Game Nerd Adventures\nfeatures the AVGN and friends as they\nblast their way through 10 levels of\nfun, fast paced 2D action based on\nthe AVGN's adventures from his online\nseries. With multiple playable\ncharacters, power ups, cameos\ngalore, tons of secrets, and more --\nwe're making a game that all fans of\nvideo games will enjoy! If you're a fan\nof old school difficulty, fart jokes,\nThe Nerd, and/or old school\nplatformers, chances are you'll enjoy\nAVGN Adventures.\n<br/><br/>\nSome say \"hard,\" but we're saying\n\"rewarding!\" Why? Because every\ncheck point you get, every boss you\nbeat, every accomplishment is\nsomething you've earned. You feel\nlike a stud. This is a game that allows\nyou to brag to your friends if you beat\nit.\n<br/><br/>\nYes, this is the official The Angry\nVideo Game Nerd game!",
+  "release_date_on_eshop": "2015-12-10",
+  "product_code": "CTR-N-KNAP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Shooter",
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

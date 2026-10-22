@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B494345",
-    "uid": "50010000002421",
-    "name": "Music on: Playing Piano",
-    "formal_name": "Music on: Playing Piano",
-    "description": "Playing the piano has never been so easy and so much fun! This new collection of 15 popular songs allows you to enjoy a complete musical experience even if you have no prior knowledge of the piano. Notes transformed into rectangles appear over the piano keys to show you where, when and how to play them. The song speed increases depending on the game's level. Music on: Playing Piano is an easy and intuitive game that will challenge your auditory and visual coordination.\n\nSongs included:\n*For Old Times (Traditional)\n*Red River Valley (Traditional)\n*Greensleeves (Traditional)\n*Yankee Doodle Dandy (George M. Cohan)\n*El Condor Pasa (A. Robles)\n*Old Black Joe (Stephen Foster)\n*The Saints (Traditional)\n*Alouette (Traditional)\n*Camptown Races (Stephen Foster)\n*Katyusha (Traditional)\n*Guantanamera (Traditional)\n*The Easy Winners (Scott Joplin)\n*The Banana Boat Song (Traditional)\n*Oh! Susanna (Stephen Foster)\n*La Cucaracha (Traditional)",
-    "release_date_on_eshop": "2010-10-18",
-    "product_code": "TWL-N-KICE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Education",
-        "Simulation",
-        "Music",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B494345",
+  "uid": "50010000002421",
+  "name": "Music on: Playing Piano",
+  "formal_name": "Music on: Playing Piano",
+  "description": "Playing the piano has never been so easy and so much fun! This new collection of 15 popular songs allows you to enjoy a complete musical experience even if you have no prior knowledge of the piano. Notes transformed into rectangles appear over the piano keys to show you where, when and how to play them. The song speed increases depending on the game's level. Music on: Playing Piano is an easy and intuitive game that will challenge your auditory and visual coordination.\n\nSongs included:\n*For Old Times (Traditional)\n*Red River Valley (Traditional)\n*Greensleeves (Traditional)\n*Yankee Doodle Dandy (George M. Cohan)\n*El Condor Pasa (A. Robles)\n*Old Black Joe (Stephen Foster)\n*The Saints (Traditional)\n*Alouette (Traditional)\n*Camptown Races (Stephen Foster)\n*Katyusha (Traditional)\n*Guantanamera (Traditional)\n*The Easy Winners (Scott Joplin)\n*The Banana Boat Song (Traditional)\n*Oh! Susanna (Stephen Foster)\n*La Cucaracha (Traditional)",
+  "release_date_on_eshop": "2010-10-18",
+  "product_code": "TWL-N-KICE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Education",
+    "Simulation",
+    "Music",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

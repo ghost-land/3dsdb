@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B585545",
-    "uid": "50010000014392",
-    "name": "Publisher Dream",
-    "formal_name": "Publisher Dream",
-    "description": "Ever dream about making and publishing your digital games? Now you can!\n<br><br>\nPublisher Dream is a simulation game that places you in the owner’s seat of a company called \"Triangle\". Triangle focuses on a digital platform called\n\"cShop\" for development and publishing endeavors.\n<br><br>\nYou can hire people to develop various game genres, and control the game budgets and quality to safeguard limited resources. Do you want to be one of the biggest publishers on cShop? This may be a great way to test your skills before you actually starting your own game company.",
-    "release_date_on_eshop": "2013-05-09",
-    "product_code": "TWL-N-KXUE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B585545",
+  "uid": "50010000014392",
+  "name": "Publisher Dream",
+  "formal_name": "Publisher Dream",
+  "description": "Ever dream about making and publishing your digital games? Now you can!\n<br><br>\nPublisher Dream is a simulation game that places you in the owner’s seat of a company called \"Triangle\". Triangle focuses on a digital platform called\n\"cShop\" for development and publishing endeavors.\n<br><br>\nYou can hire people to develop various game genres, and control the game budgets and quality to safeguard limited resources. Do you want to be one of the biggest publishers on cShop? This may be a great way to test your skills before you actually starting your own game company.",
+  "release_date_on_eshop": "2013-05-09",
+  "product_code": "TWL-N-KXUE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

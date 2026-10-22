@@ -1,27 +1,27 @@
 {
-    "tid": "000400000016F700",
-    "uid": "50010000035715",
-    "name": "プチコンマガジン 創刊号",
-    "formal_name": "プチコンマガジン 創刊号",
-    "description": "『プチコンマガジン 創刊号』はプログラムコンテスト「第3回プチコン大喜利」で集まった、優秀なゲームや実用ソフトをプチコン3号なしでも楽しめるようにした作品集です。\n<br>･『プチコン3号 SmileBASIC』を使ったユーザージェネレートコンテンツ集\n<br>･小規模ながら、斬新なアイデアで楽しめる38個の作品(うち4個は作品紹介のみ)\n<br>･『プチコン3号 SmileBASIC』がなくても、プレイすることができます。\n<br>･SmileBASICで作った新作シューティング『SOLID GUNNER』も搭載",
-    "release_date_on_eshop": "2015-07-29",
-    "product_code": "CTR-N-KPNJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "その他"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "プチコン3号で作られたコンテスト入賞作品集です。プチコンが無くても遊ぶことができます。",
-    "descriptors": []
+  "tid": "000400000016F700",
+  "uid": "50010000035715",
+  "name": "プチコンマガジン 創刊号",
+  "formal_name": "プチコンマガジン 創刊号",
+  "description": "『プチコンマガジン 創刊号』はプログラムコンテスト「第3回プチコン大喜利」で集まった、優秀なゲームや実用ソフトをプチコン3号なしでも楽しめるようにした作品集です。\n<br>･『プチコン3号 SmileBASIC』を使ったユーザージェネレートコンテンツ集\n<br>･小規模ながら、斬新なアイデアで楽しめる38個の作品(うち4個は作品紹介のみ)\n<br>･『プチコン3号 SmileBASIC』がなくても、プレイすることができます。\n<br>･SmileBASICで作った新作シューティング『SOLID GUNNER』も搭載",
+  "release_date_on_eshop": "2015-07-29",
+  "product_code": "CTR-N-KPNJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "その他"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "プチコン3号で作られたコンテスト入賞作品集です。プチコンが無くても遊ぶことができます。",
+  "descriptors": []
 }

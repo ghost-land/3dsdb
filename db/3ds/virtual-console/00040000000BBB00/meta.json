@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000BBB00",
-    "uid": "50010000013514",
-    "name": "Sonic the Hedgehog 2",
-    "formal_name": "Sonic the Hedgehog 2",
-    "description": "As Sonic the Hedgehog, put a stop\nto Dr. Eggman’s (AKA Dr. Robotnik)\nmechanical machinations in Sonic The\nHedgehog 2! Originally released for\nthe Game Gear, Sonic’s best friend\nTails and all of the islands animals\nhave been captured by Dr. Eggman!\nNow Sonic must rush through winding\nzones and battle waves of Badniks in\norder to save them.\n<br/><br/>\nRide a runaway mining cart and fly on\nhang gliders, feather-light bubbles and\nwhirling flywheels to zip through\nzones.\n<br/><br/>\nSpin for a bonus at the end of every\nact!\n<br/><br/>\nFace six terrifying Master Robots on\nyour journey to stop the evil Dr.\nEggman!",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-GAUP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BBB00",
+  "uid": "50010000013514",
+  "name": "Sonic the Hedgehog 2",
+  "formal_name": "Sonic the Hedgehog 2",
+  "description": "As Sonic the Hedgehog, put a stop\nto Dr. Eggman’s (AKA Dr. Robotnik)\nmechanical machinations in Sonic The\nHedgehog 2! Originally released for\nthe Game Gear, Sonic’s best friend\nTails and all of the islands animals\nhave been captured by Dr. Eggman!\nNow Sonic must rush through winding\nzones and battle waves of Badniks in\norder to save them.\n<br/><br/>\nRide a runaway mining cart and fly on\nhang gliders, feather-light bubbles and\nwhirling flywheels to zip through\nzones.\n<br/><br/>\nSpin for a bonus at the end of every\nact!\n<br/><br/>\nFace six terrifying Master Robots on\nyour journey to stop the evil Dr.\nEggman!",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-GAUP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

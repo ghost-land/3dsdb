@@ -1,40 +1,40 @@
 {
-    "tid": "0004000200074001",
-    "uid": "50010000009128",
-    "name": "Heroes of Ruin™",
-    "formal_name": "Heroes of Ruin™",
-    "description": "Create your own mercenary and battle forth on your own or join forces with other heroes in 4-player co-operative multiplayer. Test your combat skills and earn rewards by taking on new daily challenges.",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AH6E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Action",
-        "RPG",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": [
-        "Fantasy Violence",
-        "Mild Blood",
-        "Mild Language"
-    ]
+  "tid": "0004000200074001",
+  "uid": "50010000009128",
+  "name": "Heroes of Ruin™",
+  "formal_name": "Heroes of Ruin™",
+  "description": "Create your own mercenary and battle forth on your own or join forces with other heroes in 4-player co-operative multiplayer. Test your combat skills and earn rewards by taking on new daily challenges.",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AH6E",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Action",
+    "RPG",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Blood",
+    "Mild Language"
+  ]
 }

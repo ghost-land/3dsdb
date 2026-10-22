@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000CC100",
-    "uid": "50010000015075",
-    "name": "My Farm 3D",
-    "formal_name": "My Farm 3D",
-    "description": "Calves, cows, pigs, poultry... make\nyour farm prosper like a real farmer!\n<br/><br/>\nBuy new animals, feed them, care for\nthem and make your farmyard a happy\none to unlock lots of bonuses. Sell\nyour chickens's eggs at the market,\nget new colours for your animals and\nexchange them with your friends!\n<br/><br/>\nNote: This game differs from the\nretail version of My Farm 3D and\ncontains 6 animals and 10 unlockable\nbonuses.",
-    "release_date_on_eshop": "2013-07-11",
-    "product_code": "CTR-N-JM8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Lifestyle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CC100",
+  "uid": "50010000015075",
+  "name": "My Farm 3D",
+  "formal_name": "My Farm 3D",
+  "description": "Calves, cows, pigs, poultry... make\nyour farm prosper like a real farmer!\n<br/><br/>\nBuy new animals, feed them, care for\nthem and make your farmyard a happy\none to unlock lots of bonuses. Sell\nyour chickens's eggs at the market,\nget new colours for your animals and\nexchange them with your friends!\n<br/><br/>\nNote: This game differs from the\nretail version of My Farm 3D and\ncontains 6 animals and 10 unlockable\nbonuses.",
+  "release_date_on_eshop": "2013-07-11",
+  "product_code": "CTR-N-JM8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

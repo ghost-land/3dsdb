@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B395945",
-    "uid": "50010000011006",
-    "name": "Candle Route",
-    "formal_name": "Candle Route",
-    "description": "Sparky has been entrusted to bring the light to the Crayon Castle before nightfall. The castle is so packed with candles that without your help he'll never make it in time!\n\nLead Sparky through over 100 colorful levels to collect matches and light candles. Use your stylus to select a target, and the little guy will move to it using the shortest route. Time is of the essence so there is a limited number of commands you can issue for each level! As you progress through the levels you will discover many secrets. Don’t be surprised to find bombs, puddles, treasures, or even dynamite!\n\nWant to try something out of ordinary? Launch rockets filled with matches into space in a bonus mode.\n\nThis unique, beautiful game for causal gamers will light a fire in the heart of every puzzle fan!",
-    "release_date_on_eshop": "2012-07-12",
-    "product_code": "TWL-N-K9YE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B395945",
+  "uid": "50010000011006",
+  "name": "Candle Route",
+  "formal_name": "Candle Route",
+  "description": "Sparky has been entrusted to bring the light to the Crayon Castle before nightfall. The castle is so packed with candles that without your help he'll never make it in time!\n\nLead Sparky through over 100 colorful levels to collect matches and light candles. Use your stylus to select a target, and the little guy will move to it using the shortest route. Time is of the essence so there is a limited number of commands you can issue for each level! As you progress through the levels you will discover many secrets. Don’t be surprised to find bombs, puddles, treasures, or even dynamite!\n\nWant to try something out of ordinary? Launch rockets filled with matches into space in a bonus mode.\n\nThis unique, beautiful game for causal gamers will light a fire in the heart of every puzzle fan!",
+  "release_date_on_eshop": "2012-07-12",
+  "product_code": "TWL-N-K9YE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

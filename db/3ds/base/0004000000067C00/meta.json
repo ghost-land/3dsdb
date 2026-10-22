@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000067C00",
-    "uid": "50010000009201",
-    "name": "美人時計",
-    "formal_name": "美人時計",
-    "description": "360人の女性が手書きボードで現在時刻をお知らせする時計です。\n<br>1分ごとに画像が切り替わり、毎時ちょうどを動画でお知らせします。\n<br>アラームやタイマーを設定したり、登録したお気に入りの画像や動画をいつでも見ることができます。",
-    "release_date_on_eshop": "2012-03-21",
-    "product_code": "CTR-N-JBDJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "実用"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000067C00",
+  "uid": "50010000009201",
+  "name": "美人時計",
+  "formal_name": "美人時計",
+  "description": "360人の女性が手書きボードで現在時刻をお知らせする時計です。\n<br>1分ごとに画像が切り替わり、毎時ちょうどを動画でお知らせします。\n<br>アラームやタイマーを設定したり、登録したお気に入りの画像や動画をいつでも見ることができます。",
+  "release_date_on_eshop": "2012-03-21",
+  "product_code": "CTR-N-JBDJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "実用"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

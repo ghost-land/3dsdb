@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001B9400",
-    "uid": "50010000042340",
-    "name": "Azure Striker Gunvolt:\nThe Anime",
-    "formal_name": "Azure Striker Gunvolt:\n<br>The Anime",
-    "description": "The Azure Striker Gunvolt series, which released on the Nintendo 3DS in August 2014 is striking back onto the scene with an anime adaptation. \n<br>It is a standalone OVA that's about as long as an episode of a TV anime show that features the original Japanese voice cast and a brand new English dub.\n<br>Put together by superstar anime studios LandQ Studios and Touhoku Shinkai, the Gunvolt anime presents a scenario that fans of the series will be familiar with while simultaneously presenting a deeper look into the world of Azure Striker Gunvolt.",
-    "release_date_on_eshop": "2017-02-09",
-    "product_code": "CTR-N-KVGP",
-    "platform_name": "Downloadable Video",
-    "region": "Europe",
-    "genres": [
-        "Other",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001B9400",
+  "uid": "50010000042340",
+  "name": "Azure Striker Gunvolt:\nThe Anime",
+  "formal_name": "Azure Striker Gunvolt:\n<br>The Anime",
+  "description": "The Azure Striker Gunvolt series, which released on the Nintendo 3DS in August 2014 is striking back onto the scene with an anime adaptation. \n<br>It is a standalone OVA that's about as long as an episode of a TV anime show that features the original Japanese voice cast and a brand new English dub.\n<br>Put together by superstar anime studios LandQ Studios and Touhoku Shinkai, the Gunvolt anime presents a scenario that fans of the series will be familiar with while simultaneously presenting a deeper look into the world of Azure Striker Gunvolt.",
+  "release_date_on_eshop": "2017-02-09",
+  "product_code": "CTR-N-KVGP",
+  "platform_name": "Downloadable Video",
+  "region": "Europe",
+  "genres": [
+    "Other",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

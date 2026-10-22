@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000BD800",
-    "uid": "50010000023496",
-    "name": "Super Dodge Ball",
-    "formal_name": "Super Dodge Ball®",
-    "description": "Thrash, bash, and smash the competition.\n<br><br>\nIn Super Dodge Ball, you take control of the USA Dodge Ball team and travel the world in an effort to become the best dodge ballers around. Step onto playing fields in countries all over the globe and use a combination of normal and super shots to help take down your opponents. But be careful, as some destinations have surfaces that can affect your footing! Manage the team as you think best, and swap out characters with other players that better fit your playing style. Two players can enjoy a head-to-head game or play a spirited round of Bean Ball, a six character free-for-all. Three difficulty levels are available (Easy, Medium, and Hard); which one you choose will depend on your skill and courage.\n<br><br>\nDo you have what it takes to lead Team USA to the ultimate prize and win the world championship of dodge ball?",
-    "release_date_on_eshop": "2014-06-18",
-    "product_code": "CTR-N-TB9E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Sports"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BD800",
+  "uid": "50010000023496",
+  "name": "Super Dodge Ball",
+  "formal_name": "Super Dodge Ball®",
+  "description": "Thrash, bash, and smash the competition.\n<br><br>\nIn Super Dodge Ball, you take control of the USA Dodge Ball team and travel the world in an effort to become the best dodge ballers around. Step onto playing fields in countries all over the globe and use a combination of normal and super shots to help take down your opponents. But be careful, as some destinations have surfaces that can affect your footing! Manage the team as you think best, and swap out characters with other players that better fit your playing style. Two players can enjoy a head-to-head game or play a spirited round of Bean Ball, a six character free-for-all. Three difficulty levels are available (Easy, Medium, and Hard); which one you choose will depend on your skill and courage.\n<br><br>\nDo you have what it takes to lead Team USA to the ultimate prize and win the world championship of dodge ball?",
+  "release_date_on_eshop": "2014-06-18",
+  "product_code": "CTR-N-TB9E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Sports"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

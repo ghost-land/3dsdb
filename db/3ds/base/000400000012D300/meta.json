@@ -1,28 +1,28 @@
 {
-    "tid": "000400000012D300",
-    "uid": "50010000029356",
-    "name": "Gunman Clive 2",
-    "formal_name": "Gunman Clive 2",
-    "description": "After rescuing Ms Johnson, Gunman Clive returns to again find the town under attack by bandits. To stop them once and for all he must chase after their leader; an adventure that takes him all the way around the world, facing bigger and deadlier enemies than ever before.\n<br>\nGunman Clive 2 retains the same classic gameplay formula, but dials the action up a notch further, with improved and more colorful graphics, more dynamic levels and richer, more diverse environments, bigger bosses and tons of new enemies.\n",
-    "release_date_on_eshop": "2015-01-29",
-    "product_code": "CTR-N-JWGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000012D300",
+  "uid": "50010000029356",
+  "name": "Gunman Clive 2",
+  "formal_name": "Gunman Clive 2",
+  "description": "After rescuing Ms Johnson, Gunman Clive returns to again find the town under attack by bandits. To stop them once and for all he must chase after their leader; an adventure that takes him all the way around the world, facing bigger and deadlier enemies than ever before.\n<br>\nGunman Clive 2 retains the same classic gameplay formula, but dials the action up a notch further, with improved and more colorful graphics, more dynamic levels and richer, more diverse environments, bigger bosses and tons of new enemies.\n",
+  "release_date_on_eshop": "2015-01-29",
+  "product_code": "CTR-N-JWGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

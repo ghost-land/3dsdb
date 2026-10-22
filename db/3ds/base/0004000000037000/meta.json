@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000037000",
-    "uid": "50010000000258",
-    "name": "Super Monkey Ball™ 3D",
-    "formal_name": "Super Monkey Ball™ 3D",
-    "description": "Join AiAi and friends as you tilt and roll your way in to the world of 3D!  Lose yourself in each vibrant world as you twist, turn and aim to collect every banana in the fastest time possible. Everyone’s favorite monkeys are jumping out of the screen with excitement. Are you ready to join the fun!?\nAll-new 3D Super Monkey Ball action!\n<br><br>\nLet yourself be completely immersed in the world of Super Monkey Ball like never before. Watch as your favorite monkeys truly come alive in front of your eyes.\n<br><br>\n3 full game modes<br>\nThree compelling gameplay choices in one. Enjoy classic Super Monkey Ball puzzles, frantic car battles in Monkey Race and all-out manic brawls in Monkey Fight.\n<br><br>\nPerfect control with Nintendo 3DS™<br>\nChoose to use either the motion sensor or Slide Pad to navigate the puzzle mazes with complete precision. Balance speed and skill to collect as many bananas as possible within the time limit.\n<br><br>\nCrazy multiplayer action<br>\nCompete via wireless connection with up to 4 players in Monkey Race and Monkey Fight in the best 3D social experience you can have in the palm of your hand!",
-    "release_date_on_eshop": "2014-04-03",
-    "product_code": "CTR-N-ASME",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.1",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000037000",
+  "uid": "50010000000258",
+  "name": "Super Monkey Ball™ 3D",
+  "formal_name": "Super Monkey Ball™ 3D",
+  "description": "Join AiAi and friends as you tilt and roll your way in to the world of 3D!  Lose yourself in each vibrant world as you twist, turn and aim to collect every banana in the fastest time possible. Everyone’s favorite monkeys are jumping out of the screen with excitement. Are you ready to join the fun!?\nAll-new 3D Super Monkey Ball action!\n<br><br>\nLet yourself be completely immersed in the world of Super Monkey Ball like never before. Watch as your favorite monkeys truly come alive in front of your eyes.\n<br><br>\n3 full game modes<br>\nThree compelling gameplay choices in one. Enjoy classic Super Monkey Ball puzzles, frantic car battles in Monkey Race and all-out manic brawls in Monkey Fight.\n<br><br>\nPerfect control with Nintendo 3DS™<br>\nChoose to use either the motion sensor or Slide Pad to navigate the puzzle mazes with complete precision. Balance speed and skill to collect as many bananas as possible within the time limit.\n<br><br>\nCrazy multiplayer action<br>\nCompete via wireless connection with up to 4 players in Monkey Race and Monkey Fight in the best 3D social experience you can have in the palm of your hand!",
+  "release_date_on_eshop": "2014-04-03",
+  "product_code": "CTR-N-ASME",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.1",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

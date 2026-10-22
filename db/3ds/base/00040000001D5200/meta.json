@@ -1,29 +1,29 @@
 {
-    "tid": "00040000001D5200",
-    "uid": "50010000046275",
-    "name": "Etrian Odyssey Nexus",
-    "formal_name": "Etrian Odyssey Nexus",
-    "description": "The final Etrian installment on Nintendo 3DS™.\n<br>\n<br>With more classes, characters, gameplay systems, and labyrinths than any other game in the series, Etrian Odyssey Nexus is the ultimate dungeon-crawling adventure.\n<br>\n<br>Create and customize characters from 19 playable classes, then take on the dangerous creatures of Lemuria's labyrinths with your perfect party! With the ability to swap between four difficulty settings, auto-mapping settings, and a grand standalone story, series newcomers and experienced veterans alike are welcome.",
-    "release_date_on_eshop": "2019-02-05",
-    "product_code": "CTR-P-BZMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Game supports English text and Japanese voice.",
-    "descriptors": []
+  "tid": "00040000001D5200",
+  "uid": "50010000046275",
+  "name": "Etrian Odyssey Nexus",
+  "formal_name": "Etrian Odyssey Nexus",
+  "description": "The final Etrian installment on Nintendo 3DS™.\n<br>\n<br>With more classes, characters, gameplay systems, and labyrinths than any other game in the series, Etrian Odyssey Nexus is the ultimate dungeon-crawling adventure.\n<br>\n<br>Create and customize characters from 19 playable classes, then take on the dangerous creatures of Lemuria's labyrinths with your perfect party! With the ability to swap between four difficulty settings, auto-mapping settings, and a grand standalone story, series newcomers and experienced veterans alike are welcome.",
+  "release_date_on_eshop": "2019-02-05",
+  "product_code": "CTR-P-BZMP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Game supports English text and Japanese voice.",
+  "descriptors": []
 }

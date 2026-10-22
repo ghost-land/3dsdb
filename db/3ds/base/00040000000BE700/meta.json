@@ -1,30 +1,30 @@
 {
-    "tid": "00040000000BE700",
-    "uid": "50010000012812",
-    "name": "Riding Stables 3D",
-    "formal_name": "Riding Stables 3D",
-    "description": "An exciting 3D horse adventure awaits you!\n<br>\n<br>\n<br>Which family will win the coveted pasture? What is the big secret that will force someone resort to illegal practices? Immerse yourself in this gripping tale of true friendship and sinister plots. Train the ranch horses, take good care of them, and prepare for the final deciding tournament.\n<br>\n<br>\n<br>Experience riding events like show jumping and mounted archery in first-person view. Enjoy 11 mini games with tasks like longing, teaching tricks, feeding and grooming.\n<br>\n<br>\n<br>Get to know the 15 in-game protagonists and master more than 30 tasks. Design your own horse\n<br>by choosing from 26 breeds, selecting coat, mane and much more.\n<br>",
-    "release_date_on_eshop": "2012-12-20",
-    "product_code": "CTR-N-AMUE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Adventure",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000BE700",
+  "uid": "50010000012812",
+  "name": "Riding Stables 3D",
+  "formal_name": "Riding Stables 3D",
+  "description": "An exciting 3D horse adventure awaits you!\n<br>\n<br>\n<br>Which family will win the coveted pasture? What is the big secret that will force someone resort to illegal practices? Immerse yourself in this gripping tale of true friendship and sinister plots. Train the ranch horses, take good care of them, and prepare for the final deciding tournament.\n<br>\n<br>\n<br>Experience riding events like show jumping and mounted archery in first-person view. Enjoy 11 mini games with tasks like longing, teaching tricks, feeding and grooming.\n<br>\n<br>\n<br>Get to know the 15 in-game protagonists and master more than 30 tasks. Design your own horse\n<br>by choosing from 26 breeds, selecting coat, mane and much more.\n<br>",
+  "release_date_on_eshop": "2012-12-20",
+  "product_code": "CTR-N-AMUE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Adventure",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

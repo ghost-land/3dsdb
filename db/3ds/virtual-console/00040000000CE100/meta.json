@@ -1,27 +1,27 @@
 {
-    "tid": "00040000000CE100",
-    "uid": "50010000022016",
-    "name": "Galaga™",
-    "formal_name": "Galaga™",
-    "description": "Classic arcade shoot ‘em up Galaga\nwas faithfully recreated for the home\nin this acclaimed NES™ version.\n<br/><br/>\nGalaga became an instant classic\nwith its innovative fighter combination\nsystem and varied enemy attack\npatterns. Control your fighter and\nshoot down the waves of invading\naliens; and win bonuses in challenging\nstages by not missing a single enemy.\n<br/><br/>\nIf your fighter gets captured by an\nenemy, free it from the tractor beam\nand combine with it to form a dual\nfighter with twice the firepower!",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-N-TCUP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CE100",
+  "uid": "50010000022016",
+  "name": "Galaga™",
+  "formal_name": "Galaga™",
+  "description": "Classic arcade shoot ‘em up Galaga\nwas faithfully recreated for the home\nin this acclaimed NES™ version.\n<br/><br/>\nGalaga became an instant classic\nwith its innovative fighter combination\nsystem and varied enemy attack\npatterns. Control your fighter and\nshoot down the waves of invading\naliens; and win bonuses in challenging\nstages by not missing a single enemy.\n<br/><br/>\nIf your fighter gets captured by an\nenemy, free it from the tractor beam\nand combine with it to form a dual\nfighter with twice the firepower!",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-N-TCUP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

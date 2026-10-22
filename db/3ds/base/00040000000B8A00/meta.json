@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000B8A00",
-    "uid": "50010000014766",
-    "name": "New 超級瑪利歐兄弟 2",
-    "formal_name": "New 超級瑪利歐兄弟 2",
-    "description": "為了解救被庫巴抓走的碧姬公主，\n瑪利歐在各式各樣的世界中進行冒險的橫向捲軸動作遊戲。\n本遊戲增加了收集金幣的新元素，使遊戲樂趣變得更寬廣。\n此外，本遊戲還對應鄰近主機連線遊戲，\n除了可2人協力過關，還能夠與家人和朋友一起享受遊戲樂趣。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ABEW",
-    "platform_name": "Nintendo 3DS 盒裝",
-    "region": "Taiwan",
-    "genres": [
-        "動作"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊",
-        "對應悄悄通訊",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000B8A00",
+  "uid": "50010000014766",
+  "name": "New 超級瑪利歐兄弟 2",
+  "formal_name": "New 超級瑪利歐兄弟 2",
+  "description": "為了解救被庫巴抓走的碧姬公主，\n瑪利歐在各式各樣的世界中進行冒險的橫向捲軸動作遊戲。\n本遊戲增加了收集金幣的新元素，使遊戲樂趣變得更寬廣。\n此外，本遊戲還對應鄰近主機連線遊戲，\n除了可2人協力過關，還能夠與家人和朋友一起享受遊戲樂趣。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ABEW",
+  "platform_name": "Nintendo 3DS 盒裝",
+  "region": "Taiwan",
+  "genres": [
+    "動作"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "對應悄悄通訊",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

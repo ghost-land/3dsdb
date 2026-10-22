@@ -1,29 +1,29 @@
 {
-    "tid": "000400000F707200",
-    "uid": "50010000041423",
-    "name": "BRICK RACE",
-    "formal_name": "BRICK RACE",
-    "description": "Time to RACE! In BRICK RACE quickly turn left or right to dodge traffic and collect a HIGH SCORE! Easy pick-up and play action that everyone can enjoy. Endless fun on the go! Grab a high-score, then share it on Miiverse™ with the community to see how it stacks up.",
-    "release_date_on_eshop": "2016-08-18",
-    "product_code": "KTR-N-CBEE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Strategy",
-        "Puzzle"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F707200",
+  "uid": "50010000041423",
+  "name": "BRICK RACE",
+  "formal_name": "BRICK RACE",
+  "description": "Time to RACE! In BRICK RACE quickly turn left or right to dodge traffic and collect a HIGH SCORE! Easy pick-up and play action that everyone can enjoy. Endless fun on the go! Grab a high-score, then share it on Miiverse™ with the community to see how it stacks up.",
+  "release_date_on_eshop": "2016-08-18",
+  "product_code": "KTR-N-CBEE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Strategy",
+    "Puzzle"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B503756",
-    "uid": "50010000004641",
-    "name": "Alien Puzzle\nAdventure",
-    "formal_name": "Alien Puzzle\nAdventure",
-    "description": "Alien Puzzle Adventure is a\nfast-paced, colourful and cartoony\npuzzle game, combining Match 3\ngameplay with a humorous and quirky\nstoryline.<br>\n<br>\nThe player sets out to save the world\nfrom a mysterious chemical attack and\narmed with Professor Weinstein's\nPseudo-quark Generator Gun, the\nplayer must neutralise packs of\ndifferently-coloured quarks over the\ncourse of thirty-five stages, by\nmatching three quarks of the same\ncolour. Can you help stem the tide\nand save the world?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KP7V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503756",
+  "uid": "50010000004641",
+  "name": "Alien Puzzle\nAdventure",
+  "formal_name": "Alien Puzzle\nAdventure",
+  "description": "Alien Puzzle Adventure is a\nfast-paced, colourful and cartoony\npuzzle game, combining Match 3\ngameplay with a humorous and quirky\nstoryline.<br>\n<br>\nThe player sets out to save the world\nfrom a mysterious chemical attack and\narmed with Professor Weinstein's\nPseudo-quark Generator Gun, the\nplayer must neutralise packs of\ndifferently-coloured quarks over the\ncourse of thirty-five stages, by\nmatching three quarks of the same\ncolour. Can you help stem the tide\nand save the world?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KP7V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

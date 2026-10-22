@@ -1,34 +1,34 @@
 {
-    "tid": "0004000000132700",
-    "uid": "50010000038440",
-    "name": "Mario & Luigi™: Paper Jam",
-    "formal_name": "Mario & Luigi™: Paper Jam",
-    "description": "Paper Mario™ is jumping off the page and into the quirky adventures of Mario™ and Luigi™! Become a superstar team of Mario Bros. to take on quests, take down enemies, and untangle these two classic universes in this playful new entry in the Mario and Luigi RPG series.\n<br><br>\nThe Mario & Luigi: Paper Jam game is the newest entry in the wild and popular Mario and Luigi RPG series. The denizens of Paper Mario are spilling out of the pages of a mysterious book and making mischief in the Mushroom Kingdom. You’ll call on the talents of Mario, Luigi, and Paper Mario to solve puzzles, track Toads, chase Nabbit, race Yoshi™, and more in a variety of quests to separate and save the two worlds. Looking for a change of pace?...er, tempo? Challenge giant bosses using a combo of rhythm-based micro-games and an equally giant papercraft.",
-    "release_date_on_eshop": "2016-01-22",
-    "product_code": "CTR-N-AYNE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "RPG",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Mii",
-        "amiibo",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000132700",
+  "uid": "50010000038440",
+  "name": "Mario & Luigi™: Paper Jam",
+  "formal_name": "Mario & Luigi™: Paper Jam",
+  "description": "Paper Mario™ is jumping off the page and into the quirky adventures of Mario™ and Luigi™! Become a superstar team of Mario Bros. to take on quests, take down enemies, and untangle these two classic universes in this playful new entry in the Mario and Luigi RPG series.\n<br><br>\nThe Mario & Luigi: Paper Jam game is the newest entry in the wild and popular Mario and Luigi RPG series. The denizens of Paper Mario are spilling out of the pages of a mysterious book and making mischief in the Mushroom Kingdom. You’ll call on the talents of Mario, Luigi, and Paper Mario to solve puzzles, track Toads, chase Nabbit, race Yoshi™, and more in a variety of quests to separate and save the two worlds. Looking for a change of pace?...er, tempo? Challenge giant bosses using a combo of rhythm-based micro-games and an equally giant papercraft.",
+  "release_date_on_eshop": "2016-01-22",
+  "product_code": "CTR-N-AYNE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "RPG",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Mii",
+    "amiibo",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

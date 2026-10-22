@@ -1,33 +1,33 @@
 {
-    "tid": "00040000000DE300",
-    "uid": "50010000017529",
-    "name": "3D Ecco The Dolphin",
-    "formal_name": "3D Ecco The Dolphin",
-    "description": "After a mysterious storm sweeps your\n<br>family from the sea, it’s up to you to\n<br>find them and uncover the mystery\n<br>behind the forces that took them.\n<br>\n<br>The search to find them will take you\n<br>through vast underwater realms of\n<br>treachery, beauty and adventure. Use\n<br>your sonar to discover hidden caverns\n<br>and unlock the secrets of crystal\n<br>glyphs, but beware of packs of\n<br>bloodthirsty sharks that search the\n<br>ocean for unwitting prey!\n<br>\n<br>In your quest, you’ll discover that\n<br>more than your family’s safety is at\n<br>stake. The fate of the whole world\n<br>rests on your wits and fins.\n<br>\n<br>In addition to its all-new 3D\n<br>presentation, 3D Ecco the Dolphin\n<br>also features Super Dolphin Mode\n<br>where your health and breath never\n<br>deplete!",
-    "release_date_on_eshop": "2013-12-12",
-    "product_code": "CTR-N-JDLP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DE300",
+  "uid": "50010000017529",
+  "name": "3D Ecco The Dolphin",
+  "formal_name": "3D Ecco The Dolphin",
+  "description": "After a mysterious storm sweeps your\n<br>family from the sea, it’s up to you to\n<br>find them and uncover the mystery\n<br>behind the forces that took them.\n<br>\n<br>The search to find them will take you\n<br>through vast underwater realms of\n<br>treachery, beauty and adventure. Use\n<br>your sonar to discover hidden caverns\n<br>and unlock the secrets of crystal\n<br>glyphs, but beware of packs of\n<br>bloodthirsty sharks that search the\n<br>ocean for unwitting prey!\n<br>\n<br>In your quest, you’ll discover that\n<br>more than your family’s safety is at\n<br>stake. The fate of the whole world\n<br>rests on your wits and fins.\n<br>\n<br>In addition to its all-new 3D\n<br>presentation, 3D Ecco the Dolphin\n<br>also features Super Dolphin Mode\n<br>where your health and breath never\n<br>deplete!",
+  "release_date_on_eshop": "2013-12-12",
+  "product_code": "CTR-N-JDLP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

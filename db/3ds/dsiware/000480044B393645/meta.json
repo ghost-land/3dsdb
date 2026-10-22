@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B393645",
-    "uid": "50010000034135",
-    "name": "G.G. Series BLACK X BLOCK",
-    "formal_name": "G.G. Series BLACK X BLOCK",
-    "description": "Create a path to the goal gate found in each stage by taking, rotating and placing the black blocks found throughout each level to make a stairway-like path to your destination. Avoid falling on red blocks or getting caught under falling blocks while thinking your way through this intellectual puzzle game as the time limit counts down. If you can't find a way, you can give up and start the stage over, but at a cost of one life. If all lives are lost, the game is over. Easy, Normal and Hard difficulty can be selected.",
-    "release_date_on_eshop": "2015-06-04",
-    "product_code": "TWL-N-K96E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B393645",
+  "uid": "50010000034135",
+  "name": "G.G. Series BLACK X BLOCK",
+  "formal_name": "G.G. Series BLACK X BLOCK",
+  "description": "Create a path to the goal gate found in each stage by taking, rotating and placing the black blocks found throughout each level to make a stairway-like path to your destination. Avoid falling on red blocks or getting caught under falling blocks while thinking your way through this intellectual puzzle game as the time limit counts down. If you can't find a way, you can give up and start the stage over, but at a cost of one life. If all lives are lost, the game is over. Easy, Normal and Hard difficulty can be selected.",
+  "release_date_on_eshop": "2015-06-04",
+  "product_code": "TWL-N-K96E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

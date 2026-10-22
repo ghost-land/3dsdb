@@ -1,26 +1,26 @@
 {
-    "tid": "000400000009A100",
-    "uid": "50010000013134",
-    "name": "PAC-MAN™",
-    "formal_name": "PAC-MAN™",
-    "description": "Pac-Man needs no introduction; it’s\none of the most popular video games\never made!\n<br/><br/>\nMove Pac-Man through the mazes,\navoiding ghosts and eating all the\npellets. Beware though; each of the\nghosts behaves differently!\n<br/><br/>\nWhen Pac-Man chomps a power\npellet, he becomes invincible, and is\nable to eat the blue ghosts. The more\nghosts Pac-Man eats in a row, the\nhigher the score. Don’t forget to eat\nthe bonus fruit, too!",
-    "release_date_on_eshop": "2013-02-28",
-    "product_code": "CTR-N-TA6P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009A100",
+  "uid": "50010000013134",
+  "name": "PAC-MAN™",
+  "formal_name": "PAC-MAN™",
+  "description": "Pac-Man needs no introduction; it’s\none of the most popular video games\never made!\n<br/><br/>\nMove Pac-Man through the mazes,\navoiding ghosts and eating all the\npellets. Beware though; each of the\nghosts behaves differently!\n<br/><br/>\nWhen Pac-Man chomps a power\npellet, he becomes invincible, and is\nable to eat the blue ghosts. The more\nghosts Pac-Man eats in a row, the\nhigher the score. Don’t forget to eat\nthe bonus fruit, too!",
+  "release_date_on_eshop": "2013-02-28",
+  "product_code": "CTR-N-TA6P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,35 +1,35 @@
 {
-    "tid": "000400000008B400",
-    "uid": "50010000012037",
-    "name": "瑪利歐賽車7",
-    "formal_name": "瑪利歐賽車7",
-    "description": "陸、海、空、賽車的世界變得無限寬廣。\n新追加的16條賽道加上系列作熟悉的賽道，總共有32條賽道。就算是熟悉的賽道，也加入上天下海等各種機關讓您體驗。可組裝成自己喜歡的賽車。玩家可以一個人挑戰大賽或對戰，或是大家一起比賽，也可以連線到網路和全世界的玩家最多8個人進行對戰。也可讓您的Mii加入戰局。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AMKW",
-    "platform_name": "Nintendo 3DS 盒裝",
-    "region": "Taiwan",
-    "genres": [
-        "動作",
-        "競速"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊",
-        "對應悄悄通訊",
-        "對應下載遊戲",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "6"
-    },
-    "version": "v2.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008B400",
+  "uid": "50010000012037",
+  "name": "瑪利歐賽車7",
+  "formal_name": "瑪利歐賽車7",
+  "description": "陸、海、空、賽車的世界變得無限寬廣。\n新追加的16條賽道加上系列作熟悉的賽道，總共有32條賽道。就算是熟悉的賽道，也加入上天下海等各種機關讓您體驗。可組裝成自己喜歡的賽車。玩家可以一個人挑戰大賽或對戰，或是大家一起比賽，也可以連線到網路和全世界的玩家最多8個人進行對戰。也可讓您的Mii加入戰局。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AMKW",
+  "platform_name": "Nintendo 3DS 盒裝",
+  "region": "Taiwan",
+  "genres": [
+    "動作",
+    "競速"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "對應悄悄通訊",
+    "對應下載遊戲",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "6"
+  },
+  "version": "v2.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F715300",
-    "uid": "50010000049475",
-    "name": "D.U.N.K.L.E.R",
-    "formal_name": "D.U.N.K.L.E.R",
-    "description": "D.U.N.K.L.E.R is a 3D first-person platformer in which you have to reach the end of the level before it is too dark. \n<br>\n<br>You can jump and run. You get faster as long as you keep moving.\n<br>\n<br>There are nine main levels, four extra levels you can unlock as well as an endless mode and a speed run mode.\n<br>\n<br>You can choose between easy, normal and hard difficulty settings.",
-    "release_date_on_eshop": "2022-06-09",
-    "product_code": "KTR-N-CD9P",
-    "platform_name": "New 3DS (Download)",
-    "region": "Germany",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F715300",
+  "uid": "50010000049475",
+  "name": "D.U.N.K.L.E.R",
+  "formal_name": "D.U.N.K.L.E.R",
+  "description": "D.U.N.K.L.E.R is a 3D first-person platformer in which you have to reach the end of the level before it is too dark. \n<br>\n<br>You can jump and run. You get faster as long as you keep moving.\n<br>\n<br>There are nine main levels, four extra levels you can unlock as well as an endless mode and a speed run mode.\n<br>\n<br>You can choose between easy, normal and hard difficulty settings.",
+  "release_date_on_eshop": "2022-06-09",
+  "product_code": "KTR-N-CD9P",
+  "platform_name": "New 3DS (Download)",
+  "region": "Germany",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

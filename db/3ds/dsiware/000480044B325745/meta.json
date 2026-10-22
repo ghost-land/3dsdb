@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B325745",
-    "uid": "50010000012633",
-    "name": "Christmas Wonderland 2",
-    "formal_name": "Christmas Wonderland 2",
-    "description": "Help Santa Claus in his amazing\nChristmas Wonderland! Join forces\nwith Santa’s elves and make this the\nbest Christmas ever! The workshop is\nbuzzing with activity and Wonderland\nis crammed full of fabulous toys,\ncandy canes and nativity characters,\nbut they still need your hidden object\ntalents. Complete tricky puzzles and\nfun mini games to make sure all\nchildren have tonnes of presents to\nunwrap on Christmas morning!",
-    "release_date_on_eshop": "2012-12-06",
-    "product_code": "TWL-N-K2WP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Adventure",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B325745",
+  "uid": "50010000012633",
+  "name": "Christmas Wonderland 2",
+  "formal_name": "Christmas Wonderland 2",
+  "description": "Help Santa Claus in his amazing\nChristmas Wonderland! Join forces\nwith Santa’s elves and make this the\nbest Christmas ever! The workshop is\nbuzzing with activity and Wonderland\nis crammed full of fabulous toys,\ncandy canes and nativity characters,\nbut they still need your hidden object\ntalents. Complete tricky puzzles and\nfun mini games to make sure all\nchildren have tonnes of presents to\nunwrap on Christmas morning!",
+  "release_date_on_eshop": "2012-12-06",
+  "product_code": "TWL-N-K2WP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Adventure",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

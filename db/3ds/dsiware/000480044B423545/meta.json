@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B423545",
-    "uid": "50010000006901",
-    "name": "Beach Party Craze",
-    "formal_name": "Beach Party Craze",
-    "description": "There's no party like a beach party and there's no game like Beach Party Craze! Cater to the needs of your sun-kissed clients as you manage every aspect of a swanky coastline getaway. From making sure everyone has a spot near the shore, to serving drinks, to renting diving gear, to building rides, to stocking your souvenir store, there are plenty of tasks to keep you busy and earn you money for upgrades. Take on the role of Maria as she tries to outdo her best friend's spiteful ex in a contest to win a job with the owner of the resort in Beach Party Craze, a game so captivating, you'll feel the sand between your toes!",
-    "release_date_on_eshop": "2011-06-16",
-    "product_code": "TWL-N-KB5E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Simulation",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B423545",
+  "uid": "50010000006901",
+  "name": "Beach Party Craze",
+  "formal_name": "Beach Party Craze",
+  "description": "There's no party like a beach party and there's no game like Beach Party Craze! Cater to the needs of your sun-kissed clients as you manage every aspect of a swanky coastline getaway. From making sure everyone has a spot near the shore, to serving drinks, to renting diving gear, to building rides, to stocking your souvenir store, there are plenty of tasks to keep you busy and earn you money for upgrades. Take on the role of Maria as she tries to outdo her best friend's spiteful ex in a contest to win a job with the owner of the resort in Beach Party Craze, a game so captivating, you'll feel the sand between your toes!",
+  "release_date_on_eshop": "2011-06-16",
+  "product_code": "TWL-N-KB5E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Simulation",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

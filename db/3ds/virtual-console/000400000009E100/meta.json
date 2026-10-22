@@ -1,25 +1,25 @@
 {
-    "tid": "000400000009E100",
-    "uid": "50010000013117",
-    "name": "Super C™",
-    "formal_name": "Super C™",
-    "description": "Original Release Date: December 1988<br><br>\n\nIn this action-packed sequel to the popular Contra, players have little time to think. Experience run-and-gun gameplay at its best as you take control of Mad Dog or Scorpion and once again battle the forces of Red Falcon. Stages feature a combination of perspectives (side scrolling, top down, etc.) and intense battles against huge bosses. Use a variety of powerful weapons and tap into your killer instinct to survive the deadly waves of enemies. Because if your trigger finger lacks stamina, then Earth will lack a future!",
-    "release_date_on_eshop": "2013-01-24",
-    "product_code": "CTR-N-TBAE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009E100",
+  "uid": "50010000013117",
+  "name": "Super C™",
+  "formal_name": "Super C™",
+  "description": "Original Release Date: December 1988<br><br>\n\nIn this action-packed sequel to the popular Contra, players have little time to think. Experience run-and-gun gameplay at its best as you take control of Mad Dog or Scorpion and once again battle the forces of Red Falcon. Stages feature a combination of perspectives (side scrolling, top down, etc.) and intense battles against huge bosses. Use a variety of powerful weapons and tap into your killer instinct to survive the deadly waves of enemies. Because if your trigger finger lacks stamina, then Earth will lack a future!",
+  "release_date_on_eshop": "2013-01-24",
+  "product_code": "CTR-N-TBAE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B544454",
-    "uid": "50010000006321",
-    "name": "Clubhouse Games™ Express: \nStrategy Pack",
-    "formal_name": "Clubhouse Games™ Express: \nStrategy Pack",
-    "description": "Prepare yourself for a lesson in tactics as you play through five strategy-based games in this Nintendo DSiWare version of the popular Clubhouse Games. Take on an opponent in the classic Backgammon, invade an enemy base in Field Tactics, sandwich your opponent’s pieces to capture them in Turncoat, create strings of five in a row in Connect Five, and guess where to attack your opponent’s pieces in Grid Attack. Play by yourself or use DS Download Play to host as many as seven friends.\n",
-    "release_date_on_eshop": "2009-09-21",
-    "product_code": "TWL-N-KTDT",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game"
-    ],
-    "features": [
-        "Supports DS Wireless Play",
-        "Supports DS Download Play",
-        "Supports Online Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "This game content was previously released as part of Clubhouse Games for Nintendo DS.",
-    "descriptors": []
+  "tid": "000480044B544454",
+  "uid": "50010000006321",
+  "name": "Clubhouse Games™ Express: \nStrategy Pack",
+  "formal_name": "Clubhouse Games™ Express: \nStrategy Pack",
+  "description": "Prepare yourself for a lesson in tactics as you play through five strategy-based games in this Nintendo DSiWare version of the popular Clubhouse Games. Take on an opponent in the classic Backgammon, invade an enemy base in Field Tactics, sandwich your opponent’s pieces to capture them in Turncoat, create strings of five in a row in Connect Five, and guess where to attack your opponent’s pieces in Grid Attack. Play by yourself or use DS Download Play to host as many as seven friends.\n",
+  "release_date_on_eshop": "2009-09-21",
+  "product_code": "TWL-N-KTDT",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game"
+  ],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play",
+    "Supports Online Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "This game content was previously released as part of Clubhouse Games for Nintendo DS.",
+  "descriptors": []
 }

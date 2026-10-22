@@ -1,36 +1,36 @@
 {
-    "tid": "00040000001A4200",
-    "uid": "50010000042161",
-    "name": "Poochy & Yoshi's™ \nWoolly World",
-    "formal_name": "Poochy & Yoshi's™ \n<br>Woolly World",
-    "description": "Poochy & Yoshi’s Woolly World is an adventure game set in a world of yarn.\n<br>\n<br>This game contains some new features, as well as every stage available in the Wii U version of Yoshi's Woolly World. There are exclusive new stages focused on Poochy. Time Poochy’s jump to collect beads as you head for the goal. Poochy Pups also appear for the first time. These little helpers jump on suspicious spots to indicate where you should look for secrets and collectables.\n<br>\n<br>In Poochy & Yoshi's Woolly World you can also design your own Yoshi patterns and use them in-game! What will your Yoshi look like?<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2017-02-03",
-    "product_code": "CTR-P-AJNP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A4200",
+  "uid": "50010000042161",
+  "name": "Poochy & Yoshi's™ \nWoolly World",
+  "formal_name": "Poochy & Yoshi's™ \n<br>Woolly World",
+  "description": "Poochy & Yoshi’s Woolly World is an adventure game set in a world of yarn.\n<br>\n<br>This game contains some new features, as well as every stage available in the Wii U version of Yoshi's Woolly World. There are exclusive new stages focused on Poochy. Time Poochy’s jump to collect beads as you head for the goal. Poochy Pups also appear for the first time. These little helpers jump on suspicious spots to indicate where you should look for secrets and collectables.\n<br>\n<br>In Poochy & Yoshi's Woolly World you can also design your own Yoshi patterns and use them in-game! What will your Yoshi look like?<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2017-02-03",
+  "product_code": "CTR-P-AJNP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000132C00",
-    "uid": "50010000024295",
-    "name": "Siesta Fiesta",
-    "formal_name": "Siesta Fiesta",
-    "description": "Siesta Fiesta is a colourful action\ngame where players take control of\nthe snoozing Siesta as he’s taken on\na one-of-a-kind tour of Fiestaville:\nhome to the beloved Fiestas. Use\nSiesta’s bed to bounce, boost and\nrebound across the island’s 8\nfun-filled regions.\n<br/><br/>\nSiesta Fiesta combines various\nelements of classic arcade gameplay\nto create a truly unique adventure.\nUse the ball-like Siesta to smash\nPiñata Blocks, activate Power-ups,\nbattle bosses and trigger a host of\nwhacky contraptions.\n<br/><br/>\nWith its intuitive gameplay and varied\nlevel design, Siesta Fiesta aims to\nappeal to both long-time gamers and\nnewcomers alike.",
-    "release_date_on_eshop": "2014-07-24",
-    "product_code": "CTR-N-KSFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000132C00",
+  "uid": "50010000024295",
+  "name": "Siesta Fiesta",
+  "formal_name": "Siesta Fiesta",
+  "description": "Siesta Fiesta is a colourful action\ngame where players take control of\nthe snoozing Siesta as he’s taken on\na one-of-a-kind tour of Fiestaville:\nhome to the beloved Fiestas. Use\nSiesta’s bed to bounce, boost and\nrebound across the island’s 8\nfun-filled regions.\n<br/><br/>\nSiesta Fiesta combines various\nelements of classic arcade gameplay\nto create a truly unique adventure.\nUse the ball-like Siesta to smash\nPiñata Blocks, activate Power-ups,\nbattle bosses and trigger a host of\nwhacky contraptions.\n<br/><br/>\nWith its intuitive gameplay and varied\nlevel design, Siesta Fiesta aims to\nappeal to both long-time gamers and\nnewcomers alike.",
+  "release_date_on_eshop": "2014-07-24",
+  "product_code": "CTR-N-KSFP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

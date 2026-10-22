@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000033300",
-    "uid": "50010000000092",
-    "name": "ASPHALT 3D：NITRO RACING \nアスファルト 3D ニトロレーシング",
-    "formal_name": "ASPHALT 3D：NITRO RACING \nアスファルト 3D ニトロレーシング",
-    "description": "フェラーリやランボルギーニなどのあこがれのスーパーカーで世界を爆走!! 全世界的に有名なレースゲームシリーズ『ASPHALT』が3D化。42車種の公式ライセンスカーで、世界の17都市を舞台にレースが楽しめる。6人同時対戦のマルチプレイやすれちがい通信、マシンをチューンナップできるカスタマイズ機能などやり込み要素満載。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ASFJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "レース",
-        "スポーツ"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応",
-        "すれちがい通信対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000033300",
+  "uid": "50010000000092",
+  "name": "ASPHALT 3D：NITRO RACING \nアスファルト 3D ニトロレーシング",
+  "formal_name": "ASPHALT 3D：NITRO RACING \nアスファルト 3D ニトロレーシング",
+  "description": "フェラーリやランボルギーニなどのあこがれのスーパーカーで世界を爆走!! 全世界的に有名なレースゲームシリーズ『ASPHALT』が3D化。42車種の公式ライセンスカーで、世界の17都市を舞台にレースが楽しめる。6人同時対戦のマルチプレイやすれちがい通信、マシンをチューンナップできるカスタマイズ機能などやり込み要素満載。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ASFJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "レース",
+    "スポーツ"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

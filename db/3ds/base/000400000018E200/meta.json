@@ -1,29 +1,29 @@
 {
-    "tid": "000400000018E200",
-    "uid": "50010000039856",
-    "name": "SIMPLEシリーズ for 3DS Vol.2\nTHE密室からの脱出 アーカイブス1",
-    "formal_name": "SIMPLEシリーズ for ニンテンドー3DS Vol.2\nTHE密室からの脱出 アーカイブス1",
-    "description": "君の頭脳に挑戦する「脱出ゲーム」の王道にして入門編。\n<br>\n<br>バラエティ豊かな5つのロケーションが密室と化して牙を剥く。注意深く探索して情報を集め、知恵を絞って暗号を解け。\n<br>手に入れたアイテムを組み合わせることも謎解きの重要な鍵となる。\n<br>\n<br>”SIMPLE DLシリーズ”の「THE密室からの脱出」から5本を厳選収録。\n<br>ボタンとタッチスクリーンのどちらでも操作が可能。\n<br>老若男女問わず気軽に楽しめるよう、写真やメモ記録を残せる便利な機能付き。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-BYEJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー",
-        "パズル",
-        "トレーニング"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018E200",
+  "uid": "50010000039856",
+  "name": "SIMPLEシリーズ for 3DS Vol.2\nTHE密室からの脱出 アーカイブス1",
+  "formal_name": "SIMPLEシリーズ for ニンテンドー3DS Vol.2\nTHE密室からの脱出 アーカイブス1",
+  "description": "君の頭脳に挑戦する「脱出ゲーム」の王道にして入門編。\n<br>\n<br>バラエティ豊かな5つのロケーションが密室と化して牙を剥く。注意深く探索して情報を集め、知恵を絞って暗号を解け。\n<br>手に入れたアイテムを組み合わせることも謎解きの重要な鍵となる。\n<br>\n<br>”SIMPLE DLシリーズ”の「THE密室からの脱出」から5本を厳選収録。\n<br>ボタンとタッチスクリーンのどちらでも操作が可能。\n<br>老若男女問わず気軽に楽しめるよう、写真やメモ記録を残せる便利な機能付き。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-BYEJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー",
+    "パズル",
+    "トレーニング"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

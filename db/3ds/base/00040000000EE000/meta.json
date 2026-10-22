@@ -1,41 +1,41 @@
 {
-    "tid": "00040000000EE000",
-    "uid": "50010000024975",
-    "name": "Super Smash Bros.™\nfor Nintendo 3DS",
-    "formal_name": "Super Smash Bros.™\n<br>for Nintendo 3DS",
-    "description": "Famous names from favourite\n<br>Nintendo franchises and guest\n<br>characters come together in a\n<br>portable fighter filled with spectacular\n<br>action. With unique modes, online\n<br>multiplayer, the ability to customise\n<br>your fighter and the series’ biggest\n<br>roster of playable fighters ever, Super\n<br>Smash Bros. for Nintendo 3DS is truly\n<br>a clash for the ages!\n<br><br/>\n<br>The basics of Super Smash Bros. are\n<br>simple. Use your chosen character’s\n<br>unique attacks and special moves to\n<br>damage your opponent, then hit ‘em\n<br>with a smash attack to send them\n<br>flying off the stage! The higher your\n<br>opponent’s damage – represented as a\n<br>percentage – the farther they’ll fly\n<br>when launched, so pummel away until\n<br>you see them steaming, then unleash\n<br>your strongest smash attack and\n<br>watch your target skyrocket off the\n<br>stage! Take on nearby challengers in\n<br>local multiplayer, or bring the battle\n<br>to faraway friends and foes in online\n<br>matches.\n<br><br/>\n<br>Visit amiibo.nintendo.eu for\n<br>compatible amiibo™ and the latest\n<br>information. To use amiibo on\n<br>Nintendo 3DS, Nintendo 3DS XL and\n<br>Nintendo 2DS systems a\n<br>Nintendo 3DS NFC Reader/Writer is\n<br>required.",
-    "release_date_on_eshop": "2014-10-03",
-    "product_code": "CTR-P-AXCP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Fighting",
-        "Action"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports SpotPass",
-        "Mii",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EE000",
+  "uid": "50010000024975",
+  "name": "Super Smash Bros.™\nfor Nintendo 3DS",
+  "formal_name": "Super Smash Bros.™\n<br>for Nintendo 3DS",
+  "description": "Famous names from favourite\n<br>Nintendo franchises and guest\n<br>characters come together in a\n<br>portable fighter filled with spectacular\n<br>action. With unique modes, online\n<br>multiplayer, the ability to customise\n<br>your fighter and the series’ biggest\n<br>roster of playable fighters ever, Super\n<br>Smash Bros. for Nintendo 3DS is truly\n<br>a clash for the ages!\n<br><br/>\n<br>The basics of Super Smash Bros. are\n<br>simple. Use your chosen character’s\n<br>unique attacks and special moves to\n<br>damage your opponent, then hit ‘em\n<br>with a smash attack to send them\n<br>flying off the stage! The higher your\n<br>opponent’s damage – represented as a\n<br>percentage – the farther they’ll fly\n<br>when launched, so pummel away until\n<br>you see them steaming, then unleash\n<br>your strongest smash attack and\n<br>watch your target skyrocket off the\n<br>stage! Take on nearby challengers in\n<br>local multiplayer, or bring the battle\n<br>to faraway friends and foes in online\n<br>matches.\n<br><br/>\n<br>Visit amiibo.nintendo.eu for\n<br>compatible amiibo™ and the latest\n<br>information. To use amiibo on\n<br>Nintendo 3DS, Nintendo 3DS XL and\n<br>Nintendo 2DS systems a\n<br>Nintendo 3DS NFC Reader/Writer is\n<br>required.",
+  "release_date_on_eshop": "2014-10-03",
+  "product_code": "CTR-P-AXCP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Fighting",
+    "Action"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

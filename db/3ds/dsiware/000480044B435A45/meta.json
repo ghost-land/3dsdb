@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B435A45",
-    "uid": "50010000000589",
-    "name": "Absolute Chess",
-    "formal_name": "Absolute Chess",
-    "description": "This easy-to-understand chess game explains everything from basic rules to aggressive strategies to help you advance in the game. There are two modes of play. In the Free Play, you can play against a number of preset characters, ranging from a young kid to a grouchy old man. The Challenge mode gives players multiple levels and missions to complete. Player support features include a function to indicate possible moves for the player and the opponent, as well as the ability to undo your previous move. You can also enjoy matches with friends via DS Download Play.",
-    "release_date_on_eshop": "2010-08-09",
-    "product_code": "TWL-N-KCZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B435A45",
+  "uid": "50010000000589",
+  "name": "Absolute Chess",
+  "formal_name": "Absolute Chess",
+  "description": "This easy-to-understand chess game explains everything from basic rules to aggressive strategies to help you advance in the game. There are two modes of play. In the Free Play, you can play against a number of preset characters, ranging from a young kid to a grouchy old man. The Challenge mode gives players multiple levels and missions to complete. Player support features include a function to indicate possible moves for the player and the opponent, as well as the ability to undo your previous move. You can also enjoy matches with friends via DS Download Play.",
+  "release_date_on_eshop": "2010-08-09",
+  "product_code": "TWL-N-KCZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

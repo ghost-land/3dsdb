@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000169300",
-    "uid": "50010000032675",
-    "name": "Word Search by POWGI",
-    "formal_name": "Word Search by POWGI",
-    "description": "With more than 300 puzzles to solve,\nWord Search by POWGI will keep you\npuzzling for hours!\n<br/><br/>\nAn intuitive touch-screen interface\nputs you straight into the action with\nno complex controls to learn!\n<br/><br/>\nFollow your progress through 28\ndifferent categories, from animals,\nnature and science to school life,\nhobbies and careers.\n<br/><br/>\nPOWGI's word search puzzles are\nexpertly hand-crafted for your\nenjoyment and are stuffed to the brim\nwith words in every direction!",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-N-KWBP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v1.0.1",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000169300",
+  "uid": "50010000032675",
+  "name": "Word Search by POWGI",
+  "formal_name": "Word Search by POWGI",
+  "description": "With more than 300 puzzles to solve,\nWord Search by POWGI will keep you\npuzzling for hours!\n<br/><br/>\nAn intuitive touch-screen interface\nputs you straight into the action with\nno complex controls to learn!\n<br/><br/>\nFollow your progress through 28\ndifferent categories, from animals,\nnature and science to school life,\nhobbies and careers.\n<br/><br/>\nPOWGI's word search puzzles are\nexpertly hand-crafted for your\nenjoyment and are stuffed to the brim\nwith words in every direction!",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-N-KWBP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.1",
+  "disclaimer": null,
+  "descriptors": []
 }

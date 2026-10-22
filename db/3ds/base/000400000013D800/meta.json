@@ -1,25 +1,25 @@
 {
-    "tid": "000400000013D800",
-    "uid": "50010000027695",
-    "name": "Scarygirl Illustration Kit",
-    "formal_name": "Scarygirl Illustration Kit",
-    "description": "Vector drawing and animation for illustrators of all ages. Scarygirl Illustration Kit is an easy, fun, and powerful vector illustration and animation program that lets you create your own MP4 movies and share them with the world! Let Bunniguru guide you through the intuitive interface and soon you'll be creating and animating illustrations just like the pros. Export illustrations to your SD card in JPG or SVG format and movies in MP4 format.",
-    "release_date_on_eshop": "2014-11-13",
-    "product_code": "CTR-N-KSGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000013D800",
+  "uid": "50010000027695",
+  "name": "Scarygirl Illustration Kit",
+  "formal_name": "Scarygirl Illustration Kit",
+  "description": "Vector drawing and animation for illustrators of all ages. Scarygirl Illustration Kit is an easy, fun, and powerful vector illustration and animation program that lets you create your own MP4 movies and share them with the world! Let Bunniguru guide you through the intuitive interface and soon you'll be creating and animating illustrations just like the pros. Export illustrations to your SD card in JPG or SVG format and movies in MP4 format.",
+  "release_date_on_eshop": "2014-11-13",
+  "product_code": "CTR-N-KSGE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

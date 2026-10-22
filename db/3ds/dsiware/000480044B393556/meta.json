@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B393556",
-    "uid": "50010000007233",
-    "name": "1950s Lawn Mower Kids™",
-    "formal_name": "1950s Lawn Mower Kids™",
-    "description": "Your mission is to mow lawns while\navoiding dogs, ducks, cats and people\nlike grumpy old Joe in a beautiful\nsuburban 1950s American setting.\nControl time and speed with Mr. \nMowman's mysterious contraptions.<br>\n<br>\nLead the kids Tom, Nancy and Tim out\nof danger. Avoid mowing down\nintricate flowerbeds, crashing into well\nlaid tables and angry animals. The key\nto success is keeping all three kids\nmoving and to use the abilities of each\nkid to your advantage. Remember, ill\ntempered old Joe will keep an eye out\nfor sloppy children that mow down his\nflowers!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-K95V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Action",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B393556",
+  "uid": "50010000007233",
+  "name": "1950s Lawn Mower Kids™",
+  "formal_name": "1950s Lawn Mower Kids™",
+  "description": "Your mission is to mow lawns while\navoiding dogs, ducks, cats and people\nlike grumpy old Joe in a beautiful\nsuburban 1950s American setting.\nControl time and speed with Mr. \nMowman's mysterious contraptions.<br>\n<br>\nLead the kids Tom, Nancy and Tim out\nof danger. Avoid mowing down\nintricate flowerbeds, crashing into well\nlaid tables and angry animals. The key\nto success is keeping all three kids\nmoving and to use the abilities of each\nkid to your advantage. Remember, ill\ntempered old Joe will keep an eye out\nfor sloppy children that mow down his\nflowers!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-K95V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Action",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000187200",
-    "uid": "50010000038920",
-    "name": "MY PETS",
-    "formal_name": "MY PETS",
-    "description": "Take care of pets at your home by playing a rich collection of mini games and take them out for walking. The aim is to train your pets so they can enter competitions and become your best friends! \n<br><br>\nFeatures:\nImpressive care simulation in 3D\nCute and lovely fur shaded animals\n4 cats & dogs breeds\n16 mini games\nStunning setting: luxurious villa with huge garden and pool, beach and shopping city center\nAnimal fashion: dress up the pets!\nAugmented Reality technology: use the Nintendo® AR Card to see your pets come alive!",
-    "release_date_on_eshop": "2016-01-07",
-    "product_code": "CTR-N-AHUE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Simulation",
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000187200",
+  "uid": "50010000038920",
+  "name": "MY PETS",
+  "formal_name": "MY PETS",
+  "description": "Take care of pets at your home by playing a rich collection of mini games and take them out for walking. The aim is to train your pets so they can enter competitions and become your best friends! \n<br><br>\nFeatures:\nImpressive care simulation in 3D\nCute and lovely fur shaded animals\n4 cats & dogs breeds\n16 mini games\nStunning setting: luxurious villa with huge garden and pool, beach and shopping city center\nAnimal fashion: dress up the pets!\nAugmented Reality technology: use the Nintendo® AR Card to see your pets come alive!",
+  "release_date_on_eshop": "2016-01-07",
+  "product_code": "CTR-N-AHUE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Simulation",
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

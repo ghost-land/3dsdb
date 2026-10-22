@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000080300",
-    "uid": "50010000008801",
-    "name": "TEKKEN 3D Prime Edition",
-    "formal_name": "TEKKEN 3D Prime Edition",
-    "description": "Play the game, watch the movie! Tekken 3D Prime Edition contains the complete entertainment world of TEKKEN on a single Nintendo 3DS card! Battle with more than 40 fighters from the TEKKEN universe and with Young Heihachi for the first time ever! In addition, watch TEKKEN: Blood Vengeance, a full 3D theatrical experience produced by Digital Frontier in conjunction with the Tekken Project development team. With the satisfying combination of a movie and fully featured portable Tekken gaming experience, players can take TEKKEN wherever they go.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ATKE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "region": "North America",
-    "genres": [
-        "Fighting",
-        "Action",
-        "Multiplayer"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
-    "descriptors": [
-        "Mild Suggestive Themes",
-        "Violence"
-    ]
+  "tid": "0004000000080300",
+  "uid": "50010000008801",
+  "name": "TEKKEN 3D Prime Edition",
+  "formal_name": "TEKKEN 3D Prime Edition",
+  "description": "Play the game, watch the movie! Tekken 3D Prime Edition contains the complete entertainment world of TEKKEN on a single Nintendo 3DS card! Battle with more than 40 fighters from the TEKKEN universe and with Young Heihachi for the first time ever! In addition, watch TEKKEN: Blood Vengeance, a full 3D theatrical experience produced by Digital Frontier in conjunction with the Tekken Project development team. With the satisfying combination of a movie and fully featured portable Tekken gaming experience, players can take TEKKEN wherever they go.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ATKE",
+  "platform_name": "Nintendo 3DS Retail Only",
+  "region": "North America",
+  "genres": [
+    "Fighting",
+    "Action",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Suggestive Themes",
+    "Violence"
+  ]
 }

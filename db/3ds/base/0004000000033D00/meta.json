@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000033D00",
-    "uid": "50010000000211",
-    "name": "The Sims™ 3",
-    "formal_name": "The Sims™ 3",
-    "description": "For the first time ever, enjoy a\ncomplete life simulation experience in\n3D on handheld with The Sims 3 for\nNintendo 3DS. From the creators of\nthe world's most popular life simulator\nfranchise, The Sims 3 is now\nmaximised for a fully 3D world.<br>\n<br>\nCreate Sims, the characters unique to\nThe Sims franchise, with unique\npersonalities, fulfil their desires and\ncontrol their lives within a living\nneighbourhood. Unlock new Karma\nPowers with Karma Points and unleash\namazing effects on your Sims. As you\nguide your Sims through life, you'll\nbuild relationships and experience\ndifferent careers like Criminal, Athlete\nor Musician to unlock new items,\noutfits and various rewards. Share\nyour Sims with other Nintendo 3DS\nowners using StreetPass.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AS3P",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Strategy"
-    ],
-    "features": [
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000033D00",
+  "uid": "50010000000211",
+  "name": "The Sims™ 3",
+  "formal_name": "The Sims™ 3",
+  "description": "For the first time ever, enjoy a\ncomplete life simulation experience in\n3D on handheld with The Sims 3 for\nNintendo 3DS. From the creators of\nthe world's most popular life simulator\nfranchise, The Sims 3 is now\nmaximised for a fully 3D world.<br>\n<br>\nCreate Sims, the characters unique to\nThe Sims franchise, with unique\npersonalities, fulfil their desires and\ncontrol their lives within a living\nneighbourhood. Unlock new Karma\nPowers with Karma Points and unleash\namazing effects on your Sims. As you\nguide your Sims through life, you'll\nbuild relationships and experience\ndifferent careers like Criminal, Athlete\nor Musician to unlock new items,\noutfits and various rewards. Share\nyour Sims with other Nintendo 3DS\nowners using StreetPass.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AS3P",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Strategy"
+  ],
+  "features": [
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

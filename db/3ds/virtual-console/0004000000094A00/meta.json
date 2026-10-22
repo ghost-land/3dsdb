@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000094A00",
-    "uid": "50010000012201",
-    "name": "Gradius®",
-    "formal_name": "Gradius®",
-    "description": "Across the galaxy, there exists a distant planet known as Gradius.  Gradius' peaceful existence has been brought to an end by an intense space invasion by a race known as the Bacterion.  To save the planet, the hyperspace fighter Vic Viper has been deployed to fight the Bacterion invasion.  Players pilot the Vic Viper through seven stages, shooting and dodging through deadly obstacles, while using various power-ups, including missiles, lasers, options and shields.  The Vic Viper's target is the enemy fortress, Xaerous.  The only way to end the war is to plunge deep through the enemy forces and destroy its very core.",
-    "release_date_on_eshop": "1985-05-01",
-    "product_code": "CTR-N-TAYE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000094A00",
+  "uid": "50010000012201",
+  "name": "Gradius®",
+  "formal_name": "Gradius®",
+  "description": "Across the galaxy, there exists a distant planet known as Gradius.  Gradius' peaceful existence has been brought to an end by an intense space invasion by a race known as the Bacterion.  To save the planet, the hyperspace fighter Vic Viper has been deployed to fight the Bacterion invasion.  Players pilot the Vic Viper through seven stages, shooting and dodging through deadly obstacles, while using various power-ups, including missiles, lasers, options and shields.  The Vic Viper's target is the enemy fortress, Xaerous.  The only way to end the war is to plunge deep through the enemy forces and destroy its very core.",
+  "release_date_on_eshop": "1985-05-01",
+  "product_code": "CTR-N-TAYE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

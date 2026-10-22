@@ -1,28 +1,28 @@
 {
-    "tid": "000400000018FF00",
-    "uid": "50010000044295",
-    "name": "80'S OVERDRIVE",
-    "formal_name": "80'S OVERDRIVE",
-    "description": "80'S OVERDRIVE is a 2D pixel art racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars, and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!\n<br>\n<br>Features:\n<br>- 2 game modes and racing track editor;\n<br>- 6 retro supercars;\n<br>- 8 unique visual themes;\n<br>- 13 synth/retrowave music scores;\n<br>- tons of retro, handcrafted, pixel-perfect joy!",
-    "release_date_on_eshop": "2017-12-03",
-    "product_code": "CTR-N-KD8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Racing",
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018FF00",
+  "uid": "50010000044295",
+  "name": "80'S OVERDRIVE",
+  "formal_name": "80'S OVERDRIVE",
+  "description": "80'S OVERDRIVE is a 2D pixel art racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars, and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!\n<br>\n<br>Features:\n<br>- 2 game modes and racing track editor;\n<br>- 6 retro supercars;\n<br>- 8 unique visual themes;\n<br>- 13 synth/retrowave music scores;\n<br>- tons of retro, handcrafted, pixel-perfect joy!",
+  "release_date_on_eshop": "2017-12-03",
+  "product_code": "CTR-N-KD8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

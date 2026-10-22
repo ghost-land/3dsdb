@@ -1,30 +1,30 @@
 {
-    "tid": "000400000F70B600",
-    "uid": "50010000043023",
-    "name": "Infinite Golf",
-    "formal_name": "Infinite Golf",
-    "description": "Ready for a new golf challenge? Welcome to Infinite Golf!\n<br>In this calming golf game you can try 2 different modes. In Arcade Mode you have 3 balls for each hole. If you ran out of balls your game is over. Try to beat your highscore! In Endless Mode you don't have to worry about losing or winning. Just enjoy the calm atmosphere!\n<br>There is always one more level!",
-    "release_date_on_eshop": "2017-07-20",
-    "product_code": "KTR-N-CFGP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Platformer",
-        "Adventure",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70B600",
+  "uid": "50010000043023",
+  "name": "Infinite Golf",
+  "formal_name": "Infinite Golf",
+  "description": "Ready for a new golf challenge? Welcome to Infinite Golf!\n<br>In this calming golf game you can try 2 different modes. In Arcade Mode you have 3 balls for each hole. If you ran out of balls your game is over. Try to beat your highscore! In Endless Mode you don't have to worry about losing or winning. Just enjoy the calm atmosphere!\n<br>There is always one more level!",
+  "release_date_on_eshop": "2017-07-20",
+  "product_code": "KTR-N-CFGP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Platformer",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

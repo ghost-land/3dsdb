@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000C7A00",
-    "uid": "50010000014937",
-    "name": "Sonic The Hedgehog 2",
-    "formal_name": "Sonic The Hedgehog 2",
-    "description": "In Sonic The Hedgehog 2, Sonic is back to put a stop to Dr. Eggman’s\n(AKA Dr. Robotnik) mechanical machinations. Originally released for the Game Gear, Sonic’s best friend Tails and all of the islands animals have been captured by Dr. Eggman! Now Sonic must rush through winding Zones and battle waves of Badniks in order to save them.\n<br><br>\nRide a runaway mining cart and fly on hang gliders, feather-light bubbles and whirling flywheels to zip through Zones. Spin for a bonus at the end of every Act. Face six terrifying Master Robots on your journey to stop the evil Dr. Eggman!",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-GAUE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C7A00",
+  "uid": "50010000014937",
+  "name": "Sonic The Hedgehog 2",
+  "formal_name": "Sonic The Hedgehog 2",
+  "description": "In Sonic The Hedgehog 2, Sonic is back to put a stop to Dr. Eggman’s\n(AKA Dr. Robotnik) mechanical machinations. Originally released for the Game Gear, Sonic’s best friend Tails and all of the islands animals have been captured by Dr. Eggman! Now Sonic must rush through winding Zones and battle waves of Badniks in order to save them.\n<br><br>\nRide a runaway mining cart and fly on hang gliders, feather-light bubbles and whirling flywheels to zip through Zones. Spin for a bonus at the end of every Act. Face six terrifying Master Robots on your journey to stop the evil Dr. Eggman!",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-GAUE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

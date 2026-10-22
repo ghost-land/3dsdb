@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DA500",
-    "uid": "50010000048316",
-    "name": "Turkey, Please!",
-    "formal_name": "Turkey, Please!",
-    "description": "It is Thanksgiving Day, and you are looking forward to a delicious turkey dinner with all the fixings. But it won't happen on its own! \n<br>\n<br>With your cousins tearing around the house, Uncle Leon trying to watch the game, and your little brother being his usual annoying self, dinner may never be ready. \n<br>\n<br>Looks like it's up to YOU to save the holiday!\n<br>\n<br>- Classic adventure game fun.\n<br>- Explore and interact within a lighthearted and humorous world.\n<br>- Use your wits and a bit of mischief to solve puzzles.\n<br>- Try for a high score in the \"Fat Dragon\" mini-game.",
-    "release_date_on_eshop": "2019-11-21",
-    "product_code": "CTR-N-KA8P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001DA500",
+  "uid": "50010000048316",
+  "name": "Turkey, Please!",
+  "formal_name": "Turkey, Please!",
+  "description": "It is Thanksgiving Day, and you are looking forward to a delicious turkey dinner with all the fixings. But it won't happen on its own! \n<br>\n<br>With your cousins tearing around the house, Uncle Leon trying to watch the game, and your little brother being his usual annoying self, dinner may never be ready. \n<br>\n<br>Looks like it's up to YOU to save the holiday!\n<br>\n<br>- Classic adventure game fun.\n<br>- Explore and interact within a lighthearted and humorous world.\n<br>- Use your wits and a bit of mischief to solve puzzles.\n<br>- Try for a high score in the \"Fat Dragon\" mini-game.",
+  "release_date_on_eshop": "2019-11-21",
+  "product_code": "CTR-N-KA8P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

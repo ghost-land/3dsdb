@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B393945",
-    "uid": "50010000000981",
-    "name": "99Bullets",
-    "formal_name": "99Bullets",
-    "description": "99Bullets, a fun space shooter game with a retro look, where to lose a bullet is to lose a life, and to lose a life is to lose a bullet. The galaxy IRATA 2601 is threatened by Black Eye and his minions, but V-99 is ready to stop him with his 99 bullets.\n\n*Control V-99, avoiding, shooting and taking care of your 99 bullets available on each level.\n*Arcade Mode like in classic arcade titles!\n*More than 10 levels of retro style!\n*Incredible final bosses!",
-    "release_date_on_eshop": "2011-05-23",
-    "product_code": "TWL-N-K99E",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B393945",
+  "uid": "50010000000981",
+  "name": "99Bullets",
+  "formal_name": "99Bullets",
+  "description": "99Bullets, a fun space shooter game with a retro look, where to lose a bullet is to lose a life, and to lose a life is to lose a bullet. The galaxy IRATA 2601 is threatened by Black Eye and his minions, but V-99 is ready to stop him with his 99 bullets.\n\n*Control V-99, avoiding, shooting and taking care of your 99 bullets available on each level.\n*Arcade Mode like in classic arcade titles!\n*More than 10 levels of retro style!\n*Incredible final bosses!",
+  "release_date_on_eshop": "2011-05-23",
+  "product_code": "TWL-N-K99E",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

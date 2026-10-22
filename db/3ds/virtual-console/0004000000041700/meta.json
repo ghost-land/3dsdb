@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000041700",
-    "uid": "50010000006943",
-    "name": "Kirby's Dream Land™",
-    "formal_name": "Kirby's Dream Land™",
-    "description": "Kirby's video-game debut, rereleased for the Nintendo 3DS™!\n<br><br>\nDream Land is in peril! An evil king has stolen the magical Twinkle Stars. And if they're not recovered, the people of Dream Land will starve. Join Kirby™, our cute and roly-poly little hero, as he runs, jumps, floats, and swims in search of these treasured Twinkle Stars. He'll puff his way through castles, caves, dungeons, and forests. In his path are many wicked and greedy enemies, but Kirby has a special way to defeat them! It's nonstop action all the way to the top of Mt. Dedede!\n<br><br>\nBy the way, as you can see in the original art, Kirby wasn't always pink—he started out colorless!",
-    "release_date_on_eshop": "1992-08",
-    "product_code": "CTR-N-RAFE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000041700",
+  "uid": "50010000006943",
+  "name": "Kirby's Dream Land™",
+  "formal_name": "Kirby's Dream Land™",
+  "description": "Kirby's video-game debut, rereleased for the Nintendo 3DS™!\n<br><br>\nDream Land is in peril! An evil king has stolen the magical Twinkle Stars. And if they're not recovered, the people of Dream Land will starve. Join Kirby™, our cute and roly-poly little hero, as he runs, jumps, floats, and swims in search of these treasured Twinkle Stars. He'll puff his way through castles, caves, dungeons, and forests. In his path are many wicked and greedy enemies, but Kirby has a special way to defeat them! It's nonstop action all the way to the top of Mt. Dedede!\n<br><br>\nBy the way, as you can see in the original art, Kirby wasn't always pink—he started out colorless!",
+  "release_date_on_eshop": "1992-08",
+  "product_code": "CTR-N-RAFE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

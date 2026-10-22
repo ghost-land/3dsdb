@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000059E00",
-    "uid": "50010000009562",
-    "name": "女の子と密室にいたら\n○○しちゃうかもしれない。",
-    "formal_name": "女の子と密室にいたら\n○○しちゃうかもしれない。",
-    "description": "かわいい女の子と一緒に密室に閉じ込められる夢を見るハチャメチャな「密室世界」と、学園祭で意中の女の子を彼女にする「現実世界」を楽しめる! 2つの世界がリンクしたアドベンチャーゲームです。",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AWMJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "アドベンチャー"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "17"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000059E00",
+  "uid": "50010000009562",
+  "name": "女の子と密室にいたら\n○○しちゃうかもしれない。",
+  "formal_name": "女の子と密室にいたら\n○○しちゃうかもしれない。",
+  "description": "かわいい女の子と一緒に密室に閉じ込められる夢を見るハチャメチャな「密室世界」と、学園祭で意中の女の子を彼女にする「現実世界」を楽しめる! 2つの世界がリンクしたアドベンチャーゲームです。",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AWMJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "アドベンチャー"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "17"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

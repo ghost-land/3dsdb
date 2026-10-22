@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000D6F00",
-    "uid": "50010000014881",
-    "name": "Mystery Case Files\nRavenhearst® ",
-    "formal_name": "Mystery Case Files\nRavenhearst® ",
-    "description": "Rumors surrounding the history of\nstately Ravenhearst Manor have\ncirculated for decades. The recently\nacquired diary of Emma Ravenhearst\nmay hold the key to unraveling the\nmystery behind this eerie place, but\nthe pages are missing.\n<br/><br/>\nYou assume the role of the master\ndetective as you unlock the secrets\nburied deep in Ravenhearst®, and\nscour a myriad of intriguing rooms in\nthe manor in your search for cleverly\nhidden clues.\n<br/><br/>\nOnly when you have located and\nre-assembled all the lost diary pages\nwill you uncover the story of the\nhouse and, ultimately, solve the\nmystery.",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-P-AAQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D6F00",
+  "uid": "50010000014881",
+  "name": "Mystery Case Files\nRavenhearst® ",
+  "formal_name": "Mystery Case Files\nRavenhearst® ",
+  "description": "Rumors surrounding the history of\nstately Ravenhearst Manor have\ncirculated for decades. The recently\nacquired diary of Emma Ravenhearst\nmay hold the key to unraveling the\nmystery behind this eerie place, but\nthe pages are missing.\n<br/><br/>\nYou assume the role of the master\ndetective as you unlock the secrets\nburied deep in Ravenhearst®, and\nscour a myriad of intriguing rooms in\nthe manor in your search for cleverly\nhidden clues.\n<br/><br/>\nOnly when you have located and\nre-assembled all the lost diary pages\nwill you uncover the story of the\nhouse and, ultimately, solve the\nmystery.",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-P-AAQP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

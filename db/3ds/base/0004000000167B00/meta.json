@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000167B00",
-    "uid": "50010000031818",
-    "name": "パズルボトル",
-    "formal_name": "パズルボトル",
-    "description": "ニンテンドー3DSを上下逆さまに持って、カラータイルをタッチし、グラスボトルにタイルを落とし、ボトルの中の絵を完成させましょう!\n<br>正しい絵を完成させるために、タイミングよく下画面のタイルの色に合わせて、上画面のタイルをタッチしましょう。\n<br>海、森、電車、花、雪、などいろいろなジャンルの絵を収録しています!",
-    "release_date_on_eshop": "2015-03-25",
-    "product_code": "CTR-N-KPBJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000167B00",
+  "uid": "50010000031818",
+  "name": "パズルボトル",
+  "formal_name": "パズルボトル",
+  "description": "ニンテンドー3DSを上下逆さまに持って、カラータイルをタッチし、グラスボトルにタイルを落とし、ボトルの中の絵を完成させましょう!\n<br>正しい絵を完成させるために、タイミングよく下画面のタイルの色に合わせて、上画面のタイルをタッチしましょう。\n<br>海、森、電車、花、雪、などいろいろなジャンルの絵を収録しています!",
+  "release_date_on_eshop": "2015-03-25",
+  "product_code": "CTR-N-KPBJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

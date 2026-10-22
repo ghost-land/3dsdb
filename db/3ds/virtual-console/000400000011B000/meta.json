@@ -1,25 +1,25 @@
 {
-    "tid": "000400000011B000",
-    "uid": "50010000025235",
-    "name": "S.C.A.T.™",
-    "formal_name": "S.C.A.T.™",
-    "description": "In the year 2029, humanity faces\ncertain extinction. An alien force led\nby Supreme Commander Vile Malmort\nis poised to destroy the Earth. Our\ngreatest scientists were assembled to\nstop this menace. From their\nlaboratory came mankind’s last hope:\nS.C.A.T., the Special Cybernetic\nAttack Team!\n<br/><br/>\nFeaturing one or two-player\nsimultaneous action, fly your\njetpack-equipped warrior through five\nchallenging stages swarming with\nenemies. Use multiple weapon systems\nand your orbiting cannon pods to\nclear a path and put an end to Vile\nMalmort’s plans!",
-    "release_date_on_eshop": "2014-12-04",
-    "product_code": "CTR-N-TD6P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000011B000",
+  "uid": "50010000025235",
+  "name": "S.C.A.T.™",
+  "formal_name": "S.C.A.T.™",
+  "description": "In the year 2029, humanity faces\ncertain extinction. An alien force led\nby Supreme Commander Vile Malmort\nis poised to destroy the Earth. Our\ngreatest scientists were assembled to\nstop this menace. From their\nlaboratory came mankind’s last hope:\nS.C.A.T., the Special Cybernetic\nAttack Team!\n<br/><br/>\nFeaturing one or two-player\nsimultaneous action, fly your\njetpack-equipped warrior through five\nchallenging stages swarming with\nenemies. Use multiple weapon systems\nand your orbiting cannon pods to\nclear a path and put an end to Vile\nMalmort’s plans!",
+  "release_date_on_eshop": "2014-12-04",
+  "product_code": "CTR-N-TD6P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

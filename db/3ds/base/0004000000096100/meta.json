@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000096100",
-    "uid": "50010000010296",
-    "name": "VVVVVV",
-    "formal_name": "VVVVVV",
-    "description": "There's something terribly wrong in\n<br>an alternate dimension! Help Captain\n<br>Viridian flip to find five crew members,\n<br>20 hard-to-reach Trinkets and save a\n<br>dimension on the brink of destruction.\n<br>It's a space opera in the most unique\n<br>scale with a style that only VVVVVV\n<br>can bring to you. Instead of jumping,\n<br>control the direction of gravity by\n<br>inverting your gravity and allowing\n<br>Captain Viridian to flip between the\n<br>floors and ceilings of the\n<br>environments.\n<br>\n<br>For adventurers who save the\n<br>dimension, there's still hours and\n<br>hours of new gameplay with all-new\n<br>Player Levels. Test your mettle and\n<br>see if you have what it takes to beat a\n<br>collection of levels created by other\n<br>famous game developers. Inspired by\n<br>classic 8-bit days gone-by and now\n<br>with experience-heightening 3D,\n<br>VVVVVV will challenge even the most\n<br>battle-hardened old-school gamers.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-JVVP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v2.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000096100",
+  "uid": "50010000010296",
+  "name": "VVVVVV",
+  "formal_name": "VVVVVV",
+  "description": "There's something terribly wrong in\n<br>an alternate dimension! Help Captain\n<br>Viridian flip to find five crew members,\n<br>20 hard-to-reach Trinkets and save a\n<br>dimension on the brink of destruction.\n<br>It's a space opera in the most unique\n<br>scale with a style that only VVVVVV\n<br>can bring to you. Instead of jumping,\n<br>control the direction of gravity by\n<br>inverting your gravity and allowing\n<br>Captain Viridian to flip between the\n<br>floors and ceilings of the\n<br>environments.\n<br>\n<br>For adventurers who save the\n<br>dimension, there's still hours and\n<br>hours of new gameplay with all-new\n<br>Player Levels. Test your mettle and\n<br>see if you have what it takes to beat a\n<br>collection of levels created by other\n<br>famous game developers. Inspired by\n<br>classic 8-bit days gone-by and now\n<br>with experience-heightening 3D,\n<br>VVVVVV will challenge even the most\n<br>battle-hardened old-school gamers.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-JVVP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

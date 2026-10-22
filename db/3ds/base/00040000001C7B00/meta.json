@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001C7B00",
-    "uid": "50010000043020",
-    "name": "Kid Tripp",
-    "formal_name": "Kid Tripp",
-    "description": "Kid Tripp has crashed on a mysterious island and now the local wildlife is out to ruin his day. Run and jump your way through 20 levels of intense platforming madness in this tough-as-nails platformer! Have you got what it takes to help Kid Tripp escape?\n<br>\n<br>Features:\n<br>Super challenging, fast paced platforming action.\n<br>Silky smooth 60 frames per second.\n<br>Twenty levels, four awesome worlds.\n<br>Super cute pixel art by Mike Burns.\n<br>Old school soundtrack from Chris Kukla.\n<br>Optional challenges to test players' skills to the max.",
-    "release_date_on_eshop": "2017-07-27",
-    "product_code": "CTR-N-KT6E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Platformer",
-        "Action",
-        "Arcade",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001C7B00",
+  "uid": "50010000043020",
+  "name": "Kid Tripp",
+  "formal_name": "Kid Tripp",
+  "description": "Kid Tripp has crashed on a mysterious island and now the local wildlife is out to ruin his day. Run and jump your way through 20 levels of intense platforming madness in this tough-as-nails platformer! Have you got what it takes to help Kid Tripp escape?\n<br>\n<br>Features:\n<br>Super challenging, fast paced platforming action.\n<br>Silky smooth 60 frames per second.\n<br>Twenty levels, four awesome worlds.\n<br>Super cute pixel art by Mike Burns.\n<br>Old school soundtrack from Chris Kukla.\n<br>Optional challenges to test players' skills to the max.",
+  "release_date_on_eshop": "2017-07-27",
+  "product_code": "CTR-N-KT6E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Platformer",
+    "Action",
+    "Arcade",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

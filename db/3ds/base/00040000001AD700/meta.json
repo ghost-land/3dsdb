@@ -1,32 +1,32 @@
 {
-    "tid": "00040000001AD700",
-    "uid": "50010000042935",
-    "name": "Chicken Wiggle",
-    "formal_name": "Chicken Wiggle",
-    "description": "The stars of Chicken Wiggle are an improbable duo: a young chicken and his best buddy – a wiggly worm – nestled in his backpack! Together, they team up for adventure to jump, peck, and worm-grapple across a myriad of perplexing platforming levels – full of fun gadgets, tricky hazards, and sneaky foes – determined to rescue their friends from the wicked witch in her sky towers.\n<br>\n<br>But wait, there’s more! Aspiring game designers and playful doodlers alike can spend hours of fun hatching their own levels with the user-friendly level creator included with the game. You can even choose different gameplay rules, art themes, and provide custom hints, tips, and search tags. Once you’re ready, it’s easy to share your creations on-line with other Chicken Wiggle players via the community portal. Now, anyone can be a game designer on the go!\n<br>\n<br>Players seeking more levels to play after completing Chicken Wiggle’s main story mode will find a wealth of unique levels to download, play, and rate for free! Level categories include Atooi official, popular, latest, or simply enter your own search tags or a specific level ID to locate a friend’s level.",
-    "release_date_on_eshop": "2017-08-17",
-    "product_code": "CTR-N-KCNP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Platformer",
-        "Adventure",
-        "Puzzle",
-        "Utility"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AD700",
+  "uid": "50010000042935",
+  "name": "Chicken Wiggle",
+  "formal_name": "Chicken Wiggle",
+  "description": "The stars of Chicken Wiggle are an improbable duo: a young chicken and his best buddy – a wiggly worm – nestled in his backpack! Together, they team up for adventure to jump, peck, and worm-grapple across a myriad of perplexing platforming levels – full of fun gadgets, tricky hazards, and sneaky foes – determined to rescue their friends from the wicked witch in her sky towers.\n<br>\n<br>But wait, there’s more! Aspiring game designers and playful doodlers alike can spend hours of fun hatching their own levels with the user-friendly level creator included with the game. You can even choose different gameplay rules, art themes, and provide custom hints, tips, and search tags. Once you’re ready, it’s easy to share your creations on-line with other Chicken Wiggle players via the community portal. Now, anyone can be a game designer on the go!\n<br>\n<br>Players seeking more levels to play after completing Chicken Wiggle’s main story mode will find a wealth of unique levels to download, play, and rate for free! Level categories include Atooi official, popular, latest, or simply enter your own search tags or a specific level ID to locate a friend’s level.",
+  "release_date_on_eshop": "2017-08-17",
+  "product_code": "CTR-N-KCNP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Platformer",
+    "Adventure",
+    "Puzzle",
+    "Utility"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

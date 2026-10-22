@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B465956",
-    "uid": "50010000019666",
-    "name": "A Fairy Tale",
-    "formal_name": "A Fairy Tale",
-    "description": "When a giant menace threatens the\nvillage, the young faeries Delfbert,\nWilf and Angelica set out on a fantastic\njourney to save their home! Join them\non their whimsical quest through 100\npuzzling levels of stunning graphics\nand magical music that will fill you\nwith wonder.<br>\n<br>\nFeaturing an exciting new type of\npuzzle game play and a humorous,\nlight hearted storyline that is sure to\nmake you smile, A Fairy Tale is an\nunforgettable journey of enchantment!<br>\n<br>\nBegin your unforgettable adventure\nto save the forest!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KFYV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B465956",
+  "uid": "50010000019666",
+  "name": "A Fairy Tale",
+  "formal_name": "A Fairy Tale",
+  "description": "When a giant menace threatens the\nvillage, the young faeries Delfbert,\nWilf and Angelica set out on a fantastic\njourney to save their home! Join them\non their whimsical quest through 100\npuzzling levels of stunning graphics\nand magical music that will fill you\nwith wonder.<br>\n<br>\nFeaturing an exciting new type of\npuzzle game play and a humorous,\nlight hearted storyline that is sure to\nmake you smile, A Fairy Tale is an\nunforgettable journey of enchantment!<br>\n<br>\nBegin your unforgettable adventure\nto save the forest!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KFYV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

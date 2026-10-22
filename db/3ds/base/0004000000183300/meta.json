@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000183300",
-    "uid": "50010000037835",
-    "name": "Escape From Zombie City",
-    "formal_name": "Escape From Zombie City",
-    "description": "The military sent in forces to suppress\nthe zombie infested city, but they\nwere wiped out. The government had\nno choice but to issue a large-scale\nbomb raid over the surrounding area.\n<br/><br/>\nThe time limit is morning.<br/>\nYou are a soldier that has been left\nbehind.<br/>\nCan you make it out alive?!\n<br/><br/>\nUse any weapon you can get your\nhands on to keep the zombies off your\nback as you race to get out of the\ncity before the bombing raid hits. The\nclock is ticking from the start and\neach stage you pass takes you closer\nto dawn and the bombing raid.\n<br/><br/>\nFight your way through the city\nsuburbs and underground parking\nareas heaving with the undead,\nrescuing any remaining civilains you\nfind on the way. Use shotguns,\nmagnums, grenades and\nflamethrowers in your fight to stay\nalive against a whole city of zombies.",
-    "release_date_on_eshop": "2015-10-29",
-    "product_code": "CTR-N-JZBP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Shooter",
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000183300",
+  "uid": "50010000037835",
+  "name": "Escape From Zombie City",
+  "formal_name": "Escape From Zombie City",
+  "description": "The military sent in forces to suppress\nthe zombie infested city, but they\nwere wiped out. The government had\nno choice but to issue a large-scale\nbomb raid over the surrounding area.\n<br/><br/>\nThe time limit is morning.<br/>\nYou are a soldier that has been left\nbehind.<br/>\nCan you make it out alive?!\n<br/><br/>\nUse any weapon you can get your\nhands on to keep the zombies off your\nback as you race to get out of the\ncity before the bombing raid hits. The\nclock is ticking from the start and\neach stage you pass takes you closer\nto dawn and the bombing raid.\n<br/><br/>\nFight your way through the city\nsuburbs and underground parking\nareas heaving with the undead,\nrescuing any remaining civilains you\nfind on the way. Use shotguns,\nmagnums, grenades and\nflamethrowers in your fight to stay\nalive against a whole city of zombies.",
+  "release_date_on_eshop": "2015-10-29",
+  "product_code": "CTR-N-JZBP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Shooter",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "000400000015F100",
-    "uid": "50010000030215",
-    "name": "Drop Zone - Under Fire",
-    "formal_name": "Drop Zone - Under Fire",
-    "description": "Dive into action with Drop Zone! Get the adrenaline flowing as you blast your way through free fall. Adjust your velocity while maneuvering around buildings and automated fire in a 360ยบ immersive sky-dive simulation. Pick up weapons and bonuses, and feel the thrill of blasting robot ships as you rush towards your jump target!\n<br><br>\nOver 100 action-packed levels\n360ยบ immersive free-fall simulation\nExciting first person perspective in 3D\nHighly detailed city graphics\nPacked with a variety of obstacles, bonuses, enemies and weapons",
-    "release_date_on_eshop": "2015-01-29",
-    "product_code": "CTR-N-KDZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "First-Person Shooter",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000015F100",
+  "uid": "50010000030215",
+  "name": "Drop Zone - Under Fire",
+  "formal_name": "Drop Zone - Under Fire",
+  "description": "Dive into action with Drop Zone! Get the adrenaline flowing as you blast your way through free fall. Adjust your velocity while maneuvering around buildings and automated fire in a 360ยบ immersive sky-dive simulation. Pick up weapons and bonuses, and feel the thrill of blasting robot ships as you rush towards your jump target!\n<br><br>\nOver 100 action-packed levels\n360ยบ immersive free-fall simulation\nExciting first person perspective in 3D\nHighly detailed city graphics\nPacked with a variety of obstacles, bonuses, enemies and weapons",
+  "release_date_on_eshop": "2015-01-29",
+  "product_code": "CTR-N-KDZE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "First-Person Shooter",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

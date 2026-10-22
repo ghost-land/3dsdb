@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000EFE00",
-    "uid": "50010000022075",
-    "name": "Mega Man™ Xtreme",
-    "formal_name": "Mega Man™ Xtreme",
-    "description": "Many years ago, Mega Man X--a blue robot possessing a high intelligence, a kind personality, and formidable power--was found and studied by Dr. Cain. The scientist attempted to create more in the likeness of the robot, calling them \"Reploids\". However, some of the Reploids began to malfunction, and these were called\n\"Mavericks\". The \"Maverick Hunters\", a group of capable Reploids like Mega Man X, Zero and Sigma, was assembled to fix the situation. However, one day, Sigma revolts and hacks into the Mother Computer, causing the Mavericks to grow in power.\n<br><br>\nWith chaos brewing on the horizon, Mega Man X must join forces with Middy, a genius hacker, and his partner Zero to restore peace. Blast through the past, defeat strong robotic enemies and obtain new abilities as you clean up crime in this action-packed platformer!",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-N-QAZE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000EFE00",
+  "uid": "50010000022075",
+  "name": "Mega Man™ Xtreme",
+  "formal_name": "Mega Man™ Xtreme",
+  "description": "Many years ago, Mega Man X--a blue robot possessing a high intelligence, a kind personality, and formidable power--was found and studied by Dr. Cain. The scientist attempted to create more in the likeness of the robot, calling them \"Reploids\". However, some of the Reploids began to malfunction, and these were called\n\"Mavericks\". The \"Maverick Hunters\", a group of capable Reploids like Mega Man X, Zero and Sigma, was assembled to fix the situation. However, one day, Sigma revolts and hacks into the Mother Computer, causing the Mavericks to grow in power.\n<br><br>\nWith chaos brewing on the horizon, Mega Man X must join forces with Middy, a genius hacker, and his partner Zero to restore peace. Blast through the past, defeat strong robotic enemies and obtain new abilities as you clean up crime in this action-packed platformer!",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-N-QAZE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

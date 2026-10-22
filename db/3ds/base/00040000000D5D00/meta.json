@@ -1,32 +1,32 @@
 {
-    "tid": "00040000000D5D00",
-    "uid": "50010000014894",
-    "name": "3D MahJongg",
-    "formal_name": "3D MahJongg",
-    "description": "3D MahJongg gives you a huge\nvariety of levels, gameplay variations\nand graphics themes.\n<br/><br/>\nIn 3D MahJongg, the goal is to find\npairs of matching tiles in order to\nremove all tiles from the board. This\nsounds like a simple task, but you will\nsoon find that a savvy strategy -\nalong with a bit of luck - is the key to\nsuccess.\n<br/><br/>\nGameplay is direct and intuitive via\ntouch screen. You can closely observe\neverything on the 3D screen and make\nextensive changes to the way you\nview the tile layout. And you'll love\nthe fabulous six graphics themes from\n\"\"Farm\"\" to \"\"Zombies\"\".\n<br/><br/>\nIn Adventure Mode, you will need to\nmaster 200 levels in order to unlock\nall tiles, backgrounds etc. You can\nthen use these elements in free\ngameplay to create custom levels.\nYou can also switch between classic\nrules and \"\"Rivers\"\" rules at any time.\n<br/><br/>\n- 2 game versions: Classic and\nRivers mode\n<br/><br/>\n- Adventure Mode with 200 levels\n<br/><br/>\n- Free gameplay with more than\n10,000 variations\n<br/><br/>\n- 6 themes: Asia, Farm, Princess,\nSea, Casino and Zombies",
-    "release_date_on_eshop": "2013-06-27",
-    "product_code": "CTR-N-AG2Z",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D5D00",
+  "uid": "50010000014894",
+  "name": "3D MahJongg",
+  "formal_name": "3D MahJongg",
+  "description": "3D MahJongg gives you a huge\nvariety of levels, gameplay variations\nand graphics themes.\n<br/><br/>\nIn 3D MahJongg, the goal is to find\npairs of matching tiles in order to\nremove all tiles from the board. This\nsounds like a simple task, but you will\nsoon find that a savvy strategy -\nalong with a bit of luck - is the key to\nsuccess.\n<br/><br/>\nGameplay is direct and intuitive via\ntouch screen. You can closely observe\neverything on the 3D screen and make\nextensive changes to the way you\nview the tile layout. And you'll love\nthe fabulous six graphics themes from\n\"\"Farm\"\" to \"\"Zombies\"\".\n<br/><br/>\nIn Adventure Mode, you will need to\nmaster 200 levels in order to unlock\nall tiles, backgrounds etc. You can\nthen use these elements in free\ngameplay to create custom levels.\nYou can also switch between classic\nrules and \"\"Rivers\"\" rules at any time.\n<br/><br/>\n- 2 game versions: Classic and\nRivers mode\n<br/><br/>\n- Adventure Mode with 200 levels\n<br/><br/>\n- Free gameplay with more than\n10,000 variations\n<br/><br/>\n- 6 themes: Asia, Farm, Princess,\nSea, Casino and Zombies",
+  "release_date_on_eshop": "2013-06-27",
+  "product_code": "CTR-N-AG2Z",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

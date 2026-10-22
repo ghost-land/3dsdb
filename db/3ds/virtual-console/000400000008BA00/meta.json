@@ -1,27 +1,27 @@
 {
-    "tid": "000400000008BA00",
-    "uid": "50010000009723",
-    "name": "Sonic the Hedgehog™:\nTriple Trouble",
-    "formal_name": "Sonic the Hedgehog™: Triple Trouble",
-    "description": "While the evil genius Dr. Robotnik is testing the ultimate destructive weapon, one of his assistants makes a mistake causing his lab to explode and scatter five Chaos Emeralds across the planet Mobius. Sonic and Tails spin-dash to rescue them. Tricky Knuckles streaks right behind, with sticky-fingered Nack the Weasel joining the hunt. Its a triple-threat race to see who will get the Emeralds first!\n<br><br>\nThree times the action and Triple the Trouble! Loop, blast and super spin-dash through six zones, five bonus rounds and a wild 3-D stage.\n<br><br>\nCheck out Sonic's moves as he jams with his awesome Strike Dash, Jet-Boards on snow and ice, rolls in his Spin-Coaster and swims deep under water with Propeller Shoes.<br>\nHelp Tails as he submarines through water with his Sea Fox and Heli-Tails to explore parts of the zone beyond Sonic's reach.",
-    "release_date_on_eshop": "2012-03-15",
-    "product_code": "CTR-N-GAAE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000008BA00",
+  "uid": "50010000009723",
+  "name": "Sonic the Hedgehog™:\nTriple Trouble",
+  "formal_name": "Sonic the Hedgehog™: Triple Trouble",
+  "description": "While the evil genius Dr. Robotnik is testing the ultimate destructive weapon, one of his assistants makes a mistake causing his lab to explode and scatter five Chaos Emeralds across the planet Mobius. Sonic and Tails spin-dash to rescue them. Tricky Knuckles streaks right behind, with sticky-fingered Nack the Weasel joining the hunt. Its a triple-threat race to see who will get the Emeralds first!\n<br><br>\nThree times the action and Triple the Trouble! Loop, blast and super spin-dash through six zones, five bonus rounds and a wild 3-D stage.\n<br><br>\nCheck out Sonic's moves as he jams with his awesome Strike Dash, Jet-Boards on snow and ice, rolls in his Spin-Coaster and swims deep under water with Propeller Shoes.<br>\nHelp Tails as he submarines through water with his Sea Fox and Heli-Tails to explore parts of the zone beyond Sonic's reach.",
+  "release_date_on_eshop": "2012-03-15",
+  "product_code": "CTR-N-GAAE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

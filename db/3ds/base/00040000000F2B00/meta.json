@@ -1,29 +1,29 @@
 {
-    "tid": "00040000000F2B00",
-    "uid": "50010000016556",
-    "name": "Mahjong 3D - Essentials",
-    "formal_name": "Mahjong 3D - Essentials",
-    "description": "Do you love Mahjong, but don’t want to be part of the thrilling campaign in Mahjong 3D – Warriors of the Emperor? Then Mahjong 3D – Essentials is just what you’re looking for! Fast and exciting fun guaranteed!\n<br>\n<br>Dive into an exotic world and experience the famous Chinese board game in breathtaking 3D! Be enchanted and enthralled by beautiful backgrounds – they make this Mahjong game a very special experience. \n<br>\n<br>With Mahjong 3D Essentials, you get fast and exciting brainteasers for in-between times – 70 levels in three degrees of difficulty: easy, medium, and hard.\n<br>\n<br>Build your own puzzles with the level editor – endless fun guaranteed!\n<br>\n<br>Features\n<br>70 exciting levels in easy, medium, and hard \n<br>Level editor: Create your own Mahjong boards and have endless fun\n<br>Be enchanted by the breathtaking 3D graphics and the exotic backgrounds\n<br>",
-    "release_date_on_eshop": "2013-09-19",
-    "product_code": "CTR-N-JAXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Board Game",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000F2B00",
+  "uid": "50010000016556",
+  "name": "Mahjong 3D - Essentials",
+  "formal_name": "Mahjong 3D - Essentials",
+  "description": "Do you love Mahjong, but don’t want to be part of the thrilling campaign in Mahjong 3D – Warriors of the Emperor? Then Mahjong 3D – Essentials is just what you’re looking for! Fast and exciting fun guaranteed!\n<br>\n<br>Dive into an exotic world and experience the famous Chinese board game in breathtaking 3D! Be enchanted and enthralled by beautiful backgrounds – they make this Mahjong game a very special experience. \n<br>\n<br>With Mahjong 3D Essentials, you get fast and exciting brainteasers for in-between times – 70 levels in three degrees of difficulty: easy, medium, and hard.\n<br>\n<br>Build your own puzzles with the level editor – endless fun guaranteed!\n<br>\n<br>Features\n<br>70 exciting levels in easy, medium, and hard \n<br>Level editor: Create your own Mahjong boards and have endless fun\n<br>Be enchanted by the breathtaking 3D graphics and the exotic backgrounds\n<br>",
+  "release_date_on_eshop": "2013-09-19",
+  "product_code": "CTR-N-JAXE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Board Game",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

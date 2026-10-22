@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B395250",
-    "uid": "50010000028655",
-    "name": "My Aquarium: Seven Oceans",
-    "formal_name": "My Aquarium: Seven Oceans",
-    "description": "You can finally have your own\nAquariums and become an Aquarist!\n<br/><br/>\nJourney to the world’s biggest fishing\nspots and bring back with you the\nrarest of species.\n<br/><br/>\nAdjust your fish tanks and change\nthe parameters of the water in order\nthat your fish can live happily. Like\nreal fish they will need good care!\n<br/><br/>\nThere are tropical and river fish to\nfind as well as mammals such as\ndolphins and whales. Also there are\nmany fishing spots to discover,\nvarious others fishermen to meet and\na lot of objects and effects to\ndecorate your fish tanks.\n<br/><br/>\nYou can even exchange fish and\nfishing notes with your friends!",
-    "release_date_on_eshop": "2014-12-18",
-    "product_code": "TWL-N-K9RP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation",
-        "Education",
-        "Sports"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B395250",
+  "uid": "50010000028655",
+  "name": "My Aquarium: Seven Oceans",
+  "formal_name": "My Aquarium: Seven Oceans",
+  "description": "You can finally have your own\nAquariums and become an Aquarist!\n<br/><br/>\nJourney to the world’s biggest fishing\nspots and bring back with you the\nrarest of species.\n<br/><br/>\nAdjust your fish tanks and change\nthe parameters of the water in order\nthat your fish can live happily. Like\nreal fish they will need good care!\n<br/><br/>\nThere are tropical and river fish to\nfind as well as mammals such as\ndolphins and whales. Also there are\nmany fishing spots to discover,\nvarious others fishermen to meet and\na lot of objects and effects to\ndecorate your fish tanks.\n<br/><br/>\nYou can even exchange fish and\nfishing notes with your friends!",
+  "release_date_on_eshop": "2014-12-18",
+  "product_code": "TWL-N-K9RP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation",
+    "Education",
+    "Sports"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

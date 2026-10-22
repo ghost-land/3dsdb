@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000078600",
-    "uid": "50010000010079",
-    "name": "ハッピー☆アニマル牧場",
-    "formal_name": "ハッピー☆アニマル牧場",
-    "description": "『ハッピー☆アニマル牧場』は、牧場主となって動物を飼育したり植物を育てたりしながら、牧場生活を体験できるゲームです。動物や植物を育ててお金をためて、道具を買ったり施設を増やしたり、自分だけの牧場ライフを楽しもう!",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-AFMJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "region": "Japan",
-    "genres": [
-        "シミュレーション"
-    ],
-    "features": [
-        "インターネット対応",
-        "3D映像対応",
-        "すれちがい通信対応",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000078600",
+  "uid": "50010000010079",
+  "name": "ハッピー☆アニマル牧場",
+  "formal_name": "ハッピー☆アニマル牧場",
+  "description": "『ハッピー☆アニマル牧場』は、牧場主となって動物を飼育したり植物を育てたりしながら、牧場生活を体験できるゲームです。動物や植物を育ててお金をためて、道具を買ったり施設を増やしたり、自分だけの牧場ライフを楽しもう!",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-AFMJ",
+  "platform_name": "ニンテンドー3DSカードソフト",
+  "region": "Japan",
+  "genres": [
+    "シミュレーション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "すれちがい通信対応",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001BD100",
-    "uid": "50010000042441",
-    "name": "Bingo Collection",
-    "formal_name": "Bingo Collection",
-    "description": "Bingo Collection is a pack of three fun games based on the popular game of Bingo! Take your pick from three different types of bingo games!\n<br>\n<br>Catch Bingo\n<br>Catch the bingo balls as they bounce around on the Bottom Screen, collecting the numbers you need to complete a bingo line.\n<br>\n<br>Slide Bingo\n<br>Based on the popular slide puzzle games, move numbers around a board by sliding them one-by-one into an empty space. Line up the numbers in a row to create a bingo line.\n<br>\n<br>Touch Bingo\n<br>Touch the numbers on a bingo card as fast as possible!\n<br>Each stage has different rules such as touching the titles in descending order or touching the odd numbered tiles in ascending order.\n<br>\n<br>Test yourself for the best scores in 90 different stages!",
-    "release_date_on_eshop": "2017-04-13",
-    "product_code": "CTR-N-KBHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action",
-        "Arcade",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001BD100",
+  "uid": "50010000042441",
+  "name": "Bingo Collection",
+  "formal_name": "Bingo Collection",
+  "description": "Bingo Collection is a pack of three fun games based on the popular game of Bingo! Take your pick from three different types of bingo games!\n<br>\n<br>Catch Bingo\n<br>Catch the bingo balls as they bounce around on the Bottom Screen, collecting the numbers you need to complete a bingo line.\n<br>\n<br>Slide Bingo\n<br>Based on the popular slide puzzle games, move numbers around a board by sliding them one-by-one into an empty space. Line up the numbers in a row to create a bingo line.\n<br>\n<br>Touch Bingo\n<br>Touch the numbers on a bingo card as fast as possible!\n<br>Each stage has different rules such as touching the titles in descending order or touching the odd numbered tiles in ascending order.\n<br>\n<br>Test yourself for the best scores in 90 different stages!",
+  "release_date_on_eshop": "2017-04-13",
+  "product_code": "CTR-N-KBHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action",
+    "Arcade",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

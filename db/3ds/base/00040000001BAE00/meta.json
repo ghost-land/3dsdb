@@ -1,30 +1,30 @@
 {
-    "tid": "00040000001BAE00",
-    "uid": "50010000042486",
-    "name": "RPG Maker Player",
-    "formal_name": "RPG Maker Player",
-    "description": "Download and play RPG games created by the amazing and imaginative users of RPG Maker Fes.",
-    "release_date_on_eshop": "2017-06-22",
-    "product_code": "CTR-N-KRWP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BAE00",
+  "uid": "50010000042486",
+  "name": "RPG Maker Player",
+  "formal_name": "RPG Maker Player",
+  "description": "Download and play RPG games created by the amazing and imaginative users of RPG Maker Fes.",
+  "release_date_on_eshop": "2017-06-22",
+  "product_code": "CTR-N-KRWP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

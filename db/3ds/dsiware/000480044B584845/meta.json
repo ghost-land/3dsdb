@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B584845",
-    "uid": "50010000007038",
-    "name": "Extreme Hangman 2",
-    "formal_name": "Extreme Hangman 2",
-    "description": "Extreme Hangman 2 is coming! New categories, worlds, animations, and backgrounds are waiting just for you. The goal in Extreme Hangman 2 is to save the hangman by guessing the word. If you guess the word, the hangman lives. If you guess wrong, the hangman dies. You only have a limited number of times you can miss, so guess carefully! The sequel Extreme Hangman 2 boasts over 3000 words in 14 totally new categories, with 10 funny animations and 4 eye-catching backgrounds to choose from. Check your skill and try to save the hangman by guessing words in three difficulty levels.",
-    "release_date_on_eshop": "2011-07-14",
-    "product_code": "TWL-N-KXHE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Multiplayer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584845",
+  "uid": "50010000007038",
+  "name": "Extreme Hangman 2",
+  "formal_name": "Extreme Hangman 2",
+  "description": "Extreme Hangman 2 is coming! New categories, worlds, animations, and backgrounds are waiting just for you. The goal in Extreme Hangman 2 is to save the hangman by guessing the word. If you guess the word, the hangman lives. If you guess wrong, the hangman dies. You only have a limited number of times you can miss, so guess carefully! The sequel Extreme Hangman 2 boasts over 3000 words in 14 totally new categories, with 10 funny animations and 4 eye-catching backgrounds to choose from. Check your skill and try to save the hangman by guessing words in three difficulty levels.",
+  "release_date_on_eshop": "2011-07-14",
+  "product_code": "TWL-N-KXHE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Multiplayer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

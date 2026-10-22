@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000087700",
-    "uid": "50010000011650",
-    "name": "NightSky",
-    "formal_name": "NightSky",
-    "description": "NightSky is an action-puzzle game that offers an ambient gameplay experience unlike any other on Nintendo 3DS with cerebral challenges that fill uniquely designed picturesque worlds. Each of these worlds is broken into different areas in which the player must maneuver a sphere by using realistic physics to advance. There are no enemies, no bosses, and no violence in NightSky.\n<br><br>\nAn intuitive experience is friendly for casual and mainstream gamers. NightSky also offers a formidable challenge for hardcore players, with an unlockable Alternative mode. The original soundtrack by experimental jazz musician Chris Schlarb will further heighten the surreal 3D experience.",
-    "release_date_on_eshop": "2012-10-25",
-    "product_code": "CTR-N-JNSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000087700",
+  "uid": "50010000011650",
+  "name": "NightSky",
+  "formal_name": "NightSky",
+  "description": "NightSky is an action-puzzle game that offers an ambient gameplay experience unlike any other on Nintendo 3DS with cerebral challenges that fill uniquely designed picturesque worlds. Each of these worlds is broken into different areas in which the player must maneuver a sphere by using realistic physics to advance. There are no enemies, no bosses, and no violence in NightSky.\n<br><br>\nAn intuitive experience is friendly for casual and mainstream gamers. NightSky also offers a formidable challenge for hardcore players, with an unlockable Alternative mode. The original soundtrack by experimental jazz musician Chris Schlarb will further heighten the surreal 3D experience.",
+  "release_date_on_eshop": "2012-10-25",
+  "product_code": "CTR-N-JNSE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

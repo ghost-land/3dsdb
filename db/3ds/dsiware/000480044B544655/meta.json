@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B544655",
-    "uid": "50010000006341",
-    "name": "4 TRAVELLERS™\nPlay French",
-    "formal_name": "4 TRAVELLERS™\nPlay French",
-    "description": "Challenge your family and friends in a\nnew digital board game, and at the\nsame time learn your first words in a\nnew language together.<br>\n<br>\nYou compete in a foreign hotel where\nthe goal is to acquire objects, money\nand friends. Your ability to strategize\nand learn fast is essential.<br>\n<br>\nThe game is suitable for both young\nand old, and no previous knowledge\nis necessary.<br>\n<br>\nIn-game languages: English, Español,\nDeutsch, Italiano, Nederlands, Norsk,\nSvenska, Dansk, Suomi.",
-    "release_date_on_eshop": "2010-07-16",
-    "product_code": "TWL-N-KTFP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Education"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "German",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B544655",
+  "uid": "50010000006341",
+  "name": "4 TRAVELLERS™\nPlay French",
+  "formal_name": "4 TRAVELLERS™\nPlay French",
+  "description": "Challenge your family and friends in a\nnew digital board game, and at the\nsame time learn your first words in a\nnew language together.<br>\n<br>\nYou compete in a foreign hotel where\nthe goal is to acquire objects, money\nand friends. Your ability to strategize\nand learn fast is essential.<br>\n<br>\nThe game is suitable for both young\nand old, and no previous knowledge\nis necessary.<br>\n<br>\nIn-game languages: English, Español,\nDeutsch, Italiano, Nederlands, Norsk,\nSvenska, Dansk, Suomi.",
+  "release_date_on_eshop": "2010-07-16",
+  "product_code": "TWL-N-KTFP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Education"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

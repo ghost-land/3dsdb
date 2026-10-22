@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000182000",
-    "uid": "50010000038115",
-    "name": "Toki Tori 3D",
-    "formal_name": "Toki Tori 3D",
-    "description": "Game Boy™ Color classic Toki Tori arrives on Nintendo 3DS™ with new features and brand new content!\n<br><br>\nThe gameplay in Toki Tori is a blend of two genres. While it looks like a platform game, it's a puzzle game at heart. To progress through the game, players will have to look and plan ahead carefully while using items such as the Telewarp, Freeze-o-Matic and InstantRock™. Additional tools are gradually introduced as the player progresses through the game's 80+ levels covering five unique worlds. \n<br><br>\nNew time-rewind feature \nUse the touch screen for quick item swapping\nClassic platform / puzzle action\nA wide variety of items and weapons \nOver 80 levels spread over 5 worlds \nFor all ages - accessible and hard levels available ",
-    "release_date_on_eshop": "2015-11-05",
-    "product_code": "CTR-N-KT2E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000182000",
+  "uid": "50010000038115",
+  "name": "Toki Tori 3D",
+  "formal_name": "Toki Tori 3D",
+  "description": "Game Boy™ Color classic Toki Tori arrives on Nintendo 3DS™ with new features and brand new content!\n<br><br>\nThe gameplay in Toki Tori is a blend of two genres. While it looks like a platform game, it's a puzzle game at heart. To progress through the game, players will have to look and plan ahead carefully while using items such as the Telewarp, Freeze-o-Matic and InstantRock™. Additional tools are gradually introduced as the player progresses through the game's 80+ levels covering five unique worlds. \n<br><br>\nNew time-rewind feature \nUse the touch screen for quick item swapping\nClassic platform / puzzle action\nA wide variety of items and weapons \nOver 80 levels spread over 5 worlds \nFor all ages - accessible and hard levels available ",
+  "release_date_on_eshop": "2015-11-05",
+  "product_code": "CTR-N-KT2E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

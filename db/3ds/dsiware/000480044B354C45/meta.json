@@ -1,28 +1,28 @@
 {
-    "tid": "000480044B354C45",
-    "uid": "50010000013530",
-    "name": "Forgotten Legions",
-    "formal_name": "Forgotten Legions",
-    "description": "is an innovative real-time strategy in a fantasy setting, and is an exclusive for Nintendo DSiWare. Choose from two unique sides and command 18 units in 30 campaign missions.\n<br><br>\nEndless mode brings hours of challenging gameplay, with the chance to add the results to a web-based leaderboard.\n<br><br>\nKey Features:<br>\nInnovative real-time, side-scrolling strategy<br>\nDeeply tactical controls<br>\nFantasy setting  – including humans, elves, dwarves and the undead<br>\nTwo unique armies with distinctive strategies<br>\n30 campaign missions<br>\nChallenging endless mode<br>\nExciting gameplay<br>\nBoss fights<br>\nSpecial abilities<br>\nA web-based leaderboard<br>\nAtmospheric environments and music",
-    "release_date_on_eshop": "2013-03-14",
-    "product_code": "TWL-N-K5LE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "RPG",
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B354C45",
+  "uid": "50010000013530",
+  "name": "Forgotten Legions",
+  "formal_name": "Forgotten Legions",
+  "description": "is an innovative real-time strategy in a fantasy setting, and is an exclusive for Nintendo DSiWare. Choose from two unique sides and command 18 units in 30 campaign missions.\n<br><br>\nEndless mode brings hours of challenging gameplay, with the chance to add the results to a web-based leaderboard.\n<br><br>\nKey Features:<br>\nInnovative real-time, side-scrolling strategy<br>\nDeeply tactical controls<br>\nFantasy setting  – including humans, elves, dwarves and the undead<br>\nTwo unique armies with distinctive strategies<br>\n30 campaign missions<br>\nChallenging endless mode<br>\nExciting gameplay<br>\nBoss fights<br>\nSpecial abilities<br>\nA web-based leaderboard<br>\nAtmospheric environments and music",
+  "release_date_on_eshop": "2013-03-14",
+  "product_code": "TWL-N-K5LE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "RPG",
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

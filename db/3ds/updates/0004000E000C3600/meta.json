@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E000C3600",
-    "uid": "50010000022518",
-    "name": "更新データ Ver. 1.2 ペルソナQ\nシャドウ オブ ザ ラビリンス",
-    "formal_name": "更新データ Ver. 1.2\nペルソナQ シャドウ オブ ザ ラビリンス",
-    "description": "ニンテンドー3DSソフト『ペルソナQ シャドウ オブ ザ ラビリンス』の更新データです。\n<br>一部のサブペルソナのQRコードが読み取れない症状の改善と、特定の状況下での動作安定性を向上させました。",
-    "release_date_on_eshop": "2014-07-09",
-    "product_code": "CTR-U-AQQJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.3.0",
-    "disclaimer": "ニンテンドー3DSソフト『ペルソナQ シャドウ オブ ザ ラビリンス』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E000C3600",
+  "uid": "50010000022518",
+  "name": "更新データ Ver. 1.2 ペルソナQ\nシャドウ オブ ザ ラビリンス",
+  "formal_name": "更新データ Ver. 1.2\nペルソナQ シャドウ オブ ザ ラビリンス",
+  "description": "ニンテンドー3DSソフト『ペルソナQ シャドウ オブ ザ ラビリンス』の更新データです。\n<br>一部のサブペルソナのQRコードが読み取れない症状の改善と、特定の状況下での動作安定性を向上させました。",
+  "release_date_on_eshop": "2014-07-09",
+  "product_code": "CTR-U-AQQJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v2.3.0",
+  "disclaimer": "ニンテンドー3DSソフト『ペルソナQ シャドウ オブ ザ ラビリンス』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "0004000000096A00",
-    "uid": "50010000011189",
-    "name": "Sonic Blast™",
-    "formal_name": "Sonic Blast™",
-    "description": "In this fully rendered Game Gear classic, Dr. Eggman (AKA Dr. Robotnik) has stolen the Chaos Emeralds and it's up to Sonic the Hedgehog and Knuckles the Echidna to stop him. Guide Sonic and Knuckles through mazelike Zones and defeat Dr. Eggman’s mechanical menaces to show him that there’s nothing a determined Hedgehog or Echidna can't overcome.\n<br><br>\nPlay as Sonic or Knuckles as you race through 14 levels in search of hidden Power-ups.<br>\nUse Sonic's new Double Jump to access hard-to-reach areas.<br>\nTake advantage of Knuckles' climbing skills to gain extra points.<br>\nLook out for Big Rings to enter Bonus Stages where there are extra lives and Chaos Emeralds to be found.",
-    "release_date_on_eshop": "2013-06-20",
-    "product_code": "CTR-N-GAGE",
-    "platform_name": "Game Gear",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Adventure",
-        "Platformer"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000096A00",
+  "uid": "50010000011189",
+  "name": "Sonic Blast™",
+  "formal_name": "Sonic Blast™",
+  "description": "In this fully rendered Game Gear classic, Dr. Eggman (AKA Dr. Robotnik) has stolen the Chaos Emeralds and it's up to Sonic the Hedgehog and Knuckles the Echidna to stop him. Guide Sonic and Knuckles through mazelike Zones and defeat Dr. Eggman’s mechanical menaces to show him that there’s nothing a determined Hedgehog or Echidna can't overcome.\n<br><br>\nPlay as Sonic or Knuckles as you race through 14 levels in search of hidden Power-ups.<br>\nUse Sonic's new Double Jump to access hard-to-reach areas.<br>\nTake advantage of Knuckles' climbing skills to gain extra points.<br>\nLook out for Big Rings to enter Bonus Stages where there are extra lives and Chaos Emeralds to be found.",
+  "release_date_on_eshop": "2013-06-20",
+  "product_code": "CTR-N-GAGE",
+  "platform_name": "Game Gear",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Adventure",
+    "Platformer"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

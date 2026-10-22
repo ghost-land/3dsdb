@@ -1,36 +1,36 @@
 {
-    "tid": "0004000000175300",
-    "uid": "50010000040796",
-    "name": "Metroid™ Prime: Blast Ball",
-    "formal_name": "Metroid™ Prime: Blast Ball",
-    "description": "Please note that from the 31/12/2016 onwards, the online functions for this title will no longer be accessible.\n<br>\n<br>Blast Ball is an original futuristic sport, somewhat like football. Each player controls a Mech with the aim to shoot at a giant ball, and try to get it into the other team’s goal to score. Matches are three vs. three multiplayer matches, and the first team to get three points ahead of the other, or the team with the most points after five minutes wins. Three different kinds of item will appear at random during the match, and using them at the right time is the key to victory. Intuitive controls and simple rules make this an easy game to pick up and play.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
-    "release_date_on_eshop": "2016-07-21",
-    "product_code": "CTR-N-JA5P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports Download Play",
-        "amiibo",
-        "Circle Pad Pro"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000175300",
+  "uid": "50010000040796",
+  "name": "Metroid™ Prime: Blast Ball",
+  "formal_name": "Metroid™ Prime: Blast Ball",
+  "description": "Please note that from the 31/12/2016 onwards, the online functions for this title will no longer be accessible.\n<br>\n<br>Blast Ball is an original futuristic sport, somewhat like football. Each player controls a Mech with the aim to shoot at a giant ball, and try to get it into the other team’s goal to score. Matches are three vs. three multiplayer matches, and the first team to get three points ahead of the other, or the team with the most points after five minutes wins. Three different kinds of item will appear at random during the match, and using them at the right time is the key to victory. Intuitive controls and simple rules make this an easy game to pick up and play.<br><br>Visit amiibo.nintendo.eu for compatible amiibo™ and the latest information. To use amiibo on Nintendo 3DS, Nintendo 3DS XL and Nintendo 2DS systems a Nintendo 3DS NFC Reader/Writer is required.",
+  "release_date_on_eshop": "2016-07-21",
+  "product_code": "CTR-N-JA5P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports Download Play",
+    "amiibo",
+    "Circle Pad Pro"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

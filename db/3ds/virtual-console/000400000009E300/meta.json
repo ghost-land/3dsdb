@@ -1,29 +1,29 @@
 {
-    "tid": "000400000009E300",
-    "uid": "50010000013636",
-    "name": "Super C",
-    "formal_name": "Super C",
-    "description": "Alien warmonger Red Falcon is back!\nThought to have been defeated by the\nheroic warriors Mad Dog and\nScorpion, he’s assembled a force of\nevil minions to attack Earth.\n<br/><br/>\nBased on the hit arcade game, Super\nC is the sequel to the classic\nContra™. Battle through intense\nside-scrolling and top-down viewpoint\nshooter action, and save the planet.\n<br/><br/>\nTake on Red Falcon yourself or team\nup with a friend via Download Play\n(two Nintendo 3DS™ systems and at\nleast one copy of the game are\nrequired).",
-    "release_date_on_eshop": "2013-05-02",
-    "product_code": "CTR-N-TBAP",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009E300",
+  "uid": "50010000013636",
+  "name": "Super C",
+  "formal_name": "Super C",
+  "description": "Alien warmonger Red Falcon is back!\nThought to have been defeated by the\nheroic warriors Mad Dog and\nScorpion, he’s assembled a force of\nevil minions to attack Earth.\n<br/><br/>\nBased on the hit arcade game, Super\nC is the sequel to the classic\nContra™. Battle through intense\nside-scrolling and top-down viewpoint\nshooter action, and save the planet.\n<br/><br/>\nTake on Red Falcon yourself or team\nup with a friend via Download Play\n(two Nintendo 3DS™ systems and at\nleast one copy of the game are\nrequired).",
+  "release_date_on_eshop": "2013-05-02",
+  "product_code": "CTR-N-TBAP",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

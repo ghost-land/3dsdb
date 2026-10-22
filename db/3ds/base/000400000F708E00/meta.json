@@ -1,27 +1,27 @@
 {
-    "tid": "000400000F708E00",
-    "uid": "50010000041938",
-    "name": "CUP CRITTERS",
-    "formal_name": "CUP CRITTERS",
-    "description": "In CUP CRITTERS, you must manipulate gravity to keep those crazy balls in the cups. As you advance, your score gets higher and the tricks get more difficult. Great fun for casual players and core gamers alike!",
-    "release_date_on_eshop": "2016-12-01",
-    "product_code": "KTR-N-CCRP",
-    "platform_name": "New 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Arcade",
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F708E00",
+  "uid": "50010000041938",
+  "name": "CUP CRITTERS",
+  "formal_name": "CUP CRITTERS",
+  "description": "In CUP CRITTERS, you must manipulate gravity to keep those crazy balls in the cups. As you advance, your score gets higher and the tricks get more difficult. Great fun for casual players and core gamers alike!",
+  "release_date_on_eshop": "2016-12-01",
+  "product_code": "KTR-N-CCRP",
+  "platform_name": "New 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Arcade",
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

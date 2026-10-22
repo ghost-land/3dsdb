@@ -1,25 +1,25 @@
 {
-    "tid": "000400000009BA00",
-    "uid": "50010000012612",
-    "name": "Vampire: Master of Darkness",
-    "formal_name": "Vampire: Master of Darkness",
-    "description": "The shadow of Dracula has spread\nover Victorian England. Make your\nway through strange and forbidding\nstreets and cavernous warehouses\nwhile fighting his army of monsters.\nFind Dracula, the Master of Darkness,\nand rescue England from his terrifying\ngrasp.\n<br/><br/>\nArm yourself with powerful weapons\nranging from swords to bombs and\npistols!\n<br/><br/>\nDefeat terrifying monsters across five\nrounds in order to put an end Dracula.",
-    "release_date_on_eshop": "2013-07-04",
-    "product_code": "CTR-N-GAQP",
-    "platform_name": "Game Gear",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009BA00",
+  "uid": "50010000012612",
+  "name": "Vampire: Master of Darkness",
+  "formal_name": "Vampire: Master of Darkness",
+  "description": "The shadow of Dracula has spread\nover Victorian England. Make your\nway through strange and forbidding\nstreets and cavernous warehouses\nwhile fighting his army of monsters.\nFind Dracula, the Master of Darkness,\nand rescue England from his terrifying\ngrasp.\n<br/><br/>\nArm yourself with powerful weapons\nranging from swords to bombs and\npistols!\n<br/><br/>\nDefeat terrifying monsters across five\nrounds in order to put an end Dracula.",
+  "release_date_on_eshop": "2013-07-04",
+  "product_code": "CTR-N-GAQP",
+  "platform_name": "Game Gear",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

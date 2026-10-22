@@ -1,28 +1,28 @@
 {
-    "tid": "000400000F702600",
-    "uid": "50010000040815",
-    "name": "Mega Man™ X",
-    "formal_name": "Mega Man™ X",
-    "description": "When the Mega Man series made the technological leap from NES to Super Nintendo, so too did Mega Man himself.\n<br>\n<br>Set one hundred years after the original hero's adventures, Mega Man X stars a more powerful generation of robot known as X who - along with the maverick Zero - must take on a new threat: the reploids.\n<br>\n<br>Like Mega Man, X must battle through each thrilling stage and defeat the boss, to capture its weapon for his own. But unlike Mega Man, X can dash, climb walls and collect armour to upgrade his abilities!\n<br>\n<br>This is the US version of the game.",
-    "release_date_on_eshop": "2016-07-14",
-    "product_code": "KTR-N-UAME",
-    "platform_name": "Super Nintendo",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F702600",
+  "uid": "50010000040815",
+  "name": "Mega Man™ X",
+  "formal_name": "Mega Man™ X",
+  "description": "When the Mega Man series made the technological leap from NES to Super Nintendo, so too did Mega Man himself.\n<br>\n<br>Set one hundred years after the original hero's adventures, Mega Man X stars a more powerful generation of robot known as X who - along with the maverick Zero - must take on a new threat: the reploids.\n<br>\n<br>Like Mega Man, X must battle through each thrilling stage and defeat the boss, to capture its weapon for his own. But unlike Mega Man, X can dash, climb walls and collect armour to upgrade his abilities!\n<br>\n<br>This is the US version of the game.",
+  "release_date_on_eshop": "2016-07-14",
+  "product_code": "KTR-N-UAME",
+  "platform_name": "Super Nintendo",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

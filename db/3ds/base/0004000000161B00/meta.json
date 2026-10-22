@@ -1,30 +1,30 @@
 {
-    "tid": "0004000000161B00",
-    "uid": "50010000038596",
-    "name": "Dementium Remastered",
-    "formal_name": "Dementium Remastered",
-    "description": "Rebuilt from the ground up to take advantage of the Nintendo 3DS™, Dementium Remastered takes the guts of Infitizmo's award-winning title and delivers a new and improved atmospheric first-person survival horror experience with enhanced graphics, refined gameplay, high-quality audio, and immersive control options.\n<br>\n<br>Features new difficulty settings, including Demented mode - designed for hardcore fans of the series!\n<br>\n<br>Dementium Remastered tells the tale of a man who awakens to find himself alone in a mysterious, derelict hospital that is frozen in time. Confronted by the deadly, grotesque surgical experiments that wander the halls, a series of challenging puzzles, and a cast of peculiar characters, he must face his deepest fears, unlock the mysteries of the hospital, and escape with his life.",
-    "release_date_on_eshop": "2015-12-03",
-    "product_code": "CTR-N-KDDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "First-Person Shooter",
-        "Action",
-        "Adventure",
-        "Shooter"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "17"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000161B00",
+  "uid": "50010000038596",
+  "name": "Dementium Remastered",
+  "formal_name": "Dementium Remastered",
+  "description": "Rebuilt from the ground up to take advantage of the Nintendo 3DS™, Dementium Remastered takes the guts of Infitizmo's award-winning title and delivers a new and improved atmospheric first-person survival horror experience with enhanced graphics, refined gameplay, high-quality audio, and immersive control options.\n<br>\n<br>Features new difficulty settings, including Demented mode - designed for hardcore fans of the series!\n<br>\n<br>Dementium Remastered tells the tale of a man who awakens to find himself alone in a mysterious, derelict hospital that is frozen in time. Confronted by the deadly, grotesque surgical experiments that wander the halls, a series of challenging puzzles, and a cast of peculiar characters, he must face his deepest fears, unlock the mysteries of the hospital, and escape with his life.",
+  "release_date_on_eshop": "2015-12-03",
+  "product_code": "CTR-N-KDDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "First-Person Shooter",
+    "Action",
+    "Adventure",
+    "Shooter"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "17"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

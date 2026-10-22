@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B414245",
-    "uid": "50010000034155",
-    "name": "G.G. Series ASSAULT BUSTER",
-    "formal_name": "G.G. Series ASSAULT BUSTER",
-    "description": "You are the last defense against the assault of a robot army! Pit yourself against wave after wave of enemy forces while using your high speed boost maneuver to fly in 8 different directions to avoid fire with the goal of total enemy annihilation. Defeating any enemies on screen will decrease the \"enemy potential\" gauge which will give way to a powerful boss upon reaching zero. Keep an eye out for flying cargo boxes which will yield helpful items if destroyed. Hold your ground as the Assault Buster!",
-    "release_date_on_eshop": "2015-06-04",
-    "product_code": "TWL-N-KABE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000480044B414245",
+  "uid": "50010000034155",
+  "name": "G.G. Series ASSAULT BUSTER",
+  "formal_name": "G.G. Series ASSAULT BUSTER",
+  "description": "You are the last defense against the assault of a robot army! Pit yourself against wave after wave of enemy forces while using your high speed boost maneuver to fly in 8 different directions to avoid fire with the goal of total enemy annihilation. Defeating any enemies on screen will decrease the \"enemy potential\" gauge which will give way to a powerful boss upon reaching zero. Keep an eye out for flying cargo boxes which will yield helpful items if destroyed. Hold your ground as the Assault Buster!",
+  "release_date_on_eshop": "2015-06-04",
+  "product_code": "TWL-N-KABE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

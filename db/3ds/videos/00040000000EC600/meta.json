@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000EC600",
-    "uid": "50010000014077",
-    "name": "The Legend of Zelda: A Link\nBetween Worlds Trailer",
-    "formal_name": "The Legend of Zelda: A Link\nBetween Worlds Download Trailer",
-    "description": null,
-    "release_date_on_eshop": "2013-04-17",
-    "product_code": "CTR-N-SPCE",
-    "platform_name": "Downloadable Video",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Video"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Visit www.esrb.org for rating information."
-    ]
+  "tid": "00040000000EC600",
+  "uid": "50010000014077",
+  "name": "The Legend of Zelda: A Link\nBetween Worlds Trailer",
+  "formal_name": "The Legend of Zelda: A Link\nBetween Worlds Download Trailer",
+  "description": null,
+  "release_date_on_eshop": "2013-04-17",
+  "product_code": "CTR-N-SPCE",
+  "platform_name": "Downloadable Video",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Video"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Visit www.esrb.org for rating information."
+  ]
 }

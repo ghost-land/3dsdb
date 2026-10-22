@@ -1,28 +1,28 @@
 {
-    "tid": "000400000013ED00",
-    "uid": "50010000027018",
-    "name": "Secret Journeys: Cities of the World",
-    "formal_name": "Secret Journeys: Cities of the World",
-    "description": "Search for mysterious objects hidden in incredible cities around the world! Explore Venice, Mumbai, Beijing and Nairobi on a globetrotting seek and find adventure. Search buildings, streets, landmarks and more as you delve into detailed and evocative indoor and outdoor scenes filled with over 1000 carefully placed items. Plus, enjoy a challenging sliding tile puzzle for each exotic location. As you unlock each new scene, you'll be drawn deeper into the hidden object hunt. Are you ready to see the world on a Secret Journey?\n<br><br>\nOver 1000 hidden objects<br>\nScenes set in Venice, Mumbai, Beijing and Nairobi<br>\nCasual and Timed Modes<br>\nFun seek and find gameplay<br>\nIncludes bonus sliding tile puzzles",
-    "release_date_on_eshop": "2014-10-23",
-    "product_code": "CTR-N-KSJE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Adventure",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000013ED00",
+  "uid": "50010000027018",
+  "name": "Secret Journeys: Cities of the World",
+  "formal_name": "Secret Journeys: Cities of the World",
+  "description": "Search for mysterious objects hidden in incredible cities around the world! Explore Venice, Mumbai, Beijing and Nairobi on a globetrotting seek and find adventure. Search buildings, streets, landmarks and more as you delve into detailed and evocative indoor and outdoor scenes filled with over 1000 carefully placed items. Plus, enjoy a challenging sliding tile puzzle for each exotic location. As you unlock each new scene, you'll be drawn deeper into the hidden object hunt. Are you ready to see the world on a Secret Journey?\n<br><br>\nOver 1000 hidden objects<br>\nScenes set in Venice, Mumbai, Beijing and Nairobi<br>\nCasual and Timed Modes<br>\nFun seek and find gameplay<br>\nIncludes bonus sliding tile puzzles",
+  "release_date_on_eshop": "2014-10-23",
+  "product_code": "CTR-N-KSJE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Adventure",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

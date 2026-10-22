@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000041C00",
-    "uid": "50010000007501",
-    "name": "Super Mario Land™ 2:\n6 Golden Coins™",
-    "formal_name": "Super Mario Land™ 2:\n6 Golden Coins™",
-    "description": "In his greatest Game Boy™\nadventure, Mario faces off against his\nevil rival Wario, who has captured\nMario Land and turned it into his\nprivate playground.<br>\n<br>\nTo force Wario off his ill-gotten\nthrone, Mario must search all-new\nworlds for the six golden coins that\nunlock the gate to Mario's castle. A\nmob of monsters, old and new, seek\nto stop him. Along the way, through 6\nzones, Mario can nab Power\nMushrooms, Super Stars and Fire\nFlowers for extra power. And if he\neats the Magic Carrot, he'll turn into\na high-flying bunny.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RAGP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000041C00",
+  "uid": "50010000007501",
+  "name": "Super Mario Land™ 2:\n6 Golden Coins™",
+  "formal_name": "Super Mario Land™ 2:\n6 Golden Coins™",
+  "description": "In his greatest Game Boy™\nadventure, Mario faces off against his\nevil rival Wario, who has captured\nMario Land and turned it into his\nprivate playground.<br>\n<br>\nTo force Wario off his ill-gotten\nthrone, Mario must search all-new\nworlds for the six golden coins that\nunlock the gate to Mario's castle. A\nmob of monsters, old and new, seek\nto stop him. Along the way, through 6\nzones, Mario can nab Power\nMushrooms, Super Stars and Fire\nFlowers for extra power. And if he\neats the Magic Carrot, he'll turn into\na high-flying bunny.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RAGP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

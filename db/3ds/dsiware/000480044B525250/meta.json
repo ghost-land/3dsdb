@@ -1,32 +1,32 @@
 {
-    "tid": "000480044B525250",
-    "uid": "50010000012186",
-    "name": "Robot Rescue 2",
-    "formal_name": "Robot Rescue 2",
-    "description": "If you’re tired of “brain-bending logic\ngames” that your kid brother can\nsolve, it’s time for Robot Rescue 2!\nThe rules may be simple, but finding\nsuccess? Not so much. Your mission:\nnavigate a cadre of codependent\nrobots through an evil computer\nlabyrinth brimming with deadly traps.\nAdditionally, at certain points you’ll\nneed to repaint your robots by\nstepping on a special tile in order to\nchange their colour. Only then will\nthey be able to access the right exit\nor passage. Oh, and did we mention\nthat the robots share linked controls?\nMoving one moves them all! Bust out\nyour best thinking cap: it’ll take\npatience, planning and nerves of\ntitanium to see your robots safely\nhome!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KRRP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Strategy",
-        "Other",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525250",
+  "uid": "50010000012186",
+  "name": "Robot Rescue 2",
+  "formal_name": "Robot Rescue 2",
+  "description": "If you’re tired of “brain-bending logic\ngames” that your kid brother can\nsolve, it’s time for Robot Rescue 2!\nThe rules may be simple, but finding\nsuccess? Not so much. Your mission:\nnavigate a cadre of codependent\nrobots through an evil computer\nlabyrinth brimming with deadly traps.\nAdditionally, at certain points you’ll\nneed to repaint your robots by\nstepping on a special tile in order to\nchange their colour. Only then will\nthey be able to access the right exit\nor passage. Oh, and did we mention\nthat the robots share linked controls?\nMoving one moves them all! Bust out\nyour best thinking cap: it’ll take\npatience, planning and nerves of\ntitanium to see your robots safely\nhome!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KRRP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Strategy",
+    "Other",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

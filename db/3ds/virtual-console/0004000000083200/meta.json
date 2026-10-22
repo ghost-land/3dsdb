@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000083200",
-    "uid": "50010000011107",
-    "name": "The Sword of Hope II",
-    "formal_name": "The Sword of Hope II",
-    "description": "When the ancient demon Zakdos was\nfinally sealed away, it ended the war\nagainst evil. But now Zakdos is free\nagain, and to make matters worse, the\nSword of Hope has been stolen!<br>\n<br>\nIn this classic adventure game, take\non the role of young Prince Theo and\nembark on a journey to retrieve the\nSword of Hope.<br>\n<br>\nExplore the land and recruit allies to\njoin your band of warriors and\nmagicians, and take control of three\ndifferent characters. The fate of the\nkingdom is in your hands!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBVP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000083200",
+  "uid": "50010000011107",
+  "name": "The Sword of Hope II",
+  "formal_name": "The Sword of Hope II",
+  "description": "When the ancient demon Zakdos was\nfinally sealed away, it ended the war\nagainst evil. But now Zakdos is free\nagain, and to make matters worse, the\nSword of Hope has been stolen!<br>\n<br>\nIn this classic adventure game, take\non the role of young Prince Theo and\nembark on a journey to retrieve the\nSword of Hope.<br>\n<br>\nExplore the land and recruit allies to\njoin your band of warriors and\nmagicians, and take control of three\ndifferent characters. The fate of the\nkingdom is in your hands!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBVP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

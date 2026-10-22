@@ -1,25 +1,25 @@
 {
-    "tid": "000400000009DE00",
-    "uid": "50010000013277",
-    "name": "DIG DUG™",
-    "formal_name": "DIG DUG™",
-    "description": "Take up the role of Dig Dug, the champion of love and justice, as you drill through the ground and defeat any enemies that stray in your path. Clear the stage by avoiding and defeating the persistent Pooka and the deep-dwelling but whimsical Fygars.\n<br><br>\nHit enemies with the harpoon and pump air into them, or drop rocks from above. Pass through inflated enemies, or defeat multiple enemies in an adjacent passage for an even higher score. To earn a chance at bonus points, don't forget to collect those vegetables that appear!\n<br><br>\nKeep on digging, and outmatch the enemies that dwell deep underground!",
-    "release_date_on_eshop": "2013-02-14",
-    "product_code": "CTR-N-TA9E",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000009DE00",
+  "uid": "50010000013277",
+  "name": "DIG DUG™",
+  "formal_name": "DIG DUG™",
+  "description": "Take up the role of Dig Dug, the champion of love and justice, as you drill through the ground and defeat any enemies that stray in your path. Clear the stage by avoiding and defeating the persistent Pooka and the deep-dwelling but whimsical Fygars.\n<br><br>\nHit enemies with the harpoon and pump air into them, or drop rocks from above. Pass through inflated enemies, or defeat multiple enemies in an adjacent passage for an even higher score. To earn a chance at bonus points, don't forget to collect those vegetables that appear!\n<br><br>\nKeep on digging, and outmatch the enemies that dwell deep underground!",
+  "release_date_on_eshop": "2013-02-14",
+  "product_code": "CTR-N-TA9E",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000058500",
-    "uid": "50010000008004",
-    "name": "BIONIC COMMANDO™",
-    "formal_name": "BIONIC COMMANDO™",
-    "description": "A ruthless army stands ready for war,\nbut the one man who can stop it has\nbeen captured. As Rad Spencer, the\nBionic Commando, use your high-tech\ngrapple hook and assault rifle to\ninfiltrate the enemy’s stronghold in a\ndaring mission to rescue Super Joe.<br>\n<br>\nThis Game Boy™ version of the NES™\nclassic brings you all the\nplatform-swinging, gun-toting action\nof the original plus a brand new\ngraphical style. Reunite with your ally,\ntake out the evil Director Wiseman,\nand bring peace to the world.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBDP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000058500",
+  "uid": "50010000008004",
+  "name": "BIONIC COMMANDO™",
+  "formal_name": "BIONIC COMMANDO™",
+  "description": "A ruthless army stands ready for war,\nbut the one man who can stop it has\nbeen captured. As Rad Spencer, the\nBionic Commando, use your high-tech\ngrapple hook and assault rifle to\ninfiltrate the enemy’s stronghold in a\ndaring mission to rescue Super Joe.<br>\n<br>\nThis Game Boy™ version of the NES™\nclassic brings you all the\nplatform-swinging, gun-toting action\nof the original plus a brand new\ngraphical style. Reunite with your ally,\ntake out the evil Director Wiseman,\nand bring peace to the world.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBDP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

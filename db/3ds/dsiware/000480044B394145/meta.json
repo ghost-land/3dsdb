@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B394145",
-    "uid": "50010000012851",
-    "name": "Goooooal América",
-    "formal_name": "Goooooal América",
-    "description": "A steel ball and 22 football players on springs in shallow dips; a pitch surrounded by barriers and with a goal at each end. It's a concept that's been around for a hundred years and which still sees matches decided on quick combinations and accurate shots on goal. When possession is lost, it becomes your opponent's turn. The game is controlled using the stylus, which allows players to accurately aim and determine the power of a pass or shot.\n<p>\nHowever, it's also possible to inject the mechanics of this turn-based game with a shot of adrenaline. Just imagine replacing the ball with a time bomb. Passes have to be faster and even more accurate. \n<p>\nGoooooal América features several game modes. In addition to standard matches or matches with time bombs, you can choose a single-player match, a two-player match, a 16-team tournament, and even a demanding campaign packed full of challenging tasks in which you can win various achievements.",
-    "release_date_on_eshop": "2012-12-27",
-    "product_code": "TWL-N-K9AE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B394145",
+  "uid": "50010000012851",
+  "name": "Goooooal América",
+  "formal_name": "Goooooal América",
+  "description": "A steel ball and 22 football players on springs in shallow dips; a pitch surrounded by barriers and with a goal at each end. It's a concept that's been around for a hundred years and which still sees matches decided on quick combinations and accurate shots on goal. When possession is lost, it becomes your opponent's turn. The game is controlled using the stylus, which allows players to accurately aim and determine the power of a pass or shot.\n<p>\nHowever, it's also possible to inject the mechanics of this turn-based game with a shot of adrenaline. Just imagine replacing the ball with a time bomb. Passes have to be faster and even more accurate. \n<p>\nGoooooal América features several game modes. In addition to standard matches or matches with time bombs, you can choose a single-player match, a two-player match, a 16-team tournament, and even a demanding campaign packed full of challenging tasks in which you can win various achievements.",
+  "release_date_on_eshop": "2012-12-27",
+  "product_code": "TWL-N-K9AE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

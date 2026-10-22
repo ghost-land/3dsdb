@@ -1,28 +1,28 @@
 {
-    "tid": "0004000000119D00",
-    "uid": "50010000027315",
-    "name": "Pokémon™ Puzzle Challenge",
-    "formal_name": "Pokémon™ Puzzle Challenge",
-    "description": "With the help of Chikorita, Pikachu™, Totodile, and other favorite Pokémon™, you will take on Johto Gym Leaders—like Jasmine, Pryce, and Falkner—on a quest to become the Pokémon Puzzle Champion. Use lightning-fast reflexes to form chains and combos that clear the block tower, attack opposing Pokémon, and bury them in a sea of garbage! Six puzzling modes to play! Test your scoring skills in Time Zone, clean up the mess in Garbage, and then face the eight Gym Leaders in the ultimate Challenge Mode. And with Puzzles, Line Clear, and Marathon Modes, you’ll be clearing blocks for hours on end!",
-    "release_date_on_eshop": "2014-11-06",
-    "product_code": "CTR-N-QBAE",
-    "platform_name": "Game Boy Color",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Strategy"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nSome features from the original game are not available in this version of the game.",
-    "descriptors": []
+  "tid": "0004000000119D00",
+  "uid": "50010000027315",
+  "name": "Pokémon™ Puzzle Challenge",
+  "formal_name": "Pokémon™ Puzzle Challenge",
+  "description": "With the help of Chikorita, Pikachu™, Totodile, and other favorite Pokémon™, you will take on Johto Gym Leaders—like Jasmine, Pryce, and Falkner—on a quest to become the Pokémon Puzzle Champion. Use lightning-fast reflexes to form chains and combos that clear the block tower, attack opposing Pokémon, and bury them in a sea of garbage! Six puzzling modes to play! Test your scoring skills in Time Zone, clean up the mess in Garbage, and then face the eight Gym Leaders in the ultimate Challenge Mode. And with Puzzles, Line Clear, and Marathon Modes, you’ll be clearing blocks for hours on end!",
+  "release_date_on_eshop": "2014-11-06",
+  "product_code": "CTR-N-QBAE",
+  "platform_name": "Game Boy Color",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Strategy"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nSome features from the original game are not available in this version of the game.",
+  "descriptors": []
 }

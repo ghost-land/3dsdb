@@ -1,35 +1,35 @@
 {
-    "tid": "000400000009FA00",
-    "uid": "50010000012043",
-    "name": "Freakyforms™ Deluxe: Your Creations Alive!",
-    "formal_name": "Freakyforms™ Deluxe: Your Creations Alive!",
-    "description": "Create wacky creatures called “formees,” and bring them to life on your Nintendo 3DS™ system to populate your very own planet! Choose from over 600 different forms to complete your creation— like wings for flying or wheels for rolling. The choices you make will determine what abilities your formee will have and how it will move around the world.  The possibilities are nearly endless! The more formees you make, the bigger the planet becomes and the more ways you will have to play in it. This deluxe version of the game contains all the content of the original Nintendo eShop release and some new features, such as dungeons to explore plus enhanced creating and sharing capabilities.",
-    "release_date_on_eshop": "2012-11-05",
-    "product_code": "CTR-N-ATQE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Simulation",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass",
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.  \n\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "000400000009FA00",
+  "uid": "50010000012043",
+  "name": "Freakyforms™ Deluxe: Your Creations Alive!",
+  "formal_name": "Freakyforms™ Deluxe: Your Creations Alive!",
+  "description": "Create wacky creatures called “formees,” and bring them to life on your Nintendo 3DS™ system to populate your very own planet! Choose from over 600 different forms to complete your creation— like wings for flying or wheels for rolling. The choices you make will determine what abilities your formee will have and how it will move around the world.  The possibilities are nearly endless! The more formees you make, the bigger the planet becomes and the more ways you will have to play in it. This deluxe version of the game contains all the content of the original Nintendo eShop release and some new features, such as dungeons to explore plus enhanced creating and sharing capabilities.",
+  "release_date_on_eshop": "2012-11-05",
+  "product_code": "CTR-N-ATQE",
+  "platform_name": "Nintendo 3DS Retail/Download",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Simulation",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.  \n\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

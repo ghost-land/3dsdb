@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B445656",
-    "uid": "50010000002017",
-    "name": "Dark Void™ Zero",
-    "formal_name": "Dark Void™ Zero",
-    "description": "Rise On! After 20 years, the\nlegendary lost project \"Dark Void\" is\nback! Capcom commissioned the\nrecreation of the original 8-bit classic,\nnow re-titled \"Dark Void Zero\", on\nthe Nintendo DSi system.<br>\n<br>\nYou play Rusty, the first human born\nin the Void, who must take on the\nWatchers in a quest to stop their\ndomination of Earth. With the aid of\nNikola Tesla and a state-of-the-art\nrocket pack, Rusty must take down\nthe Watchers and their minions across\nthree intense levels of action and\nintrigue.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KDVV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Shooter",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445656",
+  "uid": "50010000002017",
+  "name": "Dark Void™ Zero",
+  "formal_name": "Dark Void™ Zero",
+  "description": "Rise On! After 20 years, the\nlegendary lost project \"Dark Void\" is\nback! Capcom commissioned the\nrecreation of the original 8-bit classic,\nnow re-titled \"Dark Void Zero\", on\nthe Nintendo DSi system.<br>\n<br>\nYou play Rusty, the first human born\nin the Void, who must take on the\nWatchers in a quest to stop their\ndomination of Earth. With the aid of\nNikola Tesla and a state-of-the-art\nrocket pack, Rusty must take down\nthe Watchers and their minions across\nthree intense levels of action and\nintrigue.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KDVV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shooter",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

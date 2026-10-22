@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B4C4645",
-    "uid": "50010000003007",
-    "name": "Puffins: Let's Fish!",
-    "formal_name": "Puffins: Let's Fish!",
-    "description": "Dive into the deep blue sea and fill your belly with delicious fish in PUFFINS: LET’S FISH! This action game has you swimming the beautiful ocean looking for a puffin’s favorite meal—the elusive capelin. But watch out! The ocean can be a dangerous place and you’re not the only one hunting for food. Sharks, jellyfish and other fearsome predators are just waiting to take a bite out of you. It’s an all-you-can-eat feast in two different and exciting gameplay modes across 18 underwater stages. So be careful, take a deep breath, jump in and come out with a full belly! Yum!",
-    "release_date_on_eshop": "2010-06-21",
-    "product_code": "TWL-N-KLFE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4645",
+  "uid": "50010000003007",
+  "name": "Puffins: Let's Fish!",
+  "formal_name": "Puffins: Let's Fish!",
+  "description": "Dive into the deep blue sea and fill your belly with delicious fish in PUFFINS: LET’S FISH! This action game has you swimming the beautiful ocean looking for a puffin’s favorite meal—the elusive capelin. But watch out! The ocean can be a dangerous place and you’re not the only one hunting for food. Sharks, jellyfish and other fearsome predators are just waiting to take a bite out of you. It’s an all-you-can-eat feast in two different and exciting gameplay modes across 18 underwater stages. So be careful, take a deep breath, jump in and come out with a full belly! Yum!",
+  "release_date_on_eshop": "2010-06-21",
+  "product_code": "TWL-N-KLFE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

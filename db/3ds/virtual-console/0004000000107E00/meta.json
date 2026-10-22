@@ -1,27 +1,27 @@
 {
-    "tid": "0004000000107E00",
-    "uid": "50010000022599",
-    "name": "Super Dodge Ball",
-    "formal_name": "Super Dodge Ball",
-    "description": "Sports don’t come much faster and\nmore intense than dodge ball, and this\nclassic NES™ simulation brings you all\nthe fun without the bruises!\n<br/><br/>\nIn World Mode, take charge of Team\nUSA and face off against rival teams\naround the world to become number\none. But beware: certain teams’\ncourts have obstacles like slippery ice\nor swamps.\n<br/><br/>\nAlternatively, compete against a\nfriend in Versus Play, and hone your\nskills without rules in the free-for-all\nBean Ball mode for one or two\nplayers.",
-    "release_date_on_eshop": "2014-06-05",
-    "product_code": "CTR-N-TB9P",
-    "platform_name": "NES",
-    "region": "Europe",
-    "genres": [
-        "Sports"
-    ],
-    "features": [
-        "Supports Download Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000107E00",
+  "uid": "50010000022599",
+  "name": "Super Dodge Ball",
+  "formal_name": "Super Dodge Ball",
+  "description": "Sports don’t come much faster and\nmore intense than dodge ball, and this\nclassic NES™ simulation brings you all\nthe fun without the bruises!\n<br/><br/>\nIn World Mode, take charge of Team\nUSA and face off against rival teams\naround the world to become number\none. But beware: certain teams’\ncourts have obstacles like slippery ice\nor swamps.\n<br/><br/>\nAlternatively, compete against a\nfriend in Versus Play, and hone your\nskills without rules in the free-for-all\nBean Ball mode for one or two\nplayers.",
+  "release_date_on_eshop": "2014-06-05",
+  "product_code": "CTR-N-TB9P",
+  "platform_name": "NES",
+  "region": "Europe",
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Supports Download Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

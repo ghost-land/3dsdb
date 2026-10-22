@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001A1B00",
-    "uid": "50010000041238",
-    "name": "Ambition of the Slimes",
-    "formal_name": "Ambition of the Slimes",
-    "description": "Ambition of the Slimes is a turn-based strategy RPG that controls the slime to battle.\n<br>\n<br>The slimes are very weak but they can take over enemy units and manipulate them to battle.\n<br>\n<br>Different kinds of slimes have their own abilities, you have to choose the proper slime to take over the enemy and consider how to battle.\n<br>Many tactics can be used in battle and your choice is the key to victory. Try another one if you cannot defeat your enemy because the slimes are too weak to battle by themselves.",
-    "release_date_on_eshop": "2016-08-11",
-    "product_code": "CTR-N-KQSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A1B00",
+  "uid": "50010000041238",
+  "name": "Ambition of the Slimes",
+  "formal_name": "Ambition of the Slimes",
+  "description": "Ambition of the Slimes is a turn-based strategy RPG that controls the slime to battle.\n<br>\n<br>The slimes are very weak but they can take over enemy units and manipulate them to battle.\n<br>\n<br>Different kinds of slimes have their own abilities, you have to choose the proper slime to take over the enemy and consider how to battle.\n<br>Many tactics can be used in battle and your choice is the key to victory. Try another one if you cannot defeat your enemy because the slimes are too weak to battle by themselves.",
+  "release_date_on_eshop": "2016-08-11",
+  "product_code": "CTR-N-KQSP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

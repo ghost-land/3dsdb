@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000064C00",
-    "uid": "50010000007861",
-    "name": "疾走すりぬけ アナトウス",
-    "formal_name": "疾走すりぬけ アナトウス",
-    "description": "奥へ奥へと猛スピードで進むブロック。目の前には迫り来る壁。\n<br>壁にあいた小さな「アナ」をすりぬけられるように、ブロックの向きや位置を操作しながら疾走します。\n<br>タイムアタックやエンドレスプレイなど、様々なステージを収録。2人で対戦できるモードも。\n<br>古代遺跡を舞台に、爽快なパズルゲームにチャレンジします。",
-    "release_date_on_eshop": "2011-10-21",
-    "product_code": "CTR-N-JELJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000064C00",
+  "uid": "50010000007861",
+  "name": "疾走すりぬけ アナトウス",
+  "formal_name": "疾走すりぬけ アナトウス",
+  "description": "奥へ奥へと猛スピードで進むブロック。目の前には迫り来る壁。\n<br>壁にあいた小さな「アナ」をすりぬけられるように、ブロックの向きや位置を操作しながら疾走します。\n<br>タイムアタックやエンドレスプレイなど、様々なステージを収録。2人で対戦できるモードも。\n<br>古代遺跡を舞台に、爽快なパズルゲームにチャレンジします。",
+  "release_date_on_eshop": "2011-10-21",
+  "product_code": "CTR-N-JELJ",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": []
 }

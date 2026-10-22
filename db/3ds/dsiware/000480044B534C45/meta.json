@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B534C45",
-    "uid": "50010000003741",
-    "name": "Touch Solitaire",
-    "formal_name": "Touch Solitaire",
-    "description": "Touch Solitaire features two of the most popular versions of the world-famous card game—Spider and Klondike—with simple Touch Screen controls and an easy to understand interface. In Spider, the aim is to arrange cards in piles of a single suit from King down to Ace, thereby removing the pile from play. When all cards are removed, you win the game. The goal of Klondike is to arrange cards from Ace to King in piles, one for each suit, on the four foundations. You win when all cards have been moved to the foundations. Various difficulty levels are available for Spider and Klondike, allowing beginners or experts to enjoy the game at their own pace.",
-    "release_date_on_eshop": "2010-01-11",
-    "product_code": "TWL-N-KSLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B534C45",
+  "uid": "50010000003741",
+  "name": "Touch Solitaire",
+  "formal_name": "Touch Solitaire",
+  "description": "Touch Solitaire features two of the most popular versions of the world-famous card game—Spider and Klondike—with simple Touch Screen controls and an easy to understand interface. In Spider, the aim is to arrange cards in piles of a single suit from King down to Ace, thereby removing the pile from play. When all cards are removed, you win the game. The goal of Klondike is to arrange cards from Ace to King in piles, one for each suit, on the four foundations. You win when all cards have been moved to the foundations. Various difficulty levels are available for Spider and Klondike, allowing beginners or experts to enjoy the game at their own pace.",
+  "release_date_on_eshop": "2010-01-11",
+  "product_code": "TWL-N-KSLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

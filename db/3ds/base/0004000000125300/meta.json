@@ -1,32 +1,32 @@
 {
-    "tid": "0004000000125300",
-    "uid": "50010000022215",
-    "name": "Tiny Games -\nKnights & Dragons",
-    "formal_name": "Tiny Games -\nKnights & Dragons",
-    "description": "Tiny Games – Knights & Dragons is the first in a series of mini-games collections for kids. Its look and gameplay is designed for kids, and the games offer a diverting experience with age-appropriate session lengths.\n<br><br>\nThe collection offers these 5 games:\n<br><br>\nLudo:\nA board game where you throw dice and try to be first to move four tokens to your own home base.\n<br><br>\nChest Mover Mania:\nA puzzle game where you move a chest to a target. No easy feat, as the board is restricted and you can't pull the chest.\n<br><br>\nShip Encounter:\nAn exciting tactics game. Hide your own ships well, and carefully consider the target for your next cannon ball.\n<br><br>\nFind Mines:\nA math game that poses the tricky task of finding mines on a field. Your only clue: The number of mines in adjacent fields.\n<br><br>\n4 in a row:\nA tactics game where you try to get a row of four tokens – before your opponent does!",
-    "release_date_on_eshop": "2014-05-01",
-    "product_code": "CTR-N-JK9E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000125300",
+  "uid": "50010000022215",
+  "name": "Tiny Games -\nKnights & Dragons",
+  "formal_name": "Tiny Games -\nKnights & Dragons",
+  "description": "Tiny Games – Knights & Dragons is the first in a series of mini-games collections for kids. Its look and gameplay is designed for kids, and the games offer a diverting experience with age-appropriate session lengths.\n<br><br>\nThe collection offers these 5 games:\n<br><br>\nLudo:\nA board game where you throw dice and try to be first to move four tokens to your own home base.\n<br><br>\nChest Mover Mania:\nA puzzle game where you move a chest to a target. No easy feat, as the board is restricted and you can't pull the chest.\n<br><br>\nShip Encounter:\nAn exciting tactics game. Hide your own ships well, and carefully consider the target for your next cannon ball.\n<br><br>\nFind Mines:\nA math game that poses the tricky task of finding mines on a field. Your only clue: The number of mines in adjacent fields.\n<br><br>\n4 in a row:\nA tactics game where you try to get a row of four tokens – before your opponent does!",
+  "release_date_on_eshop": "2014-05-01",
+  "product_code": "CTR-N-JK9E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

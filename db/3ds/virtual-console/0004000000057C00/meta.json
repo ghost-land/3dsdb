@@ -1,26 +1,26 @@
 {
-    "tid": "0004000000057C00",
-    "uid": "50010000010627",
-    "name": "Wario Land™: \nSuper Mario Land™ 3",
-    "formal_name": "Wario Land™: Super Mario Land™ 3",
-    "description": "Original Release Date: February 1994.\n<br><br>\nThings are really cookin' on Kitchen Island! Wario has heard that the pirates have a giant golden statue of Princess Toadstool. After being kicked out of the last castle by his rival, Mario, he's scheming to steal the statue in order to buy his very own!\n<br><br>\nHelp Wario collect treasure by smashing into objects and foes! Power-ups like the Bull Hat, Jet Hat, and Dragon Hat will grant Wario new powers which he can use to his advantage. Find special keys to unlock special treasure chests which are hidden in various levels. The more treasure collected, the bigger the castle at the end of the game!\n<br><br>\nWario's greed knows no bounds! Help him reach the ultimate prize! ",
-    "release_date_on_eshop": "2012-07-26",
-    "product_code": "CTR-N-RBAE",
-    "platform_name": "Game Boy",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000000057C00",
+  "uid": "50010000010627",
+  "name": "Wario Land™: \nSuper Mario Land™ 3",
+  "formal_name": "Wario Land™: Super Mario Land™ 3",
+  "description": "Original Release Date: February 1994.\n<br><br>\nThings are really cookin' on Kitchen Island! Wario has heard that the pirates have a giant golden statue of Princess Toadstool. After being kicked out of the last castle by his rival, Mario, he's scheming to steal the statue in order to buy his very own!\n<br><br>\nHelp Wario collect treasure by smashing into objects and foes! Power-ups like the Bull Hat, Jet Hat, and Dragon Hat will grant Wario new powers which he can use to his advantage. Find special keys to unlock special treasure chests which are hidden in various levels. The more treasure collected, the bigger the castle at the end of the game!\n<br><br>\nWario's greed knows no bounds! Help him reach the ultimate prize! ",
+  "release_date_on_eshop": "2012-07-26",
+  "product_code": "CTR-N-RBAE",
+  "platform_name": "Game Boy",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

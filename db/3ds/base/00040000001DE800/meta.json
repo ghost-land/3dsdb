@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001DE800",
-    "uid": "50010000049135",
-    "name": "Flying Axe",
-    "formal_name": "Flying Axe",
-    "description": "Play with an axe to chop down trees. Earn coins and unlock new hidden axes. Don't forget to sharpen your axe or it will break.\n<br>\n<br>• Chop trees with an axe. Try not to miss any or pay 10 coins to continue game\n<br>• Collect coins and unlock new axes. Each axe has personal stats\n<br>• Hold on for 120 seconds and all collected coins will be saved\n<br>• Sharpen your axe with a finger or with B/X buttons. Otherwise it will lose its efficiency and break in the end\n<br>• The game speed will be increasing during gameplay by music",
-    "release_date_on_eshop": "2021-05-20",
-    "product_code": "CTR-N-B95E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001DE800",
+  "uid": "50010000049135",
+  "name": "Flying Axe",
+  "formal_name": "Flying Axe",
+  "description": "Play with an axe to chop down trees. Earn coins and unlock new hidden axes. Don't forget to sharpen your axe or it will break.\n<br>\n<br>• Chop trees with an axe. Try not to miss any or pay 10 coins to continue game\n<br>• Collect coins and unlock new axes. Each axe has personal stats\n<br>• Hold on for 120 seconds and all collected coins will be saved\n<br>• Sharpen your axe with a finger or with B/X buttons. Otherwise it will lose its efficiency and break in the end\n<br>• The game speed will be increasing during gameplay by music",
+  "release_date_on_eshop": "2021-05-20",
+  "product_code": "CTR-N-B95E",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

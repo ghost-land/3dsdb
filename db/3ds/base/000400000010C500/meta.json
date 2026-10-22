@@ -1,32 +1,32 @@
 {
-    "tid": "000400000010C500",
-    "uid": "50010000023175",
-    "name": "Van Helsing sniper Zx100",
-    "formal_name": "Van Helsing sniper Zx100",
-    "description": "If you like sniper arcade games and hunting vampires, there's nothing better than reincarnating as the best Vampire exterminator of all time: Van Helsing!!!\n<br><br>\nTake aim in the most natural way there is with your Nintendo 3DS. With the motion sensor, turn your Nintendo 3DS into a mortal crossbow against the Vampires.\n<br><br>\nIf your hand trembles a bit, don't worry: the option of slowing down time will help you aim with greater precision during difficult moments, as well as finding hidden Vampires with a special filter.\n<br><br>\nSearch, aim and fire with resolve on all the blood-thirsty Vampires that are stalking humans in London, and face the terrifying Bosses.\n<br><br>\nYou can also unlock a survival minigame if you earn the cursed score of 6 6 6 (pts). ",
-    "release_date_on_eshop": "2014-06-12",
-    "product_code": "CTR-N-JVHE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Shooter",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000010C500",
+  "uid": "50010000023175",
+  "name": "Van Helsing sniper Zx100",
+  "formal_name": "Van Helsing sniper Zx100",
+  "description": "If you like sniper arcade games and hunting vampires, there's nothing better than reincarnating as the best Vampire exterminator of all time: Van Helsing!!!\n<br><br>\nTake aim in the most natural way there is with your Nintendo 3DS. With the motion sensor, turn your Nintendo 3DS into a mortal crossbow against the Vampires.\n<br><br>\nIf your hand trembles a bit, don't worry: the option of slowing down time will help you aim with greater precision during difficult moments, as well as finding hidden Vampires with a special filter.\n<br><br>\nSearch, aim and fire with resolve on all the blood-thirsty Vampires that are stalking humans in London, and face the terrifying Bosses.\n<br><br>\nYou can also unlock a survival minigame if you earn the cursed score of 6 6 6 (pts). ",
+  "release_date_on_eshop": "2014-06-12",
+  "product_code": "CTR-N-JVHE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Shooter",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

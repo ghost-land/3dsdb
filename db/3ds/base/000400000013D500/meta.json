@@ -1,33 +1,33 @@
 {
-    "tid": "000400000013D500",
-    "uid": "50010000026435",
-    "name": "I Love My Horse",
-    "formal_name": "I Love My Horse",
-    "description": "Raise your horse and win all the\ncompetitions! <br><br>\nOpen your own horse resort then\nraise and train your horse to win the\nagility, racing and show-jumping\ncompetitions to become the greatest\nof champions! <br>\nLook after the horses placed in your\ncare: keep them happy and in good\nhealth through a variety of available\nactivities. Feed them, brush them,\ncare for them and pet them!\n",
-    "release_date_on_eshop": "2014-11-06",
-    "product_code": "CTR-P-BMHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000013D500",
+  "uid": "50010000026435",
+  "name": "I Love My Horse",
+  "formal_name": "I Love My Horse",
+  "description": "Raise your horse and win all the\ncompetitions! <br><br>\nOpen your own horse resort then\nraise and train your horse to win the\nagility, racing and show-jumping\ncompetitions to become the greatest\nof champions! <br>\nLook after the horses placed in your\ncare: keep them happy and in good\nhealth through a variety of available\nactivities. Feed them, brush them,\ncare for them and pet them!\n",
+  "release_date_on_eshop": "2014-11-06",
+  "product_code": "CTR-P-BMHP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

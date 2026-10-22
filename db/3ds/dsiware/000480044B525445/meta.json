@@ -1,27 +1,27 @@
 {
-    "tid": "000480044B525445",
-    "uid": "50010000003461",
-    "name": "Robot Rescue",
-    "formal_name": "Robot Rescue",
-    "description": "Robot Rescue is a fun logic game based on a simple but entertaining concept. Your mission is to free robots trapped in 45 evil computer labyrinths while avoiding deadly traps. Sound easy? Not so fast! Each robot shares linked controls... so when you move one, you move them all! It will take clever planning and nerves of steel to pull off this electronic escape. You will need to avoid many traps, like mines or electrical circuits, and use to your advantage special elements like glue stains. Choose one of 3 levels of difficulty and get ready for a challenge!",
-    "release_date_on_eshop": "2009-11-16",
-    "product_code": "TWL-N-KRTE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Arcade",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525445",
+  "uid": "50010000003461",
+  "name": "Robot Rescue",
+  "formal_name": "Robot Rescue",
+  "description": "Robot Rescue is a fun logic game based on a simple but entertaining concept. Your mission is to free robots trapped in 45 evil computer labyrinths while avoiding deadly traps. Sound easy? Not so fast! Each robot shares linked controls... so when you move one, you move them all! It will take clever planning and nerves of steel to pull off this electronic escape. You will need to avoid many traps, like mines or electrical circuits, and use to your advantage special elements like glue stains. Choose one of 3 levels of difficulty and get ready for a challenge!",
+  "release_date_on_eshop": "2009-11-16",
+  "product_code": "TWL-N-KRTE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,33 +1,33 @@
 {
-    "tid": "00040000001A9900",
-    "uid": "50010000042118",
-    "name": "Punch Club",
-    "formal_name": "Punch Club",
-    "description": "Train hard, fight crocodiles and find\n<br>love. Earn your place in the Punch\n<br>Club ranks, and discover who brutally\n<br>murdered your father, in this choose\n<br>your own adventure boxing\n<br>management tycoon.",
-    "release_date_on_eshop": "2017-02-02",
-    "product_code": "CTR-N-KCDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Sports",
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese",
-        "Russian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001A9900",
+  "uid": "50010000042118",
+  "name": "Punch Club",
+  "formal_name": "Punch Club",
+  "description": "Train hard, fight crocodiles and find\n<br>love. Earn your place in the Punch\n<br>Club ranks, and discover who brutally\n<br>murdered your father, in this choose\n<br>your own adventure boxing\n<br>management tycoon.",
+  "release_date_on_eshop": "2017-02-02",
+  "product_code": "CTR-N-KCDP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Sports",
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

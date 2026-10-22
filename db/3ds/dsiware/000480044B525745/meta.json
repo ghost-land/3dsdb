@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B525745",
-    "uid": "50010000022014",
-    "name": "Sea Battle",
-    "formal_name": "Sea Battle",
-    "description": "Hidden in the untamed ocean awaits an enemy ready to attack. Launch strikes and counter-strikes with missiles and powerful torpedoes to locate and submerge your enemy’s entire fleet in this new rendition of the classic paper and pencil game, Battleship.\n<br><br>\nUse additional content such as scanners to gain intelligence and detect the location of your enemy. Challenge your friends to battles against your fleet to see who really rules the seas with DS Wireless Play or tackle missions and battles on your own in 3 single player modes. Your only hope of survival is to uncover your enemy’s whereabouts before they uncover yours!\n<br><br>\nBased on the iconic naval battle-themed paper and pencil game\nBattle in Classic, Missions or the new Modern mode which includes additional features such as mines and diagonal ship placement\nDS Wireless Play feature to fight against friends\nA range of map sizes with increasing difficulty levels",
-    "release_date_on_eshop": "2014-04-24",
-    "product_code": "TWL-N-KRWE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Action",
-        "Board Game"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B525745",
+  "uid": "50010000022014",
+  "name": "Sea Battle",
+  "formal_name": "Sea Battle",
+  "description": "Hidden in the untamed ocean awaits an enemy ready to attack. Launch strikes and counter-strikes with missiles and powerful torpedoes to locate and submerge your enemy’s entire fleet in this new rendition of the classic paper and pencil game, Battleship.\n<br><br>\nUse additional content such as scanners to gain intelligence and detect the location of your enemy. Challenge your friends to battles against your fleet to see who really rules the seas with DS Wireless Play or tackle missions and battles on your own in 3 single player modes. Your only hope of survival is to uncover your enemy’s whereabouts before they uncover yours!\n<br><br>\nBased on the iconic naval battle-themed paper and pencil game\nBattle in Classic, Missions or the new Modern mode which includes additional features such as mines and diagonal ship placement\nDS Wireless Play feature to fight against friends\nA range of map sizes with increasing difficulty levels",
+  "release_date_on_eshop": "2014-04-24",
+  "product_code": "TWL-N-KRWE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Action",
+    "Board Game"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

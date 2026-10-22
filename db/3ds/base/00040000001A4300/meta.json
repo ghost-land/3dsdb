@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001A4300",
-    "uid": "50010000041626",
-    "name": "Noah's Cradle",
-    "formal_name": "Noah's Cradle",
-    "description": "There are no longer any people who themselves have memory of inhabiting that planet.\n<br>However, its name has been passed down amongst the thousands sent into space on a ship for the purpose of avoiding the extinction of the human race.\n<br>Liking this to the one from the legend of the Great Flood that destroyed Earth, people began referring to this ship as \"Noah's Cradle\".\n<br>\n<br>One such Cradle struggled along until it reached a large gas planet. Confirmed within the planet's atmosphere were gigantic creatures that ranged from between an estimated several hundred to several thousand kilometers in length. The harsh atmosphere wasn't the only thing that stood in the Cradle's way as it descended into the atmosphere. The Cradle was under attack. \n<br>\n<br>Thus, the battle began.",
-    "release_date_on_eshop": "2016-09-22",
-    "product_code": "CTR-N-JNYE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001A4300",
+  "uid": "50010000041626",
+  "name": "Noah's Cradle",
+  "formal_name": "Noah's Cradle",
+  "description": "There are no longer any people who themselves have memory of inhabiting that planet.\n<br>However, its name has been passed down amongst the thousands sent into space on a ship for the purpose of avoiding the extinction of the human race.\n<br>Liking this to the one from the legend of the Great Flood that destroyed Earth, people began referring to this ship as \"Noah's Cradle\".\n<br>\n<br>One such Cradle struggled along until it reached a large gas planet. Confirmed within the planet's atmosphere were gigantic creatures that ranged from between an estimated several hundred to several thousand kilometers in length. The harsh atmosphere wasn't the only thing that stood in the Cradle's way as it descended into the atmosphere. The Cradle was under attack. \n<br>\n<br>Thus, the battle began.",
+  "release_date_on_eshop": "2016-09-22",
+  "product_code": "CTR-N-JNYE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

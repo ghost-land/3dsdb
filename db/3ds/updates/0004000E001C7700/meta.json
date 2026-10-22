@@ -1,27 +1,27 @@
 {
-    "tid": "0004000E001C7700",
-    "uid": "50010000043059",
-    "name": "MIGHTY GUNVOLT BURST\nUpdate Ver. 1.3.1",
-    "formal_name": "MIGHTY GUNVOLT BURST\n<br>Update Ver. 1.3.1",
-    "description": "This is an update for the game card version of the MIGHTY GUNVOLT BURST game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of MIGHTY GUNVOLT BURST.\n<br>\n<br>Update Summary:\n<br>For the various effects and actions affected by the current Burst Combo, they will now change according to the following:\n<br>Lv.1： 0\n<br>Lv.2： 1-4\n<br>Lv.3： 5-9\n<br>Lv.4： 10-19\n<br>Lv.5： 20-29\n<br>Lv.6： 30+\n<br>\n<br>The power of Gunvolt’s “Voltaic Chains” ability has been increased.\n<br>\n<br>The power of the charge attack on Copen’s “Brave Horn” EX Weapon has been increased.\n<br>\n<br>RAY and Copen are now able to acquire the following rare item (treasure):\n<br>P-PS MIAPLACIDUS (Module which allows the use of STATIONARY FIRING)\n<br>\n<br>The following issues have been fixed:\n<br>In some cases, destroying enemy bullets would incorrectly score points.\n<br>An incorrect edit item was present under Beck’s MINE bullet type.\n<br>Various other issues have been fixed to improve game experience.",
-    "release_date_on_eshop": "2018-05-09",
-    "product_code": "CTR-U-J2VE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [
-        "Enhanced for New 3DS"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v4.5.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "0004000E001C7700",
+  "uid": "50010000043059",
+  "name": "MIGHTY GUNVOLT BURST\nUpdate Ver. 1.3.1",
+  "formal_name": "MIGHTY GUNVOLT BURST\n<br>Update Ver. 1.3.1",
+  "description": "This is an update for the game card version of the MIGHTY GUNVOLT BURST game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of MIGHTY GUNVOLT BURST.\n<br>\n<br>Update Summary:\n<br>For the various effects and actions affected by the current Burst Combo, they will now change according to the following:\n<br>Lv.1： 0\n<br>Lv.2： 1-4\n<br>Lv.3： 5-9\n<br>Lv.4： 10-19\n<br>Lv.5： 20-29\n<br>Lv.6： 30+\n<br>\n<br>The power of Gunvolt’s “Voltaic Chains” ability has been increased.\n<br>\n<br>The power of the charge attack on Copen’s “Brave Horn” EX Weapon has been increased.\n<br>\n<br>RAY and Copen are now able to acquire the following rare item (treasure):\n<br>P-PS MIAPLACIDUS (Module which allows the use of STATIONARY FIRING)\n<br>\n<br>The following issues have been fixed:\n<br>In some cases, destroying enemy bullets would incorrectly score points.\n<br>An incorrect edit item was present under Beck’s MINE bullet type.\n<br>Various other issues have been fixed to improve game experience.",
+  "release_date_on_eshop": "2018-05-09",
+  "product_code": "CTR-U-J2VE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v4.5.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

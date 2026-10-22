@@ -1,29 +1,29 @@
 {
-    "tid": "0004008C0009AE00",
-    "uid": "50010000010989",
-    "name": "Cámara Glamour 3D",
-    "formal_name": "Cámara Glamour 3D",
-    "description": "¡Pon a prueba tu imaginación y\ndiviértete haciendo fotos y\ndecorándolas a tu gusto!<br>\n<br>\nCon Cámara Glamour 3D podrás\nhacer tantas fotos como quieras\nutilizando las cámaras de tu consola\nNintendo 3DS. Añádeles marcos,\ndecorados, sellos y tus propias\ncreaciones y compártelas con tus\namigos mediante la comunicación\ninalámbrica. (Las fotos que hagas con\neste programa no aparecerán en 3D.)<br>\n<br>\n¡Gracias al temporizador podrás salir\nen tus propias fotos! Además, en la\nTienda Glamour encontrarás nuevo\ncontenido que hará volar tu\nimaginación.",
-    "release_date_on_eshop": "2012-07-12",
-    "product_code": "CTR-N-JCVS",
-    "platform_name": "Nintendo 3DS (descarga)",
-    "region": "Spain",
-    "genres": [
-        "Estilo de vida"
-    ],
-    "features": [
-        "Con imágenes 3D",
-        "Compatible con SpotPass",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "Español"
-    ],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0009AE00",
+  "uid": "50010000010989",
+  "name": "Cámara Glamour 3D",
+  "formal_name": "Cámara Glamour 3D",
+  "description": "¡Pon a prueba tu imaginación y\ndiviértete haciendo fotos y\ndecorándolas a tu gusto!<br>\n<br>\nCon Cámara Glamour 3D podrás\nhacer tantas fotos como quieras\nutilizando las cámaras de tu consola\nNintendo 3DS. Añádeles marcos,\ndecorados, sellos y tus propias\ncreaciones y compártelas con tus\namigos mediante la comunicación\ninalámbrica. (Las fotos que hagas con\neste programa no aparecerán en 3D.)<br>\n<br>\n¡Gracias al temporizador podrás salir\nen tus propias fotos! Además, en la\nTienda Glamour encontrarás nuevo\ncontenido que hará volar tu\nimaginación.",
+  "release_date_on_eshop": "2012-07-12",
+  "product_code": "CTR-N-JCVS",
+  "platform_name": "Nintendo 3DS (descarga)",
+  "region": "Spain",
+  "genres": [
+    "Estilo de vida"
+  ],
+  "features": [
+    "Con imágenes 3D",
+    "Compatible con SpotPass",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

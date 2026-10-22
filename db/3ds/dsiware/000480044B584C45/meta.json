@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B584C45",
-    "uid": "50010000004789",
-    "name": "Telegraph Sudoku & Kakuro",
-    "formal_name": "Telegraph Sudoku & Kakuro",
-    "description": "Play number-puzzles from the 'Telegraph' like you've never played them before! Discover a whopping 500 puzzles of multiple types. You're in for many hours of game play!\n\n*Sudoku: Classic 9x9 Sudoku grids in 4 levels of difficulty.\n*Mini-Sudoku: Easier 6x6 grids.\n*Sudoku-X: 9x9 grids in which the diagonals must also be filled with all numbers from 1 to 9.\n*Jigsaw Sudoku: 9x9 grids with uncommon box shapes.\n*Kakuro: With its handy interface and intuitive controls, this game transfigures the classic pen-and-paper experience. Notable features include:\n- Registration of best times in the Hall of Fame.\n- Interactive hints prevent you from getting stuck!\n- Autosave as you go: you can stop and resume a puzzle at any time!",
-    "release_date_on_eshop": "2010-05-31",
-    "product_code": "TWL-N-KXLE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Board Game"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B584C45",
+  "uid": "50010000004789",
+  "name": "Telegraph Sudoku & Kakuro",
+  "formal_name": "Telegraph Sudoku & Kakuro",
+  "description": "Play number-puzzles from the 'Telegraph' like you've never played them before! Discover a whopping 500 puzzles of multiple types. You're in for many hours of game play!\n\n*Sudoku: Classic 9x9 Sudoku grids in 4 levels of difficulty.\n*Mini-Sudoku: Easier 6x6 grids.\n*Sudoku-X: 9x9 grids in which the diagonals must also be filled with all numbers from 1 to 9.\n*Jigsaw Sudoku: 9x9 grids with uncommon box shapes.\n*Kakuro: With its handy interface and intuitive controls, this game transfigures the classic pen-and-paper experience. Notable features include:\n- Registration of best times in the Hall of Fame.\n- Interactive hints prevent you from getting stuck!\n- Autosave as you go: you can stop and resume a puzzle at any time!",
+  "release_date_on_eshop": "2010-05-31",
+  "product_code": "TWL-N-KXLE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Board Game"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

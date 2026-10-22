@@ -1,25 +1,25 @@
 {
-    "tid": "000400000F706600",
-    "uid": "50010000041895",
-    "name": "Mario’s Super Picross™",
-    "formal_name": "Mario’s Super Picross™",
-    "description": "This Super NES version of the popular ‘picture crossword’ game was originally released only in Japan and features hundreds of relaxing yet challenging brainteasers.\n<br>\n<br>Each Picross puzzle consists of a numbered grid of tiles which reveal a picture when correctly chiselled away. In Mario’s main mode, a wrong move means losing time. However, in the more difficult Wario mode, mistakes are not shown... so be careful!",
-    "release_date_on_eshop": "2016-11-03",
-    "product_code": "KTR-N-UBGP",
-    "platform_name": "Super Nintendo",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F706600",
+  "uid": "50010000041895",
+  "name": "Mario’s Super Picross™",
+  "formal_name": "Mario’s Super Picross™",
+  "description": "This Super NES version of the popular ‘picture crossword’ game was originally released only in Japan and features hundreds of relaxing yet challenging brainteasers.\n<br>\n<br>Each Picross puzzle consists of a numbered grid of tiles which reveal a picture when correctly chiselled away. In Mario’s main mode, a wrong move means losing time. However, in the more difficult Wario mode, mistakes are not shown... so be careful!",
+  "release_date_on_eshop": "2016-11-03",
+  "product_code": "KTR-N-UBGP",
+  "platform_name": "Super Nintendo",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

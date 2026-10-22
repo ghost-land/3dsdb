@@ -1,31 +1,31 @@
 {
-    "tid": "000400000F70C800",
-    "uid": "50010000043515",
-    "name": "Frutakia 2",
-    "formal_name": "Frutakia 2",
-    "description": "Frutakia is back and better than ever! Match 3 or more cute animals and level up in the 3rd dimension! Go ahead and move any row up or down! We dare you to discover its ultra-addictive gameplay, play once and that’s it... Simple and smart gameplay, ideal for short periods of time. (E.g.: in buses, trains, queues, boss talking, etc.)\n<br>\n<br>GAME OBJECTIVE:\n<br>You must make clever groups of 3 or more cascade lines with the same animals in any direction!",
-    "release_date_on_eshop": "2017-09-21",
-    "product_code": "KTR-N-CFKE",
-    "platform_name": "New 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000400000F70C800",
+  "uid": "50010000043515",
+  "name": "Frutakia 2",
+  "formal_name": "Frutakia 2",
+  "description": "Frutakia is back and better than ever! Match 3 or more cute animals and level up in the 3rd dimension! Go ahead and move any row up or down! We dare you to discover its ultra-addictive gameplay, play once and that’s it... Simple and smart gameplay, ideal for short periods of time. (E.g.: in buses, trains, queues, boss talking, etc.)\n<br>\n<br>GAME OBJECTIVE:\n<br>You must make clever groups of 3 or more cascade lines with the same animals in any direction!",
+  "release_date_on_eshop": "2017-09-21",
+  "product_code": "KTR-N-CFKE",
+  "platform_name": "New 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

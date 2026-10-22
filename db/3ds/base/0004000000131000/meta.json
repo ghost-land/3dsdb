@@ -1,25 +1,25 @@
 {
-    "tid": "0004000000131000",
-    "uid": "50010000039362",
-    "name": "Slice It!",
-    "formal_name": "Slice It!",
-    "description": "Brain-tickling geometric puzzles are\nthe name of the game with Slice It!\nUse the stylus to draw straight lines\nthrough a shape to make smaller\nidentical shapes within a limited\nnumber of tries. Easy to learn but hard\nto master, become one with your\nstylus to cut those extra tricky shapes\ndown to size! Variety is the slice of\nlife with hundreds of different stages\nto slice through! Special themes,\nmusic and other unlockables keep you\ncoming back for more. Developed by\nArc System Works and COM2US.",
-    "release_date_on_eshop": "2016-02-04",
-    "product_code": "CTR-N-JL2P",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000131000",
+  "uid": "50010000039362",
+  "name": "Slice It!",
+  "formal_name": "Slice It!",
+  "description": "Brain-tickling geometric puzzles are\nthe name of the game with Slice It!\nUse the stylus to draw straight lines\nthrough a shape to make smaller\nidentical shapes within a limited\nnumber of tries. Easy to learn but hard\nto master, become one with your\nstylus to cut those extra tricky shapes\ndown to size! Variety is the slice of\nlife with hundreds of different stages\nto slice through! Special themes,\nmusic and other unlockables keep you\ncoming back for more. Developed by\nArc System Works and COM2US.",
+  "release_date_on_eshop": "2016-02-04",
+  "product_code": "CTR-N-JL2P",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

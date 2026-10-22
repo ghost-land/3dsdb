@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000178B00",
-    "uid": "50010000038375",
-    "name": "I Love My Pony",
-    "formal_name": "I Love My Pony",
-    "description": "Discover a rich and enthralling story\nwhere you prove to your rival that\nlove and respect for your pony are\njust as important as training.\n<br/><br/>\nChoose your pony and care for it with\na variety of activities. Your pony's\nhealth and happiness are key to your\nsuccess in the competitions.\n<br/><br/>\nTrain at the riding centre and take\npart in the jumping and racing\ncompetitions to become a true\nchampion!\n<br/><br/>\n• A captivating story, from your first\nday at the riding stables to when you\ntake part in the biggest competitions\n<br/><br/>\n• Ten different activities for caring for\nyour pony\n<br/><br/>\n• Lots of different training challenges\nto improve your riding skills\n<br/><br/>\n• Two types of competitions in four\ndifferent environments (the country,\nthe mountains, the desert and the\nbeach)",
-    "release_date_on_eshop": "2015-11-19",
-    "product_code": "CTR-P-ALNP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Lifestyle",
-        "Simulation"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000178B00",
+  "uid": "50010000038375",
+  "name": "I Love My Pony",
+  "formal_name": "I Love My Pony",
+  "description": "Discover a rich and enthralling story\nwhere you prove to your rival that\nlove and respect for your pony are\njust as important as training.\n<br/><br/>\nChoose your pony and care for it with\na variety of activities. Your pony's\nhealth and happiness are key to your\nsuccess in the competitions.\n<br/><br/>\nTrain at the riding centre and take\npart in the jumping and racing\ncompetitions to become a true\nchampion!\n<br/><br/>\n• A captivating story, from your first\nday at the riding stables to when you\ntake part in the biggest competitions\n<br/><br/>\n• Ten different activities for caring for\nyour pony\n<br/><br/>\n• Lots of different training challenges\nto improve your riding skills\n<br/><br/>\n• Two types of competitions in four\ndifferent environments (the country,\nthe mountains, the desert and the\nbeach)",
+  "release_date_on_eshop": "2015-11-19",
+  "product_code": "CTR-P-ALNP",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Lifestyle",
+    "Simulation"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,26 +1,26 @@
 {
-    "tid": "00040000001AC000",
-    "uid": "50010000041967",
-    "name": "Kutar End Credits",
-    "formal_name": "Kutar End Credits",
-    "description": "What is Kutar?\n<br>\n<br>Kutar is the character who has incredible expressionless emotions that can't be distinguished by laughing or crying.\n<br>\n<br>Kutar is not a dog, cat or bear.\n<br>\n<br>Kutar is always Kutar no matter where he is going or doing.\n<br>\n<br>Though being so expressionless, when Kutar wants to laugh, cry, love or be angry, all feelings are still very ordinary.\n<br>\n<br>No matter what happens, the emotions will not change. Even when a desperate situation arrives, Kutar will just inflate his body and overcome. What a wonderful Yuru-chara.\n<br>\n<br>The lovely and funny Kutar game series is everywhere! Just finish the quest's challenges with simple controls.\n<br>\n<br>This time Kutar performs as the stuntman and challenges his limits, to raise your rating, you must ride through the explosives found on the road.",
-    "release_date_on_eshop": "2016-11-10",
-    "product_code": "CTR-N-KKEE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001AC000",
+  "uid": "50010000041967",
+  "name": "Kutar End Credits",
+  "formal_name": "Kutar End Credits",
+  "description": "What is Kutar?\n<br>\n<br>Kutar is the character who has incredible expressionless emotions that can't be distinguished by laughing or crying.\n<br>\n<br>Kutar is not a dog, cat or bear.\n<br>\n<br>Kutar is always Kutar no matter where he is going or doing.\n<br>\n<br>Though being so expressionless, when Kutar wants to laugh, cry, love or be angry, all feelings are still very ordinary.\n<br>\n<br>No matter what happens, the emotions will not change. Even when a desperate situation arrives, Kutar will just inflate his body and overcome. What a wonderful Yuru-chara.\n<br>\n<br>The lovely and funny Kutar game series is everywhere! Just finish the quest's challenges with simple controls.\n<br>\n<br>This time Kutar performs as the stuntman and challenges his limits, to raise your rating, you must ride through the explosives found on the road.",
+  "release_date_on_eshop": "2016-11-10",
+  "product_code": "CTR-N-KKEE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

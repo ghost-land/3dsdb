@@ -1,33 +1,33 @@
 {
-    "tid": "0004000000095900",
-    "uid": "50010000018933",
-    "name": "Akari by Nikoli",
-    "formal_name": "Akari by Nikoli",
-    "description": "With the Nikoli puzzle series, you can\nenjoy high-quality \"sudoku\" puzzles,\ncreated by Nikoli, who gave the\nworld-famous puzzle its name. The\nNintendo 3DS™ allows for the\nrealization of simple and easy to play\noperability.\n<br/><br/>\n\"Akari by Nikoli\" contains 50\nakari puzzles. This famous and easily understandable puzzle was created in 2001.\n\"Akari\" is a puzzle in which you set lights based on the hint numbers in order to light up the entirety of the white space. The main features of \"Akari\" are the easy to understand rules, and the depth of the game. There are great numbers of patterns for which you will figure out \"When the numbers and lights and spaces are combined like this, then THIS is how they are sure to match up\", so you have plenty of opportunities to taste \"the excitement of discovering new patterns\".\nTo ensure your long-term enjoyment,\nwe're prepared both a \"Stage Clear\"\nmode and a \"Random\" mode. In\n\"Stage Clear\" mode, you progress by\nclearing puzzles one by one, and in\n\"Random\" mode puzzles are\ngenerated at random. Please enjoy\nthis high-quality \"Akari\" game.",
-    "release_date_on_eshop": "2013-12-19",
-    "product_code": "CTR-N-JBJP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000095900",
+  "uid": "50010000018933",
+  "name": "Akari by Nikoli",
+  "formal_name": "Akari by Nikoli",
+  "description": "With the Nikoli puzzle series, you can\nenjoy high-quality \"sudoku\" puzzles,\ncreated by Nikoli, who gave the\nworld-famous puzzle its name. The\nNintendo 3DS™ allows for the\nrealization of simple and easy to play\noperability.\n<br/><br/>\n\"Akari by Nikoli\" contains 50\nakari puzzles. This famous and easily understandable puzzle was created in 2001.\n\"Akari\" is a puzzle in which you set lights based on the hint numbers in order to light up the entirety of the white space. The main features of \"Akari\" are the easy to understand rules, and the depth of the game. There are great numbers of patterns for which you will figure out \"When the numbers and lights and spaces are combined like this, then THIS is how they are sure to match up\", so you have plenty of opportunities to taste \"the excitement of discovering new patterns\".\nTo ensure your long-term enjoyment,\nwe're prepared both a \"Stage Clear\"\nmode and a \"Random\" mode. In\n\"Stage Clear\" mode, you progress by\nclearing puzzles one by one, and in\n\"Random\" mode puzzles are\ngenerated at random. Please enjoy\nthis high-quality \"Akari\" game.",
+  "release_date_on_eshop": "2013-12-19",
+  "product_code": "CTR-N-JBJP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

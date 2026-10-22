@@ -1,25 +1,25 @@
 {
-    "tid": "0004000E0014DF00",
-    "uid": "50010000028275",
-    "name": "更新データ Ver. 1.0.4\n戦国無双 Chronicle 3",
-    "formal_name": "更新データ Ver. 1.0.4\n戦国無双 Chronicle 3",
-    "description": "ニンテンドー3DSソフト『戦国無双 Chronicle 3』の更新データです。以下の修正を行いました。\n\n■スタッフロールを最後まで再生し、その後のフェードアウト中にスキップボタンを入力すると停止する不具合を修正",
-    "release_date_on_eshop": "2015-06-17",
-    "product_code": "CTR-U-BC4J",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v4.8.0",
-    "disclaimer": "ニンテンドー3DSソフト『戦国無双 Chronicle 3』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E0014DF00",
+  "uid": "50010000028275",
+  "name": "更新データ Ver. 1.0.4\n戦国無双 Chronicle 3",
+  "formal_name": "更新データ Ver. 1.0.4\n戦国無双 Chronicle 3",
+  "description": "ニンテンドー3DSソフト『戦国無双 Chronicle 3』の更新データです。以下の修正を行いました。\n\n■スタッフロールを最後まで再生し、その後のフェードアウト中にスキップボタンを入力すると停止する不具合を修正",
+  "release_date_on_eshop": "2015-06-17",
+  "product_code": "CTR-U-BC4J",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v4.8.0",
+  "disclaimer": "ニンテンドー3DSソフト『戦国無双 Chronicle 3』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "000400020014C901",
-    "uid": "50010000028075",
-    "name": "Battleminer",
-    "formal_name": "Battleminer",
-    "description": "Updated: Now with multiplayer! Local Play and Internet with Friends.\n<br><br>\nBattleminer is an open-world block game set in a world where giant, mutant Ants have taken over. Your mission is to rescue Survivors that are hostage to the Ants.\n<br><br>\nA rescued Survivor will reward you with items or teach you the ability to craft new items yourself.\n<br><br>\nWhile exploring the world you can mine for resources such as wood, copper, zinc and other materials to craft items to help you survive.\n<br><br>\nAs you progress you will encounter many different types of Ants, each with their own challenges for the player.\n<br><br>\nThere is also a Creative Mode where you can build your own structures and share screenshots of them via Miiverse™.\n<br><br>\nThe game features the first procedural voxel world with an infinite map size on the Nintendo 3DS™.\n<br><br>\nBattleminer supports Stereoscopic 3D and has a dynamic night and day cycle.",
-    "release_date_on_eshop": "2014-11-20",
-    "product_code": "CTR-N-KBME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "First-Person Shooter",
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Fantasy Violence"
-    ]
+  "tid": "000400020014C901",
+  "uid": "50010000028075",
+  "name": "Battleminer",
+  "formal_name": "Battleminer",
+  "description": "Updated: Now with multiplayer! Local Play and Internet with Friends.\n<br><br>\nBattleminer is an open-world block game set in a world where giant, mutant Ants have taken over. Your mission is to rescue Survivors that are hostage to the Ants.\n<br><br>\nA rescued Survivor will reward you with items or teach you the ability to craft new items yourself.\n<br><br>\nWhile exploring the world you can mine for resources such as wood, copper, zinc and other materials to craft items to help you survive.\n<br><br>\nAs you progress you will encounter many different types of Ants, each with their own challenges for the player.\n<br><br>\nThere is also a Creative Mode where you can build your own structures and share screenshots of them via Miiverse™.\n<br><br>\nThe game features the first procedural voxel world with an infinite map size on the Nintendo 3DS™.\n<br><br>\nBattleminer supports Stereoscopic 3D and has a dynamic night and day cycle.",
+  "release_date_on_eshop": "2014-11-20",
+  "product_code": "CTR-N-KBME",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "First-Person Shooter",
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence"
+  ]
 }

@@ -1,25 +1,25 @@
 {
-    "tid": "000400000015A600",
-    "uid": "50010000027675",
-    "name": "魔神少女 -Chronicle 2D ACT-(繁體中文版)",
-    "formal_name": "魔神少女 -Chronicle 2D ACT-(繁體中文版)",
-    "description": "打倒眼前所有的敵人!\n伴隨著成長與故事的2D動作遊戲。\n\n『魔神少女』是由玩家操作主角，運用各種特殊攻擊魔法不斷打倒敵人突破關卡的2D動作遊戲。\n\n隨著關卡不同，會出現各式各樣的敵人與機關來妨礙主角前進。\n\n打倒敵人和頭目後，主角的能力會逐漸成長並獲得新能力。\n\n玩家可以按照自己的喜好選擇關卡，\n努力打倒每個鎮守在關卡終點的頭目角色吧。",
-    "release_date_on_eshop": "2014-11-19",
-    "product_code": "CTR-N-KC2W",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "動作"
-    ],
-    "features": [],
-    "languages": [
-        "中文"
-    ],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "000400000015A600",
+  "uid": "50010000027675",
+  "name": "魔神少女 -Chronicle 2D ACT-(繁體中文版)",
+  "formal_name": "魔神少女 -Chronicle 2D ACT-(繁體中文版)",
+  "description": "打倒眼前所有的敵人!\n伴隨著成長與故事的2D動作遊戲。\n\n『魔神少女』是由玩家操作主角，運用各種特殊攻擊魔法不斷打倒敵人突破關卡的2D動作遊戲。\n\n隨著關卡不同，會出現各式各樣的敵人與機關來妨礙主角前進。\n\n打倒敵人和頭目後，主角的能力會逐漸成長並獲得新能力。\n\n玩家可以按照自己的喜好選擇關卡，\n努力打倒每個鎮守在關卡終點的頭目角色吧。",
+  "release_date_on_eshop": "2014-11-19",
+  "product_code": "CTR-N-KC2W",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "動作"
+  ],
+  "features": [],
+  "languages": [
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
+  "descriptors": []
 }

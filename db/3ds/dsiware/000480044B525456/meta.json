@@ -1,31 +1,31 @@
 {
-    "tid": "000480044B525456",
-    "uid": "50010000006149",
-    "name": "Robot Rescue",
-    "formal_name": "Robot Rescue",
-    "description": "Robot Rescue is a fun logic game\nbased on a simple but entertaining\nconcept. Your mission is to free robots\ntrapped in 45 evil computer labyrinths\nwhile avoiding deadly traps. Sound\neasy? Not so fast! Each robot shares\nlinked controls... so when you move\none, you move them all! It will take\nclever planning and nerves of steel to\npull off this electronic escape. You\nwill need to avoid many traps like\nmines or electrical circuits and use\nspecial elements for your advantage\nlike glue stains. Choose one of 3\nlevels of difficulty and get ready for a\nchallenge!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KRTV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Board Game",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B525456",
+  "uid": "50010000006149",
+  "name": "Robot Rescue",
+  "formal_name": "Robot Rescue",
+  "description": "Robot Rescue is a fun logic game\nbased on a simple but entertaining\nconcept. Your mission is to free robots\ntrapped in 45 evil computer labyrinths\nwhile avoiding deadly traps. Sound\neasy? Not so fast! Each robot shares\nlinked controls... so when you move\none, you move them all! It will take\nclever planning and nerves of steel to\npull off this electronic escape. You\nwill need to avoid many traps like\nmines or electrical circuits and use\nspecial elements for your advantage\nlike glue stains. Choose one of 3\nlevels of difficulty and get ready for a\nchallenge!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KRTV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Board Game",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

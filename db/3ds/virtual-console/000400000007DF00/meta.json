@@ -1,26 +1,26 @@
 {
-    "tid": "000400000007DF00",
-    "uid": "50010000010420",
-    "name": "Castlevania The Adventure",
-    "formal_name": "Castlevania The Adventure",
-    "description": "Count Dracula has risen from his\ngrave to threaten Transylvania, and\nonly the chosen one - who wields the\nmystic whip - can stand in his way.<br>\n<br>\nCastlevania The Adventure was the\nfirst of the series to appear on\nGame Boy™. Taking place before\nthe original Castlevania™ for NES™,\nit stars Christopher Belmont, ancestor\nof the original game's hero Simon.<br>\n<br>\nWield your trusty whip, seek out\nupgrades to increase its power, and\nbattle Dracula and his minions to save\nthe day.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-RBPP",
-    "platform_name": "Game Boy",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Platformer"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007DF00",
+  "uid": "50010000010420",
+  "name": "Castlevania The Adventure",
+  "formal_name": "Castlevania The Adventure",
+  "description": "Count Dracula has risen from his\ngrave to threaten Transylvania, and\nonly the chosen one - who wields the\nmystic whip - can stand in his way.<br>\n<br>\nCastlevania The Adventure was the\nfirst of the series to appear on\nGame Boy™. Taking place before\nthe original Castlevania™ for NES™,\nit stars Christopher Belmont, ancestor\nof the original game's hero Simon.<br>\n<br>\nWield your trusty whip, seek out\nupgrades to increase its power, and\nbattle Dracula and his minions to save\nthe day.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-RBPP",
+  "platform_name": "Game Boy",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

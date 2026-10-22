@@ -1,25 +1,25 @@
 {
-    "tid": "000480044B4E5A45",
-    "uid": "50010000003285",
-    "name": "G.G Series Z•ONE",
-    "formal_name": "G.G Series Z•ONE",
-    "description": "Breach enemy lines in this technical side-scrolling shooter!\n\nThe enemy has bolstered their defenses with a perilous fortress of blocks. Skillfully work your way around your surroundings and make use of pods that fire in eight directions to vanquish foes as you advance towards the heart of enemy territory. Each level features a unique landscape and varying difficulty, forcing you to adapt. Learn the art of quick evasion as some levels scroll faster than others, and master advanced shooting techniques such as shooting in the opposite direction.",
-    "release_date_on_eshop": "2010-12-27",
-    "product_code": "TWL-N-KNZE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Shooter"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4E5A45",
+  "uid": "50010000003285",
+  "name": "G.G Series Z•ONE",
+  "formal_name": "G.G Series Z•ONE",
+  "description": "Breach enemy lines in this technical side-scrolling shooter!\n\nThe enemy has bolstered their defenses with a perilous fortress of blocks. Skillfully work your way around your surroundings and make use of pods that fire in eight directions to vanquish foes as you advance towards the heart of enemy territory. Each level features a unique landscape and varying difficulty, forcing you to adapt. Learn the art of quick evasion as some levels scroll faster than others, and master advanced shooting techniques such as shooting in the opposite direction.",
+  "release_date_on_eshop": "2010-12-27",
+  "product_code": "TWL-N-KNZE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Shooter"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

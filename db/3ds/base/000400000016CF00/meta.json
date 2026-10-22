@@ -1,27 +1,27 @@
 {
-    "tid": "000400000016CF00",
-    "uid": "50010000041835",
-    "name": "Fairune2",
-    "formal_name": "Fairune2",
-    "description": "Fairune 2 is a fantasy puzzle-solving adventure RPG. Which has you explore the map by solving puzzles, tricks and beating monsters.\n<br>\n<br>You are requested by the mysterious book that can say where to find the lost fairy. In this adventure, you encounter the wonderful girl that may lead you to the truth of the world.\n<br>\n<br>With much greater content than the prequel game, the power-up 8-bit taste graphics and sounds will bring forth the new reminiscent game-play.",
-    "release_date_on_eshop": "2016-10-27",
-    "product_code": "CTR-N-KFUP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "region": "Europe",
-    "genres": [
-        "RPG",
-        "Adventure",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000016CF00",
+  "uid": "50010000041835",
+  "name": "Fairune2",
+  "formal_name": "Fairune2",
+  "description": "Fairune 2 is a fantasy puzzle-solving adventure RPG. Which has you explore the map by solving puzzles, tricks and beating monsters.\n<br>\n<br>You are requested by the mysterious book that can say where to find the lost fairy. In this adventure, you encounter the wonderful girl that may lead you to the truth of the world.\n<br>\n<br>With much greater content than the prequel game, the power-up 8-bit taste graphics and sounds will bring forth the new reminiscent game-play.",
+  "release_date_on_eshop": "2016-10-27",
+  "product_code": "CTR-N-KFUP",
+  "platform_name": "Nintendo 3DS (Download)",
+  "region": "Europe",
+  "genres": [
+    "RPG",
+    "Adventure",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,31 +1,31 @@
 {
-    "tid": "00040000000AE800",
-    "uid": "50010000016793",
-    "name": "Family Bowling 3D",
-    "formal_name": "Family Bowling 3D",
-    "description": "Family Bowling 3D is a game in which anyone can enjoy bowling with simple controls. A bowling game featuring Billy, Sarah, Daddy, and Mommy! The three game modes include Main Mode, where you'll battle your fellow family members; Free Play, where you can play as you like with 1-4 players; and Challenge Mode, where you can take difficult challenges head on! You can bowl however you would like by selecting your position, direction, speed, and curve. Aim for a perfect game in all of the five different stages we've assembled!",
-    "release_date_on_eshop": "2013-10-03",
-    "product_code": "CTR-N-JBWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Sports",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000AE800",
+  "uid": "50010000016793",
+  "name": "Family Bowling 3D",
+  "formal_name": "Family Bowling 3D",
+  "description": "Family Bowling 3D is a game in which anyone can enjoy bowling with simple controls. A bowling game featuring Billy, Sarah, Daddy, and Mommy! The three game modes include Main Mode, where you'll battle your fellow family members; Free Play, where you can play as you like with 1-4 players; and Challenge Mode, where you can take difficult challenges head on! You can bowl however you would like by selecting your position, direction, speed, and curve. Aim for a perfect game in all of the five different stages we've assembled!",
+  "release_date_on_eshop": "2013-10-03",
+  "product_code": "CTR-N-JBWE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Sports",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

@@ -1,29 +1,29 @@
 {
-    "tid": "0004000000101600",
-    "uid": "50010000036135",
-    "name": "Best of Arcade Games -\nAir Hockey",
-    "formal_name": "Best of Arcade Games -\nAir Hockey",
-    "description": "Rediscover a timeless amusement arcade classic with Air Hockey!\nRise to 20 challenges against tougher and tougher opponents in Adventure mode to become an Air Hockey pro.\nMagnetic puck, accelerated speed, gravity warping... Discover ten astonishing bonuses and penalties!\nAim straight to get around the obstacles and joker penguins crossing the rink, and score the winning goal!",
-    "release_date_on_eshop": "2015-08-13",
-    "product_code": "CTR-N-JGTE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Arcade"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": []
+  "tid": "0004000000101600",
+  "uid": "50010000036135",
+  "name": "Best of Arcade Games -\nAir Hockey",
+  "formal_name": "Best of Arcade Games -\nAir Hockey",
+  "description": "Rediscover a timeless amusement arcade classic with Air Hockey!\nRise to 20 challenges against tougher and tougher opponents in Adventure mode to become an Air Hockey pro.\nMagnetic puck, accelerated speed, gravity warping... Discover ten astonishing bonuses and penalties!\nAim straight to get around the obstacles and joker penguins crossing the rink, and score the winning goal!",
+  "release_date_on_eshop": "2015-08-13",
+  "product_code": "CTR-N-JGTE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Arcade"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": []
 }

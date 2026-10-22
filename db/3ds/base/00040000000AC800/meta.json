@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000AC800",
-    "uid": "50010000011500",
-    "name": "ぼくは航空管制官\nエアポートヒーロー3D ホノルル",
-    "formal_name": "ぼくは航空管制官\nエアポートヒーロー3D ホノルル",
-    "description": "『ぼくは航空管制官 エアポートヒーロー3D』 第二弾!\n<br>今度の舞台は、シリーズ初の海外空港、ホノルルです。\n<br>白い砂浜とエメラルドグリーンのコントラストが美しいビーチ、すべてがオレンジ色に包まれる夕景、眼下に広がるダイアモンドヘッドなど、リゾート気分を味わいながら航空管制に挑戦できます。",
-    "release_date_on_eshop": "2016-09-29",
-    "product_code": "CTR-N-AHWJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "パズル",
-        "シミュレーション"
-    ],
-    "features": [
-        "3D映像対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AC800",
+  "uid": "50010000011500",
+  "name": "ぼくは航空管制官\nエアポートヒーロー3D ホノルル",
+  "formal_name": "ぼくは航空管制官\nエアポートヒーロー3D ホノルル",
+  "description": "『ぼくは航空管制官 エアポートヒーロー3D』 第二弾!\n<br>今度の舞台は、シリーズ初の海外空港、ホノルルです。\n<br>白い砂浜とエメラルドグリーンのコントラストが美しいビーチ、すべてがオレンジ色に包まれる夕景、眼下に広がるダイアモンドヘッドなど、リゾート気分を味わいながら航空管制に挑戦できます。",
+  "release_date_on_eshop": "2016-09-29",
+  "product_code": "CTR-N-AHWJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "パズル",
+    "シミュレーション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

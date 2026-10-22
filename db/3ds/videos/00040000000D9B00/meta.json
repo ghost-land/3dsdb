@@ -1,35 +1,35 @@
 {
-    "tid": "00040000000D9B00",
-    "uid": "50010000013300",
-    "name": "Donkey Kong Country Returns\n3D Nintendo Direct 2.14.2013",
-    "formal_name": "Donkey Kong Country Returns\n3D Nintendo Direct 2.14.2013",
-    "description": null,
-    "release_date_on_eshop": "2013-02-14",
-    "product_code": "CTR-N-SN8E",
-    "platform_name": "Downloadable Video",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Video"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "Portuguese"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": [
-        "Visit www.esrb.org for rating information."
-    ]
+  "tid": "00040000000D9B00",
+  "uid": "50010000013300",
+  "name": "Donkey Kong Country Returns\n3D Nintendo Direct 2.14.2013",
+  "formal_name": "Donkey Kong Country Returns\n3D Nintendo Direct 2.14.2013",
+  "description": null,
+  "release_date_on_eshop": "2013-02-14",
+  "product_code": "CTR-N-SN8E",
+  "platform_name": "Downloadable Video",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer",
+    "Video"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [
+    "Visit www.esrb.org for rating information."
+  ]
 }

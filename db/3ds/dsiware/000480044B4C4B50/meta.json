@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B4C4B50",
-    "uid": "50010000009162",
-    "name": "Lola's Alphabet Train",
-    "formal_name": "Lola's Alphabet Train",
-    "description": "All aboard the learning train for a fun\ntime! Specifically designed for 3-7\nyear olds, Lola’s Alphabet Train is a\nguaranteed way to keep your children\ncoming back for more fun as they\nmaster their reading skills!<br>\n<br>\nThe Alphabet Train is actually five\nexciting games in one. As your\nchildren’s skills improve, the games\ngets more challenging, but still\nmanage to be fun and engaging!<br>\n<br>\nLanguages: English, French and\nGerman",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KLKP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Puzzle",
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "French",
-        "German"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4C4B50",
+  "uid": "50010000009162",
+  "name": "Lola's Alphabet Train",
+  "formal_name": "Lola's Alphabet Train",
+  "description": "All aboard the learning train for a fun\ntime! Specifically designed for 3-7\nyear olds, Lola’s Alphabet Train is a\nguaranteed way to keep your children\ncoming back for more fun as they\nmaster their reading skills!<br>\n<br>\nThe Alphabet Train is actually five\nexciting games in one. As your\nchildren’s skills improve, the games\ngets more challenging, but still\nmanage to be fun and engaging!<br>\n<br>\nLanguages: English, French and\nGerman",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KLKP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Puzzle",
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": []
 }

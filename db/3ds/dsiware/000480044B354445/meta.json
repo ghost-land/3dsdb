@@ -1,26 +1,26 @@
 {
-    "tid": "000480044B354445",
-    "uid": "50010000034115",
-    "name": "G.G. Series COSMO RALLY!!",
-    "formal_name": "G.G. Series COSMO RALLY!!",
-    "description": "A tournament rally has been called for the top racers representing the far reaches of the galaxy. As a representative of Earth, choose from different types of Space Cars and compete against the past times of racers from the solar system, galaxy and beyond. Accelerate at break neck speed but avoid taking short cuts and stay on the Guide Beam track which leads you through the cosmos in a dash to the goal line. Aim to beat the record times of other racers and make it to top rank in each tournament cup!",
-    "release_date_on_eshop": "2015-06-04",
-    "product_code": "TWL-N-K5DE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Racing"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "000480044B354445",
+  "uid": "50010000034115",
+  "name": "G.G. Series COSMO RALLY!!",
+  "formal_name": "G.G. Series COSMO RALLY!!",
+  "description": "A tournament rally has been called for the top racers representing the far reaches of the galaxy. As a representative of Earth, choose from different types of Space Cars and compete against the past times of racers from the solar system, galaxy and beyond. Accelerate at break neck speed but avoid taking short cuts and stay on the Guide Beam track which leads you through the cosmos in a dash to the goal line. Aim to beat the record times of other racers and make it to top rank in each tournament cup!",
+  "release_date_on_eshop": "2015-06-04",
+  "product_code": "TWL-N-K5DE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Racing"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

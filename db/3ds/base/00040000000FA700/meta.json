@@ -1,28 +1,28 @@
 {
-    "tid": "00040000000FA700",
-    "uid": "50010000023781",
-    "name": "Fate/kaleid liner\nプリズマ☆イリヤ",
-    "formal_name": "Fate/kaleid liner\nプリズマ☆イリヤ",
-    "description": "『Fate/kaleid liner プリズマ☆イリヤ』は、『Fate/stay night』を原作としたスピンアウトコミック。登場人物や世界観を大幅に再設定し、テレビアニメ化されました。半人前の魔法少女の強い味方がゲーム独自のシステムである魔術式を織り込んだ「エレメントカード」。デッキを組んで魔法を発動させよう!\n<br>謎のステッキに騙され、魔法少女として契約してしまったイリヤ。Fateワールドの中心「冬木市」を舞台に、英霊たちとの戦いの火蓋が切って落とされる! ミッションは、クラスカードの全回収!",
-    "release_date_on_eshop": "2014-07-31",
-    "product_code": "CTR-N-AYLJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "region": "Japan",
-    "genres": [
-        "アクション"
-    ],
-    "features": [
-        "3D映像対応",
-        "ローカルプレイ対応"
-    ],
-    "languages": [
-        "日本語"
-    ],
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "version": "v0.2.0",
-    "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-    "descriptors": []
+  "tid": "00040000000FA700",
+  "uid": "50010000023781",
+  "name": "Fate/kaleid liner\nプリズマ☆イリヤ",
+  "formal_name": "Fate/kaleid liner\nプリズマ☆イリヤ",
+  "description": "『Fate/kaleid liner プリズマ☆イリヤ』は、『Fate/stay night』を原作としたスピンアウトコミック。登場人物や世界観を大幅に再設定し、テレビアニメ化されました。半人前の魔法少女の強い味方がゲーム独自のシステムである魔術式を織り込んだ「エレメントカード」。デッキを組んで魔法を発動させよう!\n<br>謎のステッキに騙され、魔法少女として契約してしまったイリヤ。Fateワールドの中心「冬木市」を舞台に、英霊たちとの戦いの火蓋が切って落とされる! ミッションは、クラスカードの全回収!",
+  "release_date_on_eshop": "2014-07-31",
+  "product_code": "CTR-N-AYLJ",
+  "platform_name": "3DSカード/ダウンロードソフト",
+  "region": "Japan",
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "12"
+  },
+  "version": "v0.2.0",
+  "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+  "descriptors": []
 }

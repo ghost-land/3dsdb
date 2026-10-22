@@ -1,28 +1,28 @@
 {
-    "tid": "00040000001B2200",
-    "uid": "50010000042316",
-    "name": "Word Search 10K",
-    "formal_name": "Word Search 10K",
-    "description": "With more than 10,000 words hidden in a grid of 90,000 letters, Word Search 10K is the largest, most epic, word search ever made!\n<br>\n<br>The puzzle is arranged as 100 themed sections, each containing roughly 100 words - but even each section is much too large to fit on screen! Scroll with the D-Pad or Circle Pad, then touch with the stylus to highlight words.\n<br>\n<br>To solve the entire thing, you'll have to find words from categories as diverse as boys' names, hair styles and accountancy.\n<br>\n<br>You'll visit London, Las Vegas and outer space.\n<br>You'll encounter spiders, vampires and fictional horses.\n<br>You'll be transported from ancient Egypt, through the world of dreams and to the end of days.\n<br>\n<br>Share your progress with other players using StreetPass.",
-    "release_date_on_eshop": "2017-01-26",
-    "product_code": "CTR-N-KWTE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Puzzle",
-        "Education"
-    ],
-    "features": [
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000001B2200",
+  "uid": "50010000042316",
+  "name": "Word Search 10K",
+  "formal_name": "Word Search 10K",
+  "description": "With more than 10,000 words hidden in a grid of 90,000 letters, Word Search 10K is the largest, most epic, word search ever made!\n<br>\n<br>The puzzle is arranged as 100 themed sections, each containing roughly 100 words - but even each section is much too large to fit on screen! Scroll with the D-Pad or Circle Pad, then touch with the stylus to highlight words.\n<br>\n<br>To solve the entire thing, you'll have to find words from categories as diverse as boys' names, hair styles and accountancy.\n<br>\n<br>You'll visit London, Las Vegas and outer space.\n<br>You'll encounter spiders, vampires and fictional horses.\n<br>You'll be transported from ancient Egypt, through the world of dreams and to the end of days.\n<br>\n<br>Share your progress with other players using StreetPass.",
+  "release_date_on_eshop": "2017-01-26",
+  "product_code": "CTR-N-KWTE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Puzzle",
+    "Education"
+  ],
+  "features": [
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

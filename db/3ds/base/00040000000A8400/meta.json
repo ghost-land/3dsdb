@@ -1,26 +1,26 @@
 {
-    "tid": "00040000000A8400",
-    "uid": "50010000027435",
-    "name": "Castle Conqueror Defender",
-    "formal_name": "Castle Conqueror Defender",
-    "description": "\"My Lord! Hordes of barbaric fire-worshippers have invaded our land!\"\n<br><br>\nAs one of the last loyal generals of the realm, it is your mission to defend your land and train brave, ordinary men into exceptional warriors. Will you succeed or fall in battle? The fate of a noble land rests on your shoulders in this Medieval-themed castle defense game.\n<br><br>\nFeatures:\n<br><br>\n10 epic campaigns consisting of 5 levels each.\nTry to survive for 20 days in glory mode.\nDefend the Holy Land against the Mamelukes in crusader mode.\nEnchanting music and thrilling AI.\nVarious upgrades for troops and power-ups for buildings.\nUse archers, towers, and more to obtain victory",
-    "release_date_on_eshop": "2014-11-13",
-    "product_code": "CTR-N-JCDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Strategy",
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": []
+  "tid": "00040000000A8400",
+  "uid": "50010000027435",
+  "name": "Castle Conqueror Defender",
+  "formal_name": "Castle Conqueror Defender",
+  "description": "\"My Lord! Hordes of barbaric fire-worshippers have invaded our land!\"\n<br><br>\nAs one of the last loyal generals of the realm, it is your mission to defend your land and train brave, ordinary men into exceptional warriors. Will you succeed or fall in battle? The fate of a noble land rests on your shoulders in this Medieval-themed castle defense game.\n<br><br>\nFeatures:\n<br><br>\n10 epic campaigns consisting of 5 levels each.\nTry to survive for 20 days in glory mode.\nDefend the Holy Land against the Mamelukes in crusader mode.\nEnchanting music and thrilling AI.\nVarious upgrades for troops and power-ups for buildings.\nUse archers, towers, and more to obtain victory",
+  "release_date_on_eshop": "2014-11-13",
+  "product_code": "CTR-N-JCDE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Strategy",
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": []
 }

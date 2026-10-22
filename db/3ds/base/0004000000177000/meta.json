@@ -1,37 +1,37 @@
 {
-    "tid": "0004000000177000",
-    "uid": "50010000036755",
-    "name": "The Legend of Zelda™:\nTri Force Heroes",
-    "formal_name": "The Legend of Zelda™:\n<br>Tri Force Heroes",
-    "description": "Combine the powers of three Links in\n<br>The Legend of Zelda: Tri Force Heroes\n<br>for Nintendo 3DS family systems!\n<br>Work together as a dynamic trio, don\n<br>different outfits to gain new abilities,\n<br>and save the fashion-obsessed\n<br>kingdom of Hytopia from a ghastly\n<br>curse.\n<br><br/><br/>\n<br>Answer the king’s call for heroes to\n<br>rid the princess of a hideous new\n<br>outfit and restore style to Hytopia.\n<br>Embark on a quest outfitted for three,\n<br>with each player controlling one Link\n<br>each. Travel to eight different areas of\n<br>the Drablands, from icy caverns to red\n<br>hot volcanoes, and explore over 30\n<br>levels brimming with puzzles, traps\n<br>and baddies.",
-    "release_date_on_eshop": "2015-10-23",
-    "product_code": "CTR-P-EA3P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Adventure"
-    ],
-    "features": [
-        "Supports Internet Play",
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports SpotPass",
-        "Supports Download Play",
-        "Nintendo Network"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000177000",
+  "uid": "50010000036755",
+  "name": "The Legend of Zelda™:\nTri Force Heroes",
+  "formal_name": "The Legend of Zelda™:\n<br>Tri Force Heroes",
+  "description": "Combine the powers of three Links in\n<br>The Legend of Zelda: Tri Force Heroes\n<br>for Nintendo 3DS family systems!\n<br>Work together as a dynamic trio, don\n<br>different outfits to gain new abilities,\n<br>and save the fashion-obsessed\n<br>kingdom of Hytopia from a ghastly\n<br>curse.\n<br><br/><br/>\n<br>Answer the king’s call for heroes to\n<br>rid the princess of a hideous new\n<br>outfit and restore style to Hytopia.\n<br>Embark on a quest outfitted for three,\n<br>with each player controlling one Link\n<br>each. Travel to eight different areas of\n<br>the Drablands, from icy caverns to red\n<br>hot volcanoes, and explore over 30\n<br>levels brimming with puzzles, traps\n<br>and baddies.",
+  "release_date_on_eshop": "2015-10-23",
+  "product_code": "CTR-P-EA3P",
+  "platform_name": "Nintendo 3DS (Card/Download)",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

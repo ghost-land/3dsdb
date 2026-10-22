@@ -1,30 +1,30 @@
 {
-    "tid": "000480044B414656",
-    "uid": "50010000007049",
-    "name": "Airport Mania: NSF",
-    "formal_name": "Airport Mania®:\nNon-Stop Flights",
-    "description": "Hundreds of aeroplanes are on their\nway to your airport! In Airport Mania:\nNon-Stop Flights, you'll face the\nchallenge of coordinating an endless\nnumber of incoming flights for as long\nas you can.<br>\n<br>\nYou'll need to care for each plane,\nbringing them safely to the airport,\nsending them to a gate to drop off\nand pick up passengers, and\nscheduling the runway to ensure the\nplanes make an on-time departure to\nmaximise both customer satisfaction\nand your score!\nUpgrade your airport at any time to\nmake sure you are ready for every\ncolour and type of plane. It's frantic\ntime-management action with an\nairport twist that you won't want to\nmiss!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KAFV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Simulation"
-    ],
-    "features": [],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414656",
+  "uid": "50010000007049",
+  "name": "Airport Mania: NSF",
+  "formal_name": "Airport Mania®:\nNon-Stop Flights",
+  "description": "Hundreds of aeroplanes are on their\nway to your airport! In Airport Mania:\nNon-Stop Flights, you'll face the\nchallenge of coordinating an endless\nnumber of incoming flights for as long\nas you can.<br>\n<br>\nYou'll need to care for each plane,\nbringing them safely to the airport,\nsending them to a gate to drop off\nand pick up passengers, and\nscheduling the runway to ensure the\nplanes make an on-time departure to\nmaximise both customer satisfaction\nand your score!\nUpgrade your airport at any time to\nmake sure you are ready for every\ncolour and type of plane. It's frantic\ntime-management action with an\nairport twist that you won't want to\nmiss!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KAFV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Simulation"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

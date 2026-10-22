@@ -1,29 +1,29 @@
 {
-    "tid": "000480044B455345",
-    "uid": "50010000002204",
-    "name": "Escapee GO!",
-    "formal_name": "Escapee GO!",
-    "description": "Feel the thrill of the escape! In Escapee GO!, you will take the role of Claire, who awakes with no memory of who she is. Save for her name, all information about her has been destroyed. In its place, something within her has changed. Hunted down by an unknown enemy, she must find a way to escape her pursuers using her new found powers. Will she be able to survive? Using her heightened senses, Claire is able to detect incoming pursuers before they come into visual range. During her daring escape, Claire will find mysterious items which will temporarily enhance her abilities, allowing her to even the playing field between her pursuers and herself. Supporting up to 4 players with DS Wireless Play, Escapee GO! promises endless fun for your group of friends!\n\n",
-    "release_date_on_eshop": "2010-01-25",
-    "product_code": "TWL-N-KESE",
-    "platform_name": "Nintendo DSiWare",
-    "region": "North America",
-    "genres": [
-        "Action",
-        "Arcade",
-        "Multiplayer"
-    ],
-    "features": [
-        "Supports DS Wireless Play"
-    ],
-    "languages": [
-        "English"
-    ],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B455345",
+  "uid": "50010000002204",
+  "name": "Escapee GO!",
+  "formal_name": "Escapee GO!",
+  "description": "Feel the thrill of the escape! In Escapee GO!, you will take the role of Claire, who awakes with no memory of who she is. Save for her name, all information about her has been destroyed. In its place, something within her has changed. Hunted down by an unknown enemy, she must find a way to escape her pursuers using her new found powers. Will she be able to survive? Using her heightened senses, Claire is able to detect incoming pursuers before they come into visual range. During her daring escape, Claire will find mysterious items which will temporarily enhance her abilities, allowing her to even the playing field between her pursuers and herself. Supporting up to 4 players with DS Wireless Play, Escapee GO! promises endless fun for your group of friends!\n\n",
+  "release_date_on_eshop": "2010-01-25",
+  "product_code": "TWL-N-KESE",
+  "platform_name": "Nintendo DSiWare",
+  "region": "North America",
+  "genres": [
+    "Action",
+    "Arcade",
+    "Multiplayer"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

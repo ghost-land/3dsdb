@@ -1,35 +1,35 @@
 {
-    "tid": "000400000005A400",
-    "uid": "50010000010209",
-    "name": "LEGO® Batman 2™:\nDC Super Heroes",
-    "formal_name": "LEGO® Batman 2™:\nDC Super Heroes",
-    "description": "Batman and Robin return in LEGO®\nBatman 2™: DC Super Heroes, the\nhighly-anticipated sequel to LEGO® \nBatman™: The Videogame. This time\nthe Dynamic Duo join forces with\nother famous DC super heroes\nincluding Superman, Wonder Woman\nand Green Lantern to stop the\nnotorious villains Lex Luthor and The\nJoker from destroying Gotham City.\nBatman fans of all ages will enjoy a\nnew and original story filled with\nclassic LEGO® videogame action and\nhumor as players fight to put the bad\nguys back behind bars.",
-    "release_date_on_eshop": null,
-    "product_code": "CTR-P-ALBP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "region": "Europe",
-    "genres": [
-        "Adventure",
-        "Action"
-    ],
-    "features": [
-        "Displays 3D Visuals",
-        "Supports Local Play",
-        "Supports StreetPass"
-    ],
-    "languages": [
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Dutch"
-    ],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v1.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005A400",
+  "uid": "50010000010209",
+  "name": "LEGO® Batman 2™:\nDC Super Heroes",
+  "formal_name": "LEGO® Batman 2™:\nDC Super Heroes",
+  "description": "Batman and Robin return in LEGO®\nBatman 2™: DC Super Heroes, the\nhighly-anticipated sequel to LEGO® \nBatman™: The Videogame. This time\nthe Dynamic Duo join forces with\nother famous DC super heroes\nincluding Superman, Wonder Woman\nand Green Lantern to stop the\nnotorious villains Lex Luthor and The\nJoker from destroying Gotham City.\nBatman fans of all ages will enjoy a\nnew and original story filled with\nclassic LEGO® videogame action and\nhumor as players fight to put the bad\nguys back behind bars.",
+  "release_date_on_eshop": null,
+  "product_code": "CTR-P-ALBP",
+  "platform_name": "Nintendo 3DS (Card)",
+  "region": "Europe",
+  "genres": [
+    "Adventure",
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "it",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }
