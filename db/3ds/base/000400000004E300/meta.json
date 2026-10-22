@@ -23,10 +23,17 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
   "descriptors": [
     "Animated Blood",
     "Suggestive Themes"
-  ]
+  ],
+  "publisher": "Bigben Interactive",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

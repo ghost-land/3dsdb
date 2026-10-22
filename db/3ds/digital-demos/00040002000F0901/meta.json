@@ -1,21 +1,30 @@
 {
-    "tid": "00040002000F0901",
-    "uid": "",
-    "name": "(Demo A) Project Cross Zone",
-    "formal_name": "(Demo A) Project Cross Zone",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-AXXY",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000F0901",
+  "uid": "",
+  "name": "(Demo A) Project Cross Zone",
+  "formal_name": "(Demo A) Project Cross Zone",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-AXXY",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "15"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

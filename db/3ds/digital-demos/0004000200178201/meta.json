@@ -1,21 +1,25 @@
 {
-    "tid": "0004000200178201",
-    "uid": "",
-    "name": "創作アリスと王子さま！（体験版）",
-    "formal_name": "創作アリスと王子さま！（体験版）",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-ARZJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200178201",
+  "uid": "",
+  "name": "創作アリスと王子さま！（体験版）",
+  "formal_name": "創作アリスと王子さま！（体験版）",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-ARZJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "HAPPINET"
 }

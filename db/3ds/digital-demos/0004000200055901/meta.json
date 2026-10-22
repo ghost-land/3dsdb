@@ -25,10 +25,16 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Crude Humor",
     "Mild Cartoon Violence"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

@@ -1,21 +1,37 @@
 {
-    "tid": "0004000200087101",
-    "uid": "",
-    "name": "Demo - Jett Rocket II",
-    "formal_name": "Demo - Jett Rocket II",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JRSE",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200087101",
+  "uid": "",
+  "name": "Demo - Jett Rocket II",
+  "formal_name": "Demo - Jett Rocket II",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JRSE",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Shin'en Multimedia",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

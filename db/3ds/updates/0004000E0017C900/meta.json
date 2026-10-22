@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0017C900",
-    "uid": "50010000038837",
-    "name": "Shovel Knight: Treasure Trove\nUpdate 4.1",
-    "formal_name": "Shovel Knight: Treasure Trove\n<br>Update 4.1",
-    "description": "This is an update for the game card version of the Shovel Knight game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of Shovel Knight.\n<br>\n<br>Includes:\n<br>1:1 Pixel Scaling Mode, fix for games sometimes not saving under certain circumstances, if wearing an amiibo costume when speaking with Madame Meeber the dialogue prompt to change back to the default costume now begins on the No choice, and other bug fixes and improvements.",
-    "release_date_on_eshop": "2015-12-14",
-    "product_code": "CTR-U-AKSP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v6.6.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0017C900",
+  "uid": "50010000038837",
+  "name": "Shovel Knight: Treasure Trove\nUpdate 4.1",
+  "formal_name": "Shovel Knight: Treasure Trove\n<br>Update 4.1",
+  "description": "This is an update for the game card version of the Shovel Knight game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of Shovel Knight.\n<br>\n<br>Includes:\n<br>1:1 Pixel Scaling Mode, fix for games sometimes not saving under certain circumstances, if wearing an amiibo costume when speaking with Madame Meeber the dialogue prompt to change back to the default costume now begins on the No choice, and other bug fixes and improvements.",
+  "release_date_on_eshop": "2015-12-14",
+  "product_code": "CTR-U-AKSP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v6.6.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Yacht Club Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

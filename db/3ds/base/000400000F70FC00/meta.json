@@ -23,5 +23,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "nuGAME",
+  "smdh": {
+    "flags": [
+      "SaveData",
+      "New3DS"
+    ]
+  }
 }

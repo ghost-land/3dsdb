@@ -21,7 +21,13 @@
     "name": "CERO",
     "age": "15"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CHUNSOFT",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

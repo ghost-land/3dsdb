@@ -1,21 +1,31 @@
 {
-    "tid": "00040002001B2301",
-    "uid": "",
-    "name": "電車運転指令！ - 東京湾編 体験版",
-    "formal_name": "電車運転指令！ - 東京湾編 体験版",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-KTJJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002001B2301",
+  "uid": "",
+  "name": "電車運転指令！ - 東京湾編 体験版",
+  "formal_name": "電車運転指令！ - 東京湾編 体験版",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-KTJJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ARC SYSTEM WORKS",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

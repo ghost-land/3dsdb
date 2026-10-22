@@ -1,21 +1,30 @@
 {
-    "tid": "0004008C001A0C00",
-    "uid": "",
-    "name": "ラジアントヒストリア - パーフェクトクロノロジー",
-    "formal_name": "ラジアントヒストリア - パーフェクトクロノロジー",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BRBJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001A0C00",
+  "uid": "",
+  "name": "ラジアントヒストリア - パーフェクトクロノロジー",
+  "formal_name": "ラジアントヒストリア - パーフェクトクロノロジー",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BRBJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Atlus",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

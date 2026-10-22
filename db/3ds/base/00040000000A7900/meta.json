@@ -26,5 +26,12 @@
   },
   "version": "v1.1.0",
   "disclaimer": "2013年3月6日より、不具合を修正した更新版を配信しています。\n2013年3月6日以前に本ソフトをダウンロードされた方は、無償で更新版をダウンロードできます。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Genius Sonority Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

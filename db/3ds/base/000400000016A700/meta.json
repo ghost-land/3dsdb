@@ -26,10 +26,16 @@
     "de"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Abylight",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,25 +1,36 @@
 {
-    "tid": "0004000000166600",
-    "uid": "50010000032975",
-    "name": "Toy Stunt Bike",
-    "formal_name": "Toy Stunt Bike",
-    "description": "『Toy Stunt Bike』는 미니어처 바이크를 조종하여, 집안에서 바이크 스턴트를 즐길 수 있습니다. \n바이크의 중심을 잘 컨트롤하면서 거대한 소파나 화장실을 넘고, 앞바퀴를 높이 들고 타는 곡예와 같은 기술을 자연스럽게 구사하여, 높은 점수를 노려보세요. \n다른 플레이어와 클리어 타임을 경쟁하는 랭킹에도 참가할 수 있습니다.\n",
-    "release_date_on_eshop": "2015-04-22",
-    "product_code": "CTR-N-JTVY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "레이싱"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n*주의사항*\n제명:Toy Stunt Bike\n상호:COSEN\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150320-002\n등급분류 일자:2015.3.20.\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n<br>자막:일본어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000166600",
+  "uid": "50010000032975",
+  "name": "Toy Stunt Bike",
+  "formal_name": "Toy Stunt Bike",
+  "description": "『Toy Stunt Bike』는 미니어처 바이크를 조종하여, 집안에서 바이크 스턴트를 즐길 수 있습니다. \n바이크의 중심을 잘 컨트롤하면서 거대한 소파나 화장실을 넘고, 앞바퀴를 높이 들고 타는 곡예와 같은 기술을 자연스럽게 구사하여, 높은 점수를 노려보세요. \n다른 플레이어와 클리어 타임을 경쟁하는 랭킹에도 참가할 수 있습니다.\n",
+  "release_date_on_eshop": "2015-04-22",
+  "product_code": "CTR-N-JTVY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "레이싱"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n*주의사항*\n제명:Toy Stunt Bike\n상호:COSEN\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150320-002\n등급분류 일자:2015.3.20.\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n<br>자막:일본어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "COSEN",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

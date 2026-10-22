@@ -1,21 +1,30 @@
 {
-    "tid": "00040002000C0301",
-    "uid": "",
-    "name": "体験版プリティーリズム - マイ☆デコレインボーウエディング",
-    "formal_name": "体験版プリティーリズム - マイ☆デコレインボーウエディング",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-APTJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000C0301",
+  "uid": "",
+  "name": "体験版プリティーリズム - マイ☆デコレインボーウエディング",
+  "formal_name": "体験版プリティーリズム - マイ☆デコレインボーウエディング",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-APTJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ＴＡＫＡＲＡＴＯＭＹ　ＡＲＴＳ",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

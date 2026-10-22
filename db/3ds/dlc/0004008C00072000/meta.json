@@ -1,21 +1,38 @@
 {
-    "tid": "0004008C00072000",
-    "uid": "",
-    "name": "ファイアーエムブレム　覚醒",
-    "formal_name": "ファイアーエムブレム　覚醒",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-AFEJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00072000",
+  "uid": "",
+  "name": "ファイアーエムブレム　覚醒",
+  "formal_name": "ファイアーエムブレム　覚醒",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-AFEJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.8.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

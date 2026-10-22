@@ -1,21 +1,38 @@
 {
-    "tid": "00040000001CAF00",
-    "uid": "",
-    "name": "Kirby: Right Back At Ya! (Spanish Version)",
-    "formal_name": "Kirby: Right Back At Ya! (Spanish Version)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-SQKS",
-    "platform_name": "",
-    "region": "Spain",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CAF00",
+  "uid": "",
+  "name": "Kirby: Right Back At Ya! (Spanish Version)",
+  "formal_name": "Kirby: Right Back At Ya! (Spanish Version)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-SQKS",
+  "platform_name": "",
+  "region": "Spain",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "E"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

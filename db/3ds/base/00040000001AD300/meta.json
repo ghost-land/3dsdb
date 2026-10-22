@@ -24,5 +24,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>\n<br>2017年11月8日のMiiverseサービス終了以降、Miiverseを使用した機能はご利用いただけません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

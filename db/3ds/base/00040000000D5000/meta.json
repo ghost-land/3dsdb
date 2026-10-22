@@ -21,7 +21,14 @@
     "name": "CERO",
     "age": "15"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "GSP",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

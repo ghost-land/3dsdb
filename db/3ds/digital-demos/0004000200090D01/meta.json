@@ -1,21 +1,30 @@
 {
-    "tid": "0004000200090D01",
-    "uid": "",
-    "name": "体験版　スマイルプリキュア！ - レッツゴー！メルヘンワールド",
-    "formal_name": "体験版　スマイルプリキュア！ - レッツゴー！メルヘンワールド",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-APQJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200090D01",
+  "uid": "",
+  "name": "体験版　スマイルプリキュア！ - レッツゴー！メルヘンワールド",
+  "formal_name": "体験版　スマイルプリキュア！ - レッツゴー！メルヘンワールド",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-APQJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "株式会社バンダイナムコゲームス",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

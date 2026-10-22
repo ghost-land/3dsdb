@@ -23,5 +23,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : GUNMAN STORY\n상호 : 한국닌텐도(주)\n이용등급 : 12세이용가\n등급분류번호: CC-NV-130828-005\n등급분류 일자 : 2013.08.28.\n제작・배급업신고번호: 게배 제2012-10호",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Flyhigh Works",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,39 @@
 {
-    "tid": "00040002000CF301",
-    "uid": "",
-    "name": "カスタムモンスターズ(体験版)",
-    "formal_name": "カスタムモンスターズ(体験版)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JCMJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000CF301",
+  "uid": "",
+  "name": "カスタムモンスターズ(体験版)",
+  "formal_name": "カスタムモンスターズ(体験版)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JCMJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Collavier",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

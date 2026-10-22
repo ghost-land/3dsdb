@@ -1,23 +1,42 @@
 {
-    "tid": "0004000E00164800",
-    "uid": "50010000042236",
-    "name": "Pokémon™ Sun:\nUpdate",
-    "formal_name": "Pokémon™ Sun:\n<br>Update",
-    "description": "An update for \"Pokémon™ Sun\" is now available from Nintendo eShop.\n<br>\n<br>All customers who own a copy of “Pokémon™ Sun” should download the update.\n<br>\n<br>This will update the software to Version 1.2 with the following amendments:\n<br>\n<br>- Various bugs have been fixed in order to provide a smoother gaming experience.\n<br>\n<br>• Once the update has been downloaded, it will be installed automatically.\n<br>\n<br>We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.",
-    "release_date_on_eshop": "2017-01-11",
-    "product_code": "CTR-U-BNDA",
-    "platform_name": "Update Data",
-    "region": "Region Free",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00164800",
+  "uid": "50010000042236",
+  "name": "Pokémon™ Sun:\nUpdate",
+  "formal_name": "Pokémon™ Sun:\n<br>Update",
+  "description": "An update for \"Pokémon™ Sun\" is now available from Nintendo eShop.\n<br>\n<br>All customers who own a copy of “Pokémon™ Sun” should download the update.\n<br>\n<br>This will update the software to Version 1.2 with the following amendments:\n<br>\n<br>- Various bugs have been fixed in order to provide a smoother gaming experience.\n<br>\n<br>• Once the update has been downloaded, it will be installed automatically.\n<br>\n<br>We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.",
+  "release_date_on_eshop": "2017-01-11",
+  "product_code": "CTR-U-BNDA",
+  "platform_name": "Update Data",
+  "region": "Region Free",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.4.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

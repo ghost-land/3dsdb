@@ -1,21 +1,32 @@
 {
-    "tid": "0004000200136A01",
-    "uid": "",
-    "name": "(DEMO)鐵道日本！長良川鐵道 出發篇",
-    "formal_name": "(DEMO)鐵道日本！長良川鐵道 出發篇",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-ARJW",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200136A01",
+  "uid": "",
+  "name": "(DEMO)鐵道日本！長良川鐵道 出發篇",
+  "formal_name": "(DEMO)鐵道日本！長良川鐵道 出發篇",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-ARJW",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Sonic Powered",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

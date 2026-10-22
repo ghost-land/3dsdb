@@ -30,11 +30,17 @@
     "name": "ESRB",
     "age": "13"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Fantasy Violence",
     "Mild Blood",
     "Mild Language"
-  ]
+  ],
+  "publisher": "Square Enix London Studios",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

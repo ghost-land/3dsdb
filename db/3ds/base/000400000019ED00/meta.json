@@ -20,10 +20,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v4.6.0",
   "disclaimer": "SDカード対応\n<br>オンラインサービスは予告なく終了することがあります。詳しくはソフト内の利用規約をご参照ください。\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "KADOKAWA GAMES, LTD.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

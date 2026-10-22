@@ -18,10 +18,17 @@
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "CERO",
+    "age": "A"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": "本ソフトは映像を視聴できるソフトです。ゲームをお楽しみいただけるソフトではありません。\n<br>6才以下のお子様は、2D表示に切り替えてご使用ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SilverStarJapan",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

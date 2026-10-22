@@ -22,7 +22,14 @@
     "name": "CERO",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Genius Sonority Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

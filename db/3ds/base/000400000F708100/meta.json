@@ -25,5 +25,13 @@
   },
   "version": "v1.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CatfishBlues Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "New3DS",
+      "SaveData"
+    ]
+  }
 }

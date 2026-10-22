@@ -16,10 +16,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v0.0.0",
   "disclaimer": "『桃太郎電鉄2017 たちあがれ日本!!』を持っている人と対戦をするときに使用するソフトです。\n<br>このソフト単体では遊べませんのでご注意ください。\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

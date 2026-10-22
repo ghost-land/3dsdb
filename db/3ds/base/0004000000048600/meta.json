@@ -28,5 +28,12 @@
   "descriptors": [
     "Blood and Gore",
     "Violence"
-  ]
+  ],
+  "publisher": "Majesco Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

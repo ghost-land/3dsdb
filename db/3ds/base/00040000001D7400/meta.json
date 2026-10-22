@@ -1,21 +1,37 @@
 {
-    "tid": "00040000001D7400",
-    "uid": "",
-    "name": "Triple Breakout",
-    "formal_name": "Triple Breakout",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KT7E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D7400",
+  "uid": "",
+  "name": "Triple Breakout",
+  "formal_name": "Triple Breakout",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KT7E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "nuGAME",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

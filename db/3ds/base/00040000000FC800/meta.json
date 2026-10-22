@@ -1,21 +1,30 @@
 {
-    "tid": "00040000000FC800",
-    "uid": "",
-    "name": "honto for ニンテンドー3DS",
-    "formal_name": "honto for ニンテンドー3DS",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JHZJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FC800",
+  "uid": "",
+  "name": "honto for ニンテンドー3DS",
+  "formal_name": "honto for ニンテンドー3DS",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JHZJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v4.6.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "大日本印刷",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

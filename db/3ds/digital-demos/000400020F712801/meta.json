@@ -22,11 +22,18 @@
     "name": "ESRB",
     "age": "17"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [
     "Blood",
     "Nudity",
     "Violence"
-  ]
+  ],
+  "publisher": "Sungrand",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "New3DS"
+    ]
+  }
 }

@@ -30,5 +30,13 @@
   },
   "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Crazysoft Limited",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData",
+      "New3DS"
+    ]
+  }
 }

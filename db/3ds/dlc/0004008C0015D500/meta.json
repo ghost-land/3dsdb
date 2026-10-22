@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C0015D500",
-    "uid": "",
-    "name": "コープスパーティ ＢＲ 特典 - Extra Contents",
-    "formal_name": "コープスパーティ ＢＲ 特典 - Extra Contents",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BCPJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0015D500",
+  "uid": "",
+  "name": "コープスパーティ ＢＲ 特典 - Extra Contents",
+  "formal_name": "コープスパーティ ＢＲ 特典 - Extra Contents",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BCPJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "MAGES.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

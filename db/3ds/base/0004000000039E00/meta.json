@@ -30,5 +30,12 @@
   },
   "version": "v0.2.0",
   "disclaimer": "ソフトの内容は2011年10月20日発売のパッケージ版(価格:4,104円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

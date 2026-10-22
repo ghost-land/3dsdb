@@ -16,10 +16,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v0.1.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Flyhigh Works",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

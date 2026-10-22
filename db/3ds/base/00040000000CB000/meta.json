@@ -23,5 +23,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : Family Tennis\n상호 : 게임뮤지엄\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131011-011\n등급분류 일자 : 2013.10.11.\n제작・배급업신고번호:  20091",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "EGGSOFT",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

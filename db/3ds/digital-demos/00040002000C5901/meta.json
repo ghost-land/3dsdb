@@ -1,21 +1,38 @@
 {
-    "tid": "00040002000C5901",
-    "uid": "",
-    "name": "Fishdom H2O: Demo",
-    "formal_name": "Fishdom H2O: Demo",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JF4E",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000C5901",
+  "uid": "",
+  "name": "Fishdom H2O: Demo",
+  "formal_name": "Fishdom H2O: Demo",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JF4E",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Cypronia",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

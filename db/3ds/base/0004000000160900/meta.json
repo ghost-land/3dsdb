@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000160900",
-    "uid": "",
-    "name": "The Smurfs",
-    "formal_name": "The Smurfs",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BUSE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000160900",
+  "uid": "",
+  "name": "The Smurfs",
+  "formal_name": "The Smurfs",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BUSE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ubisoft Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,33 @@
 {
-    "tid": "000400000011BD00",
-    "uid": "50010000021274",
-    "name": "Witch&Hero",
-    "formal_name": "Witch&Hero",
-    "description": "「Witch & Hero」는 용자와 메두사에 의해 돌이 되어 버린 마녀를 조작하여, 몬스터를 쓰러뜨려가는 「８Ｂｉｔ 액션 게임」입니다. 플레이어는 마녀와 용자 두 캐릭터를 동시에 조작하여 끊임없이 공격해오는 몬스터를 물리칩니다. \n용자는 몇 번 공격을 당해 쓰러지더라도 다시 일어나, 움직이지 못하는 마녀를 보호합니다. \n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2014-03-26",
-    "product_code": "CTR-N-JWHZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : WITCH AND HERO\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131127-002\n등급분류 일자 : 2013.11.27.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
-    "descriptors": []
+  "tid": "000400000011BD00",
+  "uid": "50010000021274",
+  "name": "Witch&Hero",
+  "formal_name": "Witch&Hero",
+  "description": "「Witch & Hero」는 용자와 메두사에 의해 돌이 되어 버린 마녀를 조작하여, 몬스터를 쓰러뜨려가는 「８Ｂｉｔ 액션 게임」입니다. 플레이어는 마녀와 용자 두 캐릭터를 동시에 조작하여 끊임없이 공격해오는 몬스터를 물리칩니다. \n용자는 몇 번 공격을 당해 쓰러지더라도 다시 일어나, 움직이지 못하는 마녀를 보호합니다. \n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2014-03-26",
+  "product_code": "CTR-N-JWHZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : WITCH AND HERO\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131127-002\n등급분류 일자 : 2013.11.27.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
+  "descriptors": [],
+  "publisher": "Flyhigh Works",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

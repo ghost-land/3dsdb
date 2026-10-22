@@ -23,5 +23,11 @@
   },
   "version": "v0.2.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>本ソフトの利用についてはエンドユーザー使用許諾について同意いただくことが条件となります。\n<br>エンドユーザー使用許諾については弊社ホームページ（www.rainyfrog.com/musicverse-terms）に掲載しているのでご確認ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Rainy Frog",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00022800",
-    "uid": "50010000014882",
-    "name": "StreetPass Mii Plaza: Update",
-    "formal_name": "StreetPass Mii Plaza: Update",
-    "description": "StreetPass Mii Plaza received an\n<br>update and five new games are\n<br>now available! And that's not\n<br>all - one will be for free!\n<br>\n<br>■ For your free game, you can\n<br>select one of these two (the other\n<br>will be available for purchase):\n<br>- StreetPass Slot Racer\n<br>- StreetPass Trader\n<br>\n<br>■ These new games are also\n<br>available for purchase now:\n<br>- StreetPass Ninja\n<br>- StreetPass Explorers\n<br>- StreetPass Chef\n<br>\n<br>■ StreetPass Mii Plaza Premium\n<br>users can now store up to 100\n<br>encounters in a queue at the\n<br>plaza entrance\n<br>\n<br>■ Some other adjustments have\n<br>been made to make StreetPass\n<br>Mii Plaza quicker, especially on\n<br>New Nintendo 3DS systems.",
-    "release_date_on_eshop": "2013-06-18",
-    "product_code": "CTR-U-HMEP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v14.7.0",
-    "disclaimer": "This will update StreetPass Mii Plaza.\nAfter downloading this data, no new\nicon will be added to the HOME\nMenu. The data can be found under\nSystem Settings => Data Management\n=> Nintendo 3DS => Add-on\nContent. Be careful not to delete it.",
-    "descriptors": []
+  "tid": "0004000E00022800",
+  "uid": "50010000014882",
+  "name": "StreetPass Mii Plaza: Update",
+  "formal_name": "StreetPass Mii Plaza: Update",
+  "description": "StreetPass Mii Plaza received an\n<br>update and five new games are\n<br>now available! And that's not\n<br>all - one will be for free!\n<br>\n<br>■ For your free game, you can\n<br>select one of these two (the other\n<br>will be available for purchase):\n<br>- StreetPass Slot Racer\n<br>- StreetPass Trader\n<br>\n<br>■ These new games are also\n<br>available for purchase now:\n<br>- StreetPass Ninja\n<br>- StreetPass Explorers\n<br>- StreetPass Chef\n<br>\n<br>■ StreetPass Mii Plaza Premium\n<br>users can now store up to 100\n<br>encounters in a queue at the\n<br>plaza entrance\n<br>\n<br>■ Some other adjustments have\n<br>been made to make StreetPass\n<br>Mii Plaza quicker, especially on\n<br>New Nintendo 3DS systems.",
+  "release_date_on_eshop": "2013-06-18",
+  "product_code": "CTR-U-HMEP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v14.7.0",
+  "disclaimer": "This will update StreetPass Mii Plaza.\nAfter downloading this data, no new\nicon will be added to the HOME\nMenu. The data can be found under\nSystem Settings => Data Management\n=> Nintendo 3DS => Add-on\nContent. Be careful not to delete it.",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

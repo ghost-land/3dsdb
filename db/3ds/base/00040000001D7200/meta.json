@@ -22,9 +22,15 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v1.1.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Violence"
-  ]
+  ],
+  "publisher": "nuGAME",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

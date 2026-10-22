@@ -1,21 +1,30 @@
 {
-    "tid": "00040000001AE400",
-    "uid": "",
-    "name": "照橋心美のΨ難 いっぱいおっふ",
-    "formal_name": "照橋心美のΨ難 いっぱいおっふ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KTZJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AE400",
+  "uid": "",
+  "name": "照橋心美のΨ難 いっぱいおっふ",
+  "formal_name": "照橋心美のΨ難 いっぱいおっふ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KTZJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "バンダイナムコエンターテインメント",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,38 @@
 {
-    "tid": "0004008C00068300",
-    "uid": "",
-    "name": "とびだすプリクラ☆ - キラデコレボリューション",
-    "formal_name": "とびだすプリクラ☆ - キラデコレボリューション",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-JCVJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00068300",
+  "uid": "",
+  "name": "とびだすプリクラ☆ - キラデコレボリューション",
+  "formal_name": "とびだすプリクラ☆ - キラデコレボリューション",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-JCVJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.16.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

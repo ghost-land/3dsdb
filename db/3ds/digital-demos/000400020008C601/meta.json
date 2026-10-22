@@ -21,7 +21,14 @@
     "name": "CERO",
     "age": "15"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "ソフトの内容は2012年7月12日発売のパッケージ版(価格:6,151円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "LEVEL-5",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

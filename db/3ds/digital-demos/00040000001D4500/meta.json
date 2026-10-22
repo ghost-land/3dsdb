@@ -29,5 +29,11 @@
   "descriptors": [
     "Very mild violence",
     "Very mild crude humour"
-  ]
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

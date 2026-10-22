@@ -1,21 +1,37 @@
 {
-    "tid": "00040000001D5100",
-    "uid": "",
-    "name": "Double Breakout",
-    "formal_name": "Double Breakout",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-BRFP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D5100",
+  "uid": "",
+  "name": "Double Breakout",
+  "formal_name": "Double Breakout",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-BRFP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "nuGAME",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

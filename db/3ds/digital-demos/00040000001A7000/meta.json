@@ -23,5 +23,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトに付属する取扱説明書は製品版のものです。あらかじめご了承ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

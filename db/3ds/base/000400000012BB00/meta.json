@@ -17,10 +17,16 @@
     "fr"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "PEGI",
+    "age": "3"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "Attention, ce produit est un manga digital. Ce n'est pas un jeu.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "12-21",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

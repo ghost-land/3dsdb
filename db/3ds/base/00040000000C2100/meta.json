@@ -24,7 +24,14 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Agetec, Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

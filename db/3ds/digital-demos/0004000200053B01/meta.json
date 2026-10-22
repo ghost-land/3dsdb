@@ -26,7 +26,13 @@
     "name": "CGSRR",
     "age": "18"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

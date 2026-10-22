@@ -16,10 +16,17 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v1.3.0",
   "disclaimer": "ニンテンドー3DSソフト『ディズニー マジックキャッスル マイ･ハッピー･ライフ』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

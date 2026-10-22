@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000C9700",
-    "uid": "",
-    "name": "女剣士アカネ",
-    "formal_name": "女剣士アカネ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JSSJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C9700",
+  "uid": "",
+  "name": "女剣士アカネ",
+  "formal_name": "女剣士アカネ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JSSJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "15"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "CyberFront Corporation",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

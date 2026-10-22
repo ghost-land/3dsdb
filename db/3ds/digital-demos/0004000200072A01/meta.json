@@ -23,7 +23,14 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "TecmoKoei Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

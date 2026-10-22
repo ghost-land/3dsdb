@@ -24,9 +24,16 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
   "descriptors": [
     "Mild Fantasy Violence"
-  ]
+  ],
+  "publisher": "Genius Sonority Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

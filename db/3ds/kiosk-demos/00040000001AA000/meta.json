@@ -1,21 +1,40 @@
 {
-    "tid": "00040000001AA000",
-    "uid": "",
-    "name": "Yo-Kai Watch 2 - Fleshy Souls and Bony Spirits",
-    "formal_name": "Yo-Kai Watch 2 - Fleshy Souls and Bony Spirits",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-B-BYGE",
-    "platform_name": "",
-    "region": "Kiosk Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AA000",
+  "uid": "",
+  "name": "Yo-Kai Watch 2 - Fleshy Souls and Bony Spirits",
+  "formal_name": "Yo-Kai Watch 2 - Fleshy Souls and Bony Spirits",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-B-BYGE",
+  "platform_name": "",
+  "region": "Kiosk Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "AutoBoot"
+    ]
+  }
 }

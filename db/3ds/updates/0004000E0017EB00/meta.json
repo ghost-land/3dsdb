@@ -1,23 +1,41 @@
 {
-    "tid": "0004000E0017EB00",
-    "uid": "50010000039921",
-    "name": "Hyrule Warriors™ Legends:\nUpdate",
-    "formal_name": "Hyrule Warriors™ Legends:\n<br>Update",
-    "description": "An update for Hyrule Warriors™\n<br>Legends is now available from\n<br>Nintendo eShop. All customers who\n<br>own a copy of Hyrule Warriors™\n<br>Legends should download the update.\n<br>This will update the software to\n<br>Version 1.6.0 with the following\n<br>amendments: \n<br>\n<br>- New content is available.\n<br>\n<br>- Various bugs have\n<br>been fixed in order to provide a\n<br>smoother gaming experience.\n<br>\n<br>Once the update has been\n<br>downloaded, it will be installed\n<br>automatically.\n<br>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
-    "release_date_on_eshop": "2016-03-24",
-    "product_code": "CTR-U-BZHP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v5.5.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0017EB00",
+  "uid": "50010000039921",
+  "name": "Hyrule Warriors™ Legends:\nUpdate",
+  "formal_name": "Hyrule Warriors™ Legends:\n<br>Update",
+  "description": "An update for Hyrule Warriors™\n<br>Legends is now available from\n<br>Nintendo eShop. All customers who\n<br>own a copy of Hyrule Warriors™\n<br>Legends should download the update.\n<br>This will update the software to\n<br>Version 1.6.0 with the following\n<br>amendments: \n<br>\n<br>- New content is available.\n<br>\n<br>- Various bugs have\n<br>been fixed in order to provide a\n<br>smoother gaming experience.\n<br>\n<br>Once the update has been\n<br>downloaded, it will be installed\n<br>automatically.\n<br>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
+  "release_date_on_eshop": "2016-03-24",
+  "product_code": "CTR-U-BZHP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v5.5.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

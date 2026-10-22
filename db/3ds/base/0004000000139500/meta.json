@@ -1,25 +1,36 @@
 {
-    "tid": "0004000000139500",
-    "uid": "50010000023575",
-    "name": "Rilakkuma Sweets Tower",
-    "formal_name": "Rilakkuma Sweets Tower",
-    "description": "새총으로 과일을 날려 팬케이크가 들어있는 비누방울을 터뜨려 보세요. \n획득한 팬케이크를 리락쿠마에게 전달해 주면 됩니다. 스테이지에 있는 팬케이크를 모두모으면 스테이지 클리어입니다. \n간단한 스테이지부터 조금 어려운 스테이지까지, 130개 이상의 다양한 스테이지가 등장합니다. 게임 속에 나오는 리락쿠마의 친구들과 함께 즐겨보세요. \n리락쿠마와 함께 사진을 찍는「사진스튜디오」도 수록되어 있습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2014-06-25",
-    "product_code": "CTR-N-ARLZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Rilakkuma Sweets Tower\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-140514-007\n등급분류 일자 : 2014.5.14.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
-    "descriptors": []
+  "tid": "0004000000139500",
+  "uid": "50010000023575",
+  "name": "Rilakkuma Sweets Tower",
+  "formal_name": "Rilakkuma Sweets Tower",
+  "description": "새총으로 과일을 날려 팬케이크가 들어있는 비누방울을 터뜨려 보세요. \n획득한 팬케이크를 리락쿠마에게 전달해 주면 됩니다. 스테이지에 있는 팬케이크를 모두모으면 스테이지 클리어입니다. \n간단한 스테이지부터 조금 어려운 스테이지까지, 130개 이상의 다양한 스테이지가 등장합니다. 게임 속에 나오는 리락쿠마의 친구들과 함께 즐겨보세요. \n리락쿠마와 함께 사진을 찍는「사진스튜디오」도 수록되어 있습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2014-06-25",
+  "product_code": "CTR-N-ARLZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Rilakkuma Sweets Tower\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-140514-007\n등급분류 일자 : 2014.5.14.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
+  "descriptors": [],
+  "publisher": "ROCKETCOMPANY",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00126100",
-    "uid": "50010000030555",
-    "name": "Monster Hunter™ 4 Ultimate:\nUpdate",
-    "formal_name": "Monster Hunter™ 4 Ultimate:\nUpdate",
-    "description": "An update for Monster Hunter™ 4\nUltimate is now available from\nNintendo eShop.\n<br/><br/>\nThis will update the software to\nVersion 1.1 with the following\namendments:\n<br/><br/>\n- A section called “Gift Area” has\nbeen added to the download contents\nsection.\n<br/><br/>\nOnce the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "release_date_on_eshop": "2015-02-13",
-    "product_code": "CTR-U-BFGP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00126100",
+  "uid": "50010000030555",
+  "name": "Monster Hunter™ 4 Ultimate:\nUpdate",
+  "formal_name": "Monster Hunter™ 4 Ultimate:\nUpdate",
+  "description": "An update for Monster Hunter™ 4\nUltimate is now available from\nNintendo eShop.\n<br/><br/>\nThis will update the software to\nVersion 1.1 with the following\namendments:\n<br/><br/>\n- A section called “Gift Area” has\nbeen added to the download contents\nsection.\n<br/><br/>\nOnce the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+  "release_date_on_eshop": "2015-02-13",
+  "product_code": "CTR-U-BFGP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

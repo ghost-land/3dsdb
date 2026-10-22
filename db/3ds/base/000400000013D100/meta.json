@@ -25,5 +25,11 @@
   },
   "version": "v12.14.0",
   "disclaimer": "●ブロードバンドでのインターネット接続が必要です。\n<br>●SDカードの空き容量が100MB以上必要です。\n<br>●本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

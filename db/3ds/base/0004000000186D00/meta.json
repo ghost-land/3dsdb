@@ -29,5 +29,11 @@
   },
   "version": "v1.1.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>\nThe same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for the offer.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Upfall Studios",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

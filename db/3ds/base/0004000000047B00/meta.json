@@ -29,5 +29,12 @@
   "disclaimer": null,
   "descriptors": [
     "Fantasy Violence"
-  ]
+  ],
+  "publisher": "Majesco Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

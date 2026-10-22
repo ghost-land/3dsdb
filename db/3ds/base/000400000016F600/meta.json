@@ -32,5 +32,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "*This demo will be supported by online servers for a limited time beginning 7/21/2016. \n<br>\nOnce the online servers for the special demo are discontinued, online functions will still be available for this mode in the full Metroid Prime™: Federation Force game. Wireless Internet access required for online play. For more info, go to support.nintendo.com.\n<br><br>\n**Additional systems required for multiplayer mode. Sold separately.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -27,5 +27,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : 전국민 모델★오디션 슈퍼스타 2\n상호 : (주)사이버프론트코리아\n이용등급 : 전체이용가\n등급분류번호: CC-NV-120224-001\n등급분류 일자 : 2012.02.24.\n제작・배급업신고번호 : 2003000002  ",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CYBERFRONT KOREA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

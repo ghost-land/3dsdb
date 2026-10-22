@@ -1,21 +1,36 @@
 {
-    "tid": "0004000000062500",
-    "uid": "",
-    "name": "Kid Icarus: Uprising E3 Video",
-    "formal_name": "Kid Icarus: Uprising E3 Video",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JE3Y",
-    "platform_name": "",
-    "region": "Unknown Other",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000062500",
+  "uid": "",
+  "name": "Kid Icarus: Uprising E3 Video",
+  "formal_name": "Kid Icarus: Uprising E3 Video",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JE3Y",
+  "platform_name": "",
+  "region": "Unknown Other",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

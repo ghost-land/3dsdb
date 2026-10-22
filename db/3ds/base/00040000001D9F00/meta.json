@@ -1,21 +1,37 @@
 {
-    "tid": "00040000001D9F00",
-    "uid": "",
-    "name": "Pinball Breakout 3",
-    "formal_name": "Pinball Breakout 3",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-BBDE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001D9F00",
+  "uid": "",
+  "name": "Pinball Breakout 3",
+  "formal_name": "Pinball Breakout 3",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-BBDE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "nuGAME",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

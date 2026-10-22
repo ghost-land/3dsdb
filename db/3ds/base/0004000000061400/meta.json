@@ -31,5 +31,12 @@
   "descriptors": [
     "Mild Cartoon Violence",
     "Simulated Gambling"
-  ]
+  ],
+  "publisher": "2K Play",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

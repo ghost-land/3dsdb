@@ -25,5 +25,13 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Zarpazo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData",
+      "New3DS"
+    ]
+  }
 }

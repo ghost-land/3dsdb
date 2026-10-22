@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E001D6800",
-    "uid": "50010000047695",
-    "name": "YO-KAI WATCH™ 3:\nUpdate",
-    "formal_name": "YO-KAI WATCH™ 3:\n<br>Update",
-    "description": "An update for \"YO-KAI WATCH™ 3\" is now available from Nintendo eShop.\n<br>All customers who own a copy of “YO-KAI WATCH™ 3” should download the update.\n<br>This will update the software to Version 1.2 with the following amendments: \n<br>\n<br>\n<br>- Various bugs have been fixed in\n<br>order to provide a smoother gaming\n<br>experience.\n<br>\n<br>\n<br>• Once the update has been\n<br>downloaded, it will be installed\n<br>automatically.\n<br>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
-    "release_date_on_eshop": "2019-03-12",
-    "product_code": "CTR-U-ALZP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001D6800",
+  "uid": "50010000047695",
+  "name": "YO-KAI WATCH™ 3:\nUpdate",
+  "formal_name": "YO-KAI WATCH™ 3:\n<br>Update",
+  "description": "An update for \"YO-KAI WATCH™ 3\" is now available from Nintendo eShop.\n<br>All customers who own a copy of “YO-KAI WATCH™ 3” should download the update.\n<br>This will update the software to Version 1.2 with the following amendments: \n<br>\n<br>\n<br>- Various bugs have been fixed in\n<br>order to provide a smoother gaming\n<br>experience.\n<br>\n<br>\n<br>• Once the update has been\n<br>downloaded, it will be installed\n<br>automatically.\n<br>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
+  "release_date_on_eshop": "2019-03-12",
+  "product_code": "CTR-U-ALZP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

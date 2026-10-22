@@ -1,23 +1,39 @@
 {
-    "tid": "0004000E001AAA00",
-    "uid": "50010000042248",
-    "name": "Dragon Ball Fusions: Update",
-    "formal_name": "Dragon Ball Fusions: Update",
-    "description": "Expand your Dragon Ball Fusions experience with additional content: \n<br>• New characters: Goku Black, SSGSS Vegito, Zamasu and more!\n<br>• New clothes\n<br>• New titles\n<br>• New special moves\n<br>\n<br>POWER UP FOR MAXIMUM FUSION!",
-    "release_date_on_eshop": "2017-02-17",
-    "product_code": "CTR-U-BDLP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001AAA00",
+  "uid": "50010000042248",
+  "name": "Dragon Ball Fusions: Update",
+  "formal_name": "Dragon Ball Fusions: Update",
+  "description": "Expand your Dragon Ball Fusions experience with additional content: \n<br>• New characters: Goku Black, SSGSS Vegito, Zamasu and more!\n<br>• New clothes\n<br>• New titles\n<br>• New special moves\n<br>\n<br>POWER UP FOR MAXIMUM FUSION!",
+  "release_date_on_eshop": "2017-02-17",
+  "product_code": "CTR-U-BDLP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BNEI",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

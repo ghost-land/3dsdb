@@ -1,21 +1,30 @@
 {
-    "tid": "00040002000ADA01",
-    "uid": "",
-    "name": "ピカピカナース物語２たいけんばん",
-    "formal_name": "ピカピカナース物語２たいけんばん",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-ANAJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000ADA01",
+  "uid": "",
+  "name": "ピカピカナース物語２たいけんばん",
+  "formal_name": "ピカピカナース物語２たいけんばん",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-ANAJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "NIPPON COLUMBIA CO., LTD.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

@@ -1,21 +1,30 @@
 {
-    "tid": "000400000005BF00",
-    "uid": "",
-    "name": "[E3出展映像 3D版] - スターフォックス64 3D",
-    "formal_name": "[E3出展映像 3D版] - スターフォックス64 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JEZJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005BF00",
+  "uid": "",
+  "name": "[E3出展映像 3D版] - スターフォックス64 3D",
+  "formal_name": "[E3出展映像 3D版] - スターフォックス64 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JEZJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

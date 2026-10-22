@@ -1,21 +1,37 @@
 {
-    "tid": "0004000000139700",
-    "uid": "",
-    "name": "Big Hero 6 - Battle in the Bay",
-    "formal_name": "Big Hero 6 - Battle in the Bay",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BH6P",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000139700",
+  "uid": "",
+  "name": "Big Hero 6 - Battle in the Bay",
+  "formal_name": "Big Hero 6 - Battle in the Bay",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BH6P",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "GSP",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

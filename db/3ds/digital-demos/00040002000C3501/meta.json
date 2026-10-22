@@ -1,21 +1,37 @@
 {
-    "tid": "00040002000C3501",
-    "uid": "",
-    "name": "（体験版）脱出アドベンチャー - 魔女の住む館",
-    "formal_name": "（体験版）脱出アドベンチャー - 魔女の住む館",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JUMJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000C3501",
+  "uid": "",
+  "name": "（体験版）脱出アドベンチャー - 魔女の住む館",
+  "formal_name": "（体験版）脱出アドベンチャー - 魔女の住む館",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JUMJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "アークシステムワークス",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

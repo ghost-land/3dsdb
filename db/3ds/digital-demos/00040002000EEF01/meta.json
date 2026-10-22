@@ -1,21 +1,38 @@
 {
-    "tid": "00040002000EEF01",
-    "uid": "",
-    "name": "マル合格！　行政書士試験(体験版)",
-    "formal_name": "マル合格！　行政書士試験(体験版)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JY6J",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000EEF01",
+  "uid": "",
+  "name": "マル合格！　行政書士試験(体験版)",
+  "formal_name": "マル合格！　行政書士試験(体験版)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JY6J",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "media5",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

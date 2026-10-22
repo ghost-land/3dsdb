@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000E7200",
-    "uid": "",
-    "name": "(Demo) The Chase Begins",
-    "formal_name": "(Demo) The Chase Begins",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-B-AA8E",
-    "platform_name": "",
-    "region": "Kiosk Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000E7200",
+  "uid": "",
+  "name": "(Demo) The Chase Begins",
+  "formal_name": "(Demo) The Chase Begins",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-B-AA8E",
+  "platform_name": "",
+  "region": "Kiosk Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "AutoBoot",
+      "Allow3D"
+    ]
+  }
 }

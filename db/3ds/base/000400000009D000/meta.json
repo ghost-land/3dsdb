@@ -30,5 +30,12 @@
   "descriptors": [
     "Cartoon Violence",
     "Comic Mischief"
-  ]
+  ],
+  "publisher": "D3Publisher",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,30 @@
 {
-    "tid": "00040002000E9A01",
-    "uid": "",
-    "name": "シアトリズム FF - カーテンコール（体験版）",
-    "formal_name": "シアトリズム FF - カーテンコール（体験版）",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-BTHJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000E9A01",
+  "uid": "",
+  "name": "シアトリズム FF - カーテンコール（体験版）",
+  "formal_name": "シアトリズム FF - カーテンコール（体験版）",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-BTHJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

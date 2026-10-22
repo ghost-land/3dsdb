@@ -1,21 +1,34 @@
 {
-    "tid": "000400000004F600",
-    "uid": "",
-    "name": "NCIS 3D",
-    "formal_name": "NCIS 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ANCP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004F600",
+  "uid": "",
+  "name": "NCIS 3D",
+  "formal_name": "NCIS 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ANCP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "16"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

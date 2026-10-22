@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C00101200",
-    "uid": "",
-    "name": "ぷよぷよテトリス",
-    "formal_name": "ぷよぷよテトリス",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BPTJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00101200",
+  "uid": "",
+  "name": "ぷよぷよテトリス",
+  "formal_name": "ぷよぷよテトリス",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BPTJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

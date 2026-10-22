@@ -1,21 +1,37 @@
 {
-    "tid": "00040002000C2D01",
-    "uid": "",
-    "name": "HarmoKnight Demo version",
-    "formal_name": "HarmoKnight Demo version",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-AQ7E",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000C2D01",
+  "uid": "",
+  "name": "HarmoKnight Demo version",
+  "formal_name": "HarmoKnight Demo version",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-AQ7E",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

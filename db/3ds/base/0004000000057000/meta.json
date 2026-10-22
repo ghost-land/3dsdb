@@ -25,9 +25,16 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Violence"
-  ]
+  ],
+  "publisher": "Ubisoft Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

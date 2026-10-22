@@ -30,5 +30,12 @@
   },
   "version": "v0.0.1",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "dtp young entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

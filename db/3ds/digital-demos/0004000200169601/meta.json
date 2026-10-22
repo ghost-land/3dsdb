@@ -25,9 +25,16 @@
     "name": "ESRB",
     "age": "13"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [
     "Cartoon Violence"
-  ]
+  ],
+  "publisher": "BNEE",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

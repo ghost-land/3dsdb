@@ -1,23 +1,41 @@
 {
-    "tid": "0004000E0F70DE00",
-    "uid": "50010000044256",
-    "name": "업데이트 데이터 Ver1.5.0\nFire Emblem Warriors (일본어)",
-    "formal_name": "업데이트 데이터 Ver1.5.0\nFire Emblem Warriors (일본어)",
-    "description": "New 닌텐도 3DS 소프트웨어\n「Fire Emblem Warriors(일본어)」의 업데이트 데이터입니다.「Fire Emblem Warriors(일본어)」를 갖고 계신 고객님께서는 반드시 다운로드해 주십시오.\n\nVer. 1.5.0 (2018.3.29 배포)\n● 주요 수정 내용\n・추가 콘텐츠에 대응\n 「Fire Emblem Awakening DLC\n  Pack」에 대응했습니다\n・캐릭터 레벨 상한을 업데이트\n  레벨의 최대치가「150」이 되었습니다\n・무기 특성 추가\n 「Legendary」 를 추가했습니다\n・Blessing 추가\n  새로운 Blessing을 추가했습니다\n・Crest 추가\n  새로운 Crest를 추가했습니다\n・레벨 초기화 추가\n  스토리 클리어 후, Temple에서\n  캐릭터의 레벨을 초기화할 수 있게\n  되었습니다\n・Blessing 유지 기능 추가 \n　Temple에 가지 않고도 지난 전투와\n  동일한 Blessing을 받을 수 있는\n  기능을 설정할 수 있게 되었습니다.\n・Credits 업데이트\n・UI의 미세한 개선\n・기타 오류 수정",
-    "release_date_on_eshop": "2018-03-29",
-    "product_code": "KTR-U-CFMY",
-    "platform_name": "업데이트 데이터",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "닌텐도 3DS 소프트웨어 「Fire Emblem Warriors (일본어)」의 업데이트 데이터입니다. 본 데이터는 다운로드한 후에 HOME 메뉴에 아이콘이 표시되지 않습니다.\n｢본체 설정｣의 ｢데이터 관리｣→｢추가 콘텐츠 관리｣에 본 데이터가 표시됩니다.\n삭제하지 않도록 주의해 주십시오.",
-    "descriptors": []
+  "tid": "0004000E0F70DE00",
+  "uid": "50010000044256",
+  "name": "업데이트 데이터 Ver1.5.0\nFire Emblem Warriors (일본어)",
+  "formal_name": "업데이트 데이터 Ver1.5.0\nFire Emblem Warriors (일본어)",
+  "description": "New 닌텐도 3DS 소프트웨어\n「Fire Emblem Warriors(일본어)」의 업데이트 데이터입니다.「Fire Emblem Warriors(일본어)」를 갖고 계신 고객님께서는 반드시 다운로드해 주십시오.\n\nVer. 1.5.0 (2018.3.29 배포)\n● 주요 수정 내용\n・추가 콘텐츠에 대응\n 「Fire Emblem Awakening DLC\n  Pack」에 대응했습니다\n・캐릭터 레벨 상한을 업데이트\n  레벨의 최대치가「150」이 되었습니다\n・무기 특성 추가\n 「Legendary」 를 추가했습니다\n・Blessing 추가\n  새로운 Blessing을 추가했습니다\n・Crest 추가\n  새로운 Crest를 추가했습니다\n・레벨 초기화 추가\n  스토리 클리어 후, Temple에서\n  캐릭터의 레벨을 초기화할 수 있게\n  되었습니다\n・Blessing 유지 기능 추가 \n　Temple에 가지 않고도 지난 전투와\n  동일한 Blessing을 받을 수 있는\n  기능을 설정할 수 있게 되었습니다.\n・Credits 업데이트\n・UI의 미세한 개선\n・기타 오류 수정",
+  "release_date_on_eshop": "2018-03-29",
+  "product_code": "KTR-U-CFMY",
+  "platform_name": "업데이트 데이터",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "12"
+  },
+  "version": "v4.4.0",
+  "disclaimer": "닌텐도 3DS 소프트웨어 「Fire Emblem Warriors (일본어)」의 업데이트 데이터입니다. 본 데이터는 다운로드한 후에 HOME 메뉴에 아이콘이 표시되지 않습니다.\n｢본체 설정｣의 ｢데이터 관리｣→｢추가 콘텐츠 관리｣에 본 데이터가 표시됩니다.\n삭제하지 않도록 주의해 주십시오.",
+  "descriptors": [],
+  "publisher": "KOEI TECMO GAMES",
+  "smdh": {
+    "flags": [
+      "SaveData",
+      "New3DS"
+    ]
+  }
 }

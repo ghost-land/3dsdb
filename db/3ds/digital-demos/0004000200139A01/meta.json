@@ -1,21 +1,30 @@
 {
-    "tid": "0004000200139A01",
-    "uid": "",
-    "name": "コロロケの森 ぽいっと - 体験版",
-    "formal_name": "コロロケの森 ぽいっと - 体験版",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-KRRJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200139A01",
+  "uid": "",
+  "name": "コロロケの森 ぽいっと - 体験版",
+  "formal_name": "コロロケの森 ぽいっと - 体験版",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-KRRJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Gamedo,Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

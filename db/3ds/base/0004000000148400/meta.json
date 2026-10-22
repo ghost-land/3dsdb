@@ -19,10 +19,16 @@
     "fr"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "v2.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Collavier",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

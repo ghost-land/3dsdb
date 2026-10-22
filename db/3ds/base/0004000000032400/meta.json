@@ -29,5 +29,12 @@
   "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n",
   "descriptors": [
     "Mild Violence"
-  ]
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

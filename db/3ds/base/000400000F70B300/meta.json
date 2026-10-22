@@ -1,21 +1,38 @@
 {
-    "tid": "000400000F70B300",
-    "uid": "",
-    "name": "Breakout Defense",
-    "formal_name": "Breakout Defense",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "KTR-N-CBBE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F70B300",
+  "uid": "",
+  "name": "Breakout Defense",
+  "formal_name": "Breakout Defense",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "KTR-N-CBBE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "nuGAME",
+  "smdh": {
+    "flags": [
+      "New3DS",
+      "SaveData"
+    ]
+  }
 }

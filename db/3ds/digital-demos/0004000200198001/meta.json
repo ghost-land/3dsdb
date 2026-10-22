@@ -22,7 +22,13 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "ARC SYSTEM WORKS CO.,LTD.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

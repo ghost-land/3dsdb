@@ -1,24 +1,33 @@
 {
-    "tid": "000400000019B900",
-    "uid": "50010000041256",
-    "name": "Shift DX",
-    "formal_name": "Shift DX",
-    "description": "『Shift DX』는 명작 퍼즐 게임 SHIFT를 닌텐도 3DS로 리메이크하여 신요소를 추가한 타이틀입니다.\n깊은 사고가 필요한 2D의 심플한 퍼즐 액션 게임 조작성은 남기고, 자신이 생각한 스테이지를 QR Code로 배포할 수 있는 등, 새로운 요소도 제공합니다.",
-    "release_date_on_eshop": "2016-08-03",
-    "product_code": "CTR-N-KDXY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "퍼즐"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Shift DX\n상호:COSEN\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160429-006\n등급분류 일자:2016.4.29\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어 \n    자막: 일본어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "000400000019B900",
+  "uid": "50010000041256",
+  "name": "Shift DX",
+  "formal_name": "Shift DX",
+  "description": "『Shift DX』는 명작 퍼즐 게임 SHIFT를 닌텐도 3DS로 리메이크하여 신요소를 추가한 타이틀입니다.\n깊은 사고가 필요한 2D의 심플한 퍼즐 액션 게임 조작성은 남기고, 자신이 생각한 스테이지를 QR Code로 배포할 수 있는 등, 새로운 요소도 제공합니다.",
+  "release_date_on_eshop": "2016-08-03",
+  "product_code": "CTR-N-KDXY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "퍼즐"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Shift DX\n상호:COSEN\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160429-006\n등급분류 일자:2016.4.29\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어 \n    자막: 일본어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "COSEN",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

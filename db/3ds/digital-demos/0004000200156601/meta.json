@@ -24,10 +24,17 @@
     "name": "ESRB",
     "age": "13"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [
     "Violence",
     "Blood"
-  ]
+  ],
+  "publisher": "ARC SYSTEM WORKS",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

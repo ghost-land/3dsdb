@@ -1,21 +1,34 @@
 {
-    "tid": "00040000000FD400",
-    "uid": "",
-    "name": "Boulder Dash-XL 3D",
-    "formal_name": "Boulder Dash-XL 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-ABZZ",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FD400",
+  "uid": "",
+  "name": "Boulder Dash-XL 3D",
+  "formal_name": "Boulder Dash-XL 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-ABZZ",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Reef Entertainment Ltd.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

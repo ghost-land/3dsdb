@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000074300",
-    "uid": "",
-    "name": "My Pet Puppy 3D",
-    "formal_name": "My Pet Puppy 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AMYE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000074300",
+  "uid": "",
+  "name": "My Pet Puppy 3D",
+  "formal_name": "My Pet Puppy 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AMYE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "505 Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

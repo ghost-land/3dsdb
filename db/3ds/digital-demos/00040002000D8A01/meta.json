@@ -1,21 +1,30 @@
 {
-    "tid": "00040002000D8A01",
-    "uid": "",
-    "name": "（体験版）もののけ探偵 - 信太のあやかし事件帳",
-    "formal_name": "（体験版）もののけ探偵 - 信太のあやかし事件帳",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JMHJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000D8A01",
+  "uid": "",
+  "name": "（体験版）もののけ探偵 - 信太のあやかし事件帳",
+  "formal_name": "（体験版）もののけ探偵 - 信太のあやかし事件帳",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JMHJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ARC SYSTEM WORKS",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

@@ -1,27 +1,38 @@
 {
-    "tid": "000400000019A100",
-    "uid": "50010000040499",
-    "name": "Magic Hammer (日文版)",
-    "formal_name": "Magic Hammer (日文版)",
-    "description": "一人或二人亦能享受的開放世界RPG。\n\n在「ストーリーモード(故事模式)」中開始冒險之旅吧\n・透過「キャラクターメイク(角色打扮)」創作自己的人像吧。\n・跟Magic Hammer一起驅逐鬼魂及修復村莊的神殿吧。\n・為了取回Magic Hammer的記憶通過任務吧。\n・培養斧頭令它記著技能及魔法吧。\n・試試飼養寵物、創造建築物看吧。\n\n在「クリエイティブモード(創意模式)」中自由地享受開放世界吧\n・可以設定木、水及動物為有或沒有。也能創作完全平坦的世界。\n\n在「マルチプレイ(多人遊戲)」中跟朋友一起遊玩自己所創造的世界吧。\n・「ストーリーモード(故事模式)」及「クリエイティブモード(創意模式)」兩邊的世界也能遊玩。\n・不僅只跟附近的人遊玩，也能透過網路跟遠方的人遊玩。",
-    "release_date_on_eshop": "2016-06-01",
-    "product_code": "CTR-N-KHMZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "角色扮演"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "000400000019A100",
+  "uid": "50010000040499",
+  "name": "Magic Hammer (日文版)",
+  "formal_name": "Magic Hammer (日文版)",
+  "description": "一人或二人亦能享受的開放世界RPG。\n\n在「ストーリーモード(故事模式)」中開始冒險之旅吧\n・透過「キャラクターメイク(角色打扮)」創作自己的人像吧。\n・跟Magic Hammer一起驅逐鬼魂及修復村莊的神殿吧。\n・為了取回Magic Hammer的記憶通過任務吧。\n・培養斧頭令它記著技能及魔法吧。\n・試試飼養寵物、創造建築物看吧。\n\n在「クリエイティブモード(創意模式)」中自由地享受開放世界吧\n・可以設定木、水及動物為有或沒有。也能創作完全平坦的世界。\n\n在「マルチプレイ(多人遊戲)」中跟朋友一起遊玩自己所創造的世界吧。\n・「ストーリーモード(故事模式)」及「クリエイティブモード(創意模式)」兩邊的世界也能遊玩。\n・不僅只跟附近的人遊玩，也能透過網路跟遠方的人遊玩。",
+  "release_date_on_eshop": "2016-06-01",
+  "product_code": "CTR-N-KHMZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "角色扮演"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "Cosen",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

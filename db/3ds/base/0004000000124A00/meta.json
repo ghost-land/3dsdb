@@ -28,5 +28,12 @@
   },
   "version": "v3.5.0",
   "disclaimer": "本ソフトは無料でダウンロードできますが、ゲームを遊ぶには有料でシナリオをご購入いただく必要があります。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

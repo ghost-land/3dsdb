@@ -29,7 +29,14 @@
     "name": "USK",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Rising Star Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

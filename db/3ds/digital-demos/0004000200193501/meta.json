@@ -1,21 +1,25 @@
 {
-    "tid": "0004000200193501",
-    "uid": "",
-    "name": "テラリア 体験版",
-    "formal_name": "テラリア 体験版",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-BTEJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200193501",
+  "uid": "",
+  "name": "テラリア 体験版",
+  "formal_name": "テラリア 体験版",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-BTEJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Spike Chunsoft Co., Ltd."
 }

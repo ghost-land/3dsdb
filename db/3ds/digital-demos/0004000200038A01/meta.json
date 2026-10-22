@@ -29,7 +29,7 @@
     "name": "ESRB",
     "age": "13"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
   "descriptors": [
     "Mild Language",
@@ -38,5 +38,11 @@
     "Blood",
     "Use of Alcohol",
     "Partial Nudity"
-  ]
+  ],
+  "publisher": "TECMO KOEI GAMES",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

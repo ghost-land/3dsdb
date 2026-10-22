@@ -21,5 +21,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "『ドラゴンクエストXI 過ぎ去りし時を求めて』をクリアして\"ある手順\"を踏むと、『ドラゴンクエスト』を無料でダウンロードできる期間限定のキャンペーンを実施中です。\n<br>（開催期間：2018年1月28日まで）\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

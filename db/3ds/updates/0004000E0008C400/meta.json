@@ -1,24 +1,41 @@
 {
-    "tid": "0004000E0008C400",
-    "uid": "50010000023037",
-    "name": "Tomodachi Life™: Update",
-    "formal_name": "Tomodachi Life™: Update",
-    "description": "An update for \"Tomodachi Life™\" is\nnow available from Nintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Tomodachi Life™” should download\nthe update.\n<br/><br/>\nThis will update the software to\nVersion 2.0 with the following\namendments: \n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n- Dutch language is now available.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "release_date_on_eshop": "2014-06-06",
-    "product_code": "CTR-U-EC6P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v3.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0008C400",
+  "uid": "50010000023037",
+  "name": "Tomodachi Life™: Update",
+  "formal_name": "Tomodachi Life™: Update",
+  "description": "An update for \"Tomodachi Life™\" is\nnow available from Nintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Tomodachi Life™” should download\nthe update.\n<br/><br/>\nThis will update the software to\nVersion 2.0 with the following\namendments: \n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n- Dutch language is now available.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+  "release_date_on_eshop": "2014-06-06",
+  "product_code": "CTR-U-EC6P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v3.4.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -29,5 +29,11 @@
   },
   "version": "v5.6.0",
   "disclaimer": "Offers in-game purchases.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

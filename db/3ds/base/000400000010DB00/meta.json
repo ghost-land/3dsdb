@@ -21,5 +21,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "※本遊戲有「中文」、「日文」、「英文」三種語言可以選擇。\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Flyhigh Works",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

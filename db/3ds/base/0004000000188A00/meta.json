@@ -25,5 +25,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "*주의사항*\n제명:열혈경파 쿠니오군SP 난투협주곡\n상호:신세계아이앤씨\n이용등급:15세이용가\n등급분류번호:GC-CC-NV-151113-005\n등급분류 일자:2015.11.13\n제작・배급업신고번호:제2015-03호",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Shinsegae I&C",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

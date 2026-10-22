@@ -28,5 +28,12 @@
   },
   "version": "v1.1.0",
   "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Ubisoft Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

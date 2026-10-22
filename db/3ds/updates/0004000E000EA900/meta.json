@@ -1,25 +1,42 @@
 {
-    "tid": "0004000E000EA900",
-    "uid": "50010000021353",
-    "name": "Disney Magical World\nUpdate Ver. 1.1",
-    "formal_name": "Disney Magical World\nUpdate Ver. 1.1",
-    "description": "This is an update for Disney Magical World--if you own Disney Magical World, we recommend downloading it.\n<br><br>\nThis update adds several messages to clarify and optimize your experience when playing Disney Magical World.",
-    "release_date_on_eshop": "2014-04-11",
-    "product_code": "CTR-U-AMQE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v1.3.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-    "descriptors": [
-        "Mild Cartoon Violence"
+  "tid": "0004000E000EA900",
+  "uid": "50010000021353",
+  "name": "Disney Magical World\nUpdate Ver. 1.1",
+  "formal_name": "Disney Magical World\nUpdate Ver. 1.1",
+  "description": "This is an update for Disney Magical World--if you own Disney Magical World, we recommend downloading it.\n<br><br>\nThis update adds several messages to clarify and optimize your experience when playing Disney Magical World.",
+  "release_date_on_eshop": "2014-04-11",
+  "product_code": "CTR-U-AMQE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v1.3.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
     ]
+  }
 }

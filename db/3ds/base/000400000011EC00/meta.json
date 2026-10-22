@@ -1,21 +1,38 @@
 {
-    "tid": "000400000011EC00",
-    "uid": "",
-    "name": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D",
-    "formal_name": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BMRP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000011EC00",
+  "uid": "",
+  "name": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D",
+  "formal_name": "2in1 Horses 3D Vol.2 - Rivals in the Saddle and Jumping for the Team 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BMRP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "TREVA Entertainment GmbH",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

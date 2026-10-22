@@ -22,11 +22,16 @@
     "ru"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "CERO",
+    "age": "A"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
-  "publisher": "NAMCO BANDAI Games Inc."
+  "publisher": "NAMCO BANDAI Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

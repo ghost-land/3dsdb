@@ -1,21 +1,40 @@
 {
-    "tid": "00040000000EC500",
-    "uid": "",
-    "name": "Pokémon X (Debug Build)",
-    "formal_name": "Pokémon X (Debug Build)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-NADA",
-    "platform_name": "",
-    "region": "Unknown Other",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EC500",
+  "uid": "",
+  "name": "Pokémon X (Debug Build)",
+  "formal_name": "Pokémon X (Debug Build)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-NADA",
+  "platform_name": "",
+  "region": "Unknown Other",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

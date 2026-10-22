@@ -1,21 +1,40 @@
 {
-    "tid": "00040000000AAB00",
-    "uid": "",
-    "name": "Monster High - Skultimate Roller Maze",
-    "formal_name": "Monster High - Skultimate Roller Maze",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AH5E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AAB00",
+  "uid": "",
+  "name": "Monster High - Skultimate Roller Maze",
+  "formal_name": "Monster High - Skultimate Roller Maze",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AH5E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Little Orbit",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

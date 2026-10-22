@@ -31,5 +31,12 @@
   "descriptors": [
     "Animated Blood",
     "Cartoon Violence"
-  ]
+  ],
+  "publisher": "Konami Digital Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

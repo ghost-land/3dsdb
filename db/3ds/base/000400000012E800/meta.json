@@ -27,7 +27,14 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Moving Player",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

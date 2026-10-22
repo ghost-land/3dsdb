@@ -24,10 +24,17 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v20.26.0",
   "disclaimer": "2022年9月12日(月) 12:00 をもって、プレミアムチケットの販売を終了いたしました。\n<br>2023年2月28日(火) 9:00 をもって、本ソフトの配信を終了いたしました。\n<br>2023年3月31日(金) 23:59 をもって、ニンテンドー3DSでのサービスを終了します。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "DWANGO Co.,Ltd.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

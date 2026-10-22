@@ -22,7 +22,14 @@
     "name": "PEGI",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "Warning: Viewing of 3D images by\nchildren 6 and under may cause vision\ndamage. Use the parental control\nfeature to restrict the display of 3D\nimages for children 6 and under.\n<br/><br/>\nWarning: If you have epilepsy or have\nhad seizures or other unusual\nreactions to flashing lights or\npatterns, consult a doctor before\nplaying video games.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NIS America, Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

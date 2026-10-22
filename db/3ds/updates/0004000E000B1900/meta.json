@@ -1,23 +1,39 @@
 {
-    "tid": "0004000E000B1900",
-    "uid": "50010000031236",
-    "name": "Phonics Fun with Biff,\nChip & Kipper vol. 3: Update",
-    "formal_name": "Phonics Fun with Biff,\nChip & Kipper vol. 3: Update",
-    "description": "An update for Phonics Fun with Biff,\nChip & Kipper vol. 3 is now available\nfrom Nintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Phonics Fun with Biff, Chip & Kipper\nvol. 3” should download the update.\n<br/><br/>\nThis will update the software to\nVersion 1.1 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.",
-    "release_date_on_eshop": "2015-02-26",
-    "product_code": "CTR-U-AX3P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000B1900",
+  "uid": "50010000031236",
+  "name": "Phonics Fun with Biff,\nChip & Kipper vol. 3: Update",
+  "formal_name": "Phonics Fun with Biff,\nChip & Kipper vol. 3: Update",
+  "description": "An update for Phonics Fun with Biff,\nChip & Kipper vol. 3 is now available\nfrom Nintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Phonics Fun with Biff, Chip & Kipper\nvol. 3” should download the update.\n<br/><br/>\nThis will update the software to\nVersion 1.1 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.",
+  "release_date_on_eshop": "2015-02-26",
+  "product_code": "CTR-U-AX3P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

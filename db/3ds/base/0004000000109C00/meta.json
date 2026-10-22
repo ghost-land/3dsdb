@@ -1,26 +1,36 @@
 {
-    "tid": "0004000000109C00",
-    "uid": "50010000018213",
-    "name": "Heyawake by Nikoli",
-    "formal_name": "Heyawake by Nikoli",
-    "description": "\"Heyawake\" 란 규칙에 따라 칸을 채우는 퍼즐입니다. 판이 방처럼 나누어져 있다는 의미로 \"Heyawake\" 라는 이름으로 불려집니다. 1992년에 등장한 퍼즐로 다양한 해결 방법이 개발되어\n매우 발전되어 있는 퍼즐이기도 합니다. \n실마리를 하나씩 발견할 때마다 퍼즐을 푸는 즐거움도 늘어납니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2013-11-26",
-    "product_code": "CTR-N-JHWZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "퍼즐"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "로컬 플레이 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Heyawake by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131025-003\n등급분류 일자 : 2013.10.25.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
-    "descriptors": []
+  "tid": "0004000000109C00",
+  "uid": "50010000018213",
+  "name": "Heyawake by Nikoli",
+  "formal_name": "Heyawake by Nikoli",
+  "description": "\"Heyawake\" 란 규칙에 따라 칸을 채우는 퍼즐입니다. 판이 방처럼 나누어져 있다는 의미로 \"Heyawake\" 라는 이름으로 불려집니다. 1992년에 등장한 퍼즐로 다양한 해결 방법이 개발되어\n매우 발전되어 있는 퍼즐이기도 합니다. \n실마리를 하나씩 발견할 때마다 퍼즐을 푸는 즐거움도 늘어납니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2013-11-26",
+  "product_code": "CTR-N-JHWZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "퍼즐"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "로컬 플레이 대응"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Heyawake by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131025-003\n등급분류 일자 : 2013.10.25.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
+  "descriptors": [],
+  "publisher": "HAMSTER",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

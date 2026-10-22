@@ -23,5 +23,11 @@
   },
   "version": "v1.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CIRCLE Ent.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

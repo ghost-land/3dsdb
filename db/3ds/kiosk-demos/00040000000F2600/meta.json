@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000F2600",
-    "uid": "",
-    "name": "パズドラＺ - コロコロコミック限定体験版",
-    "formal_name": "パズドラＺ - コロコロコミック限定体験版",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-H-ANFJ",
-    "platform_name": "",
-    "region": "Kiosk Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F2600",
+  "uid": "",
+  "name": "パズドラＺ - コロコロコミック限定体験版",
+  "formal_name": "パズドラＺ - コロコロコミック限定体験版",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-H-ANFJ",
+  "platform_name": "",
+  "region": "Kiosk Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "GungHo Online Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

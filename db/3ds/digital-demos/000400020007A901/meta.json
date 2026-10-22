@@ -1,21 +1,37 @@
 {
-    "tid": "000400020007A901",
-    "uid": "",
-    "name": "LEGO® LotR",
-    "formal_name": "LEGO® LotR",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-ALAE",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400020007A901",
+  "uid": "",
+  "name": "LEGO® LotR",
+  "formal_name": "LEGO® LotR",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-ALAE",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

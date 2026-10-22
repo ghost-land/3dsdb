@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00137800",
-    "uid": "50010000038935",
-    "name": "Puzzle & Dragons Z",
-    "formal_name": "Puzzle & Dragons Z + Puzzle &\nDragons: Super Mario Bros. Edition: Update",
-    "description": "An update for Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition is now available from Nintendo eShop.\nAll customers who own a copy of Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition should download the update.\nThis will update the software to Version 2.0 with the following amendments: \n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "release_date_on_eshop": "2015-12-24",
-    "product_code": "CTR-U-AZGP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00137800",
+  "uid": "50010000038935",
+  "name": "Puzzle & Dragons Z",
+  "formal_name": "Puzzle & Dragons Z + Puzzle &\nDragons: Super Mario Bros. Edition: Update",
+  "description": "An update for Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition is now available from Nintendo eShop.\nAll customers who own a copy of Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition should download the update.\nThis will update the software to Version 2.0 with the following amendments: \n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+  "release_date_on_eshop": "2015-12-24",
+  "product_code": "CTR-U-AZGP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

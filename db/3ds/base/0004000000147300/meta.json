@@ -26,5 +26,11 @@
   },
   "version": "v1.0.1",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Joindots GmbH",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

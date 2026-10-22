@@ -33,5 +33,12 @@
     "Suggestive Themes",
     "Use of Alcohol",
     "Violence"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

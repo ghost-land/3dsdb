@@ -28,5 +28,12 @@
   "disclaimer": null,
   "descriptors": [
     "Mild Violence"
-  ]
+  ],
+  "publisher": "Activision",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,25 +1,41 @@
 {
-    "tid": "0004000000194300",
-    "uid": "50010000041505",
-    "name": "Adventure Labyrinth Story",
-    "formal_name": "Adventure Labyrinth Story",
-    "description": "Adventure Labyrinth Story is a rogue-like RPG that challenges the unknown dungeon. To bring back the legendary treasure, you need to enter the depth of the dungeon, find weapon and shield, use magic rod and potion to fight against monster and raise your level.\n\n<br>Every time the dungeon you enter is different in structure. The obtainable items and encounterable monsters also change. You can challenge it again and again even it is cleared.\n\n<br>If you are defeated, the obtained items will be all lost. The level will reset to 1. \n\n<br>The ingredients you collect from the dungeon can be cooked in the bar to make food, which can grant positive effect and EXP for the next adventure.\n\n<br>Fully use the items to deal with the monsters, find rare treasure to reveal the mystery of the labyrinth!",
-    "release_date_on_eshop": "2016-09-01",
-    "product_code": "CTR-N-KFNE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "RPG"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Mild Fantasy Violence"
+  "tid": "0004000000194300",
+  "uid": "50010000041505",
+  "name": "Adventure Labyrinth Story",
+  "formal_name": "Adventure Labyrinth Story",
+  "description": "Adventure Labyrinth Story is a rogue-like RPG that challenges the unknown dungeon. To bring back the legendary treasure, you need to enter the depth of the dungeon, find weapon and shield, use magic rod and potion to fight against monster and raise your level.\n\n<br>Every time the dungeon you enter is different in structure. The obtainable items and encounterable monsters also change. You can challenge it again and again even it is cleared.\n\n<br>If you are defeated, the obtained items will be all lost. The level will reset to 1. \n\n<br>The ingredients you collect from the dungeon can be cooked in the bar to make food, which can grant positive effect and EXP for the next adventure.\n\n<br>Fully use the items to deal with the monsters, find rare treasure to reveal the mystery of the labyrinth!",
+  "release_date_on_eshop": "2016-09-01",
+  "product_code": "CTR-N-KFNE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "RPG"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
+  "publisher": "CIRCLE Ent.",
+  "smdh": {
+    "flags": [
+      "SaveData"
     ]
+  }
 }

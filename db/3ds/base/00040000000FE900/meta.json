@@ -25,5 +25,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "本ダウンロード版にはパッケージ版に封入されている「SPEC～完～」を無料でダウンロードできる番号は付属しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -22,7 +22,7 @@
     "name": "ESRB",
     "age": "13"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [
     "Alcohol Reference",
@@ -30,5 +30,12 @@
     "Mild Language",
     "Suggestive Themes",
     "In-Game Purchases"
-  ]
+  ],
+  "publisher": "Deep Silver",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

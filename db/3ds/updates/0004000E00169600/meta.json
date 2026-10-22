@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00169600",
-    "uid": "50010000040037",
-    "name": "Dragon Ball Z: Extreme\nButoden Update",
-    "formal_name": "Dragon Ball Z: Extreme\nButoden Update",
-    "description": "This update brings new content\nto the game:\n-More than 10 new Z-Assists\ncharacters including Goku (Farmer),\nMira, Towa, Broly SS4…\n-Training Mode\n-Extreme Survival mode\n-Online Battle Mode to fight friends\naround the world",
-    "release_date_on_eshop": "2016-04-07",
-    "product_code": "CTR-U-BDVP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00169600",
+  "uid": "50010000040037",
+  "name": "Dragon Ball Z: Extreme\nButoden Update",
+  "formal_name": "Dragon Ball Z: Extreme\nButoden Update",
+  "description": "This update brings new content\nto the game:\n-More than 10 new Z-Assists\ncharacters including Goku (Farmer),\nMira, Towa, Broly SS4…\n-Training Mode\n-Extreme Survival mode\n-Online Battle Mode to fight friends\naround the world",
+  "release_date_on_eshop": "2016-04-07",
+  "product_code": "CTR-U-BDVP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BNEE",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

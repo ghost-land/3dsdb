@@ -1,21 +1,37 @@
 {
-    "tid": "00040000000D9400",
-    "uid": "",
-    "name": "The Beet Party - Episode 5 - Unidentified Flying Waffle",
-    "formal_name": "The Beet Party - Episode 5 - Unidentified Flying Waffle",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-MBGP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000D9400",
+  "uid": "",
+  "name": "The Beet Party - Episode 5 - Unidentified Flying Waffle",
+  "formal_name": "The Beet Party - Episode 5 - Unidentified Flying Waffle",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-MBGP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Red Rover Co. Ltd.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

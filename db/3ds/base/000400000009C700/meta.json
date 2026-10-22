@@ -1,21 +1,38 @@
 {
-    "tid": "000400000009C700",
-    "uid": "",
-    "name": "Planet Crashers",
-    "formal_name": "Planet Crashers",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JPLP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009C700",
+  "uid": "",
+  "name": "Planet Crashers",
+  "formal_name": "Planet Crashers",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JPLP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ignition Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

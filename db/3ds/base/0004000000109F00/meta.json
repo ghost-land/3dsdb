@@ -1,26 +1,36 @@
 {
-    "tid": "0004000000109F00",
-    "uid": "50010000020513",
-    "name": "Shikaku by Nikoli",
-    "formal_name": "Shikaku by Nikoli",
-    "description": "「Shikaku by Nikoli」는 주어진 힌트를 바탕으로 퍼즐 판을 사각으로 나눠가는 니코리 오리지널 퍼즐로, 알기 쉬운 규칙과 하나씩 풀어가는 재미를 느낄 수 있습니다. 진행 방법에 익숙하지 않다면 직감에 의지하기 쉽지만, 숫자에서 사각을 차근차근 늘려가는 해결법을 체득하면 더욱더 깊이 있는 「Shikaku by Nikoli」의 세계를 즐길 수 있습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2014-02-26",
-    "product_code": "CTR-N-JCQZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "퍼즐"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "로컬 플레이 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Shikaku by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131031-001\n등급분류 일자 : 2013.10.31.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
-    "descriptors": []
+  "tid": "0004000000109F00",
+  "uid": "50010000020513",
+  "name": "Shikaku by Nikoli",
+  "formal_name": "Shikaku by Nikoli",
+  "description": "「Shikaku by Nikoli」는 주어진 힌트를 바탕으로 퍼즐 판을 사각으로 나눠가는 니코리 오리지널 퍼즐로, 알기 쉬운 규칙과 하나씩 풀어가는 재미를 느낄 수 있습니다. 진행 방법에 익숙하지 않다면 직감에 의지하기 쉽지만, 숫자에서 사각을 차근차근 늘려가는 해결법을 체득하면 더욱더 깊이 있는 「Shikaku by Nikoli」의 세계를 즐길 수 있습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2014-02-26",
+  "product_code": "CTR-N-JCQZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "퍼즐"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "로컬 플레이 대응"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Shikaku by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131031-001\n등급분류 일자 : 2013.10.31.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
+  "descriptors": [],
+  "publisher": "HAMSTER",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

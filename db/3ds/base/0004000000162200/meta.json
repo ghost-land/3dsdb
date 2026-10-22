@@ -27,5 +27,12 @@
   },
   "version": "v6.9.0",
   "disclaimer": "本ソフトは3D表示に一部対応しております。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "タカラトミー",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

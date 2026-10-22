@@ -1,21 +1,25 @@
 {
-    "tid": "000400020014F801",
-    "uid": "",
-    "name": "七つの大罪 - 真実の冤罪（体験版）",
-    "formal_name": "七つの大罪 - 真実の冤罪（体験版）",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-BS7J",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400020014F801",
+  "uid": "",
+  "name": "七つの大罪 - 真実の冤罪（体験版）",
+  "formal_name": "七つの大罪 - 真実の冤罪（体験版）",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-BS7J",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "株式会社バンダイナムコゲームス"
 }

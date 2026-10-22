@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000ED500",
-    "uid": "",
-    "name": "Governor of Poker",
-    "formal_name": "Governor of Poker",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JGPE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000ED500",
+  "uid": "",
+  "name": "Governor of Poker",
+  "formal_name": "Governor of Poker",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JGPE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Teyon",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

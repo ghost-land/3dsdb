@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E000B9900",
-    "uid": "50010000033156",
-    "name": "Real Heroes: Firefighter 3D - Update",
-    "formal_name": "Real Heroes: Firefighter 3D - Update",
-    "description": "This is an update for Real Heroes:\nFirefighter 3D.",
-    "release_date_on_eshop": "2015-04-16",
-    "product_code": "CTR-U-ARHD",
-    "platform_name": "Update Data",
-    "region": "Germany",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000B9900",
+  "uid": "50010000033156",
+  "name": "Real Heroes: Firefighter 3D - Update",
+  "formal_name": "Real Heroes: Firefighter 3D - Update",
+  "description": "This is an update for Real Heroes:\nFirefighter 3D.",
+  "release_date_on_eshop": "2015-04-16",
+  "product_code": "CTR-U-ARHD",
+  "platform_name": "Update Data",
+  "region": "Germany",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "rondomedia",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

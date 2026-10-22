@@ -1,21 +1,31 @@
 {
-    "tid": "00040000000AC100",
-    "uid": "",
-    "name": "E3 2012 - ペーパーマリオ（仮称）",
-    "formal_name": "E3 2012 - ペーパーマリオ（仮称）",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-SNNJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AC100",
+  "uid": "",
+  "name": "E3 2012 - ペーパーマリオ（仮称）",
+  "formal_name": "E3 2012 - ペーパーマリオ（仮称）",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-SNNJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

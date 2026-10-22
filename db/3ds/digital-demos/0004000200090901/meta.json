@@ -25,7 +25,13 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v1.0.0",
   "disclaimer": "体験版は「柴 & Newフレンズ」のソフト情報画面からダウンロードできます。\n<br>体験版では、柴、トイ･プードル、フレンチ･ブルから一緒にあそぶ犬種が選べます。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

@@ -1,26 +1,37 @@
 {
-    "tid": "0004000000161400",
-    "uid": "50010000032135",
-    "name": "BIKE RIDER DX2 GALAXY",
-    "formal_name": "BIKE RIDER DX2 GALAXY",
-    "description": "자전거가 우주로 여행을 떠난다! \n울퉁불퉁한 길이나 벽을 뛰어 넘어 달리는 액션 게임이 진화! \n바위를 부시는 드릴 자전거나 높이 점프할 수 있는 개구리 자전거로 변신하여 여러 혹성을 폭주해 보세요. 타오르는 불꽃과 광선, 재미있는 트릭들을 피해가면서 메달도 모두 모아보세요! 자전거의 변신 아이템과 스테이지에서 할 수 있는 새로운 트릭들이 등장! 「GRANDPRIX」모드는 더욱 재미있고, 온라인 랭킹에도 대응! 전국의 플레이어와 점수를 경쟁하며 세계 ...... 아니, 우주 제일의 Bike Rider를 목표로 하세요!\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2015-03-25",
-    "product_code": "CTR-N-JGYZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [
-        "인터넷 대응",
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다.\n또한 본체의 사용설명서도 함께 읽어 주십시오.                           \n\n*주의사항*\n제명:BIKE RIDER DX2 GALAXY\n상호:Spicysoft\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150116-003\n등급분류 일자:2015.1.16\n제작・배급업신고번호:게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
-    "descriptors": []
+  "tid": "0004000000161400",
+  "uid": "50010000032135",
+  "name": "BIKE RIDER DX2 GALAXY",
+  "formal_name": "BIKE RIDER DX2 GALAXY",
+  "description": "자전거가 우주로 여행을 떠난다! \n울퉁불퉁한 길이나 벽을 뛰어 넘어 달리는 액션 게임이 진화! \n바위를 부시는 드릴 자전거나 높이 점프할 수 있는 개구리 자전거로 변신하여 여러 혹성을 폭주해 보세요. 타오르는 불꽃과 광선, 재미있는 트릭들을 피해가면서 메달도 모두 모아보세요! 자전거의 변신 아이템과 스테이지에서 할 수 있는 새로운 트릭들이 등장! 「GRANDPRIX」모드는 더욱 재미있고, 온라인 랭킹에도 대응! 전국의 플레이어와 점수를 경쟁하며 세계 ...... 아니, 우주 제일의 Bike Rider를 목표로 하세요!\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2015-03-25",
+  "product_code": "CTR-N-JGYZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [
+    "인터넷 대응",
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다.\n또한 본체의 사용설명서도 함께 읽어 주십시오.                           \n\n*주의사항*\n제명:BIKE RIDER DX2 GALAXY\n상호:Spicysoft\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150116-003\n등급분류 일자:2015.1.16\n제작・배급업신고번호:게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
+  "descriptors": [],
+  "publisher": "Spicysoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,33 @@
 {
-    "tid": "0004000E00196900",
-    "uid": "50010000041375",
-    "name": "更新データ Ver. 4.1\nショベルナイト",
-    "formal_name": "更新データ Ver. 4.1\nショベルナイト",
-    "description": "ニンテンドー3DSソフト『ショベルナイト』の更新データです。\n『ショベルナイト』をお持ちのお客様は、必ずダウンロードしてください。\n\n■Ver.4.1 [2020.4.8配信]\n●ゲーム内での複数の軽微な不具合について修正しました。\n\n\n以前の更新内容もVer.4.1に含まれます。",
-    "release_date_on_eshop": "2020-04-08",
-    "product_code": "CTR-U-AKSJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v4.4.0",
-    "disclaimer": "ニンテンドー3DSソフト『ショベルナイト』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E00196900",
+  "uid": "50010000041375",
+  "name": "更新データ Ver. 4.1\nショベルナイト",
+  "formal_name": "更新データ Ver. 4.1\nショベルナイト",
+  "description": "ニンテンドー3DSソフト『ショベルナイト』の更新データです。\n『ショベルナイト』をお持ちのお客様は、必ずダウンロードしてください。\n\n■Ver.4.1 [2020.4.8配信]\n●ゲーム内での複数の軽微な不具合について修正しました。\n\n\n以前の更新内容もVer.4.1に含まれます。",
+  "release_date_on_eshop": "2020-04-08",
+  "product_code": "CTR-U-AKSJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v4.4.0",
+  "disclaimer": "ニンテンドー3DSソフト『ショベルナイト』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

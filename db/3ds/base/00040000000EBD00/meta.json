@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000EBD00",
-    "uid": "",
-    "name": "Regular Show - Mordecai and Rigby in 8-bit Land",
-    "formal_name": "Regular Show - Mordecai and Rigby in 8-bit Land",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AEBE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000EBD00",
+  "uid": "",
+  "name": "Regular Show - Mordecai and Rigby in 8-bit Land",
+  "formal_name": "Regular Show - Mordecai and Rigby in 8-bit Land",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AEBE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "D3Publisher",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

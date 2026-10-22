@@ -1,21 +1,25 @@
 {
-    "tid": "0004000000184700",
-    "uid": "",
-    "name": "DBZ: Super Butoden 2",
-    "formal_name": "DBZ: Super Butoden 2",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KDLY",
-    "platform_name": "",
-    "region": "Unknown Other",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000184700",
+  "uid": "",
+  "name": "DBZ: Super Butoden 2",
+  "formal_name": "DBZ: Super Butoden 2",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KDLY",
+  "platform_name": "",
+  "region": "Unknown Other",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Ent"
 }

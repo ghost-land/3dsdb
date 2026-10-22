@@ -1,21 +1,30 @@
 {
-    "tid": "000400000011F800",
-    "uid": "",
-    "name": "どこぽんちょいす - DRAGON BALL サイヤ人編",
-    "formal_name": "どこぽんちょいす - DRAGON BALL サイヤ人編",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JYXJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000011F800",
+  "uid": "",
+  "name": "どこぽんちょいす - DRAGON BALL サイヤ人編",
+  "formal_name": "どこぽんちょいす - DRAGON BALL サイヤ人編",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JYXJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Librica",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

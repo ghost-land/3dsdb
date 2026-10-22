@@ -23,5 +23,11 @@
   },
   "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Collavier",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

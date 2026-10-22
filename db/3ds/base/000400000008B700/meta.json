@@ -1,21 +1,38 @@
 {
-    "tid": "000400000008B700",
-    "uid": "",
-    "name": "こころが水着に着替えたら。",
-    "formal_name": "こころが水着に着替えたら。",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JMMJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000008B700",
+  "uid": "",
+  "name": "こころが水着に着替えたら。",
+  "formal_name": "こころが水着に着替えたら。",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JMMJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "17"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ディースリー・パブリッシャー",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

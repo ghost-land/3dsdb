@@ -28,5 +28,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "KEMCO",
+  "smdh": {
+    "flags": [
+      "New3DS",
+      "SaveData"
+    ]
+  }
 }

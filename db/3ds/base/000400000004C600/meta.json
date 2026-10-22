@@ -28,5 +28,12 @@
   "descriptors": [
     "Animated Blood",
     "Suggestive Themes"
-  ]
+  ],
+  "publisher": "Crave Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

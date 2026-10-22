@@ -1,21 +1,37 @@
 {
-    "tid": "00040002001CB201",
-    "uid": "",
-    "name": "Captain Toad Demo",
-    "formal_name": "Captain Toad Demo",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-BZPP",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002001CB201",
+  "uid": "",
+  "name": "Captain Toad Demo",
+  "formal_name": "Captain Toad Demo",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-BZPP",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

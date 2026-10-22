@@ -1,31 +1,50 @@
 {
-    "tid": "0004000000087400",
-    "uid": "50010000017775",
-    "name": "Crazy Chicken:\nDirector's Cut 3D",
-    "formal_name": "Crazy Chicken:\nDirector's Cut 3D",
-    "description": "Chickens have invaded a movie studio starting a hilariously messy rampage around the film sets and properties!<br><br>\nIt’s time to take position in the director’s seat, reload the shotgun and aim with precision at these winged intruders! <br><br>\n\nShoot down the right amount of chickens and stage props in order to progress to the next take and solve tons of brain teasing riddles for bonus points. Movie fans and action lovers will have a blast playing this game. The lights are on, the cameras are rolling and now it’s time for some feathery shooting action!<br><br>\n\n2 unique movie sets to unlock with over 10 filming takes to reach<br><br>\n\nLimited amount of ammo, requiring accuracy with ever shot<br><br>\n\nShoot chickens, stage props and unlock hidden secrets<br><br>\n\nAn award winning performance by the chickens from the popular Crazy Chicken franchise<br><br>\n\nThe most exciting and craziest shooting action around",
-    "release_date_on_eshop": "2013-11-07",
-    "product_code": "CTR-N-JMBE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Action",
-        "Puzzle",
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Crude Humor",
-        "Fantasy Violence"
+  "tid": "0004000000087400",
+  "uid": "50010000017775",
+  "name": "Crazy Chicken:\nDirector's Cut 3D",
+  "formal_name": "Crazy Chicken:\nDirector's Cut 3D",
+  "description": "Chickens have invaded a movie studio starting a hilariously messy rampage around the film sets and properties!<br><br>\nIt’s time to take position in the director’s seat, reload the shotgun and aim with precision at these winged intruders! <br><br>\n\nShoot down the right amount of chickens and stage props in order to progress to the next take and solve tons of brain teasing riddles for bonus points. Movie fans and action lovers will have a blast playing this game. The lights are on, the cameras are rolling and now it’s time for some feathery shooting action!<br><br>\n\n2 unique movie sets to unlock with over 10 filming takes to reach<br><br>\n\nLimited amount of ammo, requiring accuracy with ever shot<br><br>\n\nShoot chickens, stage props and unlock hidden secrets<br><br>\n\nAn award winning performance by the chickens from the popular Crazy Chicken franchise<br><br>\n\nThe most exciting and craziest shooting action around",
+  "release_date_on_eshop": "2013-11-07",
+  "product_code": "CTR-N-JMBE",
+  "platform_name": "Nintendo 3DS Download Only",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Action",
+    "Puzzle",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Crude Humor",
+    "Fantasy Violence"
+  ],
+  "publisher": "Teyon",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
     ]
+  }
 }

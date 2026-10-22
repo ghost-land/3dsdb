@@ -26,5 +26,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명:Cube Creator DX\n상호:ARC SYSTEM WORKS ASIA BRANCH\n이용등급:전체이용가\n등급분류번호:GC-DG-NV-170630-152\n등급분류 일자:2017.6.30\n제작・배급업신고번호:제2016-4호\n※ 대응 언어:한국어",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "ARC SYSTEM WORKS ASIA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

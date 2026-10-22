@@ -1,24 +1,41 @@
 {
-    "tid": "0004000E000D7E00",
-    "uid": "50010000021253",
-    "name": "Steel Diver™: Sub Wars:\nUpdate",
-    "formal_name": "Steel Diver™: Sub Wars:\nUpdate",
-    "description": "An update for \"Steel Diver™: Sub\nWars\" is now available from Nintendo\neShop.\n<br/><br/>\nAll customers who own a copy of\n“Steel Diver™: Sub Wars” should\ndownload the update.\n<br/><br/>\nThis will update the software to\nVersion 4.1 with the following\namendments:\n<br/><br/>\n- Reverts the angle at which\nsubmarines surface to their Version\n3.0 status.",
-    "release_date_on_eshop": "2014-03-14",
-    "product_code": "CTR-U-JNUP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v5.5.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000D7E00",
+  "uid": "50010000021253",
+  "name": "Steel Diver™: Sub Wars:\nUpdate",
+  "formal_name": "Steel Diver™: Sub Wars:\nUpdate",
+  "description": "An update for \"Steel Diver™: Sub\nWars\" is now available from Nintendo\neShop.\n<br/><br/>\nAll customers who own a copy of\n“Steel Diver™: Sub Wars” should\ndownload the update.\n<br/><br/>\nThis will update the software to\nVersion 4.1 with the following\namendments:\n<br/><br/>\n- Reverts the angle at which\nsubmarines surface to their Version\n3.0 status.",
+  "release_date_on_eshop": "2014-03-14",
+  "product_code": "CTR-U-JNUP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v5.5.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

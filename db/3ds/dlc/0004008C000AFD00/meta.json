@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C000AFD00",
-    "uid": "",
-    "name": "メタルマックス４ - 月光のディーヴァ",
-    "formal_name": "メタルマックス４ - 月光のディーヴァ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-AX4J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C000AFD00",
+  "uid": "",
+  "name": "メタルマックス４ - 月光のディーヴァ",
+  "formal_name": "メタルマックス４ - 月光のディーヴァ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-AX4J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "KADOKAWA GAMES",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

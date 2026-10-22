@@ -24,5 +24,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは、2012年5月31日に発売されたニンテンドー3DSカードソフト\n『GUILD01』に収録されている「レンタル武器屋deオマッセ」と同内容のニンテンドー3DSダウンロードソフトです。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "LEVEL-5 Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

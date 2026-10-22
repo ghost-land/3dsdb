@@ -1,25 +1,44 @@
 {
-    "tid": "0004000000199D00",
-    "uid": "50010000040138",
-    "name": "Toys VS Monsters (日文版)",
-    "formal_name": "Toys VS Monsters (日文版)",
-    "description": "在小朋友的房間裏玩具與怪獸們大戰!!\n\n這是一款戰略塔防遊戲。為了擊倒進攻了小朋友房間的怪獸們，跟玩具們齊起面對吧。勝利的要決在於理解玩具的力量及放置能推動玩具的電池。堅定佈署著戰略來迎擊怪獸們吧。",
-    "release_date_on_eshop": "2016-04-27",
-    "product_code": "CTR-N-KTMZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "模擬"
-    ],
-    "features": [
-        "對應3D影像"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "0004000000199D00",
+  "uid": "50010000040138",
+  "name": "Toys VS Monsters (日文版)",
+  "formal_name": "Toys VS Monsters (日文版)",
+  "description": "在小朋友的房間裏玩具與怪獸們大戰!!\n\n這是一款戰略塔防遊戲。為了擊倒進攻了小朋友房間的怪獸們，跟玩具們齊起面對吧。勝利的要決在於理解玩具的力量及放置能推動玩具的電池。堅定佈署著戰略來迎擊怪獸們吧。",
+  "release_date_on_eshop": "2016-04-27",
+  "product_code": "CTR-N-KTMZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "模擬"
+  ],
+  "features": [
+    "對應3D影像"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "COSEN",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

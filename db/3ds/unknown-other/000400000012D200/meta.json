@@ -1,21 +1,40 @@
 {
-    "tid": "000400000012D200",
-    "uid": "",
-    "name": "Disney Violetta: Rhythm & Music",
-    "formal_name": "Disney Violetta: Rhythm & Music",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BGRZ",
-    "platform_name": "",
-    "region": "Unknown Other",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000012D200",
+  "uid": "",
+  "name": "Disney Violetta: Rhythm & Music",
+  "formal_name": "Disney Violetta: Rhythm & Music",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BGRZ",
+  "platform_name": "",
+  "region": "Unknown Other",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Little Orbit",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

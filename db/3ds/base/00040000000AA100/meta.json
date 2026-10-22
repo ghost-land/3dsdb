@@ -1,21 +1,40 @@
 {
-    "tid": "00040000000AA100",
-    "uid": "",
-    "name": "Rising Board 3D",
-    "formal_name": "Rising Board 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JRBE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000AA100",
+  "uid": "",
+  "name": "Rising Board 3D",
+  "formal_name": "Rising Board 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JRBE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "odenis studio",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

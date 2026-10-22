@@ -1,24 +1,33 @@
 {
-    "tid": "0004000000199E00",
-    "uid": "50010000041355",
-    "name": "Shift DX (日文版)",
-    "formal_name": "Shift DX (日文版)",
-    "description": "轉移白(表面)與黑(表面),對準目標的解謎動作遊戲。\n\n在Nintendo 3DS上重製電腦遊戲名作2D益智遊戲SHIFT！！\n被關進神秘研究所的試驗者，在Shift(轉移)的同時來回黑白世界，以從研究所逃出為目標。\n保留深入思考的2D樸實解謎動作遊戲的操作性，再加上各種各樣的元素，能以QR Code將自己所設計的關卡分享等，能享受更深入的SHIFT世界。",
-    "release_date_on_eshop": "2016-08-09",
-    "product_code": "CTR-N-KDXZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "動作",
-        "益智"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "0004000000199E00",
+  "uid": "50010000041355",
+  "name": "Shift DX (日文版)",
+  "formal_name": "Shift DX (日文版)",
+  "description": "轉移白(表面)與黑(表面),對準目標的解謎動作遊戲。\n\n在Nintendo 3DS上重製電腦遊戲名作2D益智遊戲SHIFT！！\n被關進神秘研究所的試驗者，在Shift(轉移)的同時來回黑白世界，以從研究所逃出為目標。\n保留深入思考的2D樸實解謎動作遊戲的操作性，再加上各種各樣的元素，能以QR Code將自己所設計的關卡分享等，能享受更深入的SHIFT世界。",
+  "release_date_on_eshop": "2016-08-09",
+  "product_code": "CTR-N-KDXZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "動作",
+    "益智"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "COSEN",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,30 @@
 {
-    "tid": "0004000200110A01",
-    "uid": "",
-    "name": "黒子スタイル　たいけんばん",
-    "formal_name": "黒子スタイル　たいけんばん",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JUNJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200110A01",
+  "uid": "",
+  "name": "黒子スタイル　たいけんばん",
+  "formal_name": "黒子スタイル　たいけんばん",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JUNJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "iNPLAS CO., Ltd.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

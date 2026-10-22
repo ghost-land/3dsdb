@@ -22,7 +22,14 @@
     "name": "PEGI",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "Game supports English text and Japanese voice.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Deep Silver",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

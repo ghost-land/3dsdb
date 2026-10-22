@@ -1,21 +1,34 @@
 {
-    "tid": "0004000000090A00",
-    "uid": "",
-    "name": "Boulder Dash-XL 3D",
-    "formal_name": "Boulder Dash-XL 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ABZP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000090A00",
+  "uid": "",
+  "name": "Boulder Dash-XL 3D",
+  "formal_name": "Boulder Dash-XL 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ABZP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Reef Entertainment Ltd.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

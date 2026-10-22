@@ -23,10 +23,16 @@
     "it"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "v6.8.0",
   "disclaimer": "This software requires a broadband\ninternet connection during use.\n<br/><br/>\nThe registration of Nintendo Network\nID and acceptance of the\nnetwork-related terms and privacy\npolicies are required.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

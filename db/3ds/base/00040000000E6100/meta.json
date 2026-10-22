@@ -1,26 +1,36 @@
 {
-    "tid": "00040000000E6100",
-    "uid": "50010000014755",
-    "name": "Akari by Nikoli",
-    "formal_name": "Akari by Nikoli",
-    "description": "「Akari by Nikoli」는 힌트 숫자에 따라 조명을 배치해서 흰색 칸 전체를 점등해 나가는 스도쿠 퍼즐 게임입니다. \n「Akari by Nikoli」는 누구나 쉽게 알 수 있는 규칙을 가지고 있지만, 좀 더 깊이 있게 퍼즐을 즐길 수 있는 것이 특징입니다. \n 숫자와 조명과 칸을 절묘하게 결합해서 퍼즐을 푸는 다양한 패턴은 물론, 새로운 패턴을 발견해 나가는 즐거움을 맛볼 수 있습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2013-06-05",
-    "product_code": "CTR-N-JBJZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "퍼즐"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "로컬 플레이 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Akari by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130417-002\n등급분류 일자 : 2013.04.17.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
-    "descriptors": []
+  "tid": "00040000000E6100",
+  "uid": "50010000014755",
+  "name": "Akari by Nikoli",
+  "formal_name": "Akari by Nikoli",
+  "description": "「Akari by Nikoli」는 힌트 숫자에 따라 조명을 배치해서 흰색 칸 전체를 점등해 나가는 스도쿠 퍼즐 게임입니다. \n「Akari by Nikoli」는 누구나 쉽게 알 수 있는 규칙을 가지고 있지만, 좀 더 깊이 있게 퍼즐을 즐길 수 있는 것이 특징입니다. \n 숫자와 조명과 칸을 절묘하게 결합해서 퍼즐을 푸는 다양한 패턴은 물론, 새로운 패턴을 발견해 나가는 즐거움을 맛볼 수 있습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2013-06-05",
+  "product_code": "CTR-N-JBJZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "퍼즐"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "로컬 플레이 대응"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Akari by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130417-002\n등급분류 일자 : 2013.04.17.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
+  "descriptors": [],
+  "publisher": "HAMSTER",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

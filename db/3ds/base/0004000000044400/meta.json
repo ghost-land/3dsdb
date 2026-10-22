@@ -1,21 +1,34 @@
 {
-    "tid": "0004000000044400",
-    "uid": "",
-    "name": "Naruto Shippuden 3D - The New Era",
-    "formal_name": "Naruto Shippuden 3D - The New Era",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ANTF",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000044400",
+  "uid": "",
+  "name": "Naruto Shippuden 3D - The New Era",
+  "formal_name": "Naruto Shippuden 3D - The New Era",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ANTF",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "505 Games s.r.l.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

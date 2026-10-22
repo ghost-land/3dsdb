@@ -1,21 +1,30 @@
 {
-    "tid": "0004000200048002",
-    "uid": "",
-    "name": "初音ミク - Project mirai（体験版Side-B）",
-    "formal_name": "初音ミク - Project mirai（体験版Side-B）",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-AZAJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200048002",
+  "uid": "",
+  "name": "初音ミク - Project mirai（体験版Side-B）",
+  "formal_name": "初音ミク - Project mirai（体験版Side-B）",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-AZAJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

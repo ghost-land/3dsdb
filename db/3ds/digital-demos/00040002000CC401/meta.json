@@ -26,7 +26,13 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "本ソフトのダウンロード版にはARカードが付属しません。『初音ミク Project mirai 2』の公式サイトよりARカードのPDFをダウンロードいただき、印刷してご使用いただくようお願いいたします。詳細は公式サイトをご確認ください。\n<br>公式サイト：http://miku.sega.jp/mirai2/\n<br>\n<br>パッケージ版の価格は6,458円(税込)です。\n<br>ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。\n",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

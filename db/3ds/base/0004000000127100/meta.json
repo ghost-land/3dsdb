@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000127100",
-    "uid": "",
-    "name": "Legends of Oz - Dorothy's Return",
-    "formal_name": "Legends of Oz - Dorothy's Return",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BDTP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000127100",
+  "uid": "",
+  "name": "Legends of Oz - Dorothy's Return",
+  "formal_name": "Legends of Oz - Dorothy's Return",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BDTP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "GSP",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

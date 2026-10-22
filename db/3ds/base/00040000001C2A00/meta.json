@@ -23,5 +23,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "※「倍速機能」は New 3DS / New 2DS でのみご利用いただけます。\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "イマジニア",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -27,10 +27,16 @@
     "ru"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "v0.0.1",
   "disclaimer": "For use with the game Super Smash\nBros.™ for Wii U only.\n<br/><br/>\nSmash Controller offers the same\nfunctionality as the Connect to Wii U\nfunction available in the game Super\nSmash Bros.™ for Nintendo 3DS.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

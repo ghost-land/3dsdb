@@ -1,26 +1,45 @@
 {
-    "tid": "000400000019BA00",
-    "uid": "50010000040857",
-    "name": "Toys VS Monsters",
-    "formal_name": "Toys VS Monsters",
-    "description": "장난감을 조작하여 공격해 오는 몬스터를 쓰러뜨리는 퍼즐 감각의 전략 게임입니다.\n전방에서 공격해 오는 몬스터(적 유닛)를 장난감(아군 유닛)으로 방어하는 게임으로 장난감은 전지의 힘이 없으면 움직일 수 없으니 효과적으로 전지를 필드에 배치하는 것이 중요합니다.",
-    "release_date_on_eshop": "2016-07-06",
-    "product_code": "CTR-N-KTMY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "전략",
-        "시뮬레이션"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Toys VS Monsters\n<br>상호:COSEN\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160429-004\n<br>등급분류 일자:2016.4.29\n<br>제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n   자막: 일본어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "000400000019BA00",
+  "uid": "50010000040857",
+  "name": "Toys VS Monsters",
+  "formal_name": "Toys VS Monsters",
+  "description": "장난감을 조작하여 공격해 오는 몬스터를 쓰러뜨리는 퍼즐 감각의 전략 게임입니다.\n전방에서 공격해 오는 몬스터(적 유닛)를 장난감(아군 유닛)으로 방어하는 게임으로 장난감은 전지의 힘이 없으면 움직일 수 없으니 효과적으로 전지를 필드에 배치하는 것이 중요합니다.",
+  "release_date_on_eshop": "2016-07-06",
+  "product_code": "CTR-N-KTMY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "전략",
+    "시뮬레이션"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Toys VS Monsters\n<br>상호:COSEN\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160429-004\n<br>등급분류 일자:2016.4.29\n<br>제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n   자막: 일본어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "COSEN",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

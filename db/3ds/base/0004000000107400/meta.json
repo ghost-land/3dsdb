@@ -1,25 +1,35 @@
 {
-    "tid": "0004000000107400",
-    "uid": "50010000016958",
-    "name": "Bike Rider DX",
-    "formal_name": "Bike Rider DX",
-    "description": "달리기 시작하면 멈출 수 없다! 통쾌한 자전거 액션!\n자전거로 계곡과 벽을 뛰어 넘어서 달리는 통쾌한 액션 게임!\n전세계 각 스테이지의 골을 목표로 달리는「WORLD TOUR」모드, 끝없는 스테이지를 계속 달리는「GRAND PRIX」모드를 탑재.\n스피드 업 등의 특수한 아이템, 슈퍼 점프나 거대 회오리바람 등의 기술을 사용하여 전세계를 달리자!\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2013-10-11",
-    "product_code": "CTR-N-JCXZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Bike Rider DX\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130904-003\n등급분류 일자 : 2013.09.04.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
-    "descriptors": []
+  "tid": "0004000000107400",
+  "uid": "50010000016958",
+  "name": "Bike Rider DX",
+  "formal_name": "Bike Rider DX",
+  "description": "달리기 시작하면 멈출 수 없다! 통쾌한 자전거 액션!\n자전거로 계곡과 벽을 뛰어 넘어서 달리는 통쾌한 액션 게임!\n전세계 각 스테이지의 골을 목표로 달리는「WORLD TOUR」모드, 끝없는 스테이지를 계속 달리는「GRAND PRIX」모드를 탑재.\n스피드 업 등의 특수한 아이템, 슈퍼 점프나 거대 회오리바람 등의 기술을 사용하여 전세계를 달리자!\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2013-10-11",
+  "product_code": "CTR-N-JCXZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Bike Rider DX\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130904-003\n등급분류 일자 : 2013.09.04.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
+  "descriptors": [],
+  "publisher": "Spicysoft Corporation",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

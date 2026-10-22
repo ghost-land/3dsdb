@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000A2600",
-    "uid": "",
-    "name": "Hotel Transylvania",
-    "formal_name": "Hotel Transylvania",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AH8E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A2600",
+  "uid": "",
+  "name": "Hotel Transylvania",
+  "formal_name": "Hotel Transylvania",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AH8E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "GameMill Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

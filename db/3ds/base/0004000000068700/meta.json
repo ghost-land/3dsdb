@@ -23,5 +23,11 @@
   },
   "version": "v0.1.0",
   "disclaimer": "イヤフォンを使用すると、よりお楽しみいただけます。\n<br>本ソフトは、ニンテンドー3DSソフト\n<br>『謎惑館 音の間に間に』の製品内に含まれる \"第一話「光る目」\" のみを抜粋したニンテンドー3DSダウンロードソフトです。\n",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

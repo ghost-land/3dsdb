@@ -23,7 +23,14 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.11.0",
   "disclaimer": "SDカード対応\n<br>オンラインサービスは予告なく終了することがあります。詳しくはソフト内の利用規約をご参照ください。\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "KADOKAWA GAMES, LTD.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,26 +1,36 @@
 {
-    "tid": "0004000000109D00",
-    "uid": "50010000018993",
-    "name": "Hitori by Nikoli",
-    "formal_name": "Hitori by Nikoli",
-    "description": "「Hitori」는 같은 열에 똑같은 숫자가 겹치지 않도록 필요없는 숫자들을 모두 지워나가는 퍼즐 게임입니다.\n퍼즐을 풀수록 다양한 장치를 해결하는 재미를 느낄 수 있습니다. 퍼즐을 좋아하는 분들에게 꼭 추천하고 싶은 퍼즐입니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
-    "release_date_on_eshop": "2013-12-24",
-    "product_code": "CTR-N-JHTZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "퍼즐"
-    ],
-    "features": [
-        "3D 영상 대응",
-        "로컬 플레이 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Hitori by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131025-011\n등급분류 일자 : 2013.10.25.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
-    "descriptors": []
+  "tid": "0004000000109D00",
+  "uid": "50010000018993",
+  "name": "Hitori by Nikoli",
+  "formal_name": "Hitori by Nikoli",
+  "description": "「Hitori」는 같은 열에 똑같은 숫자가 겹치지 않도록 필요없는 숫자들을 모두 지워나가는 퍼즐 게임입니다.\n퍼즐을 풀수록 다양한 장치를 해결하는 재미를 느낄 수 있습니다. 퍼즐을 좋아하는 분들에게 꼭 추천하고 싶은 퍼즐입니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.",
+  "release_date_on_eshop": "2013-12-24",
+  "product_code": "CTR-N-JHTZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "퍼즐"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "로컬 플레이 대응"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : Hitori by Nikoli\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-131025-011\n등급분류 일자 : 2013.10.25.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 영어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.\n® or TM is a registered trademark or trademark in Japan or other countries.",
+  "descriptors": [],
+  "publisher": "HAMSTER",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

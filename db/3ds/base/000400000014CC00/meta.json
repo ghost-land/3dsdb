@@ -28,7 +28,14 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "O2 Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

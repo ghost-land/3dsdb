@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000134D00",
-    "uid": "",
-    "name": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D",
-    "formal_name": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BMXP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000134D00",
+  "uid": "",
+  "name": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D",
+  "formal_name": "2in1 - Life with Horses 3D + My Baby Pet Hotel 3D",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BMXP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "TREVA Entertainment GmbH",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

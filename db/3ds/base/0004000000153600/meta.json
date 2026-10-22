@@ -32,5 +32,13 @@
   },
   "version": "v4.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "ExtendedBanner",
+      "SaveData"
+    ]
+  }
 }

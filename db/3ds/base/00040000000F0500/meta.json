@@ -1,21 +1,30 @@
 {
-    "tid": "00040000000F0500",
-    "uid": "",
-    "name": "大合奏！バンドブラザーズＰ - しもべツール",
-    "formal_name": "大合奏！バンドブラザーズＰ - しもべツール",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JBYJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F0500",
+  "uid": "",
+  "name": "大合奏！バンドブラザーズＰ - しもべツール",
+  "formal_name": "大合奏！バンドブラザーズＰ - しもべツール",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JBYJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

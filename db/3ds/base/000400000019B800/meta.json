@@ -1,25 +1,36 @@
 {
-    "tid": "000400000019B800",
-    "uid": "50010000040778",
-    "name": "Magic Hammer",
-    "formal_name": "Magic Hammer",
-    "description": "매직 해머를 들고, 마을의 평화를 되찾기\n위한 모험을 떠나자!\n\n스토리 모드를 통해 모험을 합시다.\n・캐릭터 작성에서 자신의 아바타를\n 만듭시다.\n・매직 해머와 함께 유령 퇴치와,\n 마을 신전의 복구를 합시다.\n・매직 해머의 기억을 되찾기 위해서,\n 미션을 클리어 합시다.\n・해머를 성장시켜서 기술과 마법을\n 외우게 합시다.\n・펫을 키우거나 건물을 지어 봅시다.\n\n크리에이티브 모드에서 자유롭게\n오픈 월드 RPG를 즐깁시다\n・나무나 물, 동물의 유무를 설정할 수\n있습니다. 완전 평면적인 월드를 만들\n수도 있습니다.",
-    "release_date_on_eshop": "2016-06-24",
-    "product_code": "CTR-N-KHMY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Magic Hammer\n상호:COSEN\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160429-005\n등급분류 일자:2016.4.29\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어 \n 자막: 일본어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "000400000019B800",
+  "uid": "50010000040778",
+  "name": "Magic Hammer",
+  "formal_name": "Magic Hammer",
+  "description": "매직 해머를 들고, 마을의 평화를 되찾기\n위한 모험을 떠나자!\n\n스토리 모드를 통해 모험을 합시다.\n・캐릭터 작성에서 자신의 아바타를\n 만듭시다.\n・매직 해머와 함께 유령 퇴치와,\n 마을 신전의 복구를 합시다.\n・매직 해머의 기억을 되찾기 위해서,\n 미션을 클리어 합시다.\n・해머를 성장시켜서 기술과 마법을\n 외우게 합시다.\n・펫을 키우거나 건물을 지어 봅시다.\n\n크리에이티브 모드에서 자유롭게\n오픈 월드 RPG를 즐깁시다\n・나무나 물, 동물의 유무를 설정할 수\n있습니다. 완전 평면적인 월드를 만들\n수도 있습니다.",
+  "release_date_on_eshop": "2016-06-24",
+  "product_code": "CTR-N-KHMY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Magic Hammer\n상호:COSEN\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160429-005\n등급분류 일자:2016.4.29\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어 \n 자막: 일본어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Cosen",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -28,9 +28,15 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
   "descriptors": [
     "Cartoon Violence"
-  ]
+  ],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

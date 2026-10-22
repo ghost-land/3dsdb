@@ -21,5 +21,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "To have acces to Rytmik Cloud you\nmust agree to the software license\nagreement.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Cinemax",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

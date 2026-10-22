@@ -22,7 +22,14 @@
     "name": "PEGI",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": "Game supports English text and Japanese voice.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

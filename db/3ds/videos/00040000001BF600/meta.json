@@ -1,21 +1,38 @@
 {
-    "tid": "00040000001BF600",
-    "uid": "",
-    "name": "Kid Icarus 3D Anime: Thanatos Rising",
-    "formal_name": "Kid Icarus 3D Anime: Thanatos Rising",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-SQGE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001BF600",
+  "uid": "",
+  "name": "Kid Icarus 3D Anime: Thanatos Rising",
+  "formal_name": "Kid Icarus 3D Anime: Thanatos Rising",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-SQGE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "E"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

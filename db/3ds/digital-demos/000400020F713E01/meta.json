@@ -23,9 +23,17 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Violence"
-  ]
+  ],
+  "publisher": "Zarpazo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData",
+      "New3DS"
+    ]
+  }
 }

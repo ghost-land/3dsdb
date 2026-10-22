@@ -1,21 +1,37 @@
 {
-    "tid": "00040002001A7601",
-    "uid": "",
-    "name": "（体験版）脱出アドベンチャー - 第七の予言",
-    "formal_name": "（体験版）脱出アドベンチャー - 第七の予言",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-KA7J",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002001A7601",
+  "uid": "",
+  "name": "（体験版）脱出アドベンチャー - 第七の予言",
+  "formal_name": "（体験版）脱出アドベンチャー - 第七の予言",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-KA7J",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "アークシステムワークス",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

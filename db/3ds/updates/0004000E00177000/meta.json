@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00177000",
-    "uid": "50010000038676",
-    "name": "The Legend of Zelda™:\nTri Force Heroes: Update",
-    "formal_name": "The Legend of Zelda™:\nTri Force Heroes: Update",
-    "description": "An update for The Legend of Zelda™:\nTri Force Heroes is now available from\nNintendo eShop.\n\nThis will update the software to\nVersion 2.1.0 with the following\namendments:\n\n・ The update adds \"hero points\", a\nnew element designed to help\nyou fully complete the game.\n\n・ Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n\n・ Introduces additional enhancements\nto improve the user’s experience and\nenjoyment.\n\n- You will need to install Ver. 2.1.0\nto play online.\n\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "release_date_on_eshop": "2015-12-03",
-    "product_code": "CTR-U-EA3P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "version": "v3.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00177000",
+  "uid": "50010000038676",
+  "name": "The Legend of Zelda™:\nTri Force Heroes: Update",
+  "formal_name": "The Legend of Zelda™:\nTri Force Heroes: Update",
+  "description": "An update for The Legend of Zelda™:\nTri Force Heroes is now available from\nNintendo eShop.\n\nThis will update the software to\nVersion 2.1.0 with the following\namendments:\n\n・ The update adds \"hero points\", a\nnew element designed to help\nyou fully complete the game.\n\n・ Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n\n・ Introduces additional enhancements\nto improve the user’s experience and\nenjoyment.\n\n- You will need to install Ver. 2.1.0\nto play online.\n\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+  "release_date_on_eshop": "2015-12-03",
+  "product_code": "CTR-U-EA3P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v3.3.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

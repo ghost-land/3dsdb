@@ -1,21 +1,32 @@
 {
-    "tid": "0004000200161601",
-    "uid": "",
-    "name": "Disney Art Academy Demo",
-    "formal_name": "Disney Art Academy Demo",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-BWDP",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200161601",
+  "uid": "",
+  "name": "Disney Art Academy Demo",
+  "formal_name": "Disney Art Academy Demo",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-BWDP",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

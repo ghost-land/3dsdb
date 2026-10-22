@@ -1,21 +1,30 @@
 {
-    "tid": "0004000200092B01",
-    "uid": "",
-    "name": "リズムハンター　ハーモナイト - Demo version",
-    "formal_name": "リズムハンター　ハーモナイト - Demo version",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-AQ7J",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200092B01",
+  "uid": "",
+  "name": "リズムハンター　ハーモナイト - Demo version",
+  "formal_name": "リズムハンター　ハーモナイト - Demo version",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-AQ7J",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

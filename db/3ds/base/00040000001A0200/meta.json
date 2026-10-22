@@ -24,7 +24,14 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "JAMES MONTAGNA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

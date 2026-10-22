@@ -1,21 +1,38 @@
 {
-    "tid": "000400000004C100",
-    "uid": "",
-    "name": "Tetris",
-    "formal_name": "Tetris",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ATLP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000004C100",
+  "uid": "",
+  "name": "Tetris",
+  "formal_name": "Tetris",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ATLP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.0.1",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Tetris Online, Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
