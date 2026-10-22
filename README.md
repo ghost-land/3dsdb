@@ -7,8 +7,10 @@ ________
 Structure :
 ```
 db/3ds/
-├── base/                           # Base content
+├── base/                           # Base content (retail/eShop games + digital demos)
 │     └── [tid]/                    # Titles for base content, identified by TID
+├── kiosk-demos/                    # Kiosk / demo-station builds (hShop kiosk-demos)
+│     └── [tid]/
 ├── dlc/                            # Downloadable content
 │     └── [tid]/                    # Titles for downloadable content, identified by TID
 ├── dsiware/                        # DSiWare games and applications
@@ -32,11 +34,17 @@ db/3ds/
 │     └── [tid]/                    # Titles for themes, identified by TID
 ├── updates/                        # System or game updates
 │     └── [tid]/                    # Titles for updates, identified by TID
-├── videos/                         # Video content
+├── videos/                         # eShop video content (E3 clips, trailers, Nintendo Video)
 │     └── [tid]/                    # Titles for video content, identified by TID
 └── virtual-console/                # Virtual Console games
       └── [tid]/                    # Titles for Virtual Console games, identified by TID
 ```
+
+eShop media sizes (Nintendo originals only):
+- `icon.jpg` = 48×48
+- `banner.jpg` = 400×168
+- `top_image.jpg` ≈ 400×240 (sometimes larger trailer stills)
+
 
 ```
 [tid]/
