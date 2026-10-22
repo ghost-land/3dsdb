@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00030600",
-    "uid": "50010000010354",
-    "name": "更新データ Ver. 1.2\nマリオカート7",
-    "formal_name": "更新データ Ver. 1.2 マリオカート7",
-    "description": "ニンテンドー3DSソフト『マリオカート7』の更新データです。\n『マリオカート7』をお持ちのお客様は必ずダウンロードしてください。\n\nいくつかの問題を修正しました。",
-    "release_date_on_eshop": "2022-12-14",
-    "product_code": "CTR-U-AMKJ",
-    "platform_name": "更新データ",
-    "region": "Japan",
-    "genres": [
-        "更新データ"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v3.5.0",
-    "disclaimer": "ニンテンドー3DSソフト『マリオカート7』の更新データです。\n本データはダウンロード後、HOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-    "descriptors": []
+  "tid": "0004000E00030600",
+  "uid": "50010000010354",
+  "name": "更新データ Ver. 1.2\nマリオカート7",
+  "formal_name": "更新データ Ver. 1.2 マリオカート7",
+  "description": "ニンテンドー3DSソフト『マリオカート7』の更新データです。\n『マリオカート7』をお持ちのお客様は必ずダウンロードしてください。\n\nいくつかの問題を修正しました。",
+  "release_date_on_eshop": "2022-12-14",
+  "product_code": "CTR-U-AMKJ",
+  "platform_name": "更新データ",
+  "region": "Japan",
+  "genres": [
+    "更新データ"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v3.5.0",
+  "disclaimer": "ニンテンドー3DSソフト『マリオカート7』の更新データです。\n本データはダウンロード後、HOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

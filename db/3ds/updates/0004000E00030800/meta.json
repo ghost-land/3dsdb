@@ -21,5 +21,12 @@
   },
   "version": "v3.5.0",
   "disclaimer": "This is an update for Mario Kart™ 7 to resolve shortcut exploits in online multiplayer mode. After downloading, confirmation of the update will be visible under System Settings > Data Management > Nintendo 3DS > Add-On Content. This update is required for online multiplayer mode. Deleting the update will require you to download it again to play multiplayer online. You can still play single-player or local multiplayer without installing the update.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

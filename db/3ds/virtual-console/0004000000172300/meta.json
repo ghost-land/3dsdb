@@ -23,5 +23,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "●此遊戲是將原作遊戲內容，刪除擴張功能並在Nintendo 3DS上重現的作品。和原作的動作表現相異，敬請原諒。\n<br>●在此遊戲裡無法使用「備份功能」和「VC暫停功能」，敬請原諒。\n<br>●此遊戲是『ポケットモンスター 金』。和『ポケットモンスター 銀』的「寶可夢(Pokémon)出現率」或「出現的寶可夢(Pokémon)的種類」相異。\n<br>●『金・銀』之間可進行通訊對戰或交換。\n<br>●可和Virtual Console版『赤・綠・青・ピカチュウ』進行通訊交換。\n<br>●支援『寶可夢虛擬銀行(Pokémon Bank)』和『Poké Transporter』（預定於2017年內）。無法和其他『精靈寶可夢(Pokémon)』軟體或週邊設備進行通訊。\n<br>※無法支援透過鄰近主機通訊進行之交換、對戰以外的功能和週邊設備。\n<br>※無法和同一主機內軟體進行交換或對戰。\n<br>※Game Boy Color的『ポケットモンスター 金』再現。無法支援黑白畫面顯示。\n<br>\n<br>注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n<br>® or TM is a registered trademark or trademark in Japan or other countries.\n<br>\n<br>※安全使用須知\n<br>使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n<br>須知中記載著顧及您健康與安全的重要說明。\n<br>\n<br>※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n<br>\n<br>諮詢處：general@nintendo.com.hk",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

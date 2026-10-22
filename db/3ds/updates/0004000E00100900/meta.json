@@ -1,23 +1,33 @@
 {
-    "tid": "0004000E00100900",
-    "uid": "50010000017979",
-    "name": "更新資料 Ver. 1.1 \nMONSTER HUNTER 4",
-    "formal_name": "更新資料 Ver. 1.1 \nMONSTER HUNTER 4",
-    "description": "這是用於修正Nintendo 3DS軟件「MONSTER HUNTER 4」的非法公會任務的更新資料。\n擁有「MONSTER HUNTER 4」的玩家請務必要下載。\n2013年11月13日以後，只有完成更新的「MONSTER HUNTER 4」才可以進行「和遠方的人遊戲（網路通訊）」。\n\n※即使不進行更新也能使用「一人遊戲」與「和附近的人遊戲(鄰近主機通訊)」，\n   但在這種情況下，有可能會受到非法公會任務的影響。",
-    "release_date_on_eshop": "2013-11-13",
-    "product_code": "CTR-U-AH4Z",
-    "platform_name": "更新資料",
-    "region": "Taiwan",
-    "genres": [
-        "更新資料"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "此為Nintendo 3DS軟體「MONSTER HUNTER 4」之更新資料。\n本檔案下載完成後，「主機設定」的「新增內容」畫面中會顯示本檔案的圖示，\n並不會顯示於Nintendo 3DS的HOME選單畫面。請注意不要刪除本檔案。",
-    "descriptors": []
+  "tid": "0004000E00100900",
+  "uid": "50010000017979",
+  "name": "更新資料 Ver. 1.1 \nMONSTER HUNTER 4",
+  "formal_name": "更新資料 Ver. 1.1 \nMONSTER HUNTER 4",
+  "description": "這是用於修正Nintendo 3DS軟件「MONSTER HUNTER 4」的非法公會任務的更新資料。\n擁有「MONSTER HUNTER 4」的玩家請務必要下載。\n2013年11月13日以後，只有完成更新的「MONSTER HUNTER 4」才可以進行「和遠方的人遊戲（網路通訊）」。\n\n※即使不進行更新也能使用「一人遊戲」與「和附近的人遊戲(鄰近主機通訊)」，\n   但在這種情況下，有可能會受到非法公會任務的影響。",
+  "release_date_on_eshop": "2013-11-13",
+  "product_code": "CTR-U-AH4Z",
+  "platform_name": "更新資料",
+  "region": "Taiwan",
+  "genres": [
+    "更新資料"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "15"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "此為Nintendo 3DS軟體「MONSTER HUNTER 4」之更新資料。\n本檔案下載完成後，「主機設定」的「新增內容」畫面中會顯示本檔案的圖示，\n並不會顯示於Nintendo 3DS的HOME選單畫面。請注意不要刪除本檔案。",
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

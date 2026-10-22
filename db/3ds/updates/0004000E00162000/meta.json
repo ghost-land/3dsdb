@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00162000",
-    "uid": "50010000039419",
-    "name": "Project X Zone 2: Update",
-    "formal_name": "Project X Zone 2: Update",
-    "description": "This patch fixes some bugs and\nameliorates the experience for\nthe players.",
-    "release_date_on_eshop": "2016-02-11",
-    "product_code": "CTR-U-BX2P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00162000",
+  "uid": "50010000039419",
+  "name": "Project X Zone 2: Update",
+  "formal_name": "Project X Zone 2: Update",
+  "description": "This patch fixes some bugs and\nameliorates the experience for\nthe players.",
+  "release_date_on_eshop": "2016-02-11",
+  "product_code": "CTR-U-BX2P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

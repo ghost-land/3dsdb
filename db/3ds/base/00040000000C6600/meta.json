@@ -25,10 +25,17 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "E"
   },
-  "version": "",
+  "version": "v2.5.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

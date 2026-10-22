@@ -1,21 +1,32 @@
 {
-    "tid": "0004001000020D00",
-    "uid": "",
-    "name": "3D Challenge",
-    "formal_name": "3D Challenge",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-HCHJ",
-    "platform_name": "",
-    "region": "Devapps Misc",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004001000020D00",
+  "uid": "",
+  "name": "3D Challenge",
+  "formal_name": "3D Challenge",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-HCHJ",
+  "platform_name": "",
+  "region": "Devapps Misc",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "ExtendedBanner",
+      "SaveData"
+    ]
+  }
 }

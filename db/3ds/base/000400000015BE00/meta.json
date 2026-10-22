@@ -1,23 +1,32 @@
 {
-    "tid": "000400000015BE00",
-    "uid": "50010000027415",
-    "name": "MIGHTY GUNVOLT",
-    "formal_name": "MIGHTY GUNVOLT",
-    "description": "과거 소년이었던 당신에게 보내는 8비트 2D 액션!\n\n「Azure Striker GUNVOLT」가 레트로한 그래픽과 사운드로 변신해서 등장!\n\n그래픽뿐 아니라 게임의 내용도 80년대 정통 스타일을 재현했기 때문에 심플한 내용이면서 반복해서 플레이하고 싶어지는 요소가 가득합니다.\n",
-    "release_date_on_eshop": "2015-02-17",
-    "product_code": "CTR-N-KMGZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v1.1.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:MIGHTY GUNVOLT\n상호:INTICREATES\n이용등급:전체이용가\n등급분류번호:제 GC-CC-NY-141024-006호\n등급분류 일자:2014.10.24\n제작・배급업신고번호:게배 제2012-10호",
-    "descriptors": []
+  "tid": "000400000015BE00",
+  "uid": "50010000027415",
+  "name": "MIGHTY GUNVOLT",
+  "formal_name": "MIGHTY GUNVOLT",
+  "description": "과거 소년이었던 당신에게 보내는 8비트 2D 액션!\n\n「Azure Striker GUNVOLT」가 레트로한 그래픽과 사운드로 변신해서 등장!\n\n그래픽뿐 아니라 게임의 내용도 80년대 정통 스타일을 재현했기 때문에 심플한 내용이면서 반복해서 플레이하고 싶어지는 요소가 가득합니다.\n",
+  "release_date_on_eshop": "2015-02-17",
+  "product_code": "CTR-N-KMGZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:MIGHTY GUNVOLT\n상호:INTICREATES\n이용등급:전체이용가\n등급분류번호:제 GC-CC-NY-141024-006호\n등급분류 일자:2014.10.24\n제작・배급업신고번호:게배 제2012-10호",
+  "descriptors": [],
+  "publisher": "INTI CREATES",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

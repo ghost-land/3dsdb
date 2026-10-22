@@ -19,10 +19,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v2.3.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "YouTube Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

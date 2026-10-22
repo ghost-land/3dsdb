@@ -1,23 +1,41 @@
 {
-    "tid": "0004000000195700",
-    "uid": "50010000040620",
-    "name": "Balloon Kid(벌룬 키드)",
-    "formal_name": "Balloon Kid(벌룬 키드)",
-    "description": "1990년 게임보이용으로 발매된 게임입니다.\n<br>\n<br>주인공 앨리스가 바람에 날아간 동생을 찾기 위해 풍선을 타며 모험을 즐기는 게임입니다.",
-    "release_date_on_eshop": "2016-06-15",
-    "product_code": "CTR-N-RBEZ",
-    "platform_name": "게임보이",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Balloon Kid(벌룬 키드)\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160513-004\n<br>등급분류 일자:2016.5.13\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000195700",
+  "uid": "50010000040620",
+  "name": "Balloon Kid(벌룬 키드)",
+  "formal_name": "Balloon Kid(벌룬 키드)",
+  "description": "1990년 게임보이용으로 발매된 게임입니다.\n<br>\n<br>주인공 앨리스가 바람에 날아간 동생을 찾기 위해 풍선을 타며 모험을 즐기는 게임입니다.",
+  "release_date_on_eshop": "2016-06-15",
+  "product_code": "CTR-N-RBEZ",
+  "platform_name": "게임보이",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Balloon Kid(벌룬 키드)\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160513-004\n<br>등급분류 일자:2016.5.13\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

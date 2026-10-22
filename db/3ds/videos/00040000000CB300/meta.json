@@ -1,21 +1,31 @@
 {
-    "tid": "00040000000CB300",
-    "uid": "",
-    "name": "Information for PICROSS  Nintendo Special",
-    "formal_name": "Information for PICROSS  Nintendo Special",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JC9K",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000CB300",
+  "uid": "",
+  "name": "Information for PICROSS  Nintendo Special",
+  "formal_name": "Information for PICROSS  Nintendo Special",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JC9K",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

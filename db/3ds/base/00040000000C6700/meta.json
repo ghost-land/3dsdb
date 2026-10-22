@@ -25,10 +25,17 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "PEGI",
+    "age": "3"
   },
-  "version": "",
+  "version": "v2.3.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

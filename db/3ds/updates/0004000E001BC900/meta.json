@@ -19,7 +19,14 @@
     "name": "CGSRR",
     "age": "12"
   },
-  "version": "",
+  "version": "v2.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

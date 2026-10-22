@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0015A300",
-    "uid": "50010000030595",
-    "name": "ACE COMBAT™ ASSAULT\nHORIZON LEGACY + - Update",
-    "formal_name": "ACE COMBAT™ ASSAULT\nHORIZON LEGACY + - Update",
-    "description": "This patch enables compatibility with\nthe Nintendo 3DS™ NFC reader/writer.\nNow with any Nintendo 3DS™ model,\nyou will be able to unlock exclusive\naircrafts inspired by corresponding\namiibo™ figurine.",
-    "release_date_on_eshop": "2015-02-12",
-    "product_code": "CTR-U-BCRP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0015A300",
+  "uid": "50010000030595",
+  "name": "ACE COMBAT™ ASSAULT\nHORIZON LEGACY + - Update",
+  "formal_name": "ACE COMBAT™ ASSAULT\nHORIZON LEGACY + - Update",
+  "description": "This patch enables compatibility with\nthe Nintendo 3DS™ NFC reader/writer.\nNow with any Nintendo 3DS™ model,\nyou will be able to unlock exclusive\naircrafts inspired by corresponding\namiibo™ figurine.",
+  "release_date_on_eshop": "2015-02-12",
+  "product_code": "CTR-U-BCRP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Games Europe",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

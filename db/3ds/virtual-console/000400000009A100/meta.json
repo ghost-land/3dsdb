@@ -20,7 +20,13 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Europe",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

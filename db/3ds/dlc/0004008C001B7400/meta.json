@@ -1,21 +1,30 @@
 {
-    "tid": "0004008C001B7400",
-    "uid": "",
-    "name": "Pic-a-Pix Colour Add On Content",
-    "formal_name": "Pic-a-Pix Colour Add On Content",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-K9PP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001B7400",
+  "uid": "",
+  "name": "Pic-a-Pix Colour Add On Content",
+  "formal_name": "Pic-a-Pix Colour Add On Content",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-K9PP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Lightwood Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -18,10 +18,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v0.0.0",
   "disclaimer": "ニンテンドー3DSソフト「モンスターハンター3(トライ)G」のデータ修正プログラムです。単体でプレイすることはできません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

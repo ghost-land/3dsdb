@@ -1,21 +1,37 @@
 {
-    "tid": "0004000000075400",
-    "uid": "",
-    "name": "Mario Advance 3",
-    "formal_name": "Mario Advance 3",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-PADP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000075400",
+  "uid": "",
+  "name": "Mario Advance 3",
+  "formal_name": "Mario Advance 3",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-PADP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

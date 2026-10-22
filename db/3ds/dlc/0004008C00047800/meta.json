@@ -22,9 +22,16 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "In-game content available for purchase using stored account funds.",
   "descriptors": [
     "Mild Suggestive Themes"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

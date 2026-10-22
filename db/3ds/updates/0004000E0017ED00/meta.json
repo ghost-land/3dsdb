@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0017ED00",
-    "uid": "50010000040755",
-    "name": "LEGO® STAR WARS™: THE\nFORCE AWAKENS - Update",
-    "formal_name": "LEGO® STAR WARS™: THE\nFORCE AWAKENS - Update",
-    "description": "Patch which will take LEGO STAR\nWARS: The Force Awakens to v1.1.0\nand contains a number of fixes\nthroughout the game.\n<br/><br/>\n• Fixed a crash on the character\ncustomizer due to a memory leak.\n<br/><br/>\n• Fixed a crash that could potentially\noccur when opening the Galaxy Map\n<br/><br/>\n• Fixed an issue that could prevent\nthe user from continuing play if they\npaused the game immediately after\nexiting from a freeplay mission.\n<br/><br/>\n• Several rare memory crashes\nthroughout the game addressed.\n<br/><br/>\n• Fixed being unable to use the touch\nscreen to change vehicles in flight\nsections.\n<br/><br/>\n• Fixed an issue that could occur\nwhen rapidly swapping character that\ncaused the “MISSING STRING” text to\noccur.\n<br/><br/>\n• Updated credits.",
-    "release_date_on_eshop": "2016-06-28",
-    "product_code": "CTR-U-BLWP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": "* Game contains English voice over.",
-    "descriptors": []
+  "tid": "0004000E0017ED00",
+  "uid": "50010000040755",
+  "name": "LEGO® STAR WARS™: THE\nFORCE AWAKENS - Update",
+  "formal_name": "LEGO® STAR WARS™: THE\nFORCE AWAKENS - Update",
+  "description": "Patch which will take LEGO STAR\nWARS: The Force Awakens to v1.1.0\nand contains a number of fixes\nthroughout the game.\n<br/><br/>\n• Fixed a crash on the character\ncustomizer due to a memory leak.\n<br/><br/>\n• Fixed a crash that could potentially\noccur when opening the Galaxy Map\n<br/><br/>\n• Fixed an issue that could prevent\nthe user from continuing play if they\npaused the game immediately after\nexiting from a freeplay mission.\n<br/><br/>\n• Several rare memory crashes\nthroughout the game addressed.\n<br/><br/>\n• Fixed being unable to use the touch\nscreen to change vehicles in flight\nsections.\n<br/><br/>\n• Fixed an issue that could occur\nwhen rapidly swapping character that\ncaused the “MISSING STRING” text to\noccur.\n<br/><br/>\n• Updated credits.",
+  "release_date_on_eshop": "2016-06-28",
+  "product_code": "CTR-U-BLWP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "* Game contains English voice over.",
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

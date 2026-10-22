@@ -1,21 +1,30 @@
 {
-    "tid": "0004000000075800",
-    "uid": "",
-    "name": "メイド イン ワリオ",
-    "formal_name": "メイド イン ワリオ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-PAFJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000075800",
+  "uid": "",
+  "name": "メイド イン ワリオ",
+  "formal_name": "メイド イン ワリオ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-PAFJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

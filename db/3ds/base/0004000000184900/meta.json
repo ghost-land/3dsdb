@@ -1,23 +1,41 @@
 {
-    "tid": "0004000000184900",
-    "uid": "50010000039276",
-    "name": "Kirby's Dream Land",
-    "formal_name": "Kirby's Dream Land",
-    "description": "1992년 게임보이용으로 발매된 게임입니다.\n\n동글동글한 주인공 커비의 특기는 큰 입으로 무엇이든지 빨아들이는 것입니다.\n빨아들인 적을 별로 바꿔서 다른 적을 공격하거나, 공기를 빨아들여서 하늘을 날 수도 있습니다. 커비가 사는 나라인 푸푸푸랜드의 자칭 왕인 ‘디디디 대왕’으로부터 푸푸푸랜드의 모든 먹을 것과 보물 ’반짝반짝 별’을 되찾기 위해 커비는 디디디 대왕의 성으로 향합니다. \n",
-    "release_date_on_eshop": "2016-02-03",
-    "product_code": "CTR-N-RAFZ",
-    "platform_name": "게임보이",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Kirby's Dream Land\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150923-006\n등급분류 일자:2015.9.23\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000184900",
+  "uid": "50010000039276",
+  "name": "Kirby's Dream Land",
+  "formal_name": "Kirby's Dream Land",
+  "description": "1992년 게임보이용으로 발매된 게임입니다.\n\n동글동글한 주인공 커비의 특기는 큰 입으로 무엇이든지 빨아들이는 것입니다.\n빨아들인 적을 별로 바꿔서 다른 적을 공격하거나, 공기를 빨아들여서 하늘을 날 수도 있습니다. 커비가 사는 나라인 푸푸푸랜드의 자칭 왕인 ‘디디디 대왕’으로부터 푸푸푸랜드의 모든 먹을 것과 보물 ’반짝반짝 별’을 되찾기 위해 커비는 디디디 대왕의 성으로 향합니다. \n",
+  "release_date_on_eshop": "2016-02-03",
+  "product_code": "CTR-N-RAFZ",
+  "platform_name": "게임보이",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Kirby's Dream Land\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150923-006\n등급분류 일자:2015.9.23\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

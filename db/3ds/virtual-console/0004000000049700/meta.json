@@ -22,5 +22,12 @@
   },
   "version": "v1.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "HAMSTER",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

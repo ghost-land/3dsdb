@@ -1,21 +1,25 @@
 {
-    "tid": "000400000009D600",
-    "uid": "",
-    "name": "ドラゴンクエストⅩ - 冒険者のおでかけ便利ツール",
-    "formal_name": "ドラゴンクエストⅩ - 冒険者のおでかけ便利ツール",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JDTJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000009D600",
+  "uid": "",
+  "name": "ドラゴンクエストⅩ - 冒険者のおでかけ便利ツール",
+  "formal_name": "ドラゴンクエストⅩ - 冒険者のおでかけ便利ツール",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JDTJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v6.3.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SQUARE ENIX"
 }

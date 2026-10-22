@@ -1,24 +1,41 @@
 {
-    "tid": "0004000E0011C200",
-    "uid": "50010000027958",
-    "name": "LEGO® Batman™ 3:\nBEYOND GOTHAM - Update",
-    "formal_name": "LEGO® Batman™ 3:\nBEYOND GOTHAM - Update",
-    "description": "This new patch includes a number of\nfixes which will improve the experience\nof the game.",
-    "release_date_on_eshop": "2014-11-14",
-    "product_code": "CTR-U-BTMP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0011C200",
+  "uid": "50010000027958",
+  "name": "LEGO® Batman™ 3:\nBEYOND GOTHAM - Update",
+  "formal_name": "LEGO® Batman™ 3:\nBEYOND GOTHAM - Update",
+  "description": "This new patch includes a number of\nfixes which will improve the experience\nof the game.",
+  "release_date_on_eshop": "2014-11-14",
+  "product_code": "CTR-U-BTMP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -18,10 +18,17 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v0.1.0",
   "disclaimer": "※ニンテンドー3DS『トモダチコレクション 新生活』のソフトと、ニンテンドーDS『トモダチコレクション』のソフトが必要です。\n<br>※最大100人のMiiが引越しできます。\n<br>※人間関係や満足度レベル、服などは引き継ぐことができません。\n<br>※ニンテンドーDS『トモダチコレクション』のセーブデータからMiiが消えることはありません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C001A2C00",
-    "uid": "",
-    "name": "イラスト交換日記",
-    "formal_name": "イラスト交換日記",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KRJJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C001A2C00",
+  "uid": "",
+  "name": "イラスト交換日記",
+  "formal_name": "イラスト交換日記",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KRJJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.3.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

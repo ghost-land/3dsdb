@@ -1,21 +1,30 @@
 {
-    "tid": "0004008C00190A02",
-    "uid": "",
-    "name": "めがみめぐり",
-    "formal_name": "めがみめぐり",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-KWMJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00190A02",
+  "uid": "",
+  "name": "めがみめぐり",
+  "formal_name": "めがみめぐり",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-KWMJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

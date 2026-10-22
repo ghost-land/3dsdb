@@ -1,24 +1,41 @@
 {
-    "tid": "0004000000184800",
-    "uid": "50010000039275",
-    "name": "The Legend of Zelda",
-    "formal_name": "The Legend of Zelda",
-    "description": "1986년 패밀리컴퓨터용으로 발매된 게임입니다.\n \n액션과 수수께끼 풀이를 함께 즐길 수 있는 액션 어드벤처 게임으로 대마왕 가논에게 점령당한 왕국의 평화와 젤다 공주를 구하기 위해 주인공 링크는 8개로 나뉘어진 「트라이포스」의 조각을 찾으러 모험합니다. ",
-    "release_date_on_eshop": "2016-02-03",
-    "product_code": "CTR-N-TAEZ",
-    "platform_name": "패밀리컴퓨터",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "어드벤처"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v1.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n※ 닌텐도 3DS의 HOME 메뉴에서 본 \n소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n\n제명:The Legend of Zelda\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150923-007\n등급분류 일자:2015.9.23\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000184800",
+  "uid": "50010000039275",
+  "name": "The Legend of Zelda",
+  "formal_name": "The Legend of Zelda",
+  "description": "1986년 패밀리컴퓨터용으로 발매된 게임입니다.\n \n액션과 수수께끼 풀이를 함께 즐길 수 있는 액션 어드벤처 게임으로 대마왕 가논에게 점령당한 왕국의 평화와 젤다 공주를 구하기 위해 주인공 링크는 8개로 나뉘어진 「트라이포스」의 조각을 찾으러 모험합니다. ",
+  "release_date_on_eshop": "2016-02-03",
+  "product_code": "CTR-N-TAEZ",
+  "platform_name": "패밀리컴퓨터",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "어드벤처"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v1.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n※ 닌텐도 3DS의 HOME 메뉴에서 본 \n소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n\n제명:The Legend of Zelda\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150923-007\n등급분류 일자:2015.9.23\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

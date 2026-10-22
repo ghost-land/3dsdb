@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00173B00",
-    "uid": "50010000035275",
-    "name": "SAMURAI WARRIORS:\nChronicles 3: Update",
-    "formal_name": "SAMURAI WARRIORS:\nChronicles 3: Update",
-    "description": "This is an update for the\nNintendo 3DS software SAMURAI\nWARRIORS: Chronicles 3.\n<br/>\nAfter downloading this update, an\nicon will not appear on the\nNintendo 3DS HOME Menu.\n<br/>\nData for this update will appear in the\ndownloadable content section of\nSystem Settings, so please be careful\nnot to delete it.\n<br/>\nThe following changes have been\nmade:\n<br/>\n-Various text messages have been\nedited to reduce user confusion.",
-    "release_date_on_eshop": "2015-07-07",
-    "product_code": "CTR-U-BC4P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00173B00",
+  "uid": "50010000035275",
+  "name": "SAMURAI WARRIORS:\nChronicles 3: Update",
+  "formal_name": "SAMURAI WARRIORS:\nChronicles 3: Update",
+  "description": "This is an update for the\nNintendo 3DS software SAMURAI\nWARRIORS: Chronicles 3.\n<br/>\nAfter downloading this update, an\nicon will not appear on the\nNintendo 3DS HOME Menu.\n<br/>\nData for this update will appear in the\ndownloadable content section of\nSystem Settings, so please be careful\nnot to delete it.\n<br/>\nThe following changes have been\nmade:\n<br/>\n-Various text messages have been\nedited to reduce user confusion.",
+  "release_date_on_eshop": "2015-07-07",
+  "product_code": "CTR-U-BC4P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "KOEI TECMO GAMES",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

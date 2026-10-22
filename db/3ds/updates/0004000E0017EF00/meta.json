@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0017EF00",
-    "uid": "50010000040756",
-    "name": "LEGO® Star Wars™: Das\nErwachen der Macht - Update",
-    "formal_name": "LEGO® Star Wars™: Das\nErwachen der Macht - Update",
-    "description": "Patch setzt LEGO STAR WARS: Das\nErwachen der Macht auf v1.1.0 und\nbehebt eine Reihe von Fehlern im\nganzen Spiel.\n<br/><br/>\n• Behebt einen Fehler im Character\nCustomizer aufgrund eines\nSpeicherlecks.\n<br/><br/>\n• Behebt einen möglichen Fehler beim\nÖffnen der Galaxiekarte.\n<br/><br/>\n• Behebt ein Problem, bei dem Nutzer\nnicht mehr weiterspielen konnten,\nwenn sie das Spiel sofort nach dem\nVerlassen der Freeplay-Mission\npausiert haben.\n<br/><br/>\n• Mehrere seltene Speicherfehler im\nVerlauf des Spiels behoben.\n<br/><br/>\n• Jetzt ist der Touch-Bildschirm zum\nFahrzeugwechsel in den\nFlugabschnitten zu sehen.\n<br/><br/>\n• Hat einen Fehler behoben, der\nauftreten konnte, wenn schnell\nCharakter gewechselt wurden, was\ndazu führte, dass der Text „MISSING\nSTRING\" angezeigt wurde.\n<br/><br/>\n• Aktualisierter Abspann.",
-    "release_date_on_eshop": "2016-06-28",
-    "product_code": "CTR-U-BLWD",
-    "platform_name": "Update-Daten",
-    "region": "Germany",
-    "genres": [
-        "Andere"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "*Spiel enthält deutsche\nSprachausgabe.",
-    "descriptors": []
+  "tid": "0004000E0017EF00",
+  "uid": "50010000040756",
+  "name": "LEGO® Star Wars™: Das\nErwachen der Macht - Update",
+  "formal_name": "LEGO® Star Wars™: Das\nErwachen der Macht - Update",
+  "description": "Patch setzt LEGO STAR WARS: Das\nErwachen der Macht auf v1.1.0 und\nbehebt eine Reihe von Fehlern im\nganzen Spiel.\n<br/><br/>\n• Behebt einen Fehler im Character\nCustomizer aufgrund eines\nSpeicherlecks.\n<br/><br/>\n• Behebt einen möglichen Fehler beim\nÖffnen der Galaxiekarte.\n<br/><br/>\n• Behebt ein Problem, bei dem Nutzer\nnicht mehr weiterspielen konnten,\nwenn sie das Spiel sofort nach dem\nVerlassen der Freeplay-Mission\npausiert haben.\n<br/><br/>\n• Mehrere seltene Speicherfehler im\nVerlauf des Spiels behoben.\n<br/><br/>\n• Jetzt ist der Touch-Bildschirm zum\nFahrzeugwechsel in den\nFlugabschnitten zu sehen.\n<br/><br/>\n• Hat einen Fehler behoben, der\nauftreten konnte, wenn schnell\nCharakter gewechselt wurden, was\ndazu führte, dass der Text „MISSING\nSTRING\" angezeigt wurde.\n<br/><br/>\n• Aktualisierter Abspann.",
+  "release_date_on_eshop": "2016-06-28",
+  "product_code": "CTR-U-BLWD",
+  "platform_name": "Update-Daten",
+  "region": "Germany",
+  "genres": [
+    "Andere"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "*Spiel enthält deutsche\nSprachausgabe.",
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

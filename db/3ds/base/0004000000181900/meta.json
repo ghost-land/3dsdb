@@ -1,23 +1,41 @@
 {
-    "tid": "0004000000181900",
-    "uid": "50010000039580",
-    "name": "Wario Land 2",
-    "formal_name": "Wario Land 2",
-    "description": "1999년 게임보이 컬러용으로 발매된 게임입니다.\n\n와리오의 성에 몰래 침입해서 보물을 훔쳐 간 블랙 슈거단. 와리오는 보물을 되찾기 위해 블랙 슈거단을 쫓아갑니다. \n와리오는 어택과 힙드롭 등의 액션으로 적을 공격할 뿐 아니라, 적의 공격을 받고 찌그러지기, 살찌기, 얼굴이 부푸는 등의 리액션을 일으킵니다. 리액션을 일으키면 좁은 곳을 통과하거나, 풍선 같이 부풀어서 떠올라, 여러 가지 장치들을 돌파할 수 있습니다. \n",
-    "release_date_on_eshop": "2016-03-02",
-    "product_code": "CTR-N-QAJZ",
-    "platform_name": "게임보이 컬러",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n<br>제명:Wario Land 2\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호: GC-CC-NV-160204-008\n<br>등급분류 일자:2016.2.4\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000181900",
+  "uid": "50010000039580",
+  "name": "Wario Land 2",
+  "formal_name": "Wario Land 2",
+  "description": "1999년 게임보이 컬러용으로 발매된 게임입니다.\n\n와리오의 성에 몰래 침입해서 보물을 훔쳐 간 블랙 슈거단. 와리오는 보물을 되찾기 위해 블랙 슈거단을 쫓아갑니다. \n와리오는 어택과 힙드롭 등의 액션으로 적을 공격할 뿐 아니라, 적의 공격을 받고 찌그러지기, 살찌기, 얼굴이 부푸는 등의 리액션을 일으킵니다. 리액션을 일으키면 좁은 곳을 통과하거나, 풍선 같이 부풀어서 떠올라, 여러 가지 장치들을 돌파할 수 있습니다. \n",
+  "release_date_on_eshop": "2016-03-02",
+  "product_code": "CTR-N-QAJZ",
+  "platform_name": "게임보이 컬러",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n<br>제명:Wario Land 2\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호: GC-CC-NV-160204-008\n<br>등급분류 일자:2016.2.4\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

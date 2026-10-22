@@ -1,23 +1,41 @@
 {
-    "tid": "0004000E0015A200",
-    "uid": "50010000033695",
-    "name": "OlliOlli - Update",
-    "formal_name": "OlliOlli - Update",
-    "description": "Fixed stability issues",
-    "release_date_on_eshop": "2015-05-26",
-    "product_code": "CTR-U-KLLP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0015A200",
+  "uid": "50010000033695",
+  "name": "OlliOlli - Update",
+  "formal_name": "OlliOlli - Update",
+  "description": "Fixed stability issues",
+  "release_date_on_eshop": "2015-05-26",
+  "product_code": "CTR-U-KLLP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Curve Digital",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

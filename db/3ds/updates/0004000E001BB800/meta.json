@@ -1,23 +1,32 @@
 {
-    "tid": "0004000E001BB800",
-    "uid": "50010000044096",
-    "name": "슈퍼 마리오 메이커 for\n닌텐도 3DS 업데이트 데이터 ver.1.05",
-    "formal_name": "슈퍼 마리오 메이커 for\n닌텐도 3DS 업데이트 데이터 ver.1.05",
-    "description": "닌텐도 3DS 소프트웨어 「슈퍼 마리오 메이커 for 닌텐도 3DS」의 업데이트 데이터입니다.\n「슈퍼 마리오 메이커 for 닌텐도 3DS」를 갖고 계신 고객님께서는 반드시 다운로드해 주십시오.\n\nVer.1.05  (2021.3.24 배포)\n•소프트웨어를 쾌적하게 즐기실 수 있도록 몇 가지 문제점을 수정했습니다.",
-    "release_date_on_eshop": "2021-03-24",
-    "product_code": "CTR-U-AJHK",
-    "platform_name": "업데이트 데이터",
-    "region": "Korea",
-    "genres": [
-        "업데이트 데이터"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "닌텐도 3DS 소프트웨어 「마리오 메이커」의 업데이트 데이터입니다.\n본 데이터는 다운로드한 후에 HOME 메뉴에 아이콘이 표시되지 않습니다.\n｢본체 설정｣의 ｢데이터 관리｣→｢추가 콘텐츠 관리｣에 본 데이터가 표시됩니다.\n삭제하지 않도록 주의해 주십시오.\n",
-    "descriptors": []
+  "tid": "0004000E001BB800",
+  "uid": "50010000044096",
+  "name": "슈퍼 마리오 메이커 for\n닌텐도 3DS 업데이트 데이터 ver.1.05",
+  "formal_name": "슈퍼 마리오 메이커 for\n닌텐도 3DS 업데이트 데이터 ver.1.05",
+  "description": "닌텐도 3DS 소프트웨어 「슈퍼 마리오 메이커 for 닌텐도 3DS」의 업데이트 데이터입니다.\n「슈퍼 마리오 메이커 for 닌텐도 3DS」를 갖고 계신 고객님께서는 반드시 다운로드해 주십시오.\n\nVer.1.05  (2021.3.24 배포)\n•소프트웨어를 쾌적하게 즐기실 수 있도록 몇 가지 문제점을 수정했습니다.",
+  "release_date_on_eshop": "2021-03-24",
+  "product_code": "CTR-U-AJHK",
+  "platform_name": "업데이트 데이터",
+  "region": "Korea",
+  "genres": [
+    "업데이트 데이터"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v8.3.0",
+  "disclaimer": "닌텐도 3DS 소프트웨어 「마리오 메이커」의 업데이트 데이터입니다.\n본 데이터는 다운로드한 후에 HOME 메뉴에 아이콘이 표시되지 않습니다.\n｢본체 설정｣의 ｢데이터 관리｣→｢추가 콘텐츠 관리｣에 본 데이터가 표시됩니다.\n삭제하지 않도록 주의해 주십시오.\n",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

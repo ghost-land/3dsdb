@@ -21,7 +21,14 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v1.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

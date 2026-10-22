@@ -1,23 +1,39 @@
 {
-    "tid": "0004000E0012CA00",
-    "uid": "50010000036835",
-    "name": "Mario vs. Donkey Kong™\nTipping Stars: Update",
-    "formal_name": "Mario vs. Donkey Kong™\nTipping Stars: Update",
-    "description": "An update for \"Mario vs. Donkey Kong™ Tipping Stars\" is now available from Nintendo eShop.\nAll customers who own a copy of “Mario vs. Donkey Kong™ Tipping Stars” should download the update.\nThis will update the software to Version 1.0.1 with the following amendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "release_date_on_eshop": "2015-09-02",
-    "product_code": "CTR-U-JYLP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0012CA00",
+  "uid": "50010000036835",
+  "name": "Mario vs. Donkey Kong™\nTipping Stars: Update",
+  "formal_name": "Mario vs. Donkey Kong™\nTipping Stars: Update",
+  "description": "An update for \"Mario vs. Donkey Kong™ Tipping Stars\" is now available from Nintendo eShop.\nAll customers who own a copy of “Mario vs. Donkey Kong™ Tipping Stars” should download the update.\nThis will update the software to Version 1.0.1 with the following amendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+  "release_date_on_eshop": "2015-09-02",
+  "product_code": "CTR-U-JYLP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

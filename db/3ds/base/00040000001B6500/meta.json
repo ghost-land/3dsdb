@@ -27,5 +27,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは、オンラインギャラリーにアニメーションをアップロードする場合は、\n<br>Butterflyのサービス利用条件とコミュニティガイドライン\n<br>(www.butterflyanimation.comに掲載)に同意して頂くことが条件となります。\n<br>\n<br>他者の著作権またはプライバシーの権利を絶対に侵害しないでください。\n<br>若年者に不適切なコンテンツには「成人向けコンテンツ」というフラグを立ててください。\n<br>公序良俗に反するコンテンツは削除します。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Rainy Frog",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

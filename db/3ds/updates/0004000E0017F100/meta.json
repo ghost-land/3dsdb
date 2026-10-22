@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0017F100",
-    "uid": "50010000040758",
-    "name": "LEGO® Star Wars ™: Il risveglio\ndella Forza - Aggiornamenti",
-    "formal_name": "LEGO® Star Wars ™: Il risveglio\ndella Forza - Aggiornamenti",
-    "description": "La patch porta LEGO STAR WARS: Il\nrisveglio della Forza alla v1.1.0 e\ncomprende la risoluzione di vari\nproblemi riscontrati nel gioco.\n<br/><br/>\n• Risolto un arresto anomalo in fase\ndi personalizzazione dei personaggi\ndovuto a una perdita di memoria.\n<br/><br/>\n• Risolto un arresto anomalo che\npoteva verificarsi all'apertura della\nMappa della Galassia.\n<br/><br/>\n• Risolto un problema che poteva\nimpedire di continuare una partita\nmessa in pausa subito dopo essere\nusciti da una missione in modalità\ngioco libero.\n<br/><br/>\n• Risolti arresti anomali rari in varie\nparti del gioco dovuti a mancanza di\nmemoria.\n<br/><br/>\n• Risolto il problema che impediva\nl'utilizzo del touch screen per\ncambiare i veicoli nelle sezioni di volo.\n<br/><br/>\n• Risolto un problema che poteva\ncausare la comparsa del messaggio\n“MISSING STRING” quando i\npersonaggi venivano sostituiti\nrapidamente.\n<br/><br/>\n• Aggiornamento dei riconoscimenti.",
-    "release_date_on_eshop": "2016-06-28",
-    "product_code": "CTR-U-BLWI",
-    "platform_name": "Dati di aggiornamento",
-    "region": "Italy",
-    "genres": [
-        "Altro"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "* Il gioco contiene voiceover in\nitaliano.",
-    "descriptors": []
+  "tid": "0004000E0017F100",
+  "uid": "50010000040758",
+  "name": "LEGO® Star Wars ™: Il risveglio\ndella Forza - Aggiornamenti",
+  "formal_name": "LEGO® Star Wars ™: Il risveglio\ndella Forza - Aggiornamenti",
+  "description": "La patch porta LEGO STAR WARS: Il\nrisveglio della Forza alla v1.1.0 e\ncomprende la risoluzione di vari\nproblemi riscontrati nel gioco.\n<br/><br/>\n• Risolto un arresto anomalo in fase\ndi personalizzazione dei personaggi\ndovuto a una perdita di memoria.\n<br/><br/>\n• Risolto un arresto anomalo che\npoteva verificarsi all'apertura della\nMappa della Galassia.\n<br/><br/>\n• Risolto un problema che poteva\nimpedire di continuare una partita\nmessa in pausa subito dopo essere\nusciti da una missione in modalità\ngioco libero.\n<br/><br/>\n• Risolti arresti anomali rari in varie\nparti del gioco dovuti a mancanza di\nmemoria.\n<br/><br/>\n• Risolto il problema che impediva\nl'utilizzo del touch screen per\ncambiare i veicoli nelle sezioni di volo.\n<br/><br/>\n• Risolto un problema che poteva\ncausare la comparsa del messaggio\n“MISSING STRING” quando i\npersonaggi venivano sostituiti\nrapidamente.\n<br/><br/>\n• Aggiornamento dei riconoscimenti.",
+  "release_date_on_eshop": "2016-06-28",
+  "product_code": "CTR-U-BLWI",
+  "platform_name": "Dati di aggiornamento",
+  "region": "Italy",
+  "genres": [
+    "Altro"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "* Il gioco contiene voiceover in\nitaliano.",
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

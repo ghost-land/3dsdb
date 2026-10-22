@@ -23,7 +23,14 @@
     "name": "CERO",
     "age": "12"
   },
-  "version": "",
+  "version": "v1.2.0",
   "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

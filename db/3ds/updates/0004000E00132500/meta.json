@@ -1,23 +1,42 @@
 {
-    "tid": "0004000E00132500",
-    "uid": "50010000032535",
-    "name": "Code Name: S.T.E.A.M.:\nUpdate",
-    "formal_name": "Code Name: S.T.E.A.M.:\nUpdate",
-    "description": "An update for \"Code Name:\nS.T.E.A.M.\" is now available from\nNintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Code Name: S.T.E.A.M.” should\ndownload the update.\n<br/><br/>\nThis will update the software to\nVersion 1.2.0 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.",
-    "release_date_on_eshop": "2015-05-15",
-    "product_code": "CTR-U-AY6A",
-    "platform_name": "Update Data",
-    "region": "Region Free",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00132500",
+  "uid": "50010000032535",
+  "name": "Code Name: S.T.E.A.M.:\nUpdate",
+  "formal_name": "Code Name: S.T.E.A.M.:\nUpdate",
+  "description": "An update for \"Code Name:\nS.T.E.A.M.\" is now available from\nNintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Code Name: S.T.E.A.M.” should\ndownload the update.\n<br/><br/>\nThis will update the software to\nVersion 1.2.0 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.",
+  "release_date_on_eshop": "2015-05-15",
+  "product_code": "CTR-U-AY6A",
+  "platform_name": "Update Data",
+  "region": "Region Free",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

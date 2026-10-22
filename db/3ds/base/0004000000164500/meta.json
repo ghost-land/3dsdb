@@ -22,9 +22,15 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<BR>\nVisit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [
     "No Descriptors"
-  ]
+  ],
+  "publisher": "Abylight",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,38 @@
 {
-    "tid": "0004000E00119A00",
-    "uid": "",
-    "name": "Shovel Knight 1.1",
-    "formal_name": "Shovel Knight 1.1",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-U-JK8E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00119A00",
+  "uid": "",
+  "name": "Shovel Knight 1.1",
+  "formal_name": "Shovel Knight 1.1",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-U-JK8E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Yacht Club Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

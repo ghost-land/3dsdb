@@ -16,10 +16,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v1.4.0",
   "disclaimer": "ニンテンドー3DSソフト『コロロケの森 ぽいっと』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Gamedo,Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

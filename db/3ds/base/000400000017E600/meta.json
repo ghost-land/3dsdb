@@ -1,23 +1,40 @@
 {
-    "tid": "000400000017E600",
-    "uid": "50010000035995",
-    "name": "Super Mario Bros.",
-    "formal_name": "Super Mario Bros.",
-    "description": "1985년 패밀리컴퓨터용으로 발매된 게임입니다.\n\n쿠파에게 납치된 피치공주를 구출하기 위해 떠나는 마리오의 모험을 그린 횡스크롤 액션 게임으로 총 8개의 월드가 있으며 각각의 월드는 4개의 스테이지로 구성되어 있습니다. \n간단한 조작, 다양한 장치, 귀여운 캐릭터들이 등장하는 남녀노소 누구나 즐길 수 있는 게임입니다.",
-    "release_date_on_eshop": "2016-02-03",
-    "product_code": "CTR-N-TAAZ",
-    "platform_name": "패밀리컴퓨터",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Super Mario Bros.\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150703-010\n등급분류 일자:2015.7.3.\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "000400000017E600",
+  "uid": "50010000035995",
+  "name": "Super Mario Bros.",
+  "formal_name": "Super Mario Bros.",
+  "description": "1985년 패밀리컴퓨터용으로 발매된 게임입니다.\n\n쿠파에게 납치된 피치공주를 구출하기 위해 떠나는 마리오의 모험을 그린 횡스크롤 액션 게임으로 총 8개의 월드가 있으며 각각의 월드는 4개의 스테이지로 구성되어 있습니다. \n간단한 조작, 다양한 장치, 귀여운 캐릭터들이 등장하는 남녀노소 누구나 즐길 수 있는 게임입니다.",
+  "release_date_on_eshop": "2016-02-03",
+  "product_code": "CTR-N-TAAZ",
+  "platform_name": "패밀리컴퓨터",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Super Mario Bros.\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-150703-010\n등급분류 일자:2015.7.3.\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

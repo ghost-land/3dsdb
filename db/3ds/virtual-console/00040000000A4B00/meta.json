@@ -1,27 +1,43 @@
 {
-    "tid": "00040000000A4B00",
-    "uid": "50010000017435",
-    "name": "Star Soldier™",
-    "formal_name": "Star Soldier™",
-    "description": "The standard for vertically scrolling shooters, Star Soldier is the original game that spawned all of the titles in the long-running Soldier series. Go inside a floating space station inhabited by a giant computer known as Starbrain. Your mission: to stop Starbrain's galactic invasion by piloting Caesar, a new, compact space fighter through 16 deadly stages.\n<BR><BR>\nCollect power capsules to increase three different attributes of your ship: firepower, movement speed, and defensive shields. Blast wave after wave of approaching enemies or use the innovative Trap Zone feature to fly beneath a land mass and avoid incoming fire. Conquer each stage to make your way to the final confrontation with Starbrain!",
-    "release_date_on_eshop": "2013-10-24",
-    "product_code": "CTR-N-TBLE",
-    "platform_name": "NES",
-    "region": "North America",
-    "genres": [
-        "Shooter",
-        "Arcade",
-        "Action"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Mild Fantasy Violence"
+  "tid": "00040000000A4B00",
+  "uid": "50010000017435",
+  "name": "Star Soldier™",
+  "formal_name": "Star Soldier™",
+  "description": "The standard for vertically scrolling shooters, Star Soldier is the original game that spawned all of the titles in the long-running Soldier series. Go inside a floating space station inhabited by a giant computer known as Starbrain. Your mission: to stop Starbrain's galactic invasion by piloting Caesar, a new, compact space fighter through 16 deadly stages.\n<BR><BR>\nCollect power capsules to increase three different attributes of your ship: firepower, movement speed, and defensive shields. Blast wave after wave of approaching enemies or use the innovative Trap Zone feature to fly beneath a land mass and avoid incoming fire. Conquer each stage to make your way to the final confrontation with Starbrain!",
+  "release_date_on_eshop": "2013-10-24",
+  "product_code": "CTR-N-TBLE",
+  "platform_name": "NES",
+  "region": "North America",
+  "genres": [
+    "Shooter",
+    "Arcade",
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "6"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
+  "publisher": "KONAMI",
+  "smdh": {
+    "flags": [
+      "SaveData"
     ]
+  }
 }

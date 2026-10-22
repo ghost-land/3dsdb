@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00065000",
-    "uid": "50010000015056",
-    "name": "Secret Mysteries in London -\nUpdate",
-    "formal_name": "Secret Mysteries in London -\nUpdate",
-    "description": "This update ensures that any\nproblems will be solved when playing\nin the German language.",
-    "release_date_on_eshop": "2012-07-03",
-    "product_code": "CTR-U-ASXP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00065000",
+  "uid": "50010000015056",
+  "name": "Secret Mysteries in London -\nUpdate",
+  "formal_name": "Secret Mysteries in London -\nUpdate",
+  "description": "This update ensures that any\nproblems will be solved when playing\nin the German language.",
+  "release_date_on_eshop": "2012-07-03",
+  "product_code": "CTR-U-ASXP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "MSL",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,41 @@
 {
-    "tid": "0004000000181500",
-    "uid": "50010000040543",
-    "name": "Super Mario Land 2:\n6 Golden Coins",
-    "formal_name": "Super Mario Land 2:\n6 Golden Coins",
-    "description": "1992년 게임보이용으로 발매된 게임입니다.\n\n마리오를 조작하는 액션 게임으로 와리오에 의해 점령당한 마리오성을 되찾기 위해 마리오는 ‘6개의 금화’를 모으는 모험을 하게 됩니다. \n모험의 무대는 ‘스페이스 존’, ‘마크로 존’, ‘터틀 존’ 등 다양한 6개의 존입니다. \n각각의 스테이지에서 금화를 모아 마리오성을 향합니다. \n",
-    "release_date_on_eshop": "2016-06-01",
-    "product_code": "CTR-N-RAGZ",
-    "platform_name": "게임보이",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Super Mario Land 2:\n<br>   6 Golden Coins\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-150821-007\n<br>등급분류 일자:2015.8.21\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000181500",
+  "uid": "50010000040543",
+  "name": "Super Mario Land 2:\n6 Golden Coins",
+  "formal_name": "Super Mario Land 2:\n6 Golden Coins",
+  "description": "1992년 게임보이용으로 발매된 게임입니다.\n\n마리오를 조작하는 액션 게임으로 와리오에 의해 점령당한 마리오성을 되찾기 위해 마리오는 ‘6개의 금화’를 모으는 모험을 하게 됩니다. \n모험의 무대는 ‘스페이스 존’, ‘마크로 존’, ‘터틀 존’ 등 다양한 6개의 존입니다. \n각각의 스테이지에서 금화를 모아 마리오성을 향합니다. \n",
+  "release_date_on_eshop": "2016-06-01",
+  "product_code": "CTR-N-RAGZ",
+  "platform_name": "게임보이",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Super Mario Land 2:\n<br>   6 Golden Coins\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-150821-007\n<br>등급분류 일자:2015.8.21\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,41 @@
 {
-    "tid": "0004000000181B00",
-    "uid": "50010000040929",
-    "name": "Golf",
-    "formal_name": "Golf",
-    "description": "1990년 게임보이용으로 발매된 게임입니다.\n\n코스의 레이아웃을 바라 보면서 남은 거리로부터 적절한 클럽을 선택하여 바람의 방향을 읽고 스윙하는 골프의 즐거움을 느낄 수 있습니다. 비교적 쉬운 JAPAN 코스와 다소 난이도가 있는 U.S.A 코스로 나뉘어 있습니다.",
-    "release_date_on_eshop": "2016-07-20",
-    "product_code": "CTR-N-RALZ",
-    "platform_name": "게임보이",
-    "region": "Korea",
-    "genres": [
-        "스포츠"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Golf\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160527-011\n등급분류 일자:2016.5.27\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000181B00",
+  "uid": "50010000040929",
+  "name": "Golf",
+  "formal_name": "Golf",
+  "description": "1990년 게임보이용으로 발매된 게임입니다.\n\n코스의 레이아웃을 바라 보면서 남은 거리로부터 적절한 클럽을 선택하여 바람의 방향을 읽고 스윙하는 골프의 즐거움을 느낄 수 있습니다. 비교적 쉬운 JAPAN 코스와 다소 난이도가 있는 U.S.A 코스로 나뉘어 있습니다.",
+  "release_date_on_eshop": "2016-07-20",
+  "product_code": "CTR-N-RALZ",
+  "platform_name": "게임보이",
+  "region": "Korea",
+  "genres": [
+    "스포츠"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Golf\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160527-011\n등급분류 일자:2016.5.27\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어: 영어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

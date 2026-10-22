@@ -22,10 +22,17 @@
     "nl"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "PEGI",
+    "age": "7"
   },
   "version": "v1.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

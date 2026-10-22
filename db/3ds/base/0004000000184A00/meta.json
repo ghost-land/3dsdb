@@ -1,24 +1,42 @@
 {
-    "tid": "0004000000184A00",
-    "uid": "50010000039578",
-    "name": "The Legend of Zelda \nLink's Awakening DX",
-    "formal_name": "The Legend of Zelda \nLink's Awakening DX",
-    "description": "1998년 게임보이 컬러용으로 발매된 게임입니다.\n\n폭풍에 휘말려 남쪽의 섬 「Koholint Island」에 상륙하게 된 링크. 링크는 섬에서 탈출하기 위해 모험을 시작하는데...\n익숙한 무기인 검과 방패, 섬에서 입수하는 여러 가지 아이템을 이용하여 동굴이나 신전의 수수께끼를 풀어가면서 「Koholint Island」의 진실에 다가갑니다.\n",
-    "release_date_on_eshop": "2016-03-02",
-    "product_code": "CTR-N-QAAZ",
-    "platform_name": "게임보이 컬러",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "어드벤처"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:The Legend of Zelda \n       Link's Awakening DX\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160204-007\n<br>등급분류 일자:2016.2.4\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000184A00",
+  "uid": "50010000039578",
+  "name": "The Legend of Zelda \nLink's Awakening DX",
+  "formal_name": "The Legend of Zelda \nLink's Awakening DX",
+  "description": "1998년 게임보이 컬러용으로 발매된 게임입니다.\n\n폭풍에 휘말려 남쪽의 섬 「Koholint Island」에 상륙하게 된 링크. 링크는 섬에서 탈출하기 위해 모험을 시작하는데...\n익숙한 무기인 검과 방패, 섬에서 입수하는 여러 가지 아이템을 이용하여 동굴이나 신전의 수수께끼를 풀어가면서 「Koholint Island」의 진실에 다가갑니다.\n",
+  "release_date_on_eshop": "2016-03-02",
+  "product_code": "CTR-N-QAAZ",
+  "platform_name": "게임보이 컬러",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "어드벤처"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:The Legend of Zelda \n       Link's Awakening DX\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160204-007\n<br>등급분류 일자:2016.2.4\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

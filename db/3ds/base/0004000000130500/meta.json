@@ -20,10 +20,17 @@
     "es"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "ESRB",
+    "age": "E"
   },
   "version": "v0.0.0",
   "disclaimer": "For use with Mario™, Peach™ Goomba, Bowser™, Koopa Troopa, or  Luigi™* cards found in special-edition Nintendo eShop Cards.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

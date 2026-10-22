@@ -22,10 +22,17 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v7.2.0",
   "disclaimer": "「ワールドうごメモギャラリー」でのチケットの販売は、2017年10月2日AM10:00に終了します。\n<br>2018年4月2日AM10:00には本サービスを終了します。くわしくは任天堂ホームページをご確認ください。\n<br>2013年11月1日をもちまして、「フレンドうごメモギャラリー」のサービスを停止いたしました。何卒ご了承くださいますようお願い申し上げます。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

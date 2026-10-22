@@ -1,24 +1,41 @@
 {
-    "tid": "0004000E00140100",
-    "uid": "50010000027957",
-    "name": "LEGO® BATMAN™ 3:\nGotham e Oltre - Aggiornamenti",
-    "formal_name": "LEGO® BATMAN™ 3:\nGotham e Oltre - Aggiornamenti",
-    "description": "Questa nuova patch include una serie\ndi correzioni che miglioreranno\nl'esperienza di gioco.",
-    "release_date_on_eshop": "2014-11-14",
-    "product_code": "CTR-U-BTMV",
-    "platform_name": "Dati di aggiornamento",
-    "region": "Italy",
-    "genres": [
-        "Dati di aggiornamento",
-        "Altro"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "Questo aggiornamento è per la versione italiana del gioco.",
-    "descriptors": []
+  "tid": "0004000E00140100",
+  "uid": "50010000027957",
+  "name": "LEGO® BATMAN™ 3:\nGotham e Oltre - Aggiornamenti",
+  "formal_name": "LEGO® BATMAN™ 3:\nGotham e Oltre - Aggiornamenti",
+  "description": "Questa nuova patch include una serie\ndi correzioni che miglioreranno\nl'esperienza di gioco.",
+  "release_date_on_eshop": "2014-11-14",
+  "product_code": "CTR-U-BTMV",
+  "platform_name": "Dati di aggiornamento",
+  "region": "Italy",
+  "genres": [
+    "Dati di aggiornamento",
+    "Altro"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": "Questo aggiornamento è per la versione italiana del gioco.",
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

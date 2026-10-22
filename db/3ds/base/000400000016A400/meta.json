@@ -26,5 +26,11 @@
   },
   "version": "v1.1.1",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Lightwood Games",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

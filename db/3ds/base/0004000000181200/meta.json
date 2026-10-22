@@ -1,24 +1,41 @@
 {
-    "tid": "0004000000181200",
-    "uid": "50010000039577",
-    "name": "Super Mario Bros. 2",
-    "formal_name": "Super Mario Bros. 2",
-    "description": "1988년 패밀리컴퓨터용으로 발매된 게임입니다.\n\n채소를 뽑아 던져서 적을 쓰러뜨리거나 마법의 약으로 반대 세계에 가는 등, 조금은 특별한 모험이 당신을 기다리고 있습니다. \n<br>\n플레이어가 선택할 수 있는 캐릭터는 마리오와 루이지, 키노피오, 피치공주입니다. \n채소를 뽑아서 들어올리는 힘이나 점프력 등 각각의 능력이 다르기 때문에 장소에 따라 캐릭터를 잘 선택해야 합니다. ",
-    "release_date_on_eshop": "2016-03-02",
-    "product_code": "CTR-N-TBMZ",
-    "platform_name": "패밀리컴퓨터",
-    "region": "Korea",
-    "genres": [
-        "액션",
-        "아케이드"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n※ 닌텐도 3DS의 HOME 메뉴에서 본 \n소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n \n<br>제명:Super Mario Bros. 2\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-150821-005\n<br>등급분류 일자:2015.8.21\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000181200",
+  "uid": "50010000039577",
+  "name": "Super Mario Bros. 2",
+  "formal_name": "Super Mario Bros. 2",
+  "description": "1988년 패밀리컴퓨터용으로 발매된 게임입니다.\n\n채소를 뽑아 던져서 적을 쓰러뜨리거나 마법의 약으로 반대 세계에 가는 등, 조금은 특별한 모험이 당신을 기다리고 있습니다. \n<br>\n플레이어가 선택할 수 있는 캐릭터는 마리오와 루이지, 키노피오, 피치공주입니다. \n채소를 뽑아서 들어올리는 힘이나 점프력 등 각각의 능력이 다르기 때문에 장소에 따라 캐릭터를 잘 선택해야 합니다. ",
+  "release_date_on_eshop": "2016-03-02",
+  "product_code": "CTR-N-TBMZ",
+  "platform_name": "패밀리컴퓨터",
+  "region": "Korea",
+  "genres": [
+    "액션",
+    "아케이드"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n※ 닌텐도 3DS의 HOME 메뉴에서 본 \n소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n \n<br>제명:Super Mario Bros. 2\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-150821-005\n<br>등급분류 일자:2015.8.21\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

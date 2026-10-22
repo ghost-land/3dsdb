@@ -1,23 +1,41 @@
 {
-    "tid": "0004000E00159000",
-    "uid": "50010000034015",
-    "name": "Titan Attacks! - Update",
-    "formal_name": "Titan Attacks! - Update",
-    "description": "Fixed stability issues.",
-    "release_date_on_eshop": "2015-06-04",
-    "product_code": "CTR-U-KTTP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00159000",
+  "uid": "50010000034015",
+  "name": "Titan Attacks! - Update",
+  "formal_name": "Titan Attacks! - Update",
+  "description": "Fixed stability issues.",
+  "release_date_on_eshop": "2015-06-04",
+  "product_code": "CTR-U-KTTP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Curve Digital",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,40 @@
 {
-    "tid": "0004000000195D00",
-    "uid": "50010000040861",
-    "name": "Super Mario Bros.:\nThe Lost Levels",
-    "formal_name": "Super Mario Bros.:\nThe Lost Levels",
-    "description": "1986년 패밀리컴퓨터용으로 발매된 게임입니다.\n\n납치된 피치 공주를 구해내고 버섯 왕국을 재건하기 위한 마리오의 루이지의 모험을 그리고 있습니다. \n안정된 움직임의 마리오와 보다 높게 점프가 가능하지만 미끄러지기 쉬운 루이지를 조작하여 두 사람의 개성을 살려 골을 목표로 하여 얻으면 미스 처리가 되는 독 버섯을 피하는 등의 전작과 다른 플레이가 가능합니다. ",
-    "release_date_on_eshop": "2016-07-06",
-    "product_code": "CTR-N-TATZ",
-    "platform_name": "패밀리컴퓨터",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>※ 닌텐도 3DS의 HOME 메뉴에서 본 \n<br>소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n<br>자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n<br>\n<br>제명:Super Mario Bros.:\n  The Lost Levels\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160527-012\n<br>등급분류 일자:2016.5.27\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000195D00",
+  "uid": "50010000040861",
+  "name": "Super Mario Bros.:\nThe Lost Levels",
+  "formal_name": "Super Mario Bros.:\nThe Lost Levels",
+  "description": "1986년 패밀리컴퓨터용으로 발매된 게임입니다.\n\n납치된 피치 공주를 구해내고 버섯 왕국을 재건하기 위한 마리오의 루이지의 모험을 그리고 있습니다. \n안정된 움직임의 마리오와 보다 높게 점프가 가능하지만 미끄러지기 쉬운 루이지를 조작하여 두 사람의 개성을 살려 골을 목표로 하여 얻으면 미스 처리가 되는 독 버섯을 피하는 등의 전작과 다른 플레이가 가능합니다. ",
+  "release_date_on_eshop": "2016-07-06",
+  "product_code": "CTR-N-TATZ",
+  "platform_name": "패밀리컴퓨터",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>※ 닌텐도 3DS의 HOME 메뉴에서 본 \n<br>소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n<br>자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n<br>\n<br>제명:Super Mario Bros.:\n  The Lost Levels\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160527-012\n<br>등급분류 일자:2016.5.27\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

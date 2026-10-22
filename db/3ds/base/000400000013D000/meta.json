@@ -1,21 +1,30 @@
 {
-    "tid": "000400000013D000",
-    "uid": "",
-    "name": "ドラゴンボールヒーローズ　ＵＭ２ - ゲームデータ引継ぎアプリ",
-    "formal_name": "ドラゴンボールヒーローズ　ＵＭ２ - ゲームデータ引継ぎアプリ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KTGJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000013D000",
+  "uid": "",
+  "name": "ドラゴンボールヒーローズ　ＵＭ２ - ゲームデータ引継ぎアプリ",
+  "formal_name": "ドラゴンボールヒーローズ　ＵＭ２ - ゲームデータ引継ぎアプリ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KTGJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "株式会社バンダイナムコゲームス",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

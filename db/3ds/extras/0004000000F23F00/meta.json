@@ -1,21 +1,34 @@
 {
-    "tid": "0004000000F23F00",
-    "uid": "",
-    "name": "Cookie Clicker port for 3DS",
-    "formal_name": "Cookie Clicker port for 3DS",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-LPPD",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000F23F00",
+  "uid": "",
+  "name": "Cookie Clicker port for 3DS",
+  "formal_name": "Cookie Clicker port for 3DS",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-LPPD",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Creckeryop"
 }

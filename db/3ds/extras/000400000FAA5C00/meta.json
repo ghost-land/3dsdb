@@ -1,21 +1,39 @@
 {
-    "tid": "000400000FAA5C00",
-    "uid": "",
-    "name": "Super Mario 64 - 3DS Port (Luigi Version)",
-    "formal_name": "Super Mario 64 - 3DS Port (Luigi Version)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-PWDR",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000FAA5C00",
+  "uid": "",
+  "name": "Super Mario 64 - 3DS Port (Luigi Version)",
+  "formal_name": "Super Mario 64 - 3DS Port (Luigi Version)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-PWDR",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Gericom",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

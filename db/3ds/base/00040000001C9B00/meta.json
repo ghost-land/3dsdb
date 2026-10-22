@@ -25,5 +25,12 @@
   },
   "version": "v1.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Rainy Frog",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

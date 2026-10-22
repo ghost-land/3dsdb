@@ -27,5 +27,12 @@
   },
   "version": "v8.14.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SmileBoom",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

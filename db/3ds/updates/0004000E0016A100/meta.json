@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0016A100",
-    "uid": "50010000038916",
-    "name": "New Style Boutique™ 2 - \nFashion Forward: Update",
-    "formal_name": "New Style Boutique™ 2 - \nFashion Forward: Update",
-    "description": "An update for \"Nintendo presents:\nNew Style Boutique™ 2 - Fashion\nForward\" is now available from\nNintendo eShop.\n\nAll customers who own a copy of\n“Nintendo presents:\nNew Style Boutique™ 2 - Fashion\nForward” should download the update.\n\nThis will update the software to\nVersion 1.1.0 with the following\namendments:\n\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "release_date_on_eshop": "2015-12-24",
-    "product_code": "CTR-U-ECDP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0016A100",
+  "uid": "50010000038916",
+  "name": "New Style Boutique™ 2 - \nFashion Forward: Update",
+  "formal_name": "New Style Boutique™ 2 - \nFashion Forward: Update",
+  "description": "An update for \"Nintendo presents:\nNew Style Boutique™ 2 - Fashion\nForward\" is now available from\nNintendo eShop.\n\nAll customers who own a copy of\n“Nintendo presents:\nNew Style Boutique™ 2 - Fashion\nForward” should download the update.\n\nThis will update the software to\nVersion 1.1.0 with the following\namendments:\n\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+  "release_date_on_eshop": "2015-12-24",
+  "product_code": "CTR-U-ECDP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

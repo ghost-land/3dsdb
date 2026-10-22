@@ -1,21 +1,39 @@
 {
-    "tid": "000400000EC60000",
-    "uid": "",
-    "name": "Video Player for 3DS",
-    "formal_name": "Video Player for 3DS",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000EC60000",
+  "uid": "",
+  "name": "Video Player for 3DS",
+  "formal_name": "Video Player for 3DS",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-Vid",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v1.1.1",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Core_2_Extreme",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

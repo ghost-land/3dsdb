@@ -1,23 +1,39 @@
 {
-    "tid": "0004000E001B9D00",
-    "uid": "50010000042858",
-    "name": "RPG Maker Fes:\nUpdate",
-    "formal_name": "RPG Maker Fes:\n<br>Update",
-    "description": "This is an update for the game card version of the RPG Maker Fes game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of RPG Maker Fes.",
-    "release_date_on_eshop": "2017-06-22",
-    "product_code": "CTR-U-BRPP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001B9D00",
+  "uid": "50010000042858",
+  "name": "RPG Maker Fes:\nUpdate",
+  "formal_name": "RPG Maker Fes:\n<br>Update",
+  "description": "This is an update for the game card version of the RPG Maker Fes game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of RPG Maker Fes.",
+  "release_date_on_eshop": "2017-06-22",
+  "product_code": "CTR-U-BRPP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "NIS America, Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

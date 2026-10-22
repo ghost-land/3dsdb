@@ -1,23 +1,41 @@
 {
-    "tid": "0004000000195500",
-    "uid": "50010000040622",
-    "name": "Metroid II - Return of Samus\n(메트로이드 II-리턴 오브 사무스)",
-    "formal_name": "Metroid II - Return of Samus\n(메트로이드 II-리턴 오브 사무스)",
-    "description": "1991년 게임보이용으로 발매된 게임입니다.\n<br>\n<br>주인공 사무스를 조작하여 각종 트랩과 적들을 물리치며 미스테리한 행성에서 잃어버린 문명과 신비한 힘을 찾아 떠나는 모험입니다.",
-    "release_date_on_eshop": "2016-06-15",
-    "product_code": "CTR-N-RA4Z",
-    "platform_name": "게임보이",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Metroid II - Return of Samus\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160513-006\n<br>등급분류 일자:2016.5.13\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000195500",
+  "uid": "50010000040622",
+  "name": "Metroid II - Return of Samus\n(메트로이드 II-리턴 오브 사무스)",
+  "formal_name": "Metroid II - Return of Samus\n(메트로이드 II-리턴 오브 사무스)",
+  "description": "1991년 게임보이용으로 발매된 게임입니다.\n<br>\n<br>주인공 사무스를 조작하여 각종 트랩과 적들을 물리치며 미스테리한 행성에서 잃어버린 문명과 신비한 힘을 찾아 떠나는 모험입니다.",
+  "release_date_on_eshop": "2016-06-15",
+  "product_code": "CTR-N-RA4Z",
+  "platform_name": "게임보이",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Metroid II - Return of Samus\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160513-006\n<br>등급분류 일자:2016.5.13\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

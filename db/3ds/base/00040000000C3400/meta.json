@@ -16,10 +16,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v1.0.0",
   "disclaimer": "このプログラムを使用するには、『モンスターハンター3(トライ)G』と『モンスターハンター3(トライ)G HD Ver. 』が必要です。<br>\n<br>2012年12月28日より、データ転送時の注意文を変更した更新版を配信しています。お手数ですが、2012年12月28日以前にソフトをダウンロードされた方は更新版をダウンロードしてください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

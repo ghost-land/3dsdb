@@ -1,21 +1,39 @@
 {
-    "tid": "00040002001AF701",
-    "uid": "",
-    "name": "お宝ディフェンダー - ～ファラオの秘宝～(体験版)",
-    "formal_name": "お宝ディフェンダー - ～ファラオの秘宝～(体験版)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-JLEJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002001AF701",
+  "uid": "",
+  "name": "お宝ディフェンダー - ～ファラオの秘宝～(体験版)",
+  "formal_name": "お宝ディフェンダー - ～ファラオの秘宝～(体験版)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-JLEJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Starsign",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

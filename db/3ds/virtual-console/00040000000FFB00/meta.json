@@ -21,5 +21,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "If you participated in the Join\nNintendo Network Promotion, please\nremember to check your email to get\nyour free download code for Super\nMario Bros.™ Deluxe.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

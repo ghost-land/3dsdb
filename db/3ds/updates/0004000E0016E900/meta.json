@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0016E900",
-    "uid": "50010000039980",
-    "name": "Etrian Odyssey 2 Untold:\nThe Fafnir Knight - Update",
-    "formal_name": "Etrian Odyssey 2 Untold:\nThe Fafnir Knight - Update",
-    "description": "You can read QR codes and\nsuccessfully suspend save in\ndungeons!",
-    "release_date_on_eshop": "2016-03-31",
-    "product_code": "CTR-U-BM9P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0016E900",
+  "uid": "50010000039980",
+  "name": "Etrian Odyssey 2 Untold:\nThe Fafnir Knight - Update",
+  "formal_name": "Etrian Odyssey 2 Untold:\nThe Fafnir Knight - Update",
+  "description": "You can read QR codes and\nsuccessfully suspend save in\ndungeons!",
+  "release_date_on_eshop": "2016-03-31",
+  "product_code": "CTR-U-BM9P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ATLUS",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

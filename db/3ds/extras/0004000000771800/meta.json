@@ -1,21 +1,39 @@
 {
-    "tid": "0004000000771800",
-    "uid": "",
-    "name": "DrawAttack",
-    "formal_name": "DrawAttack",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Hb",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000771800",
+  "uid": "",
+  "name": "DrawAttack",
+  "formal_name": "DrawAttack",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "DrawAttack",
+  "platform_name": "",
+  "region": "Hb",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Cruel",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

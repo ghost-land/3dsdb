@@ -24,10 +24,17 @@
     "pt"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "ESRB",
+    "age": "E"
   },
   "version": "v3.3.0",
   "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nPlease note that the SpotPass feature of Swapnote (the ability to send notes to friends over the Internet) has been stopped as of 10/31/2013. We greatly appreciate your understanding.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

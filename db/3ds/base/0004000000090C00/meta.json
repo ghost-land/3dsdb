@@ -1,21 +1,30 @@
 {
-    "tid": "0004000000090C00",
-    "uid": "",
-    "name": "DQM®モンスター引越しアプリ - -Joker2からテリーへ-",
-    "formal_name": "DQM®モンスター引越しアプリ - -Joker2からテリーへ-",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JDJJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000090C00",
+  "uid": "",
+  "name": "DQM®モンスター引越しアプリ - -Joker2からテリーへ-",
+  "formal_name": "DQM®モンスター引越しアプリ - -Joker2からテリーへ-",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JDJJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

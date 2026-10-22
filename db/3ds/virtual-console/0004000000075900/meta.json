@@ -1,21 +1,37 @@
 {
-    "tid": "0004000000075900",
-    "uid": "",
-    "name": "WarioWare™, Inc. Mega Microgame$",
-    "formal_name": "WarioWare™, Inc. Mega Microgame$",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-PAFE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000075900",
+  "uid": "",
+  "name": "WarioWare™, Inc. Mega Microgame$",
+  "formal_name": "WarioWare™, Inc. Mega Microgame$",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-PAFE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

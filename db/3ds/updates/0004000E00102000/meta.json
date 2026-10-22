@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00102000",
-    "uid": "50010000020396",
-    "name": "The LEGO Movie Videogame\nSoftware Update",
-    "formal_name": "The LEGO Movie Videogame\nSoftware Update",
-    "description": "3D Slider bug fix.<br>Language\nselection text update.",
-    "release_date_on_eshop": "2014-02-13",
-    "product_code": "CTR-U-AFJP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00102000",
+  "uid": "50010000020396",
+  "name": "The LEGO Movie Videogame\nSoftware Update",
+  "formal_name": "The LEGO Movie Videogame\nSoftware Update",
+  "description": "3D Slider bug fix.<br>Language\nselection text update.",
+  "release_date_on_eshop": "2014-02-13",
+  "product_code": "CTR-U-AFJP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E001B5500",
-    "uid": "50010000047255",
-    "name": "Story of Seasons:\nTrio of Towns: Update",
-    "formal_name": "Story of Seasons:\n<br>Trio of Towns: Update",
-    "description": "An update for Story of Seasons: Trio of Towns is now available from Nintendo eShop.\n<br>All customers who own a copy of Seasons: Trio of Towns should download the update. This will update the software to Version 1.1 with the following amendments:\n<br>\n<br>- Various bug fixes.\n<br>\n<br>â€¢ Once the update has been downloaded, it will be installed automatically.\n<br>\n<br>We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.",
-    "release_date_on_eshop": "2018-12-06",
-    "product_code": "CTR-U-BB3P",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v1.1.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001B5500",
+  "uid": "50010000047255",
+  "name": "Story of Seasons:\nTrio of Towns: Update",
+  "formal_name": "Story of Seasons:\n<br>Trio of Towns: Update",
+  "description": "An update for Story of Seasons: Trio of Towns is now available from Nintendo eShop.\n<br>All customers who own a copy of Seasons: Trio of Towns should download the update. This will update the software to Version 1.1 with the following amendments:\n<br>\n<br>- Various bug fixes.\n<br>\n<br>â€¢ Once the update has been downloaded, it will be installed automatically.\n<br>\n<br>We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.",
+  "release_date_on_eshop": "2018-12-06",
+  "product_code": "CTR-U-BB3P",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -21,5 +21,12 @@
   },
   "version": "v2.4.0",
   "disclaimer": "ニンテンドー3DSソフト『ほっぺちゃん つくって!あそんで! ぷにぷにタウン!!』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "NIPPON COLUMBIA CO., LTD.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
