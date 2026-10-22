@@ -1,21 +1,37 @@
 {
-    "tid": "00040002000CD001",
-    "uid": "",
-    "name": "Games Festival 1 (DEMO VERSION)",
-    "formal_name": "Games Festival 1 (DEMO VERSION)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-AAEP",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002000CD001",
+  "uid": "",
+  "name": "Games Festival 1 (DEMO VERSION)",
+  "formal_name": "Games Festival 1 (DEMO VERSION)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-AAEP",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Bigben Interactive",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

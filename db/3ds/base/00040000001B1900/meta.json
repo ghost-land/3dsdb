@@ -25,5 +25,11 @@
   },
   "version": "v0.4.0",
   "disclaimer": "シュシュトークでチャットや電話をして遊ぶには、インターネット環境が必要です\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "WaiS CO.,LTD.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

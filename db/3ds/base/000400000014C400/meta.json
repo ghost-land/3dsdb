@@ -16,10 +16,16 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "A"
   },
   "version": "v0.0.0",
   "disclaimer": "『大乱闘スマッシュブラザーズ for Wii U』だけをお持ちの方向けのソフトです。\n<br>・『大乱闘スマッシュブラザーズ for Wii U』をお持ちでない方\n<br>・すでに『大乱闘スマッシュブラザーズ for ニンテンドー3DS』をお持ちの方\n<br>上記の方は、本ソフトを購入いただく必要はありません。\n<br>\n<br>※本ソフトはゲームではありません。\n<br>※ニンテンドー3DSシリーズ本体をコントローラーとして使えるのは「大乱闘」モードのみです。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

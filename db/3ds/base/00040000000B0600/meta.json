@@ -26,5 +26,12 @@
   "disclaimer": null,
   "descriptors": [
     "Comic Mischief"
-  ]
+  ],
+  "publisher": "Activision",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

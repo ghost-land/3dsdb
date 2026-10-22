@@ -1,21 +1,31 @@
 {
-    "tid": "0004000000049500",
-    "uid": "",
-    "name": "いきものづくり - クリエイトーイ",
-    "formal_name": "いきものづくり - クリエイトーイ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JPTJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000049500",
+  "uid": "",
+  "name": "いきものづくり - クリエイトーイ",
+  "formal_name": "いきものづくり - クリエイトーイ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JPTJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

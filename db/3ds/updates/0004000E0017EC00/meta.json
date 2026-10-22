@@ -1,23 +1,32 @@
 {
-    "tid": "0004000E0017EC00",
-    "uid": "50010000038856",
-    "name": "MONSTER HUNTER X 更新資料\nVer. 1.3.0",
-    "formal_name": "MONSTER HUNTER X 更新資料\nVer. 1.3.0",
-    "description": "這是為了提高Nintendo 3DS軟件「MONSTER HUNTER X」的安全性而設的更新資料。\n\n擁有「MONSTER HUNTER X」的玩家請務必要下載。\n\n只有完成更新的「MONSTER HUNTER X」才可以連接下載內容及進行「和遠方的人遊戲（網路通訊）」。",
-    "release_date_on_eshop": "2017-02-08",
-    "product_code": "CTR-U-BXXZ",
-    "platform_name": "更新資料",
-    "region": "Taiwan",
-    "genres": [
-        "更新資料"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": "此為Nintendo 3DS軟體「MONSTER HUNTER X」之更新資料。\n本檔案下載完成後，「主機設定」的「新增內容」畫面中會顯示本檔案的圖示，\n但並不會顯示於Nintendo 3DS的HOME選單畫面。請注意不要刪除本檔案。",
-    "descriptors": []
+  "tid": "0004000E0017EC00",
+  "uid": "50010000038856",
+  "name": "MONSTER HUNTER X 更新資料\nVer. 1.3.0",
+  "formal_name": "MONSTER HUNTER X 更新資料\nVer. 1.3.0",
+  "description": "這是為了提高Nintendo 3DS軟件「MONSTER HUNTER X」的安全性而設的更新資料。\n\n擁有「MONSTER HUNTER X」的玩家請務必要下載。\n\n只有完成更新的「MONSTER HUNTER X」才可以連接下載內容及進行「和遠方的人遊戲（網路通訊）」。",
+  "release_date_on_eshop": "2017-02-08",
+  "product_code": "CTR-U-BXXZ",
+  "platform_name": "更新資料",
+  "region": "Taiwan",
+  "genres": [
+    "更新資料"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "15"
+  },
+  "version": "v3.3.0",
+  "disclaimer": "此為Nintendo 3DS軟體「MONSTER HUNTER X」之更新資料。\n本檔案下載完成後，「主機設定」的「新增內容」畫面中會顯示本檔案的圖示，\n但並不會顯示於Nintendo 3DS的HOME選單畫面。請注意不要刪除本檔案。",
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

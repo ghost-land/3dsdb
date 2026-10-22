@@ -1,21 +1,39 @@
 {
-    "tid": "00040000001F5900",
-    "uid": "",
-    "name": "PICROSS S",
-    "formal_name": "PICROSS S",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Rom Hacks",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001F5900",
+  "uid": "",
+  "name": "PICROSS S",
+  "formal_name": "PICROSS S",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-PICROSS-S",
+  "platform_name": "",
+  "region": "Rom Hacks",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Jupiter",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

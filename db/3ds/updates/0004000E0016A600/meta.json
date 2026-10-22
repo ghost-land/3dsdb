@@ -1,23 +1,39 @@
 {
-    "tid": "0004000E0016A600",
-    "uid": "50010000039420",
-    "name": "Terraria: \nUpdate 1.0.5",
-    "formal_name": "Terraria: \n<br>Update 1.0.5",
-    "description": "Keep your game up to date with the latest content and fixes by updating to version 1.0.5.\n<br>\n<br>- Chlorophyte Armor stability issue fixed\n<br>- Minor bug fixes",
-    "release_date_on_eshop": "2016-02-11",
-    "product_code": "CTR-U-BTEP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v6.6.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0016A600",
+  "uid": "50010000039420",
+  "name": "Terraria: \nUpdate 1.0.5",
+  "formal_name": "Terraria: \n<br>Update 1.0.5",
+  "description": "Keep your game up to date with the latest content and fixes by updating to version 1.0.5.\n<br>\n<br>- Chlorophyte Armor stability issue fixed\n<br>- Minor bug fixes",
+  "release_date_on_eshop": "2016-02-11",
+  "product_code": "CTR-U-BTEP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v6.6.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "505 Games",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

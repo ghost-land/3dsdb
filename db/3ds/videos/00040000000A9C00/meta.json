@@ -1,21 +1,31 @@
 {
-    "tid": "00040000000A9C00",
-    "uid": "",
-    "name": "Nintendo Direct 2012.6.22 - 戦国無双 Chronicle 2nd",
-    "formal_name": "Nintendo Direct 2012.6.22 - 戦国無双 Chronicle 2nd",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-SNRJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A9C00",
+  "uid": "",
+  "name": "Nintendo Direct 2012.6.22 - 戦国無双 Chronicle 2nd",
+  "formal_name": "Nintendo Direct 2012.6.22 - 戦国無双 Chronicle 2nd",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-SNRJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "コーエーテクモゲームス",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,25 +1,41 @@
 {
-    "tid": "00040000000C5E00",
-    "uid": "50010000012620",
-    "name": "The 3D Machine Series:\nEpisode 5",
-    "formal_name": "The 3D Machine Series:\nEpisode 5",
-    "description": "Deep down in the ocean an\neight-armed evil lurks. This sounds\nlike a job for Igor and the professor!\nUsing their submarine they hunt down\nthe sea monster, but its eight\ntentacles of terror might just be too\nmuch for our heroes to handle...\n<br/><br/>\nLength 2:30 min",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "CTR-N-MBCP",
-    "platform_name": "Downloadable Video",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [
-        "Displays 3D Visuals"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000C5E00",
+  "uid": "50010000012620",
+  "name": "The 3D Machine Series:\nEpisode 5",
+  "formal_name": "The 3D Machine Series:\nEpisode 5",
+  "description": "Deep down in the ocean an\neight-armed evil lurks. This sounds\nlike a job for Igor and the professor!\nUsing their submarine they hunt down\nthe sea monster, but its eight\ntentacles of terror might just be too\nmuch for our heroes to handle...\n<br/><br/>\nLength 2:30 min",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "CTR-N-MBCP",
+  "platform_name": "Downloadable Video",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ka-Ching Cartoons",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

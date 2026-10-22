@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000080F00",
-    "uid": "",
-    "name": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album",
-    "formal_name": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JEKP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000080F00",
+  "uid": "",
+  "name": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album",
+  "formal_name": "Mario & Sonic at the London 2012 Olympic Games - Virtual Card Album",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JEKP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "SEGA Europe Ltd.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

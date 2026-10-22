@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00168100",
-    "uid": "50010000039919",
-    "name": "LEGO® Marvel Avengers :\nMise à jour",
-    "formal_name": "LEGO® Marvel Avengers :\nMise à jour",
-    "description": "Avec ce patch, la version v1.2.0 de\nLEGO® MARVEL’s Avengers prendra\nen charge l'e-commerce dans le jeu.\n<br/><br/>\nv1.1.0\n<br/><br/>\n• Correction d'un plantage rare qui\npouvait survenir en passant à Black\nWidow au niveau 7.\n<br/><br/>\n• Le joueur ne réapparaîtra plus\nbloqué dans le conteneur s'il fait\ns'écraser Lola dans l'eau.\n<br/><br/>\n• Correction de plusieurs bugs de\nscripts de missions dans les niveaux\nHUB, qui ne se lançaient pas toujours\ncorrectement et faisaient qu'il n'était\npas possible de les terminer.\n<br/><br/>\n• Correction de plusieurs plantages\nrares de mémoire à travers le jeu.\n<br/><br/>\n• Plusieurs corrections de bugs\nd'interface utilisateur à travers le jeu.\n<br/><br/>\n• Corrections de texte localisé et de\nbugs audio.",
-    "release_date_on_eshop": "2016-03-24",
-    "product_code": "CTR-U-ALEZ",
-    "platform_name": "Données de mise à jour",
-    "region": "France",
-    "genres": [
-        "Autre"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00168100",
+  "uid": "50010000039919",
+  "name": "LEGO® Marvel Avengers :\nMise à jour",
+  "formal_name": "LEGO® Marvel Avengers :\nMise à jour",
+  "description": "Avec ce patch, la version v1.2.0 de\nLEGO® MARVEL’s Avengers prendra\nen charge l'e-commerce dans le jeu.\n<br/><br/>\nv1.1.0\n<br/><br/>\n• Correction d'un plantage rare qui\npouvait survenir en passant à Black\nWidow au niveau 7.\n<br/><br/>\n• Le joueur ne réapparaîtra plus\nbloqué dans le conteneur s'il fait\ns'écraser Lola dans l'eau.\n<br/><br/>\n• Correction de plusieurs bugs de\nscripts de missions dans les niveaux\nHUB, qui ne se lançaient pas toujours\ncorrectement et faisaient qu'il n'était\npas possible de les terminer.\n<br/><br/>\n• Correction de plusieurs plantages\nrares de mémoire à travers le jeu.\n<br/><br/>\n• Plusieurs corrections de bugs\nd'interface utilisateur à travers le jeu.\n<br/><br/>\n• Corrections de texte localisé et de\nbugs audio.",
+  "release_date_on_eshop": "2016-03-24",
+  "product_code": "CTR-U-ALEZ",
+  "platform_name": "Données de mise à jour",
+  "region": "France",
+  "genres": [
+    "Autre"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

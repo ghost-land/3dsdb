@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0014E800",
-    "uid": "50010000033496",
-    "name": "LEGO® Ninjago™: L’Ombre\nde Ronin - Mise à jour",
-    "formal_name": "LEGO® Ninjago™: L’Ombre\nde Ronin - Mise à jour",
-    "description": "Ce nouveau patch inclut des\ncorrections destinées à améliorer\nvotre expérience de jeu.",
-    "release_date_on_eshop": "2015-05-14",
-    "product_code": "CTR-U-BLSY",
-    "platform_name": "Données de mise à jour",
-    "region": "France",
-    "genres": [
-        "Autre"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0014E800",
+  "uid": "50010000033496",
+  "name": "LEGO® Ninjago™: L’Ombre\nde Ronin - Mise à jour",
+  "formal_name": "LEGO® Ninjago™: L’Ombre\nde Ronin - Mise à jour",
+  "description": "Ce nouveau patch inclut des\ncorrections destinées à améliorer\nvotre expérience de jeu.",
+  "release_date_on_eshop": "2015-05-14",
+  "product_code": "CTR-U-BLSY",
+  "platform_name": "Données de mise à jour",
+  "region": "France",
+  "genres": [
+    "Autre"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

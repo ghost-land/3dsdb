@@ -23,5 +23,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "プチコン3号で作られたコンテスト入賞作品集です。プチコンが無くても遊ぶことができます。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SmileBoom",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

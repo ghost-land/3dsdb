@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000082200",
-    "uid": "",
-    "name": "Kid Icarus: Uprising Preview",
-    "formal_name": "Kid Icarus: Uprising Preview",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JJ5Z",
-    "platform_name": "",
-    "region": "Unknown Other",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000082200",
+  "uid": "",
+  "name": "Kid Icarus: Uprising Preview",
+  "formal_name": "Kid Icarus: Uprising Preview",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JJ5Z",
+  "platform_name": "",
+  "region": "Unknown Other",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

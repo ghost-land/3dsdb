@@ -27,5 +27,12 @@
   },
   "version": "v0.3.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "ARC SYSTEM WORKS",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

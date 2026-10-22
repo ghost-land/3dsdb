@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000121100",
-    "uid": "",
-    "name": "Turtle Tale",
-    "formal_name": "Turtle Tale",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JTLP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000121100",
+  "uid": "",
+  "name": "Turtle Tale",
+  "formal_name": "Turtle Tale",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JTLP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v2.1.1",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Saturnine Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

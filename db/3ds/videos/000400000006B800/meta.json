@@ -1,21 +1,31 @@
 {
-    "tid": "000400000006B800",
-    "uid": "",
-    "name": "Nintendo 3DS Conference 2011 - カルドセプト",
-    "formal_name": "Nintendo 3DS Conference 2011 - カルドセプト",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JJWJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000006B800",
+  "uid": "",
+  "name": "Nintendo 3DS Conference 2011 - カルドセプト",
+  "formal_name": "Nintendo 3DS Conference 2011 - カルドセプト",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JJWJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

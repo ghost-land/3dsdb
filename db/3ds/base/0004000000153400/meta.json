@@ -1,21 +1,31 @@
 {
-    "tid": "0004000000153400",
-    "uid": "",
-    "name": "クラブニンテンドーピクロス＋",
-    "formal_name": "クラブニンテンドーピクロス＋",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KXXJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000153400",
+  "uid": "",
+  "name": "クラブニンテンドーピクロス＋",
+  "formal_name": "クラブニンテンドーピクロス＋",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KXXJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

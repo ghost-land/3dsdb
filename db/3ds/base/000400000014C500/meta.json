@@ -20,10 +20,16 @@
     "es"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "ESRB",
+    "age": "E"
   },
   "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nBroadband Internet access and Super Smash Bros. for Wii U game required.  For more info, go to support.nintendo.com\n<br><br>\nSuper Smash Bros. for Wii U game is REQUIRED to use this application; sold separately.\n<br><br>\nThis application contains the same capability that is included in the Super Smash Bros. for Nintendo 3DS game.  If you own the Super Smash Bros. for Nintendo 3DS game, you do not need to purchase this app.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

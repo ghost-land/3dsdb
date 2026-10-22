@@ -1,21 +1,31 @@
 {
-    "tid": "000400000007B100",
-    "uid": "",
-    "name": "Nintendo Direct 2011.10.21 - ひらり 桜侍",
-    "formal_name": "Nintendo Direct 2011.10.21 - ひらり 桜侍",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JQAJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000007B100",
+  "uid": "",
+  "name": "Nintendo Direct 2011.10.21 - ひらり 桜侍",
+  "formal_name": "Nintendo Direct 2011.10.21 - ひらり 桜侍",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JQAJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,38 @@
 {
-    "tid": "000400000018C300",
-    "uid": "",
-    "name": "Mike the Knight and the Great Gallop",
-    "formal_name": "Mike the Knight and the Great Gallop",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BMJP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000018C300",
+  "uid": "",
+  "name": "Mike the Knight and the Great Gallop",
+  "formal_name": "Mike the Knight and the Great Gallop",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BMJP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "GSP",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

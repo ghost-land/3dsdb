@@ -1,25 +1,42 @@
 {
-    "tid": "0004000000183000",
-    "uid": "50010000038476",
-    "name": "JOHNNY'S PAYDAY PANIC",
-    "formal_name": "JOHNNY'S PAYDAY PANIC",
-    "description": "열심히 일해서 누구나 동경하는 멋진 남자가 되어보자!\n「JOHNNY'S PAYDAY PANIC」의 주인공 「Johnny」는 누구나 동경하는 멋진 남자가 되는 것이 목표입니다. 멋진 남자가 되기 위해 필요한  'Big Shot Item'을 손에 넣기 위해 다양한 아르바이트에 도전하게 됩니다. \n총 5곳의 가게에서 손님의 주문을 시간 내에 정확하게 처리해 나가는 것이 게임의 포인트입니다. ",
-    "release_date_on_eshop": "2015-11-25",
-    "product_code": "CTR-N-KAKY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n*주의사항*\n제명:JOHNNY'S PAYDAY PANIC\n상호:OFFICE CREATE Corp.\n이용등급:전체이용가\n등급분류번호: 제 GC-CC-NV-150923-003호\n등급분류 일자: 2015.09.23\n제작・배급업신고번호: 게배 제2012-10호\n※ 대응 언어: 영어,일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
-    "descriptors": []
+  "tid": "0004000000183000",
+  "uid": "50010000038476",
+  "name": "JOHNNY'S PAYDAY PANIC",
+  "formal_name": "JOHNNY'S PAYDAY PANIC",
+  "description": "열심히 일해서 누구나 동경하는 멋진 남자가 되어보자!\n「JOHNNY'S PAYDAY PANIC」의 주인공 「Johnny」는 누구나 동경하는 멋진 남자가 되는 것이 목표입니다. 멋진 남자가 되기 위해 필요한  'Big Shot Item'을 손에 넣기 위해 다양한 아르바이트에 도전하게 됩니다. \n총 5곳의 가게에서 손님의 주문을 시간 내에 정확하게 처리해 나가는 것이 게임의 포인트입니다. ",
+  "release_date_on_eshop": "2015-11-25",
+  "product_code": "CTR-N-KAKY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n*주의사항*\n제명:JOHNNY'S PAYDAY PANIC\n상호:OFFICE CREATE Corp.\n이용등급:전체이용가\n등급분류번호: 제 GC-CC-NV-150923-003호\n등급분류 일자: 2015.09.23\n제작・배급업신고번호: 게배 제2012-10호\n※ 대응 언어: 영어,일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
+  "descriptors": [],
+  "publisher": "OFFICE CREATE",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

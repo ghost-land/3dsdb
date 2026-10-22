@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000057700",
-    "uid": "",
-    "name": "Netflix",
-    "formal_name": "Netflix",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JFLE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000057700",
+  "uid": "",
+  "name": "Netflix",
+  "formal_name": "Netflix",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JFLE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "E"
+  },
+  "version": "v1.4.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Netflix Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

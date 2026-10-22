@@ -1,21 +1,39 @@
 {
-    "tid": "0004000E000C9B00",
-    "uid": "",
-    "name": "Pokemon Bank",
-    "formal_name": "Pokemon Bank",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-U-JTTA",
-    "platform_name": "",
-    "region": "World",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000C9B00",
+  "uid": "",
+  "name": "Pokemon Bank",
+  "formal_name": "Pokemon Bank",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-U-JTTA",
+  "platform_name": "",
+  "region": "World",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v3.5.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

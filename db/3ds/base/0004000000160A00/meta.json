@@ -29,5 +29,12 @@
   },
   "version": "v0.4.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "The Location Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

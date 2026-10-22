@@ -1,21 +1,31 @@
 {
-    "tid": "0004000E0013F200",
-    "uid": "",
-    "name": "ブキガミ 斬撃ランガン編",
-    "formal_name": "ブキガミ 斬撃ランガン編",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-U-KBGJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0013F200",
+  "uid": "",
+  "name": "ブキガミ 斬撃ランガン編",
+  "formal_name": "ブキガミ 斬撃ランガン編",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-U-KBGJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "TAKARATOMY A.R.T.S",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

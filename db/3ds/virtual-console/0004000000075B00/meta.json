@@ -1,21 +1,30 @@
 {
-    "tid": "0004000000075B00",
-    "uid": "",
-    "name": "星のカービィ 鏡の大迷宮",
-    "formal_name": "星のカービィ 鏡の大迷宮",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-PAGJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000075B00",
+  "uid": "",
+  "name": "星のカービィ 鏡の大迷宮",
+  "formal_name": "星のカービィ 鏡の大迷宮",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-PAGJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

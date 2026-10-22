@@ -1,21 +1,31 @@
 {
-    "tid": "00040000000A9A00",
-    "uid": "",
-    "name": "Nintendo Direct 2012.6.22 - デビルサマナー ソウルハッカーズ",
-    "formal_name": "Nintendo Direct 2012.6.22 - デビルサマナー ソウルハッカーズ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-SNPJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A9A00",
+  "uid": "",
+  "name": "Nintendo Direct 2012.6.22 - デビルサマナー ソウルハッカーズ",
+  "formal_name": "Nintendo Direct 2012.6.22 - デビルサマナー ソウルハッカーズ",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-SNPJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "Z"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "インデックス",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

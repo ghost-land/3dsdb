@@ -1,21 +1,32 @@
 {
-    "tid": "000400000005B600",
-    "uid": "",
-    "name": "Luigi's Mansion 2 E3 Video",
-    "formal_name": "Luigi's Mansion 2 E3 Video",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JE5E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005B600",
+  "uid": "",
+  "name": "Luigi's Mansion 2 E3 Video",
+  "formal_name": "Luigi's Mansion 2 E3 Video",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JE5E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "E"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

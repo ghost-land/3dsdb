@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000BBD00",
-    "uid": "",
-    "name": "Puzzler World 2013",
-    "formal_name": "Puzzler World 2013",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AZLP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000BBD00",
+  "uid": "",
+  "name": "Puzzler World 2013",
+  "formal_name": "Puzzler World 2013",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AZLP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ideas Pad",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

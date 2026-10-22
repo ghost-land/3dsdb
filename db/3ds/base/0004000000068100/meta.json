@@ -1,21 +1,37 @@
 {
-    "tid": "0004000000068100",
-    "uid": "",
-    "name": "Block Factory",
-    "formal_name": "Block Factory",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JBFE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000068100",
+  "uid": "",
+  "name": "Block Factory",
+  "formal_name": "Block Factory",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JBFE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Enjoy Gaming ltd.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

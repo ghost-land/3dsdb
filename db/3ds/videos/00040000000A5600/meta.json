@@ -1,21 +1,30 @@
 {
-    "tid": "00040000000A5600",
-    "uid": "",
-    "name": "3D Short Movie",
-    "formal_name": "3D Short Movie",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-SNGW",
-    "platform_name": "",
-    "region": "Taiwan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A5600",
+  "uid": "",
+  "name": "3D Short Movie",
+  "formal_name": "3D Short Movie",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-SNGW",
+  "platform_name": "",
+  "region": "Taiwan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

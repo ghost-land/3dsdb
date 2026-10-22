@@ -1,23 +1,40 @@
 {
-    "tid": "0004000000195C00",
-    "uid": "50010000040930",
-    "name": "Wario‘s Woods",
-    "formal_name": "Wario‘s Woods",
-    "description": "1994년 닌텐도 엔터테인먼트 시스템으로 발매된 게임입니다.\n\n키노피오를 조작해서 요정들이 사는 평화의 숲에 쳐들어 온 와리오와 그의 부하들을 물리치는 것이 목표입니다.\n폭탄을 포함해서 가로, 세로, 대각선을 3개 이상 같은 색으로 하면 몬스터를 없앨 수 있습니다. \n",
-    "release_date_on_eshop": "2016-07-20",
-    "product_code": "CTR-N-TASZ",
-    "platform_name": "패밀리컴퓨터",
-    "region": "Korea",
-    "genres": [
-        "퍼즐"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>※ 닌텐도 3DS의 HOME 메뉴에서 본 \n<br>소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n<br>자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n<br>\n<br>제명:Wario‘s Woods\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160527-014\n<br>등급분류 일자:2016.5.27\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000195C00",
+  "uid": "50010000040930",
+  "name": "Wario‘s Woods",
+  "formal_name": "Wario‘s Woods",
+  "description": "1994년 닌텐도 엔터테인먼트 시스템으로 발매된 게임입니다.\n\n키노피오를 조작해서 요정들이 사는 평화의 숲에 쳐들어 온 와리오와 그의 부하들을 물리치는 것이 목표입니다.\n폭탄을 포함해서 가로, 세로, 대각선을 3개 이상 같은 색으로 하면 몬스터를 없앨 수 있습니다. \n",
+  "release_date_on_eshop": "2016-07-20",
+  "product_code": "CTR-N-TASZ",
+  "platform_name": "패밀리컴퓨터",
+  "region": "Korea",
+  "genres": [
+    "퍼즐"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>※ 닌텐도 3DS의 HOME 메뉴에서 본 \n<br>소프트웨어의 이름이 표시되지 않습니다. (게임 내에서는 정상적으로 표시됩니다.)\n<br>자세한 내용은 한국닌텐도 홈페이지를 참고해 주십시오.\n<br>\n<br>제명:Wario‘s Woods\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-160527-014\n<br>등급분류 일자:2016.5.27\n<br>제작・배급업신고번호:게배 제2012-10호\n<br>※ 대응 언어: 영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

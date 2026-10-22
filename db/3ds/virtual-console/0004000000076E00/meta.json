@@ -1,21 +1,37 @@
 {
-    "tid": "0004000000076E00",
-    "uid": "",
-    "name": "The Legend of Zelda™ The Minish Cap",
-    "formal_name": "The Legend of Zelda™ The Minish Cap",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-PAKP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000076E00",
+  "uid": "",
+  "name": "The Legend of Zelda™ The Minish Cap",
+  "formal_name": "The Legend of Zelda™ The Minish Cap",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-PAKP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

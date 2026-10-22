@@ -1,23 +1,39 @@
 {
-    "tid": "0004000E001C7600",
-    "uid": "50010000043057",
-    "name": "MIGHTY GUNVOLT BURST:\nUpdate",
-    "formal_name": "MIGHTY GUNVOLT BURST:\n<br>Update",
-    "description": "A number of changes and improvements have been made in version 1.3.1.\n<br>\n<br>■Ver.1.3.1\n<br>・For the various effects and actions affected by the current Burst Combo, they will now change according to the following:\n<br>　　* Lv.1： 0\n<br>　　* Lv.2： 1-4\n<br>　　* Lv.3： 5-9\n<br>　　* Lv.4： 10-19\n<br>　　* Lv.5： 20-29\n<br>　　* Lv.6： 30+\n<br>\n<br>・ The power of Gunvolt’s “Voltaic Chains” ability has been increased.\n<br>\n<br>・ The power of the charge attack on Copen’s “Brave Horn” EX Weapon has been increased.\n<br>\n<br>・RAY and Copen are now able to acquire the following rare item (treasure):\n<br>    * P-PS MIAPLACIDUS 　（Module which allows the use of STATIONARY FIRING）\n<br>\n<br>・The following issues have been fixed:\n<br> 　 * In some cases, destroying enemy bullets would incorrectly score points.\n<br>　　* An incorrect edit item was present under Beck’s MINE bullet type.\n<br>　　* Various other issues have been fixed to improve game experience.",
-    "release_date_on_eshop": "2017-07-27",
-    "product_code": "CTR-U-J2VP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v4.4.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E001C7600",
+  "uid": "50010000043057",
+  "name": "MIGHTY GUNVOLT BURST:\nUpdate",
+  "formal_name": "MIGHTY GUNVOLT BURST:\n<br>Update",
+  "description": "A number of changes and improvements have been made in version 1.3.1.\n<br>\n<br>■Ver.1.3.1\n<br>・For the various effects and actions affected by the current Burst Combo, they will now change according to the following:\n<br>　　* Lv.1： 0\n<br>　　* Lv.2： 1-4\n<br>　　* Lv.3： 5-9\n<br>　　* Lv.4： 10-19\n<br>　　* Lv.5： 20-29\n<br>　　* Lv.6： 30+\n<br>\n<br>・ The power of Gunvolt’s “Voltaic Chains” ability has been increased.\n<br>\n<br>・ The power of the charge attack on Copen’s “Brave Horn” EX Weapon has been increased.\n<br>\n<br>・RAY and Copen are now able to acquire the following rare item (treasure):\n<br>    * P-PS MIAPLACIDUS 　（Module which allows the use of STATIONARY FIRING）\n<br>\n<br>・The following issues have been fixed:\n<br> 　 * In some cases, destroying enemy bullets would incorrectly score points.\n<br>　　* An incorrect edit item was present under Beck’s MINE bullet type.\n<br>　　* Various other issues have been fixed to improve game experience.",
+  "release_date_on_eshop": "2017-07-27",
+  "product_code": "CTR-U-J2VP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v4.4.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "INTI CREATES",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

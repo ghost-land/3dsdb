@@ -1,21 +1,37 @@
 {
-    "tid": "00040000000A3800",
-    "uid": "",
-    "name": "The Incredible Barbazan - Episode 2 - The Fire Juggler",
-    "formal_name": "The Incredible Barbazan - Episode 2 - The Fire Juggler",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-MABP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A3800",
+  "uid": "",
+  "name": "The Incredible Barbazan - Episode 2 - The Fire Juggler",
+  "formal_name": "The Incredible Barbazan - Episode 2 - The Fire Juggler",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-MABP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Living Colour Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

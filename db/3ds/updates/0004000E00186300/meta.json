@@ -1,23 +1,41 @@
 {
-    "tid": "0004000E00186300",
-    "uid": "50010000040497",
-    "name": "The Legend of Dark Witch 2: \nUpdate",
-    "formal_name": "The Legend of Dark Witch 2: \nUpdate",
-    "description": "Fixed a glitch that caused some\nbosses' attack to have no effect.",
-    "release_date_on_eshop": "2016-06-16",
-    "product_code": "CTR-U-KMJP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.3.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00186300",
+  "uid": "50010000040497",
+  "name": "The Legend of Dark Witch 2: \nUpdate",
+  "formal_name": "The Legend of Dark Witch 2: \nUpdate",
+  "description": "Fixed a glitch that caused some\nbosses' attack to have no effect.",
+  "release_date_on_eshop": "2016-06-16",
+  "product_code": "CTR-U-KMJP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.3.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "CIRCLE Ent.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

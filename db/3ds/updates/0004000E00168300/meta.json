@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00168300",
-    "uid": "50010000039917",
-    "name": "LEGO® Marvel Vengadores:\nActualización",
-    "formal_name": "LEGO® Marvel Vengadores:\nActualización",
-    "description": "Este parche actualizará LEGO®\nMARVEL’s Avengers a la versión\nv1.2.0, que añade soporte para\ncomercio electrónico en el juego.\n<br/><br/>\nv1.1.0\n<br/><br/>\n• El juego ya no se bloqueará al\ncambiar a Black Widow en el nivel 7.\n<br/><br/>\n• El jugador ya no reaparecerá\ndentro del contenedor de mercancía\nal lanzar a Lola al agua.\n<br/><br/>\n• Solucionados varios scripts en los\nniveles HUB que impedían disparar\ncorrectamente y no permitían que\nfueran completados.\n<br/><br/>\n• Varios bloqueos aislados de\nmemoria del juego solucionados.\n<br/><br/>\n• Errores de interfaz de usuario\nsolucionados.\n<br/><br/>\n• Errores de texto localizado y\nsonido arreglados.",
-    "release_date_on_eshop": "2016-03-24",
-    "product_code": "CTR-U-ALEX",
-    "platform_name": "Datos de actualización",
-    "region": "Spain",
-    "genres": [
-        "Otros"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00168300",
+  "uid": "50010000039917",
+  "name": "LEGO® Marvel Vengadores:\nActualización",
+  "formal_name": "LEGO® Marvel Vengadores:\nActualización",
+  "description": "Este parche actualizará LEGO®\nMARVEL’s Avengers a la versión\nv1.2.0, que añade soporte para\ncomercio electrónico en el juego.\n<br/><br/>\nv1.1.0\n<br/><br/>\n• El juego ya no se bloqueará al\ncambiar a Black Widow en el nivel 7.\n<br/><br/>\n• El jugador ya no reaparecerá\ndentro del contenedor de mercancía\nal lanzar a Lola al agua.\n<br/><br/>\n• Solucionados varios scripts en los\nniveles HUB que impedían disparar\ncorrectamente y no permitían que\nfueran completados.\n<br/><br/>\n• Varios bloqueos aislados de\nmemoria del juego solucionados.\n<br/><br/>\n• Errores de interfaz de usuario\nsolucionados.\n<br/><br/>\n• Errores de texto localizado y\nsonido arreglados.",
+  "release_date_on_eshop": "2016-03-24",
+  "product_code": "CTR-U-ALEX",
+  "platform_name": "Datos de actualización",
+  "region": "Spain",
+  "genres": [
+    "Otros"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

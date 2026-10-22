@@ -16,10 +16,17 @@
     "ja"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "CERO",
+    "age": "Z"
   },
   "version": "v1.3.0",
   "disclaimer": "ニンテンドー3DSソフト『熱血硬派くにおくんSP 乱闘協奏曲』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。\n",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "ARC SYSTEM WORKS CO.,LTD.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

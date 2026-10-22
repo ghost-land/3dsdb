@@ -1,21 +1,31 @@
 {
-    "tid": "00040000000A0100",
-    "uid": "",
-    "name": "世界樹の迷宮Ⅳ 伝承の巨神",
-    "formal_name": "世界樹の迷宮Ⅳ 伝承の巨神",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-SNCJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A0100",
+  "uid": "",
+  "name": "世界樹の迷宮Ⅳ 伝承の巨神",
+  "formal_name": "世界樹の迷宮Ⅳ 伝承の巨神",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-SNCJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "インデックス",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E00168000",
-    "uid": "50010000039915",
-    "name": "LEGO® Marvel Avengers:\nUpdate",
-    "formal_name": "LEGO® Marvel Avengers:\nUpdate",
-    "description": "This Patch application will take\nLEGO® MARVEL’s Avengers to v1.2.0\nto add support for E-Commerce in the\ngame.\n<br/><br/>\nv1.1.0\n<br/><br/>\n• Prevented the player from\nrespawning locked in the cargo\ncontainer when crashing Lola into the\nwater.\n<br/><br/>\n• Fixed several mission scripts on the\nHUB levels not always firing correctly\npreventing their completion.\n<br/><br/>\n• Several rare memory crashes\nthroughout the game addressed.\n<br/><br/>\n• Several UI fixes throughout the\ngame.\n<br/><br/>\n• Localized text and audio fixes.\n",
-    "release_date_on_eshop": "2016-03-24",
-    "product_code": "CTR-U-ALEP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v2.2.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E00168000",
+  "uid": "50010000039915",
+  "name": "LEGO® Marvel Avengers:\nUpdate",
+  "formal_name": "LEGO® Marvel Avengers:\nUpdate",
+  "description": "This Patch application will take\nLEGO® MARVEL’s Avengers to v1.2.0\nto add support for E-Commerce in the\ngame.\n<br/><br/>\nv1.1.0\n<br/><br/>\n• Prevented the player from\nrespawning locked in the cargo\ncontainer when crashing Lola into the\nwater.\n<br/><br/>\n• Fixed several mission scripts on the\nHUB levels not always firing correctly\npreventing their completion.\n<br/><br/>\n• Several rare memory crashes\nthroughout the game addressed.\n<br/><br/>\n• Several UI fixes throughout the\ngame.\n<br/><br/>\n• Localized text and audio fixes.\n",
+  "release_date_on_eshop": "2016-03-24",
+  "product_code": "CTR-U-ALEP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v2.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

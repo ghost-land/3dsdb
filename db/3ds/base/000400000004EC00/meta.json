@@ -28,5 +28,12 @@
   "descriptors": [
     "Alcohol Reference",
     "Comic Mischief"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

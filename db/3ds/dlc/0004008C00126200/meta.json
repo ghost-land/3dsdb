@@ -1,21 +1,32 @@
 {
-    "tid": "0004008C00126200",
-    "uid": "",
-    "name": "Darumeshi Sports-Ten",
-    "formal_name": "Darumeshi Sports-Ten",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-JBCK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00126200",
+  "uid": "",
+  "name": "Darumeshi Sports-Ten",
+  "formal_name": "Darumeshi Sports-Ten",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-JBCK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

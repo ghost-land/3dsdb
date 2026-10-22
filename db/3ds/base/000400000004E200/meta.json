@@ -23,10 +23,17 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
   "descriptors": [
     "Alcohol Reference",
     "Comic Mischief"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

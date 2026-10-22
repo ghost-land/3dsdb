@@ -1,21 +1,39 @@
 {
-    "tid": "000400020019E501",
-    "uid": "",
-    "name": "Blasting Agent (Demo version)",
-    "formal_name": "Blasting Agent (Demo version)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-KBJP",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400020019E501",
+  "uid": "",
+  "name": "Blasting Agent (Demo version)",
+  "formal_name": "Blasting Agent (Demo version)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-KBJP",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ratalaika Games",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

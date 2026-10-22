@@ -1,21 +1,39 @@
 {
-    "tid": "00040000000FC400",
-    "uid": "",
-    "name": "Hulu",
-    "formal_name": "Hulu",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JHLJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000FC400",
+  "uid": "",
+  "name": "Hulu",
+  "formal_name": "Hulu",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JHLJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Hulu",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

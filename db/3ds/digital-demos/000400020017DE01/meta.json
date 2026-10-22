@@ -1,21 +1,30 @@
 {
-    "tid": "000400020017DE01",
-    "uid": "",
-    "name": "アトランティック クエスト (体験版)",
-    "formal_name": "アトランティック クエスト (体験版)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-BAQJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400020017DE01",
+  "uid": "",
+  "name": "アトランティック クエスト (体験版)",
+  "formal_name": "アトランティック クエスト (体験版)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-BAQJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "レイニーフロッグ",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

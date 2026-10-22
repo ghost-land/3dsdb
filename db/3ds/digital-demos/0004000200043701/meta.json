@@ -1,21 +1,30 @@
 {
-    "tid": "0004000200043701",
-    "uid": "",
-    "name": "ものすごく脳を鍛える - ５分間の鬼トレーニング体験版",
-    "formal_name": "ものすごく脳を鍛える - ５分間の鬼トレーニング体験版",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-ASRJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000200043701",
+  "uid": "",
+  "name": "ものすごく脳を鍛える - ５分間の鬼トレーニング体験版",
+  "formal_name": "ものすごく脳を鍛える - ５分間の鬼トレーニング体験版",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-ASRJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

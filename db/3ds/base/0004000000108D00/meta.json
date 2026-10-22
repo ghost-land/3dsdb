@@ -28,5 +28,11 @@
   },
   "version": "v3.3.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Vblank Entertainment",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

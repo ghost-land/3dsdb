@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000DAA00",
-    "uid": "",
-    "name": "Super Little Acorns 3D Turbo",
-    "formal_name": "Super Little Acorns 3D Turbo",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-JA6E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000DAA00",
+  "uid": "",
+  "name": "Super Little Acorns 3D Turbo",
+  "formal_name": "Super Little Acorns 3D Turbo",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-JA6E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Pixel Toys",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

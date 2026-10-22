@@ -24,5 +24,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : 짜릿! 우물로 드롭\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130118-005\n등급분류 일자 : 2013.1.18.\n제작・배급업신고번호: 게배 제2012-10호 ",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

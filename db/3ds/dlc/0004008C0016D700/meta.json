@@ -1,21 +1,31 @@
 {
-    "tid": "0004008C0016D700",
-    "uid": "",
-    "name": "Shin Sekaiju no Meikyuu 2 - Fafnir-ui Gisa",
-    "formal_name": "Shin Sekaiju no Meikyuu 2 - Fafnir-ui Gisa",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BM9K",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0016D700",
+  "uid": "",
+  "name": "Shin Sekaiju no Meikyuu 2 - Fafnir-ui Gisa",
+  "formal_name": "Shin Sekaiju no Meikyuu 2 - Fafnir-ui Gisa",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BM9K",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "15"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

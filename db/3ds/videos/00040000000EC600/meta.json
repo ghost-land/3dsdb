@@ -27,5 +27,11 @@
   "disclaimer": null,
   "descriptors": [
     "Visit www.esrb.org for rating information."
-  ]
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }

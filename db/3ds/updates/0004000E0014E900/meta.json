@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E0014E900",
-    "uid": "50010000033495",
-    "name": "LEGO® Ninjago™: La Sombra\nde Ronin - Actualización",
-    "formal_name": "LEGO® Ninjago™: La Sombra\nde Ronin - Actualización",
-    "description": "Este nuevo parche incluye varios\ncambios que mejoran la experiencia\nde juego.",
-    "release_date_on_eshop": "2015-05-14",
-    "product_code": "CTR-U-BLSX",
-    "platform_name": "Datos de actualización",
-    "region": "Spain",
-    "genres": [
-        "Otros"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E0014E900",
+  "uid": "50010000033495",
+  "name": "LEGO® Ninjago™: La Sombra\nde Ronin - Actualización",
+  "formal_name": "LEGO® Ninjago™: La Sombra\nde Ronin - Actualización",
+  "description": "Este nuevo parche incluye varios\ncambios que mejoran la experiencia\nde juego.",
+  "release_date_on_eshop": "2015-05-14",
+  "product_code": "CTR-U-BLSX",
+  "platform_name": "Datos de actualización",
+  "region": "Spain",
+  "genres": [
+    "Otros"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
