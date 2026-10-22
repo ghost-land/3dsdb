@@ -7,37 +7,43 @@ ________
 Structure :
 ```
 db/3ds/
-├── base/                           # Base content (retail/eShop games + digital demos)
-│     └── [tid]/                    # Titles for base content, identified by TID
+├── base/                           # Retail / eShop games (regional releases)
+│     └── [tid]/
+├── digital-demos/                  # Downloadable demos (hShop digital-demos)
+│     └── [tid]/
 ├── kiosk-demos/                    # Kiosk / demo-station builds (hShop kiosk-demos)
 │     └── [tid]/
+├── region-free/                    # Region-free titles (hShop world)
+│     └── [tid]/
+├── unknown-other/                  # Unsorted / unknown region (hShop unknown-other)
+│     └── [tid]/
 ├── dlc/                            # Downloadable content
-│     └── [tid]/                    # Titles for downloadable content, identified by TID
+│     └── [tid]/
 ├── dsiware/                        # DSiWare games and applications
-│     └── [tid]/                    # Titles for DSiWare, identified by TID
+│     └── [tid]/
 ├── extras/                         # Additional content
 │   ├── Custom DSiWare/             # Custom DSiWare creations
-│   │     └── [tid]/                # Titles for custom DSiWare, identified by TID
+│   │     └── [tid]/
 │   ├── DSi System Apps/            # System applications for DSi
-│   │     └── [tid]/                # Titles for DSi system apps, identified by TID
+│   │     └── [tid]/
 │   ├── Dev Apps/                   # Developer tools and apps
-│   │     └── [tid]/                # Titles for developer apps, identified by TID
+│   │     └── [tid]/
 │   ├── Miscellaneous/              # Miscellaneous content
-│   │     └── [tid]/                # Titles for miscellaneous content, identified by TID
+│   │     └── [tid]/
 │   ├── Homebrew/                   # Homebrew applications and games
-│   │     └── [tid]/                # Titles for homebrew, identified by TID
+│   │     └── [tid]/
 │   ├── ROM Hacks/                  # Modified ROMs
-│   │     └── [tid]/                # Titles for ROM hacks, identified by TID
+│   │     └── [tid]/
 │   └── Translated Games/           # Games with fan-made translations
-│         └── [tid]/                # Titles for translated games, identified by TID
+│         └── [tid]/
 ├── themes/                         # 3DS themes
-│     └── [tid]/                    # Titles for themes, identified by TID
+│     └── [tid]/
 ├── updates/                        # System or game updates
-│     └── [tid]/                    # Titles for updates, identified by TID
+│     └── [tid]/
 ├── videos/                         # eShop video content (E3 clips, trailers, Nintendo Video)
-│     └── [tid]/                    # Titles for video content, identified by TID
+│     └── [tid]/
 └── virtual-console/                # Virtual Console games
-      └── [tid]/                    # Titles for Virtual Console games, identified by TID
+      └── [tid]/
 ```
 
 eShop media sizes (Nintendo originals only):
