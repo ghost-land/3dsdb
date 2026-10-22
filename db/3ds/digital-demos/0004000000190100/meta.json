@@ -1,21 +1,30 @@
 {
-    "tid": "0004000000190100",
-    "uid": "",
-    "name": "モンスターハンタークロス - 特別体験版",
-    "formal_name": "モンスターハンタークロス - 特別体験版",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-BXTJ",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000190100",
+  "uid": "",
+  "name": "モンスターハンタークロス - 特別体験版",
+  "formal_name": "モンスターハンタークロス - 特別体験版",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-BXTJ",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "CAPCOM",
+  "smdh": {
+    "flags": [
+      "Allow3D"
+    ]
+  }
 }
