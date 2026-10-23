@@ -21,20 +21,16 @@ db/3ds/
 │     └── [tid]/
 ├── dsiware/                        # DSiWare games and applications
 │     └── [tid]/
-├── extras/                         # Additional content
-│   ├── Custom DSiWare/             # Custom DSiWare creations
+├── extras/                         # hShop Extras (nested like hShop /c/extras/s/*)
+│   ├── custom-dsiware/             # Custom DSiWare (not on 3DS eShop)
 │   │     └── [tid]/
-│   ├── DSi System Apps/            # System applications for DSi
+│   ├── devapps-misc/               # Dev Apps / Miscellaneous (prototypes, tools…)
 │   │     └── [tid]/
-│   ├── Dev Apps/                   # Developer tools and apps
+│   ├── hb/                         # Homebrew
 │   │     └── [tid]/
-│   ├── Miscellaneous/              # Miscellaneous content
+│   ├── rom-hacks/                  # ROM hacks / undubs / modified games
 │   │     └── [tid]/
-│   ├── Homebrew/                   # Homebrew applications and games
-│   │     └── [tid]/
-│   ├── ROM Hacks/                  # Modified ROMs
-│   │     └── [tid]/
-│   └── Translated Games/           # Games with fan-made translations
+│   └── translated-games/           # Fan translations
 │         └── [tid]/
 ├── themes/                         # 3DS themes
 │     └── [tid]/
