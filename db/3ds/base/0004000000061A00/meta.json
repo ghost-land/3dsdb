@@ -29,5 +29,12 @@
     "Mild Language",
     "Mild Violence",
     "Suggestive Themes"
-  ]
+  ],
+  "publisher": "Activision",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
