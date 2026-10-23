@@ -32,8 +32,6 @@ db/3ds/
 │   │     └── [tid]/
 │   └── translated-games/           # Fan translations
 │         └── [tid]/
-├── themes/                         # 3DS themes
-│     └── [tid]/
 ├── updates/                        # System or game updates
 │     └── [tid]/
 ├── videos/                         # eShop video content (E3 clips, trailers, Nintendo Video)
@@ -41,6 +39,8 @@ db/3ds/
 └── virtual-console/                # Virtual Console games
       └── [tid]/
 ```
+
+Themes are omitted for now: hShop theme packs share the same TID / product code (installer bundles), so they do not map 1:1 to eShop title folders.
 
 eShop media sizes (Nintendo originals only):
 - `icon.jpg` = 48×48
