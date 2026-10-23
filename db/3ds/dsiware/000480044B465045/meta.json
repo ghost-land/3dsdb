@@ -7,19 +7,26 @@
   "release_date_on_eshop": "2010-04-23",
   "product_code": "TWL-N-KFPP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Action",
     "Puzzle",
     "Platformer"
   ],
   "features": [],
-  "languages": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
   "rating_system": {
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Xform"

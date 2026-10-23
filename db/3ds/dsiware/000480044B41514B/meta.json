@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-08-23",
   "product_code": "TWL-N-KAQK",
   "platform_name": "Nintendo DSiWare",
-  "region": "Korea",
+  "region": "KR",
   "genres": [
     "Action"
   ],
@@ -19,7 +19,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Cartoon Violence"

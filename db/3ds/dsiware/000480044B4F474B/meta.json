@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-10-11",
   "product_code": "TWL-N-KOGK",
   "platform_name": "Nintendo DSiWare",
-  "region": "Korea",
+  "region": "KR",
   "genres": [
     "Fighting",
     "Action"
@@ -20,7 +20,7 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Cartoon Violence"

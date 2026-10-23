@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B5A3745",
-    "uid": "",
-    "name": "Tales to Enjoy! - The Three Little Pigs",
-    "formal_name": "Tales to Enjoy! - The Three Little Pigs",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KZ7E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A3745",
+  "uid": "",
+  "name": "Tales to Enjoy! - The Three Little Pigs",
+  "formal_name": "Tales to Enjoy! - The Three Little Pigs",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KZ7E",
+  "platform_name": "",
+  "region": "US",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Enjoy Gaming ltd"
 }

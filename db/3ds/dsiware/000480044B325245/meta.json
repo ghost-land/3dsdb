@@ -7,18 +7,25 @@
   "release_date_on_eshop": "2010-08-20",
   "product_code": "TWL-N-K2RP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Puzzle",
     "Board Game"
   ],
   "features": [],
-  "languages": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
   "rating_system": {
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Sabarasa"

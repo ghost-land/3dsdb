@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-05-21",
   "product_code": "TWL-N-KFRV",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Racing",
     "Sports"
@@ -26,7 +26,7 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Gameloft"

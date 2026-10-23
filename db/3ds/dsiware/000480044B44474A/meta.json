@@ -1,21 +1,28 @@
 {
-    "tid": "000480044B44474A",
-    "uid": "",
-    "name": "どこでも Wiiのま",
-    "formal_name": "どこでも Wiiのま",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KDGJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B44474A",
+  "uid": "",
+  "name": "どこでも Wiiのま",
+  "formal_name": "どこでも Wiiのま",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KDGJ",
+  "platform_name": "",
+  "region": "JP",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

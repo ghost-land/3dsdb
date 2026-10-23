@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2009-08-10",
   "product_code": "TWL-N-KNRK",
   "platform_name": "Nintendo DSiWare",
-  "region": "Korea",
+  "region": "KR",
   "genres": [
     "Other"
   ],
@@ -21,7 +21,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "This game includes some content from \nBrain Age and Brain Age 2 previously released for Nintendo DS.",
   "descriptors": [],
   "publisher": "Nintendo"

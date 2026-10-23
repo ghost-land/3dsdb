@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B5A4B4B",
-    "uid": "",
-    "name": "Nyueiseu Teochi! Hanyeongsajeon",
-    "formal_name": "Nyueiseu Teochi! Hanyeongsajeon",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KZKK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4B4B",
+  "uid": "",
+  "name": "Nyueiseu Teochi! Hanyeongsajeon",
+  "formal_name": "Nyueiseu Teochi! Hanyeongsajeon",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KZKK",
+  "platform_name": "",
+  "region": "KR",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

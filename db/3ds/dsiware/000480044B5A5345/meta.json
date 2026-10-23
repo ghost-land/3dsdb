@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2011-04-29",
   "product_code": "TWL-N-KZSV",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Action",
     "Puzzle",
@@ -25,7 +25,7 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.3.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Kiloo"

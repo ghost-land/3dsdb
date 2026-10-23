@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B325050",
-    "uid": "",
-    "name": "2Puzzle It - Fantasy",
-    "formal_name": "2Puzzle It - Fantasy",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-K2PP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B325050",
+  "uid": "",
+  "name": "2Puzzle It - Fantasy",
+  "formal_name": "2Puzzle It - Fantasy",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-K2PP",
+  "platform_name": "",
+  "region": "EU",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Neuland Multimedia GmbH"
 }

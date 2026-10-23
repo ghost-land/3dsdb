@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2013-06-06",
   "product_code": "TWL-N-KBQP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Simulation",
     "Action",
@@ -21,7 +21,7 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Agetec"

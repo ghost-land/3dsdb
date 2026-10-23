@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-04-02",
   "product_code": "TWL-N-KO4V",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Platformer"
   ],
@@ -22,7 +22,7 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Virtual Playground"

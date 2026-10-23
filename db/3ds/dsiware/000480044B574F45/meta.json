@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2013-04-10",
   "product_code": "TWL-N-KWOE",
   "platform_name": "Nintendo DSiWare",
-  "region": "North America",
+  "region": "US",
   "genres": [
     "Simulation"
   ],
@@ -25,7 +25,7 @@
     "name": "PEGI",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "ROCKYOU"

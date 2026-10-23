@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B38344A",
-    "uid": "",
-    "name": "キャラ・パシャ！ かいてんむてんまる",
-    "formal_name": "キャラ・パシャ！ かいてんむてんまる",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-K84J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B38344A",
+  "uid": "",
+  "name": "キャラ・パシャ！ かいてんむてんまる",
+  "formal_name": "キャラ・パシャ！ かいてんむてんまる",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-K84J",
+  "platform_name": "",
+  "region": "JP",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "にっぽんコロムビア"
 }

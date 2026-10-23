@@ -7,15 +7,23 @@
   "release_date_on_eshop": "",
   "product_code": "TWL-N-KUNE",
   "platform_name": "",
-  "region": "North America",
+  "region": "US",
   "genres": [],
   "features": [],
-  "languages": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
   "rating_system": {
     "name": "",
     "age": ""
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Gameloft"
 }

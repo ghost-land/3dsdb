@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2011-08-11",
   "product_code": "TWL-N-KO9P",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Platformer",
     "Action",
@@ -26,7 +26,7 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Virtual Playground"

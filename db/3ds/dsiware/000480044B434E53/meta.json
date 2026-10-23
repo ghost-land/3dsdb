@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-09-13",
   "product_code": "TWL-N-KCNE",
   "platform_name": "Nintendo DSiWare",
-  "region": "North America",
+  "region": "ES",
   "genres": [
     "Action",
     "Strategy",
@@ -21,7 +21,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Cartoon Violence"

@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B504745",
-    "uid": "",
-    "name": "Did It Myself - ABC123",
-    "formal_name": "Did It Myself - ABC123",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KPGE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504745",
+  "uid": "",
+  "name": "Did It Myself - ABC123",
+  "formal_name": "Did It Myself - ABC123",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KPGE",
+  "platform_name": "",
+  "region": "US",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Powerhead Games"
 }

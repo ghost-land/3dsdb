@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B55344A",
-    "uid": "",
-    "name": "そらをかけるしょうじょ シューティング",
-    "formal_name": "そらをかけるしょうじょ シューティング",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KU4J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B55344A",
+  "uid": "",
+  "name": "そらをかけるしょうじょ シューティング",
+  "formal_name": "そらをかけるしょうじょ シューティング",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KU4J",
+  "platform_name": "",
+  "region": "JP",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "ITL"
 }

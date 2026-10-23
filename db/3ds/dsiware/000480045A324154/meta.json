@@ -7,15 +7,23 @@
   "release_date_on_eshop": "",
   "product_code": "TWL-N-Z2AT",
   "platform_name": "",
-  "region": "Unknown Other",
+  "region": "EU",
   "genres": [],
   "features": [],
-  "languages": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
   "rating_system": {
     "name": "",
     "age": ""
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

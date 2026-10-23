@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2009-11-23",
   "product_code": "TWL-N-KCMJ",
   "platform_name": "Nintendo DSiWare",
-  "region": "Japan",
+  "region": "JP",
   "genres": [
     "Action",
     "Adventure"
@@ -22,7 +22,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Cartoon Violence"

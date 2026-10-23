@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-04-12",
   "product_code": "TWL-N-KGNJ",
   "platform_name": "Nintendo DSiWare",
-  "region": "Japan",
+  "region": "JP",
   "genres": [
     "Action",
     "Shooter",
@@ -23,7 +23,7 @@
     "name": "ESRB",
     "age": "13"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Suggestive Themes",

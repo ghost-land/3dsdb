@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-01-11",
   "product_code": "TWL-N-K9BK",
   "platform_name": "Nintendo DSiWare",
-  "region": "Korea",
+  "region": "KR",
   "genres": [
     "Sports",
     "Simulation",
@@ -21,7 +21,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Aksys Games"

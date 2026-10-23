@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B335345",
-    "uid": "",
-    "name": "Slingo Supreme",
-    "formal_name": "Slingo Supreme",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-K3SE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B335345",
+  "uid": "",
+  "name": "Slingo Supreme",
+  "formal_name": "Slingo Supreme",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-K3SE",
+  "platform_name": "",
+  "region": "US",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Magellan Interactive"
 }

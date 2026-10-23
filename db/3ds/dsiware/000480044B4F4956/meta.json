@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B4F4956",
-    "uid": "",
-    "name": "Where's Wally The Fantastic - Journey - Travel Pack 1",
-    "formal_name": "Where's Wally The Fantastic - Journey - Travel Pack 1",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KOIV",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4F4956",
+  "uid": "",
+  "name": "Where's Wally The Fantastic - Journey - Travel Pack 1",
+  "formal_name": "Where's Wally The Fantastic - Journey - Travel Pack 1",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KOIV",
+  "platform_name": "",
+  "region": "EU",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ludia"
 }

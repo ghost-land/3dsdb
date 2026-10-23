@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2011-10-27",
   "product_code": "TWL-N-KZHP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Adventure",
     "Puzzle"
@@ -23,7 +23,7 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.2.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Microvalue"

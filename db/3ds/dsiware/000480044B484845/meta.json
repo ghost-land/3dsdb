@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-08-20",
   "product_code": "TWL-N-KHHP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Simulation",
     "Other"
@@ -23,7 +23,7 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "ROCKYOU"

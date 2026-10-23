@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2012-08-16",
   "product_code": "CTR-N-JMNE",
   "platform_name": "Nintendo 3DS Download Only",
-  "region": "North America",
+  "region": "EU",
   "genres": [
     "Shooter",
     "Puzzle",
@@ -23,7 +23,7 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [
     "Fantasy Violence"

@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-05-17",
   "product_code": "TWL-N-KRGK",
   "platform_name": "Nintendo DSiWare",
-  "region": "Korea",
+  "region": "KR",
   "genres": [
     "Puzzle",
     "Adventure",
@@ -21,7 +21,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Nintendo"

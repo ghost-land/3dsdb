@@ -91,6 +91,8 @@ db/3ds/:category/:tid/meta.json
 }
 ```
 
+`region` = hShop market / country shop (`JP`, `US`, `EU`, `FR`, `DE`, `GB`, …) or `FREE` (world / homebrew). Source of truth: `utils/fill_region_from_hshop.py` (hShop `europe` ≠ `france`). Languages stay ISO-639 (`ja`, `en`).
+
 ___
 
 Iso code and more :

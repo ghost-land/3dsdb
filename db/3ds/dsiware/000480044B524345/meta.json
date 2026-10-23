@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-06-25",
   "product_code": "TWL-N-KRCV",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Adventure",
     "Other"
@@ -23,7 +23,7 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Virtual Playground"

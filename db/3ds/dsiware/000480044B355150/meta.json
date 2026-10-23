@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2011-04-11",
   "product_code": "TWL-N-K5QP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "EU",
   "genres": [
     "Adventure"
   ],
@@ -21,7 +21,7 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Language",

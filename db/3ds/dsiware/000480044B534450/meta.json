@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2011-02-07",
   "product_code": "TWL-N-KSDP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "EU",
   "genres": [
     "Shooter"
   ],
@@ -19,7 +19,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Mild Fantasy Violence"

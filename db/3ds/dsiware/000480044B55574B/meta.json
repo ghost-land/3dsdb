@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2009-04-02",
   "product_code": "TWL-N-KUWK",
   "platform_name": "Nintendo DSiWare",
-  "region": "Korea",
+  "region": "KR",
   "genres": [
     "Action",
     "Multiplayer",
@@ -23,7 +23,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Comic Mischief"

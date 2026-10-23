@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B473245",
-    "uid": "",
-    "name": "Gene Labs",
-    "formal_name": "Gene Labs",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KG2E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B473245",
+  "uid": "",
+  "name": "Gene Labs",
+  "formal_name": "Gene Labs",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KG2E",
+  "platform_name": "",
+  "region": "US",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "FRONTLINE Studios LLC"
 }

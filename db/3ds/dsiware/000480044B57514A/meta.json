@@ -7,15 +7,23 @@
   "release_date_on_eshop": "",
   "product_code": "TWL-N-KWQJ",
   "platform_name": "",
-  "region": "Japan",
+  "region": "JP",
   "genres": [],
   "features": [],
-  "languages": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
   "rating_system": {
     "name": "",
     "age": ""
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "アイシーエムジャパン"
 }

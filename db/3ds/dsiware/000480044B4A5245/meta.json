@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-12-31",
   "product_code": "TWL-N-KJRP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Puzzle",
     "Simulation",
@@ -27,7 +27,7 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Sabarasa"

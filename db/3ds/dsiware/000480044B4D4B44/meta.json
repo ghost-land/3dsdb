@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-05-21",
   "product_code": "TWL-N-KMKD",
   "platform_name": "Nintendo DSiWare",
-  "region": "Germany",
+  "region": "DE",
   "genres": [
     "Puzzle",
     "Brettspiel"
@@ -20,7 +20,7 @@
     "name": "USK",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Sanuk Games"

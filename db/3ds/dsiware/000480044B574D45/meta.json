@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2012-11-15",
   "product_code": "TWL-N-KWMP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Arcade",
     "Adventure",
@@ -22,7 +22,7 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Agetec"

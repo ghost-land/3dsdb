@@ -1,21 +1,28 @@
 {
-    "tid": "000480044B394B4A",
-    "uid": "",
-    "name": "任天童子",
-    "formal_name": "任天童子",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-K9KJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B394B4A",
+  "uid": "",
+  "name": "任天童子",
+  "formal_name": "任天童子",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-K9KJ",
+  "platform_name": "",
+  "region": "JP",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": []
 }

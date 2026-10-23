@@ -1,21 +1,28 @@
 {
-    "tid": "000480044B385545",
-    "uid": "",
-    "name": "Nintendo Fan Network",
-    "formal_name": "Nintendo Fan Network",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-K8UE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B385545",
+  "uid": "",
+  "name": "Nintendo Fan Network",
+  "formal_name": "Nintendo Fan Network",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-K8UE",
+  "platform_name": "",
+  "region": "US",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

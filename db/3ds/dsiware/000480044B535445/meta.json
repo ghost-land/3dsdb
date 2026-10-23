@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B535445",
-    "uid": "",
-    "name": "Scrabble - Tools",
-    "formal_name": "Scrabble - Tools",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KSTE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B535445",
+  "uid": "",
+  "name": "Scrabble - Tools",
+  "formal_name": "Scrabble - Tools",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KSTE",
+  "platform_name": "",
+  "region": "US",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Electronic Arts Inc."
 }

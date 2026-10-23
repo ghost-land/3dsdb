@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2012-12-06",
   "product_code": "TWL-N-K2WP",
   "platform_name": "Nintendo DSiWare",
-  "region": "Europe",
+  "region": "US",
   "genres": [
     "Arcade",
     "Adventure",
@@ -26,7 +26,7 @@
     "name": "PEGI",
     "age": "3"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Microvalue"

@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B325856",
-    "uid": "",
-    "name": "AlphaBounce",
-    "formal_name": "AlphaBounce",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-K2XV",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B325856",
+  "uid": "",
+  "name": "AlphaBounce",
+  "formal_name": "AlphaBounce",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-K2XV",
+  "platform_name": "",
+  "region": "EU",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Mad Monkey Studio"
 }

@@ -7,15 +7,23 @@
   "release_date_on_eshop": "",
   "product_code": "TWL-N-KN9H",
   "platform_name": "",
-  "region": "Netherlands",
+  "region": "NL",
   "genres": [],
   "features": [],
-  "languages": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
   "rating_system": {
     "name": "",
     "age": ""
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

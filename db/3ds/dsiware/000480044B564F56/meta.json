@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B564F56",
-    "uid": "",
-    "name": "Hello Flowerz",
-    "formal_name": "Hello Flowerz",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KVOV",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B564F56",
+  "uid": "",
+  "name": "Hello Flowerz",
+  "formal_name": "Hello Flowerz",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KVOV",
+  "platform_name": "",
+  "region": "EU",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Virtual Toys"
 }

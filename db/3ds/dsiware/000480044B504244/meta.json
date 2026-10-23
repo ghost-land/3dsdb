@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2010-05-10",
   "product_code": "TWL-N-KPBE",
   "platform_name": "Nintendo DSiWare",
-  "region": "North America",
+  "region": "DE",
   "genres": [
     "Action",
     "Fighting",
@@ -22,7 +22,7 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Violence"

@@ -1,21 +1,24 @@
 {
-    "tid": "000480044B56464A",
-    "uid": "",
-    "name": "クイズおんがくのじかん",
-    "formal_name": "クイズおんがくのじかん",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KVFJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B56464A",
+  "uid": "",
+  "name": "クイズおんがくのじかん",
+  "formal_name": "クイズおんがくのじかん",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KVFJ",
+  "platform_name": "",
+  "region": "JP",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v1.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "HUDSON"
 }

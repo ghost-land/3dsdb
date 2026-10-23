@@ -7,7 +7,7 @@
   "release_date_on_eshop": "2011-07-13",
   "product_code": "TWL-N-KF7E",
   "platform_name": "ニンテンドーDSiウェア",
-  "region": "North America",
+  "region": "US",
   "genres": [
     "スポーツ",
     "アクション"
@@ -22,7 +22,7 @@
     "name": "CERO",
     "age": "0"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
   "descriptors": [],
   "publisher": "甲南電機製作所"

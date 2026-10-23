@@ -1,21 +1,29 @@
 {
-    "tid": "000480044B555345",
-    "uid": "",
-    "name": "Paul's Shooting Adventure 2",
-    "formal_name": "Paul's Shooting Adventure 2",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KUSE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B555345",
+  "uid": "",
+  "name": "Paul's Shooting Adventure 2",
+  "formal_name": "Paul's Shooting Adventure 2",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KUSE",
+  "platform_name": "",
+  "region": "US",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Agetec, Inc."
 }
