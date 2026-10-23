@@ -35,5 +35,12 @@
   },
   "version": "v2.3.0",
   "disclaimer": "When you purchase the full version of\n<br>Tomodachi Life in Nintendo eShop you\n<br>will receive two download codes for\n<br>the Tomodachi Life: Welcome Version\n<br>for use in Nintendo eShop. The\n<br>download codes can be found\n<br>on-screen after the purchase of a\n<br>downloadable full version of\n<br>Tomodachi Life from Nintendo eShop\n<br>on the Nintendo 3DS system and also\n<br>on the receipt for the Nintendo eShop\n<br>purchase.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

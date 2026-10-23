@@ -31,5 +31,12 @@
   "descriptors": [
     "Comic Mischief",
     "Cartoon Violence"
-  ]
+  ],
+  "publisher": "LucasArts™",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

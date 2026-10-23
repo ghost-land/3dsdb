@@ -1,31 +1,41 @@
 {
-    "tid": "000400000017BF00",
-    "uid": "50010000038155",
-    "name": "IRONFALL -Invasion- (日文版)",
-    "formal_name": "IRONFALL -Invasion- (日文版)",
-    "description": "搭載了最多6人進行網路對戰的Nintendo 3DS TPS掩護追擊手。\n臨場感十足的華麗圖像，以每秒輸出60幀圖片的速度表現出流暢的動作，可與全世界的玩家體驗複數遊戲的趣味。\n\n單人遊戲時，描述由地球以外侵襲的外星人ダイキサイド，共11個攻防關卡的模式裡，收錄了4個難度、以及可設定通關時間、使用彈藥數量等條件，讓攻略更有效率的共78個挑戰任務。\n玩家超越國度，和以奪回地球為目標的抵抗軍結盟，以打開“アイアンフォール”第4隊之ジム・ウォーパー和サマンサ・フィンチ2人操作模式為目標。\n\n單人遊戲和複數遊戲內共有10種武器登場。\n\n依狀況而定，配合使用短槍、手榴彈、來福槍等各種具有不同特徵的武器，以表現戰術的魅力。",
-    "release_date_on_eshop": "2015-10-28",
-    "product_code": "CTR-N-KFLZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "動作",
-        "射擊",
-        "第一人稱射擊",
-        "冒險"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "000400000017BF00",
+  "uid": "50010000038155",
+  "name": "IRONFALL -Invasion- (日文版)",
+  "formal_name": "IRONFALL -Invasion- (日文版)",
+  "description": "搭載了最多6人進行網路對戰的Nintendo 3DS TPS掩護追擊手。\n臨場感十足的華麗圖像，以每秒輸出60幀圖片的速度表現出流暢的動作，可與全世界的玩家體驗複數遊戲的趣味。\n\n單人遊戲時，描述由地球以外侵襲的外星人ダイキサイド，共11個攻防關卡的模式裡，收錄了4個難度、以及可設定通關時間、使用彈藥數量等條件，讓攻略更有效率的共78個挑戰任務。\n玩家超越國度，和以奪回地球為目標的抵抗軍結盟，以打開“アイアンフォール”第4隊之ジム・ウォーパー和サマンサ・フィンチ2人操作模式為目標。\n\n單人遊戲和複數遊戲內共有10種武器登場。\n\n依狀況而定，配合使用短槍、手榴彈、來福槍等各種具有不同特徵的武器，以表現戰術的魅力。",
+  "release_date_on_eshop": "2015-10-28",
+  "product_code": "CTR-N-KFLZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "動作",
+    "射擊",
+    "第一人稱射擊",
+    "冒險"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊"
+  ],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "AGATSUMA ENTERTAINMENT",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

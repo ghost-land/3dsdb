@@ -31,5 +31,12 @@
   "descriptors": [
     "Cartoon Violence",
     "Crude Humor"
-  ]
+  ],
+  "publisher": "Crave Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

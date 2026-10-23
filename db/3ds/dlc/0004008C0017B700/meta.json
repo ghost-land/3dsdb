@@ -1,21 +1,40 @@
 {
-    "tid": "0004008C0017B700",
-    "uid": "",
-    "name": "Fire Emblem if",
-    "formal_name": "Fire Emblem if",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BFXZ",
-    "platform_name": "",
-    "region": "Taiwan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0017B700",
+  "uid": "",
+  "name": "Fire Emblem if",
+  "formal_name": "Fire Emblem if",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BFXZ",
+  "platform_name": "",
+  "region": "Taiwan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,32 @@
 {
-    "tid": "000400000019FF00",
-    "uid": "",
-    "name": "Professor Layton en de Eeuwige Diva",
-    "formal_name": "Professor Layton en de Eeuwige Diva",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-MB5H",
-    "platform_name": "",
-    "region": "Netherlands",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000019FF00",
+  "uid": "",
+  "name": "Professor Layton en de Eeuwige Diva",
+  "formal_name": "Professor Layton en de Eeuwige Diva",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-MB5H",
+  "platform_name": "",
+  "region": "Netherlands",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "VIZ Media Europe"
 }

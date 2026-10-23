@@ -1,21 +1,38 @@
 {
-    "tid": "00040002001CF501",
-    "uid": "",
-    "name": "The Alliance Alive Demo",
-    "formal_name": "The Alliance Alive Demo",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-T-AL4P",
-    "platform_name": "",
-    "region": "Digital Demos",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040002001CF501",
+  "uid": "",
+  "name": "The Alliance Alive Demo",
+  "formal_name": "The Alliance Alive Demo",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-T-AL4P",
+  "platform_name": "",
+  "region": "Digital Demos",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Atlus U.S.A., Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

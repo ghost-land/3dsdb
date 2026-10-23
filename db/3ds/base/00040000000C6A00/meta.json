@@ -26,5 +26,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : 레고 배트맨2: DC 슈퍼 히어로즈\n상호 : (주)인플레이인터렉티브\n이용등급 : 전체이용가\n등급분류번호: CC-NV-121123-004\n등급분류 일자 : 2012.11.23.\n제작・배급업신고번호:제2006-000020호",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "INPLAY Interactive Co., Ltd",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

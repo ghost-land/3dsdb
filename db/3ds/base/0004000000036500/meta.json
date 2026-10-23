@@ -31,5 +31,12 @@
     "Mild Violence",
     "Crude Humor",
     "Sexual Themes"
-  ]
+  ],
+  "publisher": "Electronic Arts Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

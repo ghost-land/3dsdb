@@ -27,7 +27,14 @@
     "name": "USK",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "*Spiel enthält\ndeutsche Sprachausgabe.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

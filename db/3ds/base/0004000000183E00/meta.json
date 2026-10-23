@@ -1,21 +1,30 @@
 {
-    "tid": "0004000000183E00",
-    "uid": "",
-    "name": "どこぽんちょいす - To LOVEる―とらぶる― Vol.2",
-    "formal_name": "どこぽんちょいす - To LOVEる―とらぶる― Vol.2",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-KZ5J",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000183E00",
+  "uid": "",
+  "name": "どこぽんちょいす - To LOVEる―とらぶる― Vol.2",
+  "formal_name": "どこぽんちょいす - To LOVEる―とらぶる― Vol.2",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-KZ5J",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Librica",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

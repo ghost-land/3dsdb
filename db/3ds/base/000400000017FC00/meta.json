@@ -24,5 +24,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명:LEGO® Ninjago™: 섀도 오브 로닌\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가 (폭력성)\n<br>등급분류번호:GC-CC-NV-151008-005\n<br>등급분류 일자:2015.10.08\n<br>제작・배급업신고번호:게배 제2012-10호\n자막:한국어\n음성:영어",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

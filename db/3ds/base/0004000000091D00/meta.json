@@ -30,5 +30,12 @@
   "disclaimer": null,
   "descriptors": [
     "Cartoon Violence"
-  ]
+  ],
+  "publisher": "Activision®",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

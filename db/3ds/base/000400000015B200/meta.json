@@ -1,21 +1,38 @@
 {
-    "tid": "000400000015B200",
-    "uid": "",
-    "name": "Etrian Mystery Dungeon",
-    "formal_name": "Etrian Mystery Dungeon",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BFDE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000015B200",
+  "uid": "",
+  "name": "Etrian Mystery Dungeon",
+  "formal_name": "Etrian Mystery Dungeon",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BFDE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Atlus U.S.A., Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -36,5 +36,12 @@
     "Fantasy Violence",
     "Mild Blood",
     "Mild Language"
-  ]
+  ],
+  "publisher": "Square Enix London Studios",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

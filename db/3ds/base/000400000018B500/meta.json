@@ -24,5 +24,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:냥코대전쟁 POP!\n<br>상호:PONOS\n<br>이용등급:12세이용가\n<br>등급분류번호:GC-CC-NV-160304-002\n<br>등급분류 일자:2016.3.4\n<br>제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어 \n자막:한국어",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "PONOS Corporation",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -27,5 +27,12 @@
   "descriptors": [
     "Comic Mischief",
     "Fantasy Violence"
-  ]
+  ],
+  "publisher": "Activision®",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

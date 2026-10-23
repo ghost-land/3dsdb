@@ -1,21 +1,35 @@
 {
-    "tid": "0004000000037900",
-    "uid": "",
-    "name": "The Adventures of Tintin - The Secret of the Unicorn",
-    "formal_name": "The Adventures of Tintin - The Secret of the Unicorn",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-ATNP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000037900",
+  "uid": "",
+  "name": "The Adventures of Tintin - The Secret of the Unicorn",
+  "formal_name": "The Adventures of Tintin - The Secret of the Unicorn",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-ATNP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Ubisoft Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

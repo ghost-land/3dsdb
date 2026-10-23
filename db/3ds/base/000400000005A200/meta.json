@@ -32,5 +32,12 @@
   "disclaimer": null,
   "descriptors": [
     "Cartoon Violence"
-  ]
+  ],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

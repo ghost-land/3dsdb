@@ -33,5 +33,12 @@
   "descriptors": [
     "Animated Blood",
     "Fantasy Violence"
-  ]
+  ],
+  "publisher": "Atari",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

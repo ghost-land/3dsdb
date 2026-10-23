@@ -1,23 +1,34 @@
 {
-    "tid": "000400000017C000",
-    "uid": "50010000039037",
-    "name": "Mega Man® Legacy Collection (日英版)",
-    "formal_name": "Mega Man® Legacy Collection (日英版)",
-    "description": "為慶祝Capcom的Blue Bomber之8-bit歷史，推出Mega Man Legacy Collection！\nMega Man Legacy Collection是為慶祝8-bit歷史而推出的遊戲。遊戲包括重新製作該系列第一至六集的內容，讓一眾洛克人支持者重溫洛克人的風采，與此同時，讓更多人認識洛克人能風靡全球的過人之處。\n\nMega Man Legacy Collection並不只簡單的包含六集的內容，當中加入了「Museum Mode」及新的「Challenge Mode」帶給玩家新的體驗。「Challenge Mode」混合了6款遊戲內不同階段的關卡，提供各種難度的挑戰以同時照顧新舊玩家的需要。「Museum Mode」全面性地收集了洛克人系列的歷史、高解像度的藝術品及其原創的概念性作品。",
-    "release_date_on_eshop": "2016-02-23",
-    "product_code": "CTR-N-BMMZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "動作"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.1.0",
-    "disclaimer": "注意事項：本軟體內容與［日本／北美］版相同。遊戲內容及電子說明書均與該版本相同，以[日文／英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "000400000017C000",
+  "uid": "50010000039037",
+  "name": "Mega Man® Legacy Collection (日英版)",
+  "formal_name": "Mega Man® Legacy Collection (日英版)",
+  "description": "為慶祝Capcom的Blue Bomber之8-bit歷史，推出Mega Man Legacy Collection！\nMega Man Legacy Collection是為慶祝8-bit歷史而推出的遊戲。遊戲包括重新製作該系列第一至六集的內容，讓一眾洛克人支持者重溫洛克人的風采，與此同時，讓更多人認識洛克人能風靡全球的過人之處。\n\nMega Man Legacy Collection並不只簡單的包含六集的內容，當中加入了「Museum Mode」及新的「Challenge Mode」帶給玩家新的體驗。「Challenge Mode」混合了6款遊戲內不同階段的關卡，提供各種難度的挑戰以同時照顧新舊玩家的需要。「Museum Mode」全面性地收集了洛克人系列的歷史、高解像度的藝術品及其原創的概念性作品。",
+  "release_date_on_eshop": "2016-02-23",
+  "product_code": "CTR-N-BMMZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "動作"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.1.0",
+  "disclaimer": "注意事項：本軟體內容與［日本／北美］版相同。遊戲內容及電子說明書均與該版本相同，以[日文／英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "Capcom",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

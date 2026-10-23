@@ -27,7 +27,14 @@
     "name": "PEGI",
     "age": "7"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": "*El juego contiene\nvoces en Castellano.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

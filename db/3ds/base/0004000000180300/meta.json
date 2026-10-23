@@ -1,23 +1,34 @@
 {
-    "tid": "0004000000180300",
-    "uid": "50010000039498",
-    "name": "Mega Man® \nLegacy Collection",
-    "formal_name": "Mega Man® \nLegacy Collection",
-    "description": "『Mega Man Legacy Collection』에는 오리지널 시리즈를 충실하게 재현하는 총 6개의 Mega Man 게임이 수록되어 있습니다.\nMega Man 게임 외에도 뮤지엄 모드와 새로운 챌린지 모드를 통해 클래식 게임을 새로운 방법으로 경험할 수 있습니다. \n<br>챌린지 모드는 6개 모든 게임의  게임 플레이 부분을 리믹스하여, 숙련자에게는 여러가지 난이도를 플레이하는 즐거움을, \n<br>초보자에게는 훌륭한 출발점을 제공합니다. 또한 뮤지엄 모드에는 Mega Man과 비디오 게임을 좋아하시는 유저들을 위한 \n<br>히스토리 컬렉션과 고해상도 이미지, 오리지널 콘셉트가 수록되어 있습니다.",
-    "release_date_on_eshop": "2016-02-24",
-    "product_code": "CTR-N-BMMY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Mega Man® Legacy Collection\n<br>상호:Capcom Asia Co., Ltd.\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-151023-003\n<br>등급분류 일자:2015.10.23\n<br>제작・배급업신고번호:제 2012-000049호\n<br>※ 대응 언어:영어\n<br>※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000180300",
+  "uid": "50010000039498",
+  "name": "Mega Man® \nLegacy Collection",
+  "formal_name": "Mega Man® \nLegacy Collection",
+  "description": "『Mega Man Legacy Collection』에는 오리지널 시리즈를 충실하게 재현하는 총 6개의 Mega Man 게임이 수록되어 있습니다.\nMega Man 게임 외에도 뮤지엄 모드와 새로운 챌린지 모드를 통해 클래식 게임을 새로운 방법으로 경험할 수 있습니다. \n<br>챌린지 모드는 6개 모든 게임의  게임 플레이 부분을 리믹스하여, 숙련자에게는 여러가지 난이도를 플레이하는 즐거움을, \n<br>초보자에게는 훌륭한 출발점을 제공합니다. 또한 뮤지엄 모드에는 Mega Man과 비디오 게임을 좋아하시는 유저들을 위한 \n<br>히스토리 컬렉션과 고해상도 이미지, 오리지널 콘셉트가 수록되어 있습니다.",
+  "release_date_on_eshop": "2016-02-24",
+  "product_code": "CTR-N-BMMY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Mega Man® Legacy Collection\n<br>상호:Capcom Asia Co., Ltd.\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-151023-003\n<br>등급분류 일자:2015.10.23\n<br>제작・배급업신고번호:제 2012-000049호\n<br>※ 대응 언어:영어\n<br>※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Capcom",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

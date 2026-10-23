@@ -1,21 +1,31 @@
 {
-    "tid": "00040000000F0900",
-    "uid": "",
-    "name": "Project Cross Zone",
-    "formal_name": "Project Cross Zone",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-AXXY",
-    "platform_name": "",
-    "region": "Unknown Other",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000F0900",
+  "uid": "",
+  "name": "Project Cross Zone",
+  "formal_name": "Project Cross Zone",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-AXXY",
+  "platform_name": "",
+  "region": "Unknown Other",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "15"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

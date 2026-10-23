@@ -1,21 +1,38 @@
 {
-    "tid": "000400000005A800",
-    "uid": "",
-    "name": "Schlag den Raab - Das 2. Spiel",
-    "formal_name": "Schlag den Raab - Das 2. Spiel",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AS2D",
-    "platform_name": "",
-    "region": "Germany",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000005A800",
+  "uid": "",
+  "name": "Schlag den Raab - Das 2. Spiel",
+  "formal_name": "Schlag den Raab - Das 2. Spiel",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AS2D",
+  "platform_name": "",
+  "region": "Germany",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "bitComposer Games GmbH",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

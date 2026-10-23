@@ -23,5 +23,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : 짱구는 못말려 판타스틱-! 우주별 대모험!!\n상호 : 대원미디어(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-130807-008\n등급분류 일자 : 2013.08.07.\n제작・배급업신고번호 : 2004000003  ",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "DAEWON MEDIA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

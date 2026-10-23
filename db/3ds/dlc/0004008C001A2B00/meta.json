@@ -28,7 +28,14 @@
     "name": "CERO",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.4.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

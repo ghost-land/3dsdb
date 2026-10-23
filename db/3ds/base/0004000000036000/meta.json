@@ -37,5 +37,12 @@
     "Blood",
     "Drug Reference",
     "Sexual Themes"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

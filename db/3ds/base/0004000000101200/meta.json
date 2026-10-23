@@ -30,5 +30,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "追加コンテンツの購入には別途ニンテンドーeショップの残高が必要です。オンラインサービスは予告なく終了することがあります。あらかじめご了承下さい。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SEGA",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

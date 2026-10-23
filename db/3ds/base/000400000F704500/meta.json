@@ -1,21 +1,39 @@
 {
-    "tid": "000400000F704500",
-    "uid": "",
-    "name": "Wind-up Knight 2",
-    "formal_name": "Wind-up Knight 2",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "KTR-N-CANP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000400000F704500",
+  "uid": "",
+  "name": "Wind-up Knight 2",
+  "formal_name": "Wind-up Knight 2",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "KTR-N-CANP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "7"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Unity Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "New3DS",
+      "SaveData"
+    ]
+  }
 }

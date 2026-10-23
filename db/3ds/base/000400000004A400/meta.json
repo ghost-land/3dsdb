@@ -30,5 +30,12 @@
   "descriptors": [
     "Cartoon Violence",
     "Comic Mischief"
-  ]
+  ],
+  "publisher": "WB Games Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

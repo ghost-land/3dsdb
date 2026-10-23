@@ -1,23 +1,40 @@
 {
-    "tid": "0004000E000EE000",
-    "uid": "50010000026075",
-    "name": "Super Smash Bros.™\nfor Nintendo 3DS: Update",
-    "formal_name": "Super Smash Bros.™\n<br>for Nintendo 3DS: Update",
-    "description": "An update for Super Smash Bros.™\n<br>for Nintendo 3DS is now available\n<br>from Nintendo eShop. \n<br>\n<br>This will update the software to\n<br>Version 1.1.7 with the following\n<br>amendments:\n<br>\n<br>・The Cloud, Corrin and Bayonetta amiibo can now be used with this game.\n<br>\n<br>After downloading this update, you\n<br>will be unable to play using local\n<br>wireless or play online with \n<br>players using older versions, or view\n<br>replays saved before the update.\n<br>\n<br>You will need to install Ver. 1.1.7\n<br>to play online.\n<br>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
-    "release_date_on_eshop": "2015-04-15",
-    "product_code": "CTR-U-AXCP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v34.29.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000E000EE000",
+  "uid": "50010000026075",
+  "name": "Super Smash Bros.™\nfor Nintendo 3DS: Update",
+  "formal_name": "Super Smash Bros.™\n<br>for Nintendo 3DS: Update",
+  "description": "An update for Super Smash Bros.™\n<br>for Nintendo 3DS is now available\n<br>from Nintendo eShop. \n<br>\n<br>This will update the software to\n<br>Version 1.1.7 with the following\n<br>amendments:\n<br>\n<br>・The Cloud, Corrin and Bayonetta amiibo can now be used with this game.\n<br>\n<br>After downloading this update, you\n<br>will be unable to play using local\n<br>wireless or play online with \n<br>players using older versions, or view\n<br>replays saved before the update.\n<br>\n<br>You will need to install Ver. 1.1.7\n<br>to play online.\n<br>\n<br>We apologize for any inconvenience\n<br>caused, and recommend downloading\n<br>this update to ensure a smooth game\n<br>experience.",
+  "release_date_on_eshop": "2015-04-15",
+  "product_code": "CTR-U-AXCP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v34.29.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

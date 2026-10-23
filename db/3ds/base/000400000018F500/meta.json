@@ -27,5 +27,12 @@
   },
   "version": "v1.0.1",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "PONOS Corporation",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

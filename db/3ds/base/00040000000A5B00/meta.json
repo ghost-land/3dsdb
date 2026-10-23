@@ -27,10 +27,17 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v1.1.0",
   "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”",
   "descriptors": [
     "Cartoon Violence",
     "Comic Mischief"
-  ]
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

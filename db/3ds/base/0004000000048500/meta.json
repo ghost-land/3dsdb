@@ -28,5 +28,12 @@
     "Mild Lyrics",
     "Mild Suggestive Themes",
     "Mild Violence"
-  ]
+  ],
+  "publisher": "Ubisoft",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
