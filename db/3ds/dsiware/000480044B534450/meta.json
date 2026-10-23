@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B534450",
-    "uid": "",
-    "name": "Dark Spirits - GO Series",
-    "formal_name": "Dark Spirits - GO Series",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KSDP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B534450",
+  "uid": "",
+  "name": "Dark Spirits - GO Series",
+  "formal_name": "Dark Spirits - GO Series",
+  "description": "Use your familiars to shoot down the enemy!\n\nDestroy the enemy by making use of the four familiars that fly in formation around the player vessel in this side-scrolling shooting game. Quickly switch the formation pattern of your familiars with the touch of a button. When you destroy an enemy, its soul becomes available to collect. Collect the soul with one of your familiars to upgrade its attack or switch it to a different attack type. The familiar's attack can be upgraded by collecting multiple souls of the same color in a row. The four familiars power up and change independently of each other, making for a game of strategy as you plan how to use each one effectively.",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KSDP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

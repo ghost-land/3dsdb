@@ -1,24 +1,26 @@
 {
-    "tid": "000480044B4D4D56",
-    "uid": "50010000004423",
-    "name": "Mixed Messages™",
-    "formal_name": "Mixed Messages™",
-    "description": "Mixed Messages is the hilarious party\ngame of mixed-up miscommunication.\nSketch a picture to capture your\nfriend's sentence, or try to figure out\nwhat in the world they've drawn! You\nmight start with, \"The quick brown fox\njumps over the lazy dog,\" and end up\nwith, \"A crazy surfer outruns flying\nsticks of dynamite while his fans\ncheer!\" Two to twenty-one players\ntake turns writing sentences and\ndrawing pictures to pass along a\nmessage. This isn't a game about\nwinning and losing - it's all about the\nfunny miscommunications that happen\nalong the way. You'll laugh when you\nsee just how wacky things can get!\nGet together with your friends and mix\nit up!<br>\n<br>\nThis game requires at least two\nplayers and is played by passing\naround a single Nintendo DSi system\nbetween players.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KMMV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4D56",
+  "uid": "50010000004423",
+  "name": "Mixed Messages™",
+  "formal_name": "Mixed Messages™",
+  "description": "Mixed Messages is the hilarious party\ngame of mixed-up miscommunication.\nSketch a picture to capture your\nfriend's sentence, or try to figure out\nwhat in the world they've drawn! You\nmight start with, \"The quick brown fox\njumps over the lazy dog,\" and end up\nwith, \"A crazy surfer outruns flying\nsticks of dynamite while his fans\ncheer!\" Two to twenty-one players\ntake turns writing sentences and\ndrawing pictures to pass along a\nmessage. This isn't a game about\nwinning and losing - it's all about the\nfunny miscommunications that happen\nalong the way. You'll laugh when you\nsee just how wacky things can get!\nGet together with your friends and mix\nit up!<br>\n<br>\nThis game requires at least two\nplayers and is played by passing\naround a single Nintendo DSi system\nbetween players.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KMMV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

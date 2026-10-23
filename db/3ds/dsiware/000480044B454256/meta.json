@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B454256",
-    "uid": "50010000003081",
-    "name": "ELECTROPLANKTON™\nHanenbow",
-    "formal_name": "ELECTROPLANKTON™\nHanenbow",
-    "description": "Dive into a unique audio-visual\nexperience where technology meets\nart. Created by multimedia musician\nToshio Iwai, Electroplankton are living\naquatic 'instruments' that you interact\nwith to produce a variety of sounds\nand images limited only by your\nimagination!<br>\n<br>\nHanenbow launch themselves out of\nthe water towards floating plants,\ncreating strange sounds and melodies\nas they bounce off the leaves. When a\nleaf is repeatedly hit by a Hanenbow,\nit changes colour, altering the sound\nproduced. No-one knows why\nHanenbow display this strange\nbehaviour.<br>\n<br>\nUse Performance mode to create\nyour own unique compositions, or\nrelax with Audience mode and let the\nElectroplankton run wild.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KEBV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B454256",
+  "uid": "50010000003081",
+  "name": "ELECTROPLANKTON™\nHanenbow",
+  "formal_name": "ELECTROPLANKTON™\nHanenbow",
+  "description": "Dive into a unique audio-visual\nexperience where technology meets\nart. Created by multimedia musician\nToshio Iwai, Electroplankton are living\naquatic 'instruments' that you interact\nwith to produce a variety of sounds\nand images limited only by your\nimagination!<br>\n<br>\nHanenbow launch themselves out of\nthe water towards floating plants,\ncreating strange sounds and melodies\nas they bounce off the leaves. When a\nleaf is repeatedly hit by a Hanenbow,\nit changes colour, altering the sound\nproduced. No-one knows why\nHanenbow display this strange\nbehaviour.<br>\n<br>\nUse Performance mode to create\nyour own unique compositions, or\nrelax with Audience mode and let the\nElectroplankton run wild.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KEBV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

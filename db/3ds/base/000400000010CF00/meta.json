@@ -1,30 +1,32 @@
 {
-    "tid": "000400000010CF00",
-    "uid": "50010000016797",
-    "name": "Sonic Lost World™ (英文版)",
-    "formal_name": "Sonic Lost World™ (英文版)",
-    "description": "活躍于未知大陸的”全新SONIC”登場！\n\nSONIC系列首次在攜帶型遊戲機實現了3D動作。在異想天開的神秘世界,SONIC以超高速勇往直前。\n特意為新手準備的遙控助手「R/C Gadget」,\n還有最多可對應4人的對戰功能。從最狂軍團「Deadly Six」手中拯救未知大陸！\n\n※注意：本遊戲軟體使用語言為英文。",
-    "release_date_on_eshop": "2013-10-23",
-    "product_code": "CTR-N-ARVZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "動作"
-    ],
-    "features": [
-        "對應網路",
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊",
-        "對應悄悄通訊",
-        "對應下載遊戲"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［北美］版相同。遊戲內容及電子說明書均與該版本相同，以[英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "000400000010CF00",
+  "uid": "50010000016797",
+  "name": "Sonic Lost World™ (英文版)",
+  "formal_name": "Sonic Lost World™ (英文版)",
+  "description": "活躍于未知大陸的”全新SONIC”登場！\n\nSONIC系列首次在攜帶型遊戲機實現了3D動作。在異想天開的神秘世界,SONIC以超高速勇往直前。\n特意為新手準備的遙控助手「R/C Gadget」,\n還有最多可對應4人的對戰功能。從最狂軍團「Deadly Six」手中拯救未知大陸！\n\n※注意：本遊戲軟體使用語言為英文。",
+  "release_date_on_eshop": "2013-10-23",
+  "product_code": "CTR-N-ARVZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "動作"
+  ],
+  "features": [
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "對應悄悄通訊",
+    "對應下載遊戲"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［北美］版相同。遊戲內容及電子說明書均與該版本相同，以[英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
+  "descriptors": []
 }

@@ -1,24 +1,26 @@
 {
-    "tid": "000480044B453356",
-    "uid": "50010000003043",
-    "name": "PictureBook Games™:\nThe Royal Bluff",
-    "formal_name": "PictureBook Games™:\nThe Royal Bluff",
-    "description": "Engage in an aristocratic battle of\nwits in PictureBook Games: The Royal\nBluff, a classic-style game of strategy\nand deception.<br>\n<br>\nWin points by adding or removing\ncoloured coins from the table, and\ntrying to guess which colour belongs\nto your opponent. Call an opponent’s\nbluff for a chance to earn bonus\npoints, or risk giving them an extra\npoint if you’re wrong! Add Trick Cards\ninto the mix for a cunning combination\nof tactics and trickery.<br>\n<br>\nCompete against a variety of\ncomputer opponents in Tournament\nand Free Play Modes, or challenge up\nto three friends in Multiplayer Mode\nusing DS Wireless Communications\n(only one PictureBook Games: The\nRoyal Bluff is required for DS\nDownload Play).",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KE3V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Strategy"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B453356",
+  "uid": "50010000003043",
+  "name": "PictureBook Games™:\nThe Royal Bluff",
+  "formal_name": "PictureBook Games™:\nThe Royal Bluff",
+  "description": "Engage in an aristocratic battle of\nwits in PictureBook Games: The Royal\nBluff, a classic-style game of strategy\nand deception.<br>\n<br>\nWin points by adding or removing\ncoloured coins from the table, and\ntrying to guess which colour belongs\nto your opponent. Call an opponent’s\nbluff for a chance to earn bonus\npoints, or risk giving them an extra\npoint if you’re wrong! Add Trick Cards\ninto the mix for a cunning combination\nof tactics and trickery.<br>\n<br>\nCompete against a variety of\ncomputer opponents in Tournament\nand Free Play Modes, or challenge up\nto three friends in Multiplayer Mode\nusing DS Wireless Communications\n(only one PictureBook Games: The\nRoyal Bluff is required for DS\nDownload Play).",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KE3V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Strategy"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

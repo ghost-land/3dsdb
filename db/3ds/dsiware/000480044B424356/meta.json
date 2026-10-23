@@ -1,25 +1,29 @@
 {
-    "tid": "000480044B424356",
-    "uid": "50010000002321",
-    "name": "Brain Challenge®",
-    "formal_name": "Brain Challenge®",
-    "description": "Brain Challenge is a simple,\nentertaining solution for stimulating\nyour neurons that goes way beyond\nlogic tests. With 48 mini-games, Brain\nChallenge provides an exceptional\nvariety of exercises. Not only can you\ntrain your brain for Maths but also for\n4 other categories: Logic, Focus,\nMemory and Visual! Improve your\nresistance to stress or choose to relax\nthanks to the 2 extra modes: Stress\nand Creativity. Plus, you can now\npersonalize your profile and some\nexercises with your own photos!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KBCV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle",
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B424356",
+  "uid": "50010000002321",
+  "name": "Brain Challenge®",
+  "formal_name": "Brain Challenge®",
+  "description": "Brain Challenge is a simple,\nentertaining solution for stimulating\nyour neurons that goes way beyond\nlogic tests. With 48 mini-games, Brain\nChallenge provides an exceptional\nvariety of exercises. Not only can you\ntrain your brain for Maths but also for\n4 other categories: Logic, Focus,\nMemory and Visual! Improve your\nresistance to stress or choose to relax\nthanks to the 2 extra modes: Stress\nand Creativity. Plus, you can now\npersonalize your profile and some\nexercises with your own photos!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KBCV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle",
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

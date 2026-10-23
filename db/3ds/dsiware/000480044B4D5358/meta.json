@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B4D5358",
-    "uid": "50010000004481",
-    "name": "Une pause avec... Faites de\nla magie™: Choix du voyant",
-    "formal_name": "Une pause avec... Faites de\nla magie™: Choix du voyant",
-    "description": "Une pause avec... Faites de la magie transformera votre console Nintendo DSi en baguette magique et impressionnera vos amis! Grâce à ces tours de magie simples à réaliser, vous serez toujours prêt à improviser un spectacle de magie!<br>\n<br>\nAvec Bon choix, la console Nintendo DSi vous permettra de lire dans les pensées de vos amis! Demandez à un ami de choisir, sans vous montrer, son mois de naissance, l'endroit où il aimerait partir en vacances ou une activité qui lui plaît... Ils auront beau mélanger les propositions, vous saurez toujours ce qu'il a répondu!<br>\n<br>\nLe tour bonus Carte fugitive est également inclus. Pensez à une des cinq cartes qui s'affichent de façon aléatoire sur l'écran de la console Nintendo DSi... Et elle devinera de laquelle il s'agit!<br>\n<br>\nIl est possible que certains éléments de ce logiciel aient été utilisés dans un titre sorti précédemment.<br>\n<br>\nTexte écran en français\nTexte écran en allemand\nTexte écran en italien",
-    "release_date_on_eshop": "2009-05-15",
-    "product_code": "TWL-N-KMSX",
-    "platform_name": "Nintendo DSiWare",
-    "region": "France",
-    "genres": [
-        "Autre"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D5358",
+  "uid": "50010000004481",
+  "name": "Une pause avec... Faites de\nla magie™: Choix du voyant",
+  "formal_name": "Une pause avec... Faites de\nla magie™: Choix du voyant",
+  "description": "Une pause avec... Faites de la magie transformera votre console Nintendo DSi en baguette magique et impressionnera vos amis! Grâce à ces tours de magie simples à réaliser, vous serez toujours prêt à improviser un spectacle de magie!<br>\n<br>\nAvec Bon choix, la console Nintendo DSi vous permettra de lire dans les pensées de vos amis! Demandez à un ami de choisir, sans vous montrer, son mois de naissance, l'endroit où il aimerait partir en vacances ou une activité qui lui plaît... Ils auront beau mélanger les propositions, vous saurez toujours ce qu'il a répondu!<br>\n<br>\nLe tour bonus Carte fugitive est également inclus. Pensez à une des cinq cartes qui s'affichent de façon aléatoire sur l'écran de la console Nintendo DSi... Et elle devinera de laquelle il s'agit!<br>\n<br>\nIl est possible que certains éléments de ce logiciel aient été utilisés dans un titre sorti précédemment.<br>\n<br>\nTexte écran en français\nTexte écran en allemand\nTexte écran en italien",
+  "release_date_on_eshop": "2009-05-15",
+  "product_code": "TWL-N-KMSX",
+  "platform_name": "Nintendo DSiWare",
+  "region": "France",
+  "genres": [
+    "Autre"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

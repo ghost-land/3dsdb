@@ -1,23 +1,27 @@
 {
-    "tid": "000480044B503656",
-    "uid": "50010000004682",
-    "name": "Pyoro™",
-    "formal_name": "Pyoro™",
-    "description": "He’s a small bird with a very long\ntongue and an insatiable appetite for\nbeans. Luckily for Pyoro, beans drop\nconstantly from the sky. However, if\nPyoro lets a bean fall, it breaks a hole\nin the ground that he can’t cross.<br>\n<br>\nThis fast-paced action game requires\nskill and strategy to snatch all the\nbeans you can, while dodging the\nones you can’t and making sure you\ndon't get trapped! The higher in the\nsky that you grab a bean, the more\npoints it will be worth.<br>\n<br>\nPlus – if you master Pyoro, you can\nunlock the even faster-paced Pyoro 2!\nIn this game, you can spit seeds at\nhigh speed to bring down more beans\nthan ever before!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KP6V",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503656",
+  "uid": "50010000004682",
+  "name": "Pyoro™",
+  "formal_name": "Pyoro™",
+  "description": "He’s a small bird with a very long\ntongue and an insatiable appetite for\nbeans. Luckily for Pyoro, beans drop\nconstantly from the sky. However, if\nPyoro lets a bean fall, it breaks a hole\nin the ground that he can’t cross.<br>\n<br>\nThis fast-paced action game requires\nskill and strategy to snatch all the\nbeans you can, while dodging the\nones you can’t and making sure you\ndon't get trapped! The higher in the\nsky that you grab a bean, the more\npoints it will be worth.<br>\n<br>\nPlus – if you master Pyoro, you can\nunlock the even faster-paced Pyoro 2!\nIn this game, you can spit seeds at\nhigh speed to bring down more beans\nthan ever before!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KP6V",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

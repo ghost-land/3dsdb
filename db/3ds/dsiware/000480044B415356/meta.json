@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B415356",
-    "uid": "50010000001715",
-    "name": "Art Style: NEMREM™",
-    "formal_name": "Art Style: NEMREM™",
-    "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nNEMREM is a relaxing logic puzzle\nwhere the objective is to match\ncoloured panels with spheres of the\nsame colour. Use your stylus to slide\nthe panels horizontally and vertically\nas you chill out to the soothing\nsounds of the game's peaceful music.<br>\n<br>\nAlthough NEMREM is simple to play,\nlater levels offer deeper challenges to\ntest your logic powers, with multiple\ncolour combinations and even locked\npanels appearing. For the ultimate\ntest, can you complete each puzzle in\nas few moves as possible?",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KASV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415356",
+  "uid": "50010000001715",
+  "name": "Art Style: NEMREM™",
+  "formal_name": "Art Style: NEMREM™",
+  "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nNEMREM is a relaxing logic puzzle\nwhere the objective is to match\ncoloured panels with spheres of the\nsame colour. Use your stylus to slide\nthe panels horizontally and vertically\nas you chill out to the soothing\nsounds of the game's peaceful music.<br>\n<br>\nAlthough NEMREM is simple to play,\nlater levels offer deeper challenges to\ntest your logic powers, with multiple\ncolour combinations and even locked\npanels appearing. For the ultimate\ntest, can you complete each puzzle in\nas few moves as possible?",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KASV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,21 +1,25 @@
 {
-    "tid": "000480044B42434A",
-    "uid": "",
-    "name": "ブレインチャレンジ",
-    "formal_name": "ブレインチャレンジ",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KBCJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B42434A",
+  "uid": "",
+  "name": "ブレインチャレンジ",
+  "formal_name": "ブレインチャレンジ",
+  "description": "Just like your body, your brain needs exercise to stay in shape!\n\nBrain Challenge is a simple, entertaining solution for stimulating your neurons that goes way beyond logic tests. Thanks to a complete range of 48 mini-games, Brain Challenge provides an exceptional variety of exercises. Not only can you train your brain for Math but also for 4 other categories: Logic, Focus, Memory and Visual!  Plus an original Stress Mode, featuring multitasking and authority challenges.\n\nPlus, you can now personalize your profile and some exercises with your own photos!\n\n",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KBCJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

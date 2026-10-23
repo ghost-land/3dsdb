@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B575450",
-    "uid": "",
-    "name": "Defence Wars - GO Series",
-    "formal_name": "Defence Wars - GO Series",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KWTP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B575450",
+  "uid": "",
+  "name": "Defence Wars - GO Series",
+  "formal_name": "Defence Wars - GO Series",
+  "description": "「侵攻する敵をうってうってうちまくれ!」\n\n砲台や戦車を駆使して、味方が到着するまで「ベース砲」を破壊されないように防衛するゲームです。\nタッチして、撃ちたい方向にスライドして発射させるシンプルな操作で誰でも楽しむことができます。\n\n敵軍の中には、弾を当てると爆発して周囲の敵をまとめて倒すことができるユニットも登場し、狙い撃ちしたユニットを起点に連続爆発で次々と敵を破壊していく爽快感を味わうことができます!\n\n「味方はもう近くまで来ている!なんとしてもベース砲を守りきれ!」",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KWTP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

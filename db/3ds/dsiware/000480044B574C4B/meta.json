@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B574C4B",
-    "uid": "",
-    "name": "G.G Sirijeu - Wonder Land",
-    "formal_name": "G.G Sirijeu - Wonder Land",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KWLK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B574C4B",
+  "uid": "",
+  "name": "G.G Sirijeu - Wonder Land",
+  "formal_name": "G.G Sirijeu - Wonder Land",
+  "description": "A vibrant and unique vertically-scrolling shooting game. Set inside the fantastical world of magic, lore and mischief, slip gracefully through what seems to be an impassable curtain of fire from Wonderland-themed enemies. Hitting enemies with your fire will cause your Bomb Gauge to increase. Once your gauge is maxed out, use your fully charged Bomb to obliterate all enemy fire on-screen. At the end of each stage, a powerful boss will be lying in wait. Will you make your way down the rabbit hole?",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KWLK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

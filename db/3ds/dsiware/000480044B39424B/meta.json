@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B39424B",
-    "uid": "",
-    "name": "Jazzy Billieodeu",
-    "formal_name": "Jazzy Billieodeu",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-K9BK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B39424B",
+  "uid": "",
+  "name": "Jazzy Billieodeu",
+  "formal_name": "Jazzy Billieodeu",
+  "description": "Challenge intelligent computers or even your friends to a traditional game of 9-ball while enjoying mind-soothing music with Jazzy Billiards. Take advantage of the intuitive stylus mechanic to aim and hit the cue ball with varying strength to sink the other balls. Defeat your opponents by being the first to sink the 9-ball. Jazzy Billiards' Stage Mode features 9 different stages, each with an opponent of ascending difficulty. Find out how many computers you can defeat in a row with Challenge Mode, or challenge your friends to a game of 9-ball in Versus Mode.",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-K9BK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

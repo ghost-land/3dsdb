@@ -1,24 +1,26 @@
 {
-    "tid": "000480044B535056",
-    "uid": "50010000006245",
-    "name": "Bird & Bombs™",
-    "formal_name": "Bird & Bombs™",
-    "description": "Wicked ghosts have kidnapped the\npresident’s daughter, trapping her in a\nhaunted mansion! As a plucky young\nbird trooper you must use your\nbomb-throwing abilities to defeat the\nghosts and rescue the girl.<br>\n<br>\nGhosts can only be destroyed by\nthrowing bombs into their mouths. Use\nthe stylus to set your throwing angle\nand take your best shot! Bounce\nbombs off walls and eerie floating\nfurniture to defeat all the spooks in\neach stage, but make sure not to run\nout of bombs or you're in for a fright!<br>\n<br>\nIn addition to the main Story Mode,\nyou can really put your skills to the\ntest in Challenge Mode with only a\nlimited number of bombs to last you\nthrough to the end. But never fear;\nwith perseverance and accuracy,\nyou're sure to replenish your supply\nand stay in high spirits!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KSPV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B535056",
+  "uid": "50010000006245",
+  "name": "Bird & Bombs™",
+  "formal_name": "Bird & Bombs™",
+  "description": "Wicked ghosts have kidnapped the\npresident’s daughter, trapping her in a\nhaunted mansion! As a plucky young\nbird trooper you must use your\nbomb-throwing abilities to defeat the\nghosts and rescue the girl.<br>\n<br>\nGhosts can only be destroyed by\nthrowing bombs into their mouths. Use\nthe stylus to set your throwing angle\nand take your best shot! Bounce\nbombs off walls and eerie floating\nfurniture to defeat all the spooks in\neach stage, but make sure not to run\nout of bombs or you're in for a fright!<br>\n<br>\nIn addition to the main Story Mode,\nyou can really put your skills to the\ntest in Challenge Mode with only a\nlimited number of bombs to last you\nthrough to the end. But never fear;\nwith perseverance and accuracy,\nyou're sure to replenish your supply\nand stay in high spirits!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KSPV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

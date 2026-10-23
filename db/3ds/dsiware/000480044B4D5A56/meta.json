@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B4D5A56",
-    "uid": "50010000004484",
-    "name": "Sleep Clock",
-    "formal_name": "Sleep Clock:\nRecord and analyse\nyour sleep patterns",
-    "description": "Sleep Clock is not just an alarm\nclock: you can use it to record and\nanalyse your sleeping patterns, which\nhelps you to manage your sense of\nwell-being.<br>\n<br>\nSimply start the timer when you go to\nbed, and put your Nintendo DSi into\nSleep Mode by closing it. Upon\nwaking, you will be asked how you\nfeel; did you have a refreshing night's\nsleep, or did you toss and turn? Your\nanswers and the times you went to\nsleep and woke up will be plotted on\ndaily, weekly and monthly graphs,\nallowing you to closely monitor your\nsleep time and quality. Mr Sheep,\nrenowned ovine sleep expert, is also\non hand to offer advice and comments\nabout your sleep activity.<br>\n<br>\nSet up to three different alarm times,\nwith a choice between built-in alarm\nsounds or custom sounds recorded in\nNintendo DSi Sound. You can also\nhave the Nintendo DSi speak the time\nwhen the alarm sounds. And of\ncourse, no alarm clock would be\ncomplete without a snooze function\nfor those 'just five more minutes'\nmornings!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KMZV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D5A56",
+  "uid": "50010000004484",
+  "name": "Sleep Clock",
+  "formal_name": "Sleep Clock:\nRecord and analyse\nyour sleep patterns",
+  "description": "Sleep Clock is not just an alarm\nclock: you can use it to record and\nanalyse your sleeping patterns, which\nhelps you to manage your sense of\nwell-being.<br>\n<br>\nSimply start the timer when you go to\nbed, and put your Nintendo DSi into\nSleep Mode by closing it. Upon\nwaking, you will be asked how you\nfeel; did you have a refreshing night's\nsleep, or did you toss and turn? Your\nanswers and the times you went to\nsleep and woke up will be plotted on\ndaily, weekly and monthly graphs,\nallowing you to closely monitor your\nsleep time and quality. Mr Sheep,\nrenowned ovine sleep expert, is also\non hand to offer advice and comments\nabout your sleep activity.<br>\n<br>\nSet up to three different alarm times,\nwith a choice between built-in alarm\nsounds or custom sounds recorded in\nNintendo DSi Sound. You can also\nhave the Nintendo DSi speak the time\nwhen the alarm sounds. And of\ncourse, no alarm clock would be\ncomplete without a snooze function\nfor those 'just five more minutes'\nmornings!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KMZV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

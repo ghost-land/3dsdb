@@ -1,24 +1,26 @@
 {
-    "tid": "000480044B504256",
-    "uid": "50010000005983",
-    "name": "Photo Dojo™ (English Version)",
-    "formal_name": "Photo Dojo™ (English Version)",
-    "description": "Photo Dojo brings a new twist to the\nside-scrolling beat ‘em up – literally\nputting you in the middle of the\naction!<br>\n<br>\nUsing your Nintendo DSi system's\ncamera, take photos of yourself\nperforming punches, kicks and special\nmoves, as well as victory and defeat\nposes. Next, add sound effects by\nrecording your voice, or whatever you\nchoose, with the microphone. Finally,\nsnap a photo for the backdrop; the\nsetting is entirely up to you. In just a\nfew minutes you’ll have created your\nown personalised fighting game!<br>\n<br>\nBattle solo against hordes of\nenemies, or invite a friend to capture\ntheir own likeness and fight each\nother in a one-on-one grudge match.\nAnd, because both players share the\nsame Nintendo DSi, you’ll be getting\nvery up close and personal!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KPBV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Fighting"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504256",
+  "uid": "50010000005983",
+  "name": "Photo Dojo™ (English Version)",
+  "formal_name": "Photo Dojo™ (English Version)",
+  "description": "Photo Dojo brings a new twist to the\nside-scrolling beat ‘em up – literally\nputting you in the middle of the\naction!<br>\n<br>\nUsing your Nintendo DSi system's\ncamera, take photos of yourself\nperforming punches, kicks and special\nmoves, as well as victory and defeat\nposes. Next, add sound effects by\nrecording your voice, or whatever you\nchoose, with the microphone. Finally,\nsnap a photo for the backdrop; the\nsetting is entirely up to you. In just a\nfew minutes you’ll have created your\nown personalised fighting game!<br>\n<br>\nBattle solo against hordes of\nenemies, or invite a friend to capture\ntheir own likeness and fight each\nother in a one-on-one grudge match.\nAnd, because both players share the\nsame Nintendo DSi, you’ll be getting\nvery up close and personal!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KPBV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

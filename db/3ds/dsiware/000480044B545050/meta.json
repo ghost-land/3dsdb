@@ -1,24 +1,26 @@
 {
-    "tid": "000480044B545050",
-    "uid": "50010000006344",
-    "name": "A Little Bit of...\nAll Time Classics™:\nFamily Games",
-    "formal_name": "A Little Bit of...\nAll Time Classics™:\nFamily Games",
-    "description": "Enjoy some of the world’s favourite\ngames together in one handy\ncollection, playable with Touch\nScreen controls, and with support for\nup to eight players.<br>\n<br>\nA Little Bit of... All Time Classics:\nFamily Games features five popular\nboard and parlour-style games:\nHearts, Contract Bridge, Dominoes,\nDots and Boxes, and Ludo.<br>\n<br>\nPlay solo against computer\nopponents, learn the rules with\nin-depth instructions, and play with\nfriends wirelessly (only one player\nneeds a copy of the game). You can\neven send a game to a friend’s\nNintendo DS or Nintendo DSi as a gift\n(until they switch off their system).<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KTPP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B545050",
+  "uid": "50010000006344",
+  "name": "A Little Bit of...\nAll Time Classics™:\nFamily Games",
+  "formal_name": "A Little Bit of...\nAll Time Classics™:\nFamily Games",
+  "description": "Enjoy some of the world’s favourite\ngames together in one handy\ncollection, playable with Touch\nScreen controls, and with support for\nup to eight players.<br>\n<br>\nA Little Bit of... All Time Classics:\nFamily Games features five popular\nboard and parlour-style games:\nHearts, Contract Bridge, Dominoes,\nDots and Boxes, and Ludo.<br>\n<br>\nPlay solo against computer\nopponents, learn the rules with\nin-depth instructions, and play with\nfriends wirelessly (only one player\nneeds a copy of the game). You can\neven send a game to a friend’s\nNintendo DS or Nintendo DSi as a gift\n(until they switch off their system).<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KTPP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

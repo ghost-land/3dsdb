@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B4A5550",
-    "uid": "",
-    "name": "10 Second Run - GO Series",
-    "formal_name": "10 Second Run - GO Series",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KJUP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4A5550",
+  "uid": "",
+  "name": "10 Second Run - GO Series",
+  "formal_name": "10 Second Run - GO Series",
+  "description": "「１０秒走」は、誰もが一度は描いたことのある棒人間を主人公に、「走る」「跳ぶ」という２つの動作で１０秒という短い時間内でのゴールを目指す、シンプルなジャンプアクションゲームです。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KJUP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

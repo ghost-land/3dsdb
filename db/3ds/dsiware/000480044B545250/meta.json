@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B545250",
-    "uid": "50010000006361",
-    "name": "A Little Bit of... All Time Classics™: Card Classics",
-    "formal_name": "A Little Bit of... All Time Classics™: Card Classics",
-    "description": "Enjoy some of the world’s favourite\ngames together in one handy\ncollection, playable with Touch\nScreen controls, and with support for\nup to eight players.<br>\n<br>\nA Little Bit of... All Time Classics:\nCard Classics features five best-loved\ncard games: Blackjack, Last Card,\nLast Card Plus, President and Five\nCard Draw.<br>\n<br>\nPlay solo against computer\nopponents, learn the rules with\nin-depth instructions, or play with\nfriends wirelessly, sharing a single\ncopy of the game. You can even send\na game to a friend’s Nintendo DS or\nNintendo DSi as a gift, which they can\nenjoy until they turn off their system!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KTRP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B545250",
+  "uid": "50010000006361",
+  "name": "A Little Bit of... All Time Classics™: Card Classics",
+  "formal_name": "A Little Bit of... All Time Classics™: Card Classics",
+  "description": "Enjoy some of the world’s favourite\ngames together in one handy\ncollection, playable with Touch\nScreen controls, and with support for\nup to eight players.<br>\n<br>\nA Little Bit of... All Time Classics:\nCard Classics features five best-loved\ncard games: Blackjack, Last Card,\nLast Card Plus, President and Five\nCard Draw.<br>\n<br>\nPlay solo against computer\nopponents, learn the rules with\nin-depth instructions, or play with\nfriends wirelessly, sharing a single\ncopy of the game. You can even send\na game to a friend’s Nintendo DS or\nNintendo DSi as a gift, which they can\nenjoy until they turn off their system!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KTRP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

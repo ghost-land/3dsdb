@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B504E56",
-    "uid": "50010000004705",
-    "name": "A Little Bit of... Puzzle League™",
-    "formal_name": "A Little Bit of... Puzzle League™",
-    "description": "The ever-popular Puzzle League\ncomes to Nintendo DSiWare! Like all\ngood puzzlers, the concept is simple:\nconnect blocks of the same colour to\nclear them from the screen, and\nprevent your stack from becoming too\nhigh.<br>\n<br>\nThere are four single player modes to\nchoose from: Endless (survive to earn\na top score), Clear (eliminate all\nblocks above the line), Score Attack\n(score as high as possible in two\nminutes), and Vs. COM (use items and\ncombos to attack a computer\nopponent).<br>\n<br>\nYou can choose from a variety of\nbackground music to get you ‘in the\nzone’, and even play in horizontal or\nvertical mode, holding the Nintendo\nDSi normally or like a book.\nWhichever way you play, you’re\nguaranteed maximum fun!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KPNV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B504E56",
+  "uid": "50010000004705",
+  "name": "A Little Bit of... Puzzle League™",
+  "formal_name": "A Little Bit of... Puzzle League™",
+  "description": "The ever-popular Puzzle League\ncomes to Nintendo DSiWare! Like all\ngood puzzlers, the concept is simple:\nconnect blocks of the same colour to\nclear them from the screen, and\nprevent your stack from becoming too\nhigh.<br>\n<br>\nThere are four single player modes to\nchoose from: Endless (survive to earn\na top score), Clear (eliminate all\nblocks above the line), Score Attack\n(score as high as possible in two\nminutes), and Vs. COM (use items and\ncombos to attack a computer\nopponent).<br>\n<br>\nYou can choose from a variety of\nbackground music to get you ‘in the\nzone’, and even play in horizontal or\nvertical mode, holding the Nintendo\nDSi normally or like a book.\nWhichever way you play, you’re\nguaranteed maximum fun!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KPNV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

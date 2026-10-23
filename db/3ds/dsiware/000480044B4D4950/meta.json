@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B4D4950",
-    "uid": "50010000004381",
-    "name": "A Little Bit of...\nMagic Made Fun™: Mind Probe",
-    "formal_name": "A Little Bit of...\nMagic Made Fun™: Mind Probe",
-    "description": "Impress your friends with mesmerising\nmagic using A Little Bit of... Magic\nMade Fun – a collection of\neasy-to-perform tricks that you can\ncarry wherever you go!<br>\n<br>\nMind Probe uses the Nintendo DSi\nsystem's built-in microphone in\nmagical new ways! Ask a spectator to\nwrite down the names of six people,\nincluding someone they really like,\nand then ask them to read the names\ninto the microphone. Amazingly, the\nsoftware will detect who the\nspectator's favourite is!<br>\n<br>\nThis trick can also reveal spectators'\nother likes and dislikes - for example,\ntheir favourite foods or films. You can\neven experiment and use the trick as a\nlie detector!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KMIP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4950",
+  "uid": "50010000004381",
+  "name": "A Little Bit of...\nMagic Made Fun™: Mind Probe",
+  "formal_name": "A Little Bit of...\nMagic Made Fun™: Mind Probe",
+  "description": "Impress your friends with mesmerising\nmagic using A Little Bit of... Magic\nMade Fun – a collection of\neasy-to-perform tricks that you can\ncarry wherever you go!<br>\n<br>\nMind Probe uses the Nintendo DSi\nsystem's built-in microphone in\nmagical new ways! Ask a spectator to\nwrite down the names of six people,\nincluding someone they really like,\nand then ask them to read the names\ninto the microphone. Amazingly, the\nsoftware will detect who the\nspectator's favourite is!<br>\n<br>\nThis trick can also reveal spectators'\nother likes and dislikes - for example,\ntheir favourite foods or films. You can\neven experiment and use the trick as a\nlie detector!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KMIP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

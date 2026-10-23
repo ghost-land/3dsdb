@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B445256",
-    "uid": "",
-    "name": "Mr. Driller - Drill Till You Drop",
-    "formal_name": "Mr. Driller - Drill Till You Drop",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KDRV",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B445256",
+  "uid": "",
+  "name": "Mr. Driller - Drill Till You Drop",
+  "formal_name": "Mr. Driller - Drill Till You Drop",
+  "description": "簡単操作でブロックを掘って地底のゴールを目指す穴掘りアクションゲームです。空気の入ったエアカプセルをとりつつ、崩れ落ちるブロックをよけながら掘り進みます。\n\n自分のレベル、空いている時間、練習したいこと、その時の気分にあわせて楽しめるように、多彩なステージをご用意!初心者の方から上級者の方までどなたにも楽しんでいただくことができます。\n",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KDRV",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

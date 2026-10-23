@@ -1,24 +1,26 @@
 {
-    "tid": "000480044B444D56",
-    "uid": "50010000000723",
-    "name": "Mario vs. Donkey Kong™:\nMinis March Again!",
-    "formal_name": "Mario vs. Donkey Kong™:\nMinis March Again!",
-    "description": "The re-opening of Mario’s theme\npark, Super Mini Mario World, was\ngoing so well... until Donkey Kong\nburst in and kidnapped the hapless\nPauline once again! So it’s up to you\nand the Mini Marios – tiny mechanical\nMario toys – to rescue Pauline from\nthat crazed ape’s clutches.<br>\n<br>\nInstead of controlling the Mini Marios\ndirectly, you use the stylus to\nmanipulate objects in each trap-laden\nlevel, and lead the fragile toys safely\nto the exit. Once you clear all eight\nlevels on a floor, you’ll get a chance\nto pummel Donkey Kong with your\nMini Mario-launching cannon!<br>\n<br>\nAnother feature is the Construction\nZone, which allows you to create your\nown original levels, play levels that\nyou or others have made, and share\nor download levels via local wireless\ncommunications.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KDMV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B444D56",
+  "uid": "50010000000723",
+  "name": "Mario vs. Donkey Kong™:\nMinis March Again!",
+  "formal_name": "Mario vs. Donkey Kong™:\nMinis March Again!",
+  "description": "The re-opening of Mario’s theme\npark, Super Mini Mario World, was\ngoing so well... until Donkey Kong\nburst in and kidnapped the hapless\nPauline once again! So it’s up to you\nand the Mini Marios – tiny mechanical\nMario toys – to rescue Pauline from\nthat crazed ape’s clutches.<br>\n<br>\nInstead of controlling the Mini Marios\ndirectly, you use the stylus to\nmanipulate objects in each trap-laden\nlevel, and lead the fragile toys safely\nto the exit. Once you clear all eight\nlevels on a floor, you’ll get a chance\nto pummel Donkey Kong with your\nMini Mario-launching cannon!<br>\n<br>\nAnother feature is the Construction\nZone, which allows you to create your\nown original levels, play levels that\nyou or others have made, and share\nor download levels via local wireless\ncommunications.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KDMV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

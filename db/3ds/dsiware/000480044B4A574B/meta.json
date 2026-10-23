@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B4A574B",
-    "uid": "",
-    "name": "Jeulgeoun Ilboneo Wodeupeojeul",
-    "formal_name": "Jeulgeoun Ilboneo Wodeupeojeul",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KJWK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4A574B",
+  "uid": "",
+  "name": "Jeulgeoun Ilboneo Wodeupeojeul",
+  "formal_name": "Jeulgeoun Ilboneo Wodeupeojeul",
+  "description": "2021年6月30日(水)10時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>読めそうで読めない漢字500字を収録したパズルゲーム。漢字一覧付きで間違えた漢字もしっかり確認して覚えることができます。スコア記録機能で習熟するまで飽きずに繰り返し楽しむことができます。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KJWK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

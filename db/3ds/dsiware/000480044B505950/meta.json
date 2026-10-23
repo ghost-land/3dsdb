@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B505950",
-    "uid": "",
-    "name": "Pinball Attack! - GO Series",
-    "formal_name": "Pinball Attack! - GO Series",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KPYP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B505950",
+  "uid": "",
+  "name": "Pinball Attack! - GO Series",
+  "formal_name": "Pinball Attack! - GO Series",
+  "description": "「クールに熱くなれ！」　\n\n軽快なピンボールアクションで海底・地底・ジャングル・宇宙を冒険します。\nボールを落とさないようにフリッパーで打ちながら、世界の奥へと進んでいく、スクロールタイプのアクションゲームです。４つの世界の最後に待ち構える強敵を倒したとき、さらなる世界があなたを待ち受けることでしょう。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KPYP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

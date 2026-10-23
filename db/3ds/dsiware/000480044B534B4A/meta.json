@@ -1,21 +1,25 @@
 {
-    "tid": "000480044B534B4A",
-    "uid": "",
-    "name": "ソウルオブダークネス",
-    "formal_name": "ソウルオブダークネス",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KSKJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B534B4A",
+  "uid": "",
+  "name": "ソウルオブダークネス",
+  "formal_name": "ソウルオブダークネス",
+  "description": "Enter a fascinating gothic world as Kale, a mysterious, powerful man. Try to save your beloved's life and soul and get her out of an evil vampire's clutches. Explore dark woods and caves, huge castles and impressive cathedrals under the full moon's light. Master and upgrade your sword and spear, and learn how to control your powers: use the Fire and the Ice, or transform into your enemies to get over the numerous obstacles in your way. Face and defeat werewolves, succubi, gargoyles, zombies, and more. Thanks to the exclusive camera features, use your environment to gain power-ups and upgrades, and become the hero himself! Good or evil—be the sole master of your destiny!",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KSKJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

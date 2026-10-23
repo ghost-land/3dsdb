@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B505150",
-    "uid": "",
-    "name": "Picdun - GO Series",
-    "formal_name": "Picdun - GO Series",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KPQP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B505150",
+  "uid": "",
+  "name": "Picdun - GO Series",
+  "formal_name": "Picdun - GO Series",
+  "description": "謎のダンジョンピクダン。\nピクダンを歩き続けると頭の中に不思議な絵が鮮明なイメージとなって浮かんでくる・・・。\nピクダンの謎を解きながら最深部地下60階を目指すダンジョンRPGです。\n敵との戦闘はタッチペンを使って縦斬り、横斬り、突き、を使い分け、盾で敵からの攻撃を防御するアクション性の高いものになっています。\nさまざまなトラップや、なめらかに動くデカキャラなど、大ボリュームのダンジョンRPGです。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KPQP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

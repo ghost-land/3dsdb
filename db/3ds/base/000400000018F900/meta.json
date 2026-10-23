@@ -1,27 +1,29 @@
 {
-    "tid": "000400000018F900",
-    "uid": "50010000041487",
-    "name": "Phoenix Wright: Ace Attorney - Spirit of Justice",
-    "formal_name": "Phoenix Wright: Ace Attorney - Spirit of Justice",
-    "description": "법률 파괴의 법정에서, 잡아라! 역전무죄!\n\n『Phoenix Wright: Ace Attorney - Spirit of Justice』는, 무고한 의뢰인을\n돕는 변호사로서 법정싸움을 벌이는 추리 어드벤처입니다. \n\n신비와 영매의 나라 《클라인왕국》과 《일본》의 2개국에서 나루호도 류이치와 오도로키 호우스케가 맹활약!\n증인의 거짓말을 간파하고, 「모순」된 증언에 증거품을 내어, 진실을 찾아 내자!",
-    "release_date_on_eshop": "2016-09-08",
-    "product_code": "CTR-N-BG6Y",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "어드벤처"
-    ],
-    "features": [
-        "인터넷 대응",
-        "3D 영상 대응",
-        "어느새 통신 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Phoenix Wright: Ace Attorney - Spirit of Justice\n상호:Capcom Asia Co., Ltd.\n이용등급:12세이용가\n등급분류번호:GC-CC-NV-160624-013\n등급분류 일자:2016.6.24\n제작・배급업신고번호:제 2012-000049호\n※ 대응 언어 \n 자막,음성:영어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "000400000018F900",
+  "uid": "50010000041487",
+  "name": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+  "formal_name": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+  "description": "법률 파괴의 법정에서, 잡아라! 역전무죄!\n\n『Phoenix Wright: Ace Attorney - Spirit of Justice』는, 무고한 의뢰인을\n돕는 변호사로서 법정싸움을 벌이는 추리 어드벤처입니다. \n\n신비와 영매의 나라 《클라인왕국》과 《일본》의 2개국에서 나루호도 류이치와 오도로키 호우스케가 맹활약!\n증인의 거짓말을 간파하고, 「모순」된 증언에 증거품을 내어, 진실을 찾아 내자!",
+  "release_date_on_eshop": "2016-09-08",
+  "product_code": "CTR-N-BG6Y",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "어드벤처"
+  ],
+  "features": [
+    "인터넷 대응",
+    "3D 영상 대응",
+    "어느새 통신 대응"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Phoenix Wright: Ace Attorney - Spirit of Justice\n상호:Capcom Asia Co., Ltd.\n이용등급:12세이용가\n등급분류번호:GC-CC-NV-160624-013\n등급분류 일자:2016.6.24\n제작・배급업신고번호:제 2012-000049호\n※ 대응 언어 \n 자막,음성:영어\n※ for sale in Korea only",
+  "descriptors": []
 }

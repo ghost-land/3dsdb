@@ -1,25 +1,27 @@
 {
-    "tid": "000480044B544250",
-    "uid": "50010000006304",
-    "name": "A Little Bit of...\nAll Time Classics™:\nStrategy Games",
-    "formal_name": "A Little Bit of...\nAll Time Classics™:\nStrategy Games",
-    "description": "Enjoy some of the world’s favourite\ngames together in one handy\ncollection, playable with Touch\nScreen controls, and with support for\nup to four players.<br>\n<br>\nA Little Bit of... All Time Classics:\nStrategy Games features five classic\ngames famed for their strategic play:\nBackgammon, Field Tactics, Turncoat,\nConnect Five and Grid Attack.<br>\n<br>\nPlay solo against computer\nopponents, learn the rules with\nin-depth instructions, and play with\nfriends wirelessly (only one player\nneeds a copy of the game). You can\neven send a game to a friend’s\nNintendo DS or Nintendo DSi as a gift\n(until they switch off their system).<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KTBP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Board Game",
-        "Strategy",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B544250",
+  "uid": "50010000006304",
+  "name": "A Little Bit of...\nAll Time Classics™:\nStrategy Games",
+  "formal_name": "A Little Bit of...\nAll Time Classics™:\nStrategy Games",
+  "description": "Enjoy some of the world’s favourite\ngames together in one handy\ncollection, playable with Touch\nScreen controls, and with support for\nup to four players.<br>\n<br>\nA Little Bit of... All Time Classics:\nStrategy Games features five classic\ngames famed for their strategic play:\nBackgammon, Field Tactics, Turncoat,\nConnect Five and Grid Attack.<br>\n<br>\nPlay solo against computer\nopponents, learn the rules with\nin-depth instructions, and play with\nfriends wirelessly (only one player\nneeds a copy of the game). You can\neven send a game to a friend’s\nNintendo DS or Nintendo DSi as a gift\n(until they switch off their system).<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KTBP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Board Game",
+    "Strategy",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B544150",
-    "uid": "",
-    "name": "D-Tank - GO Series",
-    "formal_name": "D-Tank - GO Series",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KTAP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B544150",
+  "uid": "",
+  "name": "D-Tank - GO Series",
+  "formal_name": "D-Tank - GO Series",
+  "description": "Defend! Attack! The mission comes first!\n\nYou control a tank that can respawn any number of times. The focus of this shooting game is to put your life on the line to successfully carry out a variety of defensive and offensive missions. In defensive missions, you must take out the enemy tanks targeting your base before it is destroyed. In offensive missions--boss battles, you must capture the enemy's stronghold within the time limit. The key to success in these missions is the strategic use of items, such as bombs and special ammo.",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KTAP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

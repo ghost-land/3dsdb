@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B4E4150",
-    "uid": "",
-    "name": "Petit Computer",
-    "formal_name": "Petit Computer",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KNAP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4E4150",
+  "uid": "",
+  "name": "Petit Computer",
+  "formal_name": "Petit Computer",
+  "description": "ニンテンドーDSi用BASIC『プチコン』がさらにパワーアップしました。\n前作のお手軽さはそのままに、MMLによる作曲命令やTALK命令による音声合成もサポート。作ったプログラムはSDカードへの保存とQRコード読み込みで友だちに渡すこともできます。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KNAP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

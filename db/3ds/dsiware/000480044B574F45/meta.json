@@ -1,21 +1,27 @@
 {
-    "tid": "000480044B574F45",
-    "uid": "",
-    "name": "WPT Texas Hold 'Em",
-    "formal_name": "WPT Texas Hold 'Em",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KWOE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B574F45",
+  "uid": "",
+  "name": "WPT Texas Hold 'Em",
+  "formal_name": "WPT Texas Hold 'Em",
+  "description": "Play like the pros in WPT Texas Hold\n'Em on DSiWare, the official game\ntested and approved by the experts at\nthe WPT! Whether you're just learning\nto play or you're an old-school player\nwanting to hook some fish, Texas\nHold 'Em has tables for all players.\nChoose to play solo in two unique\ntournaments designed specifically for\nthe DSiWare or use the DS Wireless\nCommunication and play with your\nfriends and take down monster pots.\nThe action is in your hands in the\nmost authentic poker game ever\nbrought to the Nintendo DSi.",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KWOE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

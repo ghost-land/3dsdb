@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B5A4E4B",
-    "uid": "",
-    "name": "G.G Sirijeu - Z One",
-    "formal_name": "G.G Sirijeu - Z One",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KZNK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B5A4E4B",
+  "uid": "",
+  "name": "G.G Sirijeu - Z One",
+  "formal_name": "G.G Sirijeu - Z One",
+  "description": "ブロックと敵の配置による敵の防衛線を、8方向への攻撃可能な「ポッド」を使いこなし、敵を駆逐しつつ、先へ先へと進む横スクロールシューティングゲームです。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KZNK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B4D3958",
-    "uid": "50010000004323",
-    "name": "Une pause avec... Faites de\nla magie™: Astre renversant",
-    "formal_name": "Une pause avec... Faites de\nla magie™: Astre renversant",
-    "description": "Une pause avec... Faites de la magie transformera votre console Nintendo DSi en baguette magique et impressionnera vos amis! Grâce à ces tours de magie simples à réaliser, vous serez toujours prêt à improviser un spectacle de magie!<br>\n<br>\nDans Astre renversant, la console Nintendo DSi vous révélera un nombre magique! La surprise sera au rendez-vous!<br>\n<br>\nDeux autres tours sont également inclus. Dans Surprise à la carte, découvrez la prédiction faite par la console à partir de nombres choisis au hasard... Et dans Carte fugitive, vous serez témoin d'un événement incroyable: la console lira directement dans vos pensées!<br>\n<br>\nIl est possible que certains éléments de ce logiciel aient été utilisés dans un titre sorti précédemment.<br>\n<br>\nTexte écran en français\nTexte écran en allemand\nTexte écran en italien",
-    "release_date_on_eshop": "2009-05-08",
-    "product_code": "TWL-N-KM9X",
-    "platform_name": "Nintendo DSiWare",
-    "region": "France",
-    "genres": [
-        "Autre"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D3958",
+  "uid": "50010000004323",
+  "name": "Une pause avec... Faites de\nla magie™: Astre renversant",
+  "formal_name": "Une pause avec... Faites de\nla magie™: Astre renversant",
+  "description": "Une pause avec... Faites de la magie transformera votre console Nintendo DSi en baguette magique et impressionnera vos amis! Grâce à ces tours de magie simples à réaliser, vous serez toujours prêt à improviser un spectacle de magie!<br>\n<br>\nDans Astre renversant, la console Nintendo DSi vous révélera un nombre magique! La surprise sera au rendez-vous!<br>\n<br>\nDeux autres tours sont également inclus. Dans Surprise à la carte, découvrez la prédiction faite par la console à partir de nombres choisis au hasard... Et dans Carte fugitive, vous serez témoin d'un événement incroyable: la console lira directement dans vos pensées!<br>\n<br>\nIl est possible que certains éléments de ce logiciel aient été utilisés dans un titre sorti précédemment.<br>\n<br>\nTexte écran en français\nTexte écran en allemand\nTexte écran en italien",
+  "release_date_on_eshop": "2009-05-08",
+  "product_code": "TWL-N-KM9X",
+  "platform_name": "Nintendo DSiWare",
+  "region": "France",
+  "genres": [
+    "Autre"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

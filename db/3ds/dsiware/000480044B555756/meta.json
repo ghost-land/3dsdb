@@ -1,24 +1,28 @@
 {
-    "tid": "000480044B555756",
-    "uid": "50010000006441",
-    "name": "WarioWare™: Snapped!",
-    "formal_name": "WarioWare™: Snapped!",
-    "description": "Wario returns with more manic\nminigames made especially for\nNintendo DSi!<br>\n<br>\nWarioWare: Snapped! uses the\ninternal camera to literally make you\nthe star of the show!<br>\n<br>\nTake part in wacky challenges simply\nby moving your face and body as you\nfly along four wild roller coasters,\nhosted by Wario and his wacky pals.\nWhile Wario’s games are all about big\nmovements, Mona’s require more\ndexterity. Kat & Ana’s challenges are\nplayed with a friend for double\nhilarity!<br>\n<br>\nWario has a few tricks up his sleeve\nthat keep the fun times flowing even\nafter you've finished moving!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KUWV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B555756",
+  "uid": "50010000006441",
+  "name": "WarioWare™: Snapped!",
+  "formal_name": "WarioWare™: Snapped!",
+  "description": "Wario returns with more manic\nminigames made especially for\nNintendo DSi!<br>\n<br>\nWarioWare: Snapped! uses the\ninternal camera to literally make you\nthe star of the show!<br>\n<br>\nTake part in wacky challenges simply\nby moving your face and body as you\nfly along four wild roller coasters,\nhosted by Wario and his wacky pals.\nWhile Wario’s games are all about big\nmovements, Mona’s require more\ndexterity. Kat & Ana’s challenges are\nplayed with a friend for double\nhilarity!<br>\n<br>\nWario has a few tricks up his sleeve\nthat keep the fun times flowing even\nafter you've finished moving!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KUWV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

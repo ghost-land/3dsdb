@@ -1,24 +1,28 @@
 {
-    "tid": "000480044B4E4456",
-    "uid": "50010000004543",
-    "name": "A Little Bit of... Brain Training™\nArts Edition",
-    "formal_name": "A Little Bit of...\nDr Kawashima’s Brain Training™\nArts Edition",
-    "description": "Dr Kawashima brings his popular brain\nexercise software to Nintendo DSi,\nwith fun, new features and the return\nof many Brain Training favourites!<br>\n<br>\nA Little Bit of... Dr Kawashima’s\nBrain Training: Arts Edition features\nvarious challenges based on words,\npictures and music that you can use\nregularly to keep your brain sharp in\njust a few minutes a day.<br>\n<br>\nAs well as training, you can also\nrelax with a game of Germ Buster. Or\ntry the new Themes Mode, where you\ncan practise your acting and drawing\nskills using Nintendo DSi's camera\nfunctionality, Touch Screen and\nmicrophone!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KNDV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Education",
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4E4456",
+  "uid": "50010000004543",
+  "name": "A Little Bit of... Brain Training™\nArts Edition",
+  "formal_name": "A Little Bit of...\nDr Kawashima’s Brain Training™\nArts Edition",
+  "description": "Dr Kawashima brings his popular brain\nexercise software to Nintendo DSi,\nwith fun, new features and the return\nof many Brain Training favourites!<br>\n<br>\nA Little Bit of... Dr Kawashima’s\nBrain Training: Arts Edition features\nvarious challenges based on words,\npictures and music that you can use\nregularly to keep your brain sharp in\njust a few minutes a day.<br>\n<br>\nAs well as training, you can also\nrelax with a game of Germ Buster. Or\ntry the new Themes Mode, where you\ncan practise your acting and drawing\nskills using Nintendo DSi's camera\nfunctionality, Touch Screen and\nmicrophone!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously-released software.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KNDV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Education",
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

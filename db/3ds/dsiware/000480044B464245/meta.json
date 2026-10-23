@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B464245",
-    "uid": "",
-    "name": "Fishing Resort - GO Series",
-    "formal_name": "Fishing Resort - GO Series",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KFBE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B464245",
+  "uid": "",
+  "name": "Fishing Resort - GO Series",
+  "formal_name": "Fishing Resort - GO Series",
+  "description": "タッチペンのみで、魚釣りが手軽に楽しめるアクションゲームです。初心者の方や魚釣りにあまり詳しく無い方でも楽しんで頂けるように専門用語をできるだけ使わずに表現し、魚を釣るまでの手順も、ゲームらしくアレンジしてあります。自由気ままにのんびりと釣るも良し。納得がいくまで大きな魚を探し、釣り上げるも良し。腕に自信のあるプレイヤーは、『挑戦』にチャレンジするのも良いでしょう。思い存分魚釣りを満喫してください！",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KFBE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B4D4450",
-    "uid": "50010000004383",
-    "name": "A Little Bit of...Magic Made\nFun™: Matchmaker",
-    "formal_name": "A Little Bit of...\nMagic Made Fun™: Matchmaker",
-    "description": "Impress your friends with mesmerising\nmagic using A Little Bit of... Magic\nMade Fun – a collection of\neasy-to-perform tricks that you can\ncarry wherever you go!<br>\n<br>\nMatchmaker is a fortune-telling trick\nthat might just help you break the ice\nwith that special someone. Simply ask\na spectator to choose their favourite\nfun places or foods while you do so\nas well. When you've finished, your\nNintendo DSi will reveal that the\nspectator's choices match your own!<br>\n<br>\nAlso included is the bonus trick\nPhoto Diagnosis. Use the Nintendo\nDSi's camera to take a photo of a\nperson's palm and face, and the\nsoftware will correctly guess their\nage. How does it work?!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KMDP",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4450",
+  "uid": "50010000004383",
+  "name": "A Little Bit of...Magic Made\nFun™: Matchmaker",
+  "formal_name": "A Little Bit of...\nMagic Made Fun™: Matchmaker",
+  "description": "Impress your friends with mesmerising\nmagic using A Little Bit of... Magic\nMade Fun – a collection of\neasy-to-perform tricks that you can\ncarry wherever you go!<br>\n<br>\nMatchmaker is a fortune-telling trick\nthat might just help you break the ice\nwith that special someone. Simply ask\na spectator to choose their favourite\nfun places or foods while you do so\nas well. When you've finished, your\nNintendo DSi will reveal that the\nspectator's choices match your own!<br>\n<br>\nAlso included is the bonus trick\nPhoto Diagnosis. Use the Nintendo\nDSi's camera to take a photo of a\nperson's palm and face, and the\nsoftware will correctly guess their\nage. How does it work?!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KMDP",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

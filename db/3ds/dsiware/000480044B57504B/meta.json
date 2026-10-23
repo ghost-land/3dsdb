@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B57504B",
-    "uid": "",
-    "name": "Gibonyeongdaneo - Wodeu Peojeul",
-    "formal_name": "Gibonyeongdaneo - Wodeu Peojeul",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KWPK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B57504B",
+  "uid": "",
+  "name": "Gibonyeongdaneo - Wodeu Peojeul",
+  "formal_name": "Gibonyeongdaneo - Wodeu Peojeul",
+  "description": "2021年6月30日(水)10時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>中学基本英単語を落ちものパズルゲームで学習できます。\n英単語は授業や高校入試で出てくる1430語を厳選し収録。\n出題される英単語は、パズルプレー前に単語帳でチェックすることができ、遊びながら学習することができます。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KWPK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

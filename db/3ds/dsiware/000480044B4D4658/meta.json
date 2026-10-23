@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B4D4658",
-    "uid": "50010000004401",
-    "name": "Une pause avec...\nFaites de la magie™: Drôle de tête",
-    "formal_name": "Une pause avec...\nFaites de la magie™: Drôle de tête",
-    "description": "Une pause avec... Faites de la magie transformera votre console Nintendo DSi en baguette magique et impressionnera vos amis! Grâce à ces tours de magie simples à réaliser, vous serez toujours prêt à improviser un spectacle de magie!<br>\n<br>\nSaviez-vous que la console Nintendo DSi pouvait lire dans les pensées? Vos amis n'en reviendront pas quand le visage que vous aurez dessiné sur l'écran tactile leur dira quelle carte ils ont choisie! Bien sûr, il y a un truc... Mais vous seul connaissez le secret de Drôle de tête!<br>\n<br>\nLe tour bonus Carte fugitive est également inclus. Pensez à une des cinq cartes qui s'affichent de façon aléatoire sur l'écran de la console Nintendo DSi... Et elle devinera de laquelle il s'agit!<br>\n<br>\nIl est possible que certains éléments de ce logiciel aient été utilisés dans un titre sorti précédemment.<br>\n<br>\nTexte écran en français, italien et allemand.",
-    "release_date_on_eshop": "2009-05-01",
-    "product_code": "TWL-N-KMFX",
-    "platform_name": "Nintendo DSiWare",
-    "region": "France",
-    "genres": [
-        "Autre"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B4D4658",
+  "uid": "50010000004401",
+  "name": "Une pause avec...\nFaites de la magie™: Drôle de tête",
+  "formal_name": "Une pause avec...\nFaites de la magie™: Drôle de tête",
+  "description": "Une pause avec... Faites de la magie transformera votre console Nintendo DSi en baguette magique et impressionnera vos amis! Grâce à ces tours de magie simples à réaliser, vous serez toujours prêt à improviser un spectacle de magie!<br>\n<br>\nSaviez-vous que la console Nintendo DSi pouvait lire dans les pensées? Vos amis n'en reviendront pas quand le visage que vous aurez dessiné sur l'écran tactile leur dira quelle carte ils ont choisie! Bien sûr, il y a un truc... Mais vous seul connaissez le secret de Drôle de tête!<br>\n<br>\nLe tour bonus Carte fugitive est également inclus. Pensez à une des cinq cartes qui s'affichent de façon aléatoire sur l'écran de la console Nintendo DSi... Et elle devinera de laquelle il s'agit!<br>\n<br>\nIl est possible que certains éléments de ce logiciel aient été utilisés dans un titre sorti précédemment.<br>\n<br>\nTexte écran en français, italien et allemand.",
+  "release_date_on_eshop": "2009-05-01",
+  "product_code": "TWL-N-KMFX",
+  "platform_name": "Nintendo DSiWare",
+  "region": "France",
+  "genres": [
+    "Autre"
+  ],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

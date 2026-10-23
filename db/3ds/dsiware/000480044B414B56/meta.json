@@ -1,24 +1,26 @@
 {
-    "tid": "000480044B414B56",
-    "uid": "50010000001712",
-    "name": "Art Style: KUBOS™",
-    "formal_name": "Art Style: KUBOS™",
-    "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nIn KUBOS your aim is to climb a\ntower of cubes which becomes higher\nas new cubes drop from above. Walk\nacross the cubes to score points,\navoiding being crushed by the falling\ncubes; but keep climbing or you’ll fall\nwhen the lower cubes disappear.<br>\n<br>\nIn TEN FLOORS mode, try to reach\nthe 10th floor while scoring as many\npoints as possible. In TOWER mode,\nsimply climb as high as you can.\nQuickly defuse bomb cubes before\nthey blow a hole in your tower, and\nremove obstructing cubes with a\ngentle push or a huge Cube Blast!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KAKV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Action",
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414B56",
+  "uid": "50010000001712",
+  "name": "Art Style: KUBOS™",
+  "formal_name": "Art Style: KUBOS™",
+  "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nIn KUBOS your aim is to climb a\ntower of cubes which becomes higher\nas new cubes drop from above. Walk\nacross the cubes to score points,\navoiding being crushed by the falling\ncubes; but keep climbing or you’ll fall\nwhen the lower cubes disappear.<br>\n<br>\nIn TEN FLOORS mode, try to reach\nthe 10th floor while scoring as many\npoints as possible. In TOWER mode,\nsimply climb as high as you can.\nQuickly defuse bomb cubes before\nthey blow a hole in your tower, and\nremove obstructing cubes with a\ngentle push or a huge Cube Blast!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KAKV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B503945",
-    "uid": "",
-    "name": "Paul's Monster Adventure",
-    "formal_name": "Paul's Monster Adventure",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KP9E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B503945",
+  "uid": "",
+  "name": "Paul's Monster Adventure",
+  "formal_name": "Paul's Monster Adventure",
+  "description": "お腹を空かせたハラペコモンスターに、自然界でできた野菜をどんどん運んで食べさせます。\n邪魔をしてくる羊から逃げながら、ハラペコモンスターを満足させてあげればゲームクリア。お腹が減って、満腹度が０になってしまったらゲームオーバーです。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KP9E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

@@ -1,21 +1,23 @@
 {
-    "tid": "000480044B44554B",
-    "uid": "",
-    "name": "Nae Mamdaero Peurinseseu",
-    "formal_name": "Nae Mamdaero Peurinseseu",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KDUK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B44554B",
+  "uid": "",
+  "name": "Nae Mamdaero Peurinseseu",
+  "formal_name": "Nae Mamdaero Peurinseseu",
+  "description": "髪型やアクセサリーを好きに組み合わせて人形をつくって楽しめるソフトです。人形をつくったら背景やフレームを選び、そのあとシールやペンでらくがきして、デコレーションをします。自分だけの素敵な人形をつくってください。",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KDUK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }

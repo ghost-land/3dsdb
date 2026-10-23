@@ -1,25 +1,27 @@
 {
-    "tid": "00040000000CFD00",
-    "uid": "50010000013133",
-    "name": "SENRAN KAGURA Burst",
-    "formal_name": "SENRAN KAGURA Burst",
-    "description": "「시노비」로서 살아가는 소녀들의 격렬한 싸움과 청춘을 그린 통쾌한 액션\n「SENRAN KAGURA」시리즈 제 2탄!\n 전작에서 주인공의 라이벌로 등장한「사여자학원」멤버가 주역이 되어 새로운 이야기가 전개됩니다. \n 대망의「탈의실 3D 기능」을 실현, 액션이나 코스튬 파괴도 한층 더 격렬하게 진화되었습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.\n※ 본 소프트웨어 내에는 전자설명서가\n제공되지 않습니다. ",
-    "release_date_on_eshop": "2013-01-30",
-    "product_code": "CTR-N-AVHZ",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "액션"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "18"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : SENRAN KAGURA Burst\n상호 : 한국닌텐도(주)\n이용등급 : 청소년이용불가\n등급분류번호: CC-NV-121214-001\n등급분류 일자 : 2012.12.14.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
-    "descriptors": []
+  "tid": "00040000000CFD00",
+  "uid": "50010000013133",
+  "name": "SENRAN KAGURA Burst",
+  "formal_name": "SENRAN KAGURA Burst",
+  "description": "「시노비」로서 살아가는 소녀들의 격렬한 싸움과 청춘을 그린 통쾌한 액션\n「SENRAN KAGURA」시리즈 제 2탄!\n 전작에서 주인공의 라이벌로 등장한「사여자학원」멤버가 주역이 되어 새로운 이야기가 전개됩니다. \n 대망의「탈의실 3D 기능」을 실현, 액션이나 코스튬 파괴도 한층 더 격렬하게 진화되었습니다.\n\n※ 본 소프트웨어의 대응 언어를 확인하신 후 구입하시기 바랍니다.\n※ 본 소프트웨어 내에는 전자설명서가\n제공되지 않습니다. ",
+  "release_date_on_eshop": "2013-01-30",
+  "product_code": "CTR-N-AVHZ",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "액션"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "18"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에\nHOME 메뉴의 「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한\n중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명 : SENRAN KAGURA Burst\n상호 : 한국닌텐도(주)\n이용등급 : 청소년이용불가\n등급분류번호: CC-NV-121214-001\n등급분류 일자 : 2012.12.14.\n제작・배급업신고번호: 게배 제2012-10호\n\n※ 대응 언어: 일본어\n※ for sale in Korea only\n※ 자세한 내용은 한국닌텐도 홈페이지를 통해 확인하실 수 있습니다.",
+  "descriptors": []
 }

@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B415056",
-    "uid": "50010000001714",
-    "name": "Art Style: PiCOPiCT™",
-    "formal_name": "Art Style: PiCOPiCT™",
-    "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nIn PiCOPiCT, puzzle your way\nthrough a colourful, retro-themed\ngame with charming NES-era graphics\nand sounds. Build up pixel pictures of\nclassic Nintendo characters on the\nTop Screen by clearing the blocks\nthat fall onto the Touch Screen. Just\nuse the stylus to place blocks of a\nmatching colour in the path of the\nfalling blocks.<br>\n<br>\nEarn coins as you play, to unlock\nnew classic Nintendo\ncharacter-themed stages (including\nSuper Mario Bros., The Legend of\nZelda and more) and remixed music\narranged by renowned Japanese\n'chiptune' band YMCK.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KAPV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Puzzle"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415056",
+  "uid": "50010000001714",
+  "name": "Art Style: PiCOPiCT™",
+  "formal_name": "Art Style: PiCOPiCT™",
+  "description": "The Art Style series brings you\nunique, simple-to-play games with\nstriking visuals and immersive sound.<br>\n<br>\nIn PiCOPiCT, puzzle your way\nthrough a colourful, retro-themed\ngame with charming NES-era graphics\nand sounds. Build up pixel pictures of\nclassic Nintendo characters on the\nTop Screen by clearing the blocks\nthat fall onto the Touch Screen. Just\nuse the stylus to place blocks of a\nmatching colour in the path of the\nfalling blocks.<br>\n<br>\nEarn coins as you play, to unlock\nnew classic Nintendo\ncharacter-themed stages (including\nSuper Mario Bros., The Legend of\nZelda and more) and remixed music\narranged by renowned Japanese\n'chiptune' band YMCK.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KAPV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

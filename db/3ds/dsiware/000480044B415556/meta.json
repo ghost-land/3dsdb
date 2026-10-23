@@ -1,23 +1,25 @@
 {
-    "tid": "000480044B415556",
-    "uid": "50010000001717",
-    "name": "Nintendo Countdown Calendar",
-    "formal_name": "Nintendo Countdown Calendar",
-    "description": "These days we all lead increasingly\nbusy lives. Nintendo Countdown\nCalendar is an easy, fun way to keep\ntrack of not only urgent appointments\nbut also to remind you about life's\nsmall yet important tasks.<br>\n<br>\nYou can organise your day-to-day\n'Events' by category, selecting from\neither School (such as trips,\nhomework deadlines), Work\n(meetings, projects) or Everyday\n(doctor's appointments, holidays).\nYou can even add your own Custom\nEvents using handwritten notes via the\nTouch Screen. What's more, each time\nyou start the calendar, a useful\nreminder tells you how many days are\nleft until your added event!<br>\n<br>\nThe software can be used until 2099,\nincluding important dates like public\nholidays (some countries only, not all\nholidays) and phases of the moon.\nYou can even leave yourself a quick\nwritten reminder which will appear the\nnext time you use the software. With\nNintendo Countdown Calendar, you\nwill have no excuse to forget another\nbirthday!",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KAUV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B415556",
+  "uid": "50010000001717",
+  "name": "Nintendo Countdown Calendar",
+  "formal_name": "Nintendo Countdown Calendar",
+  "description": "These days we all lead increasingly\nbusy lives. Nintendo Countdown\nCalendar is an easy, fun way to keep\ntrack of not only urgent appointments\nbut also to remind you about life's\nsmall yet important tasks.<br>\n<br>\nYou can organise your day-to-day\n'Events' by category, selecting from\neither School (such as trips,\nhomework deadlines), Work\n(meetings, projects) or Everyday\n(doctor's appointments, holidays).\nYou can even add your own Custom\nEvents using handwritten notes via the\nTouch Screen. What's more, each time\nyou start the calendar, a useful\nreminder tells you how many days are\nleft until your added event!<br>\n<br>\nThe software can be used until 2099,\nincluding important dates like public\nholidays (some countries only, not all\nholidays) and phases of the moon.\nYou can even leave yourself a quick\nwritten reminder which will appear the\nnext time you use the software. With\nNintendo Countdown Calendar, you\nwill have no excuse to forget another\nbirthday!",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KAUV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

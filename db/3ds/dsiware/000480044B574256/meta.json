@@ -1,23 +1,27 @@
 {
-    "tid": "000480044B574256",
-    "uid": "50010000006447",
-    "name": "Mario™ Clock",
-    "formal_name": "Mario™ Clock",
-    "description": "With Mario Clock, you'll always have\nthe time wherever you go! Wake up\nwith classic Mario music, or simply\nuse the Nintendo DSi system as a\ndesktop clock complete with a Super\nMario Bros. background. You can\neven make Mario jump, bash blocks\nand collect coins!<br>\n<br>\nCustomise the clock to your liking:\nchoose from analogue or digital\ndisplays, 12-hour or 24-hour modes,\nand set up to three separate alarms\nwith different NES-style Mario tunes\nor use your own saved sounds from\nthe Nintendo DSi Sound application.",
-    "release_date_on_eshop": "2013-04-10",
-    "product_code": "TWL-N-KWBV",
-    "platform_name": "Nintendo DSiWare",
-    "region": "Europe",
-    "genres": [
-        "Other"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B574256",
+  "uid": "50010000006447",
+  "name": "Mario™ Clock",
+  "formal_name": "Mario™ Clock",
+  "description": "With Mario Clock, you'll always have\nthe time wherever you go! Wake up\nwith classic Mario music, or simply\nuse the Nintendo DSi system as a\ndesktop clock complete with a Super\nMario Bros. background. You can\neven make Mario jump, bash blocks\nand collect coins!<br>\n<br>\nCustomise the clock to your liking:\nchoose from analogue or digital\ndisplays, 12-hour or 24-hour modes,\nand set up to three separate alarms\nwith different NES-style Mario tunes\nor use your own saved sounds from\nthe Nintendo DSi Sound application.",
+  "release_date_on_eshop": "2013-04-10",
+  "product_code": "TWL-N-KWBV",
+  "platform_name": "Nintendo DSiWare",
+  "region": "Europe",
+  "genres": [
+    "Other"
+  ],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": null,
+    "age": null
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": []
 }

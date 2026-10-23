@@ -1,21 +1,25 @@
 {
-    "tid": "000480044B414D4B",
-    "uid": "",
-    "name": "Jong-Ibihaeng-Gi",
-    "formal_name": "Jong-Ibihaeng-Gi",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "TWL-N-KAMK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "000480044B414D4B",
+  "uid": "",
+  "name": "Jong-Ibihaeng-Gi",
+  "formal_name": "Jong-Ibihaeng-Gi",
+  "description": "In Paper Airplane Chase, glide your virtual paper plane through an increasingly tricky slalom course. Take it slow in Endless mode or zip through several Time Attack courses. The two-player Race mode allows friends to race each other using a single Nintendo DSi system.\n\n(Content available in English, French, and Spanish.)",
+  "release_date_on_eshop": "",
+  "product_code": "TWL-N-KAMK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "",
+  "disclaimer": null,
+  "descriptors": []
 }
