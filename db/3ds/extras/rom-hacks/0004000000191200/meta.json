@@ -1,21 +1,25 @@
 {
-    "tid": "0004000000191200",
-    "uid": "",
-    "name": "Taiko no Tatsujin 3DS3+",
-    "formal_name": "Taiko no Tatsujin 3DS3+",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Rom Hacks",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000191200",
+  "uid": "",
+  "name": "Taiko no Tatsujin 3DS3+",
+  "formal_name": "Taiko no Tatsujin 3DS3+",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "",
+  "platform_name": "",
+  "region": "Rom Hacks",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "",
+    "age": ""
+  },
+  "version": "v1.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "NAMCO BANDAI Entertainment"
 }

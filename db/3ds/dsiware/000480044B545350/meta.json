@@ -13,7 +13,14 @@
     "Education"
   ],
   "features": [],
-  "languages": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
   "rating_system": {
     "name": "PEGI",
     "age": "3"
