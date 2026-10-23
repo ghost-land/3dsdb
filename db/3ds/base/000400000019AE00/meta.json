@@ -28,5 +28,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명:요괴워치 2 원조\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-170113-001\n등급분류 일자:2017.01.13\n제작・배급업신고번호:제2012-000010호\n대응 언어:자막・음성 한국어",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

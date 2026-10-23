@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000934200",
-    "uid": "",
-    "name": "CODE OF PRINCESS (Undub)",
-    "formal_name": "CODE OF PRINCESS (Undub)",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "",
-    "platform_name": "",
-    "region": "Rom Hacks",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000934200",
+  "uid": "",
+  "name": "CODE OF PRINCESS (Undub)",
+  "formal_name": "CODE OF PRINCESS (Undub)",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "",
+  "platform_name": "",
+  "region": "Rom Hacks",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Index Digital Media, Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

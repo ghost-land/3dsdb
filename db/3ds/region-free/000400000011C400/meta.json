@@ -32,5 +32,11 @@
   },
   "version": "v3.3.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Dio Vento",
+  "smdh": {
+    "flags": [
+      "ExtendedBanner"
+    ]
+  }
 }

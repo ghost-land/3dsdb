@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000152000",
-    "uid": "",
-    "name": "Shingeki no Kyojin - Humanity in Chains",
-    "formal_name": "Shingeki no Kyojin - Humanity in Chains",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-N-BG2P",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000152000",
+  "uid": "",
+  "name": "Shingeki no Kyojin - Humanity in Chains",
+  "formal_name": "Shingeki no Kyojin - Humanity in Chains",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-N-BG2P",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "18"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Atlus U.S.A., Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

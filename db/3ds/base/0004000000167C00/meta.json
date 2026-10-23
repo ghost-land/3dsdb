@@ -29,5 +29,12 @@
   },
   "version": "v19.5.0",
   "disclaimer": "*주의사항*\n제명:슈퍼 스매시브라더스 for 닌텐도 3DS\n상호:한국닌텐도(주)\n이용등급:전체이용가(폭력성)\n등급분류번호:GC-CC-NV-150717-002\n등급분류 일자:2015.7.17\n제작・배급업신고번호:게배 제2012-10호",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

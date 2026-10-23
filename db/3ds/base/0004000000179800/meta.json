@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000179800",
-    "uid": "",
-    "name": "Fire Emblem Fates - Special Edition",
-    "formal_name": "Fire Emblem Fates - Special Edition",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BFZE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000179800",
+  "uid": "",
+  "name": "Fire Emblem Fates - Special Edition",
+  "formal_name": "Fire Emblem Fates - Special Edition",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BFZE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

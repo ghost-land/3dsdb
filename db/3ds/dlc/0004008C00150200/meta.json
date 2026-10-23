@@ -1,21 +1,32 @@
 {
-    "tid": "0004008C00150200",
-    "uid": "",
-    "name": "SENRAN KAGURA 2 SHINKU",
-    "formal_name": "SENRAN KAGURA 2 SHINKU",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-BNUK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C00150200",
+  "uid": "",
+  "name": "SENRAN KAGURA 2 SHINKU",
+  "formal_name": "SENRAN KAGURA 2 SHINKU",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-BNUK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "18"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Marvelous Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

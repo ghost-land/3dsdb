@@ -1,21 +1,37 @@
 {
-    "tid": "00040000001CB400",
-    "uid": "",
-    "name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
-    "formal_name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BLFE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001CB400",
+  "uid": "",
+  "name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
+  "formal_name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BLFE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "LEVEL-5 Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

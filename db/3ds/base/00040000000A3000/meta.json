@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000A3000",
-    "uid": "",
-    "name": "FIFA 13",
-    "formal_name": "FIFA 13",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AF8D",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A3000",
+  "uid": "",
+  "name": "FIFA 13",
+  "formal_name": "FIFA 13",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AF8D",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Electronic Arts Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

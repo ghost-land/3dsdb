@@ -30,5 +30,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "Please make sure not to purchase both Birthright and Conquest at full price on Nintendo eShop. To purchase the second path at a discounted price, please select the Explore Fates option that appears at the beginning of Chapter Six, or purchase a download code at retail to redeem within the in-game shop Dragon’s Gate.\n<br><br>\nOnce you choose your path between Fire Emblem Fates: Birthright and Fire Emblem Fates: Conquest, you will enter a complete gameplay experience with different sets of characters to battle against and ally with. When you want to explore the other path (which is also a complete gameplay experience), you can purchase it at a discounted price in-game, adding an alternate take to the events that transpired between the kingdoms of Nohr and Hoshido.\n<br><br>\n* The third path—Fire Emblem Fates: Revelation—will bring a conclusion to the saga. In order to play Fire Emblem Fates: Revelation, you must own either the Fire Emblem Fates: Birthright or the Fire Emblem Fates: Conquest game. At the beginning of Chapter Six, you can access the in-game shop Dragon’s Gate or select the Explore Fates option to purchase it. Download codes for Fire Emblem Fates: Revelation will also be available at participating retailers.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/\ncompatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -22,5 +22,11 @@
   },
   "version": "v0.2.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。\n<br>ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "KOEI TECMO GAMES",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

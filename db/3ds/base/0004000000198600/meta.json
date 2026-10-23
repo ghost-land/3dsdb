@@ -1,27 +1,37 @@
 {
-    "tid": "0004000000198600",
-    "uid": "50010000041656",
-    "name": "DRAGON QUEST VII: Fragments of the Forgotten Past",
-    "formal_name": "DRAGON QUEST VII: Fragments of the Forgotten Past",
-    "description": "석판을 모아 미지의 세계를 모험하자!\n\n세계에 단 하나밖에 없는 섬 「에스터드 섬」에서부터 이야기가 시작됩니다.\n이 섬에밖에 존재하지 않는다고 생각되었던 '세계'는 주인공 Auster와 그의 친구 Kiefer 왕자가 우연히 발견한 의문의 석판을 계기로 장대한 세계로의 변화를 이루어냅니다.\n\n이 게임에서는 모험 도중에 얻는 '석판'을 사용하는 것으로 모험할 수 있는 세계가 넓어집니다. 가지고 있는 석판을 퍼즐처럼 조합하여 완성시키면, 지금까지 본 적이 없는 새로운 세계가 출현!\n\n또한 「엇갈림 통신」을 통해 손에 넣은 '엇갈림 석판'과 다른 플레이어가 가지고 있는 '엇갈림 석판'을 교환할 수 있습니다.",
-    "release_date_on_eshop": "2016-09-21",
-    "product_code": "CTR-N-AD7Z",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "RPG"
-    ],
-    "features": [
-        "인터넷 대응",
-        "3D 영상 대응",
-        "엇갈림 통신 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "15"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:DRAGON QUEST VII: Fragments of the Forgotten Past\n상호:한국닌텐도(주)\n이용등급:15세이용가\n등급분류번호:GC-CC-NV-160318-003\n등급분류 일자:2016.3.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n  자막: 영어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "0004000000198600",
+  "uid": "50010000041656",
+  "name": "DRAGON QUEST VII: Fragments of the Forgotten Past",
+  "formal_name": "DRAGON QUEST VII: Fragments of the Forgotten Past",
+  "description": "석판을 모아 미지의 세계를 모험하자!\n\n세계에 단 하나밖에 없는 섬 「에스터드 섬」에서부터 이야기가 시작됩니다.\n이 섬에밖에 존재하지 않는다고 생각되었던 '세계'는 주인공 Auster와 그의 친구 Kiefer 왕자가 우연히 발견한 의문의 석판을 계기로 장대한 세계로의 변화를 이루어냅니다.\n\n이 게임에서는 모험 도중에 얻는 '석판'을 사용하는 것으로 모험할 수 있는 세계가 넓어집니다. 가지고 있는 석판을 퍼즐처럼 조합하여 완성시키면, 지금까지 본 적이 없는 새로운 세계가 출현!\n\n또한 「엇갈림 통신」을 통해 손에 넣은 '엇갈림 석판'과 다른 플레이어가 가지고 있는 '엇갈림 석판'을 교환할 수 있습니다.",
+  "release_date_on_eshop": "2016-09-21",
+  "product_code": "CTR-N-AD7Z",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "인터넷 대응",
+    "3D 영상 대응",
+    "엇갈림 통신 대응"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "15"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:DRAGON QUEST VII: Fragments of the Forgotten Past\n상호:한국닌텐도(주)\n이용등급:15세이용가\n등급분류번호:GC-CC-NV-160318-003\n등급분류 일자:2016.3.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n  자막: 영어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

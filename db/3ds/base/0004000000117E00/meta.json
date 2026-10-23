@@ -1,21 +1,37 @@
 {
-    "tid": "0004000000117E00",
-    "uid": "",
-    "name": "One Piece - Unlimited World Red",
-    "formal_name": "One Piece - Unlimited World Red",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BUWP",
-    "platform_name": "",
-    "region": "Europe",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000117E00",
+  "uid": "",
+  "name": "One Piece - Unlimited World Red",
+  "formal_name": "One Piece - Unlimited World Red",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BUWP",
+  "platform_name": "",
+  "region": "Europe",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BANDAI NAMCO Games Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

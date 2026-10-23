@@ -1,21 +1,38 @@
 {
-    "tid": "0004000000088900",
-    "uid": "",
-    "name": "The Amazing Spider-Man",
-    "formal_name": "The Amazing Spider-Man",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AS8E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000088900",
+  "uid": "",
+  "name": "The Amazing Spider-Man",
+  "formal_name": "The Amazing Spider-Man",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AS8E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.1.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Activision",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

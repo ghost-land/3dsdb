@@ -1,21 +1,39 @@
 {
-    "tid": "0004008C0F70C100",
-    "uid": "",
-    "name": "ファイアーエムブレム無双",
-    "formal_name": "ファイアーエムブレム無双",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-M-CFMJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004008C0F70C100",
+  "uid": "",
+  "name": "ファイアーエムブレム無双",
+  "formal_name": "ファイアーエムブレム無双",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-M-CFMJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "15"
+  },
+  "version": "v0.6.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "KOEI TECMO GAMES",
+  "smdh": {
+    "flags": [
+      "New3DS",
+      "SaveData"
+    ]
+  }
 }

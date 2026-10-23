@@ -29,5 +29,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명:파이어 엠블렘 if\n상호:한국닌텐도(주)\n이용등급:12세이용가(선정성, 폭력성)\n등급분류번호:GC-CC-NV-160429-011\n등급분류 일자:2016.04.29\n제작・배급업신고번호:게배 제2012-10호\n※게임 내 자막 한국어, 음성 영어\n",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

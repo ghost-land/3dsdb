@@ -25,5 +25,11 @@
   },
   "version": "v2.3.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Atlus U.S.A., Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

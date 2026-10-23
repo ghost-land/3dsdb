@@ -1,21 +1,38 @@
 {
-    "tid": "00040000000A2900",
-    "uid": "",
-    "name": "FIFA Soccer 13",
-    "formal_name": "FIFA Soccer 13",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AF8E",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000000A2900",
+  "uid": "",
+  "name": "FIFA Soccer 13",
+  "formal_name": "FIFA Soccer 13",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AF8E",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Electronic Arts Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

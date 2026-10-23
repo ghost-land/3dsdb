@@ -1,21 +1,30 @@
 {
-    "tid": "0004000000052400",
-    "uid": "",
-    "name": "WWE All Stars",
-    "formal_name": "WWE All Stars",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AWEE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000052400",
+  "uid": "",
+  "name": "WWE All Stars",
+  "formal_name": "WWE All Stars",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AWEE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "THQ",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

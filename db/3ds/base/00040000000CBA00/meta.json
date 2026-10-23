@@ -21,10 +21,17 @@
     "ko"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "GRB",
+    "age": "All"
   },
   "version": "v0.1.0",
   "disclaimer": "※ 이 소프트웨어 저장에 필요한 빈 용량은  ｢1.8GB (14.295블록) 이상｣입니다.\n내장 소프트웨어 등에서 저장 영역을 사용하므로, 2GB SD 카드에는 다운로드할 수 없으니 주의하십시오.\n또한, 소프트웨어 업데이트에 필요한 용량이 증가됩니다. SD 카드의 용량을 늘리는 방법은 고객지원 정보의 Q&A를 읽어 주십시오. ",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
