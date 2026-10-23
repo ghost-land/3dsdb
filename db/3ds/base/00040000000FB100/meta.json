@@ -27,7 +27,13 @@
   },
   "version": "v0.5.0",
   "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Partial Nudity",
+    "Sexual Themes",
+    "Strong Language",
+    "Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Marvelous Inc.",
   "smdh": {
     "flags": [

@@ -20,6 +20,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "This game content was previously released as part of Electroplankton for \nNintendo DS.",
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

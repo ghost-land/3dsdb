@@ -29,7 +29,12 @@
   },
   "version": "v0.1.1",
   "disclaimer": "データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Alcohol Reference",
+    "Fantasy Violence",
+    "Mild Language",
+    "Mild Suggestive Themes"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

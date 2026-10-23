@@ -1,14 +1,16 @@
 {
   "tid": "0004000E001CB400",
-  "uid": "",
+  "uid": "50010000044739",
   "name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
   "formal_name": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
   "description": "An update for Layton's Mystery Journey™ is now available from Nintendo eShop.\n<br>All customers who own a copy of Layton's Mystery Journey™ should download the update. This will update the software to Version 1.2 with the following amendments:\n<br>\n<br>- Various bug fixes.\n<br>\n<br>• Once the update has been downloaded, it will be installed automatically.\n<br>\n<br>We apologize for any inconvenience caused, and recommend downloading this update to ensure a smooth game experience.",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2017-12-12",
   "product_code": "CTR-U-BLFE",
-  "platform_name": "",
+  "platform_name": "Update Data",
   "region": "North America",
-  "genres": [],
+  "genres": [
+    "Update Data"
+  ],
   "features": [],
   "languages": [
     "ja",
@@ -26,7 +28,7 @@
     "age": "10"
   },
   "version": "v1.2.0",
-  "disclaimer": null,
+  "disclaimer": "ニンテンドー3DSソフト『レイトン ミステリージャーニー カトリーエイルと大富豪の陰謀』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
   "descriptors": [],
   "publisher": "LEVEL-5 Inc.",
   "smdh": {

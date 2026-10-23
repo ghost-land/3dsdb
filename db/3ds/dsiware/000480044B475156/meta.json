@@ -14,7 +14,9 @@
     "Arcade",
     "Platformer"
   ],
-  "features": [],
+  "features": [
+    "Supports DS Download Play"
+  ],
   "languages": [
     "en",
     "fr",
@@ -28,5 +30,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Comic Mischief",
+    "Tobacco Reference"
+  ],
+  "publisher": "Connect2Media"
 }

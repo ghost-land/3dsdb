@@ -1,15 +1,22 @@
 {
   "tid": "00040000000C9700",
-  "uid": "",
+  "uid": "50010000008763",
   "name": "女剣士アカネ",
   "formal_name": "女剣士アカネ",
   "description": "Samurai Sword Destiny™ is a character action game that will challenge players of all levels. You control a deadly female samurai, Akane, with a single goal in mind: to find and bring her missing elder brother home. On Akane’s quest, she will encounter deadly ambushes, invade enemy castle rooftops, and square off against seemingly indomitable opponents. With the help of dozens of upgrades available to enhance her fighting abilities, Akane just might have a fighting chance against the forces that stand in her path!",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2012-01-05",
   "product_code": "CTR-N-JSSJ",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Download Only",
   "region": "Japan",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Fighting",
+    "Adventure",
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,8 +33,12 @@
     "age": "15"
   },
   "version": "v0.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Blood",
+    "Violence",
+    "Mild Language"
+  ],
   "publisher": "CyberFront Corporation",
   "smdh": {
     "flags": [

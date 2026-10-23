@@ -31,7 +31,13 @@
   },
   "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Crude Humor",
+    "Fantasy Violence",
+    "Mild Suggestive Themes",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "CAPCOM",
   "smdh": {
     "flags": [

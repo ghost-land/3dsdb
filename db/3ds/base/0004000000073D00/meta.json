@@ -31,8 +31,11 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Simulated Gambling"
+  ],
   "publisher": "2K Play",
   "smdh": {
     "flags": [

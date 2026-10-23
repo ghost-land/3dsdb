@@ -12,7 +12,9 @@
     "Action",
     "Puzzle"
   ],
-  "features": [],
+  "features": [
+    "Supports DS Download Play"
+  ],
   "languages": [
     "en"
   ],
@@ -22,5 +24,8 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Suggestive Themes"
+  ],
+  "publisher": "WayForward"
 }

@@ -23,8 +23,10 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>The same Nintendo Network ID must be linked to your Wii U and Nintendo 3DS systems as well as your eShop account prior to purchase in order to be eligible for discount.",
+  "descriptors": [
+    "Fantasy Violence"
+  ],
   "publisher": "MP2 Games",
   "smdh": {
     "flags": [

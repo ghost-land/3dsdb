@@ -26,7 +26,10 @@
   },
   "version": "v0.2.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Suggestive Themes",
+    "Violence"
+  ],
   "publisher": "TECMO KOEI GAMES",
   "smdh": {
     "flags": [

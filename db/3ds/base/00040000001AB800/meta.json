@@ -31,7 +31,10 @@
   },
   "version": "v1.1.0",
   "disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br>Game, system and amiibo sold separately. \n<br>Compatibility and functionality of amiibo may vary per game.  \n<br>Visit amiibo.com for specific details on how each amiibo works.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Digital Purchases"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

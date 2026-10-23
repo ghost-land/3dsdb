@@ -1,15 +1,20 @@
 {
   "tid": "0004000000147600",
-  "uid": "",
+  "uid": "50010000026578",
   "name": "PAC-MAN GHOSTLY ADV 2",
   "formal_name": "PAC-MAN GHOSTLY ADV 2",
   "description": "The gang is back! Following the colorful characters and world of the PAC-MAN and the Ghostly Adventures animated series, PAC-MAN and the Ghostly Adventures 2 will feature PAC-MAN, Spiral and Cylindria in an all-new storyline as they defend PacWorld from the ghoulish army of Lord Betrayus.",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2014-10-14",
   "product_code": "CTR-N-BPMZ",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Retail/Download",
   "region": "Unknown Other",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -27,8 +32,10 @@
     "age": "All"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Cartoon Violence"
+  ],
   "publisher": "BANDAI NAMCO Games Korea",
   "smdh": {
     "flags": [

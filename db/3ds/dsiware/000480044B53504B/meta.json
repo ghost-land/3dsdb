@@ -1,23 +1,29 @@
 {
   "tid": "000480044B53504B",
-  "uid": "",
+  "uid": "50010000003781",
   "name": "Deonjyeoseo Ssok! Yuryeong Toechi",
   "formal_name": "Deonjyeoseo Ssok! Yuryeong Toechi",
   "description": "Meet Spotto, a plucky duck on a mission. Ill-behaved ghosts have kidnapped Chikkie Wowwow, President Wowwow’s daughter. Spotto, being the world’s foremost Bombirdier, must follow the ghosts to a haunted house and use his trusty bombs to blast the baddies. Take control of Spotto, adjusting his aim with the stylus and trying to toss bombs into the ghosts’ mouths in 50 “explosive” stages. Along the way, you’ll avoid obstacles (or use them to your advantage), find powerful Super Bombs to inflict even more damage, and even encounter a frighteningly large ghost or two. With multiple modes of play and numerous solutions for successfully blasting ghosts to pieces, this is one haunted house worth visiting often…",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-02-15",
   "product_code": "TWL-N-KSPK",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Korea",
-  "genres": [],
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
   "features": [],
   "languages": [
     "en"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
+  "publisher": "Nintendo"
 }

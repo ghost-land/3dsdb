@@ -21,8 +21,10 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options.",
+  "descriptors": [
+    "No Descriptors"
+  ],
   "publisher": "Engine Software",
   "smdh": {
     "flags": [

@@ -4,7 +4,7 @@
   "name": "薄桜鬼 3D",
   "formal_name": "薄桜鬼 3D",
   "description": "「薄桜鬼」でおなじみの桜吹雪や、抜刀時の閃光などのエフェクトが立体的に表現されることによって、今まで以上に、薄桜鬼の世界感を深く味わう事が出来るようになりました。\n<br>また、新規要素として3Dカメラを使って撮影した画像に薄桜鬼オリジナルの3Dフレームを重ねて遊べる「立ち絵ほとがら館」を搭載いたしました。",
-  "release_date_on_eshop": null,
+  "release_date_on_eshop": "2013-11-28",
   "product_code": "CTR-P-AH9J",
   "platform_name": "ニンテンドー3DSカードソフト",
   "region": "Japan",
@@ -23,5 +23,6 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Thunderful Games"
 }

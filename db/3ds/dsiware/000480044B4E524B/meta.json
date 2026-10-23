@@ -1,14 +1,16 @@
 {
   "tid": "000480044B4E524B",
-  "uid": "",
+  "uid": "50010000003284",
   "name": "Jamkkan! Ganpyeon! Dunoe Teureining",
   "formal_name": "Jamkkan! Ganpyeon! Dunoe Teureining",
   "description": "In this math-focused edition of the popular Brain Age series, players can enjoy a mix of new and familiar exercises, including Change Maker, Triangle Math, Sum Totaled, and Multi Tasker. A new Themes mode challenges you in drawing, photography, and voice acting and lets you share your creativity with your friends and family. And if you need a break from things, the always-enjoyable Virus Buster makes its return. Prepare for another round of training your brain in minutes a day!\n\n\n",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2009-08-10",
   "product_code": "TWL-N-KNRK",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Korea",
-  "genres": [],
+  "genres": [
+    "Other"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -16,10 +18,11 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "This game includes some content from \nBrain Age and Brain Age 2 previously released for Nintendo DS.",
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

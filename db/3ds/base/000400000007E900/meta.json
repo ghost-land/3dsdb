@@ -30,6 +30,10 @@
     "age": "16"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Suggestive Themes",
+    "Violence"
+  ],
+  "publisher": "BANDAI NAMCO Entertainment"
 }

@@ -1,15 +1,21 @@
 {
   "tid": "00040000000EC900",
-  "uid": "",
+  "uid": "50010000014077",
   "name": "The Legend of Zelda™: 3D Trailer",
   "formal_name": "The Legend of Zelda™: 3D Trailer",
   "description": "",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2013-04-17",
   "product_code": "CTR-N-SPCP",
-  "platform_name": "",
+  "platform_name": "Downloadable Video",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Adventure",
+    "Video"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -27,7 +33,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": [],
+  "descriptors": [
+    "Visit www.esrb.org for rating information."
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

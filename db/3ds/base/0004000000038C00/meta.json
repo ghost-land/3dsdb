@@ -30,8 +30,11 @@
     "age": "7"
   },
   "version": "v1.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Comic Mischief",
+    "Cartoon Violence"
+  ],
   "publisher": "LucasArts™",
   "smdh": {
     "flags": [

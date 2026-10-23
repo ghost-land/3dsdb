@@ -11,7 +11,9 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +23,10 @@
   },
   "version": "v2.2.0",
   "disclaimer": "ニンテンドー3DSソフト『蒼き雷霆 ガンヴォルト』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Language"
+  ],
   "publisher": "インティ・クリエイツ",
   "smdh": {
     "flags": [

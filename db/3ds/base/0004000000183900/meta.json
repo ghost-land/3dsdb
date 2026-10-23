@@ -25,8 +25,13 @@
     "age": "12"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Enjoy several hours of adventuring that act as a prelude to the main game and allow you to unlock special rewards depending on your progress. Playing the demo will net you play bonuses you can transfer into the full version of the game when it becomes available for purchase on April 15th.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Blood",
+    "Mild Suggestive Themes",
+    "Use of Alcohol"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

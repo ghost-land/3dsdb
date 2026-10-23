@@ -24,8 +24,12 @@
     "age": "12"
   },
   "version": "v0.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:역전재판®4/Apollo Justice™Ace Attorney®\n상호:Capcom Asia Co., Ltd.\n이용등급:12세이용가(폭력성)\n등급분류번호:GC-CC-NV-170630-009\n등급분류 일자:2017.6.30\n제작・배급업신고번호:제 2012-000049\n※ 대응 언어: 영어, 일본어\n※ for sale in Korea only",
+  "descriptors": [
+    "Mild Blood",
+    "Suggestive Themes",
+    "Violent References"
+  ],
   "publisher": "CAPCOM",
   "smdh": {
     "flags": [

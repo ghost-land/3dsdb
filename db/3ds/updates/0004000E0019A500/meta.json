@@ -11,7 +11,11 @@
   "genres": [
     "Update Data"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
   "languages": [
     "en",
     "fr",
@@ -24,8 +28,10 @@
     "age": "3"
   },
   "version": "v1.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Users Interact"
+  ],
   "publisher": "CoderChild",
   "smdh": {
     "flags": [

@@ -27,6 +27,13 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "In-game content available for purchase using stored account funds.",
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Blood",
+    "Mild Language",
+    "Suggestive Themes",
+    "Use of Tobacco"
+  ],
+  "publisher": "SQUARE ENIX"
 }

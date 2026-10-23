@@ -1,23 +1,26 @@
 {
   "tid": "000480044B4A5550",
-  "uid": "",
+  "uid": "50010000005342",
   "name": "10 Second Run - GO Series",
   "formal_name": "10 Second Run - GO Series",
   "description": "「１０秒走」は、誰もが一度は描いたことのある棒人間を主人公に、「走る」「跳ぶ」という２つの動作で１０秒という短い時間内でのゴールを目指す、シンプルなジャンプアクションゲームです。",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-04-28",
   "product_code": "TWL-N-KJUP",
-  "platform_name": "",
+  "platform_name": "ニンテンドーDSiウェア",
   "region": "Europe",
-  "genres": [],
+  "genres": [
+    "アクション"
+  ],
   "features": [],
   "languages": [
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "CERO",
+    "age": "0"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": [],
+  "publisher": "ジー・モード"
 }

@@ -11,7 +11,10 @@
   "genres": [
     "액션"
   ],
-  "features": [],
+  "features": [
+    "Supports StreetPass",
+    "amiibo"
+  ],
   "languages": [
     "ko"
   ],
@@ -21,7 +24,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명:털실 커비 이야기 플러스\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-181005-009\n등급분류 일자:2018.10.05\n제작・배급업신고번호:게배 제2012-10호\n대응언어:한국어\n※ 3D 영상 표시 없음",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

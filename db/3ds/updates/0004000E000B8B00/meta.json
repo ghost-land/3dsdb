@@ -11,7 +11,14 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +28,12 @@
   },
   "version": "v34.34.0",
   "disclaimer": "本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Cartoon Violence",
+    "Comic Mischief",
+    "Suggestive Themes",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

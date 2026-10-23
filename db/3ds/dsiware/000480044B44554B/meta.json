@@ -1,23 +1,26 @@
 {
   "tid": "000480044B44554B",
-  "uid": "",
+  "uid": "50010000005082",
   "name": "Nae Mamdaero Peurinseseu",
   "formal_name": "Nae Mamdaero Peurinseseu",
   "description": "髪型やアクセサリーを好きに組み合わせて人形をつくって楽しめるソフトです。人形をつくったら背景やフレームを選び、そのあとシールやペンでらくがきして、デコレーションをします。自分だけの素敵な人形をつくってください。",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2009-12-16",
   "product_code": "TWL-N-KDUK",
-  "platform_name": "",
+  "platform_name": "ニンテンドーDSiウェア",
   "region": "Korea",
-  "genres": [],
+  "genres": [
+    "シミュレーション"
+  ],
   "features": [],
   "languages": [
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "CERO",
+    "age": "0"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": [],
+  "publisher": "スターフィッシュ･エスディ"
 }

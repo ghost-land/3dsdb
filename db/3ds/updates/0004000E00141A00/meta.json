@@ -11,7 +11,13 @@
   "genres": [
     "更新資料"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "en",
     "zh"
@@ -22,7 +28,12 @@
   },
   "version": "v1.1.0",
   "disclaimer": "此為Nintendo 3DS軟體「MONSTER HUNTER 4G」之更新資料。本檔案下載完成後，「主機設定」的「新增內容」畫面中會顯示本檔案的圖示，並不會顯示於Nintendo 3DS的HOME選單畫面。請注意不要刪除本檔案。",
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Crude Humor",
+    "Fantasy Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "CAPCOM",
   "smdh": {
     "flags": [

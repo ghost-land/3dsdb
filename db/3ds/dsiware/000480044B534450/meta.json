@@ -1,23 +1,28 @@
 {
   "tid": "000480044B534450",
-  "uid": "",
+  "uid": "50010000003648",
   "name": "Dark Spirits - GO Series",
   "formal_name": "Dark Spirits - GO Series",
   "description": "Use your familiars to shoot down the enemy!\n\nDestroy the enemy by making use of the four familiars that fly in formation around the player vessel in this side-scrolling shooting game. Quickly switch the formation pattern of your familiars with the touch of a button. When you destroy an enemy, its soul becomes available to collect. Collect the soul with one of your familiars to upgrade its attack or switch it to a different attack type. The familiar's attack can be upgraded by collecting multiple souls of the same color in a row. The four familiars power up and change independently of each other, making for a game of strategy as you plan how to use each one effectively.",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2011-02-07",
   "product_code": "TWL-N-KSDP",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Europe",
-  "genres": [],
+  "genres": [
+    "Shooter"
+  ],
   "features": [],
   "languages": [
     "en"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
+  "publisher": "Goodvision Corporation"
 }

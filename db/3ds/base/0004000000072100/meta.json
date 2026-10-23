@@ -1,15 +1,21 @@
 {
   "tid": "0004000000072100",
-  "uid": "",
+  "uid": "50010000007439",
   "name": "Super Black Bass 3D",
   "formal_name": "Super Black Bass 3D",
-  "description": "",
+  "description": "『スーパーブラックバス』シリーズ最新作。ニンテンドー3DS本体を傾けて操作する「リアルロッドシステム」の搭載により、実際に釣りをしているような迫力あるバトルが楽しめる。ゲームは大会で優勝を目指す「トーナメントモード」と、時間・天候等を自由に設定し自由にフィッシングを楽しむ「フリーモード」の2つ。また、釣り上げたバスの大きさや、大会成績を競う「インターネットランキング」に対応しており、世界中のプレイヤーと競い合うことができる。",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-ASBP",
-  "platform_name": "",
+  "platform_name": "ニンテンドー3DSカードソフト",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "シミュレーション"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",

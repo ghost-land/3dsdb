@@ -24,7 +24,13 @@
   },
   "version": "v0.2.0",
   "disclaimer": "ソフトの内容は2012年7月5日発売のパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Blood",
+    "Mild Fantasy Violence",
+    "Mild Language",
+    "Mild Suggestive Themes",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "インデックス",
   "smdh": {
     "flags": [

@@ -24,8 +24,14 @@
     "age": "15"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Strong Language",
+    "Violence",
+    "Blood",
+    "Drug Reference",
+    "Sexual Themes"
+  ],
   "publisher": "Ubisoft",
   "smdh": {
     "flags": [

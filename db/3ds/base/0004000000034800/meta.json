@@ -24,6 +24,12 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Alcohol Reference",
+    "Mild Suggestive Themes",
+    "Mild Violence",
+    "Use of Tobacco"
+  ],
+  "publisher": "KONAMI"
 }

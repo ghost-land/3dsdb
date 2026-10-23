@@ -24,7 +24,9 @@
   },
   "version": "v14.6.0",
   "disclaimer": "This is update data for StreetPass Mii Plaza for Nintendo 3DS.<br>\nNo icon will be displayed in the Nintendo 3DS system's HOME Menu after downloading this data.<br>\nThis data will be listed in the Nintendo 3DS Extra Data under Data Management in System Settings. Please do not delete it.",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

@@ -12,7 +12,10 @@
     "アクション",
     "シューティング"
   ],
-  "features": [],
+  "features": [
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
   "languages": [
     "ja"
   ],
@@ -22,7 +25,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "No Descriptors"
+  ],
   "publisher": "Rainy Frog",
   "smdh": {
     "flags": [

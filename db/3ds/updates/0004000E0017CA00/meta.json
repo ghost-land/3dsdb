@@ -11,7 +11,10 @@
   "genres": [
     "Update Data"
   ],
-  "features": [],
+  "features": [
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
   "languages": [
     "en",
     "fr",
@@ -27,8 +30,10 @@
     "age": "7"
   },
   "version": "v9.11.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence"
+  ],
   "publisher": "Mojang AB",
   "smdh": {
     "flags": [

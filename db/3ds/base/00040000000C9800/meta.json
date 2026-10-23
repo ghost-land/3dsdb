@@ -1,15 +1,22 @@
 {
   "tid": "00040000000C9800",
-  "uid": "",
+  "uid": "50010000009726",
   "name": "ゾンビスレイヤー",
   "formal_name": "ゾンビスレイヤー",
   "description": "Zombie Slayer Diox™ is a rhythm-action game with a side-scrolling twist! You are put into the jeans and leather boots of a samurai guitarist in the year 20xx. Zombies have taken over most major cities in the world and our hero, Diox, is on a quest to put an end to the undead. Diox lures the zombies with his sweet songs and sick guitar solos, and he cuts them down with his mighty katana when they get close. There is a rumor that deep within zombie territory, a super guitar amp exists that can be used to kill thousands of zombies at once with the strum of a simple power chord...",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2012-03-22",
   "product_code": "CTR-N-JZSJ",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Download Only",
   "region": "Japan",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Arcade",
+    "Other",
+    "Music"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,8 +33,11 @@
     "age": "15"
   },
   "version": "v0.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Blood",
+    "Violence"
+  ],
   "publisher": "CyberFront Corporation",
   "smdh": {
     "flags": [

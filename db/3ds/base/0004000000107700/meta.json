@@ -27,7 +27,10 @@
   },
   "version": "v1.1.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Blood"
+  ],
   "publisher": "Nnooo",
   "smdh": {
     "flags": [

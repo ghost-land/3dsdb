@@ -25,7 +25,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nTo have acces to Rytmik Cloud you must agree to the software license agreement.",
-  "descriptors": [],
+  "descriptors": [
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Cinemax",
   "smdh": {
     "flags": [

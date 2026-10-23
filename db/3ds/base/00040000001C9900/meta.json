@@ -11,7 +11,10 @@
   "genres": [
     "パズル"
   ],
-  "features": [],
+  "features": [
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +24,9 @@
   },
   "version": "v0.2.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Digital Purchases"
+  ],
   "publisher": "Rainy Frog",
   "smdh": {
     "flags": [

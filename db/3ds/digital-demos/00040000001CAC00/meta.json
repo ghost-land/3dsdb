@@ -29,7 +29,10 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "*Additional games and systems required for multiplayer mode. Sold separately.\n<br>\n<br>Game in 2D.\n<br><br>\nYou may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Nintendo"
 }

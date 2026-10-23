@@ -24,6 +24,9 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "This game includes some content from \nBrain Challenge previously released for Nintendo DS.",
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
+  "publisher": "Gameloft"
 }

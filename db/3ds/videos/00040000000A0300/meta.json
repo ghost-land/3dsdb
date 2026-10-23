@@ -26,7 +26,10 @@
   },
   "version": "v0.0.0",
   "disclaimer": "ソフトの内容は2011年12月1日発売のパッケージ版(価格:5,184円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Alcohol Reference",
+    "Comic Mischief"
+  ],
   "publisher": "MarvelousAQL",
   "smdh": {
     "flags": [

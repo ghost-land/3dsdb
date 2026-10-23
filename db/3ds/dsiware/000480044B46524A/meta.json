@@ -1,15 +1,20 @@
 {
   "tid": "000480044B46524A",
-  "uid": "",
+  "uid": "50010000003643",
   "name": "フェラーリGT:エボリューション",
   "formal_name": "フェラーリGT:エボリューション",
   "description": "Join the elite circle of Ferrari car\nowners and take part in exclusive\nraces around the globe.<br>\n<br>\nChoose from 32 car models including\nthe Ferrari California, F430, Enzo\nFerrari, Testarossa and 250 GTO, and\nexperience each one’s unique driving\nsensation. Streak across 7 cities and\n1 circuit in a racing simulation that\ntests your speed and control.<br>\n<br>\nTake on challenges from other Ferrari\ndrivers or play against your friends in\nmultiplayer mode, plotting your own\ncourse to the finish line to win.",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2013-04-10",
   "product_code": "TWL-N-KFRJ",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Japan",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Racing",
+    "Sports"
+  ],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
   "languages": [
     "en",
     "fr",
@@ -18,10 +23,11 @@
     "nl"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Gameloft"
 }

@@ -20,10 +20,11 @@
     "it"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

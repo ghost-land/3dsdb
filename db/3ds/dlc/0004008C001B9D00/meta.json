@@ -13,7 +13,10 @@
     "Simulation",
     "Other"
   ],
-  "features": [],
+  "features": [
+    "Supports Internet Play",
+    "Nintendo Network"
+  ],
   "languages": [
     "en",
     "fr",

@@ -26,7 +26,10 @@
   },
   "version": "v0.1.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Mild Suggestive Themes"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

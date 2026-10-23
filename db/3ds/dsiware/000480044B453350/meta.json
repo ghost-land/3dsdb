@@ -12,7 +12,11 @@
     "Jeu de plateau",
     "Stratégie"
   ],
-  "features": [],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play",
+    "Supports Online Play"
+  ],
   "languages": [
     "en"
   ],
@@ -22,5 +26,6 @@
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

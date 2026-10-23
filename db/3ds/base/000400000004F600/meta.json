@@ -1,15 +1,21 @@
 {
   "tid": "000400000004F600",
-  "uid": "",
+  "uid": "50010000011447",
   "name": "NCIS 3D",
   "formal_name": "NCIS 3D",
   "description": "The world of the NCIS TV show is now in the palm of your hand. Specifically designed for Nintendo 3DS™, NCIS The Video Game (Based on the TV Series) takes the action from the hit CBS show to new depths by letting you join forces with the cast and immersing you in your own NCIS adventure in 3D!\n<br><br>\nJoin Agent Gibbs’ team as the new “probie,” and partner with the cast of your favorite TV show. Work together on the crime scene, help each other during tough suspect interrogations, and have each other’s back in tense firefights.",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-ANCP",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Retail Only",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Adventure",
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "en",
     "fr",
@@ -23,7 +29,13 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Mild Language",
+    "Suggestive Themes",
+    "Use of Alcohol",
+    "Violence"
+  ],
   "publisher": "Ubisoft",
   "smdh": {
     "flags": [

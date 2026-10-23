@@ -24,7 +24,12 @@
   },
   "version": "v0.2.0",
   "disclaimer": "Game supports English text and Japanese voice.",
-  "descriptors": [],
+  "descriptors": [
+    "Language",
+    "Partial Nudity",
+    "Sexual Themes",
+    "Violence"
+  ],
   "publisher": "SEGA",
   "smdh": {
     "flags": [

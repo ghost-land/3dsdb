@@ -11,7 +11,9 @@
   "genres": [
     "Platformer"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "en"
   ],
@@ -20,8 +22,10 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "No Descriptors"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

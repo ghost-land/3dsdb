@@ -26,7 +26,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:BRAVELY SECOND\n상호:한국닌텐도(주)\n이용등급:12세 이용가\n등급분류번호:GC-CC-NV-151120-002\n등급분류 일자:2015.11.20\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어 \n  음성: 일본어, 영어\n  자막: 한국어 외 6개 국어",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Blood",
+    "Mild Suggestive Themes",
+    "Use of Alcohol"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

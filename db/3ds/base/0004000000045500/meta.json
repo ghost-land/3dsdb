@@ -1,15 +1,19 @@
 {
   "tid": "0004000000045500",
-  "uid": "",
+  "uid": "50010000000099",
   "name": "NARUTO SHIPPUDEN 3D The New ERA",
   "formal_name": "NARUTO SHIPPUDEN 3D The New ERA",
   "description": "",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-ANTP",
-  "platform_name": "",
+  "platform_name": "ニンテンドー3DSカードソフト",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応"
+  ],
   "languages": [
     "en",
     "fr",

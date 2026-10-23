@@ -11,7 +11,12 @@
   "genres": [
     "Other"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Mii",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -28,7 +33,7 @@
     "age": "3"
   },
   "version": "v5.1.0",
-  "disclaimer": null,
+  "disclaimer": "ニンテンドー3DSソフト『バッジとれ～るセンター』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

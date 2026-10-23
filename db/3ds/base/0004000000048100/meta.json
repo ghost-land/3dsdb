@@ -27,7 +27,11 @@
   },
   "version": "v0.3.0",
   "disclaimer": "ソフトの内容は2011年12月10日発売のパッケージ版(価格:5,800円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長い時間を要する場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Crude Humor",
+    "Fantasy Violence"
+  ],
   "publisher": "CAPCOM",
   "smdh": {
     "flags": [

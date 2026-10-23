@@ -1,14 +1,18 @@
 {
   "tid": "000480044B5A464A",
-  "uid": "",
+  "uid": "50010000004770",
   "name": "どうぶつえんをつくろう",
   "formal_name": "どうぶつえんをつくろう",
   "description": "Create the zoo of your dreams and try to maximize your profit by managing tons of parameters! Enjoy five fun mini-games to train and support your Animals: feed them, heal them and even play soccer or hockey themed games with them! Your best trained pets will go back into the wild to fight dangerous monsters and find new cute animals for your zoo! Enjoy use of the microphone and inner camera: wake up the hero by shouting at him and see yourself in the game!(Content available in English, French, and Spanish.)",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-03-15",
   "product_code": "TWL-N-KZFJ",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Japan",
-  "genres": [],
+  "genres": [
+    "Puzzle",
+    "Simulation",
+    "Strategy"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -16,10 +20,13 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
+  "publisher": "Gameloft"
 }

@@ -29,7 +29,10 @@
   },
   "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Language"
+  ],
   "publisher": "LEVEL-5 IA",
   "smdh": {
     "flags": [

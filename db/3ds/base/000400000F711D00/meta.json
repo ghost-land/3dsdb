@@ -25,7 +25,10 @@
   },
   "version": "v0.2.0",
   "disclaimer": "Game contains loud noises and jump-scares.<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Violence"
+  ],
   "publisher": "In-D Gaming",
   "smdh": {
     "flags": [

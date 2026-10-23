@@ -12,7 +12,9 @@
     "Données de mise à jour",
     "Autre"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -30,7 +32,9 @@
   },
   "version": "v1.1.0",
   "disclaimer": "Mise à jour pour la version française.",
-  "descriptors": [],
+  "descriptors": [
+    "Cartoon Violence"
+  ],
   "publisher": "WB Games Inc.",
   "smdh": {
     "flags": [

@@ -1,23 +1,31 @@
 {
   "tid": "000480044B425A4B",
-  "uid": "",
+  "uid": "50010000001642",
   "name": "Beulleibeullu - Baeteul x Baeteul",
   "formal_name": "Beulleibeullu - Baeteul x Baeteul",
   "description": "Blayzbloo: Super Melee Action Battle Royale takes Ragna, Rachel, Jin, Noel, and Taokaka and pits them against one another in five stages of rumble and tumble brawling action to see who is the best around. There is also Free Battle mode to play to your heart's content. You can use items in battle as well, to pummel your opponent into oblivion. Drive attacks and special moves are also at your disposal, so use them when you can to finish your opponents off!\n\nDo you have what it takes to come out on top and become the best Blayzbloo brawler?\n",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-08-02",
   "product_code": "TWL-N-KBZK",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Korea",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "features": [
+    "DSワイヤレスプレイ対応"
+  ],
   "languages": [
     "en"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "10"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Cartoon Violence"
+  ],
+  "publisher": "Aksys Games"
 }

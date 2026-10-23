@@ -1,14 +1,17 @@
 {
   "tid": "000480044B434D4A",
-  "uid": "",
+  "uid": "50010000001741",
   "name": "チビしょうねんの まほうだいぼうけん",
   "formal_name": "チビしょうねんの まほうだいぼうけん",
   "description": "Be prepared for anything as you try to save your friend from the clutches of the horrifying magician Nefastax! Stand up to the wildest monsters in environments that directly influence your movement. As you navigate this universe, the ground will make you stick, slide, sink, swim, levitate, and even walk on the ceiling when gravity disappears! Never before seen use for the Nintendo DSi Camera: Transform yourself into new powerful forms! Visit a Photo Cabin in the game and search for an object in real life that matches the color of the character you want to transform into. Take a picture of a blue object with your Nintendo DSi system and presto! You’re transformed into a swordfish! Plus, you can customize game items, from coins to enemies, with pictures of your choice! Our cute hero’s adventure is just too big and immersive for one screen! So he’ll have to jump between the top and bottom screens of your Nintendo DSi system. Ready to dive into the adventure of Castle of Magic?\n",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2009-11-23",
   "product_code": "TWL-N-KCMJ",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Japan",
-  "genres": [],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -16,10 +19,13 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
+  "publisher": "Gameloft"
 }

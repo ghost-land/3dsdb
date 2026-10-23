@@ -11,7 +11,12 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +26,9 @@
   },
   "version": "v1.2.0",
   "disclaimer": "ニンテンドー3DSソフト『ポケモン超不思議のダンジョン』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

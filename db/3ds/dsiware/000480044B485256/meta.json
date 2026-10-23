@@ -27,6 +27,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": [],
+  "publisher": "505 Games"
 }

@@ -11,7 +11,10 @@
   "genres": [
     "액션"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals",
+    "amiibo"
+  ],
   "languages": [
     "ja",
     "en",
@@ -23,7 +26,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "※ 안전을 위한 주의사항\n<br>본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n<br>여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n<br>또한 본체의 사용설명서도 함께 읽어 주십시오. \n<br>\n<br>제명:Mega Man® Legacy Collection\n<br>상호:Capcom Asia Co., Ltd.\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-151023-003\n<br>등급분류 일자:2015.10.23\n<br>제작・배급업신고번호:제 2012-000049호\n<br>※ 대응 언어:영어\n<br>※ for sale in Korea only",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
   "publisher": "Capcom",
   "smdh": {
     "flags": [

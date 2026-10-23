@@ -12,7 +12,9 @@
     "パズル",
     "テーブル"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja"
   ],
@@ -22,5 +24,6 @@
   },
   "version": "",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "テヨンジャパン"
 }

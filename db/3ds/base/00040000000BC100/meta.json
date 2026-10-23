@@ -24,8 +24,12 @@
     "age": "12"
   },
   "version": "v0.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Blood",
+    "Violence",
+    "Suggestive Themes"
+  ],
   "publisher": "Level-5 IA",
   "smdh": {
     "flags": [

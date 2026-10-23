@@ -11,7 +11,9 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "amiibo"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +23,10 @@
   },
   "version": "v6.9.0",
   "disclaimer": "Newニンテンドー3DSソフト『ファイアーエムブレム無双』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Suggestive Themes",
+    "Violence"
+  ],
   "publisher": "TECMO KOEI GAMES",
   "smdh": {
     "flags": [

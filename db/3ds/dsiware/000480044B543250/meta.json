@@ -1,23 +1,26 @@
 {
   "tid": "000480044B543250",
-  "uid": "",
+  "uid": "50010000003807",
   "name": "Let's Swing - GO Series",
   "formal_name": "Let's Swing - GO Series",
   "description": "Swing, jump, and spin in this gymnastics action game!\n\nThis is a new type of action game that will have you swinging and jumping from bar to bar, just like the parallel bars in gymnastics. The controls are simple. Grab onto a bar, add momentum to your swing by pressing left or right on the +Control Pad, and then jump and spin to the next bar by pressing the A Button. Gauge the force of your swings and the timing of your jumps just right to cross the course in the fastest time possible. Do you have what it takes to be a star gymnast?",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2011-03-07",
   "product_code": "TWL-N-KT2P",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Europe",
-  "genres": [],
+  "genres": [
+    "Action"
+  ],
   "features": [],
   "languages": [
     "en"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Goodvision Corporation"
 }

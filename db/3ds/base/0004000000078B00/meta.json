@@ -26,7 +26,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。\n<br>ダウンロード版には更新データが含まれていません。ソフトとは別に、『更新データ ver.1.1 レイトン教授VS逆転裁判』をダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Blood",
+    "Mild Suggestive Themes",
+    "Mild Violence",
+    "Use of Alcohol"
+  ],
   "publisher": "Level-5 Inc.",
   "smdh": {
     "flags": [

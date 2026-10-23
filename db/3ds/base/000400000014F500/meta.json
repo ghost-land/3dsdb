@@ -11,7 +11,9 @@
   "genres": [
     "Music"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play"
+  ],
   "languages": [
     "en"
   ],
@@ -21,7 +23,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "To have acces to Rytmik Cloud you\nmust agree to the software license\nagreement.",
-  "descriptors": [],
+  "descriptors": [
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Cinemax",
   "smdh": {
     "flags": [

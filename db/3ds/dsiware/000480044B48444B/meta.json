@@ -1,23 +1,28 @@
 {
   "tid": "000480044B48444B",
-  "uid": "",
+  "uid": "50010000005265",
   "name": "Nae Mamdaero Seutikeosajin - Syabangsyabang Reobeulli Poto",
   "formal_name": "Nae Mamdaero Seutikeosajin - Syabangsyabang Reobeulli Poto",
   "description": "『いつでもプリクラ☆キラデコプレミアム』は、ニンテンドーDSiでいつでもどこでも遊べる写真デコレーションソフトです。\n\n☆DSiでいつでもプリクラ\n\nフレームと人ウラ（背景）を選んだら、DSiのカメラに向かってポーズを決めて撮影します。\nフレームや人ウラは可愛いデザインからおもしろデザインまでさまざま。\n撮ったプリクラはペンやスタンプなどでラクガキして、自分だけのオリジナルの「プリ」の完成です。\nペンやスタンプ以外にもヘアチェンジやスプレーなどのツールがいっぱい。\n撮ったその場でラクガキができるだけでなく、あとからラクガキを付け加えることも可能です。\n\n☆「myプリ帳」にコレクション\n\nつくった「プリ」は「myプリ帳」に保存されます。\nお気に入り登録もできるので、たくさんのコレクションの中から気に入ったプリクラを簡単にさがすこともできます。\n\nワイヤレス通信を使って友だちと交換することも可能。最大3台のDSiに一度に送ることができます。\nお手元のSDメモリーカードを使えば、携帯電話やパソコンで見たり、プリンターなどでプリントすることもできます。\n\n※「プリクラ(R)」は株式会社アトラスの登録商標です。",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2009-04-22",
   "product_code": "TWL-N-KHDK",
-  "platform_name": "",
+  "platform_name": "ニンテンドーDSiウェア",
   "region": "Korea",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "その他"
+  ],
+  "features": [
+    "DSワイヤレスプレイ対応"
+  ],
   "languages": [
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "CERO",
+    "age": "0"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": [],
+  "publisher": "任天堂"
 }

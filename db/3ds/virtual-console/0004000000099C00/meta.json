@@ -13,7 +13,9 @@
     "Simulation",
     "Other"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "en"
   ],

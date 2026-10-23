@@ -26,7 +26,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "●amiiboについて\n<br>・本ソフトをプレイするにはamiibo（別売）が必要です。\n<br>・ニンテンドー3DS/3DS LLでamiiboを使用するには、別売の周辺機器「ニンテンドー3DS NFCリーダー/ライター」が必要です。\n<br>・amiiboとニンテンドー3DS NFCリーダー/ライターについて、くわしくは任天堂ホームページをご確認ください。\n<br>\n<br>●Wii U版と3DS版は同じステージを収録しており、遊びかたも同様です。\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

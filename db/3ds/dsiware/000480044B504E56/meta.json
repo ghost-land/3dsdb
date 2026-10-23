@@ -20,6 +20,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "This game includes some content from \nPlanet Puzzle League previously released for Nintendo DS.",
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

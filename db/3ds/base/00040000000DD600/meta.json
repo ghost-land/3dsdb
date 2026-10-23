@@ -1,15 +1,20 @@
 {
   "tid": "00040000000DD600",
-  "uid": "",
+  "uid": "50010000017460",
   "name": "Disney Infinity",
   "formal_name": "Disney Infinity",
-  "description": "",
+  "description": "■ディズニーインフィニティとは・・\n<br>キャラクターフィギュアを専用リーダー（ディズニーインフィニティ･ベース）で読み取ることにより、\n<br>各作品の世界観や無限のイマジネーションの世界で自由に遊べる新しいゲームです。\n<br>■3DS版・・・\n<br>3DS版ではストーリーに沿ったボードゲームが楽しめます。\n<br>3人のキャラクターでチームを結成!4チームがサイコロをふってボードの中を移動し、様々なミニゲームをクリアしながら勝利を目指すゲームです。バリエーション豊かなミニゲームは50種類以上。キャラクターはプレイするごとにレベルアップしていくので、最強のチームを作り上げよう!",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-ADYZ",
-  "platform_name": "",
+  "platform_name": "ニンテンドー3DSカードソフト",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "アクション"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +31,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "ローカルプレイは2人まで",
   "descriptors": [],
   "publisher": "Disney Interactive",
   "smdh": {

@@ -23,10 +23,13 @@
     "it"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "No Descriptors"
+  ],
+  "publisher": "SoftEgg"
 }

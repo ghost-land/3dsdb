@@ -1,15 +1,22 @@
 {
   "tid": "000400000011C100",
-  "uid": "",
+  "uid": "50010000015213",
   "name": "Chat-A-Lot",
   "formal_name": "Chat-A-Lot",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "2019年12月1日(日)0時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>最大10人で遊べるチャットと最大4人で同時にお話しできる通話機能があります。",
+  "release_date_on_eshop": "2013-07-24",
   "product_code": "CTR-N-JCTP",
-  "platform_name": "",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "コミュニケーション",
+    "実用"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",

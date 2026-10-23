@@ -27,6 +27,12 @@
     "age": "12"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.\n<br>\n<br>In-game content available for purchase using stored account funds.\n<br>\n<br>Wireless broadband Internet access required for online play. For more info, go to support.nintendo.com.",
+  "descriptors": [
+    "Language",
+    "Online Interactions Not Rated by the ESRB",
+    "Suggestive Themes",
+    "Violence"
+  ],
+  "publisher": "KOEI TECMO GAMES"
 }

@@ -11,7 +11,11 @@
   "genres": [
     "その他"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Online Play Only",
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja"
   ],

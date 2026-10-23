@@ -1,14 +1,17 @@
 {
   "tid": "000480044B414D4B",
-  "uid": "",
+  "uid": "50010000001022",
   "name": "Jong-Ibihaeng-Gi",
   "formal_name": "Jong-Ibihaeng-Gi",
   "description": "In Paper Airplane Chase, glide your virtual paper plane through an increasingly tricky slalom course. Take it slow in Endless mode or zip through several Time Attack courses. The two-player Race mode allows friends to race each other using a single Nintendo DSi system.\n\n(Content available in English, French, and Spanish.)",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2009-04-27",
   "product_code": "TWL-N-KAMK",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Korea",
-  "genres": [],
+  "genres": [
+    "Action",
+    "Multiplayer"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -16,10 +19,11 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "This game content was previously released as part of WarioWare, Inc.: Mega Microgame$ for Game Boy Advance.",
+  "descriptors": [],
+  "publisher": "Nintendo"
 }

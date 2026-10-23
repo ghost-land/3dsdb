@@ -12,7 +12,9 @@
     "Action",
     "Adventure"
   ],
-  "features": [],
+  "features": [
+    "New 3DS対応"
+  ],
   "languages": [
     "en"
   ],
@@ -21,8 +23,10 @@
     "age": "7"
   },
   "version": "v0.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

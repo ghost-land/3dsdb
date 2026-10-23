@@ -11,7 +11,9 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +23,11 @@
   },
   "version": "v1.1.0",
   "disclaimer": "ニンテンドー3DSソフト『タイムアベンジャー』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Language",
+    "Mild Suggestive Themes"
+  ],
   "publisher": "ARC SYSTEM WORKS",
   "smdh": {
     "flags": [

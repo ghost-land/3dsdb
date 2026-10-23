@@ -37,8 +37,11 @@
     "age": "3"
   },
   "version": "v2.4.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or <br>\n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Comic Mischief",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

@@ -11,7 +11,10 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Enhanced for New 3DS",
+    "Circle Pad Pro"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +24,9 @@
   },
   "version": "v9.13.0",
   "disclaimer": "Newニンテンドー3DSソフト『Minecraft: New Nintendo 3DS Edition』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence"
+  ],
   "publisher": "Mojang AB",
   "smdh": {
     "flags": [

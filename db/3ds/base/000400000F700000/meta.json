@@ -25,7 +25,13 @@
   },
   "version": "v2.2.0",
   "disclaimer": "本ソフトはニンテンドー3DS/3DS LLでは使用できません。 Newニンテンドー3DS/3DS LL専用です。",
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Mild Language",
+    "Partial Nudity",
+    "Use of Alcohol and Tobacco",
+    "Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

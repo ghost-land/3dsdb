@@ -14,7 +14,9 @@
     "Platformer",
     "Shooter"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "en",
     "fr",
@@ -27,8 +29,11 @@
     "age": "12"
   },
   "version": "v1.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Suggestive Themes"
+  ],
   "publisher": "WayForward",
   "smdh": {
     "flags": [

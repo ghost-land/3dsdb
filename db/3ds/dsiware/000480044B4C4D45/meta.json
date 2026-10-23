@@ -14,7 +14,9 @@
     "Arcade",
     "Strategy"
   ],
-  "features": [],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
   "languages": [
     "en",
     "fr",
@@ -26,5 +28,6 @@
   },
   "version": "v0.6.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "EnjoyUp Games"
 }

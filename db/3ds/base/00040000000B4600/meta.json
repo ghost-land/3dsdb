@@ -1,15 +1,19 @@
 {
   "tid": "00040000000B4600",
-  "uid": "",
+  "uid": "50010000021333",
   "name": "いっしょにフォト スーパーマリオ",
   "formal_name": "いっしょにフォト スーパーマリオ",
   "description": "Have fun with your favorite Mushroom Kingdom characters!\n<br><br>\nUse this free application to view the AR character card included with the\n“Photos with Mario” series of $10 Nintendo eShop Cards. Watch as they leap to life on your system’s screen! Place different cards in one frame to see characters interact in fun ways. Move characters around to capture unexpected scenes, save the photos to your SD card, and share them with friends.\n<br><br>\nFind the Photos with Mario series of\n$10 Nintendo eShop Cards at select retailers. Choose from Mario™, Peach™, Goomba, Bowser™, Koopa Troopa, or  Luigi™* versions—or collect all six.\n<br><br>\nLearn more at\nNintendo.com/PhotosWithMario\n<br><br>\n*Bowser, Koopa Troopa, and Luigi cards coming this fall to select retailers.",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2014-05-28",
   "product_code": "CTR-N-NACJ",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Download Only",
   "region": "Japan",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Other"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en"
@@ -19,7 +23,7 @@
     "age": "A"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "For use with Mario™, Peach™ Goomba, Bowser™, Koopa Troopa, or  Luigi™* cards found in special-edition Nintendo eShop Cards.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

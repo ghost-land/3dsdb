@@ -23,7 +23,10 @@
   },
   "version": "v2.2.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Use of Alcohol"
+  ],
   "publisher": "ARC SYSTEM WORKS",
   "smdh": {
     "flags": [

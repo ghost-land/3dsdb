@@ -11,7 +11,11 @@
   "genres": [
     "Other"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
   "languages": [
     "ja",
     "en",
@@ -28,8 +32,10 @@
     "age": "12"
   },
   "version": "v1.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Cartoon Violence"
+  ],
   "publisher": "BNEE",
   "smdh": {
     "flags": [

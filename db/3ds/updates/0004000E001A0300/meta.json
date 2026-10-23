@@ -11,7 +11,12 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +26,9 @@
   },
   "version": "v8.9.0",
   "disclaimer": "ニンテンドー3DSソフト『スーパーマリオメーカー for ニンテンドー3DS』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Comic Mischief"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

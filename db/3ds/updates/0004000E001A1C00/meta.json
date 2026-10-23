@@ -11,7 +11,13 @@
   "genres": [
     "Update Data"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -30,7 +36,7 @@
     "age": "3"
   },
   "version": "v1.1.0",
-  "disclaimer": null,
+  "disclaimer": "ニンテンドー3DSソフト『プチコン3号 SmileBASIC』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
   "descriptors": [],
   "publisher": "SmileBoom",
   "smdh": {

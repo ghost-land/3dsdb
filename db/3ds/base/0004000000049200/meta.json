@@ -30,7 +30,10 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": [],
+  "descriptors": [
+    "Cartoon Violence",
+    "Comic Mischief"
+  ],
   "publisher": "WB Games Inc.",
   "smdh": {
     "flags": [

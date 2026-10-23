@@ -1,14 +1,18 @@
 {
   "tid": "000400000016F400",
-  "uid": "",
+  "uid": "50010000024638",
   "name": "Unholy Heights",
   "formal_name": "Unholy Heights",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "インディーズゲームでおなじみの『メゾン･ド･魔王』が、ついにニンテンドー3DSに登場!!\n<br>\n<br>『メゾン･ド･魔王』はアパートの管理人である魔王となって、モンスターたちを住民として受け入れマンションを運営しながら、クエストで襲い掛かってくる勇者たちを撃退するゲームです。\n<br>\n<br>はじめての人も大丈夫!\n<br>親切なチュートリアルがあります。\n<br>\n<br>自分だけのアパート経営で世界征服を目指しましょう!",
+  "release_date_on_eshop": "2014-08-06",
   "product_code": "CTR-N-JWEE",
-  "platform_name": "",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
   "region": "North America",
-  "genres": [],
+  "genres": [
+    "シミュレーション",
+    "アクション",
+    "ロールプレイング"
+  ],
   "features": [],
   "languages": [
     "ja",
@@ -26,7 +30,7 @@
     "age": "M"
   },
   "version": "v0.1.0",
-  "disclaimer": null,
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
   "descriptors": [],
   "publisher": "Bergsala Lightweight LLC",
   "smdh": {

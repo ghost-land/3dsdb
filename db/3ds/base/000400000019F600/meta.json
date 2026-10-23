@@ -26,7 +26,9 @@
   },
   "version": "v0.2.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

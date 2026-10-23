@@ -11,7 +11,14 @@
   "genres": [
     "Update Data"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network",
+    "Circle Pad Pro"
+  ],
   "languages": [
     "ja",
     "en",
@@ -28,8 +35,13 @@
     "age": "3"
   },
   "version": "v1.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "ニンテンドー3DSソフト『牧場物語 ３つの里の大切な友だち』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": [
+    "Comic Mischief",
+    "Online Interactions Not Rated by the ESRB",
+    "Suggestive Themes",
+    "Use of Alcohol"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

@@ -25,7 +25,10 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Blood"
+  ],
   "publisher": "Flyhigh Works",
   "smdh": {
     "flags": [

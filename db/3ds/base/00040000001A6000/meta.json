@@ -31,8 +31,10 @@
     "age": "3"
   },
   "version": "v0.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "* Additional games and systems required for multiplayer mode. Sold separately.",
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

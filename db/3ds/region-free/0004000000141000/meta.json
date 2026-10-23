@@ -29,7 +29,10 @@
   },
   "version": "v5.6.0",
   "disclaimer": "Offers in-game purchases.",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Comic Mischief"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

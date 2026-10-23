@@ -11,7 +11,9 @@
   "genres": [
     "Action"
   ],
-  "features": [],
+  "features": [
+    "Supports Download Play"
+  ],
   "languages": [
     "en"
   ],
@@ -21,7 +23,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence"
+  ],
   "publisher": "KONAMI",
   "smdh": {
     "flags": [

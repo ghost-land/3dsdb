@@ -32,7 +32,10 @@
   },
   "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nYou can try online co-op play at the specific times below:\n10/30: 3 p.m. - 5 p.m. PT\n10/31: 3 p.m. - 5 p.m. PT\n11/1: 3 p.m. - 5 p.m. PT\n",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

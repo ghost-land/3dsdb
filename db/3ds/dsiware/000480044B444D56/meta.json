@@ -12,7 +12,10 @@
     "Action",
     "Puzzle"
   ],
-  "features": [],
+  "features": [
+    "WIFI",
+    "ネットワーク対応"
+  ],
   "languages": [
     "en"
   ],
@@ -21,6 +24,9 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "This game includes some content from \nMario vs. Donkey Kong 2: March of the Minis previously released for Nintendo DS.\n\nPlease note that the public level upload service may be discontinued without prior notice. You may continue to share levels with your friends and download public levels that were previously uploaded.\n\nAs of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.\n",
+  "descriptors": [
+    "Comic Mischief"
+  ],
+  "publisher": "Nintendo"
 }

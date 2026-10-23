@@ -1,14 +1,18 @@
 {
   "tid": "000480044B434F4A",
-  "uid": "",
+  "uid": "50010000001422",
   "name": "モンスタークロニクル",
   "formal_name": "モンスタークロニクル",
   "description": "There are two kinds of people in this world: those who can see monsters—called Neo-Seeds—and those who can’t. Neo-Seeds wield extraordinary power and battle using tamed monsters in grand tournaments. \n\nAs a Neo-Seed who has just discovered his ability, it's your time to set off on an amazing journey to collect over 160 monsters and become the greatest Monster Breeder! Explore a vast world, meet new friends and rivals, and engage in dynamic battles that require skill and strategy to win! Master the 9 elemental types, train your monsters through battle, teach them new moves, use team attacks and fuse them together to unlock their true potential. You can even customize 3 of your favorite monsters by putting a friend’s face on them using the inner camera.\n\n",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-07-26",
   "product_code": "TWL-N-KCOJ",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Japan",
-  "genres": [],
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Simulation"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -16,10 +20,13 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
+  "publisher": "Gameloft"
 }

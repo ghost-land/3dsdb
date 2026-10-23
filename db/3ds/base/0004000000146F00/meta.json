@@ -12,7 +12,9 @@
     "アクション",
     "シューティング"
   ],
-  "features": [],
+  "features": [
+    "Nintendo Network"
+  ],
   "languages": [
     "ja"
   ],
@@ -22,7 +24,9 @@
   },
   "version": "v1.1.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
   "publisher": "インティ・クリエイツ",
   "smdh": {
     "flags": [

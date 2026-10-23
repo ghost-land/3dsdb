@@ -24,7 +24,12 @@
   },
   "version": "v0.1.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Blood and Gore",
+    "Cartoon Violence",
+    "Use of Alcohol",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Spike Chunsoft Co., Ltd.",
   "smdh": {
     "flags": [

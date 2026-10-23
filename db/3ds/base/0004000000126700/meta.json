@@ -27,8 +27,11 @@
     "age": "12"
   },
   "version": "v1.1.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Violence",
+    "Blood"
+  ],
   "publisher": "Digital Lounge",
   "smdh": {
     "flags": [

@@ -12,7 +12,9 @@
     "Simulation",
     "Other"
   ],
-  "features": [],
+  "features": [
+    "Supports DS Wireless Play"
+  ],
   "languages": [
     "en",
     "fr",
@@ -24,5 +26,6 @@
   },
   "version": "v0.1.0",
   "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "BiP media"
 }

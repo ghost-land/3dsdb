@@ -1,15 +1,20 @@
 {
   "tid": "0004000000067F00",
-  "uid": "",
+  "uid": "50010000007226",
   "name": "Spider-Man - Aux Frontieres du Temps",
   "formal_name": "Spider-Man - Aux Frontieres du Temps",
   "description": "Fight Today, Save Tomorrow. Play as both Amazing Spider-Man™ and\nSpider-Man 2099 in SPIDER-MAN™: EDGE OF TIME, a high-octane, adrenaline-fueled adventure that puts gamers on a mission to prevent a cataclysmic event that leads to an unexpected outcome: the death of Amazing Spider-Man.\n<BR><BR>\nRich, tightly crafted narrative written by acclaimed Marvel™ writer Peter David<BR>\nEpic mission to save Spider-Man and the world from a chaotic, dystopian future in a thrilling race against time<BR>\nTwo timelines evolve in parallel with story-driven cause and effect moments<BR>\nwhere the actions of one Spider-Man have an immediate effect on the world of the other Spider-Man<BR>\nUnique combat abilities highlight Amazing's acrobatic agility and 2099's\ntechnological improvements<BR>\nAll-new combat moves include<BR>\nHyper-Sense and Accelerated Decoy",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-AS7F",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Retail Only",
   "region": "France",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "en",
     "fr"
@@ -19,8 +24,12 @@
     "age": "12"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Mild Language",
+    "Mild Violence",
+    "Suggestive Themes"
+  ],
   "publisher": "Activision",
   "smdh": {
     "flags": [

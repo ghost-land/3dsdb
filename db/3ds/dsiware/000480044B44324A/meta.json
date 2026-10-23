@@ -1,14 +1,18 @@
 {
   "tid": "000480044B44324A",
-  "uid": "",
+  "uid": "50010000000590",
   "name": "れんあいへんさち★ナビ",
   "formal_name": "れんあいへんさち★ナビ",
   "description": "Think you’re a real Casanova? Let’s see how you act in real-life situations when you face a whole gamut of dates, from romantic to wild! Date or Ditch is an absorbing dating adventure for both guys and girls, testing you through an evolving scenario. Discover unique gameplay mixing social simulation, hilarious face-to-face conversations, and fun quizzes. Randomly meet someone at a party, go to the movies together, invite your date to dinner and more. And a surprise visit from your ex may spice up your love story a bit. Enter even deeper into the game thanks to the exclusive camera feature: add your photo within the game and change your face according to your feelings! In real life, make sure you are compatible with your date by taking the Love Test: based on your names and appearance, are you made for each other? Love has always been a game. We just made it more fun. \n\n\n",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-06-28",
   "product_code": "TWL-N-KD2J",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Japan",
-  "genres": [],
+  "genres": [
+    "Adventure",
+    "Simulation",
+    "Other"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -16,10 +20,13 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "13"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Suggestive Themes"
+  ],
+  "publisher": "Gameloft"
 }

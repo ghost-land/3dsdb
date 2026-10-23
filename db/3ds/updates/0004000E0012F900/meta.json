@@ -21,7 +21,10 @@
   },
   "version": "v8.5.0",
   "disclaimer": "ニンテンドー3DSソフト『妖怪ウォッチ2 元祖』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Comic Mischief",
+    "Fantasy Violence"
+  ],
   "publisher": "LEVEL-5 Inc.",
   "smdh": {
     "flags": [

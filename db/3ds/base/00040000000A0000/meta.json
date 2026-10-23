@@ -4,7 +4,7 @@
   "name": "BIOHAZARD REVELATIONS",
   "formal_name": "BIOHAZARD REVELATIONS",
   "description": "「BIOHAZARD」繁體中文化。回歸恐怖原點的內容，讓您可充分體驗生存恐怖的元素。\n為能更深入了解規模磅礡的劇情，採用了章節式的系統呈現。\n在各章節的最後，都設計了引人入勝的預告，吸引您繼續玩下去。",
-  "release_date_on_eshop": null,
+  "release_date_on_eshop": "2013-03-28",
   "product_code": "CTR-P-ABRW",
   "platform_name": "Nintendo 3DS 盒裝",
   "region": "Taiwan",
@@ -28,5 +28,6 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "CAPCOM"
 }

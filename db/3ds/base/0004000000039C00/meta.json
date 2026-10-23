@@ -25,7 +25,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトには、2本の専用タッチペンが同梱されてます。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
   "publisher": "NAMCO BANDAI Games",
   "smdh": {
     "flags": [

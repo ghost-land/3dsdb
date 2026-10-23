@@ -11,7 +11,14 @@
   "genres": [
     "Update Data"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -29,8 +36,11 @@
     "age": "12"
   },
   "version": "v5.5.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": [
+    "Fantasy Violence",
+    "Suggestive Themes"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

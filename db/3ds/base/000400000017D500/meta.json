@@ -31,7 +31,10 @@
   },
   "version": "v0.2.0",
   "disclaimer": "このソフトの3D表示機能は、Newニンテンドー3DS/Newニンテンドー3DS LLのみ対応しています。\n<br>\n<br>ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長い時間を要する場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Suggestive Themes"
+  ],
   "publisher": "TECMO KOEI GAMES",
   "smdh": {
     "flags": [

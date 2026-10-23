@@ -22,7 +22,10 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Mild Language"
+  ],
   "publisher": "KEMCO",
   "smdh": {
     "flags": [

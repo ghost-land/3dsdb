@@ -16,10 +16,11 @@
     "en"
   ],
   "rating_system": {
-    "name": null,
-    "age": null
+    "name": "",
+    "age": ""
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Kaasa"
 }

@@ -26,7 +26,9 @@
   },
   "version": "v2.4.0",
   "disclaimer": "データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

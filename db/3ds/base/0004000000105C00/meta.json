@@ -11,7 +11,9 @@
   "genres": [
     "動作"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "zh"
   ],
@@ -21,7 +23,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
   "publisher": "Flyhigh Works",
   "smdh": {
     "flags": [

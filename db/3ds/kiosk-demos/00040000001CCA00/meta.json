@@ -11,7 +11,10 @@
   "genres": [
     "Action"
   ],
-  "features": [],
+  "features": [
+    "Supports Local Play",
+    "Supports Download Play"
+  ],
   "languages": [
     "en",
     "fr",

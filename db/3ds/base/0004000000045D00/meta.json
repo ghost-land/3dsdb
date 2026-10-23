@@ -12,7 +12,10 @@
     "Action",
     "Platformer"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals",
+    "Nintendo Network"
+  ],
   "languages": [
     "en",
     "fr",
@@ -26,8 +29,11 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+  "descriptors": [
+    "Comic Mischief",
+    "Fantasy Violence"
+  ],
   "publisher": "NAMCO BANDAI Games Inc.",
   "smdh": {
     "flags": [

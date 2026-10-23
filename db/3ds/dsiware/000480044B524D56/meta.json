@@ -13,7 +13,10 @@
     "Adventure",
     "Platformer"
   ],
-  "features": [],
+  "features": [
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
+  ],
   "languages": [
     "en",
     "fr",
@@ -26,6 +29,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+  "descriptors": [],
+  "publisher": "Ubisoft"
 }

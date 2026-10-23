@@ -11,7 +11,12 @@
   "genres": [
     "액션"
   ],
-  "features": [],
+  "features": [
+    "インターネット対応",
+    "ローカルプレイ対応",
+    "ダウンロードプレイ対応",
+    "Nintendo Network"
+  ],
   "languages": [
     "ko"
   ],
@@ -20,7 +25,10 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "本ソフトに付属する取扱説明書は製品版のものです。あらかじめご了承ください。\n<br>本ソフトは3D表示に対応しておりません。",
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Nintendo"
 }

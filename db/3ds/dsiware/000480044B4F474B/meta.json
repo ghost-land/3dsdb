@@ -1,23 +1,29 @@
 {
   "tid": "000480044B4F474B",
-  "uid": "",
+  "uid": "50010000003287",
   "name": "G.G Sirijeu - Super Hero Ogre",
   "formal_name": "G.G Sirijeu - Super Hero Ogre",
   "description": "Charge up your Superhero Attacks and be a super cool superhero!\n\nAn evil army is on the march! Confront them and save the day in this superhero fighting action game. Each time you defeat an enemy with a Hero Attack, your Hero Gauge goes up. Then, with simple button commands, you can use the charged-up Hero Gauge to unleash powerful Superhero Attacks on your foes. Continue to land Hero Attacks to keep the Hero Gauge charged and perform a devastating chain of Superhero Attacks. After you destroy the lesser enemies, a boss will appear. Defeat it to clear the level.",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-10-11",
   "product_code": "TWL-N-KOGK",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Korea",
-  "genres": [],
+  "genres": [
+    "Fighting",
+    "Action"
+  ],
   "features": [],
   "languages": [
     "en"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "10"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Cartoon Violence"
+  ],
+  "publisher": "Goodvision Corporation"
 }

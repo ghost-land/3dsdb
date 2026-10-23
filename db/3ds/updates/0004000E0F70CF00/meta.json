@@ -11,7 +11,9 @@
   "genres": [
     "액션"
   ],
-  "features": [],
+  "features": [
+    "amiibo"
+  ],
   "languages": [
     "ja",
     "en",
@@ -30,7 +32,10 @@
   },
   "version": "v4.4.0",
   "disclaimer": "닌텐도 3DS 소프트웨어 「Fire Emblem Warriors(영어)」의 업데이트 데이터입니다. 본 데이터는 다운로드한 후에 HOME 메뉴에 아이콘이 표시되지 않습니다.\n｢본체 설정｣의 ｢데이터 관리｣→｢추가 콘텐츠 관리｣에 본 데이터가 표시됩니다.\n삭제하지 않도록 주의해 주십시오.",
-  "descriptors": [],
+  "descriptors": [
+    "Suggestive Themes",
+    "Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

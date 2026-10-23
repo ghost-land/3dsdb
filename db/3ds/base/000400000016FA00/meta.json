@@ -11,7 +11,9 @@
   "genres": [
     "アクション"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +23,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "2015年11月18日9時59分までに本ソフトをご購入いただくと、特典テーマ【魔神少女 エピソード2 ジズー】のダウンロード番号が手に入ります。\n<br>※ソフトをご購入いただいたあと、特典テーマを入手するためのダウンロード番号が表示されますので、必ずメモを取っておいてください。\n<br>\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": [],
+  "descriptors": [
+    "Fantasy Violence",
+    "Mild Language",
+    "Suggestive Themes"
+  ],
   "publisher": "Flyhigh Works",
   "smdh": {
     "flags": [

@@ -11,7 +11,10 @@
   "genres": [
     "アクション"
   ],
-  "features": [],
+  "features": [
+    "Supports StreetPass",
+    "amiibo"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,5 +24,8 @@
   },
   "version": "v0.0.0",
   "disclaimer": "●本ソフトは3D表示に対応しておりません。",
-  "descriptors": []
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
+  "publisher": "Nintendo"
 }

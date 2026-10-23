@@ -14,10 +14,11 @@
     "en"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "PEGI",
+    "age": "3"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Among Sus (Innersloth)"
 }

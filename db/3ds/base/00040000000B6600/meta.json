@@ -14,7 +14,9 @@
     "Shooter",
     "Platformer"
   ],
-  "features": [],
+  "features": [
+    "3D映像対応"
+  ],
   "languages": [
     "en"
   ],

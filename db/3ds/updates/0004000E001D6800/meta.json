@@ -11,7 +11,12 @@
   "genres": [
     "Update Data"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -28,8 +33,12 @@
     "age": "7"
   },
   "version": "v2.2.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "ニンテンドー3DSソフト『妖怪ウォッチ3 スキヤキ』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": [
+    "Crude Humor",
+    "Fantasy Violence",
+    "Mild Blood"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

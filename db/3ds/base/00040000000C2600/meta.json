@@ -23,7 +23,11 @@
   },
   "version": "v0.0.0",
   "disclaimer": "データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。\n<br>ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Suggestive Themes",
+    "Violence"
+  ],
   "publisher": "LEVEL-5",
   "smdh": {
     "flags": [

@@ -25,7 +25,13 @@
   },
   "version": "v0.0.0",
   "disclaimer": "Game supports English text and Japanese voice.",
-  "descriptors": [],
+  "descriptors": [
+    "Alcohol Reference",
+    "Fantasy Violence",
+    "Mild Language",
+    "Suggestive Themes",
+    "In-Game Purchases"
+  ],
   "publisher": "Deep Silver",
   "smdh": {
     "flags": [

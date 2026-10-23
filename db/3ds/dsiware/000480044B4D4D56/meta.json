@@ -21,6 +21,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "This game requires at least two players and is played by passing around a single Nintendo DSi system between players.",
+  "descriptors": [],
+  "publisher": "Activision"
 }

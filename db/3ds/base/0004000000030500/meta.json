@@ -29,7 +29,11 @@
   },
   "version": "v0.3.1",
   "disclaimer": "ソフトの内容は2011年2月26日発売のパッケージ版(価格:4,937円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Language",
+    "Violence",
+    "Mild Suggestive Themes"
+  ],
   "publisher": "CAPCOM",
   "smdh": {
     "flags": [

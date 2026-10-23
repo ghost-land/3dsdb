@@ -26,6 +26,10 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.\n\n",
+  "descriptors": [
+    "Mild Cartoon Violence",
+    "Mild Language"
+  ],
+  "publisher": "Square Enix, Inc."
 }

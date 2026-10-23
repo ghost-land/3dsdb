@@ -13,7 +13,9 @@
     "스포츠",
     "퍼즐"
   ],
-  "features": [],
+  "features": [
+    "Supports StreetPass"
+  ],
   "languages": [
     "en",
     "ko"
@@ -24,7 +26,10 @@
   },
   "version": "v0.1.0",
   "disclaimer": "제명:Pocket Card Jockey\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160318-002\n등급분류 일자:2016.3.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어 \n 자막:영어\n※ for sale in Korea only",
-  "descriptors": [],
+  "descriptors": [
+    "Comic Mischief",
+    "Fantasy Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

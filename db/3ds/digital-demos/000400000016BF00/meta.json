@@ -12,7 +12,9 @@
     "퍼즐",
     "RPG"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ko"
   ],
@@ -21,8 +23,11 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Mild Suggestive Themes"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

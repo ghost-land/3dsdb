@@ -1,15 +1,23 @@
 {
   "tid": "0004000000054900",
-  "uid": "",
+  "uid": "50010000010526",
   "name": "Mario & Sonic at the London 2012 Olympic Games",
   "formal_name": "Mario & Sonic at the London 2012 Olympic Games",
-  "description": "",
+  "description": " 올 여름 개최되는 런던 올림픽을 무대로 마리오와 소닉 친구들이 올림픽 정식 경기에 도전합니다.\n 런던 올림픽 정식 종목 중 시리즈 사상\n가장 많은 57종목을 돌리고, 불고, 기울이는 다채로운 조작으로 손쉽게 플레이 할 수 있습니다.\n 각각의 닌텐도 3DS 본체가 있으면 모든 종목을 1개의 소프트웨어로 최대 4명까지 대전이나 협력으로 함께 즐길 수 있으며\n런던을 무대로 마리오와 친구들의 스토리를 즐기며 다양한 경기를 플레이 할 수도 있어\n런던 올림픽의 즐거움이 한층 커집니다.",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-ACMP",
-  "platform_name": "",
+  "platform_name": "닌텐도 3DS 패키지",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "스포츠"
+  ],
+  "features": [
+    "3D 영상 대응",
+    "로컬 플레이 대응",
+    "다운로드 플레이 대응",
+    "Mii",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +34,7 @@
     "age": "3"
   },
   "version": "v1.1.0",
-  "disclaimer": null,
+  "disclaimer": "제명 : 마리오와 소닉 런던 올림픽™\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-120321-004\n등급분류 일자 : 2012.03.21.\n제작・배급업신고번호 : 2006000019",
   "descriptors": [],
   "publisher": "SEGA",
   "smdh": {

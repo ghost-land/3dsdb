@@ -1,23 +1,27 @@
 {
   "tid": "000480044B575445",
-  "uid": "",
+  "uid": "50010000005723",
   "name": "Defense Wars - GO Series",
   "formal_name": "Defense Wars - GO Series",
   "description": "「侵攻する敵をうってうってうちまくれ!」\n\n砲台や戦車を駆使して、味方が到着するまで「ベース砲」を破壊されないように防衛するゲームです。\nタッチして、撃ちたい方向にスライドして発射させるシンプルな操作で誰でも楽しむことができます。\n\n敵軍の中には、弾を当てると爆発して周囲の敵をまとめて倒すことができるユニットも登場し、狙い撃ちしたユニットを起点に連続爆発で次々と敵を破壊していく爽快感を味わうことができます!\n\n「味方はもう近くまで来ている!なんとしてもベース砲を守りきれ!」",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-02-10",
   "product_code": "TWL-N-KWTE",
-  "platform_name": "",
+  "platform_name": "ニンテンドーDSiウェア",
   "region": "North America",
-  "genres": [],
+  "genres": [
+    "アクション",
+    "シューティング"
+  ],
   "features": [],
   "languages": [
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "CERO",
+    "age": "0"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": [],
+  "publisher": "トムクリエイト"
 }

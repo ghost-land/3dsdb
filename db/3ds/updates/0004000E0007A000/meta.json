@@ -11,7 +11,9 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +23,12 @@
   },
   "version": "v1.0.0",
   "disclaimer": "ニンテンドー3DSソフト『METAL GEAR SOLID SNAKE EATER 3D』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Blood and Gore",
+    "Intense Violence",
+    "Language",
+    "Sexual Themes"
+  ],
   "publisher": "Konami Digital Entertainment",
   "smdh": {
     "flags": [

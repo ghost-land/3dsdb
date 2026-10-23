@@ -1,14 +1,16 @@
 {
   "tid": "000480044B355150",
-  "uid": "",
+  "uid": "50010000001002",
   "name": "Escape Trick - Rock City Prison",
   "formal_name": "Escape Trick - Rock City Prison",
   "description": "Here is the Rock City Federal Prison, known as a giant coffin, locking up lifers with no parole and death row inmates. My name is Roy. I'm locked up in cell 218 on a 10 year term. Is this a conspiracy? I know I was framed! The false accusation, mysterious cash left in the prison cell, a breakout plot by prisoners, a warden who is nice only to me, and the mysterious death of the old man who died in a hole 6 months ago. Now, the unprecedented jailbreak begins at Rock City Prison!\n\nEscape Trick is a \"Breakout Adventure Game\" where the stylus is used to search, use, and combine the various items in the cell and attempt to escape. Not only the items, but also the letters and symbols in the room can be significant hints for breakout. In addition to the quest, unique characters get involved with Roy in the adventure part of the game. Roy's secrets and the mystery of the prison are revealed as you progress.\n",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2011-04-11",
   "product_code": "TWL-N-K5QP",
-  "platform_name": "",
+  "platform_name": "Nintendo DSiWare",
   "region": "Europe",
-  "genres": [],
+  "genres": [
+    "Adventure"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -16,10 +18,15 @@
     "es"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "ESRB",
+    "age": "10"
   },
   "version": "",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [
+    "Mild Language",
+    "Mild Violence",
+    "Tobacco Reference"
+  ],
+  "publisher": "INTENSE"
 }

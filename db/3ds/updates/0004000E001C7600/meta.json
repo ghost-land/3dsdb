@@ -11,7 +11,9 @@
   "genres": [
     "Update Data"
   ],
-  "features": [],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
   "languages": [
     "ja",
     "en",
@@ -28,8 +30,10 @@
     "age": "3"
   },
   "version": "v4.4.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "ニンテンドー3DSソフト『マイティガンヴォルト バースト』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
   "publisher": "INTI CREATES",
   "smdh": {
     "flags": [

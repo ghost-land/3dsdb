@@ -30,7 +30,10 @@
   },
   "version": "v1.2.0",
   "disclaimer": "ソフト内で購入できるゲームは各400円です。※ゲーム内で値切ることができます。",
-  "descriptors": [],
+  "descriptors": [
+    "Comic Mischief",
+    "Mild Fantasy Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

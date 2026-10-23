@@ -11,7 +11,14 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network",
+    "Circle Pad Pro"
+  ],
   "languages": [
     "ja",
     "en"
@@ -22,7 +29,10 @@
   },
   "version": "v3.3.0",
   "disclaimer": "ニンテンドー3DSソフト『ゼルダの伝説 トライフォース3銃士』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Online Interactions Not Rated by the ESRB"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

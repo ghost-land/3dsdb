@@ -28,7 +28,10 @@
   },
   "version": "v0.1.0",
   "disclaimer": "パッケージ版の価格は4,525円(税込)です。\n<br>ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Fantasy Violence",
+    "Mild Suggestive Themes"
+  ],
   "publisher": "GungHo Online Entertainment",
   "smdh": {
     "flags": [

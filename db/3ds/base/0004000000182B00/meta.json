@@ -12,7 +12,14 @@
     "액션",
     "어드벤처"
   ],
-  "features": [],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network"
+  ],
   "languages": [
     "ko"
   ],

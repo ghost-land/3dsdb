@@ -26,8 +26,11 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You are about to download the free Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version. This demo will let you experience exclusive scenarios only available in this free Special Demo Version. You’ll encounter Pokémon that will Mega-Evolve for the first time—and you’ll even be able to bring a new Mega-Evolved Pokémon into your full version of Pokémon Omega Ruby or Pokémon Alpha Sapphire! Items that you obtain while playing the demo can also be transferred to the full versions of each game (sold separately)!\n<br><br>\nGame in 2D. Some areas also playable in 3D.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Comic Mischief",
+    "Mild Cartoon Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

@@ -1,15 +1,22 @@
 {
   "tid": "0004000000164400",
-  "uid": "",
+  "uid": "50010000025818",
   "name": "50 Pinch Barrage!!",
   "formal_name": "50 Pinch Barrage!!",
   "description": "あなたは謎の島に不時着したトレジャーハンター。\n<br>次々と、これでもかと襲いかかるピンチやワナを乗り越え、無事に島から脱出することができるでしょうか?! \n<br>\n<br>ゲーム中の操作は十字ボタンとABボタンのみ。\n<br>さまざまな地形や敵やトラップが登場しますが、操作方法やピンチの切り抜け方法は、プレイヤーである、あなた自身の手で見つけ出して下さい!\n<br>\n<br>ゲーム中のプレイをすべて記録し、後から閲覧できるリプレイ機能を搭載。\n<br>全国のプレイヤーとクリアタイムを競うオンラインランキングにも対応しています。",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2014-09-24",
   "product_code": "CTR-N-KPFE",
-  "platform_name": "",
+  "platform_name": "ニンテンドー3DSダウンロードソフト",
   "region": "North America",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "アクション",
+    "アドベンチャー"
+  ],
+  "features": [
+    "インターネット対応",
+    "3D映像対応",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",

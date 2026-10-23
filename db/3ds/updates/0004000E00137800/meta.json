@@ -11,7 +11,13 @@
   "genres": [
     "Other"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -28,7 +34,7 @@
     "age": "7"
   },
   "version": "v1.2.0",
-  "disclaimer": null,
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

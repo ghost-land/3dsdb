@@ -23,7 +23,9 @@
   },
   "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": [],
+  "descriptors": [
+    "Simulated Gambling"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

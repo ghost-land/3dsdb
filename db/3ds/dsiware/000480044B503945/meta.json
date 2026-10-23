@@ -1,23 +1,26 @@
 {
   "tid": "000480044B503945",
-  "uid": "",
+  "uid": "50010000005526",
   "name": "Paul's Monster Adventure",
   "formal_name": "Paul's Monster Adventure",
   "description": "お腹を空かせたハラペコモンスターに、自然界でできた野菜をどんどん運んで食べさせます。\n邪魔をしてくる羊から逃げながら、ハラペコモンスターを満足させてあげればゲームクリア。お腹が減って、満腹度が０になってしまったらゲームオーバーです。",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2010-03-24",
   "product_code": "TWL-N-KP9E",
-  "platform_name": "",
+  "platform_name": "ニンテンドーDSiウェア",
   "region": "North America",
-  "genres": [],
+  "genres": [
+    "アクション"
+  ],
   "features": [],
   "languages": [
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "CERO",
+    "age": "0"
   },
   "version": "",
-  "disclaimer": null,
-  "descriptors": []
+  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "descriptors": [],
+  "publisher": "スターフィッシュ･エスディ"
 }

@@ -25,7 +25,12 @@
   },
   "version": "v5.6.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": [],
+  "descriptors": [
+    "Blood and Gore",
+    "Cartoon Violence",
+    "Online Interactions Not Rated by the ESRB",
+    "Use of Alcohol"
+  ],
   "publisher": "505 Games",
   "smdh": {
     "flags": [

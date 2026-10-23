@@ -31,7 +31,9 @@
   },
   "version": "v0.0.0",
   "disclaimer": "Use your Mega Man Amiibo to unlock\n<br>new challenges created by Mega Man\n<br>fans just like you!\n<br>",
-  "descriptors": [],
+  "descriptors": [
+    "Mild Cartoon Violence"
+  ],
   "publisher": "Capcom",
   "smdh": {
     "flags": [

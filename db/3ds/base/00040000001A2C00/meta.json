@@ -28,7 +28,10 @@
   },
   "version": "v4.5.0",
   "disclaimer": "おこさまは ほごしゃ（おとうさんや おかあさんなど おとな）といっしょによんでください。\n<br>\n<br>本ソフトは無料でダウンロードいただけますが、ソフト内の「イラスト ストア」から、日記の機能が拡張できるパックや、レッスン用のイラストなどを有料で購入できます。",
-  "descriptors": [],
+  "descriptors": [
+    "Users Interact",
+    "Digital Purchases"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

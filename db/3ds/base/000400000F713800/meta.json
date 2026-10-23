@@ -21,7 +21,10 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": [],
+  "descriptors": [
+    "Strong Language",
+    "Strong Violence"
+  ],
   "publisher": "The Game Forest",
   "smdh": {
     "flags": [

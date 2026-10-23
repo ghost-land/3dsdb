@@ -11,7 +11,11 @@
   "genres": [
     "更新データ"
   ],
-  "features": [],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "amiibo"
+  ],
   "languages": [
     "ja"
   ],
@@ -21,7 +25,13 @@
   },
   "version": "v1.1.0",
   "disclaimer": "Newニンテンドー3DS専用ソフト『ゼノブレイド』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
-  "descriptors": [],
+  "descriptors": [
+    "Blood",
+    "Mild Language",
+    "Partial Nudity",
+    "Use of Alcohol and Tobacco",
+    "Violence"
+  ],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

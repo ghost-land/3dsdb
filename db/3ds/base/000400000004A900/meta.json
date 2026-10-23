@@ -1,14 +1,17 @@
 {
   "tid": "000400000004A900",
-  "uid": "",
+  "uid": "50010000007075",
   "name": "ニンテンドービデオ",
   "formal_name": "ニンテンドービデオ",
   "description": "Nintendo Video brings you short 2D and 3D videos from the worlds of comedy, animation, music, and Hollywood. It’s unique, one-of-a-kind entertainment, handpicked especially for Nintendo 3DS.\n<br><br>\nYou can find Nintendo Video on the Main Menu of Nintendo eShop, or just enter a search for your favorite shows, like Dinosaur Office, Meat or Die, and Shaun the Sheep. They’re all there, along with many others. More videos will be added to the line-up occasionally, so check back often.\n<br><br>\nGo ahead – watch what you like, anytime you like!",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2011-07-21",
   "product_code": "CTR-N-JESJ",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Download Only",
   "region": "Japan",
-  "genres": [],
+  "genres": [
+    "Video",
+    "Other"
+  ],
   "features": [],
   "languages": [
     "ja",

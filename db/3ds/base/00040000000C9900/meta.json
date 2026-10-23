@@ -1,15 +1,22 @@
 {
   "tid": "00040000000C9900",
-  "uid": "",
+  "uid": "50010000010076",
   "name": "ジョニーカンフー",
   "formal_name": "ジョニーカンフー",
   "description": "Updated 11/30/2012. Updates Include:<br>\nAdded new variations to the B&W stages.<br>\nAdjusted gameplay balance.\n<br><br>\nJohnny Kung Fu™ is an old school action game that mixes the old with the new! Johnny Kung Fu™ puts you into the Kung Fu garb of a seemingly everyday man Johnny. The local organized crime group Mr. Wang, led by the mysterious man known as Mr. Wang, seems to have a bone to pick with Johnny and has captured his girlfriend Paula. Knowing that an ambush awaits him, Johnny chases the kidnappers into one of Mr. Wang’s hideout towers regardless. Will Johnny be able to save Paula? Or will the Mr. Wang Gang prevail?",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2012-07-12",
   "product_code": "CTR-N-JKFJ",
-  "platform_name": "",
+  "platform_name": "Nintendo 3DS Download Only",
   "region": "Japan",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Arcade",
+    "Adventure",
+    "Fighting"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,8 +33,10 @@
     "age": "A"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Fantasy Violence"
+  ],
   "publisher": "CyberFront Corporation",
   "smdh": {
     "flags": [

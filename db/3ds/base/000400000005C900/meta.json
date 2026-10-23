@@ -1,15 +1,21 @@
 {
   "tid": "000400000005C900",
-  "uid": "",
+  "uid": "50010000009463",
   "name": "Pac-Man Party 3D",
   "formal_name": "Pac-Man Party 3D",
-  "description": "",
+  "description": "ボードゲーム上のフィールドを回り、クッキーを集めていく「パーティモード」では、平原やオバケの街など3つの世界をミニゲームバトルで対決しながら冒険!\n<br>\n<br>ゲーム参加者全員が同時に楽しめるミニゲームの連続でゲームが進行。ボードゲームにありがちな待ち時間のストレスもありません。\n<br>\n<br>50種類以上のミニゲームバトルでは、集めたパワークッキーを使えば、一発逆転のチャンス! パワークッキー効果はゲームごとに違うので、使ってみてのお楽しみ!",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-AP9P",
-  "platform_name": "",
+  "platform_name": "ニンテンドー3DSカードソフト",
   "region": "Europe",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "その他"
+  ],
+  "features": [
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "ダウンロードプレイ対応"
+  ],
   "languages": [
     "ja",
     "en",

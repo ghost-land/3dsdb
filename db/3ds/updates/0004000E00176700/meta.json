@@ -1,15 +1,19 @@
 {
   "tid": "0004000E00176700",
-  "uid": "",
+  "uid": "50010000039505",
   "name": "PROJECT CROSS ZONE 2(1.2)",
   "formal_name": "PROJECT CROSS ZONE 2(1.2)",
   "description": "This is an update for the Project X Zone 2 game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Project X Zone 2.",
-  "release_date_on_eshop": "",
+  "release_date_on_eshop": "2016-02-16",
   "product_code": "CTR-U-BX2K",
-  "platform_name": "",
+  "platform_name": "Software Update",
   "region": "Korea",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "en",
     "ko"
@@ -19,8 +23,14 @@
     "age": "15"
   },
   "version": "v2.2.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+  "descriptors": [
+    "Fantasy Violence",
+    "Language",
+    "Mild Blood",
+    "Partial Nudity",
+    "Suggestive Themes"
+  ],
   "publisher": "BANDAI NAMCO Entertainment",
   "smdh": {
     "flags": [

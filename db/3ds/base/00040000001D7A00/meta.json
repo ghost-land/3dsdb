@@ -14,7 +14,9 @@
     "Shooter",
     "Racing"
   ],
-  "features": [],
+  "features": [
+    "Enhanced for New 3DS"
+  ],
   "languages": [
     "en"
   ],
@@ -23,8 +25,10 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
-  "descriptors": [],
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+  "descriptors": [
+    "Mild Fantasy Violence"
+  ],
   "publisher": "Nostatic Software LLC",
   "smdh": {
     "flags": [
