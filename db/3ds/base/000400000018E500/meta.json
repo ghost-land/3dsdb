@@ -1,26 +1,45 @@
 {
-    "tid": "000400000018E500",
-    "uid": "50010000040120",
-    "name": "Langrisser Re:Incarnation\n-TENSEI-",
-    "formal_name": "Langrisser Re:Incarnation\n-TENSEI-",
-    "description": "Langrisser Re:Incarnation -TENSEI-는 당신의 선택을 바탕으로 다양한 스토리와 전투를 선보입니다.\n3개의 개성있는 파벌들은  당신의 지휘 능력을 절실히 필요로 하고 있습니다!\n전쟁의 포화 속에서 전설적인 지휘 능력을 갈고 닦으세요! \n100시간이 넘는 플레이 시간 동안 전쟁에 필요한 자원을 모으세요. \n길드에서 용병을 선택하고, 더욱 강력한 장비를 구입하고, 끝없이 이어지는 퀘스트를 통해서 전세를 뒤집을 결정적인 아이템을 획득해서 전술적 우위를 확보하세요. ",
-    "release_date_on_eshop": "2016-04-19",
-    "product_code": "CTR-N-BRGY",
-    "platform_name": "닌텐도 3DS 다운로드",
-    "region": "Korea",
-    "genres": [
-        "시뮬레이션",
-        "RPG"
-    ],
-    "features": [
-        "3D 영상 대응"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "GRB",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Langrisser Re:Incarnation \n    -TENSEI-\n상호:Aksys Games\n이용등급:12세 이용가\n등급분류번호:GC-CC-NV-151218-005\n등급분류 일자:2015.12.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n 자막: 영어\n 음성: 일본어\n※ for sale in Korea only",
-    "descriptors": []
+  "tid": "000400000018E500",
+  "uid": "50010000040120",
+  "name": "Langrisser Re:Incarnation\n-TENSEI-",
+  "formal_name": "Langrisser Re:Incarnation\n-TENSEI-",
+  "description": "Langrisser Re:Incarnation -TENSEI-는 당신의 선택을 바탕으로 다양한 스토리와 전투를 선보입니다.\n3개의 개성있는 파벌들은  당신의 지휘 능력을 절실히 필요로 하고 있습니다!\n전쟁의 포화 속에서 전설적인 지휘 능력을 갈고 닦으세요! \n100시간이 넘는 플레이 시간 동안 전쟁에 필요한 자원을 모으세요. \n길드에서 용병을 선택하고, 더욱 강력한 장비를 구입하고, 끝없이 이어지는 퀘스트를 통해서 전세를 뒤집을 결정적인 아이템을 획득해서 전술적 우위를 확보하세요. ",
+  "release_date_on_eshop": "2016-04-19",
+  "product_code": "CTR-N-BRGY",
+  "platform_name": "닌텐도 3DS 다운로드",
+  "region": "Korea",
+  "genres": [
+    "시뮬레이션",
+    "RPG"
+  ],
+  "features": [
+    "3D 영상 대응"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "※ 안전을 위한 주의사항\n본 소프트웨어를 사용하기 전에 HOME 메뉴의「안전을 위한 주의사항」을 선택하여 내용을 확인해 주십시오.\n여기에는 고객님의 건강와 안전을 위한 중요한 내용이 기재되어 있습니다. \n또한 본체의 사용설명서도 함께 읽어 주십시오. \n\n제명:Langrisser Re:Incarnation \n    -TENSEI-\n상호:Aksys Games\n이용등급:12세 이용가\n등급분류번호:GC-CC-NV-151218-005\n등급분류 일자:2015.12.18\n제작・배급업신고번호:게배 제2012-10호\n※ 대응 언어\n 자막: 영어\n 음성: 일본어\n※ for sale in Korea only",
+  "descriptors": [],
+  "publisher": "Aksys Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

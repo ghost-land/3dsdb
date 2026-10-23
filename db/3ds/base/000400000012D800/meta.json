@@ -31,5 +31,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。\n<br>\n<br>2017年11月8日のMiiverseサービス終了以降、Miiverseを使用した機能はご利用いただけません。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

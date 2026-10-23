@@ -1,23 +1,40 @@
 {
-    "tid": "0004000000086300",
-    "uid": "50010000041959",
-    "name": "Animal Crossing™: New Leaf:\nUpdate",
-    "formal_name": "Animal Crossing™: New Leaf:\n<br>Update",
-    "description": "Update your game to Animal Crossing: New Leaf Welcome amiibo!\n<br>\n<br>A software update is now available that introduces new features and adjustments to enhance the overall experience.\n<br>\n<br>Update contents:\n<br>- Introduces amiibo compatibility\n<br>- New area added: campground\n<br>- Two minigames added: Animal Crossing Puzzle League and Desert Island Escape\n<br>- amiibo Camera feature added\n<br>- Additional furniture, characters and events introduced\n<br>- It is now possible to arrange furniture using the Touch Screen\n<br>- Secret storeroom added, allowing you to store more items\n<br>- Introduces additional enhancements to improve the user’s experience and enjoyment\n<br>- Various bugs have been fixed in order to provide a smoother gaming experience.",
-    "release_date_on_eshop": "2016-11-02",
-    "product_code": "CTR-U-EGDP",
-    "platform_name": "Update Data",
-    "region": "Europe",
-    "genres": [
-        "Update Data"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000086300",
+  "uid": "50010000041959",
+  "name": "Animal Crossing™: New Leaf:\nUpdate",
+  "formal_name": "Animal Crossing™: New Leaf:\n<br>Update",
+  "description": "Update your game to Animal Crossing: New Leaf Welcome amiibo!\n<br>\n<br>A software update is now available that introduces new features and adjustments to enhance the overall experience.\n<br>\n<br>Update contents:\n<br>- Introduces amiibo compatibility\n<br>- New area added: campground\n<br>- Two minigames added: Animal Crossing Puzzle League and Desert Island Escape\n<br>- amiibo Camera feature added\n<br>- Additional furniture, characters and events introduced\n<br>- It is now possible to arrange furniture using the Touch Screen\n<br>- Secret storeroom added, allowing you to store more items\n<br>- Introduces additional enhancements to improve the user’s experience and enjoyment\n<br>- Various bugs have been fixed in order to provide a smoother gaming experience.",
+  "release_date_on_eshop": "2016-11-02",
+  "product_code": "CTR-U-EGDP",
+  "platform_name": "Update Data",
+  "region": "Europe",
+  "genres": [
+    "Update Data"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "M"
+  },
+  "version": "v3.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

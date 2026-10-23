@@ -28,5 +28,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "ソフトの内容は2012年11月1日発売のパッケージ版(価格:5,122円)と同じです。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Konami Digital Entertainment",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

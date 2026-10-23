@@ -1,21 +1,30 @@
 {
-    "tid": "00040000001C7900",
-    "uid": "",
-    "name": "LAYTON'S MYSTERY JOURNEY™ Katrielle and the Millionaires'...",
-    "formal_name": "LAYTON'S MYSTERY JOURNEY™ Katrielle and the Millionaires'...",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BLFK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001C7900",
+  "uid": "",
+  "name": "LAYTON'S MYSTERY JOURNEY™ Katrielle and the Millionaires'...",
+  "formal_name": "LAYTON'S MYSTERY JOURNEY™ Katrielle and the Millionaires'...",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BLFK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "LEVEL-5 Inc.",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

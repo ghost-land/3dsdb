@@ -35,5 +35,12 @@
     "Animated Blood",
     "Mild Suggestive Themes",
     "Violence"
-  ]
+  ],
+  "publisher": "Electronic Arts Inc.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -1,21 +1,37 @@
 {
-    "tid": "0004000000097A00",
-    "uid": "",
-    "name": "L'Era Glaciale 4 - Continenti alla Deriva - Giochi Polari",
-    "formal_name": "L'Era Glaciale 4 - Continenti alla Deriva - Giochi Polari",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-AQLI",
-    "platform_name": "",
-    "region": "Italy",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000097A00",
+  "uid": "",
+  "name": "L'Era Glaciale 4 - Continenti alla Deriva - Giochi Polari",
+  "formal_name": "L'Era Glaciale 4 - Continenti alla Deriva - Giochi Polari",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-AQLI",
+  "platform_name": "",
+  "region": "Italy",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "PEGI",
+    "age": "3"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Activision",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -34,5 +34,12 @@
   "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
   "descriptors": [
     "Mild Suggestive Themes"
-  ]
+  ],
+  "publisher": "NAMCO BANDAI Games America",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

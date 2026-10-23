@@ -1,31 +1,50 @@
 {
-    "tid": "0004000000191C00",
-    "uid": "50010000039535",
-    "name": "マリオ&ソニック AT リオオリンピック™ (日文版)",
-    "formal_name": "マリオ&ソニック AT リオオリンピック™ (日文版)",
-    "description": "2016年夏季在巴西舉行的里約熱內盧奧林匹克舞台上，瑪利歐和Sonic及其朋友們在各式各樣的競技上挑戰的運動遊戲。\n<br>\n<br>除了100m短跑、體操、乒乓球等常規競技，還能體驗在舉辦國巴西極具人氣的「足球」、相隔112年重現的奧林匹克競技「哥爾夫球」等各式各樣的競技。\n<br>\n<br>此外，除在常規競技上獨自遊玩外，本作裡還額外收錄了「エクストラ競技」、利用自己的Mii在里約街頭舞台上以取得金牌為目標的1人用「チャンピオンズロード」、使用Nintendo 3DS的計步器能輕鬆體驗42.195km的全馬「おでかけフルマラソン」等各種模式。\n<br>\n<br>持有Nintendo 3DS主機，就可利用1份遊戲軟體進行最多4人遊戲，家人朋友能輕鬆享受遊戲樂趣。",
-    "release_date_on_eshop": "2016-02-18",
-    "product_code": "CTR-N-BGXZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "運動"
-    ],
-    "features": [
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應瞬間交錯通訊",
-        "對應悄悄通訊",
-        "對應下載遊戲",
-        "Nintendo Network",
-        "amiibo"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "0"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "0004000000191C00",
+  "uid": "50010000039535",
+  "name": "マリオ&ソニック AT リオオリンピック™ (日文版)",
+  "formal_name": "マリオ&ソニック AT リオオリンピック™ (日文版)",
+  "description": "2016年夏季在巴西舉行的里約熱內盧奧林匹克舞台上，瑪利歐和Sonic及其朋友們在各式各樣的競技上挑戰的運動遊戲。\n<br>\n<br>除了100m短跑、體操、乒乓球等常規競技，還能體驗在舉辦國巴西極具人氣的「足球」、相隔112年重現的奧林匹克競技「哥爾夫球」等各式各樣的競技。\n<br>\n<br>此外，除在常規競技上獨自遊玩外，本作裡還額外收錄了「エクストラ競技」、利用自己的Mii在里約街頭舞台上以取得金牌為目標的1人用「チャンピオンズロード」、使用Nintendo 3DS的計步器能輕鬆體驗42.195km的全馬「おでかけフルマラソン」等各種模式。\n<br>\n<br>持有Nintendo 3DS主機，就可利用1份遊戲軟體進行最多4人遊戲，家人朋友能輕鬆享受遊戲樂趣。",
+  "release_date_on_eshop": "2016-02-18",
+  "product_code": "CTR-N-BGXZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "運動"
+  ],
+  "features": [
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "對應悄悄通訊",
+    "對應下載遊戲",
+    "Nintendo Network",
+    "amiibo"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "ko",
+    "nl",
+    "pt",
+    "ru",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "0"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -30,5 +30,12 @@
   "descriptors": [
     "Mild Language",
     "Violence"
-  ]
+  ],
+  "publisher": "NAMCO BANDAI Games America",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

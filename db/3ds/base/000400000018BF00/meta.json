@@ -1,28 +1,47 @@
 {
-    "tid": "000400000018BF00",
-    "uid": "50010000040121",
-    "name": "Langrisser Re:Incarnation -TENSEI- \n(英文版)",
-    "formal_name": "Langrisser Re:Incarnation -TENSEI- \n(英文版)",
-    "description": "在戰火中建立傳奇指令技巧!\n\n揮動強大寶劍Langrisser遊歷著戰爭中的龐大世界。在借用天賦給三大陣營中其一，及對敵人執行戰略霸主地位來確保你的地方是陣營中最大功臣之前，先行定立路向。",
-    "release_date_on_eshop": "2016-04-19",
-    "product_code": "CTR-N-BRGZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "角色扮演",
-        "策略"
-    ],
-    "features": [
-        "對應3D影像",
-        "對應鄰近主機連線遊戲",
-        "對應下載遊戲"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "12"
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體內容與［北美］版相同。遊戲內容及電子說明書均與該版本相同，以[英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk\n",
-    "descriptors": []
+  "tid": "000400000018BF00",
+  "uid": "50010000040121",
+  "name": "Langrisser Re:Incarnation -TENSEI- \n(英文版)",
+  "formal_name": "Langrisser Re:Incarnation -TENSEI- \n(英文版)",
+  "description": "在戰火中建立傳奇指令技巧!\n\n揮動強大寶劍Langrisser遊歷著戰爭中的龐大世界。在借用天賦給三大陣營中其一，及對敵人執行戰略霸主地位來確保你的地方是陣營中最大功臣之前，先行定立路向。",
+  "release_date_on_eshop": "2016-04-19",
+  "product_code": "CTR-N-BRGZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "角色扮演",
+    "策略"
+  ],
+  "features": [
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應下載遊戲"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "12"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體內容與［北美］版相同。遊戲內容及電子說明書均與該版本相同，以[英文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk\n",
+  "descriptors": [],
+  "publisher": "Aksys Games",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

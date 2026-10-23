@@ -22,10 +22,17 @@
     "name": "ESRB",
     "age": "10"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [
     "Comic Mischief",
     "Fantasy Violence"
-  ]
+  ],
+  "publisher": "Activision®",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

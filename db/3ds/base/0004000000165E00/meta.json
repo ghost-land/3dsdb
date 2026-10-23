@@ -34,5 +34,12 @@
   "descriptors": [
     "Cartoon Violence",
     "Online Interactions Not Rated by the ESRB"
-  ]
+  ],
+  "publisher": "Activision®",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

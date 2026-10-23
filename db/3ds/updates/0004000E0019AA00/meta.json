@@ -1,26 +1,45 @@
 {
-    "tid": "0004000E0019AA00",
-    "uid": "50010000042335",
-    "name": "YO-KAI WATCH™ 2: Fleshy\nSouls Update Ver. 2.0",
-    "formal_name": "YO-KAI WATCH™ 2: Fleshy\nSouls Update Ver. 2.0",
-    "description": "This is an update for the YO-KAI WATCH™ 2: Fleshy Souls game. This download does not contain the full version of the game. In order to use this update, you must have the full version of the YO-KAI WATCH 2: Fleshy Souls game. \n<br><br>\nThis update adds the ability to befriend Komasan-S after clearing the main story. It also adds the Yo-kai Watch Psychic Blasters mode with additional bosses to battle against, the chance to befriend new Yo-kai, and more. This update is also required to transfer save data from YO-KAI WATCH 2: Fleshy Souls to the YO-KAI WATCH 2: Psychic Specters game (sold separately).\n<br><br>\nYou can play your YO-KAI WATCH™ 2: Fleshy Souls in Spanish or French if you download this patch from Nintendo eShop. Install the patch on your system, and set your system language to Spanish or French. It will change in-game text and character voices to your set language. *This patch is not compatible with YO-KAI WATCH™ 2 eShop demo.",
-    "release_date_on_eshop": "2017-01-11",
-    "product_code": "CTR-U-BYHE",
-    "platform_name": "Software Update",
-    "region": "North America",
-    "genres": [
-        "Updates"
-    ],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "version": "v2.5.0",
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-    "descriptors": [
-        "Crude Humor",
-        "Fantasy Violence"
+  "tid": "0004000E0019AA00",
+  "uid": "50010000042335",
+  "name": "YO-KAI WATCH™ 2: Fleshy\nSouls Update Ver. 2.0",
+  "formal_name": "YO-KAI WATCH™ 2: Fleshy\nSouls Update Ver. 2.0",
+  "description": "This is an update for the YO-KAI WATCH™ 2: Fleshy Souls game. This download does not contain the full version of the game. In order to use this update, you must have the full version of the YO-KAI WATCH 2: Fleshy Souls game. \n<br><br>\nThis update adds the ability to befriend Komasan-S after clearing the main story. It also adds the Yo-kai Watch Psychic Blasters mode with additional bosses to battle against, the chance to befriend new Yo-kai, and more. This update is also required to transfer save data from YO-KAI WATCH 2: Fleshy Souls to the YO-KAI WATCH 2: Psychic Specters game (sold separately).\n<br><br>\nYou can play your YO-KAI WATCH™ 2: Fleshy Souls in Spanish or French if you download this patch from Nintendo eShop. Install the patch on your system, and set your system language to Spanish or French. It will change in-game text and character voices to your set language. *This patch is not compatible with YO-KAI WATCH™ 2 eShop demo.",
+  "release_date_on_eshop": "2017-01-11",
+  "product_code": "CTR-U-BYHE",
+  "platform_name": "Software Update",
+  "region": "North America",
+  "genres": [
+    "Updates"
+  ],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "zh",
+    "ko",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "10"
+  },
+  "version": "v2.5.0",
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
+  "descriptors": [
+    "Crude Humor",
+    "Fantasy Violence"
+  ],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
     ]
+  }
 }

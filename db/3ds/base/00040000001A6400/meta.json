@@ -29,5 +29,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명:마리오 스포츠 슈퍼스타즈\n상호:한국닌텐도(주)\n이용등급:전체이용가\n등급분류번호:GC-CC-NV-160902-015\n등급분류 일자:2016.09.02\n제작・배급업신고번호:제 2012-000010호\n※ 대응 언어\n자막: 한국어",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

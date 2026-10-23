@@ -21,7 +21,14 @@
     "name": "CERO",
     "age": "12"
   },
-  "version": "",
+  "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "mebius.",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

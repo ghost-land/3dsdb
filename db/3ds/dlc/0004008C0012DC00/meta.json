@@ -16,10 +16,17 @@
     "ja"
   ],
   "rating_system": {
-    "name": "",
-    "age": ""
+    "name": "PEGI",
+    "age": "3"
   },
-  "version": "",
+  "version": "v0.13.0",
   "disclaimer": "ニンテンドー3DSソフト『ファイアーエムブレムif スペシャルエディション』の更新データです。『白夜王国』『暗夜王国』『ダウンロード版』の更新データではありませんのでご注意ください。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようご留意ください。",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

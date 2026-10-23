@@ -28,5 +28,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "別売のアップデートキット(税込2,000円)をご購入いただくと、\n<br>\n<br>●5章以降のシナリオ\n<br>●イベントシーンのキャラクターボイス\n<br>●いくつかのムービー\n<br>\n<br>これらが追加され、ブレイブリーデフォルトの世界をフルバージョンでお楽しみいただくことができます!",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "SQUARE ENIX",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

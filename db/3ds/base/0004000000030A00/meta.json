@@ -30,5 +30,12 @@
   },
   "version": "v2.0.0",
   "disclaimer": "제명 : 마리오 카트 7\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-120321-003\n등급분류 일자 : 2012.03.21.\n제작・배급업신고번호 : 2006000019  \n",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

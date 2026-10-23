@@ -22,5 +22,12 @@
   },
   "version": "v4.0.0",
   "disclaimer": "*주의사항*\n<br>제명:젤다의 전설 트라이포스 삼총사\n<br>상호:한국닌텐도(주)\n<br>이용등급:전체이용가\n<br>등급분류번호:GC-CC-NV-151204-014호\n<br>등급분류 일자:2015.12.04\n<br>제작・배급업신고번호:게배 제2012-10호",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

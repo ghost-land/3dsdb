@@ -33,5 +33,12 @@
   "disclaimer": "The included Portal of Power and at least two Skylanders Trap\nTeam™, Skylanders SWAP Force™, Skylanders Giants™ or\nSkylanders Spyro’s Adventure® figures are required to start the\nStory mode tutorial.",
   "descriptors": [
     "Cartoon Violence"
-  ]
+  ],
+  "publisher": "Activision®",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

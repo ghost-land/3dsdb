@@ -1,21 +1,31 @@
 {
-    "tid": "0004000000086500",
-    "uid": "",
-    "name": "Twieonawayo Dongmul-ui Sup",
-    "formal_name": "Twieonawayo Dongmul-ui Sup",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-EGDK",
-    "platform_name": "",
-    "region": "Korea",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000086500",
+  "uid": "",
+  "name": "Twieonawayo Dongmul-ui Sup",
+  "formal_name": "Twieonawayo Dongmul-ui Sup",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-EGDK",
+  "platform_name": "",
+  "region": "Korea",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "rating_system": {
+    "name": "GRB",
+    "age": "All"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

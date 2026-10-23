@@ -1,21 +1,37 @@
 {
-    "tid": "00040000001AA900",
-    "uid": "",
-    "name": "Dragon Ball Fusions",
-    "formal_name": "Dragon Ball Fusions",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-BDLE",
-    "platform_name": "",
-    "region": "North America",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "00040000001AA900",
+  "uid": "",
+  "name": "Dragon Ball Fusions",
+  "formal_name": "Dragon Ball Fusions",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-BDLE",
+  "platform_name": "",
+  "region": "North America",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "rating_system": {
+    "name": "ESRB",
+    "age": "13"
+  },
+  "version": "v0.0.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "BNEI",
+  "smdh": {
+    "flags": [
+      "SaveData"
+    ]
+  }
 }

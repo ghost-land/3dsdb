@@ -1,21 +1,31 @@
 {
-    "tid": "0004000000086200",
-    "uid": "",
-    "name": "とびだせ　どうぶつの森",
-    "formal_name": "とびだせ　どうぶつの森",
-    "description": "",
-    "release_date_on_eshop": "",
-    "product_code": "CTR-P-EGDJ",
-    "platform_name": "",
-    "region": "Japan",
-    "genres": [],
-    "features": [],
-    "languages": [],
-    "rating_system": {
-        "name": "",
-        "age": ""
-    },
-    "version": "",
-    "disclaimer": null,
-    "descriptors": []
+  "tid": "0004000000086200",
+  "uid": "",
+  "name": "とびだせ　どうぶつの森",
+  "formal_name": "とびだせ　どうぶつの森",
+  "description": "",
+  "release_date_on_eshop": "",
+  "product_code": "CTR-P-EGDJ",
+  "platform_name": "",
+  "region": "Japan",
+  "genres": [],
+  "features": [],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "rating_system": {
+    "name": "CERO",
+    "age": "A"
+  },
+  "version": "v0.2.0",
+  "disclaimer": null,
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

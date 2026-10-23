@@ -1,26 +1,36 @@
 {
-    "tid": "0004000000115700",
-    "uid": "50010000018013",
-    "name": "The Legend of Zelda: \nA Link Between Worlds (英文版)",
-    "formal_name": "The Legend of Zelda: \nA Link Between Worlds (英文版)",
-    "description": "本作是1992年發售、Super NES用軟體『The Legend of Zelda: A Link to the Past』的續作，描繪同樣世界的遙遠未來的「The Legend of Zelda」系列最新作。\n\n基本是由在『The Legend of Zelda: A Link to the Past』登場的Hyrule平原(海拉魯平原)、同樣的地形及位置關係所構成。\n\n雖然是承襲『The Legend of Zelda: A Link to the Past』的地形，但本作是描述『The Legend of Zelda: A Link to the Past』之後的新「The Legend of Zelda」。在傳承了『The Legend of Zelda: A Link to the Past』傳說的Hyrule王國(海拉魯王國)裡，在鍛冶店當實習的Link(林克)，因突如其來的契機而捲入一件重大的事件裡。迷宮和解謎當然煥然一新。遊戲活用了高低差的迷宮構造，變得像畫的迷宮衍生了以前薩爾達沒有的新解謎要素。\n\n※注意：本遊戲軟體語言為英文。",
-    "release_date_on_eshop": "2014-06-03",
-    "product_code": "CTR-P-BZLZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "region": "Taiwan",
-    "genres": [
-        "動作",
-        "冒險"
-    ],
-    "features": [
-        "對應3D影像"
-    ],
-    "languages": [],
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "version": "v0.0.0",
-    "disclaimer": "注意事項：本軟體的遊戲內容均與［北美］版相同，以［英文］顯示，並未經中文翻譯等處理。※若消費者因注意事項及遊戲內容等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
-    "descriptors": []
+  "tid": "0004000000115700",
+  "uid": "50010000018013",
+  "name": "The Legend of Zelda: \nA Link Between Worlds (英文版)",
+  "formal_name": "The Legend of Zelda: \nA Link Between Worlds (英文版)",
+  "description": "本作是1992年發售、Super NES用軟體『The Legend of Zelda: A Link to the Past』的續作，描繪同樣世界的遙遠未來的「The Legend of Zelda」系列最新作。\n\n基本是由在『The Legend of Zelda: A Link to the Past』登場的Hyrule平原(海拉魯平原)、同樣的地形及位置關係所構成。\n\n雖然是承襲『The Legend of Zelda: A Link to the Past』的地形，但本作是描述『The Legend of Zelda: A Link to the Past』之後的新「The Legend of Zelda」。在傳承了『The Legend of Zelda: A Link to the Past』傳說的Hyrule王國(海拉魯王國)裡，在鍛冶店當實習的Link(林克)，因突如其來的契機而捲入一件重大的事件裡。迷宮和解謎當然煥然一新。遊戲活用了高低差的迷宮構造，變得像畫的迷宮衍生了以前薩爾達沒有的新解謎要素。\n\n※注意：本遊戲軟體語言為英文。",
+  "release_date_on_eshop": "2014-06-03",
+  "product_code": "CTR-P-BZLZ",
+  "platform_name": "Nintendo 3DS 下載",
+  "region": "Taiwan",
+  "genres": [
+    "動作",
+    "冒險"
+  ],
+  "features": [
+    "對應3D影像"
+  ],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "rating_system": {
+    "name": "CGSRR",
+    "age": "18"
+  },
+  "version": "v0.0.0",
+  "disclaimer": "注意事項：本軟體的遊戲內容均與［北美］版相同，以［英文］顯示，並未經中文翻譯等處理。※若消費者因注意事項及遊戲內容等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n諮詢處：general@nintendo.com.hk",
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }

@@ -24,5 +24,12 @@
   },
   "version": "v0.0.0",
   "disclaimer": "제명 : 스타폭스 64 3D\n상호 : 한국닌텐도(주)\n이용등급 : 전체이용가\n등급분류번호: CC-NV-120208-004\n등급분류 일자 : 2012.02.08.\n제작・배급업신고번호 : 2006000019",
-  "descriptors": []
+  "descriptors": [],
+  "publisher": "Nintendo",
+  "smdh": {
+    "flags": [
+      "Allow3D",
+      "SaveData"
+    ]
+  }
 }
