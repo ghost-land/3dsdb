@@ -9,19 +9,19 @@ Structure :
 db/3ds/
 ├── base/                           # Retail / eShop games (regional releases)
 │     └── [tid]/
-├── digital-demos/                  # Downloadable demos (hShop digital-demos)
+├── digital-demos/                  # Downloadable demos
 │     └── [tid]/
-├── kiosk-demos/                    # Kiosk / demo-station builds (hShop kiosk-demos)
+├── kiosk-demos/                    # Kiosk / demo-station builds
 │     └── [tid]/
-├── region-free/                    # Region-free titles (hShop world)
+├── region-free/                    # Region-free titles
 │     └── [tid]/
-├── unknown-other/                  # Unsorted / unknown region (hShop unknown-other)
+├── unknown-other/                  # Unsorted / unknown region
 │     └── [tid]/
 ├── dlc/                            # Downloadable content
 │     └── [tid]/
 ├── dsiware/                        # DSiWare games and applications
 │     └── [tid]/
-├── extras/                         # hShop Extras (nested like hShop /c/extras/s/*)
+├── extras/                         # Extra / non-retail content
 │   ├── custom-dsiware/             # Custom DSiWare (not on 3DS eShop)
 │   │     └── [tid]/
 │   ├── devapps-misc/               # Dev Apps / Miscellaneous (prototypes, tools…)
@@ -40,7 +40,7 @@ db/3ds/
       └── [tid]/
 ```
 
-Themes are omitted for now: hShop theme packs share the same TID / product code (installer bundles), so they do not map 1:1 to eShop title folders.
+Themes are omitted for now: theme installer packs often share one TID / product code, so they do not map 1:1 to eShop title folders.
 
 eShop media sizes (Nintendo originals only):
 - `icon.jpg` = 48×48
@@ -91,7 +91,14 @@ db/3ds/:category/:tid/meta.json
 }
 ```
 
-`region` = hShop market / country shop (`JP`, `US`, `EU`, `FR`, `DE`, `GB`, …) or `FREE` (world / homebrew). Source of truth: `utils/fill_region_from_hshop.py` (hShop `europe` ≠ `france`). Languages stay ISO-639 (`ja`, `en`).
+`region` in `meta.json` = SKU / locale code (`JP`, `US`, `EU`, `FR`, `DE`, `GB`, …) or `FREE` (region-free / homebrew). `EU` is the generic PAL market; country-specific SKUs use `FR` / `DE` / … when applicable. Languages stay ISO-639 (`ja`, `en`).
+
+Title catalog (`data/title_catalog.json`, via `utils/build_title_catalog.py`):
+- groups the same game by product-code serial (`CTR:AMK`)
+- keys releases by **`meta.region`** (pick the SKU for the user: FR vs US vs JP)
+- adds **`market`** from the product-code letter (console market: `JP`/`US`/`EU`/`KR`/`TW`/`CN`)
+- sets **`region_conflict: true`** when those two disagree
+- a TitleID does not encode region by itself
 
 ___
 
