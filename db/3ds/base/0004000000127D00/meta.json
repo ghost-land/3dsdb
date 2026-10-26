@@ -3,13 +3,18 @@
   "uid": "",
   "name": "Tenkai Knights - Brave Battle",
   "formal_name": "Tenkai Knights - Brave Battle",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2014-09-25",
   "product_code": "CTR-P-BTKE",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "US",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
   "languages": [
     "ja",
     "en",

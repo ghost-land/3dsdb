@@ -3,14 +3,14 @@
   "uid": "50010000016994",
   "name": "Professeur Layton\net l'héritage des Aslantes™",
   "formal_name": "Professeur Layton\n<br>et l'héritage des Aslantes™",
-  "description": "Dans le dernier épisode des\n<br>aventures du Professeur Layton, notre\n<br>gentleman nous fait parcourir le\n<br>monde entier au cours du périple le\n<br>plus ambitieux jamais réalisé. Après\n<br>avoir reçu une lettre mystérieuse\n<br>indiquant la découverte d'une momie\n<br>vivante, le Professeur Layton et son\n<br>équipe se rendent dans une ville\n<br>perdue dans l'Arctique. Là, ils libèrent\n<br>une jeune femme emprisonnée dans la\n<br>glace. C'est ainsi que débute cette\n<br>grande aventure en dirigeable qui les\n<br>mènera dans des lieux spectaculaires\n<br>où ils devront percer les mystères\n<br>d'antiques civilisations.",
+  "description": "Une mystérieuse lettre a été remise au professeur Layton. Il s'agissait d'une demande d'enquête sur des « momies vivantes ». Avec cette lettre comme déclencheur, Layton et ses amis embarquent à bord d'un dirigeable et se lancent dans une grande aventure à travers le monde.<br>Les énigmes du jeu principal sont supervisées par Teru Tago.<br>Profitez des nombreux mystères exquis que vous rencontrerez partout où vous irez dans votre aventure.<br>\n<br>■Livraison de nouvelles énigmes gratuitement chaque jour ! « Actualités quotidiennes sur les puzzles »<br>Dans ce travail, des énigmes quotidiennes seront distribuées sur « Daily Puzzle News » pendant un an à compter de la sortie !<br>Vous pouvez profiter de l’ajout de nouvelles énigmes.<br>\n<br>■ Défiez les questions posées ! Communication StreetPass « Mot secret »<br>Divers « mots secrets » peuvent être obtenus partout dans le monde dans le jeu. Posez des questions aux personnes que vous croisez en utilisant les mots que vous avez trouvés.<br>Si vous recevez un défi de votre adversaire, explorez tous les coins du monde et relevez le défi.<br>\n<br>■Vous pouvez profiter de bien plus que de l'histoire et des énigmes ! 3 mini-jeux<br>Dans ce jeu, vous pouvez profiter de trois mini-jeux : « Kisekae Fashion », « Korokoro Nuts » et « Ohanami Garden ». Tout comme les énigmes, essayons des jeux uniques où l'inspiration est la clé pour terminer le jeu.<br>De plus, les voix des personnages seront fournies par Hiroshi Oizumi, Maki Horikita, Saki Aibu, Shiori Kutsuna, Masachika Ichimura et Atsuro Watanabe ! La chanson thème sera également chantée par Miho Fukuhara.",
   "release_date_on_eshop": "2013-11-08",
   "product_code": "CTR-P-AL6F",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "FR",
   "genres": [
-    "Adventure",
-    "Puzzle"
+    "aventure",
+    "puzzle"
   ],
   "features": [
     "Displays 3D Visuals",
@@ -26,7 +26,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "Le contenu du logiciel est le même que celui de la version packagée (prix : 5 657 yens).<br>En raison de la grande quantité de données, le téléchargement du logiciel peut prendre beaucoup de temps. Veuillez télécharger pendant le chargement de votre Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Nintendo"
 }

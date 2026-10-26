@@ -3,15 +3,15 @@
   "uid": "50010000005539",
   "name": "Pinball Attack! - GO Series",
   "formal_name": "Pinball Attack! - GO Series",
-  "description": "「クールに熱くなれ！」　\n\n軽快なピンボールアクションで海底・地底・ジャングル・宇宙を冒険します。\nボールを落とさないようにフリッパーで打ちながら、世界の奥へと進んでいく、スクロールタイプのアクションゲームです。４つの世界の最後に待ち構える強敵を倒したとき、さらなる世界があなたを待ち受けることでしょう。",
+  "description": null,
   "release_date_on_eshop": "2010-01-13",
   "product_code": "TWL-N-KPYP",
   "platform_name": "ニンテンドーDSiウェア",
   "region": "EU",
   "genres": [
-    "アクション",
-    "シューティング",
-    "アドベンチャー"
+    "action",
+    "Shooting",
+    "adventure"
   ],
   "features": [],
   "languages": [
@@ -22,7 +22,7 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "アルテピアッツァ"
 }

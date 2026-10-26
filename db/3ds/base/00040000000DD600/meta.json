@@ -3,17 +3,17 @@
   "uid": "50010000017460",
   "name": "Disney Infinity",
   "formal_name": "Disney Infinity",
-  "description": "■ディズニーインフィニティとは・・\n<br>キャラクターフィギュアを専用リーダー（ディズニーインフィニティ･ベース）で読み取ることにより、\n<br>各作品の世界観や無限のイマジネーションの世界で自由に遊べる新しいゲームです。\n<br>■3DS版・・・\n<br>3DS版ではストーリーに沿ったボードゲームが楽しめます。\n<br>3人のキャラクターでチームを結成!4チームがサイコロをふってボードの中を移動し、様々なミニゲームをクリアしながら勝利を目指すゲームです。バリエーション豊かなミニゲームは50種類以上。キャラクターはプレイするごとにレベルアップしていくので、最強のチームを作り上げよう!",
+  "description": "■What is Disney Infinity?<br>By reading character figures with a special reader (Disney Infinity Base),<br>This is a new game where you can freely play in the worldview of each work and the world of limitless imagination.<br>■3DS version...<br>In the 3DS version, you can enjoy a board game that follows the story.<br>Form a team with 3 characters! This is a game where 4 teams move around the board by rolling dice, aiming for victory while clearing various mini-games. There are over 50 mini-games with a wide variety of variations. Characters will level up each time you play, so create the strongest team!",
   "release_date_on_eshop": "",
   "product_code": "CTR-P-ADYZ",
   "platform_name": "ニンテンドー3DSカードソフト",
   "region": "EU",
   "genres": [
-    "アクション"
+    "Action"
   ],
   "features": [
-    "3D映像対応",
-    "ローカルプレイ対応"
+    "Displays 3D Visuals",
+    "Supports Local Play"
   ],
   "languages": [
     "ja",
@@ -31,7 +31,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": "ローカルプレイは2人まで",
+  "disclaimer": "Local play for up to 2 players",
   "descriptors": [],
   "publisher": "Disney Interactive",
   "smdh": {

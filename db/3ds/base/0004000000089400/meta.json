@@ -3,13 +3,17 @@
   "uid": "",
   "name": "Jewel Link - Legends of Atlantis 3D",
   "formal_name": "Jewel Link - Legends of Atlantis 3D",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "Atlantis - did it ever really exist?\n<br/><br/>\nFor millennia, adventurers have sought the sunken kingdom and its countless treasures - but who created the mystic city in the first place?\n<br/><br/>\nDiscover the secret, erect magnificent buildings and restore Atlantis to its former glory! Build rows of three or more of the same symbol - you'll have huge chains built before you know it! Collect ancient artifacts and secret treasures that you can use to build your city.\n<br/><br/>\n• 100 challenging levels and two game modes\n<br/><br/>\n• Exciting bonus features\n<br/><br/>\n• Collect trophies\n<br/><br/>\n• Match 3 adventure with completely new features",
+  "release_date_on_eshop": "2013-04-10",
   "product_code": "CTR-P-AJ5P",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +30,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "The contents of the software are the same as the package version released on September 19, 2013 (price: 4,104 yen).<br>Due to the large amount of data, it may take a long time to download the software. Please download while charging your Nintendo 3DS.",
   "descriptors": [],
   "publisher": "GSP",
   "smdh": {

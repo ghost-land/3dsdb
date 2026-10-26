@@ -3,13 +3,22 @@
   "uid": "",
   "name": "とびだせ　どうぶつの森",
   "formal_name": "とびだせ　どうぶつの森",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "ゲームを『あつまれ どうぶつの森』にアップデートしてください amiibo ようこそ！<br>\n<br>全体的なエクスペリエンスを向上させるための新機能と調整を導入するソフトウェア アップデートが利用可能になりました。<br>\n<br>アップデート内容：<br>- amiiboの互換性を紹介<br>- 新エリア追加：キャンプ場<br>- 2 つのミニゲームを追加: どうぶつの森パズルリーグと無人島脱出<br>- amiiboカメラ機能追加<br>- 追加の家具、キャラクター、イベントが導入されました<br>- タッチスクリーンを使用して家具を配置できるようになりました<br>- 秘密の倉庫が追加され、より多くのアイテムを保管できるようになります<br>- ユーザーのエクスペリエンスと楽しみを向上させるための追加の機能強化を導入します<br>- よりスムーズなゲーム体験を提供するために、さまざまなバグが修正されました。",
+  "release_date_on_eshop": "2016-11-02",
   "product_code": "CTR-P-EGDJ",
   "platform_name": "3DSカード/ダウンロードソフト",
   "region": "JP",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Update Data"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "amiibo"
+  ],
   "languages": [
     "ja",
     "en"
@@ -19,7 +28,7 @@
     "age": "A"
   },
   "version": "v0.2.0",
-  "disclaimer": null,
+  "disclaimer": "このソフトウェアをダウンロードするには、現在の SD カードを、十分な空き容量のある互換性のある SDHC カードまたは microSDHC カードにアップグレードする必要がある場合があります。\nストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

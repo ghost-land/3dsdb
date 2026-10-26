@@ -3,13 +3,23 @@
   "uid": "",
   "name": "Mario & Sonic at the Rio 2016 Olympic Games",
   "formal_name": "Mario & Sonic at the Rio 2016 Olympic Games",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2016-02-18",
   "product_code": "CTR-P-BGXE",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "US",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Sports"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Nintendo Network",
+    "amiibo"
+  ],
   "languages": [
     "ja",
     "en",

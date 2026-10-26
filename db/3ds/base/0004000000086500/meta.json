@@ -3,13 +3,22 @@
   "uid": "",
   "name": "Twieonawayo Dongmul-ui Sup",
   "formal_name": "Twieonawayo Dongmul-ui Sup",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "게임을 『매달려 도부츠의 숲』으로 업데이트해 주세요 amiibo 환영합니다!<br>\n<br>전반적인 경험을 향상시키기 위해 새로운 기능과 조정을 도입하는 소프트웨어 업데이트를 사용할 수 있습니다.<br>\n<br>업데이트 내용:<br>- amiibo 호환성 소개<br>- 새로운 지역 추가 : 캠프장<br>- 두 개의 미니 게임 추가 : 두부 숲 퍼즐 리그와 무인도 탈출<br>- amiibo 카메라 기능 추가<br>- 추가 가구, 캐릭터, 이벤트가 도입되었습니다.<br>- 터치 스크린을 사용하여 가구를 배치할 수 있습니다.<br>- 비밀 창고가 추가되어 더 많은 아이템을 저장할 수 있습니다.<br>- 사용자 경험과 즐거움을 향상시키기 위한 추가적인 향상 기능을 도입<br>- 더 부드러운 게임 경험을 제공하기 위해 다양한 버그가 수정되었습니다.",
+  "release_date_on_eshop": "2016-11-02",
   "product_code": "CTR-P-EGDK",
   "platform_name": "3DS 카드/다운로드 소프트웨어",
   "region": "KR",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Update Data"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
+    "Mii",
+    "amiibo"
+  ],
   "languages": [
     "en",
     "ko"
@@ -19,7 +28,7 @@
     "age": "All"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "이 소프트웨어를 다운로드하려면 현재 SD 카드를 충분한 여유 공간이 있는 호환 가능한 SDHC 또는 microSDHC 카드로 업그레이드해야 할 수 있습니다.\n스토리지 옵션에 대한 자세한 내용은 support.nintendo.com을 방문하십시오. 별매입니다.",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

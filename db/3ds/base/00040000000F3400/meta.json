@@ -9,8 +9,8 @@
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "IT",
   "genres": [
-    "Adventure",
-    "Puzzle"
+    "avventura",
+    "puzzle"
   ],
   "features": [
     "Displays 3D Visuals",
@@ -26,7 +26,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "Il contenuto del software è lo stesso della versione confezionata (prezzo: 5.657 yen).<br>A causa della grande quantità di dati, il download del software potrebbe richiedere molto tempo. Scaricalo mentre carichi il tuo Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Nintendo"
 }

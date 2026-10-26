@@ -3,12 +3,14 @@
   "uid": "",
   "name": "Big Hero 6 - Battle in the Bay",
   "formal_name": "Big Hero 6 - Battle in the Bay",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2015-12-10",
   "product_code": "CTR-P-BH6E",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "US",
-  "genres": [],
+  "genres": [
+    "Action"
+  ],
   "features": [],
   "languages": [
     "ja",

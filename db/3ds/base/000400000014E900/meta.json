@@ -9,11 +9,11 @@
   "platform_name": "Nintendo 3DS (tarjeta/descarga)",
   "region": "ES",
   "genres": [
-    "Acción",
-    "Aventura"
+    "acción",
+    "aventuras"
   ],
   "features": [
-    "Con imágenes 3D"
+    "Displays 3D Visuals"
   ],
   "languages": [
     "en",
@@ -28,7 +28,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": "* El juego contiene voces\nen Castellano.",
+  "disclaimer": "* El juego contiene voces.\nen Castellano.",
   "descriptors": [],
   "publisher": "WB Games Inc.",
   "smdh": {

@@ -3,14 +3,14 @@
   "uid": "50010000039279",
   "name": "LEGO® Marvel Avengers",
   "formal_name": "LEGO® Marvel Avengers",
-  "description": "Avengers Assemble! The best-selling\nLEGO® Marvel videogame franchise\nreturns with a new action-packed,\nSuper Hero adventure. Join the \nLEGO® Marvel’s Avengers team and\nexperience the first console\nvideogame featuring characters and\nstorylines from the\ncritically-acclaimed film Marvel’s The\nAvengers, the blockbuster sequel\nMarvel’s Avengers: Age of Ultron, and\nmore. Play as the most powerful\nSuper Heroes in their quest to save\nthe world.",
+  "description": "Vendicatori riuniti! Il più venduto\nFranchising di videogiochi LEGO® Marvel\nritorna con un nuovo film ricco di azione,\nAvventura da supereroe. Unisciti a \nIl team LEGO® Marvel's Avengers e\nprovare la prima console\nvideogioco con personaggi e\ntrame da\nfilm acclamato dalla critica Marvel's The\nAvengers, il sequel campione d'incassi\nMarvel's Avengers: Age of Ultron e\ndi più. Gioca nei panni del più potente\nSupereroi nella loro ricerca per salvare\nil mondo.",
   "release_date_on_eshop": "2016-01-29",
   "product_code": "CTR-P-ALEP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "IT",
   "genres": [
-    "Action",
-    "Adventure"
+    "Azione",
+    "Avventura"
   ],
   "features": [
     "Displays 3D Visuals"
@@ -28,8 +28,10 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": "* Game contains\nEnglish voice over.",
-  "descriptors": [],
+  "disclaimer": "*Il gioco contiene\nVoce fuori campo in inglese.",
+  "descriptors": [
+    "Mild animated violence"
+  ],
   "publisher": "WB Games Inc.",
   "smdh": {
     "flags": [

@@ -12,7 +12,10 @@
     "퍼즐",
     "액션"
   ],
-  "features": [],
+  "features": [
+    "インターネット対応",
+    "Nintendo Network"
+  ],
   "languages": [
     "en",
     "ko"

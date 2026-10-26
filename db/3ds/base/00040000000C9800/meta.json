@@ -3,16 +3,16 @@
   "uid": "50010000009726",
   "name": "ゾンビスレイヤー",
   "formal_name": "ゾンビスレイヤー",
-  "description": "Zombie Slayer Diox™ is a rhythm-action game with a side-scrolling twist! You are put into the jeans and leather boots of a samurai guitarist in the year 20xx. Zombies have taken over most major cities in the world and our hero, Diox, is on a quest to put an end to the undead. Diox lures the zombies with his sweet songs and sick guitar solos, and he cuts them down with his mighty katana when they get close. There is a rumor that deep within zombie territory, a super guitar amp exists that can be used to kill thousands of zombies at once with the strum of a simple power chord...",
+  "description": "Zombie Slayer Diox™ は横スクロールのリズム アクション ゲームです。あなたは 20xx 年のサムライ ギタリストのジーンズと革ブーツを履いています。ゾンビが世界のほとんどの主要都市を占拠しており、主人公のディオックスはアンデッドを終わらせるべく冒険を続けています。ディオックスは甘い歌と気持ち悪いギターソロでゾンビを誘惑し、ゾンビが近づくと強力な刀で切り倒します。ゾンビの領域の奥深くには、簡単なパワーコードを弾くだけで一度に何千ものゾンビを殺すことができるスーパーギターアンプが存在するという噂があります...",
   "release_date_on_eshop": "2012-03-22",
   "product_code": "CTR-N-JZSJ",
   "platform_name": "Nintendo 3DS Download Only",
   "region": "JP",
   "genres": [
-    "Action",
-    "Arcade",
-    "Other",
-    "Music"
+    "アクション",
+    "アーケード",
+    "他の",
+    "音楽"
   ],
   "features": [
     "Displays 3D Visuals"
@@ -33,7 +33,7 @@
     "age": "15"
   },
   "version": "v0.1.0",
-  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "disclaimer": "このソフトウェアをダウンロードするには、追加の互換性のある SD カードまたは空き容量のある SDHC カードが必要になる場合があります。ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
   "descriptors": [
     "Blood",
     "Violence"

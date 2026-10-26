@@ -3,13 +3,24 @@
   "uid": "",
   "name": "Tetris",
   "formal_name": "Tetris",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "Distribution of this software ended on January 1, 2015.<br>\n<br>■New modes have been added, allowing you to play in a total of 25 modes! You can also dress up your Mii.<br>New modes not found in the previous Tetris series have been added, including the classic \"Marathon\" that is safe even for first-timers, \"Lucky Attack\" that is limited to one minute, \"Jigsaw\" where you complete the picture shown in the model, and \"Star Catch\" where you compete for stars on the front and back sides.<br>Full of fun with 25 modes!<br>Using the AR function, you can play Tetris while being shown on the Nintendo 3DS camera.<br>You can also choose your Mii and dress it up with fashion items.<br>■Enjoy playing Tetris with up to 8 people!<br>With one piece of software, up to 8 people can play Tetris.<br>You can even play online! Compete with Tetris players from all over the world.",
+  "release_date_on_eshop": "2013-02-28",
   "product_code": "CTR-P-ATLP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports SpotPass",
+    "Supports Download Play",
+    "Mii",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +37,7 @@
     "age": "3"
   },
   "version": "v1.0.1",
-  "disclaimer": null,
+  "disclaimer": "The contents of the software are the same as the package version released on October 20, 2011 (price: 4,104 yen).<br>Due to the large amount of data, it may take a long time to download the software. Please download while charging your Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Tetris Online, Inc.",
   "smdh": {

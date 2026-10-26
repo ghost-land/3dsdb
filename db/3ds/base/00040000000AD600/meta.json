@@ -3,13 +3,19 @@
   "uid": "",
   "name": "LEGO City Undercover - The Chase Begins",
   "formal_name": "LEGO City Undercover - The Chase Begins",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "Distribution of this software ended at midnight on Wednesday, December 23, 2020.<br>\n<br>----------------------------------------------<br>\"LEGO® City Undercover Chase Begins\" is an action-adventure game where you can freely roam around the vast LEGO City and feel the atmosphere of the city, while enjoying a comical story and many collectible elements.<br>\n<br>Lego City is a city where buildings, vehicles, and even plants are made of Lego blocks. Set in this city, rookie police officer Chase McCain uses his various disguises to solve tricks and get to the bottom of many incidents.<br>Anything made of Lego blocks can be destroyed. By reassembling the broken parts, you may find hints to solving the case. Furthermore, as you progress through the story and acquire new disguise abilities, your range of action will expand rapidly. You can ride not only police cars, but also any car running in the city. It's exhilarating to find your favorite vehicle and drive around the spacious city.<br>Please enjoy LEGO City to the fullest, which is full of stories, items, and mini-missions.",
+  "release_date_on_eshop": "2015-03-05",
   "product_code": "CTR-P-AA8P",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "action",
+    "adventure"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +32,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "Due to the large amount of data, it may take a long time to download the software. Please download while charging your Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

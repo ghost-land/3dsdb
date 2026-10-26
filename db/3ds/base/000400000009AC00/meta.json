@@ -9,10 +9,10 @@
   "platform_name": "Nintendo 3DS (téléchargement)",
   "region": "FR",
   "genres": [
-    "Style de vie"
+    "Mode de vie"
   ],
   "features": [
-    "Affichage 3D",
+    "Displays 3D Visuals",
     "SpotPass",
     "Nintendo Network"
   ],
@@ -24,7 +24,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
+  "disclaimer": "Vous aurez peut-être besoin d'une carte SD ou SDHC compatible supplémentaire avec de l'espace disponible pour télécharger ce logiciel. Visitez support.nintendo.com pour plus d’informations sur les options de stockage. Vendu séparément.<br><br>Contenu du jeu disponible à l'achat en utilisant les fonds du compte stocké.",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

@@ -13,8 +13,8 @@
     "Other"
   ],
   "features": [
-    "DSワイヤレスプレイ対応",
-    "DSダウンロードプレイ対応"
+    "Supports DS Wireless Play",
+    "Supports DS Download Play"
   ],
   "languages": [
     "ja"
@@ -24,7 +24,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": "※本ソフト内のトランプゲームはすべてニンテンドーDSソフト『だれでもアソビ大全』『Wi-Fi対応 世界のだれでもアソビ大全』に収録されています。ただし、これらのソフトとの通信はできません。また、Wi-Fi対戦はできません。\n\nニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "Nintendo"
 }

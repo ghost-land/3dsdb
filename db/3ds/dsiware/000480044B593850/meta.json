@@ -3,14 +3,12 @@
   "uid": "50010000012896",
   "name": "Anne's Doll Studio - Antique Collection",
   "formal_name": "Anne's Doll Studio - Antique Collection",
-  "description": "人気の『アトリエ デコ ラ ドール』シリーズ。5作目はロマンチックで豪華な雰囲気ただよう｢アンティークビスクドール｣の世界へ皆様をお連れします。レースとフリルに彩られたノスタルジックな衣装に、アンティークな小物をコーディネート。素敵な壁紙と雰囲気あるフレームで飾れば、あなただけの素敵なドールのできあがりです!",
+  "description": null,
   "release_date_on_eshop": "2012-12-26",
   "product_code": "TWL-N-KY8P",
   "platform_name": "ニンテンドーDSiウェア",
   "region": "EU",
-  "genres": [
-    "シミュレーション"
-  ],
+  "genres": [],
   "features": [],
   "languages": [
     "ja"
@@ -20,7 +18,7 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\n<br>ソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\n<br>ニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "スターフィッシュ･エスディ"
 }

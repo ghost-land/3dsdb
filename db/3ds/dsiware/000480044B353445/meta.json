@@ -3,14 +3,14 @@
   "uid": "50010000004941",
   "name": "Anne's Doll Studio - Gothic Collection",
   "formal_name": "Anne's Doll Studio - Gothic Collection",
-  "description": "人形をお好みの服や小物で着飾ることが出来るソフトです。ゴシックファッションを専門としたロマンチックなアイテムがそろっています。\nゴシックならではのメイクや髪型など、種類も豊富で、男の子のゴシックファッションもそろっています。気に入ったコーディネートを見つけたら、壁紙やフレームを選びます。\nキラキラのジュエルや、らくがきペンなどで、素敵なゴシックデコレーションもできます。\n2体まで人形を作ることができるので、可愛らしく並べることもできます。",
+  "description": null,
   "release_date_on_eshop": "2010-04-28",
   "product_code": "TWL-N-K54E",
   "platform_name": "ニンテンドーDSiウェア",
   "region": "US",
   "genres": [
-    "シミュレーション",
-    "その他"
+    "simulation",
+    "Other"
   ],
   "features": [],
   "languages": [
@@ -21,7 +21,7 @@
     "age": "0"
   },
   "version": "v0.2.0",
-  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "スターフィッシュ･エスディ"
 }

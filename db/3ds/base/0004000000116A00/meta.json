@@ -3,12 +3,14 @@
   "uid": "",
   "name": "One Piece - Romance Dawn",
   "formal_name": "One Piece - Romance Dawn",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2013-08-08",
   "product_code": "CTR-P-BRDZ",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "US",
-  "genres": [],
+  "genres": [
+    "RPG"
+  ],
   "features": [],
   "languages": [
     "ja",

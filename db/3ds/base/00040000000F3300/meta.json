@@ -9,8 +9,8 @@
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "ES",
   "genres": [
-    "Adventure",
-    "Puzzle"
+    "aventura",
+    "rompecabezas"
   ],
   "features": [
     "Supports StreetPass",
@@ -25,7 +25,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "El contenido del software es el mismo que el de la versión empaquetada (precio: 5657 yenes).<br>Debido a la gran cantidad de datos, la descarga del software puede llevar mucho tiempo. Descárgalo mientras cargas tu Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Nintendo"
 }

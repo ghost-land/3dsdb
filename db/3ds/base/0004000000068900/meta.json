@@ -3,13 +3,17 @@
   "uid": "",
   "name": "Brain Training 3D",
   "formal_name": "Brain Training 3D",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "Distribution of this software ended at 10:00 on Wednesday, June 30, 2021.<br>\n<br>----------------------------------------------<br>``3D Brain Training'' is a new type of training that trains your brain and develops ``memorization'' and ``ability to think'' in space. Develop your memory and thinking skills by capturing images and concepts of objects in space. You will train your brain by ``remembering'', ``searching'', and ``thinking'' while having fun with training that feels like a shooting game.",
+  "release_date_on_eshop": "2012-12-27",
   "product_code": "CTR-P-AKTP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Lifestyle"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",
@@ -28,7 +32,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "The contents of the software are the same as the package version released on April 7, 2011 (price: 4,104 yen).<br>Due to the large amount of data, it may take a long time to download the software. Please download while charging your Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Funbox Media Ltd",
   "smdh": {

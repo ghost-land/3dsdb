@@ -3,13 +3,19 @@
   "uid": "",
   "name": "Shovel Knight",
   "formal_name": "Shovel Knight",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "This is an update for the game card version of the Shovel Knight game. This download does not contain the full version of the title. In order to use this update, you must have the full game card version of Shovel Knight.\n<br>\n<br>Download this update to upgrade Shovel Knight to Shovel Knight: Treasure Trove!",
+  "release_date_on_eshop": "2020-04-20",
   "product_code": "CTR-P-AKSP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Updates"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "amiibo"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +32,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [],
   "publisher": "Yacht Club Games",
   "smdh": {

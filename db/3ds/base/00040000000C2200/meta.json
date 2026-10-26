@@ -3,13 +3,19 @@
   "uid": "",
   "name": "Hello Kitty Picnic with Sanrio Characters",
   "formal_name": "Hello Kitty Picnic with Sanrio Characters",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "Help Hello Kitty and Sanrio friends prepare for their picnic in the park in this fun collection of 10 mini-games! Collect all your picnic goodies and decorate five scenes including Hello Kitty’s bedroom, kitchen, and more.\n<br><br>\nEarn apple rewards to unlock new supercute outfits for Hello Kitty and special items you can use to decorate scene backgrounds. \n<br><br>\nIncludes all your favorite Hello Kitty characters: Hello Kitty®, My Melody®, Keroppi®, Chococat®, Badtz-Maru®, Little Twin Stars®, and many more!\n<br><br>\nFollow voice narration and use the Touch Screen for all activities!",
+  "release_date_on_eshop": "2013-01-10",
   "product_code": "CTR-P-AHLD",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Simulation",
+    "Multiplayer"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +32,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
   "descriptors": [],
   "publisher": "505 Games",
   "smdh": {

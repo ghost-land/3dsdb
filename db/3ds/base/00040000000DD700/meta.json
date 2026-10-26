@@ -3,18 +3,18 @@
   "uid": "50010000011772",
   "name": "PROJECT X ZONE",
   "formal_name": "PROJECT X ZONE",
-  "description": "カプコン、セガ、バンダイナムコゲームスの3社による史上最大のクロスオーバーが実現!!\n<br>25作品以上から人気キャラクターが集結するシミュレーションRPGがニンテンドー3DSに登場する。\n<br>独自のバトルシステム「クロス･アクティブ･バトル」では、5人以上のキャラクターによる迫力ある同時攻撃を繰り出すことも可能。",
-  "release_date_on_eshop": "",
+  "description": "The biggest crossover in history between Capcom, Sega, and Bandai Namco Games has been realized!!<br>A simulation RPG that brings together popular characters from over 25 titles is coming to Nintendo 3DS.<br>The unique battle system ``Cross Active Battle'' allows for powerful simultaneous attacks by five or more characters.",
+  "release_date_on_eshop": "2013-06-26",
   "product_code": "CTR-P-AXXJ",
   "platform_name": "ニンテンドー3DSカードソフト",
   "region": "EU",
   "genres": [
-    "シミュレーション",
-    "ロールプレイング"
+    "simulation",
+    "role playing"
   ],
   "features": [
-    "インターネット対応",
-    "3D映像対応",
+    "Supports Internet Play",
+    "Displays 3D Visuals",
     "Nintendo Network"
   ],
   "languages": [
@@ -25,7 +25,7 @@
     "age": "12"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "*The game content of this software is the same as the [North American] version and is displayed in [English] and has not been translated into Chinese. *If a consumer purchases this software because the notes or game content have not been translated into Chinese, the consumer is deemed to have agreed not to make any demands or complaints against the Company on the basis that the software has not been translated into Chinese. We are very sorry. Consumers are asked to use at their own risk.\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n*Precautions for safe use\nBefore using this software, please select \"Safety Instructions\" on the HOME menu to confirm the content.\nThe Instructions contain important instructions for your health and safety.\n\n*For other detailed information about this software, please check the Nintendo website or email to the following address.\nContact: general@nintendo.com.hk",
   "descriptors": [],
   "publisher": "NAMCO BANDAI Games Inc.",
   "smdh": {

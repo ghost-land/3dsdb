@@ -12,7 +12,7 @@
     "Aventura"
   ],
   "features": [
-    "Con imágenes 3D"
+    "Displays 3D Visuals"
   ],
   "languages": [
     "en",
@@ -26,7 +26,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": "*El juego contiene \nvoces en Castellano.",
+  "disclaimer": "* El juego contiene\nLocución en inglés.",
   "descriptors": [],
   "publisher": "WB Games Inc.",
   "smdh": {

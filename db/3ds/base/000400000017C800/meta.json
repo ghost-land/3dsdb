@@ -3,13 +3,18 @@
   "uid": "",
   "name": "The Legend of Legacy",
   "formal_name": "The Legend of Legacy",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2015-01-22",
   "product_code": "CTR-P-BLLP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports StreetPass"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +31,7 @@
     "age": "12"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "The software contents are the same as the packaged version.<br>Due to the large amount of data, it may take a long time to download the software. Please download while charging your Nintendo 3DS.",
   "descriptors": [],
   "publisher": "ATLUS",
   "smdh": {

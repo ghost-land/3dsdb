@@ -3,17 +3,17 @@
   "uid": "50010000036255",
   "name": "Psycho Pigs",
   "formal_name": "Psycho Pigs",
-  "description": "通信4人対戦に対応して『ぶたさん』がフルリメイク!\n<br>プレイヤーは、ぶたさんを操って戦いの頂点を目指せ!\n<br>\n<br>■爆弾で相手をぶっとばせ!\n<br>マップ上に落ちている爆弾を拾って投げ合う、対戦爆弾アクションゲームです。\n<br>キュートなしぐさの ぶたさんと、単純明快なルールで誰でも簡単に遊べます。\n<br>\n<br>■新しいマップ&アイテム\n<br>新しく追加されたマップやアイテムたちは戦いをより面白く、よりド派手にしてくれます。\n<br>ゲーム中で獲得できる「アクセサリー」を集めて、オリジナルのぶたさんに着せ替えて、対戦で使用することもできます。\n<br>\n<br>■インターネット通信対応\n<br>3DS版オリジナルの「みんなで対戦」モードを搭載。\n<br>勝敗ルールの設定やアイテムの有無などを決めて、最大4人までの対戦が可能です。\n<br>ローカル通信はもちろん、インターネット通信にも対応しています。\n<br>また「エンドレス」モードでは、通信を使って2人協力プレイも楽しめます。\n<br>さらにインターネットランキング対応で全国のユーザーとハイスコアを競えます。\n<br>\n<br>■もりだくさん!\n<br>オマケモードでは、アーケード版&3DS版のイラストや開発資料も収録しています。\n<br>3DS版BGMのほか、アーケード版BGMも収録したサウンドモードを搭載。",
+  "description": null,
   "release_date_on_eshop": "2015-08-19",
   "product_code": "CTR-N-KPGE",
   "platform_name": "ニンテンドー3DSダウンロードソフト",
   "region": "US",
   "genres": [
-    "アクション"
+    "Action"
   ],
   "features": [
-    "インターネット対応",
-    "ローカルプレイ対応",
+    "Supports Internet Play",
+    "Supports Local Play",
     "Nintendo Network"
   ],
   "languages": [
@@ -32,7 +32,7 @@
     "age": "M"
   },
   "version": "v0.0.0",
-  "disclaimer": "本ソフトは3D表示に対応しておりません。",
+  "disclaimer": "This software does not support 3D display.",
   "descriptors": [],
   "publisher": "Bergsala Lightweight LLC",
   "smdh": {

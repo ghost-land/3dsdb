@@ -3,20 +3,20 @@
   "uid": "50010000041479",
   "name": "Fire Emblem Fates - Special Edition",
   "formal_name": "Fire Emblem Fates - Special Edition",
-  "description": "※게임 내 자막은 한국어, 음성은 영어입니다.\n\n평화를 사랑하는 백야 왕국과 전쟁으로 세력 확대를 꿈꾸는 암야 왕국이 대립하는 세계. 양국의 긴장 관계는 극한에 달하여, 거대한 전쟁이 일어나려 하고 있다.\n백야 왕국의 왕가에서 태어나, 암야 왕국에서 자란 주인공은 어느 나라를 위해 싸울 것인지, 힘든 결단을 내려야 한다.\n본작에서는 암야 왕국과 백야 왕국의 2가지의 시나리오가 존재. 플레이어가 어느 나라를 선택하냐에 따라 세계관, 등장 인물은 공유하면서도, 스토리 등이 전혀 다른 대조적인 이야기가 펼쳐진다.",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2015-07-29",
   "product_code": "CTR-P-BFZP",
   "platform_name": "닌텐도 3DS 패키지",
   "region": "EU",
   "genres": [
-    "시뮬레이션"
+    "Simulation"
   ],
   "features": [
-    "인터넷 대응",
-    "3D 영상 대응",
-    "로컬 플레이 대응",
-    "엇갈림 통신 대응",
-    "어느새 통신 대응",
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
+    "Supports StreetPass",
+    "Supports SpotPass",
     "Nintendo Network",
     "amiibo"
   ],
@@ -36,7 +36,7 @@
     "age": "12"
   },
   "version": "v0.0.0",
-  "disclaimer": "제명:파이어 엠블렘 if\n상호:한국닌텐도(주)\n이용등급:12세이용가(선정성, 폭력성)\n등급분류번호:GC-CC-NV-160429-011\n등급분류 일자:2016.04.29\n제작・배급업신고번호:게배 제2012-10호\n※게임 내 자막 한국어, 음성 영어\n",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

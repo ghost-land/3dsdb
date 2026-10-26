@@ -9,7 +9,7 @@
   "platform_name": "Nintendo DSiWare",
   "region": "DE",
   "genres": [
-    "Other",
+    "Andere",
     "Simulation"
   ],
   "features": [],
@@ -20,7 +20,7 @@
     "name": "ESRB",
     "age": "6"
   },
-  "version": "",
+  "version": "v0.0.0",
   "disclaimer": null,
   "descriptors": [],
   "publisher": "Cinemax"

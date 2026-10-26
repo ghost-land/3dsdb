@@ -3,14 +3,16 @@
   "uid": "50010000012772",
   "name": "砕魂",
   "formal_name": "砕魂",
-  "description": "Old-school platforming on two\nscreens!\n<br/><br/>\nFractured Soul is a classic\nside-scrolling platform game with a\ntwist: it is played across both screens\nat once! Created by platform gamers\nfor platform gamers, and exclusively\nfor Nintendo 3DS, Fractured Soul\nliterally adds a new dimension to this\nmuch-loved genre.",
+  "description": "2 つのスクリーンで昔ながらのプラットフォームをプレイ！<br><br>Fractured Soul は、ひねりを加えた古典的な横スクロール プラットフォーム ゲームです。両方の画面で同時にプレイできます。プラットフォーム ゲーマーによってプラットフォーム ゲーマーのために、ニンテンドー 3DS システム専用に作成された Fractured soul は、文字通り、この人気のジャンルに新たな次元を加えます。<br><br>特徴<br>アクションが 2 倍になります: Fractured Soul は、すぐに馴染みのあるクラシックなプラットフォーム ゲームをデュアル スクリーン ゲームプレイで次のレベルに引き上げます。<br>スピード ランニングのオンライン ランキング: 任天堂のリーダーボードを通じて友達や世界と競い合いましょう。<br>ゲームプレイの多様性: 5 つの主要なゾーン。それぞれが 2 番目の画面にユニークな挑戦をもたらします。次元を変える旅では、水中、激しい風、灼熱、さらには逆重力の中を進みます。<br>数時間のコンテンツ: プラットフォーミングとシューティング ゲーム スタイルの両方に加え、壮大なデュアル スクリーンのボス バトルを含む 5 つのゾーンにわたる 30 のレベル。<br>ハードコアチャレンジ: チャレンジレベルのロックを解除し、自分のスキルを限界までテストしてください!",
   "release_date_on_eshop": "2013-04-10",
   "product_code": "CTR-N-JFDJ",
   "platform_name": "Nintendo 3DS (Download)",
   "region": "JP",
   "genres": [
-    "Action",
-    "Arcade"
+    "プラットフォーマー",
+    "アクション",
+    "アドベンチャー",
+    "アーケード"
   ],
   "features": [
     "Nintendo Network"
@@ -31,7 +33,7 @@
     "age": "A"
   },
   "version": "v0.1.0",
-  "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "disclaimer": "このソフトウェアをダウンロードするには、追加の互換性のある SD カードまたは空き容量のある SDHC カードが必要になる場合があります。ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
   "descriptors": [
     "Fantasy Violence"
   ],

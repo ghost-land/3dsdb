@@ -12,7 +12,9 @@
     "Action",
     "Platformer"
   ],
-  "features": [],
+  "features": [
+    "Nintendo Network"
+  ],
   "languages": [
     "en"
   ],

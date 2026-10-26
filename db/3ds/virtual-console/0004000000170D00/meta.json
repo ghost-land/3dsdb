@@ -3,17 +3,13 @@
   "uid": "50010000038657",
   "name": "ポケットモンスター 綠 (日文版)",
   "formal_name": "ポケットモンスター 綠 (日文版)",
-  "description": "此遊戲軟體是1996年發售的Game Boy專用角色扮演遊戲。\n<br>前往Pokémon的世界！利用Pocket Ball捕捉的Pokémon能透過無線通訊和朋友進行交換、對戰！Pokémon共有150種！和所有Pokémon相遇，以完成Pokédex為目標吧！\n<br>※以當時盒裝版上的文字記載為依歸。\n<br>\n<br>●此遊戲軟體為「綠」版。「Pokémon的出現率」及「出現的Pokémon種類」按「赤」、「青」、「ピカチュウ」版而不同。\n<br>●「赤」、「綠」、「青」及「ピカチュウ」版之間能進行通訊、對戰、交換。\n<br>※無法和其他Pokémon遊戲軟體或週邊設備進行通訊。\n<br>※無法對應利用鄰近主機通訊進行的交換或對戰以外之功能及週邊設備。",
+  "description": null,
   "release_date_on_eshop": "2016-02-26",
   "product_code": "CTR-N-RCMA",
   "platform_name": "GAME BOY",
   "region": "FREE",
-  "genres": [
-    "角色扮演"
-  ],
-  "features": [
-    "對應鄰近主機連線遊戲"
-  ],
+  "genres": [],
+  "features": [],
   "languages": [
     "ja"
   ],
@@ -22,7 +18,7 @@
     "age": "6"
   },
   "version": "v1.1.0",
-  "disclaimer": "●此遊戲軟體是除擴張功能外，在Nintendo 3DS上重現原作遊戲內容的作品。\n<br>\n<br>●「まるごとバックアップ機能」和「VC中斷機能」在此遊戲軟體裡無法使用，敬請原諒。\n<br>\n<br>●此遊戲軟體為「綠」版。「Pokémon的出現率」及「出現的Pokémon種類」按「赤」、「青」、「ピカチュウ」版而不同。\n<br>\n<br>●「赤」、「綠」、「青」及「ピカチュウ」版之間能進行通訊、對戰、交換。\n<br>※無法和其他Pokémon遊戲軟體或週邊設備進行通訊。\n<br>※無法對應利用鄰近主機通訊進行的交換或對戰以外之功能及週邊設備。\n\n注意事項：本軟體內容與［日本］版相同。遊戲內容及電子說明書均與該版本相同，以[日文] 顯示，並未經中文翻譯等處理。※若消費者因注意事項及說明書等未為中文翻譯而仍購買本軟體，則視為消費者同意不以本軟體未有中文翻譯而向本公司為任何請求或主張，敬請見諒。並請消費者自行承擔使用風險。\n® or TM is a registered trademark or trademark in Japan or other countries.\n\n※安全使用須知\n使用本軟體前，請選擇HOME選單的「安全使用須知」確認內容。\n須知中記載著顧及您健康與安全的重要說明。\n\n※關於此軟體的其他詳細資訊，請上任天堂網站查詢或電郵至以下地址。\n\n諮詢處：general@nintendo.com.hk",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

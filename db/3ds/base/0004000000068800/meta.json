@@ -3,13 +3,18 @@
   "uid": "",
   "name": "Sudoku + 7 Other Complex Puzzles by Nikoli",
   "formal_name": "Sudoku + 7 Other Complex Puzzles by Nikoli",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "Contains a total of 8 types of puzzles, including the world famous \"Sudoku\"!<br>Contains 1000 questions in 8 types!<br>Outstanding operability achieved through collaboration with Nicoli!<br>There are many elements unique to the Nintendo 3DS, such as an enlarged display of the board and 3D display of input numbers!<br>Furthermore, up to 4 people can compete online.",
+  "release_date_on_eshop": "2013-08-29",
   "product_code": "CTR-P-ANQP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Puzzle"
+  ],
+  "features": [
+    "Displays 3D Visuals",
+    "Supports Local Play"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +31,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "The contents of the software are the same as the package version released on March 31, 2011 (price: 4,104 yen).<br>Due to the large amount of data, it may take a long time to download the software. Please download while charging your Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Funbox Media Limited",
   "smdh": {

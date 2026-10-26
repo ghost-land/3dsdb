@@ -3,16 +3,14 @@
   "uid": "50010000007703",
   "name": "Mario Kart™ 7",
   "formal_name": "Mario Kart™ 7",
-  "description": "A New Dimension of Kart Racing!\n<br><br>\nThe newest installment of the fan-favorite Mario Kart™ franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging into the depths of the sea. New courses, strategic new\nabilities and customizable karts bring the racing excitement to new heights.",
+  "description": "陸、海、空、賽車的世界變得無限寬廣。\n新追加的16條賽道加上系列作熟悉的賽道，總共有32條賽道。就算是熟悉的賽道，也加入上天下海等各種機關讓您體驗。可組裝成自己喜歡的賽車。玩家可以一個人挑戰大賽或對戰，或是大家一起比賽，也可以連線到網路和全世界的玩家最多8個人進行對戰。也可讓您的Mii加入戰局。",
   "release_date_on_eshop": "2012-10-18",
   "product_code": "CTR-N-AMKE",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "CN",
   "genres": [
-    "Racing",
-    "Sports",
-    "Action",
-    "Multiplayer"
+    "种族",
+    "行动"
   ],
   "features": [
     "Displays 3D Visuals",
@@ -33,7 +31,7 @@
     "age": "6"
   },
   "version": "v2.1.0",
-  "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or <br>\n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+  "disclaimer": "该软件的内容与2011年12月1日发布的套装版本相同（价格：4,937日元）。<br>由于数据量较大，下载软件可能需要较长时间。请在为 Nintendo 3DS 充电时下载。",
   "descriptors": [
     "Comic Mischief",
     "Online Interactions Not Rated by the ESRB"

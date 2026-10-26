@@ -3,13 +3,20 @@
   "uid": "",
   "name": "Etrian Mystery Dungeon",
   "formal_name": "Etrian Mystery Dungeon",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2015-03-05",
   "product_code": "CTR-P-BFDE",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "US",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "RPG"
+  ],
+  "features": [
+    "Supports Internet Play",
+    "Displays 3D Visuals",
+    "Supports StreetPass",
+    "Nintendo Network"
+  ],
   "languages": [
     "ja",
     "en",
@@ -26,7 +33,7 @@
     "age": "10"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "The software contents are the same as the packaged version.<br>Due to the large amount of data, it may take a long time to download the software. Please download while charging your Nintendo 3DS.",
   "descriptors": [],
   "publisher": "Atlus U.S.A., Inc.",
   "smdh": {

@@ -3,12 +3,14 @@
   "uid": "",
   "name": "Doraemon - Nobita's Number Adventure",
   "formal_name": "Doraemon - Nobita's Number Adventure",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "这是一款射击游戏，玩家扮演大雄，与哆啦A梦一起打败邪恶的枪手……在玩的过程中，你将能够快速可靠地练习计算你在小学学到的四种算术。在您不知不觉中，它是一款易于学习的“学习”软件，可以提高您的计算技能。",
+  "release_date_on_eshop": "2014-04-03",
   "product_code": "CTR-P-ADWW",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "TW",
-  "genres": [],
+  "genres": [
+    "学習"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -19,7 +21,7 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "本ソフトは3D表示に対応しておりません。",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

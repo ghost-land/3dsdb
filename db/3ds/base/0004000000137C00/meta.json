@@ -3,12 +3,15 @@
   "uid": "",
   "name": "Adventure Time - The Secret of the Nameless Kingdom",
   "formal_name": "Adventure Time - The Secret of the Nameless Kingdom",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": null,
+  "release_date_on_eshop": "2016-12-15",
   "product_code": "CTR-P-AVTP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
+  "genres": [
+    "adventure",
+    "action"
+  ],
   "features": [],
   "languages": [
     "ja",
@@ -26,7 +29,7 @@
     "age": "7"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "This software does not support 3D display.",
   "descriptors": [],
   "publisher": "Little Orbit®",
   "smdh": {

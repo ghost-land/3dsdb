@@ -3,13 +3,19 @@
   "uid": "",
   "name": "Dragon Ball Fusions",
   "formal_name": "Dragon Ball Fusions",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "Expand your Dragon Ball Fusions experience with additional content: \n<br>• New characters: Goku Black, SSGSS Vegito, Zamasu and more!\n<br>• New clothes\n<br>• New titles\n<br>• New special moves\n<br>\n<br>POWER UP FOR MAXIMUM FUSION!",
+  "release_date_on_eshop": "2016-08-04",
   "product_code": "CTR-P-BDLP",
   "platform_name": "Nintendo 3DS (Card/Download)",
   "region": "EU",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "role playing",
+    "action"
+  ],
+  "features": [
+    "Supports Local Play",
+    "Supports StreetPass"
+  ],
   "languages": [
     "ja",
     "en",

@@ -3,12 +3,14 @@
   "uid": "",
   "name": "Doraemon",
   "formal_name": "Doraemon",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "플레이어는 노비타가 되어, 도라에몽과 함께 나쁜 암만을 붙잡는 슈팅 게임… 눈치채면, 계산력이 향상되고, 편하게 배울 수 있는 「악습(가쿠슈)」소프트입니다.",
+  "release_date_on_eshop": "2014-04-03",
   "product_code": "CTR-P-ADWK",
   "platform_name": "3DS 카드/다운로드 소프트웨어",
   "region": "KR",
-  "genres": [],
+  "genres": [
+    "学習"
+  ],
   "features": [],
   "languages": [
     "en",
@@ -19,7 +21,7 @@
     "age": "All"
   },
   "version": "v0.0.0",
-  "disclaimer": null,
+  "disclaimer": "본 소프트웨어는 3D 표시에 대응하고 있지 않습니다.",
   "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {

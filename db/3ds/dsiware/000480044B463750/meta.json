@@ -3,17 +3,17 @@
   "uid": "50010000007026",
   "name": "Hooked on Bass Fishing - GO Series",
   "formal_name": "Hooked on Bass Fishing - GO Series",
-  "description": "「いつでも釣日和」がルアー釣りになって帰ってきた!\n簡単操作はそのままに、多彩な演出を追加しました。\n新搭載のHELPボタン・女の子での釣りなどにより、初心者は気楽な釣りを、熟練者は攻略性の高い釣りを楽しめるようにもなりました。\n巨大魚を釣りあげる興奮を存分にお楽しみ下さい。",
+  "description": null,
   "release_date_on_eshop": "2011-07-13",
   "product_code": "TWL-N-KF7P",
   "platform_name": "ニンテンドーDSiウェア",
   "region": "EU",
   "genres": [
-    "スポーツ",
-    "アクション"
+    "Sports",
+    "Action"
   ],
   "features": [
-    "DSワイヤレスプレイ対応"
+    "Supports DS Wireless Play"
   ],
   "languages": [
     "ja"
@@ -23,7 +23,7 @@
     "age": "0"
   },
   "version": "v0.1.0",
-  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "甲南電機製作所"
 }

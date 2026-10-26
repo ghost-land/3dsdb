@@ -3,13 +3,20 @@
   "uid": "",
   "name": "Junior Classic Games 3D",
   "formal_name": "Junior Classic Games 3D",
-  "description": "",
-  "release_date_on_eshop": "",
+  "description": "See your favorite games come alive!\nGet up close and personal with the\nmost exciting game collection for kids\nand teens! Dive into mind boggling\npuzzles or fast and furious action\nchallenges. These games will seem to\ncome alive in your very own hands\nwith engaging graphics and\nelectrifying 3D effects. Now the\ngames you love most offer even more\nfun and hours upon hours of\nentertainment!\n<br/><br/>\n• Features 35 exhilarating games that\nnever get old\n<br/><br/>\n• Play classics like Tic-Tac-Toe,\nSolitaire, and Chess\n<br/><br/>\n• Test your speed with Air Hockey,\nDarts, and Tournament Pong!\n<br/><br/>\n• Solve puzzles, seek & find scenes,\nbrainteasers, and more",
+  "release_date_on_eshop": "2013-04-10",
   "product_code": "CTR-P-AJCE",
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "US",
-  "genres": [],
-  "features": [],
+  "genres": [
+    "Puzzle",
+    "Arcade",
+    "Action",
+    "Education"
+  ],
+  "features": [
+    "Displays 3D Visuals"
+  ],
   "languages": [
     "ja",
     "en",

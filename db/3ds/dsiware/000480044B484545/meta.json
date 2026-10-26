@@ -3,14 +3,14 @@
   "uid": "50010000005266",
   "name": "DOT MAN",
   "formal_name": "DOT MAN",
-  "description": "昔懐かしいドットイートゲームがニンテンドーDSiウェアに登場。\nプレイヤーはスーパーカーを操り、パトカーの制止を振切りながら、画面上にある全てのコイン取得を目指します。パトカーを振切るには、車線変更、Ｕターンを駆使して、車を手足の如く操るテクニックが必要になります。\n全てのステージのコインを獲得して、高得点を奪取しよう。",
+  "description": "Finally, a chance to drive as fast as\nyou can with no regard to the law.\nPut the pedal to the metal and drive\nwith both confidence and precision as\nyou speed around collecting all the\ncoins on each stage as quickly as\npossible.\n<br/><br/>\nExecute evasive moves and collect\nessential items to help you dodge the\npolice and escape being caught.\nWatch out for the three strikes and\nyou are out! If you are caught by the\npolice three times the game is over.\n<br/><br/>\nIt’s up to you to perform last minute\nlane changes, stealthy U-turns and\ndetermine the rate of speed. However,\nkeep in mind, once you start going\nthere is no stopping.\n<br/><br/>\nDotMan is a non-stop action game\nthat takes you back to the golden\nyears of arcade gaming. Strap\nyourself into the driver’s seat and\nprepare yourself for the ride of your\nlife.\n<br/><br/>\nFeatures:\n<br/>\n- Collect items to gain an\nadvantage.\n<br/>\n- Master U-turns and sneaky lane\nchanges.\n<br/>\n- Collect bonus items to earn a\nhigher score.",
   "release_date_on_eshop": "2010-08-04",
   "product_code": "TWL-N-KHEJ",
   "platform_name": "ニンテンドーDSiウェア",
   "region": "US",
   "genres": [
-    "レース",
-    "アクション"
+    "Racing",
+    "Action"
   ],
   "features": [],
   "languages": [
@@ -21,7 +21,7 @@
     "age": "0"
   },
   "version": "v0.2.0",
-  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "Agetec"
 }
