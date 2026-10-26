@@ -1,0 +1,124 @@
+{
+  "generated_at": "2026-10-26T20:10:09Z",
+  "absent_from_db": {
+    "base": 768,
+    "dlc": 0,
+    "dsiware": 0,
+    "updates": 0,
+    "videos": 0,
+    "virtual-console": 0,
+    "themes": 1,
+    "extras": 3
+  },
+  "recovered_since_seed": {
+    "base": 653,
+    "dlc": 230,
+    "dsiware": 330,
+    "updates": 30,
+    "videos": 204,
+    "virtual-console": 38,
+    "themes": 0,
+    "extras": 53
+  },
+  "incomplete_in_db": {
+    "base": {
+      "titles": 443,
+      "missing_icon": 0,
+      "missing_banner": 427,
+      "missing_top_image": 439,
+      "missing_uid": 423,
+      "missing_screenshots": 440,
+      "thin_meta": 426
+    },
+    "digital-demos": {
+      "titles": 374,
+      "missing_icon": 0,
+      "missing_banner": 367,
+      "missing_top_image": 374,
+      "missing_uid": 367,
+      "missing_screenshots": 373,
+      "thin_meta": 367
+    },
+    "dlc": {
+      "titles": 163,
+      "missing_icon": 1,
+      "missing_banner": 155,
+      "missing_top_image": 162,
+      "missing_uid": 155,
+      "missing_screenshots": 163,
+      "thin_meta": 155
+    },
+    "dsiware": {
+      "titles": 217,
+      "missing_icon": 0,
+      "missing_banner": 217,
+      "missing_top_image": 208,
+      "missing_uid": 206,
+      "missing_screenshots": 206,
+      "thin_meta": 206
+    },
+    "extras": {
+      "titles": 51,
+      "missing_icon": 0,
+      "missing_banner": 51,
+      "missing_top_image": 51,
+      "missing_uid": 51,
+      "missing_screenshots": 51,
+      "thin_meta": 51
+    },
+    "kiosk-demos": {
+      "titles": 11,
+      "missing_icon": 0,
+      "missing_banner": 11,
+      "missing_top_image": 11,
+      "missing_uid": 11,
+      "missing_screenshots": 11,
+      "thin_meta": 11
+    },
+    "region-free": {
+      "titles": 5,
+      "missing_icon": 0,
+      "missing_banner": 4,
+      "missing_top_image": 5,
+      "missing_uid": 4,
+      "missing_screenshots": 5,
+      "thin_meta": 4
+    },
+    "unknown-other": {
+      "titles": 14,
+      "missing_icon": 0,
+      "missing_banner": 14,
+      "missing_top_image": 14,
+      "missing_uid": 14,
+      "missing_screenshots": 14,
+      "thin_meta": 14
+    },
+    "updates": {
+      "titles": 531,
+      "missing_icon": 0,
+      "missing_banner": 7,
+      "missing_top_image": 531,
+      "missing_uid": 7,
+      "missing_screenshots": 531,
+      "thin_meta": 7
+    },
+    "videos": {
+      "titles": 227,
+      "missing_icon": 0,
+      "missing_banner": 216,
+      "missing_top_image": 223,
+      "missing_uid": 216,
+      "missing_screenshots": 224,
+      "thin_meta": 219
+    },
+    "virtual-console": {
+      "titles": 30,
+      "missing_icon": 0,
+      "missing_banner": 30,
+      "missing_top_image": 30,
+      "missing_uid": 30,
+      "missing_screenshots": 30,
+      "thin_meta": 30
+    }
+  }
+}

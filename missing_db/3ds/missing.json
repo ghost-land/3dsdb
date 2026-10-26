@@ -1,1 +1,13 @@
-{}
+{
+  "absent_from_db": {
+    "base": 768,
+    "dlc": 0,
+    "dsiware": 0,
+    "updates": 0,
+    "videos": 0,
+    "virtual-console": 0,
+    "themes": 1,
+    "extras": 3
+  },
+  "see": "summary.json"
+}
