@@ -1,5 +1,5 @@
 # 3DS-dB
-An open-source **metadata & media** database for Nintendo 3DS titles.
+An open-source metadata & media database for Nintendo 3DS.
 
 Per Title ID: eShop-style `meta.json` (name, region, product code, genres, …) plus media assets (`icon`, `banner`, `top_image`, screenshots / thumbnails). Not a ROM archive — metadata and artwork only.
 
