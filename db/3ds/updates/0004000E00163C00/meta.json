@@ -12,9 +12,9 @@
     "更新データ"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass"
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応"
   ],
   "languages": [
     "ja"
@@ -25,9 +25,7 @@
   },
   "version": "v7.10.0",
   "disclaimer": "ニンテンドー3DSソフト『ドラゴンボールZ 超究極武闘伝』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [
-    "Cartoon Violence"
-  ],
+  "descriptors": [],
   "publisher": "バンダイナムコエンターテインメント",
   "smdh": {
     "flags": [

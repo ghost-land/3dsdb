@@ -28,11 +28,7 @@
   },
   "version": "v0.1.0",
   "disclaimer": "このゲームのサイズが大きいため、このタイトルのデジタル バージョンのダウンロードには、他の Nintendo eShop ゲームと比べて時間がかかる場合があります。購入時に、「今すぐダウンロード」を選択してゲームのダウンロードをすぐに開始するか、または \n「後でダウンロード」では、システムが「スリープ モード」に入ったときにゲームをダウンロードします。<br><br>このソフトウェアをダウンロードするには、現在の SD カードを、十分な空き容量のある互換性のある SDHC カードまたは microSDHC カードにアップグレードする必要がある場合があります。\nストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
-  "descriptors": [
-    "Crude Humor",
-    "Fantasy Violence",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

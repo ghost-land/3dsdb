@@ -4,7 +4,7 @@
   "name": "心霊カメラ ～憑いてる手帳～",
   "formal_name": "心霊カメラ ～憑いてる手帳～",
   "description": "ニンテンドー3DS本体を“ありえないもの”を映し出す心霊カメラに見立て、付属の「ARノート」のページを映しながら遊ぶホラーゲーム。\n<br>AR(拡張現実)によって、ノートの中に存在する様々な謎や怨霊が、現実へと映し出される恐怖を体験することができます。\n<br>呪われた日記の謎を追う、ARストーリー「零～紫の日記～」、そのシャッターが恐怖を生む「ゴーストカメラ」、ARノートに隠された様々な仕掛けを楽しむ「ホラーノート」、3つのモードをお楽しみいただけます。",
-  "release_date_on_eshop": "TBD",
+  "release_date_on_eshop": null,
   "product_code": "CTR-P-ALCJ",
   "platform_name": "ニンテンドー3DSカードソフト",
   "region": "JP",
@@ -24,10 +24,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": null,
-  "descriptors": [
-    "Blood",
-    "Violence"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

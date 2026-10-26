@@ -26,9 +26,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "このソフトウェアをダウンロードするには、追加の互換性のある SD カードまたは空き容量のある SDHC カードが必要になる場合があります。ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
-  "descriptors": [
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

@@ -3,8 +3,8 @@
   "uid": "50010000040195",
   "name": "Super Punch-Out!!™",
   "formal_name": "Super Punch-Out!!™",
-  "description": "Prepare for a knockout experience in Super Punch-Out!!, the Super Nintendo sequel to the classic boxing game!\n<br>\n<br>Face off against your favourite opponents from the arcade and NES versions, along with a roster of all-new foes, on your way to the top of the WVBA (World Video Boxing Association) rankings.\n<br>\n<br>Take on 16 opponents in Championship Mode, learning their techniques and weak points to take them down, or practise your skills on single opponents in Time Attack Mode.\n<br>\n<br>Bold, colourful graphics and dramatic sound effects set the scene for what promises to be the fight of your life!\n<br>\n<br>This is the US version of the game.",
-  "release_date_on_eshop": "2016-04-28",
+  "description": "Featuring the tight game play and humor the series is known for, this sequel to the NES classic sees Little Mac return to the ring with the World Video Boxing Association belt once again at stake. Slug your way through the grueling, sweat-pounding matches of the Minor, Major, and World Circuits as you face off against some of Little Mac’s greatest rivals like Bear Hugger, Bald Bull, and Super Macho Man. With a cast of new challengers waiting, do you have what it takes to identify their unique patterns and exploit their weaknesses? Go to your corner and come out fighting, but remember what Doc Louis would say, “It’s not about brawling—it’s about finesse!”",
+  "release_date_on_eshop": "2016-05-05",
   "product_code": "KTR-N-UALE",
   "platform_name": "Super Nintendo",
   "region": "US",
@@ -19,14 +19,12 @@
     "en"
   ],
   "rating_system": {
-    "name": "PEGI",
-    "age": "12"
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "v0.0.0",
   "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": [
-    "Moderate Violence"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

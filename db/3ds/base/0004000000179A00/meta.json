@@ -25,10 +25,7 @@
   },
   "version": "v0.2.0",
   "disclaimer": "このソフトウェアをダウンロードするには、追加の互換性のある SD カードまたは空き容量のある SDHC カードが必要になる場合があります。ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
-  "descriptors": [
-    "Mild Cartoon Violence",
-    "Mild Language"
-  ],
+  "descriptors": [],
   "publisher": "Pikii",
   "smdh": {
     "flags": [

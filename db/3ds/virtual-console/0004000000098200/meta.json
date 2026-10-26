@@ -12,7 +12,7 @@
     "アクション"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "3D映像対応"
   ],
   "languages": [
     "ja"
@@ -23,9 +23,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "このソフトウェアをダウンロードするには、追加の互換性のある SD カードまたは空き容量のある SDHC カードが必要になる場合があります。ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
-  "descriptors": [
-    "Fantasy Violence"
-  ],
+  "descriptors": [],
   "publisher": "SEGA",
   "smdh": {
     "flags": [

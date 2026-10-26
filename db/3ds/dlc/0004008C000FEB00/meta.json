@@ -9,13 +9,13 @@
   "platform_name": "Nintendo 3DS Download Only",
   "region": "KR",
   "genres": [
-    "Adventure",
-    "Puzzle",
+    "어드벤처",
+    "퍼즐",
     "RPG"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports SpotPass"
+    "3D 영상 대응",
+    "어느새 통신 대응"
   ],
   "languages": [
     "en"

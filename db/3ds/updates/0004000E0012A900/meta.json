@@ -3,14 +3,14 @@
   "uid": "50010000027955",
   "name": "LEGO® BATMAN™ 3:\nJenseits von Gotham - Update",
   "formal_name": "LEGO® BATMAN™ 3:\nJenseits von Gotham - Update",
-  "description": "Dieses neue Update enthält eine\nReihe von Erneuerungen, die den\nSpielspaß erweitern.",
+  "description": null,
   "release_date_on_eshop": "2014-11-14",
   "product_code": "CTR-U-BTMZ",
   "platform_name": "Update-Daten",
   "region": "EU",
   "genres": [
-    "Update-Daten",
-    "Andere"
+    "Updates",
+    "Other"
   ],
   "features": [
     "Displays 3D Visuals"
@@ -31,7 +31,7 @@
     "age": "7"
   },
   "version": "v1.1.0",
-  "disclaimer": "Dies ist das Update für die deutsche Version.",
+  "disclaimer": null,
   "descriptors": [
     "Cartoon Violence"
   ],

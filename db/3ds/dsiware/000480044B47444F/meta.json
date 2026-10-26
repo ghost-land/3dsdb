@@ -3,8 +3,8 @@
   "uid": "50010000003541",
   "name": "Game & Watch™\nDonkey Kong Jr.",
   "formal_name": "Game & Watch™\nDonkey Kong Jr.",
-  "description": "Experience a piece of Nintendo history with the Game & Watch series for Nintendo DSiWare. Each title is a perfect recreation of a classic LCD game from the early 1980s, including normal Game A and alternate Game B modes.<br>\n<br>\nAnd no Game & Watch title would be complete without the \"Watch\" function - each title includes a fully functional clock.<br>\n<br>\nIn Donkey Kong Jr., the great ape has been captured by Mario. As DK’s son, you must rescue your father by collecting keys to unlock his cage. Jump and climb, dodge crocodiles and birds, and make a well-timed leap to reach the swinging key. In Game B, enemies move faster, and the time Donkey Kong Jr. can hang onto vines is shorter.",
-  "release_date_on_eshop": "2013-04-10",
+  "description": "Nintendo first began releasing the Game & Watch series in 1980. This collection of games was available on portable LCD devices, and each title featured a game and a clock. Each Game & Watch title features two modes of play: GAME A (normal difficulty) and GAME B (more advanced play). While some controls have been changed in the DSiWare version to better suit the Nintendo DSi system, the appearance of the game itself has not been altered.\n\nDonkey Kong is trapped! It’s up to Donkey Kong Jr. to snag the key and set his father free from Mario’s cage. Help Donkey Kong Jr. avoid crows and alligators as he swings his way to victory! Earn points by unlocking the cage, hitting crows and alligators with pieces of food, or jumping over alligators. Receive mistake icons by running into crows and alligators or missing a jump for the key; receive three mistake icons, and it’s game over!",
+  "release_date_on_eshop": "2010-04-19",
   "product_code": "TWL-N-KGDO",
   "platform_name": "Nintendo DSiWare",
   "region": "US",
@@ -16,8 +16,8 @@
     "en"
   ],
   "rating_system": {
-    "name": "PEGI",
-    "age": "3"
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "v0.0.0",
   "disclaimer": null,

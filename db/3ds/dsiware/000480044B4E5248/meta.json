@@ -9,7 +9,7 @@
   "platform_name": "Nintendo DSiWare",
   "region": "NL",
   "genres": [
-    "Other"
+    "Anders"
   ],
   "features": [],
   "languages": [
@@ -22,7 +22,7 @@
     "age": "3"
   },
   "version": "v0.0.0",
-  "disclaimer": "This game includes some content from \nBrain Age and Brain Age 2 previously released for Nintendo DS.",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "Nintendo"
 }

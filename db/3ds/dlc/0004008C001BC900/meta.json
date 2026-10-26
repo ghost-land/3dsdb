@@ -9,13 +9,13 @@
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "TW",
   "genres": [
-    "RPG",
-    "Strategy",
-    "Adventure"
+    "角色扮演",
+    "策略",
+    "冒險"
   ],
   "features": [
-    "Supports StreetPass",
-    "Supports SpotPass",
+    "對應瞬間交錯通訊",
+    "對應悄悄通訊",
     "Nintendo Network",
     "amiibo"
   ],

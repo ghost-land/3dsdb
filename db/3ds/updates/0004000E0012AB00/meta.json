@@ -13,7 +13,7 @@
     "Otros"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "Con imágenes 3D"
   ],
   "languages": [
     "ja",
@@ -31,10 +31,8 @@
     "age": "7"
   },
   "version": "v1.1.0",
-  "disclaimer": "Dies ist das Update für die deutsche Version.",
-  "descriptors": [
-    "Cartoon Violence"
-  ],
+  "disclaimer": null,
+  "descriptors": [],
   "publisher": "WB Games Inc.",
   "smdh": {
     "flags": [

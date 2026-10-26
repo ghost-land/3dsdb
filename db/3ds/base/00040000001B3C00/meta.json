@@ -24,9 +24,7 @@
   },
   "version": "v0.1.0",
   "disclaimer": "このソフトウェアをダウンロードするには、現在の SD カードを、十分な空き容量のある互換性のある SDHC カードまたは microSDHC カードにアップグレードする必要がある場合があります。<br>ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
-  "descriptors": [
-    "Fantasy Violence"
-  ],
+  "descriptors": [],
   "publisher": "Joyfull Table Inc.",
   "smdh": {
     "flags": [

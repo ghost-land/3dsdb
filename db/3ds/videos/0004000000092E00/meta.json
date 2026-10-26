@@ -9,13 +9,13 @@
   "platform_name": "Nintendo 3DS Retail Only",
   "region": "JP",
   "genres": [
-    "RPG",
-    "Action",
+    "ロールプレイング",
+    "アクション",
     "Multiplayer"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports StreetPass"
+    "3D映像対応",
+    "すれちがい通信対応"
   ],
   "languages": [
     "en",

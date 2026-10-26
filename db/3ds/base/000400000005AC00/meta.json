@@ -23,9 +23,7 @@
   },
   "version": "v0.2.0",
   "disclaimer": "ニンテンドー3DS本体の歩数計機能に対応しています。",
-  "descriptors": [
-    "Violence"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

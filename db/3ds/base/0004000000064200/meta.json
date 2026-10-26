@@ -23,9 +23,7 @@
   },
   "version": "v0.2.0",
   "disclaimer": "サークルパッドプロに対応<br><br>このソフトウェアをダウンロードするには、追加の互換性のある SD カードまたは空き容量のある SDHC カードが必要になる場合があります。ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
-  "descriptors": [
-    "No Descriptors"
-  ],
+  "descriptors": [],
   "publisher": "Jupiter",
   "smdh": {
     "flags": [

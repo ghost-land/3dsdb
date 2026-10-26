@@ -94,6 +94,8 @@ db/3ds/:category/:tid/meta.json
 }
 ```
 
+`release_date_on_eshop` is the release date the region's Nintendo eShop lists for the title (Nintendo's own store data for that region).
+
 `region` in `meta.json` = SKU / locale code (`JP`, `US`, `EU`, `FR`, `DE`, `GB`, …) or `FREE` (region-free / homebrew). `EU` is the generic PAL market; country-specific SKUs use `FR` / `DE` / … when applicable. Languages stay ISO-639 (`ja`, `en`).
 
 Title catalog (`data/title_catalog.json`, via `utils/build_title_catalog.py`):

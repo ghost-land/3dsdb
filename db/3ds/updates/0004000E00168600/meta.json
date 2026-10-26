@@ -12,11 +12,11 @@
     "更新資料"
   ],
   "features": [
-    "Supports Online Play",
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass",
-    "Supports SpotPass",
+    "對應網路",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
+    "對應悄悄通訊",
     "Nintendo Network"
   ],
   "languages": [
@@ -28,13 +28,8 @@
     "age": "18"
   },
   "version": "v34.16.0",
-  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
-  "descriptors": [
-    "Cartoon Violence",
-    "Comic Mischief",
-    "Suggestive Themes",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "disclaimer": null,
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

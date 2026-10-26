@@ -13,7 +13,7 @@
     "Altro"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "Visualizzazione effetti visivi 3D"
   ],
   "languages": [
     "ja",
@@ -32,9 +32,7 @@
   },
   "version": "v1.1.0",
   "disclaimer": "Questo aggiornamento è per la versione italiana del gioco.",
-  "descriptors": [
-    "Cartoon Violence"
-  ],
+  "descriptors": [],
   "publisher": "WB Games Inc.",
   "smdh": {
     "flags": [

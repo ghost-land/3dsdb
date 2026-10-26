@@ -24,11 +24,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトはNew ニンテンドー3DSにのみ対応しています。\n<br>本ソフトは3D表示に対応しておりません。",
-  "descriptors": [
-    "Blood and Gore",
-    "Crude Humor",
-    "Violence"
-  ],
+  "descriptors": [],
   "publisher": "Pikii",
   "smdh": {
     "flags": [

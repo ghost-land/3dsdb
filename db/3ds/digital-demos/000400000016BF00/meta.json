@@ -13,7 +13,7 @@
     "RPG"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "3D 영상 대응"
   ],
   "languages": [
     "ko"
@@ -23,11 +23,8 @@
     "age": "0"
   },
   "version": "v0.0.0",
-  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": [
-    "Mild Fantasy Violence",
-    "Mild Suggestive Themes"
-  ],
+  "disclaimer": null,
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

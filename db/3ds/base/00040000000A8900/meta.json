@@ -9,12 +9,12 @@
   "platform_name": "Nintendo 3DS (tarjeta/descarga)",
   "region": "ES",
   "genres": [
-    "rompecabezas",
-    "aventuras"
+    "Puzle",
+    "Aventura"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports SpotPass",
+    "Con imágenes 3D",
+    "Compatible con SpotPass",
     "Nintendo Network"
   ],
   "languages": [
@@ -26,9 +26,7 @@
   },
   "version": "v0.1.0",
   "disclaimer": "Utilice controles parentales para restringir el modo 3D para niños menores de 6 años.<br><br>Debido al gran tamaño del juego, descargar la versión digital de este título puede llevar más tiempo que otros juegos de Nintendo eShop. Al momento de la compra, puedes elegir entre \"Descargar ahora\", que comienza a descargar el juego inmediatamente, o \"Descargar más tarde\", que descarga el juego cuando tu sistema entra en \"modo de suspensión\".<br><br>Es posible que necesite una tarjeta SD compatible adicional o una tarjeta SDHC con espacio libre para descargar este software. Para obtener más información sobre las opciones de almacenamiento, visita support.nintendo.com. Se vende por separado.",
-  "descriptors": [
-    "Mild Violence"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

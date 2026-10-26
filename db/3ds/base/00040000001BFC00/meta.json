@@ -9,28 +9,24 @@
   "platform_name": "3DS 카드/다운로드 소프트웨어",
   "region": "JP",
   "genres": [
-    "액션",
-    "슈팅"
+    "アクション",
+    "シューティング"
   ],
   "features": [
-    "3D 영상 대응",
+    "3D映像対応",
     "amiibo",
-    "New 3DS대응"
+    "New 3DS対応"
   ],
   "languages": [
     "ja"
   ],
   "rating_system": {
-    "name": "GRB",
-    "age": "12"
+    "name": "CERO",
+    "age": "0"
   },
   "version": "v0.0.0",
   "disclaimer": "このゲームのサイズが大きいため、このタイトルのデジタル バージョンのダウンロードには、他の Nintendo eShop ゲームと比べて時間がかかる場合があります。購入時に、「今すぐダウンロード」を選択してゲームのダウンロードをすぐに開始するか、または<br>「後でダウンロード」を選択すると、システムが「スリープ モード」に入ったときにゲームをダウンロードします。<br><br>このソフトウェアをダウンロードするには、現在の SD カードを、十分な空き容量のある互換性のある SDHC カードまたは microSDHC カードにアップグレードする必要がある場合があります。<br>ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。",
-  "descriptors": [
-    "Animated Blood",
-    "Fantasy Violence",
-    "Mild Suggestive Themes"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

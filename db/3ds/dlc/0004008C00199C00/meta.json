@@ -9,19 +9,19 @@
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "TW",
   "genres": [
-    "RPG",
-    "Adventure",
-    "Action"
+    "角色扮演",
+    "冒險",
+    "動作"
   ],
   "features": [
-    "Supports Online Play",
-    "Online Play Only",
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass",
+    "對應網路",
+    "網路專用",
+    "對應3D影像",
+    "對應鄰近主機連線遊戲",
+    "對應瞬間交錯通訊",
     "Nintendo Network",
     "amiibo",
-    "Circle Pad Pro"
+    "擴充滑控鈕"
   ],
   "languages": [
     "en",

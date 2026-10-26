@@ -29,13 +29,7 @@
   },
   "version": "v0.1.0",
   "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [
-    "Blood",
-    "Fantasy Violence",
-    "Mild Language",
-    "Mild Suggestive Themes",
-    "Music Downloads Not Rated by the ESRB."
-  ],
+  "descriptors": [],
   "publisher": "SQUARE ENIX",
   "smdh": {
     "flags": [

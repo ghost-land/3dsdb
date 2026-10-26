@@ -27,14 +27,7 @@
   },
   "version": "v0.2.0",
   "disclaimer": "ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [
-    "Fantasy Violence",
-    "Mild Blood",
-    "Mild Language",
-    "Simulated Gambling",
-    "Suggestive Themes",
-    "Use of Alcohol"
-  ],
+  "descriptors": [],
   "publisher": "SQUARE ENIX",
   "smdh": {
     "flags": [

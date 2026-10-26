@@ -9,13 +9,13 @@
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "ES",
   "genres": [
-    "juego de rol",
-    "aventuras"
+    "Rol (RPG)",
+    "Aventura"
   ],
   "features": [
-    "Supports Online Play",
-    "Supports Local Play",
-    "Supports StreetPass",
+    "Compatible con el juego a través de internet",
+    "Compatible con el modo de juego local",
+    "Compatible con StreetPass",
     "Nintendo Network"
   ],
   "languages": [

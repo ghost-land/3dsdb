@@ -9,12 +9,12 @@
   "platform_name": "3DSカード/ダウンロードソフト",
   "region": "EU",
   "genres": [
-    "ロールプレイング"
+    "RPG"
   ],
   "features": [
-    "インターネット対応",
-    "3D映像対応",
-    "ローカルプレイ対応",
+    "Supports Online Play",
+    "Displays 3D Visuals",
+    "Supports Local Play",
     "Nintendo Network"
   ],
   "languages": [

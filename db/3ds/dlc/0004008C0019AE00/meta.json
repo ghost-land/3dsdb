@@ -10,15 +10,15 @@
   "region": "KR",
   "genres": [
     "RPG",
-    "Adventure",
-    "Strategy",
-    "Action"
+    "어드벤처",
+    "전략",
+    "액션"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass",
-    "Supports SpotPass",
+    "3D 영상 대응",
+    "로컬 플레이 대응",
+    "엇갈림 통신 대응",
+    "어느새 통신 대응",
     "Nintendo Network"
   ],
   "languages": [

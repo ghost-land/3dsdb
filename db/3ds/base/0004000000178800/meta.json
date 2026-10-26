@@ -28,11 +28,7 @@
   },
   "version": "v0.1.0",
   "disclaimer": "★amiiboについて\n<br>･ニンテンドー3DS/3DS LL/2DSでamiiboを使用するには、別売の周辺機器「ニンテンドー3DS NFCリーダー/ライター」が必要です。\n<br>･amiibo、ニンテンドー3DS NFCリーダー/ライターについてくわしくは任天堂ホームページをご確認ください。",
-  "descriptors": [
-    "Crude Humor",
-    "Mild Cartoon Violence",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

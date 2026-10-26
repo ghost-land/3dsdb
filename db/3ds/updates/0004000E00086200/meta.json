@@ -12,10 +12,10 @@
     "更新データ"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass",
-    "Supports SpotPass",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "いつの間に通信対応",
     "Mii",
     "amiibo"
   ],
@@ -28,10 +28,7 @@
   },
   "version": "v6.8.0",
   "disclaimer": "ニンテンドー3DSソフト『とびだせ どうぶつの森』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [
-    "Comic Mischief",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

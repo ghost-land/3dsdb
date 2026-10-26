@@ -13,7 +13,7 @@
     "Abenteuer"
   ],
   "features": [
-    "Displays 3D Visuals",
+    "3D-Darstellung wird verwendet",
     "SpotPass wird unterstützt",
     "Nintendo Network"
   ],
@@ -26,9 +26,7 @@
   },
   "version": "v0.1.0",
   "disclaimer": "Verwenden Sie die Kindersicherung, um den 3D-Modus für Kinder unter 6 Jahren einzuschränken.<br><br>Aufgrund der Größe des Spiels kann das Herunterladen der digitalen Version dieses Titels länger dauern als bei anderen Nintendo eShop-Spielen. Beim Kauf können Sie zwischen „Jetzt herunterladen“ wählen, wodurch der Download des Spiels sofort beginnt, oder „Später herunterladen“, wodurch das Spiel heruntergeladen wird, wenn Ihr System in den „Ruhemodus“ wechselt.<br><br>Zum Herunterladen dieser Software benötigen Sie möglicherweise eine zusätzliche kompatible SD-Karte oder SDHC-Karte mit freiem Speicherplatz. Weitere Informationen zu Speicheroptionen finden Sie unter support.nintendo.com. Separat erhältlich.",
-  "descriptors": [
-    "Mild Violence"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

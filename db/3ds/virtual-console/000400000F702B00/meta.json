@@ -23,9 +23,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "このソフトは、Newニンテンドー3DS/3DS LL専用ソフトです。\n<br>このソフトは、原作のゲーム内容を、通信機能･拡張機能を除いてニンテンドー3DS上で再現したものです。原作とは、動作や表現などが異なる場合があります。あらかじめご了承ください。",
-  "descriptors": [
-    "Fantasy Violence"
-  ],
+  "descriptors": [],
   "publisher": "KONAMI",
   "smdh": {
     "flags": [

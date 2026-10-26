@@ -12,10 +12,10 @@
     "更新データ"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass",
-    "Supports SpotPass",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
+    "いつの間に通信対応",
     "Nintendo Network"
   ],
   "languages": [
@@ -27,10 +27,7 @@
   },
   "version": "v2.5.0",
   "disclaimer": "ニンテンドー3DSソフト『妖怪ウォッチ』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [
-    "Comic Mischief",
-    "Mild Fantasy Violence"
-  ],
+  "descriptors": [],
   "publisher": "LEVEL-5 Inc.",
   "smdh": {
     "flags": [

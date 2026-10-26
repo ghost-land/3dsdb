@@ -12,8 +12,8 @@
     "更新データ"
   ],
   "features": [
-    "Displays 3D Visuals",
-    "Supports StreetPass",
+    "3D映像対応",
+    "すれちがい通信対応",
     "Nintendo Network"
   ],
   "languages": [
@@ -25,12 +25,7 @@
   },
   "version": "v2.2.0",
   "disclaimer": "ニンテンドー3DSソフト『新･世界樹の迷宮2 ファフニールの騎士』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [
-    "Alcohol Reference",
-    "Fantasy Violence",
-    "Mild Language",
-    "Partial Nudity"
-  ],
+  "descriptors": [],
   "publisher": "Atlus",
   "smdh": {
     "flags": [

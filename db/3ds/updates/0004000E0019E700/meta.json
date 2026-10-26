@@ -12,8 +12,8 @@
     "更新データ"
   ],
   "features": [
-    "Supports Online Play",
-    "Displays 3D Visuals",
+    "インターネット対応",
+    "3D映像対応",
     "Nintendo Network",
     "amiibo"
   ],
@@ -26,12 +26,7 @@
   },
   "version": "v2.3.0",
   "disclaimer": "ニンテンドー3DSソフト『蒼き雷霆 ガンヴォルト ストライカーパック』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [
-    "Fantasy Violence",
-    "Mild Blood",
-    "Mild Language",
-    "Mild Suggestive Themes"
-  ],
+  "descriptors": [],
   "publisher": "インティ・クリエイツ",
   "smdh": {
     "flags": [

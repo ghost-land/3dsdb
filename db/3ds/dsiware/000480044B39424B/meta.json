@@ -3,14 +3,14 @@
   "uid": "50010000001007",
   "name": "Jazzy Billieodeu",
   "formal_name": "Jazzy Billieodeu",
-  "description": "Challenge intelligent computers or even your friends to a traditional game of 9-ball while enjoying mind-soothing music with Jazzy Billiards. Take advantage of the intuitive stylus mechanic to aim and hit the cue ball with varying strength to sink the other balls. Defeat your opponents by being the first to sink the 9-ball. Jazzy Billiards' Stage Mode features 9 different stages, each with an opponent of ascending difficulty. Find out how many computers you can defeat in a row with Challenge Mode, or challenge your friends to a game of 9-ball in Versus Mode.",
+  "description": null,
   "release_date_on_eshop": "2010-01-11",
   "product_code": "TWL-N-K9BK",
   "platform_name": "Nintendo DSiWare",
   "region": "KR",
   "genres": [
-    "Sports",
-    "Simulation",
+    "스포츠",
+    "시뮬레이션",
     "Multiplayer"
   ],
   "features": [],
@@ -22,7 +22,7 @@
     "age": "6"
   },
   "version": "v0.0.0",
-  "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+  "disclaimer": null,
   "descriptors": [],
   "publisher": "Aksys Games"
 }

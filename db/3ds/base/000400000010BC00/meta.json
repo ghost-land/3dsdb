@@ -28,12 +28,7 @@
   },
   "version": "v0.3.0",
   "disclaimer": "ソフトの内容は2014年2月27日発売のパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [
-    "Alcohol Reference",
-    "Mild Suggestive Themes",
-    "Online Interactions Not Rated by the ESRB",
-    "Violent References"
-  ],
+  "descriptors": [],
   "publisher": "マーベラスＡＱＬ",
   "smdh": {
     "flags": [

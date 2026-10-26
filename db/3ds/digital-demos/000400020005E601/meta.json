@@ -25,10 +25,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "ソフトの内容は2014年2月13日発売のパッケージ版と同じです。\nデータ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
-  "descriptors": [
-    "Suggestive Themes",
-    "Alcohol Reference"
-  ],
+  "descriptors": [],
   "publisher": "ARTDINK",
   "smdh": {
     "flags": [

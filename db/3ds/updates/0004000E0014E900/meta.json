@@ -12,7 +12,7 @@
     "Otros"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "Con imágenes 3D"
   ],
   "languages": [
     "ja",
@@ -30,11 +30,8 @@
     "age": "7"
   },
   "version": "v1.1.0",
-  "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.",
-  "descriptors": [
-    "Cartoon Violence",
-    "Comic Mischief"
-  ],
+  "disclaimer": null,
+  "descriptors": [],
   "publisher": "WB Games Inc.",
   "smdh": {
     "flags": [

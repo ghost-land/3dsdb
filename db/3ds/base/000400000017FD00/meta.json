@@ -15,8 +15,8 @@
     "シミュレーション"
   ],
   "features": [
-    "Enhanced for New 3DS",
-    "Circle Pad Pro"
+    "New 3DS対応",
+    "3DS拡張スライドパッド"
   ],
   "languages": [
     "ja"
@@ -27,9 +27,7 @@
   },
   "version": "v0.3.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [
-    "Fantasy Violence"
-  ],
+  "descriptors": [],
   "publisher": "Mojang AB",
   "smdh": {
     "flags": [

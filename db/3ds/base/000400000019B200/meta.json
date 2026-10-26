@@ -27,13 +27,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "このソフトウェアをダウンロードするには、現在の SD カードを、十分な空き容量のある互換性のある SDHC カードまたは microSDHC カードにアップグレードする必要がある場合があります。<br>ストレージ オプションの詳細については、support.nintendo.com にアクセスしてください。別売りです。<br><br>amiibo™対応ゲーム（ソフトウェアアップデートが必要な場合があります）。 Wii U および New Nintendo 3DS™ XL システムには、amiibo サポートが組み込まれています。 Nintendo 3DS ファミリの他のシステムでは、周辺機器 (2015 年に発売、別売り) が必要です。 amiibo フィギュアの互換性と機能はゲームごとに異なる場合があります。各 amiibo の動作の詳細については、http://www.nintendo.com/amiibo/compatibility/ をご覧ください。アミーボは別売りです。",
-  "descriptors": [
-    "Fantasy Violence",
-    "Mild Blood",
-    "Mild Language",
-    "Mild Suggestive Themes",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "インティ・クリエイツ",
   "smdh": {
     "flags": [

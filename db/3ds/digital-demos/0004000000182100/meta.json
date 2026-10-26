@@ -27,10 +27,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "●ローカル（オフライン）プレイについて\n<br>本ソフトでは、3人集まってのローカルプレイが楽しめます。\n<br>※3人集まってのローカルプレイのみです。1人、2人ではゲームをプレイすることができません。\n<br>※ローカルプレイでお遊びいただくには、『試勇版』がダウンロードされているニンテンドー3DS本体が3台必要です。\n<br>※製品版と通信することはできません。",
-  "descriptors": [
-    "Mild Fantasy Violence",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

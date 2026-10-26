@@ -12,13 +12,13 @@
     "更新データ"
   ],
   "features": [
-    "Supports Online Play",
-    "Online Play Only",
-    "Displays 3D Visuals",
-    "Supports Local Play",
+    "インターネット対応",
+    "インターネット専用",
+    "3D映像対応",
+    "ローカルプレイ対応",
     "Nintendo Network",
     "amiibo",
-    "Circle Pad Pro"
+    "3DS拡張スライドパッド"
   ],
   "languages": [
     "ja"
@@ -29,10 +29,7 @@
   },
   "version": "v1.2.0",
   "disclaimer": "ニンテンドー3DSソフト『メトロイドプライム フェデレーションフォース』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [
-    "Fantasy Violence",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo",
   "smdh": {
     "flags": [

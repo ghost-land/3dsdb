@@ -3,14 +3,14 @@
   "uid": "50010000000941",
   "name": "Syutingseutom",
   "formal_name": "Syutingseutom",
-  "description": "Prepare for a high level of intensity as you pilot a solo ship deep into enemy space in this vertically scrolling shooter. Battle wave after wave of relentless attackers aiming to do one thing—destroy you! Your goal, beyond mere survival, is simple: get the highest score possible and earn bragging rights in online leaderboards.\n\nTwo powerful fighters are at your disposal: the Accipiter and Bateleur, tailored for beginner or expert players. Progress through eight phases of action and take out enemies by tactically using your weapons: an unlimited-fire blaster weapon available to both ships and an energy-consuming special weapon unique to each craft. Absorb energy cubes from destroyed enemies to replenish your energy gauge and increase your score. Collect a series of consecutive cubes to create a chain and boost your score even higher!\n\nChoose from pattern or random modes to vary the level of challenge, but the real indication of skill comes from competing with players around the world for the highest score possible. Use Nintendo Wi-Fi Connection to upload your score to the online leaderboards to see where you stack up or even view replays of top-ranking players’ games and study their secrets. Do you have what it takes to be the best?",
+  "description": null,
   "release_date_on_eshop": "2010-05-24",
   "product_code": "TWL-N-K59K",
   "platform_name": "Nintendo DSiWare",
   "region": "KR",
   "genres": [
-    "Ação",
-    "Tiro"
+    "액션",
+    "슈팅"
   ],
   "features": [
     "WIFI",
@@ -24,7 +24,7 @@
     "age": "6"
   },
   "version": "v0.0.0",
-  "disclaimer": "As of May 20, 2014, the Nintendo Wi-Fi Connection service for Nintendo DSi and Wii systems has been retired. Online features of this game are no longer available after this date but this game still provides an entertaining experience in offline mode. \n<br><br>\nTo learn more about this service change, please visit support.nintendo.com/servicesupdate.",
+  "disclaimer": null,
   "descriptors": [
     "Fantasy Violence"
   ],

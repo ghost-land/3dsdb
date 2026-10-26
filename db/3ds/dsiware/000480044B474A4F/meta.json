@@ -3,8 +3,8 @@
   "uid": "50010000003621",
   "name": "Game & Watch™\nJudge",
   "formal_name": "Game & Watch™\nJudge",
-  "description": "Experience a piece of Nintendo history with the Game & Watch series for Nintendo DSiWare. Each title is a perfect recreation of a classic LCD game from the early 1980s, including normal Game A and alternate Game B modes.<br>\n<br>\nAnd no Game & Watch title would be complete without the ‘Watch’ function - each title includes a fully functional clock.<br>\n<br>\nJudge is a game of quick reactions, starring the character that would later become known as Mr Game & Watch. Two characters hold signs, on which numbers appear after a countdown. The player with the higher number can hit the opponent, but the opponent can also dodge. Each player can also try to attack before the countdown ends, risking that they may have a lower number. Game A pits you against the computer while Game B lets you play against a friend.",
-  "release_date_on_eshop": "2013-04-10",
+  "description": "Nintendo first began releasing the Game & Watch series in 1980. This collection of games was available on portable LCD devices, and each title featured a game and a clock. Each Game & Watch title features two modes of play: GAME A (one player) and GAME B (two players). While some controls have been changed in the DSiWare version to better suit the Nintendo DSi system, the appearance of the game itself has not been altered.\n\nYou have a split second to decide: whack your opponent, or duck out of the way? Numbers appear on two large signs. If you think your number will be as big or bigger than your opponent’s, whack him with a mallet! Dodge if you think your number will be smaller. Earn points based on correctly whacking your opponent or dodging an attack; the first to reach 99 points wins!",
+  "release_date_on_eshop": "2010-03-22",
   "product_code": "TWL-N-KGJO",
   "platform_name": "Nintendo DSiWare",
   "region": "US",
@@ -16,8 +16,8 @@
     "en"
   ],
   "rating_system": {
-    "name": "PEGI",
-    "age": "3"
+    "name": "ESRB",
+    "age": "6"
   },
   "version": "v0.0.0",
   "disclaimer": null,

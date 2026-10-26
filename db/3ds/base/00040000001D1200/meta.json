@@ -12,7 +12,7 @@
     "アクション"
   ],
   "features": [
-    "Supports StreetPass",
+    "すれちがい通信対応",
     "amiibo"
   ],
   "languages": [
@@ -24,8 +24,6 @@
   },
   "version": "v0.0.0",
   "disclaimer": "●本ソフトは3D表示に対応しておりません。",
-  "descriptors": [
-    "Mild Cartoon Violence"
-  ],
+  "descriptors": [],
   "publisher": "Nintendo"
 }

@@ -13,7 +13,7 @@
     "Avventura"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "Visualizzazione effetti visivi 3D"
   ],
   "languages": [
     "en",
@@ -29,9 +29,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "*Il gioco contiene\nVoce fuori campo in inglese.",
-  "descriptors": [
-    "Mild animated violence"
-  ],
+  "descriptors": [],
   "publisher": "WB Games Inc.",
   "smdh": {
     "flags": [

@@ -12,7 +12,7 @@
     "パズル"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "3D映像対応"
   ],
   "languages": [
     "ja"
@@ -23,9 +23,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "本ソフトは3D表示に対応しておりません。",
-  "descriptors": [
-    "No Descriptors"
-  ],
+  "descriptors": [],
   "publisher": "Arc System Works",
   "smdh": {
     "flags": [

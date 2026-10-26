@@ -14,7 +14,7 @@
     "アドベンチャー"
   ],
   "features": [
-    "Supports DS Download Play"
+    "DSダウンロードプレイ対応"
   ],
   "languages": [
     "ja"
@@ -25,8 +25,6 @@
   },
   "version": "v0.1.0",
   "disclaimer": null,
-  "descriptors": [
-    "Mild Suggestive Themes"
-  ],
+  "descriptors": [],
   "publisher": "WayForward"
 }

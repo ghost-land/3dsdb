@@ -12,10 +12,10 @@
     "更新データ"
   ],
   "features": [
-    "Supports Online Play",
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass",
+    "インターネット対応",
+    "3D映像対応",
+    "ローカルプレイ対応",
+    "すれちがい通信対応",
     "Nintendo Network"
   ],
   "languages": [
@@ -27,12 +27,7 @@
   },
   "version": "v4.4.0",
   "disclaimer": "ニンテンドー3DSソフト『モンスターハンター4G』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。\n<br>「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
-  "descriptors": [
-    "Blood",
-    "Crude Humor",
-    "Fantasy Violence",
-    "Online Interactions Not Rated by the ESRB"
-  ],
+  "descriptors": [],
   "publisher": "CAPCOM",
   "smdh": {
     "flags": [

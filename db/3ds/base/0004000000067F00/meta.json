@@ -13,7 +13,7 @@
     "Aventure"
   ],
   "features": [
-    "Displays 3D Visuals"
+    "Affichage 3D"
   ],
   "languages": [
     "en",
@@ -25,11 +25,7 @@
   },
   "version": "v0.0.0",
   "disclaimer": "Veuillez utiliser le contrôle parental pour restreindre l'accès à la 3D aux enfants de 6 ans et moins.",
-  "descriptors": [
-    "Mild Language",
-    "Mild Violence",
-    "Suggestive Themes"
-  ],
+  "descriptors": [],
   "publisher": "Activision",
   "smdh": {
     "flags": [

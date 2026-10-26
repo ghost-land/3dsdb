@@ -9,15 +9,15 @@
   "platform_name": "Nintendo 3DS Retail/Download",
   "region": "KR",
   "genres": [
-    "Action",
-    "Adventure"
+    "액션",
+    "어드벤처"
   ],
   "features": [
-    "Supports Online Play",
-    "Displays 3D Visuals",
-    "Supports Local Play",
-    "Supports StreetPass",
-    "Supports SpotPass",
+    "인터넷 대응",
+    "3D 영상 대응",
+    "로컬 플레이 대응",
+    "엇갈림 통신 대응",
+    "어느새 통신 대응",
     "Nintendo Network"
   ],
   "languages": [
