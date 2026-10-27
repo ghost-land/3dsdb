@@ -1,0 +1,43 @@
+{
+    "tid": "0004000003DF1000",
+    "uid": "",
+    "name": "3hs - hShop 3DS Client",
+    "formal_name": "3hs - hShop 3DS Client",
+    "description": "Browse the catalog and install titles straight on your Nintendo 3DS™.\n<br><br>\n3hs is an on-device client for hShop. Pick a category, add titles to a queue, and download without QR codes or extra files. Installs can keep going with the lid closed, resume if the connection drops, and automatically fetch missing updates, DLC, and seeds.\n<br><br>\nSort any list with L and R. Search by name, Title ID, unique ID, or product code. Preview themes, play music in the app, and switch languages without restarting. 3hs can also manage locale emulation and unpack installer applications so you can add several items at once.\n<br><br>\n• Theming and music support<br>\n• Queue and sleep-mode installs<br>\n• Automatic seed import<br>\n• Search by Title ID, unique ID, or product code<br>\n• Dozens of interface languages\n<br><br>\n3hs is free and open source. Custom firmware is required.",
+    "release_date_on_eshop": "2022-05-27",
+    "product_code": "CTR-N-3HSA",
+    "platform_name": "Homebrew",
+    "region": "FREE",
+    "genres": [
+        "System Tool"
+    ],
+    "features": [],
+    "languages": [
+        "en",
+        "ja",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "zh",
+        "ru",
+        "ko",
+        "pl",
+        "hu",
+        "lv",
+        "el",
+        "ro",
+        "ca",
+        "uk"
+    ],
+    "rating_system": {
+        "name": "",
+        "age": ""
+    },
+    "version": "v1.5.11",
+    "disclaimer": null,
+    "descriptors": [],
+    "publisher": "hShop"
+}
